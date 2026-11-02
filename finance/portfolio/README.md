@@ -32,6 +32,14 @@ se escribe en un documento aparte con su propia fecha.
   además retención en origen, así que el coste real de un dividendo es doble. Aplica a búsquedas futuras
   y es motivo de descarte escrito, no criterio implícito.
 
+## Revisión
+
+- `termometro-datos.json` guarda las medidas del día (inflación, €STR, TIR de la RF, spreads y PER).
+- `python3 tools/termometro.py` calcula los derivados, comprueba los umbrales del §10 y saca la tabla
+  de caída y retorno para cada nivel de RV. No decide.
+- La revisión trimestral se escribe con la skill `revision-cartera` y se guarda como
+  `revision-YYYY-QN.md` en esta carpeta; el % de RV lo decide el dueño.
+
 ## Estado a 02/11/2026
 
 - **MyInvestor:** propuesta cerrada al 50,0% de RV / 50,0% de RF, 0,655% de TER, 11 órdenes en tres

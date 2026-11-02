@@ -20,6 +20,7 @@ cartera, añade `finance/portfolio/README.md` como cuarto paso.
 | Agentes de IA, LLMs, Claude | `ai/la-pizarra-de-andres/` | `summary.md` del vídeo |
 | Nombre de una persona, canal o entidad | `reference/glossary.md` | Tabla de ponentes |
 | Terminología (IA o finanzas) | `reference/glossary-technical.md` | — |
+| Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §10 → `python3 tools/termometro.py` |
 
 Las dos carteras son independientes: no se suman, ni se comparan, ni se rebalancea una contra la otra.
 
@@ -44,8 +45,10 @@ Nombres de carpeta, frontmatter YAML y comandos: `README.md`.
 - `ingest-meeting` — llega una transcripción y falta `summary.md`. Define las secciones del resumen.
 - `ingest-channel` — "los últimos N vídeos de un canal" o un informe de canal.
 - `ingest-webinars` — webinars o entrevistas de MyInvestor (lista el catálogo y salta lo ya ingerido).
+- `revision-cartera` — revisión trimestral: mide las señales, corre el termómetro y escribe la
+  revisión. No decide el % de RV.
 
-Las tres escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutilizan `ingest-meeting`.
+Las tres primeras escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutilizan `ingest-meeting`.
 
 ## 4. Más detalle
 
@@ -55,3 +58,64 @@ Las tres escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutilizan `ing
 | `INDEX.md` | Todos los artefactos, con ruta, tipo, categoría, fecha, título y tags |
 | `finance/portfolio/README.md` | Las dos carteras y sus reglas; cada subcarpeta tiene su propio `README.md` |
 | `ytpipe/README.md` | Formato de `transcript.json` y opciones del CLI |
+
+## 5. Definición de hecho
+
+Ningún trabajo está terminado hasta que estas cuatro cosas pasan, en este orden:
+
+```bash
+python3 tools/build_index.py     # 1. índice regenerado
+python3 tools/verify.py          # 2. contenido válido (carpetas, resúmenes, frontmatter, catálogo)
+git add -A && git commit -m "…"  # 3. commit en imperativo
+git push                         # 4. subido
+python3 tools/verify.py --git    # árbol limpio y nada sin subir
+```
+
+- Si `verify.py` da error, **no se sube**: se arregla o se deja escrito qué falta.
+- Los avisos (⚠️) no bloquean: un `summary.md` sin `transcript.json` es una transcripción pegada.
+- `INDEX.md` y `catalogo.md` son generados: nunca se resuelven a mano, se regeneran.
+
+## 6. Reparto local / agente cloud
+
+El agente cloud corre 24/7 sobre estos repositorios; esta máquina hace lo que necesita
+credenciales, dispositivo o juicio del dueño.
+
+| Trabajo | Dónde | Motivo |
+| --- | --- | --- |
+| Ingesta de vídeos, webinars, resúmenes, informes de canal, `INDEX.md` | **Cloud** | No pregunta nada, no usa credenciales, es append-only |
+| Código de `brisadeconil`, `tinytasste`, `food-recipes-database` | **Cloud** (rama + PR) | El merge a `main` se queda en local |
+| Firma Android, Play Console, keystore, emulador, Firebase SA | **Local** | Credenciales y hardware |
+| Revisión de cartera, termómetro, órdenes | **Local** | MCP de datos + decisión del dueño |
+| Merge a `main` de repos de código | **Local** | Gate humano |
+
+**Excepción de este repositorio:** es datos y documentación, no código desplegable, así que el
+agente cloud **empuja directo a `main`**. El resto de repos van por rama y PR.
+
+### Runbook de ingesta continua (agente cloud)
+
+Se ejecuta en cada pasada, sin preguntar nada. Si algo no cuadra, para y deja el reporte.
+
+1. **Sincroniza primero.** `git pull --rebase`. Si falla, para: hay trabajo local sin subir.
+2. **Lista lo nuevo.** Canal: `yt-dlp --flat-playlist --playlist-end 5 --print "%(id)s\t%(title)s" "<canal>/videos"`.
+   Webinars: `python3 tools/myinvestor_webinars.py pendientes`.
+3. **Descarta lo ingerido.** Compara con `source.video_id` de cada `<categoria>/*/*/transcript.json`.
+   Nunca uses `--force` y nunca reescribas un `transcript.json`.
+4. **Procesa 1-3 piezas por pasada, en serie.** YouTube responde 429 en paralelo.
+   `uv run --project ytpipe ytpipe fetch <url> --out <categoria>/<fuente> --slug "<tema>" --no-open`
+5. **Resume** con `.agents/skills/ingest-meeting/`. Cifras solo de la transcripción; sin hablante
+   etiquetado, `inferida` o `no atribuible con certeza`. Webinars: añade las dos secciones de
+   `ingest-webinars`.
+6. **Cierra:** `python3 tools/myinvestor_webinars.py catalogo` (solo si tocaste webinars) →
+   `python3 tools/build_index.py` → `python3 tools/verify.py`.
+7. **Sube:** commit y `git push`. Si el push se rechaza, `git pull --rebase` y repite. Un conflicto
+   en `INDEX.md` o `catalogo.md` se resuelve regenerándolos, nunca a mano.
+8. **Reporta en 5 líneas:** ingeridos, saltados (y por qué), fallos (`no subtitle available`, 429),
+   pendientes que quedan y el hash subido.
+
+Límites: nada de cartera desde el cloud; nada de merge a `main` en repos de código; una pieza sin
+subtítulos se salta y se reporta, no se resume de memoria.
+
+## 7. Cuándo una señal de cartera obliga a revisar
+
+El termómetro avisa; la decisión es del dueño. Los umbrales están en `propuesta-actual.md` §10 y los
+calcula `python3 tools/termometro.py`. La revisión se escribe con la skill `revision-cartera`.

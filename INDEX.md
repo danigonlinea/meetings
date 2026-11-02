@@ -29,6 +29,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/la-pizarra-de-andres/2026-10-16-quieres-invertir-mejor-respondo-las-preguntas-mas-importantes/summary.md` | meeting-summary | finance | 2026-10-16 | La Pizarra de Andrés: respuestas a las preguntas más importantes sobre inversión | [finance, meeting, transcript] |
 | `ai/la-pizarra-de-andres/2026-10-15-da-miedo-pero-la-ia-puede-solucionar-la-economia-juan/summary.md` | meeting-summary | ai | 2026-10-15 | La Pizarra de Andrés: "Da miedo, pero la IA puede solucionar la economía" (Juan | [ai, meeting, transcript] |
 | `ai/la-pizarra-de-andres/2026-10-15-anthropic-engineers-ai-agents-claude-opus/summary.md` | meeting-summary | ai | 2026-10-15 | Ingenieros de Anthropic: cómo se construyen los agentes de IA con Claude | [ai, meeting, transcript] |
+| `ai/la-pizarra-de-andres/2026-10-15-anthropic-engineers-ai-agents-claude-opus/informe-agentes-autonomos.md` | synthesis | ai | 2026-10-15 | Cómo se montan agentes autónomos que entregan trabajo (Claude Managed Agents) | [ai, agentes, anthropic, harness, managed-agents] |
 | `finance/la-pizarra-de-andres/2026-10-13-este-fondo-de-mercados-emergentes-es-mejor-que-el-indexado/summary.md` | meeting-summary | finance | 2026-10-13 | La Pizarra de Andrés: Robeco Emerging Markets frente al indexado de emergentes | [finance, meeting, transcript] |
 | `reference/glossary.md` | reference | cross | 2026-10-11 | Glosario | [glosario, terminologia] |
 | `reference/glossary-technical.md` | reference | cross | 2026-10-11 | Glosario técnico | [glosario, terminologia] |
@@ -38,6 +39,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/la-pizarra-de-andres/2026-10-07-javier-andres-vivienda-espana-y-reino-unido/summary.md` | meeting-summary | finance | 2026-10-07 | Encuentro: Javier y Andrés — vivienda en España y Reino Unido | [finance, meeting, transcript] |
 | `finance/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [finance, meeting, transcript] |
 
-**Total de artefactos indexados:** 32
+**Total de artefactos indexados:** 33
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

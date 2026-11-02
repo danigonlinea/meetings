@@ -1,3 +1,13 @@
+---
+title: "Cómo se montan agentes autónomos que entregan trabajo (Claude Managed Agents)"
+date: 2026-10-15
+type: synthesis
+category: ai
+tags: [ai, agentes, anthropic, harness, managed-agents]
+status: final
+related: [ai/la-pizarra-de-andres/2026-10-15-anthropic-engineers-ai-agents-claude-opus/summary.md]
+---
+
 # Cómo se montan agentes autónomos que entregan trabajo en Claude
 
 **Alcance.** Este informe sale del vídeo `invest-dev-docs-explained-anthropic-engineers-ai-agents-claude-opus.txt`, del canal Dev Docs Explained. La reunión dura 1 hora 34 minutos 46 segundos. Dos ingenieros de Anthropic explican Claude Managed Agents, un producto gestionado para correr agents en la nube. La charla cubre la arquitectura del harness, la separación de cerebro y manos, las credenciales, la memoria, las skills, los outcomes, el modo dreaming, los despliegues y las evaluaciones. La segunda mitad es un taller con un desk de research y una ronda larga de preguntas. La pista es automática, en inglés, sin etiquetas de hablante.

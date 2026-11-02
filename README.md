@@ -22,7 +22,7 @@ ai/                             IA
   la-pizarra-de-andres/         vídeos de IA del mismo canal
   reports/                      se crea con el primer informe de IA
 reference/                      glosario de ponentes y nombres, glosario técnico
-tools/                          catálogo de webinars, generador de INDEX.md
+tools/                          catálogo de webinars, generador de INDEX.md, verificación y termómetro
 ytpipe/                         CLI que descarga la transcripción de YouTube
 .agents/skills/                 skills del agente
 AGENTS.md · INDEX.md            enrutado · índice generado de artefactos
@@ -65,7 +65,7 @@ Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpe
 ## Skills
 
 Las skills viven en `.agents/skills/` (`ingest-meeting`, `ingest-channel`,
-`ingest-webinars`); cuándo usar cada una, en `AGENTS.md`.
+`ingest-webinars`, `revision-cartera`); cuándo usar cada una, en `AGENTS.md`.
 
 ## Reports: qué es cada uno
 
@@ -100,6 +100,14 @@ python3 tools/myinvestor_webinars.py catalogo    # reescribe finance/myinvestor-
 
 # índice del repositorio
 python3 tools/build_index.py
+
+# definición de hecho: contenido (rápido) y además git
+python3 tools/verify.py
+python3 tools/verify.py --git     # exige árbol limpio y nada sin subir
+
+# termómetro de cartera (aritmética del §2 y umbrales del §10)
+python3 tools/termometro.py
+python3 tools/termometro.py --rv 45
 ```
 
 No descargar en paralelo: YouTube responde con HTTP 429.
