@@ -17,8 +17,11 @@ description: Usar cuando corra la revisión semanal de canales (cron del agente 
 
 ## Límites duros
 
-- **Máximo 3 piezas por ejecución** (1 del canal + 2 webinars, o 3 vídeos). En serie: YouTube
-  responde 429 en paralelo.
+- **Solo lo nuevo.** Se ingiere lo que devuelve `python3 tools/nuevos.py`: vídeos publicados
+  **desde** la última transcripción ingerida (misma fecha incluida, sin repetir por ID). El backlog
+  antiguo (140 webinars de 2023-2025) **no es nuevo** y no se toca en la pasada semanal; si el dueño
+  quiere cerrarlo, es un encargo aparte.
+- **Máximo 3 piezas por ejecución.** En serie: YouTube responde 429 en paralelo.
 - Nada de `--force`. Un `transcript.json` existente no se toca.
 - **No se edita `finance/portfolio/propuesta-actual.md` ni se dan órdenes.** El informe propone
   candidatos; la cartera la decide el dueño.
@@ -39,8 +42,11 @@ Si falla, para: hay trabajo local sin subir y el rebase lo pisaría.
 python3 tools/nuevos.py --canal 10
 ```
 
-Devuelve los IDs del canal que no están en ningún `transcript.json` y los webinars pendientes.
-Compara **siempre por ID**, nunca por título.
+Devuelve solo lo publicado **después de la última ingesta**, con fecha, id y enlace. Cortes:
+`la-pizarra-de-andres` y `myinvestor-webinars` por separado, así que un fallo de una fuente no
+arrastra a la otra. Compara por ID, nunca por título.
+
+Si devuelve "Sin novedades", escribe el informe con la sección 7 y termina: no busques más.
 
 ## Paso 3: Descarga, en serie
 
