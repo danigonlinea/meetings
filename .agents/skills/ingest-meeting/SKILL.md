@@ -11,7 +11,7 @@ Esta skill trabaja solo en este repositorio, el repositorio `investing-meetings`
 
 - Ruta de la skill: `.agents/skills/ingest-meeting/`.
 - Ruta de las carpetas de reunión: `<project-root>/<categoria>/<fuente>/YYYY-MM-DD-<topic-slug>/`.
-- La categoría vale `finance` o `ai`. La fuente es el canal o el programa del vídeo: `la-pizarra-de-andres`, `myinvestor-webinars`, `el-arte-de-invertir`. Ver `AGENTS.md`.
+- La categoría vale `finance` o `ai`. La fuente es el canal o el programa del vídeo: `la-pizarra-de-andres`, `myinvestor-webinars`, `el-arte-de-invertir`, `dev-docs-explained`.
 - Ruta de los informes y artefactos analíticos: `<project-root>/<categoria>/reports/` y, para la cartera personal, `<project-root>/finance/portfolio/`. Las auditorías de resúmenes también van en `reports/`, con `type: revision`.
 - Ruta de las referencias: `<project-root>/reference/`.
 - Todo artefacto `.md` lleva frontmatter YAML (title, date, type, category, tags, status). Ver `README.md` del repositorio.

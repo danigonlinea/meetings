@@ -5,7 +5,7 @@ type: synthesis
 category: ai
 tags: [ai, agentes, anthropic, harness, managed-agents]
 status: final
-related: [ai/la-pizarra-de-andres/2026-10-15-anthropic-engineers-ai-agents-claude-opus/summary.md]
+related: [ai/dev-docs-explained/2026-10-15-anthropic-engineers-ai-agents-claude-opus/summary.md]
 ---
 
 # Cómo se montan agentes autónomos que entregan trabajo en Claude

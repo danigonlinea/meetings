@@ -89,7 +89,7 @@ uv run --project ytpipe ytpipe fetch <url> --out <categoria>/<fuente> --no-open
 
 Aplica estas reglas.
 
-- Cambia `<categoria>/<fuente>` por la combinación real: `finance/la-pizarra-de-andres`, `ai/la-pizarra-de-andres` o `finance/el-arte-de-invertir`.
+- Cambia `<categoria>/<fuente>` por la combinación real: `finance/la-pizarra-de-andres`, `finance/el-arte-de-invertir` o `ai/dev-docs-explained`.
 - Pasa siempre `--out` con la subcarpeta de la fuente. Sin esa opción, `ytpipe` escribe la carpeta en la raíz del repositorio, fuera de `finance/` y `ai/`.
 - No ejecutes las descargas en paralelo. YouTube responde con HTTP 429.
 - `ytpipe` ya reintenta después de un límite de peticiones.

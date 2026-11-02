@@ -19,7 +19,7 @@ finance/                        inversión y finanzas
     cartera-renta4/             Renta 4 Banco: 34.769 €
   reports/                      informes de canal, síntesis y auditorías (el `type` los distingue)
 ai/                             IA
-  la-pizarra-de-andres/         vídeos de IA del mismo canal
+  dev-docs-explained/           Dev Docs Explained (agentes, Claude, LLMs)
   reports/                      se crea con el primer informe de IA
 reference/                      glosario de ponentes y nombres, glosario técnico
 tools/                          catálogo de webinars, generador de INDEX.md, verificación y termómetro

@@ -17,7 +17,7 @@ cartera, añade `finance/portfolio/README.md` como cuarto paso.
 | Macro, tipos, inflación, renta fija, mercados | `finance/la-pizarra-de-andres/` | `summary.md` más reciente del tema |
 | Gestoras, entrevistas, "qué dice MyInvestor" | `finance/myinvestor-webinars/` | `catalogo.md` → carpeta del webinar → `summary.md` |
 | Visión consolidada o discrepancias entre vídeos | `finance/reports/` | `informe-canal-*` y `sintesis-inversor-*` |
-| Agentes de IA, LLMs, Claude | `ai/la-pizarra-de-andres/` | `summary.md` del vídeo |
+| Agentes de IA, LLMs, Claude | `ai/dev-docs-explained/` | `summary.md` del vídeo |
 | Nombre de una persona, canal o entidad | `reference/glossary.md` | Tabla de ponentes |
 | Terminología (IA o finanzas) | `reference/glossary-technical.md` | — |
 | Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §10 → `python3 tools/termometro.py` |
