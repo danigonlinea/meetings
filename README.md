@@ -13,8 +13,10 @@ finance/                        inversión y finanzas
   myinvestor-webinars/          webinars y entrevistas de MyInvestor
     catalogo.md                 catálogo generado de los 141 webinars y su estado
   el-arte-de-invertir/          canal El Arte de Invertir
-  portfolio/                    cartera personal: estado, diagnóstico y propuestas
-    README.md                   qué es cada fichero y cuál se puede editar
+  portfolio/                    dos carteras independientes (no se consolidan)
+    README.md                   mapa de las dos carpetas y reglas
+    cartera-myinvestor/         MyInvestor: 97.000 € (manual + Rock)
+    cartera-renta4/             Renta 4 Banco: 34.769 €
   reports/                      informes de canal, síntesis y auditorías (el `type` los distingue)
 ai/                             IA
   la-pizarra-de-andres/         vídeos de IA del mismo canal
@@ -47,7 +49,8 @@ Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpe
   date: YYYY-MM-DD
   type: meeting-summary | channel-report | synthesis | revision | portfolio-audit
       | portfolio-snapshot | portfolio-diagnosis | portfolio-proposal
-      | portfolio-analysis | portfolio-review | reference
+      | portfolio-analysis | portfolio-review | portfolio-research
+      | portfolio-alternative | reference
   category: ai | finance | cross
   tags: [ … ]
   status: draft | final | living
@@ -76,8 +79,10 @@ repite al otro.
 | `revision` | **Auditoría de resúmenes**: qué decía el resumen, qué dice la transcripción, qué se corrigió. | Tras una ingesta con revisión adversarial |
 
 En `finance/portfolio/` viven además los documentos de cartera (`portfolio-snapshot`,
-`portfolio-diagnosis`, `portfolio-analysis`, `portfolio-proposal`): cruzan las fuentes con las
-posiciones reales y caducan con la cartera, por eso no están en `reports/`.
+`portfolio-diagnosis`, `portfolio-analysis`, `portfolio-proposal`, `portfolio-research`,
+`portfolio-alternative`): cruzan las fuentes con las posiciones reales y caducan con la cartera, por eso
+no están en `reports/`. Los dos últimos son anexos de investigación: o se adoptan en la propuesta y se
+borran, o se descartan.
 
 **Regla:** un dato se escribe una vez. El acta recoge el hecho y la síntesis lo interpreta, pero
 no lo repite. Si dos documentos dicen lo mismo, sobra uno.

@@ -5,14 +5,20 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
-| `finance/portfolio/propuesta-investigacion.md` | portfolio-research | finance | 2026-11-02 | Propuesta de investigación — siete ideas con sentido de compra hoy | [cartera, investigacion, acciones, etfs, calidad, valor, activos-reales, lujo, semiconductores, reits, horizontes, myinvestor] |
-| `finance/portfolio/propuesta-alternativa.md` | portfolio-alternative | finance | 2026-11-01 | Propuesta alternativa — activos reales y dos fondos de calidad (10 fondos manuales) | [cartera, alternativa, activos-reales, reits, fundsmith, comgest, calidad, diversificacion, myinvestor, research] |
-| `finance/portfolio/propuesta-actual.md` | portfolio-proposal | finance | 2026-10-31 | Propuesta de cartera — 50% RV, dos value y small caps (97.000 €) | [cartera, propuesta, rebalanceo, rock, decision-por-contexto, myinvestor, traspasos, emergentes, value, small-caps] |
+| `finance/reports/revision-adversarial-2026-11-02.md` | revision | finance | 2026-11-02 | Revisión adversarial de las dos charlas del 30/10 y 01/11 y su utilidad para la cartera | [revision-adversarial, la-pizarra-de-andres, horos, renta-fija, cobas, tgs, rock, kaizen, verificacion] |
+| `finance/reports/informe-canal-la-pizarra-de-andres-2026-11-02.md` | channel-report | finance | 2026-11-02 | Informe de canal: La Pizarra de Andrés (2026-11-02) | [informe-canal, la-pizarra-de-andres, cartera-propia, horos, value, holdings, inteligencia-artificial, renta-fija] |
+| `finance/portfolio/cartera-renta4/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-02 | Cartera Renta 4 — auditoría y propuesta de mejora (Kaizen se queda) | [cartera, renta4, auditoria, rebalanceo, fondos, renta-fija, kaizen, traspasos] |
+| `finance/portfolio/cartera-renta4/cartera-actual.md` | portfolio-snapshot | finance | 2026-11-02 | Cartera Renta 4 — estado congelado a 02/11/2026 | [cartera, renta4, snapshot, congelado, fondos, renta-fija] |
+| `finance/portfolio/cartera-myinvestor/propuesta-investigacion.md` | portfolio-research | finance | 2026-11-02 | Propuesta de investigación — dos bloques de acumulación, sin acciones que repartan | [cartera, investigacion, calidad, activos-reales, reits, fundsmith, acumulacion, horizontes, myinvestor] |
+| `finance/portfolio/cartera-myinvestor/propuesta-alternativa.md` | portfolio-alternative | finance | 2026-11-01 | Propuesta alternativa — activos reales y dos fondos de calidad (10 fondos manuales) | [cartera, alternativa, activos-reales, reits, fundsmith, comgest, calidad, diversificacion, myinvestor, research] |
+| `finance/la-pizarra-de-andres/2026-11-01-estoy-perdiendo-dinero-con-mis-inversiones-resultados-octubre/summary.md` | meeting-summary | finance | 2026-11-01 | Estoy perdiendo dinero con mis inversiones: resultados de la cartera del canal en octubre | [cartera, resultados-mensuales, renta-variable, small-caps, china, cartera-meta, myinvestor, rotacion] |
+| `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-10-31 | Propuesta de cartera — 50% RV, dos value y small caps (97.000 €) | [cartera, propuesta, rebalanceo, rock, decision-por-contexto, myinvestor, traspasos, emergentes, value, small-caps] |
 | `finance/myinvestor-webinars/catalogo.md` | reference | finance | 2026-10-31 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `finance/reports/sintesis-inversor-2026-10-30.md` | synthesis | finance | 2026-10-30 | Síntesis para el inversor · La Pizarra de Andrés, 18-25 oct 2026 | [la-pizarra-de-andres, sintesis, inversion] |
 | `finance/reports/revision-adversarial-2026-10-30.md` | revision | finance | 2026-10-30 | Revisión adversarial de los 5 resúmenes (2026-10-30) | [la-pizarra-de-andres, revision-adversarial, verificacion] |
 | `finance/reports/informe-canal-la-pizarra-de-andres-2026-10-30.md` | channel-report | finance | 2026-10-30 | Informe del canal La Pizarra de Andrés (2026-10-30) | [la-pizarra-de-andres, youtube, mercados, inversion] |
-| `finance/portfolio/cartera-actual.md` | portfolio-snapshot | finance | 2026-10-30 | Cartera actual — estado congelado a 30/10/2026 | [cartera, snapshot, myinvestor, rock, congelado] |
+| `finance/portfolio/cartera-myinvestor/cartera-actual.md` | portfolio-snapshot | finance | 2026-10-30 | Cartera actual — estado congelado a 30/10/2026 | [cartera, snapshot, myinvestor, rock, congelado] |
+| `finance/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/summary.md` | meeting-summary | finance | 2026-10-30 | Las empresas que todos ignoran son las mejores inversiones: entrevista a Javier Ruiz (Horos) | [value, horos, holdings, francia, naspers, tencent, pluxee, tgs, paypal, exor, inteligencia-artificial, renta-fija] |
 | `finance/la-pizarra-de-andres/2026-10-25-la-renta-fija-puede-salvarnos-en-estos-momentos-abaco-capital/summary.md` | meeting-summary | finance | 2026-10-25 | La Pizarra de Andrés: renta fija, estanflación y la oportunidad que espera en el | [finance, meeting, transcript] |
 | `finance/la-pizarra-de-andres/2026-10-23-la-actualidad-de-los-mercados-financieros-refleja-un-elevado-riesgo/summary.md` | meeting-summary | finance | 2026-10-23 | La Pizarra de Andrés: la actualidad refleja un riesgo elevado | [finance, meeting, transcript] |
 | `finance/reports/auditoria-2026-10-22-gestor-renta-4.md` | revision | finance | 2026-10-22 | Auditoría adversarial del resumen de Renta 4 (2026-10-22) | [renta-4, revision] |
@@ -32,6 +38,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/la-pizarra-de-andres/2026-10-07-javier-andres-vivienda-espana-y-reino-unido/summary.md` | meeting-summary | finance | 2026-10-07 | Encuentro: Javier y Andrés — vivienda en España y Reino Unido | [finance, meeting, transcript] |
 | `finance/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [finance, meeting, transcript] |
 
-**Total de artefactos indexados:** 26
+**Total de artefactos indexados:** 32
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

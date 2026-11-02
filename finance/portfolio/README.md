@@ -1,61 +1,42 @@
 ---
-title: "Cartera: cómo funciona esta carpeta"
-date: 2026-11-01
+title: "Cartera: dos carteras independientes"
+date: 2026-11-02
 type: reference
 category: finance
-tags: [cartera, indice, proceso]
+tags: [cartera, indice, myinvestor, renta4]
 status: living
 ---
-# Cartera: cómo funciona esta carpeta
+# Cartera: dos carteras independientes
 
-La cartera personal, dentro de `finance/`. El resto de material financiero (vídeos, webinars,
-informes) está en las otras subcarpetas de `finance/`.
+Dos patrimonios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de una
+carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
+se escribe en un documento aparte con su propia fecha.
 
-## Dos documentos vivos… más dos anexos de investigación
-
-| Fichero | Rol | ¿Se edita? |
+| Carpeta | Qué es | Documentos |
 | --- | --- | --- |
-| `cartera-actual.md` | **Fotografía congelada** del estado real: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
-| `propuesta-actual.md` | **La cartera vigente**: modelo que decide el % de RV, cartera final con ISIN e importes, órdenes, métricas, coste de la decisión, ejecución, diagnóstico y qué se descarta | **Sí**, es el documento de trabajo |
-| `propuesta-alternativa.md` | **Anexo de investigación, no una cartera paralela**: dos carteras posibles sobre la vigente —mínima (REITs indexados al 0,17%, 5.000 €) y ampliada (10 fondos manuales: + Fundsmith 1,09% y Comgest Growth Europe 1,59%)— con pesos, financiación y ocho fuentes. Nace del barrido del catálogo MyInvestor del 01/11/2026 | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
-| `propuesta-investigacion.md` | **Anexo de investigación de acciones y ETFs**, no una cartera paralela: siete ideas priorizadas por horizonte (TTE, MSFT, ASML, LVMH, TRET, MUV2, IS3Q), con dos fuentes por activo, métricas, riesgos, señal de invalidación y una satélite de 9.000 € financiada con recortes de RV. Nace del encargo del 02/11/2026 | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
+| `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (50/50 vigente) + dos anexos de investigación |
+| `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 
-Los anexos existen porque el usuario pidió conservar la investigación con nombres, ISIN, TER y pesos; su
-ciclo de vida es corto a propósito: **o se incorporan a la propuesta, o se descartan y desaparecen**. Una
-tercera cartera permanente volvería a dejar dos documentos con dos cifras de la misma cartera.
+## Reglas
 
-El diagnóstico, el veredicto frente a las fuentes y las revisiones adversariales **no viven en
-ficheros aparte**: sus conclusiones están dentro de la propuesta (§2, §5, §7, §8) y el debate que las
-produjo, en el historial de git. Un documento por rol evita las dos verdades: la carpeta llegó a tener
-tres ficheros con cifras distintas de la misma cartera.
-
-## Estado a 31/10/2026
-
-- **Cartera:** 107.000 € totales = 10.000 € de colchón (Groupama, fuera de la cartera) + 97.000 €
-  invertibles (67.000 € manuales, con 7.000 € de aportación nueva, + 30.000 € en Rock).
-- **Situación de partida (90k):** 31,6% de renta variable, 68,4% de renta fija, 0,746% de TER y 17
-  posiciones.
-- **Propuesta (cerrada):** **50,0% de RV / 50,0% de RF**, 0,655% de TER y 17 posiciones. Emergentes al
-  10%, dos fondos value (5.000 + 5.000) y small caps en 3.700. Mueve 25.000 € por traspaso (0 € de
-  impuestos) + 7.000 € de aportación, en 11 órdenes y tres tandas. Caída esperada ≈ −21,5%.
-- **Pendiente antes de la primera orden:** los **gastos mensuales** (el colchón de 10.000 € nunca se
-  dimensionó contra un dato real) y confirmar que se aguanta el −21,5%. Comisiones verificadas el
-  31/10: 0,00% de reembolso en los cinco fondos que salen; entrada 0,00% salvo el Neuberger («hasta
-  3%», máx. 297 €). Falta ver en pantalla la comisión de la clase S de iShares EM.
-- **Decisión abierta (anexo del 01/11):** si se añade el bloque de activos reales de
-  `propuesta-alternativa.md` —iShares Developed Real Estate (IE00BDRK7P73, 0,17%)— y si la cartera se
-  queda en la **versión mínima** (5.000 €, 17 posiciones, 632 €/año) o pasa a la **ampliada** (10 fondos
-  manuales, con Fundsmith 3.000 € al 1,09% y Comgest Growth Europe 2.500 € al 1,59%; 19 posiciones,
-  662 €/año, USA 37,6% de la RV). Antes de ejecutarlo hay que verificar el reembolso de Vanguard
-  Small-Cap, Fidelity Europe, MyInvestor Value y Cobas, y la entrada de los tres fondos nuevos.
-- **Investigación abierta (02/11):** `propuesta-investigacion.md` propone una satélite de 9.000 € —TTE
-  2.000, MSFT 2.500, ASML 1.500, LVMH 1.500 y TRET 1.500— financiada con recortes de RV (small cap,
-  Europa large cap, value y emergentes), manteniendo el 50/50 y la RF intacta. No ejecutada; pendiente
-  de decidir si se adopta entera, la versión mínima de 3.000 € o ninguna.
-
-## Reglas de esta carpeta
-
-- Un dato se escribe una vez: la foto en `cartera-actual.md`, la decisión y su porqué en
-  `propuesta-actual.md`. Ningún fichero replica la tabla de posiciones del otro.
-- Toda propuesta se ejecuta por **traspaso** entre fondos armonizados, nunca por reembolso.
+- **Un dato, un sitio.** Los saldos viven en el `cartera-actual.md` de su carpeta; las decisiones, en
+  el `propuesta-actual.md` de esa misma carpeta.
+- **Nada se mueve de una carpeta a otra.** Un traspaso entre plataformas es un reembolso con peaje
+  fiscal; si se plantea, se documenta en las dos propuestas antes de ejecutarlo.
+- Cada carpeta ejecuta por **traspaso entre fondos armonizados** (0 € de impuestos), nunca por reembolso.
 - Nada se mueve sin verificar antes la clase del fondo y su coste real en la plataforma.
+- **Solo clases de acumulación.** Ningún fondo, ETF **ni acción** que reparta dividendos entra en la
+  cartera: al buscar vehículos nuevos se filtra `distributing = 0` en la ficha y se descarta el que
+  reparta, aunque sea la clase más barata o la única disponible. En un fondo se busca la clase «Acc»; en
+  un ETF, la que acumula; en una acción, que no retribuya al accionista. En acciones extranjeras hay
+  además retención en origen, así que el coste real de un dividendo es doble. Aplica a búsquedas futuras
+  y es motivo de descarte escrito, no criterio implícito.
+
+## Estado a 02/11/2026
+
+- **MyInvestor:** propuesta cerrada al 50,0% de RV / 50,0% de RF, 0,655% de TER, 11 órdenes en tres
+  tandas. Pendientes: gastos mensuales, aguantar el −21,5% y elegir anexo (los dos proponen ya los mismos
+  dos vehículos: Fundsmith y los REITs de iShares).
+- **Renta 4:** auditoría nueva. 15,3% de RV real, 0,83% de coste (287 €/año) y 65,7% del patrimonio en
+  bonos corporativos. Recomendación: **Kaizen se queda** y se recorta al 25%, con 3.618 € a un indexado
+  global (21,2% de RV, 0,76% de coste). Pendiente: confirmar el recorte y la clase del fondo de destino.

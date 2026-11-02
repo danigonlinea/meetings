@@ -5,7 +5,7 @@ type: portfolio-alternative
 category: finance
 tags: [cartera, alternativa, activos-reales, reits, fundsmith, comgest, calidad, diversificacion, myinvestor, research]
 status: research
-related: [finance/portfolio/propuesta-actual.md, finance/portfolio/cartera-actual.md]
+related: [finance/portfolio/cartera-myinvestor/propuesta-actual.md, finance/portfolio/cartera-myinvestor/cartera-actual.md]
 ---
 # Propuesta alternativa — activos reales + calidad · 01/11/2026
 
@@ -13,6 +13,25 @@ related: [finance/portfolio/propuesta-actual.md, finance/portfolio/cartera-actua
 > 97.000 €, 8 fondos manuales + Rock). Este anexo recoge dos rondas de búsqueda en el catálogo
 > MyInvestor (2.410 fondos) y una **cartera ampliada de 10 fondos manuales**. Si se adopta, sus
 > conclusiones pasan a `propuesta-actual.md` y este fichero **se borra** (`git rm`).
+>
+> **Incompatible con `propuesta-investigacion.md` (02/11/2026).** Los dos anexos se financian de los
+> mismos cuatro fondos: aquí salen 3.700 € del Vanguard Small-Cap (su saldo entero) y 3.000 € del
+> Fidelity Europe; allí salen 1.500 € del mismo small-cap y otros 1.500 € de Europa. Ejecutados juntos
+> pedirían 5.200 € de un fondo que solo tiene 3.700 €. **Se elige uno, no los dos.**
+>
+> **Regla de acumulación (02/11/2026): este anexo ya la cumplía, y se ha verificado ficha a ficha.** Los
+> diez vehículos citados (Fundsmith T Acc, Comgest Growth Europe Acc, iShares Developed Real Estate D Acc,
+> Vanguard Short-Term Corp Hedged Acc, iShares Euro IG Corporate D Acc, iShares Euro Gov D Acc, Amundi
+> Prime Euro Gov IE (C), Lazard Infra A Acc, DWS Infra LC, Fidelity MSCI Japan P Acc) dan
+> `distributing = 0`. **No sale ninguno.**
+>
+> **Consecuencia: los dos anexos han convergido.** `propuesta-investigacion.md` se reajustó el 02/11 con
+> la regla aplicada también a acciones (las cuatro ideas eran TTE 4,2 %, LVMH 3,4 %, MSFT 0,8 % y ASML
+> 0,5 % de dividendo) y ahora propone **los mismos dos vehículos que este anexo**: Fundsmith Acc al 1,09 %
+> y los REITs de iShares al 0,17 %, con 3.000 + 2.000 €. La diferencia es solo de pesos: aquí la calidad
+> pesa 5.500 € y los REITs 3.200 €; allí la calidad 3.000 € y los REITs 2.000 €. **Queda un solo anexo por
+> adoptar, no dos:** o esta cartera ampliada, o la versión mínima de aquí (REITs 5.000 €), o los 5.000 €
+> de la investigación.
 
 ## 1. Qué hueco cubre
 
@@ -129,9 +148,9 @@ fija**: carry y duración quedan intactos.
 ### 4.2 Versión mínima, si no se quiere tocar el value
 
 La primera ronda sola: **REITs 5.000 €** pagados con todo el small cap pasivo (3.700 €) y 1.300 € de
-Europa large cap. Deja **17 posiciones**, TER puro 0,598% (632 €/año con la comisión de éxito estimada),
-activos reales en el 5,2% de la cartera y USA en el 34,5% de la RV. Es la versión que menos discute con la
-propuesta vigente y la que yo elegiría si solo se aprueba un cambio.
+Europa large cap. Deja **17 posiciones**, **0,651% de TER con la comisión de éxito estimada (632 €/año;
+0,598% y 580 € sin ella)**, activos reales en el 5,2% de la cartera y USA en el 34,5% de la RV. Es la
+versión que menos discute con la propuesta vigente y la que yo elegiría si solo se aprueba un cambio.
 
 ## 5. Qué cambia y qué no
 

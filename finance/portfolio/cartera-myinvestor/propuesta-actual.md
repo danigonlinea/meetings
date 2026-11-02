@@ -5,7 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, propuesta, rebalanceo, rock, decision-por-contexto, myinvestor, traspasos, emergentes, value, small-caps]
 status: final
-related: [finance/portfolio/cartera-actual.md]
+related: [finance/portfolio/cartera-myinvestor/cartera-actual.md]
 ---
 # Propuesta de cartera — 50,0% RV · 31/10/2026
 
@@ -22,6 +22,10 @@ related: [finance/portfolio/cartera-actual.md]
 - Horizonte largo, inversor español, plataforma MyInvestor, sin necesidad de vender para gastos.
 - Todo se ejecuta por **traspaso entre fondos armonizados**: no tributa. Los 7.000 € nuevos entran
   como suscripción.
+- **Regla de acumulación (02/11/2026):** ningún fondo, ETF **ni acción** de la cartera reparte dividendos;
+  todas las clases son de acumulación. Verificado con el campo `distributing` de la ficha: los ocho fondos
+  manuales dan 0. Aplica también a cualquier búsqueda futura: si un vehículo reparte, se descarta con el
+  motivo escrito en §8.
 - Datos: fichas MyInvestor MCP (NAV 29/10/2026), factsheets de gestoras (30/09/2026), fichas legales
   de quefondos (31/10/2026) y carteras publicadas de Cobas (30/06/2026 y Yahoo Finance).
 
@@ -51,6 +55,15 @@ porque la aportación nueva permite cuadrar los importes; con la base anterior d
 > salían 55%. Ese −1,36% real describe el monetario, y el monetario es el colchón, que está fuera de la
 > base. Lo que hay en la parte corta es el Neuberger al 4,65%: +0,85% real. Corregirlo quita los cinco
 > puntos que llevaban la cartera al 54,9%.
+
+> **Aviso de dato (02/11/2026): el 4,79% es YTW contratada, no rentabilidad cobrada.** Un gestor de renta
+> fija corporativa con duración 2,5 años contó en el canal el 30/10 que esperaba un 4,5% neto al lanzar y
+> lleva «por debajo del 2%» con la misma duración corta. Si el bloque rindiera así (48.500 € al 2% en vez
+> de al 4,79%), el +0,99% real pasaría a −1,8% real y **la señal 1 dejaría de valer 0: se activaría su
+> propia condición de +3 puntos del §10, que llevaría la cartera a ~53% de RV (+2.910 € a bolsa)**. No se
+> aplica hoy porque la TIR está contratada y el fondo del ejemplo no es este; se mide con la rentabilidad
+> cobrada a 12 meses en la primera revisión trimestral. Es la única cifra de la propuesta que puede mover
+> la decisión sin que cambie ninguna tesis.
 
 **Qué significa cada nivel** (tabla de consecuencias, no de etiquetas; caída con RF −3%):
 
@@ -108,7 +121,7 @@ cartera, 28,2% de la RV):
 | | € | Por qué ese tamaño |
 | --- | ---: | --- |
 | MyInvestor Value C | 5.000 | 44 small/mid europeas, 0,8 veces valor en libros y beta 0,40 (18/10). Es el value que encaja con la sobreponderación en Europa |
-| Cobas International | 5.000 | Value global con **cero solape** con el anterior: sus 10 primeras posiciones no comparten ninguna empresa (Golar LNG, CK Hutchison, Atalaya, BW Offshore, BW Energy, TGS) |
+| Cobas International | 5.000 | Value global con **cero solape** con el anterior: sus 10 primeras posiciones no comparten ninguna empresa (Golar LNG, CK Hutchison, Atalaya, BW Offshore, BW Energy, TGS). Ojo: **TGS es también la primera posición de Horos** (entrevista del 30/10), así que la apuesta al capex energético de esta cartera es una, no dos — Horos no entra (§8) |
 | Vanguard Global Small-Cap | 3.700 | El satélite de tamaño en versión pasiva. Va pequeño a propósito: los dos value **ya son small/mid por construcción**, así que es la tercera apuesta al mismo factor y su índice es 61% USA |
 
 **La decisión de emergentes.** Rock ya lleva 3.300 € (11% de su cartera, clase D al 0,20%) y no se
@@ -228,6 +241,7 @@ ejecuta solo: no hay que tener el efectivo en cuenta.
 | Comisión de entrada de los destinos | ✅ 0,00% en Small-Cap, Europa, Value y Cobas · ⚠️ Neuberger «hasta 3%» (máx. 297 € una vez sobre 9.900) · ❓ iShares EM sin dato público |
 | Mínimos | ✅ DNCA pide 2.500 € y se queda con 5.000; el resto, 0-1 € en plataforma |
 | Comisión de éxito | ✅ Value 9% con marca de agua (≈1,04%/año, CNMV) · Cobas sin éxito |
+| Clases de acumulación | ✅ los 8 fondos dan `distributing = 0` en ficha del 29/10 (regla del 02/11) |
 
 ## 7. Qué cuesta esta decisión, dicho sin maquillaje
 
@@ -261,6 +275,10 @@ ejecuta solo: no hay que tener el efectivo en cuenta.
 | Arcus Japan Fund (1,5% TER) | Japón ya está cubierto por índice al 0,10%; el invitado del webinar lo comercializa |
 | Bajar a 35-45% de RV | La renta fija de la cartera ya da +1% real y el crédito no paga prima: bajar cuesta ~0,2 pp de retorno por cada 10 puntos. Solo si el −21,5% no se aguanta |
 | Subir a 65% hoy | 6 puntos más de caída por 0,3 de retorno. Solo tiene sentido si el S&P cae 20% con beneficios intactos, y entonces lo dirá la señal |
+| **Horos Value Internacional** (ES0146309002, 1,90%) | Traído de la entrevista del 30/10. Descartado por **solape doble**: su primera posición es TGS, que ya está en el top 10 de Cobas, y Francia pesa el 20,7% igual que en MyInvestor Value (22,7%). Un tercer value pagaría 95 €/año más por duplicar dos apuestas |
+| **Azvalor Internacional** (ES0112611001, 1,88%) | Traído del mismo vídeo. Descartado por **coste de salida y factor repetido**: comisión de reembolso del 3% en partidas de menos de 12 meses (incompatible con las tres tandas y con el rebalanceo), mínimo de 5.000 €, y 60% entre energía y materias primas, el mismo ciclo que Cobas ya cubre |
+| **Ábaco Renta Fija R** (ES0124526015, 0,96%) | Traído del vídeo del 01/11. Descartado por **peor carry y más comisión**: 3 años al 3,96% frente al 4,38% del Neuberger, que cobra 0,38% en vez de 0,96%. Con 22,7% en liquidez y calidad de crédito marcada como alto rendimiento, no mejora el bloque de renta fija |
+| **Kaizen Global Income** (ES0156674006) | Está disponible en MyInvestor y Andrés lo elogia en el vídeo, pero es un mixto que rompe la regla «cada euro es RV o RF»; en la otra cartera se queda y se recorta del 35,4% al 25% justamente por concentración |
 
 ## 9. Lo que queda abierto
 
