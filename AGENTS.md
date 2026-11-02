@@ -33,6 +33,8 @@ Nombres de carpeta, frontmatter YAML y comandos: `README.md`.
 
 ## 2. Reglas que no se negocian
 
+- **`git pull --rebase` antes de tocar nada.** El agente cloud commitea en `main`; sin pull, el
+  trabajo local choca. Es el paso 0, no una recomendación.
 - **Ninguna cifra sin respaldo** en la transcripción. Sin dato del hablante, el criterio va sin número.
 - **Ninguna atribución inventada**: sin etiquetas de hablante, marca `inferida` o `no atribuible con certeza`.
 - **Una mención no es una recomendación**: `recomienda` exige cita literal; si el hablante vende el producto, `(lo comercializa)` en la misma fila.
@@ -66,6 +68,7 @@ Las tres primeras escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutil
 Ningún trabajo está terminado hasta que estas cuatro cosas pasan, en este orden:
 
 ```bash
+git pull --rebase                # 0. sincroniza con el cloud antes de nada
 python3 tools/build_index.py     # 1. índice regenerado
 python3 tools/verify.py          # 2. contenido válido (carpetas, resúmenes, frontmatter, catálogo)
 git add -A && git commit -m "…"  # 3. commit en imperativo
