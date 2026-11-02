@@ -11,16 +11,17 @@ status: living
 La cartera personal, dentro de `finance/`. El resto de material financiero (vídeos, webinars,
 informes) está en las otras subcarpetas de `finance/`.
 
-## Dos documentos vivos… más un anexo de investigación
+## Dos documentos vivos… más dos anexos de investigación
 
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
 | `cartera-actual.md` | **Fotografía congelada** del estado real: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
 | `propuesta-actual.md` | **La cartera vigente**: modelo que decide el % de RV, cartera final con ISIN e importes, órdenes, métricas, coste de la decisión, ejecución, diagnóstico y qué se descarta | **Sí**, es el documento de trabajo |
 | `propuesta-alternativa.md` | **Anexo de investigación, no una cartera paralela**: dos carteras posibles sobre la vigente —mínima (REITs indexados al 0,17%, 5.000 €) y ampliada (10 fondos manuales: + Fundsmith 1,09% y Comgest Growth Europe 1,59%)— con pesos, financiación y ocho fuentes. Nace del barrido del catálogo MyInvestor del 01/11/2026 | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
+| `propuesta-investigacion.md` | **Anexo de investigación de acciones y ETFs**, no una cartera paralela: siete ideas priorizadas por horizonte (TTE, MSFT, ASML, LVMH, TRET, MUV2, IS3Q), con dos fuentes por activo, métricas, riesgos, señal de invalidación y una satélite de 9.000 € financiada con recortes de RV. Nace del encargo del 02/11/2026 | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
 
-El anexo existe porque el usuario pidió conservar la investigación con nombres, ISIN, TER y pesos; su
-ciclo de vida es corto a propósito: **o se incorpora a la propuesta, o se descarta y desaparece**. Una
+Los anexos existen porque el usuario pidió conservar la investigación con nombres, ISIN, TER y pesos; su
+ciclo de vida es corto a propósito: **o se incorporan a la propuesta, o se descartan y desaparecen**. Una
 tercera cartera permanente volvería a dejar dos documentos con dos cifras de la misma cartera.
 
 El diagnóstico, el veredicto frente a las fuentes y las revisiones adversariales **no viven en
@@ -47,6 +48,10 @@ tres ficheros con cifras distintas de la misma cartera.
   manuales, con Fundsmith 3.000 € al 1,09% y Comgest Growth Europe 2.500 € al 1,59%; 19 posiciones,
   662 €/año, USA 37,6% de la RV). Antes de ejecutarlo hay que verificar el reembolso de Vanguard
   Small-Cap, Fidelity Europe, MyInvestor Value y Cobas, y la entrada de los tres fondos nuevos.
+- **Investigación abierta (02/11):** `propuesta-investigacion.md` propone una satélite de 9.000 € —TTE
+  2.000, MSFT 2.500, ASML 1.500, LVMH 1.500 y TRET 1.500— financiada con recortes de RV (small cap,
+  Europa large cap, value y emergentes), manteniendo el 50/50 y la RF intacta. No ejecutada; pendiente
+  de decidir si se adopta entera, la versión mínima de 3.000 € o ninguna.
 
 ## Reglas de esta carpeta
 

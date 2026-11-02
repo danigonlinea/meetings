@@ -5,6 +5,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/portfolio/propuesta-investigacion.md` | portfolio-research | finance | 2026-11-02 | Propuesta de investigación — siete ideas con sentido de compra hoy | [cartera, investigacion, acciones, etfs, calidad, valor, activos-reales, lujo, semiconductores, reits, horizontes, myinvestor] |
 | `finance/portfolio/propuesta-alternativa.md` | portfolio-alternative | finance | 2026-11-01 | Propuesta alternativa — activos reales y dos fondos de calidad (10 fondos manuales) | [cartera, alternativa, activos-reales, reits, fundsmith, comgest, calidad, diversificacion, myinvestor, research] |
 | `finance/portfolio/propuesta-actual.md` | portfolio-proposal | finance | 2026-10-31 | Propuesta de cartera — 50% RV, dos value y small caps (97.000 €) | [cartera, propuesta, rebalanceo, rock, decision-por-contexto, myinvestor, traspasos, emergentes, value, small-caps] |
 | `finance/myinvestor-webinars/catalogo.md` | reference | finance | 2026-10-31 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
@@ -31,6 +32,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/la-pizarra-de-andres/2026-10-07-javier-andres-vivienda-espana-y-reino-unido/summary.md` | meeting-summary | finance | 2026-10-07 | Encuentro: Javier y Andrés — vivienda en España y Reino Unido | [finance, meeting, transcript] |
 | `finance/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [finance, meeting, transcript] |
 
-**Total de artefactos indexados:** 25
+**Total de artefactos indexados:** 26
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
