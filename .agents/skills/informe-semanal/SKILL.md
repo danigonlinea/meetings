@@ -26,7 +26,8 @@ description: Usar cuando corra la revisión semanal de canales (cron del agente 
 - **No se edita `finance/portfolio/propuesta-actual.md` ni se dan órdenes.** El informe propone
   candidatos; la cartera la decide el dueño.
 - Una pieza sin subtítulos se salta y se anota; no se resume de memoria.
-- La ausencia de novedades es un resultado válido: el informe se escribe igual, con "sin novedades".
+- Si una semana no hay nada publicado, **no se escribe informe ni se commitea**: se responde el
+  resumen de 5 líneas con "sin novedades" y se termina. El repo no se llena de ficheros vacíos.
 
 ## Paso 1: Sincroniza
 
@@ -46,7 +47,8 @@ Devuelve solo lo publicado **después de la última ingesta**, con fecha, id y e
 `la-pizarra-de-andres` y `myinvestor-webinars` por separado, así que un fallo de una fuente no
 arrastra a la otra. Compara por ID, nunca por título.
 
-Si devuelve "Sin novedades", escribe el informe con la sección 7 y termina: no busques más.
+Si devuelve "Sin novedades", no escribas informe ni toques el repositorio: da el resumen de 5
+líneas con "sin novedades" y termina.
 
 ## Paso 3: Descarga, en serie
 
@@ -122,7 +124,6 @@ Secciones, en este orden:
 4. **Candidatos para la cartera** — la tabla del Paso 6 y una frase de veredicto por candidato.
 5. **Señales de la cartera** — salida del termómetro y si algún umbral cruzó.
 6. **Pendiente de verificar en local** — lo que el cloud no puede comprobar (catálogo MyInvestor, comisión de plataforma).
-7. **Sin novedades** (si no hubo nada) — una línea.
 
 ## Paso 8: Cierra y sube
 
