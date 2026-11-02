@@ -47,13 +47,17 @@ Pregunta al usuario solo cuando falta el número de vídeos o cuando falta el ca
 Ejecuta este comando. Cambia `<canal-url>` por la URL del canal y `<N>` por el número de vídeos.
 
 ```bash
-yt-dlp --flat-playlist --playlist-end <N> --print "%(id)s\t%(title)s" "<canal-url>/videos"
+yt-dlp --flat-playlist --playlist-end <N> --print "%(id)s" "<canal-url>/videos"
 ```
+
+Canal de La Pizarra de Andrés: `UCEXbEm8RUvRkKUEo2RjKd9w`. El handle `@LaPizarradeAndrésLive` es
+otro canal (directos): no se ingiere. `python3 tools/nuevos.py` ya hace esta comparación.
 
 Aplica estas reglas.
 
 - La pestaña `/videos` lista el vídeo más nuevo primero. La opción `--playlist-end N` devuelve los N vídeos más nuevos.
-- Cuando un título llega en inglés y el canal habla en español, vuelve a ejecutar `ytpipe fetch` con un `--slug` explícito.
+- Compara **solo por id**, nunca por título: `--flat-playlist` devuelve los títulos traducidos al
+  inglés aunque el vídeo esté en español. El slug real sale después, del `ytpipe fetch`.
 
 ## Paso 3: Salta los vídeos ya ingeridos
 

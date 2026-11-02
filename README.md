@@ -98,6 +98,10 @@ python3 tools/myinvestor_webinars.py list        # TSV: id, título, post
 python3 tools/myinvestor_webinars.py pendientes  # solo los que faltan por ingerir
 python3 tools/myinvestor_webinars.py catalogo    # reescribe finance/myinvestor-webinars/catalogo.md
 
+# qué falta por ingerir, sin descargar (canal + webinars)
+python3 tools/nuevos.py
+python3 tools/nuevos.py --json
+
 # índice del repositorio
 python3 tools/build_index.py
 

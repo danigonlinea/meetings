@@ -47,6 +47,8 @@ Nombres de carpeta, frontmatter YAML y comandos: `README.md`.
 - `ingest-webinars` — webinars o entrevistas de MyInvestor (lista el catálogo y salta lo ya ingerido).
 - `revision-cartera` — revisión trimestral: mide las señales, corre el termómetro y escribe la
   revisión. No decide el % de RV.
+- `informe-semanal` — la pasada semanal del agente cloud: descubre, ingiere, escribe el informe con
+  candidatos y sube. No pregunta nada.
 
 Las tres primeras escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutilizan `ingest-meeting`.
 
@@ -91,29 +93,29 @@ credenciales, dispositivo o juicio del dueño.
 **Excepción de este repositorio:** es datos y documentación, no código desplegable, así que el
 agente cloud **empuja directo a `main`**. El resto de repos van por rama y PR.
 
-### Runbook de ingesta continua (agente cloud)
+### Pasada semanal (agente cloud)
 
-Se ejecuta en cada pasada, sin preguntar nada. Si algo no cuadra, para y deja el reporte.
+El procedimiento completo está en `.agents/skills/informe-semanal/SKILL.md`: sincronizar, descubrir
+con `python3 tools/nuevos.py`, ingerir 1-3 piezas en serie, resumir, completar fichas, comparar con
+la cartera, escribir el informe, verificar y subir. No se duplica aquí.
 
-1. **Sincroniza primero.** `git pull --rebase`. Si falla, para: hay trabajo local sin subir.
-2. **Lista lo nuevo.** Canal: `yt-dlp --flat-playlist --playlist-end 5 --print "%(id)s\t%(title)s" "<canal>/videos"`.
-   Webinars: `python3 tools/myinvestor_webinars.py pendientes`.
-3. **Descarta lo ingerido.** Compara con `source.video_id` de cada `<categoria>/*/*/transcript.json`.
-   Nunca uses `--force` y nunca reescribas un `transcript.json`.
-4. **Procesa 1-3 piezas por pasada, en serie.** YouTube responde 429 en paralelo.
-   `uv run --project ytpipe ytpipe fetch <url> --out <categoria>/<fuente> --slug "<tema>" --no-open`
-5. **Resume** con `.agents/skills/ingest-meeting/`. Cifras solo de la transcripción; sin hablante
-   etiquetado, `inferida` o `no atribuible con certeza`. Webinars: añade las dos secciones de
-   `ingest-webinars`.
-6. **Cierra:** `python3 tools/myinvestor_webinars.py catalogo` (solo si tocaste webinars) →
-   `python3 tools/build_index.py` → `python3 tools/verify.py`.
-7. **Sube:** commit y `git push`. Si el push se rechaza, `git pull --rebase` y repite. Un conflicto
-   en `INDEX.md` o `catalogo.md` se resuelve regenerándolos, nunca a mano.
-8. **Reporta en 5 líneas:** ingeridos, saltados (y por qué), fallos (`no subtitle available`, 429),
-   pendientes que quedan y el hash subido.
+Identidades de las fuentes:
+
+| Fuente | Identificador |
+| --- | --- |
+| La Pizarra de Andrés (la que se ingiere) | canal `UCEXbEm8RUvRkKUEo2RjKd9w` |
+| La Pizarra de Andrés Live | canal `UCDpE0dCtPTJZKAr8psiAHQw` — **no se ingiere** |
+| MyInvestor | `https://blog.myinvestor.es/escuelamyinvestor/webinars/` |
 
 Límites: nada de cartera desde el cloud; nada de merge a `main` en repos de código; una pieza sin
 subtítulos se salta y se reporta, no se resume de memoria.
+
+### Entrega del informe
+
+Sin canal de mensajería configurado, un cron del cloud corre en silencio. Hoy no hay ninguno
+conectado: el informe queda en `finance/reports/` y la sesión del agente se lee en la app de Hermes.
+Para recibirlo como mensaje hay que conectar Telegram (o Slack) en esa instancia; entonces la skill
+`informe-semanal` envía el resumen de 5 líneas.
 
 ## 7. Cuándo una señal de cartera obliga a revisar
 
