@@ -176,7 +176,7 @@ antes de ejecutar §7."*
 Barrido del catálogo (2.410 fondos) contra la tesis del vídeo —calidad con marca, poca deuda, PER
 razonable, gestor con 10-20 años, sin comisión de éxito—: **13 candidatos con ficha completa y ninguno
 mejora lo que ya hay**. La tabla entera, con los 8 fondos de la cartera y Rock al lado para poder
-ordenarla, vive en `propuesta-alternativa.md` §3. Los tres números que deciden:
+ordenarla, vive en `../portfolio/cartera-myinvestor/propuesta-alternativa.md` §3. Los tres números que deciden:
 
 - **Contra el indexado de Europa** (0,10 %, 5A 9,61 %): el mejor candidato a cinco años (DWS CROCI,
   9,23 %) pierde 19 €/año en una pata de 5.000 € y cuesta ×15 lo mismo; Fundsmith pierde 334 €/año;

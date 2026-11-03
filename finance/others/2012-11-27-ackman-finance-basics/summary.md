@@ -7,7 +7,7 @@ tags: [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, va
 status: final
 source: "https://www.youtube.com/watch?v=WEDIj9JBTC8"
 related:
-  - finance/portfolio/cartera-myinvestor/contraste-propuesta-ackman-2026-11-03.md
+  - finance/reports/contraste-propuesta-ackman-2026-11-03.md
 ---
 
 # Resumen: William Ackman — todo lo que necesitas saber de finanzas e inversión
