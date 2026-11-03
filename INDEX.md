@@ -6,6 +6,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
 | `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-03 | Cartera definitiva: 50/50 con ABS y crédito nórdico (97.000 €) | [cartera, definitiva, renta-fija, abs, aegon, sissener, rebalanceo, rock, myinvestor, traspasos] |
+| `finance/portfolio/cartera-myinvestor/contraste-propuesta-ackman-2026-11-03.md` | revision | finance | 2026-11-03 | Contraste de la cartera definitiva con la clase de Ackman (Big Think, 2012) | [cartera, verificacion, ackman, riesgo, coste, colchon, contraste, myinvestor] |
 | `finance/reports/revision-adversarial-2026-11-02.md` | revision | finance | 2026-11-02 | Revisión adversarial de las dos charlas del 30/10 y 01/11 y su utilidad para la cartera | [revision-adversarial, la-pizarra-de-andres, horos, renta-fija, cobas, tgs, rock, kaizen, verificacion] |
 | `finance/reports/informe-canal-la-pizarra-de-andres-2026-11-02.md` | channel-report | finance | 2026-11-02 | Informe de canal: La Pizarra de Andrés (2026-11-02) | [informe-canal, la-pizarra-de-andres, cartera-propia, horos, value, holdings, inteligencia-artificial, renta-fija] |
 | `finance/portfolio/cartera-renta4/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-02 | Cartera Renta 4 — auditoría y propuesta de mejora (Kaizen se queda) | [cartera, renta4, auditoria, rebalanceo, fondos, renta-fija, kaizen, traspasos] |
@@ -38,7 +39,8 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/la-pizarra-de-andres/2026-10-09-la-pizarra-burbujas-ia/summary.md` | meeting-summary | finance | 2026-10-09 | La Pizarra de Andrés: burbujas, concentración y CAPEX | [ai, meeting, transcript] |
 | `finance/la-pizarra-de-andres/2026-10-07-javier-andres-vivienda-espana-y-reino-unido/summary.md` | meeting-summary | finance | 2026-10-07 | Encuentro: Javier y Andrés — vivienda en España y Reino Unido | [finance, meeting, transcript] |
 | `finance/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [finance, meeting, transcript] |
+| `finance/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 33
+**Total de artefactos indexados:** 35
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

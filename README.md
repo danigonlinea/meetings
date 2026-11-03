@@ -13,6 +13,7 @@ finance/                        inversión y finanzas
   myinvestor-webinars/          webinars y entrevistas de MyInvestor
     catalogo.md                 catálogo generado de los 141 webinars y su estado
   el-arte-de-invertir/          canal El Arte de Invertir
+  others/                       piezas sueltas de otros canales (Big Think, ...)
   portfolio/                    dos carteras independientes (no se consolidan)
     README.md                   mapa de las dos carpetas y reglas
     cartera-myinvestor/         MyInvestor: 97.000 € (manual + Rock)
