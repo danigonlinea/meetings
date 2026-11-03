@@ -1,18 +1,31 @@
 ---
-title: "Propuesta de cartera — 50% RV, dos value y small caps (97.000 €)"
-date: 2026-10-31
+title: "Cartera definitiva: 50/50 con ABS y crédito nórdico (97.000 €)"
+date: 2026-11-03
 type: portfolio-proposal
 category: finance
-tags: [cartera, propuesta, rebalanceo, rock, decision-por-contexto, myinvestor, traspasos, emergentes, value, small-caps]
+tags: [cartera, definitiva, renta-fija, abs, aegon, sissener, rebalanceo, rock, myinvestor, traspasos]
 status: final
-related: [finance/portfolio/cartera-myinvestor/cartera-actual.md]
+related:
+  - finance/portfolio/cartera-myinvestor/cartera-actual.md
 ---
-# Propuesta de cartera — 50,0% RV · 31/10/2026
 
-> **Estado: definitiva.** La cartera vigente. La foto de partida está en `cartera-actual.md` (no se
-> edita, base de 90.000 €). Este es el único documento de la carpeta que se reescribe: lleva dentro el
-> diagnóstico que justifica cada movimiento (§2, §7, §8) y la ejecución (§6). **Esta versión añade
-> 7.000 € de capital nuevo**, mantiene dos fondos value y recupera el indexado de small caps.
+# Cartera definitiva — 03/11/2026
+
+> **Estado: definitiva, adoptada por el titular el 03/11/2026 tras revisión adversarial.** Simplifica la
+> propuesta del 31/10 cambiando **dos fondos de renta fija**: entran Aegon European ABS y Sissener
+> Corporate Bond en lugar de DNCA Alpha Bonds y Carmignac Portfolio Credit. Entra también la hoja de
+> órdenes definitiva: las once órdenes del 31/10 quedan sustituidas por las doce de §6 (35.000 €
+> traspasados en vez de 25.000). La versión del 31/10 y los dos anexos (`propuesta-actual-avanzada.md`,
+> `propuesta-incluye-mixto.md`) quedan en el historial o se borran: su contenido está absorbido en §13
+> y §15. No es asesoramiento financiero; la decisión es del titular.
+>
+> **Cifras verificadas con la fuente:** los datos de ficha de este documento (Aegon, Sissener, DNCA,
+> Carmignac, Neuberger) se re-verificaron el **03/11/2026 contra las fichas MyInvestor vía MCP**
+> (`get_funds`, NAV 30/10/2026): TER, comisiones de gestión y éxito, rentabilidades 3A/5A y por año
+> natural, volatilidad 3A y 5A, SRRI, sectores, países, mínimos, cortes, incept y clase de acumulación.
+> Cuadran todas; la novedad que trae la ficha: la **vol 5A de Aegon es 1,90 %** (la 0,95 % a 3 años
+> está suavizada por el precio del ABS). El sello «ninguna posición dominada» de §11 se verificó el
+> mismo día con `search_funds` sobre el catálogo.
 
 ## 1. Supuestos
 
@@ -22,315 +35,559 @@ related: [finance/portfolio/cartera-myinvestor/cartera-actual.md]
 - Horizonte largo, inversor español, plataforma MyInvestor, sin necesidad de vender para gastos.
 - Todo se ejecuta por **traspaso entre fondos armonizados**: no tributa. Los 7.000 € nuevos entran
   como suscripción.
-- **Regla de acumulación (02/11/2026):** ningún fondo, ETF **ni acción** de la cartera reparte dividendos;
-  todas las clases son de acumulación. Verificado con el campo `distributing` de la ficha: los ocho fondos
-  manuales dan 0. Aplica también a cualquier búsqueda futura: si un vehículo reparte, se descarta con el
-  motivo escrito en §8.
-- Datos: fichas MyInvestor MCP (NAV 29/10/2026), factsheets de gestoras (30/09/2026), fichas legales
-  de quefondos (31/10/2026) y carteras publicadas de Cobas (30/06/2026 y Yahoo Finance).
+- **Regla de acumulación (02/11/2026):** ningún fondo, ETF **ni acción** de la cartera reparte
+  dividendos; todas las clases son de acumulación (`distributing = 0` verificado en las fichas).
+- **Regla de la casa «cada euro es RV o RF»**: no hay bloque mixto. Gamma (81 % de bonos high yield de
+  energía, GNL y shipping escondidos bajo la etiqueta mixta) es el motivo por el que existe.
 
-## 2. La decisión: cuánta renta variable, derivada del contexto
+## 2. De dónde sale el 50 % de RV (modelo del 31/10)
 
 **No hay perfil fijo.** El porcentaje de RV sale de seis señales que se pueden medir cada trimestre;
-el perfil es la *consecuencia*, no la entrada.
-
-**Base neutra para horizonte largo: 45% de RV.** Sobre ella se suma o resta según lo que diga el
-contexto hoy.
+el perfil es la *consecuencia*, no la entrada. Base neutra para horizonte largo: 45 % de RV.
 
 | Señal | Dato a 31/10/2026 | Efecto |
 | --- | --- | ---: |
-| **Coste real del dinero** | €STR 2,44% con inflación 3,8% daría −1,36% real, **pero en la base no hay monetario**: la RF de la cartera rinde 4,79% → **+0,99% real**. La señal no aplica | **0** |
+| **Coste real del dinero** | €STR 2,44 % con inflación 3,8 % daría −1,36 % real, **pero en la base no hay monetario**: la RF rinde 4,42-4,79 % → ≈ +0,85 % real | **0** |
 | **Prima de crédito** | HY europeo OAS 363 pb (260-300 en normalidad) y BB a 175 pb: no se paga por asumir riesgo de crédito | **+3** |
 | **Valoración relativa** | S&P 500 18,7x, STOXX 600 13,6x, MSCI EM 10,2x. Solo se aprovecha comprando Europa y emergentes | **+2** |
-| **Concentración y ciclo de crédito** | 46% del S&P en tecnología, 34% en siete valores; Ábaco da 60-70% de probabilidad de evento de crédito en 6-12 meses | **−5** |
-| **Riesgo de tipos** | BCE con sesgo restrictivo; los ligados a inflación euro solo dan 0,3-0,5% real: no hay refugio real en bonos largos | **+2** |
+| **Concentración y ciclo de crédito** | 46 % del S&P en tecnología, 34 % en siete valores; Ábaco da 60-70 % de probabilidad de evento de crédito en 6-12 meses | **−5** |
+| **Riesgo de tipos** | BCE con sesgo restrictivo; los ligados a inflación euro solo dan 0,3-0,5 % real: no hay refugio real en bonos largos | **+2** |
 | **Capacidad de aguante** | Colchón aparte, horizonte largo, ingresos estables: no hay obligación de vender en una caída | **+3** |
-| | **Total: 45 + 5 = 50%** | |
+| | **Total: 45 + 5 = 50 %** | |
 
-**Decisión: 50,0% de RV (48.500 €) y 50,0% de RF (48.500 €).** Coincide al decimal con el modelo
-porque la aportación nueva permite cuadrar los importes; con la base anterior de 90.000 € quedaba en
-49,3%.
+**Decisión: 50,0 % de RV (48.500 €) y 50,0 % de RF (48.500 €).** Con la base de 90.000 € quedaba 49,3 %;
+la aportación nueva permite cuadrar los importes al decimal.
 
-> **La señal 1 vale 0, no +5.** En la versión anterior se puntuaba con el €STR contra la inflación y
-> salían 55%. Ese −1,36% real describe el monetario, y el monetario es el colchón, que está fuera de la
-> base. Lo que hay en la parte corta es el Neuberger al 4,65%: +0,85% real. Corregirlo quita los cinco
-> puntos que llevaban la cartera al 54,9%.
+> **La señal 1 vale 0, no +5**, y se mide con la RF que la cartera tiene: puntuar con el €STR contra la
+> inflación describía el monetario del colchón y llevó una versión anterior al 54,9 %. Y **el carry es
+> YTW/dirección, no todavía rentabilidad cobrada** (aviso del 02/11): si el bloque cobrase ~2 % en vez
+> de ~4,7 %, se activaría la señal +3 y la cartera iría a ~53 % de RV. Se mide cobrado a 12 meses en la
+> primera revisión trimestral (§14). Es la única cifra que puede mover la decisión sin cambiar tesis.
 
-> **Aviso de dato (02/11/2026): el 4,79% es YTW contratada, no rentabilidad cobrada.** Un gestor de renta
-> fija corporativa con duración 2,5 años contó en el canal el 30/10 que esperaba un 4,5% neto al lanzar y
-> lleva «por debajo del 2%» con la misma duración corta. Si el bloque rindiera así (48.500 € al 2% en vez
-> de al 4,79%), el +0,99% real pasaría a −1,8% real y **la señal 1 dejaría de valer 0: se activaría su
-> propia condición de +3 puntos del §10, que llevaría la cartera a ~53% de RV (+2.910 € a bolsa)**. No se
-> aplica hoy porque la TIR está contratada y el fondo del ejemplo no es este; se mide con la rentabilidad
-> cobrada a 12 meses en la primera revisión trimestral. Es la única cifra de la propuesta que puede mover
-> la decisión sin que cambie ninguna tesis.
-
-**Qué significa cada nivel** (tabla de consecuencias, no de etiquetas; caída con RF −3%):
-
-| RV | RF | Caída en un escenario tipo 2008 | Retorno esperado | Real sobre inflación 3,8% |
+| RV | RF | Caída en un escenario tipo 2008 | Retorno esperado | Real sobre inflación 3,8 % |
 | ---: | ---: | ---: | ---: | ---: |
-| 35% | 65% | −16% | 5,4% | +1,6% |
-| 45% | 55% | −20% | 5,6% | +1,8% |
-| **50%** | **50%** | **≈ −21,5%** | **5,7%** | **+1,9%** |
-| 55% | 45% | −23% | 5,8% | +2,0% |
-| 65% | 35% | −27% | 6,0% | +2,2% |
+| 35 % | 65 % | −16 % | 5,4 % | +1,6 % |
+| 45 % | 55 % | −20 % | 5,6 % | +1,8 % |
+| **50 %** | **50 %** | **≈ −21,5 %** | **5,7 % → 5,6 %** | **+1,9 %** |
+| 55 % | 45 % | −23 % | 5,8 % | +2,0 % |
+| 65 % | 35 % | −27 % | 6,0 % | +2,2 % |
 
-**Por qué 50 y no 65.** Cada 10 puntos de RV añaden ~4,3 puntos de caída esperada y solo ~0,2 puntos
-de retorno esperado. Con la prima de crédito agotada y la bolsa americana a 18,7x con 46% de
-tecnología, **el premio por pasarse no compensa el riesgo**.
+(El retorno esperado a 50 % pasa de 5,7 % a ≈5,6 % con el cambio de RF del 03/11: el retorno no es el
+argumento; el riesgo sí, §8.) **Suelo conductual:** si una caída del −21,5 % te haría vender, el modelo
+no se aplica tal cual. Baja a 45 % (−20 %) o 35 % (−16 %), por ejemplo recortando emergentes de 6.400
+a 4.400 y small caps de 3.700 a 2.000. Un modelo que no se aguanta no sirve.
 
-**Suelo conductual:** si una caída del −21,5% te haría vender, el modelo no se aplica tal cual. Baja a
-45% (−20%) o 35% (−16%) y se recalcula con ese techo. Un modelo que no se aguanta no sirve.
-
-**Sobre la «renta mixta»: no hay bloque mixto, y es deliberado.** Gamma Global no era una tercera
-clase de activo: por dentro es 81% bonos high yield de energía, GNL y shipping. Contarlo como «mixto»
-escondía un 22% en crédito basura. Aquí **cada euro es RV o RF**, y así se puede medir el riesgo.
-
-## 3. Las siete reglas que la gobiernan
+## 3. Las reglas que la gobiernan
 
 | Regla | Fuente | Cómo se aplica |
 | --- | --- | --- |
-| La duración es la decisión, no el activo | Ábaco 15:55 y 46:15; Renta 4 15:35 | 3,67 años con Rock (2,44 el bloque manual). El 20+ de Rock (3.000 €) es el 31% del riesgo de tipos y **se acepta como la única apuesta de duración**, dicha en voz alta |
-| No tomar riesgo de crédito ahora | Ábaco 28:37 y 36:47 | Carmignac 12.000 → 5.000 y Gamma fuera: crédito de 20.000 (22%) a 5.000 (5,2%) |
-| El S&P 500 no es neutral | Andrés 9:36 | No se compra MSCI World ni S&P: USA queda en 32,5% de la RV frente al 63-70% de un índice global |
-| El coste se controla; la asignación, no | Andrés 9:12-13:26 | TER manual 0,76%; con Rock, 0,655% de 97.000 € |
-| Liquidez con regla escrita | Andrés 23-10 | 10.000 € en Groupama, fuera de la cartera. **El importe está sin dimensionar** (§9) |
-| Japón aporta diversificación real | Parages 20-10 (webinar MyInvestor) | Japón ya está en 6,6% de la RV (3,3% de la cartera). **No se compra el Arcus Japan Fund** (1,5% TER, lo comercializa el invitado) |
-| Comprar donde la valoración paga | STOXX 13,6x vs S&P 18,7x; EM 10,2x | **79,4% de la RV en indexados baratos** (Rock, Europa al 0,10%, emergentes al 0,16%, small caps al 0,29%) y **20,6% en dos fondos value**, con emergentes al 10% de la cartera |
+| La duración es la decisión, no el activo | Ábaco 15:55 y 46:15; Renta 4 15:35 | ≈3,3 años con Rock (suelo matemático 2,84). El 20+ de Rock (3.000 €) es la única apuesta de duración, dicha en voz alta |
+| No tomar riesgo de crédito ahora | Ábaco 28:37 y 36:47 | La pata de crédito queda en Sissener 5.000 € (IG nórdico). Gamma (81 % HY de energía/GNL/shipping) fuera, Carmignac fuera |
+| El S&P 500 no es neutral | Andrés 9:36 | No se compra MSCI World: USA queda en 32,5 % de la RV frente al 63-70 % de un índice global |
+| El coste se controla; la asignación, no | Andrés 9:12-13:26 | Coste real 588 €/año (0,606 %) tras el cambio del 03/11 |
+| Liquidez con regla escrita | Andrés 23-10 | 10.000 € en Groupama, fuera de la cartera. **Sin dimensionar contra gastos reales** |
+| Japón aporta diversificación real | Parages 20-10 (webinar MyInvestor) | Cubierto por índice dentro de Rock; ningún satélite de Japón activo |
+| Comprar donde la valoración paga | STOXX 13,6x vs S&P 18,7x; EM 10,2x | 79,4 % de la RV indexada barata; 20,6 % en dos value; emergentes al 10 % |
+| Cada euro es RV o RF | regla de la casa (02/11) | Los mixtos baratos se rechazan con el número delante (§13) |
 
-## 4. Cartera final (97.000 €)
+## 4. La cartera (97.000 €)
 
-| Bloque | Fondo | ISIN | € | Peso | TER | TIR / dur. |
-| --- | --- | --- | ---: | ---: | ---: | ---: |
-| **RF corta IG** | Neuberger Short Duration Euro Bond U | IE00BL1GVT98 | 31.900 | 32,9% | 0,38% | 4,65% · 1,95 a |
-| **RF flexible (soberanos + coberturas)** | DNCA Alpha Bonds A | LU1694789451 | 5.000 | 5,2% | 1,31% | 3,97% · 3,99 a |
-| **Crédito** | Carmignac Credit A | LU1623762843 | 5.000 | 5,2% | 1,20% | 6,50% · 4,0 a |
-| RV value Europa small/mid | MyInvestor Value C | ES0165243025 | 5.000 | 5,2% | 1,42% + 9% éxito | — |
-| RV value global | Cobas International P | LU1598719752 | 5.000 | 5,2% | 2,33% | — |
-| RV small cap global (pasivo) | Vanguard Global Small-Cap Index EUR Acc | IE00B42W4L06 | 3.700 | 3,8% | 0,29% | — |
-| RV Europa large cap | Fidelity MSCI Europe Index EUR P Acc | IE00BYX5MD61 | 5.000 | 5,2% | 0,10% | — |
-| RV emergentes | iShares Emerging Markets Index S Acc EUR | IE000QAZP7L2 | 6.400 | 6,6% | 0,16% | — |
-| **Rock (sin cambios)** | cartera indexada 78/22 de MyInvestor | — | 30.000 | 30,9% | 0,41% todo incluido | 78% RV · 22% RF |
-| | **TOTAL** | | **97.000** | 100% | | |
+| Bloque | Fondo | ISIN | € | % | RV dentro | TER |
+|---|---|---|---:|---:|---:|---:|
+| RF corta IG | Neuberger Short Duration Euro Bond U | IE00BL1GVT98 | 31.900 | 32,9 % | 0 % | 0,38 % |
+| RF flexible (ABS) | **Aegon European ABS A EUR Acc** | **IE00BG226Z29** | 5.000 | 5,2 % | 0 % | **0,66 %** |
+| Crédito | **Sissener Corporate Bond R EUR** | **LU2262944817** | 5.000 | 5,2 % | 1,6 % | **0,90 %** |
+| RV value Europa | MyInvestor Value C | ES0165243025 | 5.000 | 5,2 % | 95,4 % | ~1,42 % + 9 % éxito |
+| RV value global | Cobas International P | LU1598719752 | 5.000 | 5,2 % | 72,9 % | 2,33 % |
+| RV small cap | Vanguard Global Small-Cap EUR Acc | IE00B42W4L06 | 3.700 | 3,8 % | 100 % | 0,29 % |
+| RV Europa | Fidelity MSCI Europe P Acc | IE00BYX5MD61 | 5.000 | 5,2 % | 99,4 % | 0,10 % |
+| RV emergentes | iShares Emerging Markets S Acc | IE000QAZP7L2 | 6.400 | 6,6 % | 100 % | 0,16 % |
+| Cartera automatizada | Rock 78/22 | — | 30.000 | 30,9 % | 78 % | 0,41 % todo incluido |
+| | **TOTAL** | | **97.000** | **100 %** | | |
 
-Ocho fondos manuales + Rock. Fuera: Gamma, NB Space y UBS China.
+**Reparto:** RV **48.500 € (50,0 %)** / RF **48.500 € (50,0 %)** con la convención del 31/10 (los
+satélites activos cuentan al 100 %, Rock al 78 %). **17 posiciones** (8 manuales + 9 de Rock). Fuera
+de la base: 10.000 € de Groupama Trésorerie. **Salen de la cartera actual:** Gamma (81 % HY de
+energía/GNL/shipping, el mayor concentrador de riesgo de crédito), NB Space (1.000 € de satélite con
+35,7 % de volatilidad: el 1 % del dinero con un cuarto del riesgo) y UBS China (ya está al 19,5 %
+dentro del fondo de emergentes; tener estarla aparte duplicaba la posición).
 
-**Cómo se reparten los tres satélites** (10.000 € en value + 3.700 € en small caps = 14,1% de la
-cartera, 28,2% de la RV):
+**Por qué esos tamaños en los satélites** (14,1 % de la cartera, 28,2 % de la RV):
 
-| | € | Por qué ese tamaño |
-| --- | ---: | --- |
-| MyInvestor Value C | 5.000 | 44 small/mid europeas, 0,8 veces valor en libros y beta 0,40 (18/10). Es el value que encaja con la sobreponderación en Europa |
-| Cobas International | 5.000 | Value global con **cero solape** con el anterior: sus 10 primeras posiciones no comparten ninguna empresa (Golar LNG, CK Hutchison, Atalaya, BW Offshore, BW Energy, TGS). Ojo: **TGS es también la primera posición de Horos** (entrevista del 30/10), así que la apuesta al capex energético de esta cartera es una, no dos — Horos no entra (§8) |
-| Vanguard Global Small-Cap | 3.700 | El satélite de tamaño en versión pasiva. Va pequeño a propósito: los dos value **ya son small/mid por construcción**, así que es la tercera apuesta al mismo factor y su índice es 61% USA |
+| Satélite | € | Por qué ese tamaño |
+|---|---:|---|
+| MyInvestor Value C | 5.000 | Europa small/mid a 0,8x valor en libros, beta 0,40 (18/10). El value que encaja con la sobreponderación en Europa |
+| Cobas International P | 5.000 | Value global con **cero solape** con el anterior (ninguna empresa compartida entre sus top 10; Golar LNG, CK Hutchison, Atalaya, BW Offshore, TGS). Ojo: TGS es también la primera posición de Horos — la apuesta al capex energético es una, no dos (Horos no entra, §12). Ficha advierte soft close próximo: siempre se podrá vender o reembolsar **por traspaso** |
+| Vanguard Global Small-Cap | 3.700 | El satélite de tamaño pasivo, a propósito pequeño: los dos value ya son small/mid por construcción, es la tercera apuesta al mismo factor y su índice es 61 % USA |
+| iShares EM | 6.400 | Para el 10 % de cartera contando los 3.300 € de emergentes dentro de Rock (9.700 €). Consecuencias asumidas: 42 % del índice es tecnología (Taiwán, Corea) y ~1.455 € caen en TSMC sola |
 
-**La decisión de emergentes.** Rock ya lleva 3.300 € (11% de su cartera, clase D al 0,20%) y no se
-toca. Para llegar al **10% de la cartera (9.700 €)** el fondo manual lleva **6.400 €**. Consecuencias
-asumidas: emergentes es **el 20,4% de la RV** (el ACWI lleva 10%), son **4.074 € de tecnología** (42%
-del índice) y **~1.455 € en TSMC** sola.
+## 5. Qué entra y qué sale: 2 fondos, 10.000 € (10,3 % de la cartera)
 
-**Por qué se van los tres que se van:** Gamma es el mayor concentrador de HY de la cartera (81%
-bonos, 70 emisores, energía/GNL/shipping, TIR 8,07%) en el peor momento del ciclo; Space es un
-satélite de 1.000 € con 35,7% de volatilidad (el 1% del dinero con el 25% del riesgo); China ya está
-dentro del fondo de emergentes al 19,5%, y tenerla aparte duplica la posición.
+| | Sale | Entra | Por qué |
+|---|---|---|---|
+| **RF flexible** | DNCA Alpha Bonds A<br>1,31 % + 20 % éxito · 3A +4,17 % · **5A +4,75 %** · vol 2,00 % | **Aegon European ABS A EUR Acc**<br>**0,66 % sin éxito** · 3A **+4,38 %** · **5A +2,94 %** · vol 3A **0,95 %** (5A **1,90 %**) | −52 % de coste y de vol a 3A, pero la vol 5A baja solo **−29 %** (1,90 frente a 2,68: la vol 3A del ABS está suavizada); gana 0,21 pp a 3 años y **cede 1,81 pp a 5 años** |
+| **Crédito** | Carmignac Portfolio Credit A<br>1,20 % + 20 % éxito · 3A +6,45 % · **5A +1,83 %** · vol 3,62 % · **2022 −13,0 %** | **Sissener Corporate Bond R EUR**<br>**0,90 % sin éxito** · 3A **+6,85 %** · **5A +5,51 %** · vol 3A **2,05 %** (5A **2,75 %**) · **2022 +0,2 %** | Más retorno en las tres ventanas, −43 % de vol a 3A y −50 % a 5A, y no perdió en 2022 |
 
-**Cobas se queda, y el motivo viejo era falso.** El documento anterior decía que «está en soft close,
-así que no se puede ampliar». La ficha del fondo dice lo contrario: *«solo los inversores que ya sean
-partícipes podrán seguir invirtiendo»*. Se queda porque su cartera no se solapa con la de MyInvestor
-Value y aporta el ciclo energético y de materias primas que la cartera no tiene en ninguna otra parte.
-Lo que sí hay que saber: **el 44% de su cartera no viene desglosado por país** en la información
-pública.
+Una es sustitución de vehículo y la otra no. **Sissener sí**: crédito por crédito, mismos euros, otro
+gestor y menos comisión. **Aegon no**: DNCA es 79 % deuda pública G10 con rating A+ y Aegon es ~99 %
+titulización; el bloque sigue llamándose «RF flexible» y pesando 5.000 €, pero el activo de dentro es
+otro. El **par completo por pata, en euros:** pata Aegon **+48,5 €/año de ahorro** (32,5 TER + 16 de
+éxito) frente a −90,5 €/año a 5A (+10,5 a 3A); pata Sissener **+33 €/año de ahorro** y además +20 €/año
+a 3A y +184 €/año a 5A. La dominación completa solo la tiene Sissener; Aegon es un cambio de riesgo que
+se paga en la ventana 5A (se vigila en §14).
 
-## 5. Agregado y métricas
+## 6. Métricas frente a la cartera del 31/10
 
-| Métrica | Ahora (90k) | **Propuesta (97k)** |
-| --- | ---: | ---: |
-| Renta variable | 31,6% | **50,0%** (48.500 €) |
-| Renta fija | 68,4% | **50,0%** (48.500 €) |
-| Emergentes | 4,8% | **10,0%** (9.700 €) |
-| RV activa / pasiva | 5,6% / 26,0% | **20,6% / 79,4%** de la RV |
-| Duración RF (con Rock) | 3,83 a | **3,67 a** (−1.778 € por +100 pb) |
-| Carry RF manual (TIR ponderada) | 5,39% (2.965 €/año) | **4,79%** (2.007 €/año) |
-| TER | 0,746% (671 € sobre 90k) | **0,655% (635 € sobre 97k)** |
-| Drawdown estimado 2008 | ≈ −15% | **≈ −21,5%** |
-| Nº de posiciones | 17 | **17** (8 manuales + 9 de Rock) |
-| Exposición USA (de la RV) | ≈ 56% | **32,5%** |
+| Métrica | 31/10 | **Definitiva** | Delta |
+|---|---:|---:|---:|
+| Renta variable | 50,0 % | **50,0 %** | 0 |
+| TER puro (sin comisiones de éxito) | 583 €/año (0,601 %) | **536 €/año (0,552 %)** | **−47 €** |
+| Comisiones de éxito | ≈86 €/año (DNCA 16 · Carmignac ≈18 · Value 52) | **52 €/año (solo Value)** | **−34 €** |
+| **Coste total real** | **≈669 €/año (0,690 %)** | **588 €/año (0,606 %)** | **−81 €/año (−12,1 %)** |
+| VOL de la pata cambiada (3A) | DNCA 2,00 · Carmignac 3,62 | **Aegon 0,95 · Sissener 2,05** | −1,05 y −1,57 pp |
+| VOL de la pata cambiada (5A) | DNCA 2,68 · Carmignac 5,54 | **Aegon 1,90 · Sissener 2,75** | −0,78 y −2,79 pp |
+| Retorno 3A del bloque de RF (estimado) | 4,60 % | **4,67 %** | +0,07 pp |
+| Comportamiento del bloque en 2022 (estimado) | −5,4 % | **−5,0 %** | +0,4 pp |
+| Duración estimada de la RF (con Rock) | 3,67 años | **≈3,3 años** (3,2-3,5, inferida) | −0,2 a −0,4 |
+| Carry de la RF | 4,79 % (2.007 €) | 4,42-4,67 % (1.852-1.957 €) | −50 a −155 € |
+| Drawdown 2008 (RV −40 %, RF −3 %) | −21,5 % | **−21,5 %** | 0 |
+| Posiciones | 17 | **17** | 0 |
+| EE. UU. dentro de la RV | 32,5 % | **32,5 %** | 0 |
 
-Los dos drawdowns usan **el mismo supuesto** (RV −40%, RF −3%): el −15% de ahora es el −13% de
-`cartera-actual.md` con la RF plana. Y los 635 € de TER incluyen la comisión de éxito **estimada** de
-MyInvestor Value (≈52 €/año, 1,04% según la CNMV): TER puro, 583 €.
+**Dónde está el ahorro, desglosado:** 47 € de TER y 34 € de comisiones de éxito. La del 31/10 estimaba
+el éxito de MyInvestor Value (52 €) pero no el de DNCA y Carmignac, que **cobran el 20 % solo sobre lo
+que baten a su índice y con high-water mark**, no sobre el cupón: la ficha de la gestora declara que
+DNCA cobró de verdad **0,32 %** (16 €/año sobre 5.000 €) y Carmignac cobra 20 % sobre 75 % ICE BofA
+Euro Corporate + 25 % Euro High Yield con clawback de 5 años (≈18 €/año). El coste real de la del
+31/10 era **≈669 €/año**, no 635 € ni 715 €.
 
-**Retorno esperado (estimación, no backtest):** la RF da 4,79% de carry contratado; el *earnings
-yield* ponderado de la RV es 6,58% (USA 5,3% a 18,7x, Europa 7,4% a 13,6x, emergentes 9,8% a 10,2x,
-Japón 6,3%). La cartera parte de **≈5,7% nominal** sin contar crecimiento de beneficios ni cambios de
-múltiplo. Es un punto de partida, no una promesa.
+**Lo que el 2022 esconde.** La mejora de 0,4 pp del bloque sale de que las dos sustituciones se
+cancelan: Carmignac −13,0 % → Sissener +0,2 % aporta +660 € y DNCA +6,0 % → Aegon −4,0 % quita −500 €.
+A nivel de fondo, el cambio de DNCA es **−10 pp en el peor año**. Si se cambiara solo Carmignac y se
+quedara DNCA, el bloque haría **−3,8 %** en vez de −5,0 %.
 
-**Mix regional de la RV** (Σ importe × país con la composición real de cada ficha; el 65% USA del GS
-Global de Rock es una estimación declarada):
+**Lo que la duración no baja.** De 3,67 a ≈3,3 años (3,2-3,5), no a 2,5: el 77,5 % del riesgo de tipos
+está en el Neuberger (35 %) y en Rock (42,5 %), que no se tocan, y los 10.000 € que cambian son el
+22,5 %. El suelo matemático de la cartera entera es 2,84 años aunque los dos fondos nuevos tuvieran
+duración cero. Cada +100 pb cuesta ≈1.600-1.680 € en vez de 1.778 (100-180 € menos).
+
+**Retorno esperado** (estimación, no backtest): el *earnings yield* ponderado de la RV es 6,58 % (USA
+5,3 % a 18,7x, Europa 7,4 % a 13,6x, emergentes 9,8 % a 10,2x, Japón 6,3 %); el carry de la RF baja a
+4,42-4,67 %. La cartera parte de **≈5,6-5,7 % nominal** sin contar crecimiento de beneficios ni cambios
+de múltiplo.
+
+## 7. Las órdenes, paso a paso
+
+Todo se ejecuta **en una semana**, en tres sesiones. **Diez traspasos y dos suscripciones**, 42.000 €
+(35.000 € que salen de cinco fondos + 7.000 € de aportación nueva). El ritmo queda decidido aquí: la
+cartera del 31/10 lo tenía abierto (tres tandas mensuales); los datos favorecen entrar de una vez y la
+ventana de crédito de 6-12 meses no se cubre con tres meses. Las casillas «Hecho» pasan de **☐** a
+**☑** cuando el titular confirma la operación, y la fecha real se anota en §7.7; los checks de cada
+día se marcan con `[x]` al momento. Si algo falla, se escribe al lado qué orden y por qué.
+
+### Paso 0 — Preparación (antes del día 1)
+
+- [ ] Transferir **7.000 €** a la cuenta de MyInvestor y verlos en efectivo.
+- [ ] Comprobar los saldos de partida: Neuberger **22.000**, DNCA **13.000**, Carmignac **12.000**,
+      Gamma **8.000**, MyInvestor Value **2.000**, Cobas **1.000**, Space **1.000**, China **1.000** =
+      **60.000 €**. Rock queda fuera, con 30.000 €.
+- [ ] Reembolso: **ya verificado el 31/10** — 0,00 % en Gamma, Space, China, Carmignac y DNCA. Repetir
+      solo si alguna ficha ha cambiado desde entonces.
+- [ ] Confirmar la **comisión de entrada** de Aegon y Sissener (no publicada). Si alguna fuera >1 %, no
+      se esquiva entrando en dos tandas (una comisión proporcional se paga igual): se acepta o se
+      cambia de destino.
+- [ ] Recordar el ⚠️ del **Neuberger: «hasta 3 %»** de entrada = **hasta 297 € una vez** sobre los
+      9.900 € que recibe. Es el único coste de entrada conocido del plan.
+- [ ] Recordar: **traspaso, nunca reembolso**. Es lo que deja la factura fiscal en 0 €.
+
+### 7.1 Día 1 — 18.700 € · 3 traspasos + 2 suscripciones
+
+| Hecho | # | Origen | ISIN origen | € | Destino | ISIN destino | Antes de |
+|:--:|--:|---|---|---:|---|---|---|
+| ☐ | 12 | Aportación nueva (efectivo) | — | 4.000 | Cobas International P | LU1598719752 | 14:00 |
+| ☐ | 6 | Carmignac Portfolio Credit A | LU1623762843 | 5.000 | Aegon European ABS A | IE00BG226Z29 | 12:00 |
+| ☐ | 8 | Carmignac Portfolio Credit A | LU1623762843 | 5.000 | Fidelity MSCI Europe P | IE00BYX5MD61 | 12:00 |
+| ☐ | 11 | Aportación nueva (efectivo) | — | 3.000 | MyInvestor Value C | ES0165243025 | 12:00 |
+| ☐ | 7 | Carmignac Portfolio Credit A | LU1623762843 | 1.700 | Vanguard Global Small-Cap | IE00B42W4L06 | 16:00 |
+
+**Cobas primero, solo por orden operativo.** Su ficha advierte soft close próximo y que *«solo los
+inversores que ya sean partícipes podrán seguir invirtiendo»*: el titular ya lo es (1.000 €), así que
+la aportación está permitida y el reembolso por traspaso siempre será posible. Se pone primero para no
+dejarlo al final. *Carmignac queda con 300 €.*
+
+Checks al cerrar el día 1:
+
+- [ ] Cobas, Aegon, Fidelity Europe, MyInvestor Value y Small-Cap figuran con importe abierto.
+- [ ] Carmignac tiene **300 €** de saldo, ni 0 ni el importe anterior.
+- [ ] Los 7.000 € de aportación ya no están en efectivo.
+- [ ] Justificantes de los cinco movimientos guardados.
+
+### 7.2 Día 2 o 3 — 13.300 € · 4 traspasos
+
+| Hecho | # | Origen | ISIN origen | € | Destino | ISIN destino | Antes de |
+|:--:|--:|---|---|---:|---|---|---|
+| ☐ | 4 | DNCA Alpha Bonds A | LU1694789451 | 6.400 | iShares Emerging Markets S | IE000QAZP7L2 | **09:00** |
+| ☐ | 5 | DNCA Alpha Bonds A | LU1694789451 | 5.000 | Sissener Corporate Bond R | LU2262944817 | 10:00 |
+| ☐ | 2 | DNCA Alpha Bonds A | LU1694789451 | 1.600 | Neuberger Short Duration | IE00BL1GVT98 | 10:00 |
+| ☐ | 3 | Carmignac Portfolio Credit A | LU1623762843 | 300 | Neuberger Short Duration | IE00BL1GVT98 | 10:00 |
+
+La de emergentes antes de las **09:00** (es la que corta primero); las otras tres antes de las
+**10:00**, que es el corte de DNCA, Sissener y Neuberger.
+
+Checks al cerrar el día 2:
+
+- [ ] Neuberger en **23.900 €** (22.000 + 1.600 + 300; los 8.000 de Gamma entran el día 3, 31.900 es
+      el saldo final).
+- [ ] iShares Emergentes en **6.400 €**.
+- [ ] Sissener en **5.000 €**.
+- [ ] DNCA y Carmignac a **0**.
+
+### 7.3 Día 4 o 5 — 10.000 € · 3 traspasos
+
+| Hecho | # | Origen | ISIN origen | € | Destino | ISIN destino | Antes de |
+|:--:|--:|---|---|---:|---|---|---|
+| ☐ | 1 | Gamma Global A | ES0140794001 | 8.000 | Neuberger Short Duration | IE00BL1GVT98 | 10:00 |
+| ☐ | 9 | NB Next Generation Space | IE00018YKVN0 | 1.000 | Vanguard Global Small-Cap | IE00B42W4L06 | 16:00 |
+| ☐ | 10 | UBS MSCI China | LU1815002040 | 1.000 | Vanguard Global Small-Cap | IE00B42W4L06 | 16:00 |
+
+Gamma corta a las 14:00 pero el destino corta a las 10:00: manda la más temprana.
+
+Checks al cerrar el día 3:
+
+- [ ] Gamma, Space y China a **0**.
+- [ ] Ningún fondo de origen con saldo negativo. Neuberger ya en **31.900 €**.
+- [ ] Ocho fondos manuales con su saldo final.
+
+### 7.4 Comprobación final (cuando estén las tres sesiones)
+
+- [ ] Neuberger 31.900 · Aegon 5.000 · Sissener 5.000 · Value 5.000 · Cobas 5.000 · Small-Cap 3.700 ·
+      Europa 5.000 · EM 6.400 = **67.000 €** manuales.
+- [ ] Rock intacto en **30.000 €**. Total **97.000 €**.
+- [ ] RV 50,0 % / RF 50,0 % por look-through.
+- [ ] Coste 588 €/año (0,606 %): 536 € de TER + 52 € del éxito del 9 % de MyInvestor Value. Comprobar
+      que no quedó ninguna comisión de éxito del 20 %.
+- [ ] Los justificantes de los **diez traspasos** archivados (son la prueba del 0 % fiscal). Las dos
+      suscripciones de 3.000 y 4.000 € son dinero nuevo y no generan diferimiento.
+
+### 7.5 Cuadre por origen y por destino
+
+**Origen:** Gamma 8.000 · DNCA 1.600 + 6.400 + 5.000 = 13.000 · Carmignac 300 + 5.000 + 1.700 + 5.000 =
+12.000 · Space 1.000 · China 1.000 · aportación 3.000 + 4.000 = 7.000. **Total 42.000 €**.
+
+**Destino:** Neuberger 8.000 + 1.600 + 300 = **+9.900** (22.000 → 31.900) · Emergentes **6.400** ·
+Aegon **5.000** · Sissener **5.000** · Small-Cap 1.700 + 1.000 + 1.000 = **3.700** · Fidelity Europe
+**5.000** · Value **+3.000** (2.000 → 5.000) · Cobas **+4.000** (1.000 → 5.000).
+
+### 7.6 Lo que no se debe hacer
+
+- **No reembolsar** para luego suscribir: se pierde el diferimiento fiscal.
+- **No cambiar de clase** los fondos que se quedan (equivale a reembolso).
+- **No separar la orden 3** (300 €) del resto: es el cuadre de Carmignac.
+- **No comprar Aegon ni Sissener con más de 5.000 €** hasta ver un trimestre de comportamiento.
+
+### 7.7 Registro de ejecución
+
+| Sesión | Fecha real | Importe | Estado |
+|---|---|---:|---|
+| Día 1 | — | 18.700 € | pendiente |
+| Día 2-3 | — | 13.300 € | pendiente |
+| Día 4-5 | — | 10.000 € | pendiente |
+
+## 8. Por qué es la definitiva, y con qué límite
+
+Porque reduce **riesgo medido** en el bloque de renta fija: la pata cambiada baja 1,05 y 1,57 pp de vol
+a 3A (y 0,78 y 2,79 pp a 5A, ficha), el −13,0 % de Carmignac en 2022 queda fuera de la cartera y la
+duración baja 0,2-0,4 años. Las vol y las rentabilidades son de ficha; la duración es inferida.
+
+**No** por el argumento que el borrador tenía escrito: el 20 % de éxito **no se cobra sobre el cupón**.
+DNCA cobra 20 % de lo que bate a €STR+1,40 % con high-water mark, y su gestora declara 0,32 % cobrado
+(16 €/año sobre 5.000 €); Carmignac cobra 20 % sobre 75 % ICE BofA Euro Corporate + 25 % Euro High
+Yield con clawback de 5 años (≈18 €/año). Son ≈34 €/año, no 80, y el coste real de la del 31/10 es
+≈669 €, no 715 €.
+
+Y tampoco por dominancia: **Aegon no domina a DNCA**. Gana en coste, volatilidad y 3A (+0,21 pp), pero
+cede 1,81 pp a cinco años (+2,94 % frente a +4,75 %), que sobre 5.000 € son 90 €/año. La ventana de 5
+años incluye un ciclo completo de tipos, así que es la que más pesa en un activo de duración. La pata de
+Aegon se adopta como cambio de riesgo (soberano A+ → ABS), no como mejora gratis; su control está en
+§14.
+
+**Lo que esta cartera NO gana, dicho claro:** el retorno esperado no sube (≈5,6 % frente a 5,7 %),
+porque el carry cae entre 50 y 155 €/año según lo que rinda Aegon, que no publica TIR. No es una cartera
+para ganar más: es la misma cartera con menos volatilidad y algo menos de coste. Quien quiera más
+rentabilidad tiene que subir la RV, y eso es otra decisión (§2 y §14).
+
+## 9. Riesgos y límites
+
+- **Aegon European ABS no es soberano.** Es titulización: 58 % ABS y 35 % RMBS, con Reino Unido 31 %,
+  Irlanda 23 % y Países Bajos 11 %. Su 2022 fue −4,0 % y su 5A solo +2,94 %: es un activo corto y
+  seguro, no un refugio que sube cuando los tipos suben. Pierdes el +6,0 % que hizo DNCA en 2022 y
+  **1,81 pp anuales a cinco años** (+4,75 % de DNCA frente a +2,94 %), que son 90 €/año sobre 5.000 €.
+- **Reabre dos decisiones documentadas de la carpeta, con el permiso del titular (03/11):** la del
+  31/10 mantenía DNCA «porque es el único soberano A+», y el anexo de mixtos cerró el tema de estos
+  dos fondos por 111 €/año. Este documento unifica ambas: sale el soberano A+, y la variante de
+  mixtos se rechaza (§13) porque rompería «cada euro es RV o RF».
+- **Sissener concentra 58 % en Noruega y Suecia.** Es crédito nórdico: si ese mercado se abre, cae. Y
+  es un fondo pequeño de una gestora nórdica distribuida por FundRock, no una casa global.
+- **Ninguno de los dos publica TIR ni duración.** La duración de la cartera baja a ≈3,3 años
+  (3,2-3,5) **por inferencia** de la familia del activo, no porque la ficha lo diga. Es el límite
+  principal de §6.
+- **Comisión de entrada**: desconocida en los dos fondos nuevos y en el Neuberger («hasta 3 %» = hasta
+  297 € una vez). Si Aegon o Sissener cobraran más del 1 %, el ahorro de 81 €/año se come el primer año.
+- **Riesgo de gestor**: cambiar dos fondos con historial por dos con menos historial (Sissener nació en
+  2019) es cambiar track record por coste y volatilidad.
+- **¿Cubre las divisas la clase EUR?** La ficha no lo dice: el 31 % GBP de Aegon y el ~58 % NOK/SEK de
+  Sissener pueden entrar en el retorno sin cobertura (§10.5 los cuenta como exposición sin cubrir).
+  Es verifiable en la pantalla de suscripción del bróker, no en el catálogo.
+- **El colchón de 10.000 € sigue sin dimensionar** contra los gastos mensuales reales. Si deben ser
+  18.000-20.000 €, la base invertible baja y toda la tabla cambia.
+
+## 10. Diversificación por bloques
+
+### 10.1 Bloques funcionales
+
+| Bloque | Qué hace | € | % |
+|---|---|---:|---:|
+| **RF corta corporativa IG** | Amortiguador: duración 1,95, IG, cupón 4,65 % | 31.900 | 32,9 % |
+| **RF flexible (ABS)** | Titulizaciones europeas de corta vida, SRRI 2 | 5.000 | 5,2 % |
+| **Crédito nórdico** | Corporativo Noruega/Suecia, 88 % bonos, SRRI 2 | 5.000 | 5,2 % |
+| **RV value Europa (small/mid)** | Compañías a 0,8x valor en libros, beta 0,40 | 5.000 | 5,2 % |
+| **RV value global** | Value global con energía y shipping (22 % energía) | 5.000 | 5,2 % |
+| **RV small cap global** | MSCI World Small Cap indexado | 3.700 | 3,8 % |
+| **RV Europa large** | MSCI Europe indexado | 5.000 | 5,2 % |
+| **RV emergentes** | MSCI EM indexado | 6.400 | 6,6 % |
+| **Cartera automatizada** | 78 % RV / 22 % RF en 9 fondos indexados | 30.000 | 30,9 % |
+
+Dentro de Rock: 23.400 € de RV (24,1 % de la cartera) y 6.600 € de RF (6,8 %).
+
+### 10.2 Tipos de activo (todo el look-through)
+
+| Activo | € | % | De dónde |
+|---|---:|---:|---|
+| Renta variable | 48.500 | 50,0 % | 25.100 manuales + 23.400 de Rock |
+| Deuda corporativa | 27.803 | 28,7 % | Neuberger 73,3 % (23.376) + Sissener 88,1 % (4.407) |
+| Titulizaciones (ABS/RMBS/MBS) | 10.344 | 10,7 % | Neuberger 17,0 % (5.414: RMBS 7,7 + ABS 6,9 + agencia 3,0) + Aegon 98,6 % (4.930) |
+| Deuda soberana | 8.008 | 8,3 % | Rock 6.600 (US Treasury + Euro 20+) + Neuberger 3,9 % (1.231) + Sissener 3,6 % (178) |
+| Bonos cubiertos (covered bonds) | 1.674 | 1,7 % | Neuberger 5,2 % |
+| Liquidez | 553 | 0,6 % | Sissener 368 (7,4 %) + Neuberger 185 (0,6 %) |
+| Sin clasificar en las fichas | 118 | 0,1 % | El 1,6 % de RV dentro de Sissener y redondeos |
+| **TOTAL** | **97.000** | **100 %** | |
+
+> **Nota de ficha:** los sectores del Neuberger en el catálogo suman 103,6 % (el RMBS, el ABS y la
+> titulización de agencia se solapan entre categorías); las filas del NB se **normalizan a 100 %**
+> (corporativo 76,4 → 73,3, titulizaciones 17,7 → 17,0, Gobierno 4,0 → 3,9, cubiertos 5,5 → 5,2).
+> El desglose exacto del solape lo daría la ficha de la gestora, no el catálogo del bróker. La ficha
+> de Sissener y de Aegon suma 100 % y entra tal cual.
+
+**Lo que no hay:** oro, materias primas, inmobiliario directo, renta fija emergente, high yield puro,
+private equity, cripto, acciones individuales. El inmobiliario solo aparece indirecto: 8,0 % del small
+cap y 7,6 % del Value (≈0,7 % de la cartera).
+
+### 10.3 Geografía de la renta variable
 
 | Región | % de la RV | % de la cartera |
-| --- | ---: | ---: |
-| USA | 32,5% | 16,3% |
-| Europa | 29,0% | 14,5% |
-| Emergentes | 20,4% | 10,2% |
-| Japón | 6,6% | 3,3% |
-| Otros desarrollados (Canadá, Australia, Pacífico) | 2,0% | 1,0% |
-| Resto sin desglosar en las fichas | 9,5% | 4,8% |
+|---|---:|---:|
+| Estados Unidos | 32,5 % | 16,3 % |
+| Europa | 29,0 % | 14,5 % |
+| Emergentes | 20,4 % | 10,2 % |
+| Japón | 6,6 % | 3,3 % |
+| Otros desarrollados (Canadá, Australia, Pacífico) | 2,0 % | 1,0 % |
+| Sin desglosar en las fichas | 9,5 % | 4,8 % |
 
-El «resto» sube al 9,5% porque Cobas no publica el país del 44% de su cartera. Sesgo deliberado:
-**USA −30 pp frente a un MSCI World** (18,7x, 46% tecnología), **Europa +14 pp** (13,6x) y
-**emergentes +10 pp** (10,2x). Es la única forma de subir RV sin comprar más concentración americana.
+El 9,5 % sin desglosar es sobre todo Cobas, que no publica el país del 44 % de su cartera, y el 6 % de
+la RV de Rock que no cae en un país concreto. **Frente a un MSCI ACWI (63 % EE. UU., 15 % Europa, 10 %
+emergentes), esta cartera lleva 30,5 pp menos de EE. UU., 14 pp más de Europa y 10,4 pp más de
+emergentes.** La renta variable es exactamente la del 31/10: esta tabla no cambia al cambiar dos fondos
+de renta fija.
 
-## 6. Las órdenes: origen, destino y euros
+Dentro de emergentes: Taiwán 27 %, Corea 21 %, China 19 %, India 11 %, Brasil 4 %, Sudáfrica 3 %.
 
-**25.000 € por traspaso** (0 € de impuestos, 0% de reembolso en los cinco fondos que salen) **+ 7.000 €
-de aportación nueva**.
+### 10.4 Geografía de la renta fija
 
-| # | Origen | ISIN origen | € | Destino | ISIN destino |
-| --: | --- | --- | ---: | --- | --- |
-| 1 | Gamma Global A FI | ES0140794001 | 6.300 | Neuberger Short Duration Euro Bond U | IE00BL1GVT98 |
-| 2 | Gamma Global A FI | ES0140794001 | 1.700 | Vanguard Global Small-Cap Index EUR Acc | IE00B42W4L06 |
-| 3 | Carmignac Portfolio Credit A | LU1623762843 | 3.000 | Neuberger Short Duration Euro Bond U | IE00BL1GVT98 |
-| 4 | Carmignac Portfolio Credit A | LU1623762843 | 4.000 | iShares Emerging Markets Index S Acc | IE000QAZP7L2 |
-| 5 | DNCA Invest Alpha Bonds A | LU1694789451 | 600 | Neuberger Short Duration Euro Bond U | IE00BL1GVT98 |
-| 6 | DNCA Invest Alpha Bonds A | LU1694789451 | 5.000 | Fidelity MSCI Europe Index P Acc EUR | IE00BYX5MD61 |
-| 7 | DNCA Invest Alpha Bonds A | LU1694789451 | 2.400 | iShares Emerging Markets Index S Acc | IE000QAZP7L2 |
-| 8 | Neuberger Next Generation Space Economy | IE00018YKVN0 | 1.000 | Vanguard Global Small-Cap Index EUR Acc | IE00B42W4L06 |
-| 9 | UBS MSCI China All Shares Universal | LU1815002040 | 1.000 | Vanguard Global Small-Cap Index EUR Acc | IE00B42W4L06 |
-| 10 | Aportación nueva | — | 3.000 | MyInvestor Value C | ES0165243025 |
-| 11 | Aportación nueva | — | 4.000 | Cobas International P | LU1598719752 |
-| | **Total** | | **32.000** | | |
+| Zona | € | % de la RF | Emisor típico |
+|---|---:|---:|---|
+| Eurozona (DE, FR, IT, NL, IE, ES) | 16.100 | 33,3 % | Corporativo IG, covered bonds, RMBS irlandés |
+| Estados Unidos | 8.700 | 17,9 % | Corporativo IG (Neuberger 14 %) y Treasury (Rock) |
+| Reino Unido | 6.700 | 13,9 % | Corporativo IG y ABS (Aegon 31 %) |
+| Nórdicos (NO, SE, DK) | 3.100 | 6,4 % | Crédito nórdico (Sissener 62 %) |
+| Canadá y otros | 300 | 0,6 % | Corporativo |
+| Sin desglosar | 13.600 | 28,0 % | Resto de Neuberger |
 
-**Por destino:** Neuberger +9.900 · Small-Cap +3.700 · Emergentes +6.400 · Europa +5.000 · Value
-+3.000 · Cobas +4.000.
+### 10.5 Divisas (sin cobertura)
 
-**Saldos resultantes del bloque manual (67.000 €):** Neuberger 31.900 · DNCA 5.000 · Carmignac 5.000 ·
-Value 5.000 · Cobas 5.000 · Small-Cap 3.700 · Europa 5.000 · Emergentes 6.400. Gamma, Space y China a
-0. Rock sigue en 30.000. Total 97.000 €.
+| Divisa | % de la cartera |
+|---|---:|
+| EUR | ≈29 % |
+| USD | ≈26 % |
+| GBP | ≈10 % |
+| JPY | ≈3 % |
+| NOK y SEK | ≈4 % |
+| CHF | ≈1 % |
+| Emergentes (TWD, KRW, CNY, INR, BRL, ZAR, HKD) | ≈6 % |
+| Mixto / sin desglosar (Cobas no publica el 44 % de su cartera) | ≈21 % |
 
-### 6.1 En qué orden, tanda por tanda
+La cartera **no cubre divisa**: el 26 % en dólares es una posición deliberada, no un descuido. Es la
+palanca que hace que la parte europea y emergente pese cuando el dólar baja.
 
-Tres tandas, una por mes. Primero se corta el crédito (Gamma es el 81% de bonos HY de energía, GNL y
-shipping del bloque) y se aparca en deuda corta al 4,65%; el DNCA —soberano y flexible, el riesgo más
-limpio— se deja para el final.
+### 10.6 Sectores de la renta variable (aproximado, top 6 de cada ficha)
 
-| Tanda | Cuándo | Órdenes | € |
-| --- | --- | --- | ---: |
-| **1** | mes 1 | Gamma → Neuberger 6.300 · Gamma → Small-Cap 1.700 | 8.000 |
-| | | Space → Small-Cap 1.000 · China → Small-Cap 1.000 | 2.000 |
-| | | **Aportación nueva:** Value 3.000 · Cobas 4.000 | 7.000 |
-| | | *subtotal* | **17.000** |
-| **2** | mes 2 | Carmignac → Neuberger 3.000 · Carmignac → Emergentes 4.000 | 7.000 |
-| **3** | mes 3 | DNCA → Neuberger 600 · DNCA → Europa 5.000 · DNCA → Emergentes 2.400 | 8.000 |
-| | | **TOTAL** | **32.000** |
+| Sector | % de la RV |
+|---|---:|
+| Tecnología | 21,1 % |
+| Consumo cíclico | 12,7 % |
+| Servicios financieros | 12,5 % |
+| Industria | 12,4 % |
+| Salud | 8,4 % |
+| Comunicación | 5,1 % |
+| Energía | 2,8 % |
+| Materiales básicos | 2,0 % |
+| Inmobiliario | 1,4 % |
+| Consumo defensivo | 1,2 % |
+| Sin desglosar (resto de cada ficha y Rock) | 20,5 % |
 
-La renta variable se compra en 10.700 / 4.000 / 7.400. **Es secuencia operativa, no market timing**:
-tres meses no cubren un riesgo que la misma tesis sitúa a 6-12 meses. O se entra de una vez (Andrés
-16/10: «cuanto antes entra el dinero, mejor») o se reparte a 9-12 meses; queda abierto en §9.
+La tecnología pesa 21 % **por los emergentes** (42 % del iShares EM: Taiwán y Corea) y por el S&P 500
+de Rock, no por una apuesta temática.
 
-Cortes horarios: 09:00 emergentes · 10:00 Neuberger y DNCA · 12:00 Europa, Value y China · 14:00 Space
-y Cobas · 16:00 Carmignac y Small-Cap. La liquidación tarda entre 2 y 5 días hábiles y el traspaso se
-ejecuta solo: no hay que tener el efectivo en cuenta.
+### 10.7 Estilo y capitalización
 
-### 6.2 Comprobaciones
+| Eje | Reparto |
+|---|---|
+| Indexado / activo | **79,4 % / 20,6 %** de la RV |
+| Value declarado | 20,6 % de la RV (Value + Cobas) |
+| Small y mid cap | ≈28 % de la RV (Small 3.700, Value 5.000, parte de Cobas) |
+| Large cap | ≈72 % de la RV |
 
-| Comprobación | Estado |
-| --- | --- |
-| Los 6 ISIN de destino existen en MyInvestor con esa clase | ✅ fichas del 29/10 |
-| Reembolso de los 5 fondos que salen | ✅ 0,00% en los cinco |
-| Comisión de entrada de los destinos | ✅ 0,00% en Small-Cap, Europa, Value y Cobas · ⚠️ Neuberger «hasta 3%» (máx. 297 € una vez sobre 9.900) · ❓ iShares EM sin dato público |
-| Mínimos | ✅ DNCA pide 2.500 € y se queda con 5.000; el resto, 0-1 € en plataforma |
-| Comisión de éxito | ✅ Value 9% con marca de agua (≈1,04%/año, CNMV) · Cobas sin éxito |
-| Clases de acumulación | ✅ los 8 fondos dan `distributing = 0` en ficha del 29/10 (regla del 02/11) |
+### 10.8 Concentración por gestora
 
-## 7. Qué cuesta esta decisión, dicho sin maquillaje
+| Gestora | € | % cartera |
+|---|---:|---:|
+| Neuberger Berman | 31.900 | 32,9 % |
+| Fidelity (directo + dentro de Rock) | 20.300 | 20,9 % |
+| Vanguard (directo + dentro de Rock) | 10.900 | 11,2 % |
+| BlackRock/iShares (directo + dentro de Rock) | 9.700 | 10,0 % |
+| Cobas | 5.000 | 5,2 % |
+| Andbank (MyInvestor Value) | 5.000 | 5,2 % |
+| Aegon | 5.000 | 5,2 % |
+| Sissener / FundRock | 5.000 | 5,2 % |
+| Goldman Sachs (dentro de Rock) | 4.200 | 4,3 % |
 
-- **Se renuncia a 958 €/año de carry** (5,39% → 4,79% sobre la RF manual): salen 15.000 € de crédito
-  (Gamma fuera, Carmignac a la mitad), 8.000 € de RF flexible y 9.900 € vuelven a deuda corta;
-  **13.100 € pasan de renta fija a renta variable** (los otros 7.000 son dinero nuevo).
-- **Las comisiones bajan en los 90.000 € que ya tenías** (671 → 468 €) y **suben con el dinero nuevo**:
-  los 7.000 € aportados cuestan ~167 €/año porque van a los dos fondos más caros. Total 635 €.
-  **Los dos value son el 47% del coste manual para el 15% del dinero.**
-- **El cambio de asignación, en números:** 13.100 € que pasan a bolsa ganan **234 €/año** de retorno
-  esperado (1,79 pp de diferencial) y añaden **5.240 € de caída** en un escenario tipo 2008. Es una
-  decisión de riesgo, no de rentabilidad.
-- **De golpe: 0 € de salida y como mucho 297 € de entrada** (el 3% del Neuberger, si se aplica).
-- **Se asume más riesgo de mercado**: la caída esperada pasa de −15% a −21,5% (×1,4).
-- **Si el evento de crédito llega**, la cartera pierde menos en bonos pero más en bolsa: con HY a 700 pb
-  y bolsa −20%, el rebalanceo protege el bloque de renta fija, no el total. Lo que sufre menos en ese
-  escenario es la cartera de Ábaco (16% de RV), no esta.
+**La mayor concentración de la cartera es el Neuberger con un 32,9 %.** Es el precio de tener un solo
+fondo haciendo de amortiguador; repartirlo entre dos gestoras bajaría ese número pero duplicaría el
+número de posiciones y no mejoraría ni el coste ni la TIR.
 
-## 8. Lo que se descarta y por qué
+## 11. Sello del barrido por bloques con el catálogo (03/11/2026)
 
-| Descartado | Motivo |
-| --- | --- |
-| MSCI World / S&P 500 como núcleo | No añade ninguna compañía nueva: Rock ya tiene 15.900 € de large cap desarrollado. Al 18,7x con 46% de tecnología es la apuesta que las fuentes señalan |
-| El 54,9% de la versión anterior | Cinco de sus diez puntos salían del €STR, no de la RF que tiene la cartera (§2). Con la señal corregida el modelo da 50% |
-| Small caps en 10.000 € | Era el 11,1% de la cartera y la tercera apuesta al factor tamaño, con el índice al 61% USA. Se queda en 3.700 € como satélite |
-| Un solo fondo value de 10.000 € | Dos gestores con cero solape dan más diversificación que uno solo al doble. El precio son 240 €/año |
-| Robeco QI Emerging Markets (1,52%) | Bate al índice (3 años: 23,5% vs 21,1%), pero es una apuesta por un equipo a 10 veces el coste del indexado. Se elige el índice y se anota que la fuente recomienda el activo |
-| iShares Euro Gov Inflation-Linked | El trade de Ábaco es deuda americana al 3,1-3,2% real; el equivalente euro rinde 0,3-0,5% real y añade 7,6 años de duración |
-| iShares Global Agg 1-5Y EUR Hedged | +0,03% a 1 año: la cobertura a EUR se come el cupón |
-| iShares Euro Credit | Rinde 3,4% frente al 6,5% de Carmignac: se pagan 3 pp de rentabilidad por ahorrar 1 pp de comisión |
-| Arcus Japan Fund (1,5% TER) | Japón ya está cubierto por índice al 0,10%; el invitado del webinar lo comercializa |
-| Bajar a 35-45% de RV | La renta fija de la cartera ya da +1% real y el crédito no paga prima: bajar cuesta ~0,2 pp de retorno por cada 10 puntos. Solo si el −21,5% no se aguanta |
-| Subir a 65% hoy | 6 puntos más de caída por 0,3 de retorno. Solo tiene sentido si el S&P cae 20% con beneficios intactos, y entonces lo dirá la señal |
-| **Horos Value Internacional** (ES0146309002, 1,90%) | Traído de la entrevista del 30/10. Descartado por **solape doble**: su primera posición es TGS, que ya está en el top 10 de Cobas, y Francia pesa el 20,7% igual que en MyInvestor Value (22,7%). Un tercer value pagaría 95 €/año más por duplicar dos apuestas |
-| **Azvalor Internacional** (ES0112611001, 1,88%) | Traído del mismo vídeo. Descartado por **coste de salida y factor repetido**: comisión de reembolso del 3% en partidas de menos de 12 meses (incompatible con las tres tandas y con el rebalanceo), mínimo de 5.000 €, y 60% entre energía y materias primas, el mismo ciclo que Cobas ya cubre |
-| **Ábaco Renta Fija R** (ES0124526015, 0,96%) | Traído del vídeo del 01/11. Descartado por **peor carry y más comisión**: 3 años al 3,96% frente al 4,38% del Neuberger, que cobra 0,38% en vez de 0,96%. Con 22,7% en liquidez y calidad de crédito marcada como alto rendimiento, no mejora el bloque de renta fija |
-| **Kaizen Global Income** (ES0156674006) | Está disponible en MyInvestor y Andrés lo elogia en el vídeo, pero es un mixto que rompe la regla «cada euro es RV o RF»; en la otra cartera se queda y se recorta del 35,4% al 25% justamente por concentración |
+Ninguna posición está dominada por lo que ofrece el catálogo de MyInvestor. Cada bloque se barrió con
+`search_funds` (por TER y por 3A) y con las fichas de los finalistas:
 
-## 9. Lo que queda abierto
+| Posición | Veredicto | Por qué, con el número |
+|---|---|---|
+| **Neuberger 0,38 %** | Se queda | Los IG indexados euro rinden menos carry a más duración (iShares Euro IG 0,12 %: 3A 4,18, vol 3,53; Vanguard Euro IG: 3A 3,56). El Vanguard similar más barato (0,18 %) solo existe **cubierto** (USD-Hedged 5,68; clase EUR-Hedged 3A 3,78: casi 2 pp de drag es divisa/cobertura). El «0,04 %» de Lazard cobra 0,50 + 20 % de éxito con −15,7 % de liquidez |
+| **Fidelity MSCI Europe 0,10 %** | Empata al mínimo | Mismo índice y TER que iShares Europe (IE00BDRK7L36); iShares lleva +0,37 pp a 3A (17,81 vs 17,44) — ruido de tracking, no ahorro garantizado: traspaso sin beneficio cierto |
+| **iShares EM 0,16 %** | Se queda | El propio catálogo lo marca como el más barato de los 27 indexados de emergentes |
+| **Vanguard Small-Cap 0,29 %** | Se queda | Únicas alternativas: clases del mismo fondo; la clase Investor está en soft close y el plan usa la abierta equivalente (IE00B42W4L06) |
+| **Aegon European ABS 0,66 %** | Se queda | El catálogo no filtra por titulización; el otro candidato del segmento (Pareto Nordic Cross, vol 3A 0,80) cae por precio suavizado |
+| **Sissener 0,90 %** | Se queda | Líder de crédito IG con SRRI 2 (3A 6,85, vol 2,05). Los que le superan en 3A son **cat bonds** (GAM Swiss Re 9,1-11,1, Twelve 9,3): otro activo (ILS, riesgo de catástrofe), TER 1,28-1,55 y reembolso a 10 días |
+| **MyInvestor Value** | Se queda | JPM Europe Strategic Value (1,72 %, 3A 23,5, vol 10,1) es otro factor: 43,9 % servicios financieros large cap (ficha); Paradigma Value Catalyst (3A 23,1) es fondo de 2021 con 1,90 % + 10 % de éxito |
+| **Cobas International 2,33 %** | Se queda | 3A 26,5 %, 5A 17,1 %, vol 12,3 %: la mejor relación retorno/vol de los value globales del catálogo; soft close literal en la ficha (el traspaso de salida siempre posible) |
+| **Rock (automatizada)** | Intocable | Regla de la carpeta: no se desarma una cartera automatizada barata que ya cubre los índices |
 
-- **Los gastos mensuales reales.** El colchón de 10.000 € nunca se ha dimensionado contra un dato de
-  gasto. Si deben ser 18.000-20.000 €, la base invertible baja y toda la tabla cambia.
-- **Aguantar el −21,5%.** Si no, el modelo baja a 45% (−20%) o 35% (−16%). El camino más limpio es
-  recortar primero emergentes de 6.400 a 4.400 y small caps de 3.700 a 2.000.
-- **Ritmo de entrada.** Tres tandas mensuales (actual) o cuatro trimestrales si se quiere cubrir de
-  verdad la ventana de crédito de 6-12 meses.
-- **El 3% del Neuberger**, si MyInvestor lo aplica: hasta 297 € una vez.
-- **La comisión de entrada de la clase S de iShares EM**: sin dato público, se ve en la pantalla de
-  suscripción.
-- Todo lo demás está comprobado: clases, mínimos, reembolsos y comisión de éxito (§6.2).
+**Frase firmable:** «de las ocho posiciones manuales, todas están en el mínimo coste disponible para su
+índice o función, o fundadas dentro de su segmento; ninguna está dominada; Rock se rige por su regla
+propia». Ningún cambio de importe sale de este barrido: confirma el §4 tal como está.
 
-## 10. Cuándo se recalcula el porcentaje
+## 12. Lo que se descarta del catálogo
 
-Se revisa cada trimestre y también cuando se cumpla una de estas condiciones:
+| Candidato | Motivo |
+|---|---|
+| Vanguard Global Short-Term Corp (USD-Hedged y GBP-Hedged) | El +5,68 % a 3A es en divisa; la clase **EUR Hedged** (la comprable en euros) da 3,78 % — menos que el Neuberger |
+| Lazard Euro Short Duration FR0013506995 | TER 0,04 % engañoso: gestión 0,50 % + **20 % de éxito**, −15,7 % de liquidez (apalancado) |
+| GAM/Twelve/GAM Credit Opportunities (cat bonds) | Líderes del ranking de crédito por 3A (9,1-11,1 %) pero son bonos de catástrofe (ILS): otro activo, TER 1,28-1,55 y reembolso a 10 días |
+| Pareto Nordic Cross Credit LU2023199552 | Volatilidad 3A de 0,80 % en crédito: señal de precio suavizado, no de menos riesgo (el mismo métrico con el que aquí se mira el ABS; por eso las vol van publicadas a 5A también) |
+| JPMorgan Europe Strategic Value LU0210531983 | Otro factor: 43,9 % servicios financieros large cap; la cartera ya lleva valor Europa small/mid |
+| Nomura Japan Strategic Value (1,57 %, 3A 23,9 %) | Duplicaría el Japón que Rock ya cubre por índice |
+| Paradigma Value Catalyst (1,90 % + 10 % éxito) | Fondo de 2021 y YTD +44 %: sin historial completo, caro para duplicar el value que ya hay |
+| Brandes Global Value IE0031573896 | Mínimo 10.000 € y −4,5 pp anuales frente a Cobas |
+| iShares MSCI World 0,06 % (IE000ZYRH0Q7) | No es comparable: dejaría la cartera sin emergentes ni small cap (y añadiría EE. UU.) |
+| L&G MSCI ACWI IMI 0,16 % (IE0003PI5332) | Nacido en 2025, 14 % en liquidez: sin historial y con lastre de caja |
+| Indexados de crédito IG europeo (iShares Euro IG 0,12 %, Vanguard Euro IG, iShares Euro Credit) | Rinden 3,2-4,2 % a 3A con más duración que el Neuberger (4,65 % TIR a duración 1,95): se cede carry por ahorrar TER |
+| iShares Euro Gov Inflation-Linked | El trade de Ábaco es deuda americana al 3,1-3,2 % real; el equivalente euro rinde 0,3-0,5 % real y añade duración |
+| iShares Global Agg 1-5Y EUR Hedged | El drag de la cobertura a EUR se come el cupón |
+| Horos Value Internacional | **Solape doble**: su primera posición es TGS, que ya está en el top 10 de Cobas, y Francia pesa como en MyInvestor Value |
+| Azvalor Internacional | Comisión de reembolso del 3 % bajo 12 meses (incompatible con la ejecución) y 60 % energía/materias primas, ciclo que Cobas ya cubre |
+| Ábaco Renta Fija R (0,96 %) | 3 años 3,96 % frente al 4,38 % del Neuberger con doble comisión; 22,7 % en liquidez |
+| Kaizen Global Income | Un mixto que rompe «cada euro es RV o RF» |
+| Mixtos baratos (Cobas Renta 0,33 % + Baelo 0,64 %, 524 €/año) | Vía alternativa sin la regla RV/RF: ~64 €/año más barata que esta cartera, pero cambiaba la regla estructural; rechazada en la adopción del 03/11. Queda como la opción si algún día se levanta la regla |
+| Robeco QI Emerging Markets (1,52 %) | Bate al índice a 3 años (23,5 vs 21,1), pero es 10x el coste del indexado |
+| Arcus Japan Fund (1,5 %) | Japón ya cubierto por índice; lo comercializa el invitado del webinar |
+| Bajar a 35-45 % o subir a 65 % de RV | La RF ya da ≈+0,85 % real; subir añade 6 pp de caída por 0,3 pp de retorno (§2) |
+
+## 13. Qué aportaron los anexos y las revisiones (03/11/2026)
+
+| Hallazgo | Documento | Decisión final | Efecto en las órdenes |
+|---|---|---|---|
+| El ETF VanEck TRET reparte dividendo trimestral | investigación | **Regla de acumulación** adoptada (fondos, ETF y acciones) | Ninguna: no había ETF en la cartera |
+| Las cuatro acciones de la investigación reparten 0,5-4,2 % | investigación | Bloque de acciones directas cerrado | Ninguna |
+| El hueco real es **0 % de activos reales** | alternativa + investigación | **No se abre**: REITs subiría EE. UU. 5,6 pp y el sector lleva 5 años al 0,6 % anual | Ninguna |
+| Fundsmith (1,09 %) como bloque de calidad | alternativa + investigación | No entra: 5 años por debajo del índice y 79,6 % USA | Ninguna |
+| Tres candidatos de RF barata (Vanguard Short Corp, iShares IG, Amundi) | alternativa | **Confirman el Neuberger** (re-verificado el 03/11, §11). El Amundi pide 500.000 € | Ninguna |
+| Fidelity MSCI Japan es el mismo ISIN que dentro de Rock | alternativa | Japón ya cubierto; no se duplica | Ninguna |
+| Cobas Renta FI existe al **0,33 %** con 3A ~9 % | incluye-mixto | La vía mixta se **rechaza** al adoptar la avanzada; queda como alternativa si algún día se levanta la regla RV/RF | Ninguna |
+| El coste real de las comisiones de éxito del 20 % (DNCA, Carmignac) | incluye-mixto | **Ambos salen** con la adopción del 03/11; queda el 9 % de MyInvestor Value | Órdenes 3, 6-8 y 5 |
+| Levantar la regla ahorraba 111 €/año | incluye-mixto | Rechazada por el titular al adoptar la avanzada | Ninguna |
+| La cartera entera se podría sustituir por Indexa 75 (0,64 %, 1 posición) | conversación | Rechazado: 73 % de RV (caída −30,2 %) y pierde el sesgo | Ninguna |
+| Revisión adversarial del 03/11 sobre el borrador avanzado | revisión en sesión | Duración corregida (≈3,3, no 2,5), vol 5A publicadas, check del día 2 arreglado, §10.2 re-cuadrado con la ficha, cobertura de divisa marcada como límite | Ninguna en importes |
+
+**Ficheros eliminados el 03/11 con contenido absorbido:** `propuesta-actual-avanzada.md` (este cuerpo)
+y `propuesta-incluye-mixto.md` (vía de mixtos baratos, fila clave arriba). La propuesta del 31/10
+queda en el historial de git. La única discusión abierta de los anexos sigue siendo si algún día se
+cierra el hueco de activos reales: hoy, no, con el número delante (3.200-5.000 € de REITs al 0,17 %
+darían 2-3 % de cartera en un sector de 0,6 % anual por subir EE. UU. 5,6 pp).
+
+## 14. Cuándo se revisa
+
+Revisión trimestral y además cuando se cumpla una de estas señales (el modelo del §2 se vuelve a
+puntuar entero; las señales no son aditivas):
 
 | Señal | Umbral | Efecto en el % de RV |
 | --- | --- | --- |
-| Coste real del dinero | La RF de la cartera cae por debajo de la inflación | **+3** → ~53% |
-| Prima de crédito | HY OAS >700 pb | **−3** → ~47% (vuelve el crédito) |
-| Valoración RV | S&P 500 −20% con beneficios intactos | **+6** → ~56% |
-| Evento de crédito materializado | Spreads >700 pb y default en curso | **+4** → ~54% |
-| Prima de riesgo de la RV | *Earnings yield* − bono <1 pp | **−10** → ~40% |
-| Inflación y tipos | Inflación <2% y BCE bajando | **−3** → ~47% (la RF vuelve a dar retorno real) |
+| Coste real del dinero | La RF de la cartera cae por debajo de la inflación (medido **cobrado**, no YTW) | **+3** → ~53 % |
+| Prima de crédito | HY OAS >700 pb | **−3** → ~47 % (vuelve el crédito) |
+| Valoración RV | S&P 500 −20 % con beneficios intactos | **+6** → ~56 % |
+| Evento de crédito materializado | Spreads >700 pb y default en curso | **+4** → ~54 % |
+| Prima de riesgo de la RV | *Earnings yield* − bono <1 pp | **−10** → ~40 % |
+| Inflación y tipos | Inflación <2 % y BCE bajando | **−3** → ~47 % |
 
-Las señales no son aditivas: en cada revisión se vuelve a puntuar la tabla del §2 y sale un número
-nuevo. Además: rebalanceo si algún bloque se desvía más de 5 pp de su objetivo, revisión anual de Rock
-si se desvía más de 10 pp de su 78/22, y revisión del bloque de emergentes si se separa del 10%.
+Además, sobre las dos patas nuevas:
 
-## 11. Datos, fuentes y límites
+- **A los 3 meses de entrar**: comparar Aegon contra DNCA y Sissener contra Carmignac en retorno,
+  volatilidad y, si se puede, TIR. Si Aegon rinde por debajo del 3 % anualizado, se vuelve.
+- **Si Sissener cae más del 3 % en un mes sin que caiga el crédito europeo**: salir.
+- Rebalanceo si algún bloque se desvía >5 pp del objetivo; Rock >10 pp de su 78/22.
+- **Si MyInvestor publica TIR o duración** de los dos fondos nuevos, recalcular §6 con el dato real.
 
-- **Fichas MyInvestor MCP** a 29/10/2026: composición, TER, rentabilidades y volatilidad de los 9
-  fondos actuales, de los candidatos y de Rock.
-- **Fichas legales de quefondos** a 31/10/2026: comisiones de suscripción, reembolso y éxito de los
-  fondos implicados en los traspasos (§6.2).
-- **Carteras publicadas de Cobas**: top 10 a 30/06/2026 (comentario de la gestora) y posiciones
-  actuales (Yahoo Finance), usadas para verificar que no se solapa con MyInvestor Value.
-- **Factsheets de gestoras** a 30/09/2026: TIR, duración y rating medio de NB, DNCA, Carmignac,
-  Groupama y Gamma.
-- **`finance/reports/sintesis-inversor-2026-10-30.md`** e **`informe-canal-la-pizarra-de-andres-2026-10-30.md`**:
-  tesis y citas de Renta 4, Ábaco, Carlos y Andrés (18-25/10/2026), más los nueve `summary.md` del
-  canal y el webinar de Japón del 20/10.
-- **La versión del 54,9% se auditó y se tumbó**: la señal 1 medida con el €STR daba cinco puntos que
-  no eran de la cartera, y la duración decía bajar y subía. La corrección está aplicada en §2 y §5; el
-  debate completo quedó en el historial de git, no en un fichero aparte.
-- Límites: la duración de los dos fondos de RF de Rock es estimada (18 años para el 20+ y 6 para el US
-  Government); el 65% USA del GS Global de Rock es una estimación; el 44% de la cartera de Cobas no
-  viene desglosado por país; el drawdown y el retorno esperado son estimaciones propias, no un
-  backtest; las señales del §2 llevan pesos de juicio, no calibrados con series históricas; la
-  comisión de entrada de la clase S de iShares EM no está publicada.
+## 15. Fuentes, barrido y límites
 
-> No es asesoramiento financiero. Es una cartera construida sobre fichas de fondos y sobre lo que
-> cinco profesionales dicen en vídeo, con sus intereses comerciales a la vista.
+- **Fichas MyInvestor MCP a 30/10-02/11/2026**, verificadas por ISIN. **Re-verificación con `get_funds`
+  (NAV 30/10/2026) el 03/11** de Aegon, Sissener, DNCA, Carmignac y Neuberger, más el **barrido por
+  bloques con `search_funds`** (índicos Europa/EM/small cap, RF corta, crédito corporativo con SRRI 2,
+  value): §11. Barrido del catálogo previo: 2.410 fondos, 266 indexados.
+- **Fichas legales de quefondos (31/10)**: comisiones de suscripción, reembolso y éxito. **Comisiones
+  de éxito de ficha de gestora**: DNCA (20 % sobre €STR+1,40 % con high-water mark, 0,32 % cobrado) y
+  Carmignac (20 % sobre ICE BofA Euro Corp + HY, clawback 5 años).
+- **Factsheets de gestoras (30/09) y carteras publicadas de Cobas**: TIR, duración, rating y solapes.
+- **`sintesis-inversor-2026-10-30.md`** e **`informe-canal-la-pizarra-de-andres-2026-10-30.md`**: tesis
+  citadas en las reglas del §3.
+
+Límites: la duración y TIR de Aegon y Sissener **no publicadas** (≈3,3 años inferidos); el retorno 3A y
+el 2022 del **bloque** de RF son estimación (la vol y el carry de la RF de Rock no se publican) — las
+cifras que deciden son las de **fondo**, que sí son de ficha; los sectores del Neuberger en §10.2 se
+normalizan (el catálogo suma 103,6 %); la cobertura de divisa de las clases EUR (GBP de Aegon, NOK/SEK
+de Sissener) no está en la ficha; la comisión de entrada de los dos fondos nuevos y de la clase S de
+iShares EM, sin dato público; la duración de la RF de Rock es estimada (18 años el 20+, 6 el US
+Government); el 65 % USA del GS Global de Rock es estimación; el 44 % de la cartera de Cobas no viene
+desglosado por país; el drawdown y el retorno esperado son estimaciones propias; las señales del §2
+llevan pesos de juicio, no calibrados con series históricas; los gastos del colchón sin dimensionar.
+
+> No es asesoramiento financiero. Es una cartera construida sobre fichas del bróker y sobre lo que
+> cinco profesionales dicen en vídeo, con sus intereses comerciales a la vista. La decisión es del
+> titular, y la adoptó el 03/11/2026.

@@ -14,7 +14,7 @@ se escribe en un documento aparte con su propia fecha.
 
 | Carpeta | Qué es | Documentos |
 | --- | --- | --- |
-| `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (50/50 vigente) + dos anexos de investigación |
+| `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 03/11/2026**: 50/50 con Aegon ABS y Sissener, 588 €/año de coste real, con el barrido por bloques en §11) + dos anexos de investigación |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 
 ## Reglas
