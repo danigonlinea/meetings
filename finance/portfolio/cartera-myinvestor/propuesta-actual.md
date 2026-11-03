@@ -56,7 +56,10 @@ el perfil es la *consecuencia*, no la entrada. Base neutra para horizonte largo:
 | | **Total: 45 + 5 = 50 %** | |
 
 **Decisión: 50,0 % de RV (48.500 €) y 50,0 % de RF (48.500 €).** Con la base de 90.000 € quedaba 49,3 %;
-la aportación nueva permite cuadrar los importes al decimal.
+la aportación nueva permite cuadrar los importes al decimal. (El 50 % es una **convención de cálculo**
+— satélites al 100 %, Rock al 78 % —, no un look-through estricto: pesando la RV real de cada ficha —
+Value 95,4 %, Cobas 72,9 % — son 46.965 €, el 48,4 %; la caída estricta ≈ −20,9 %. No rebalancear:
+es convención, no desfase.)
 
 > **La señal 1 vale 0, no +5**, y se mide con la RF que la cartera tiene: puntuar con el €STR contra la
 > inflación describía el monetario del colchón y llevó una versión anterior al 54,9 %. Y **el carry es
@@ -171,10 +174,12 @@ está en el Neuberger (35 %) y en Rock (42,5 %), que no se tocan, y los 10.000 �
 22,5 %. El suelo matemático de la cartera entera es 2,84 años aunque los dos fondos nuevos tuvieran
 duración cero. Cada +100 pb cuesta ≈1.600-1.680 € en vez de 1.778 (100-180 € menos).
 
-**Retorno esperado** (estimación, no backtest): el *earnings yield* ponderado de la RV es 6,58 % (USA
-5,3 % a 18,7x, Europa 7,4 % a 13,6x, emergentes 9,8 % a 10,2x, Japón 6,3 %); el carry de la RF baja a
-4,42-4,67 %. La cartera parte de **≈5,6-5,7 % nominal** sin contar crecimiento de beneficios ni cambios
-de múltiplo.
+**Retorno esperado** (estimación, no backtest): el *earnings yield* ponderado de la RV es **≈6,3-7,0 %**
+con los pesos de §10.3 y los múltiplos de §2 (USA 5,35 % a 18,7x, Europa 7,35 % a 13,6x, emergentes
+9,80 % a 10,2x, Japón 6,3 %; el 11,5 % sin desglosar se imputa al 6,5 % — el 6,58 % original no se
+reproduce tal cual); el carry de la RF baja a 4,42-4,67 %. La cartera parte de **≈5,6 % nominal
+(±0,2 pp según cómo se impute el residual)** sin contar crecimiento de beneficios ni cambios de múltiplo. Con el bono
+de la RF al 4,67 %, la prima de la RV es 1,6-2,4 pp: la señal de −10 puntos (prima <1 pp) no se activa.
 
 ## 7. Las órdenes, paso a paso
 
@@ -263,7 +268,9 @@ Checks al cerrar el día 3:
 - [ ] Neuberger 31.900 · Aegon 5.000 · Sissener 5.000 · Value 5.000 · Cobas 5.000 · Small-Cap 3.700 ·
       Europa 5.000 · EM 6.400 = **67.000 €** manuales.
 - [ ] Rock intacto en **30.000 €**. Total **97.000 €**.
-- [ ] RV 50,0 % / RF 50,0 % por look-through.
+- [ ] RV 50,0 % / RF 50,0 %, con la convención del 31/10 (satélites al 100 %, Rock al 78 %). El
+      look-through estricto da 48,4 % de RV (46.965 €): Value es 95,4 % RV y Cobas 72,9 %; con esos
+      pesos la caída estimada es ≈ −20,9 %. No se rebalancea: es convención, no desfase.
 - [ ] Coste 588 €/año (0,606 %): 536 € de TER + 52 € del éxito del 9 % de MyInvestor Value. Comprobar
       que no quedó ninguna comisión de éxito del 20 %.
 - [ ] Los justificantes de los **diez traspasos** archivados (son la prueba del 0 % fiscal). Las dos
@@ -338,8 +345,11 @@ rentabilidad tiene que subir la RV, y eso es otra decisión (§2 y §14).
 - **¿Cubre las divisas la clase EUR?** La ficha no lo dice: el 31 % GBP de Aegon y el ~58 % NOK/SEK de
   Sissener pueden entrar en el retorno sin cobertura (§10.5 los cuenta como exposición sin cubrir).
   Es verifiable en la pantalla de suscripción del bróker, no en el catálogo.
-- **El colchón de 10.000 € sigue sin dimensionar** contra los gastos mensuales reales. Si deben ser
-  18.000-20.000 €, la base invertible baja y toda la tabla cambia.
+- **El colchón de 10.000 €**: criterio de la clase de Ackman (34:33): 6 meses de gastos, «quizá
+  incluso 12». Con 10.000 €, cubre si el gasto mensual está entre 833 € y 1.667 €; si es mayor, el
+  colchón se redimensiona contra los extractos **antes de ejecutar §7**: 3.000 € más de colchón son
+  3.000 € menos de cartera. Es la única cifra sin dimensionar que puede mover la tabla entera, y la
+  decide el titular, no un vídeo.
 
 ## 10. Diversificación por bloques
 
@@ -518,6 +528,7 @@ propia». Ningún cambio de importe sale de este barrido: confirma el §4 tal co
 | Kaizen Global Income | Un mixto que rompe «cada euro es RV o RF» |
 | Mixtos baratos (Cobas Renta 0,33 % + Baelo 0,64 %, 524 €/año) | Vía alternativa sin la regla RV/RF: ~64 €/año más barata que esta cartera, pero cambiaba la regla estructural; rechazada en la adopción del 03/11. Queda como la opción si algún día se levanta la regla |
 | Robeco QI Emerging Markets (1,52 %) | Bate al índice a 3 años (23,5 vs 21,1), pero es 10x el coste del indexado |
+| Familia «calidad» del catálogo (Wellington Global Quality 1,79 %, MS Global Brands 1,84 %, DWS CROCI 1,49 %, Santalucía Quality 2,10 %, Comgest Growth Global 2,08 %) | Existe, rotulada de verdad (15-26 años de historial) pero cara: pierden 19-709 €/año frente al indexado de Europa y Cobas a 5A. La más fiel a la tesis «marcas con poder de precio» (MS Global Brands, 26 años) es la peor del grupo: 5A +0,97 %, −432 €/año. Sustituir Fidelity Europa por Fundsmith subiría el coste a 637 €/año y EE. UU. a 40,7 % de la RV (lo que §3 prohíbe) |
 | Arcus Japan Fund (1,5 %) | Japón ya cubierto por índice; lo comercializa el invitado del webinar |
 | Bajar a 35-45 % o subir a 65 % de RV | La RF ya da ≈+0,85 % real; subir añade 6 pp de caída por 0,3 pp de retorno (§2) |
 
@@ -536,6 +547,7 @@ propia». Ningún cambio de importe sale de este barrido: confirma el §4 tal co
 | Levantar la regla ahorraba 111 €/año | incluye-mixto | Rechazada por el titular al adoptar la avanzada | Ninguna |
 | La cartera entera se podría sustituir por Indexa 75 (0,64 %, 1 posición) | conversación | Rechazado: 73 % de RV (caída −30,2 %) y pierde el sesgo | Ninguna |
 | Revisión adversarial del 03/11 sobre el borrador avanzado | revisión en sesión | Duración corregida (≈3,3, no 2,5), vol 5A publicadas, check del día 2 arreglado, §10.2 re-cuadrado con la ficha, cobertura de divisa marcada como límite | Ninguna en importes |
+| Contraste con la clase de Ackman (Big Think 2012) | contraste 03/11 | Valida el marco de la cartera (riesgo = caída, no oscilación; colchón 6-12 meses; horizonte 5-10 años); la familia «calidad» del catálogo no entra (§12); convención RV/RF anotada (48,4 % estricto), EY recalculado (≈6,3-7,0 %) y criterio del colchón escrito en §9 | Ninguna en importes: tres correcciones de redacción |
 
 **Ficheros eliminados el 03/11 con contenido absorbido:** `propuesta-actual-avanzada.md` (este cuerpo)
 y `propuesta-incluye-mixto.md` (vía de mixtos baratos, fila clave arriba). La propuesta del 31/10
@@ -577,6 +589,10 @@ Además, sobre las dos patas nuevas:
 - **Factsheets de gestoras (30/09) y carteras publicadas de Cobas**: TIR, duración, rating y solapes.
 - **`sintesis-inversor-2026-10-30.md`** e **`informe-canal-la-pizarra-de-andres-2026-10-30.md`**: tesis
   citadas en las reglas del §3.
+- **Clase de Ackman (Big Think, 2012)**, ingerida en `finance/others/2012-11-27-ackman-finance-basics/`
+  y contrastada el 03/11 (`finance/reports/contraste-propuesta-ackman-2026-11-03.md`): criterio del
+  colchón (§9), barrido de la familia «calidad» (§12). Su dato de mercado (bono a 10 años ~3 %) está
+  1,95 pp por debajo del actual (4,95 %, `^TNX` 03/11) y no se usa como referencia.
 
 Límites: la duración y TIR de Aegon y Sissener **no publicadas** (≈3,3 años inferidos); el retorno 3A y
 el 2022 del **bloque** de RF son estimación (la vol y el carry de la RF de Rock no se publican) — las

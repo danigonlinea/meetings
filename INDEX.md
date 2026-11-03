@@ -5,9 +5,9 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/reports/contraste-propuesta-ackman-2026-11-03.md` | revision | finance | 2026-11-03 | Contraste de la cartera definitiva con la clase de Ackman (Big Think, 2012) | [cartera, verificacion, ackman, riesgo, coste, colchon, contraste, myinvestor] |
 | `finance/portfolio/cartera-myinvestor/tabla-vehiculos-2026-11-03.md` | reference | finance | 2026-11-03 | Tabla de vehículos: cartera definitiva y candidatos de calidad (03/11/2026) | [cartera, tabla, candidatos, calidad, comparativa, myinvestor, datos] |
 | `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-03 | Cartera definitiva: 50/50 con ABS y crédito nórdico (97.000 €) | [cartera, definitiva, renta-fija, abs, aegon, sissener, rebalanceo, rock, myinvestor, traspasos] |
-| `finance/portfolio/cartera-myinvestor/contraste-propuesta-ackman-2026-11-03.md` | revision | finance | 2026-11-03 | Contraste de la cartera definitiva con la clase de Ackman (Big Think, 2012) | [cartera, verificacion, ackman, riesgo, coste, colchon, contraste, myinvestor] |
 | `finance/reports/revision-adversarial-2026-11-02.md` | revision | finance | 2026-11-02 | Revisión adversarial de las dos charlas del 30/10 y 01/11 y su utilidad para la cartera | [revision-adversarial, la-pizarra-de-andres, horos, renta-fija, cobas, tgs, rock, kaizen, verificacion] |
 | `finance/reports/informe-canal-la-pizarra-de-andres-2026-11-02.md` | channel-report | finance | 2026-11-02 | Informe de canal: La Pizarra de Andrés (2026-11-02) | [informe-canal, la-pizarra-de-andres, cartera-propia, horos, value, holdings, inteligencia-artificial, renta-fija] |
 | `finance/portfolio/cartera-renta4/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-02 | Cartera Renta 4 — auditoría y propuesta de mejora (Kaizen se queda) | [cartera, renta4, auditoria, rebalanceo, fondos, renta-fija, kaizen, traspasos] |

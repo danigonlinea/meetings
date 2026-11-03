@@ -14,6 +14,11 @@ related: [finance/portfolio/cartera-myinvestor/propuesta-actual.md, finance/port
 > MyInvestor (2.410 fondos) y una **cartera ampliada de 10 fondos manuales**. Si se adopta, sus
 > conclusiones pasan a `propuesta-actual.md` y este fichero **se borra** (`git rm`).
 >
+> **Actualizado el 03/11/2026.** §3 es ahora **la tabla única de vehículos**: los 8 fondos de la vigente,
+> Rock y los 13 candidatos de calidad del catálogo, con el mismo juego de columnas y el coste de una pata
+> de 5.000 € para poder ordenarlos. §4 y §5 se recalculan con la renta fija de la vigente (Aegon y
+> Sissener, 588 €/año); con la base del 31/10 (DNCA y Carmignac) daban 635-662 €.
+>
 > **Incompatible con `propuesta-investigacion.md` (02/11/2026).** Los dos anexos se financian de los
 > mismos cuatro fondos: aquí salen 3.700 € del Vanguard Small-Cap (su saldo entero) y 3.000 € del
 > Fidelity Europe; allí salen 1.500 € del mismo small-cap y otros 1.500 € de Europa. Ejecutados juntos
@@ -74,38 +79,74 @@ Japón 8,0% · Australia 5,6% · Singapur 3,4% · Reino Unido 3,1% · Hong Kong 
 sector viene de una década mala, no de un pico); mínimo 1 €, corte 12:00, liquidación 4 días. Es el mismo
 tipo de vehículo que el resto de la cartera: indexado, acumulación, sin gestor.
 
-## 3. Segunda ronda: dos fondos de calidad con respaldo de analistas
+## 3. Calidad: la tabla completa, con la cartera al lado
 
-| Fondo | ISIN | TER | 3A anual | 5A anual | Vol 3A | Composición | Veredicto |
-| --- | --- | ---: | ---: | ---: | ---: | --- | --- |
-| **Fundsmith Equity Fund T EUR Acc** | LU0690375182 | 1,09% | +7,8% | +2,9% | 12,9% | USA 79,6% · Tecnología 32% · Salud 18% · Consumo defensivo 15% | **Sí, 3.000 €** |
-| **Comgest Growth Europe EUR Acc** | IE0004766675 | 1,59% | +2,8% | −0,9% | 13,7% | Francia 21% · UK 15% · Países Bajos 14% · Suiza 11% · USA 10% · Salud 22% | **Sí, 2.500 €** |
-| Comgest Growth Global USD Acc | IE0033535075 | 1,58% | +12,7% | +3,1% | 12,2% | USA 62,8% · Tecnología 34% | No: es Fundsmith más caro |
-| iShares Euro IG Corporate Bond Index D Acc | IE00BDRK7J14 | 0,12% | +4,2% | +0,1% | 3,5% | 99,8% corporativo euro IG | No: rinde menos que el Neuberger |
-| iShares Euro Government Bond Index D Acc | IE00BD0NC037 | 0,10% | +2,2% | −2,7% | 4,8% | Gobiernos euro; Francia 25, Italia 22, Alemania 20 | No: alarga duración a ~7 años |
-| Amundi Prime Euro Gov Bond IE | LU2339731064 | 0,05% | +2,3% | −2,6% | 4,9% | Gobiernos euro | No contratable: mínimo **500.000 €** |
+Barrido del catálogo el 03/11/2026 (`query "quality"`, `query "global brands"`, `sector "Consumo
+defensivo"`, gestoras Fundsmith y Comgest): 12 candidatos con ficha. Se comparan con los ocho fondos
+que ya están en cartera y con Rock, todos en la misma unidad —**coste de una pata de 5.000 €**— para que
+las filas se puedan ordenar. Datos de ficha MCP a 30/10/2026; `2022` es el año natural que la ficha da
+como «4A»; `Años` es la antigüedad de la clase.
 
-**Por qué estos dos y con ese tamaño.** No son «más de lo mismo»: la cartera no tiene ninguna exposición
-a *quality compounders* (márgenes altos, poco capital, retorno recurrente). Los dos son casas con
-filosofía declarada y seguimiento de analistas —Fundsmith, **Silver** de Morningstar, con Process, People
-y Parent en «Above Average»; Comgest, seleccionada por Morningstar entre 942 estrategias activas
-europeas— y los dos llegan con el historial reciente malo, que es justo cuando entrar en un estilo deja
-de ser perseguir el precio. 3.000 y 2.500 € son el 3,1% y el 2,6% de la cartera: suficientes para que el
-bloque pese, pequeños para que un error del gestor no decida la cartera.
+| Vehículo | ISIN | Rol | € en cartera | TER | 3A | 5A | Vol 3A | 2022 | EE. UU. | Años | Coste 5.000 €/año |
+| --- | --- | --- | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| **Neuberger Short Duration** | IE00BL1GVT98 | RF corta IG | 31.900 | 0,38 % | 4,41 | 2,24 | 1,93 | −5,68 | 14,1 % | 8,0 | 19,00 € |
+| **Aegon European ABS** | IE00BG226Z29 | RF flexible | 5.000 | 0,66 % | 4,38 | 2,94 | 0,95 | −4,00 | 0 % | 10,0 | 33,00 € |
+| **Sissener Corporate Bond** | LU2262944817 | Crédito nórdico | 5.000 | 0,90 % | 6,85 | 5,51 | 2,05 | +0,19 | 11,9 % | 7,6 | 45,00 € |
+| **MyInvestor Value C** | ES0165243025 | RV value Europa | 5.000 | ~1,42 % + 9 % éxito | n/d | n/d | n/d | n/d | 0 % | 5,0 | 71,00 € |
+| **Cobas International P** | LU1598719752 | RV value global | 5.000 | 2,33 % | 26,47 | 17,11 | 12,34 | +9,77 | 6,1 % | 9,4 | 116,50 € |
+| **Vanguard Global Small-Cap** | IE00B42W4L06 | RV small cap | 3.700 | 0,29 % | 18,64 | 6,98 | 14,50 | −13,46 | 60,9 % | 16,9 | 14,50 € |
+| **Fidelity MSCI Europe P** | IE00BYX5MD61 | RV Europa large | 5.000 | 0,10 % | 17,44 | 9,61 | 10,44 | −9,29 | 0 % | 8,6 | 5,00 € |
+| **iShares Emerging Markets S** | IE000QAZP7L2 | RV emergentes | 6.400 | 0,16 % | n/d | n/d | n/d | n/d | 0 % | clase S nueva | 8,00 € |
+| **Rock 78/22** | — | Automatizada | 30.000 | 0,41 % | n/d | n/d | n/d | n/d | n/d | — | 20,50 € |
+| Fundsmith Equity T Acc EUR | LU0690375182 | Calidad global, sin éxito | — | 1,09 % | 7,78 | 2,93 | 12,89 | −17,34 | 79,6 % | 15,0 | 54,50 € |
+| Wellington Global Quality Growth D | LU1366139522 | Calidad growth | — | 1,79 % | 16,91 | 6,65 | 13,34 | −20,87 | 61,6 % | 15,4 | 89,50 € |
+| Morgan Stanley Global Brands A EUR | LU2295319300 | Marcas con poder de precio | — | 1,84 % | 3,03 | 0,97 | 12,13 | −13,03 | 72,6 % | 26,0 | 92,00 € |
+| Morgan Stanley Global Quality A USD | LU0955010870 | Calidad global | — | 1,83 % | 8,95 | 1,97 | 12,02 | −19,91 | 64,3 % | 13,3 | 91,50 € |
+| Fidelity Global Consumer Brands A USD | LU0882574139 | Marcas de consumo | — | 1,91 % | 11,11 | 1,05 | 15,30 | −28,24 | 63,4 % | 26,2 | 95,50 € |
+| Altex Quality A EUR | LU1877826609 | Calidad growth | — | n/d | 18,64 | 6,26 | 15,89 | −30,67 | 70,8 % | 8,2 | n/d |
+| Santalucía Quality Acciones B | ES0108612013 | Calidad global | — | 2,10 % | 12,02 | 5,68 | 12,27 | −14,57 | 74,2 % | 9,5 | 105,00 € |
+| Comgest Growth Global EUR R | IE00BD5HXK71 | Calidad growth | — | 2,08 % | 10,11 | 3,35 | 11,39 | −20,18 | 62,8 % | 22,9 | 104,00 € |
+| Comgest Growth Europe EUR Acc | IE0004766675 | Calidad growth Europa | — | 1,59 % | 2,79 | −0,94 | 13,74 | −20,60 | 10,2 % | 26,5 | 79,50 € |
+| DWS CROCI Sectors Plus LC | LU1278917452 | Value por retorno sobre capital | — | 1,49 % | 10,93 | **9,23** | 12,93 | **+1,56** | 63,5 % | 11,0 | 74,50 € |
+| Sextant Quality Focus A | FR001400CEG4 | Calidad, alta convicción | — | n/d | 12,28 | — | 9,66 | — | 44,1 % | 3,9 | n/d |
+| GVC Gaesco Crossover M&S Quality A | ES0143562595 | Calidad con 13 % en caja | — | n/d | 18,35 | — | 8,38 | — | 24,4 % | 3,6 | n/d |
+| Brandes Global Value A EUR Acc | IE0031573904 | Value global clásico | — | 1,78 % | 19,62 | 12,95 | 10,50 | +0,12 | 44,2 % | 24,1 | 89,00 € |
 
-**Lo que hay que saber antes de comprarlos.** Fundsmith lleva **cinco años seguidos por debajo del MSCI
-World** (0,8% en 2025 frente al 12,8% del índice; 2,9% anual a 5 años) y su riesgo de persona clave es
-real: Morningstar ya bajó el pilar People por el banquillo corto y por Terry Smith. Comgest arrastra
-salidas de gestores veteranos que han recortado la convicción del analista. Y los dos cuestan **1,09% y
-1,59%** contra el 0,10-0,17% del núcleo indexado: se paga selección, no beta.
+La cartera vigente cuesta **588 €/año (0,606 %)** con esos TER. Filas con € en cartera: copia de
+`propuesta-actual.md` §4 al 03/11, que sigue siendo la fuente de verdad.
+
+**El veredicto, en cuatro líneas:**
+
+- **Solo dos candidatos llegan a 9 % a cinco años**: DWS CROCI (9,23 %) y Brandes (12,95 %). El primero
+  cuesta ×15 lo que el Fidelity Europe y pierde 19 €/año contra él; el segundo ya está rechazado por
+  mínimo de 10.000 €.
+- **Fundsmith sigue siendo la puerta razonable** (1,09 %, sin comisión de éxito, 15 años, el más barato
+  de la familia) y aun así rinde 334 €/año menos que el indexado de Europa y 709 €/año menos que Cobas
+  en la misma pata de 5.000 €. Es el precio de la selección activa, no un error de la ficha.
+- **Lo más «calidad» del catálogo es lo que peor funciona**: Morgan Stanley Global Brands (26 años, marcas
+  con poder de precio) da +0,97 % a cinco años. La etiqueta no paga; el precio de compra sí.
+- **Dos candidatos no pasan el filtro de cinco años** (Sextant 3,9; GVC Gaesco 3,6) y dos no publican TER
+  (Altex, Sextant), así que no se pueden comparar en igualdad.
+
+**Lo que hay que saber antes de comprar cualquier fila de la tabla.** No son «más de lo mismo»: la cartera no
+tiene exposición a *quality compounders* (márgenes altos, poco capital, retorno recurrente). Los dos que
+se proponen aquí son casas con filosofía declarada y seguimiento de analistas —Fundsmith, **Silver** de
+Morningstar, con Process, People y Parent en «Above Average»; Comgest, seleccionada por Morningstar entre
+942 estrategias activas europeas— y los dos llegan con el historial reciente malo, que es justo cuando
+entrar en un estilo deja de ser perseguir el precio. Y el precio se dice: Fundsmith lleva **cinco años
+seguidos por debajo del MSCI World** (0,8 % en 2025 frente al 12,8 %; 2,9 % anual a 5 años) con riesgo de
+persona clave en Terry Smith; Comgest arrastra salidas de gestores veteranos. Se paga **1,09-1,59 %**
+contra el 0,10-0,17 % del núcleo indexado: se paga selección, no beta. Quien no quiera pagarla tiene el
+mismo factor en ETF al **0,25 %** (iShares Edge MSCI World Quality Factor).
+
 
 ## 4. La cartera alternativa ampliada (97.000 €)
 
 | Bloque | Fondo | ISIN | € | Peso | TER |
 | --- | --- | --- | ---: | ---: | ---: |
 | RF corta IG | Neuberger Short Duration Euro Bond U | IE00BL1GVT98 | 31.900 | 32,9% | 0,38% |
-| RF flexible | DNCA Alpha Bonds A | LU1694789451 | 5.000 | 5,2% | 1,31% |
-| Crédito | Carmignac Credit A | LU1623762843 | 5.000 | 5,2% | 1,20% |
+| RF flexible | Aegon European ABS A | IE00BG226Z29 | 5.000 | 5,2% | 0,66% |
+| Crédito | Sissener Corporate Bond R | LU2262944817 | 5.000 | 5,2% | 0,90% |
 | RV value Europa small/mid | MyInvestor Value C | ES0165243025 | 4.000 | 4,1% | 1,42% + éxito |
 | RV value global | Cobas International P | LU1598719752 | 4.000 | 4,1% | 2,33% |
 | **RV calidad global** | **Fundsmith Equity Fund T EUR Acc** | **LU0690375182** | **3.000** | **3,1%** | **1,09%** |
@@ -148,22 +189,22 @@ fija**: carry y duración quedan intactos.
 ### 4.2 Versión mínima, si no se quiere tocar el value
 
 La primera ronda sola: **REITs 5.000 €** pagados con todo el small cap pasivo (3.700 €) y 1.300 € de
-Europa large cap. Deja **17 posiciones**, **0,651% de TER con la comisión de éxito estimada (632 €/año;
-0,598% y 580 € sin ella)**, activos reales en el 5,2% de la cartera y USA en el 34,5% de la RV. Es la
+Europa large cap. Deja **17 posiciones**, **0,602% de TER con la comisión de éxito estimada (584 €/año;
+0,549% y 532 € sin ella)**, activos reales en el 5,2% de la cartera y USA en el 34,5% de la RV. Es la
 versión que menos discute con la propuesta vigente y la que yo elegiría si solo se aprueba un cambio.
 
 ## 5. Qué cambia y qué no
 
-| Métrica | Propuesta vigente | **Mínima (ronda 1)** | **Ampliada (10 fondos)** |
+| Métrica | Vigente (03/11/2026) | **Mínima (ronda 1)** | **Ampliada (10 fondos)** |
 | --- | ---: | ---: | ---: |
 | Renta variable | 50,0% | 50,0% | 50,0% |
 | Activos reales | 0% | 5,2% (5.000 €) | 3,3% (3.200 €) |
 | Calidad (Fundsmith + Comgest) | 0% | 0% | 5,7% (5.500 €) |
 | Emergentes | 10,0% | 10,0% | 10,0% |
-| TER con éxito estimado | 0,655% · 635 €/año | 0,651% · 632 € | **0,682% · 662 €** |
-| TER puro | 0,601% · 583 € | 0,598% · 580 € | 0,629% · 610 € |
-| Carry de la RF | 4,79% (2.007 €/año) | igual | **igual** |
-| Duración RF | 3,67 años | igual | **igual** |
+| TER con éxito estimado | **0,606% · 588 €/año** | 0,602% · 584 € | **0,623% · 604 €** |
+| TER puro | 0,552% · 536 € | 0,549% · 532 € | 0,580% · 562 € |
+| Carry de la RF | 4,42-4,67% | igual | **igual** |
+| Duración RF | ≈3,3 años | igual | **igual** |
 | Nº de posiciones | 17 (8 + 9) | 17 (8 + 9) | **19 (10 + 9)** |
 | RV activa / pasiva | 20,6% / 79,4% | 20,6% / 79,4% | **27,8% / 72,2%** |
 | Exposición USA de la RV | 32,5% | 34,5% | **37,6%** |
@@ -185,8 +226,9 @@ país del 39% restante):
 
 ## 6. El precio de estos cambios, sin maquillaje
 
-- **Más comisión: +27 €/año** (635 → 662 €). Es irrelevante en euros, pero el argumento del fondo no es el
-  coste: es el estilo. La RV activa pasa del 20,6% al 27,8% de la bolsa.
+- **Más comisión: +27 €/año de TER puro** (536 → 562 €) y **+16 €/año** contando la comisión de éxito
+  (588 → 604 €). Es irrelevante en euros, pero el argumento del fondo no es el coste: es el estilo. La RV
+  activa pasa del 20,6% al 27,8% de la bolsa.
 - **Más USA: +5,1 pp** (32,5% → 37,6%), por Fundsmith (79,6% USA) y por los REITs (64,8%). Sigue por
   debajo del 63% de un MSCI World, pero es el movimiento contrario al que la propuesta defiende; se
   compensa en parte porque sale el small cap (61% USA) y se recorta Europa.

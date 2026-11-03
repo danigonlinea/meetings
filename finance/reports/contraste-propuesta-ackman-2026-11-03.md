@@ -86,13 +86,13 @@ Con los pesos de §10.3 y los múltiplos que cita el propio §2:
 | Otros desarrollados | 2,0 % | — | sin dato |
 | Sin desglosar | 9,5 % | — | sin dato |
 
-Ponderado del 88,5 % desglosado: **6,42 %**. Para que el total dé 6,58 %, el 11,5 % restante
+Ponderado del 88,5 % desglosado: **6,29 %**. Para que el total dé 6,58 %, el 11,5 % restante
 tendría que rendir ~2,7 %, que no es plausible; si se imputa al 6,5 %, el total es **7,03 %**. El
-rango honesto es **6,4-7,0 %**, y el retorno esperado de la cartera se queda en 5,6-5,7 % igual:
+rango honesto es **6,3-7,0 %**, y el retorno esperado de la cartera se queda en 5,6-5,7 % igual:
 el peso de la RF (50 %) amortigua el cambio a ±0,2 pp.
 
 **Efecto en la señal de §14** ("prima de riesgo <1 pp → −10 puntos de RV"): con el bono euro de la
-RF al 4,67 %, la prima es de **1,9-2,4 pp**. No se activa.
+RF al 4,67 %, la prima es de **1,6-2,4 pp**. No se activa.
 
 ### 3.3 El dato de 2012 que ya no existe
 
@@ -150,9 +150,12 @@ Lo que saca esta tabla: **Aegon cumple el ideal de Ackman casi al año** (9,97 f
 mencionaba en genérico en un criterio con número: los dos fondos nuevos pasan, el nórdico por los
 pelos, y su ventana de control de §14 (3 meses de comparación) es la respuesta correcta.
 
-## 7. Qué cambiaría en `propuesta-actual.md` (no aplicado)
+## 7. Qué cambiaría en `propuesta-actual.md` (aplicado el 03/11/2026)
 
-Tres ediciones editoriales. Ninguna mueve importes ni órdenes.
+Tres ediciones editoriales. Ninguna mueve importes ni órdenes. **Ya aplicadas** sobre
+`propuesta-actual.md` (§1, §2, §6, §9 y §13), con una corrección menor: el EY ponderado desglosado
+suma 6,29 % (no 6,42), así que el rango honesto es 6,3-7,0 % y la prima frente al bono de la RF es
+1,6-2,4 pp, no 1,9.
 
 1. **§7.4 y §10.2** — donde dice "RV 50,0 % / RF 50,0 % por look-through", escribir: *"RV 50,0 % con
    la convención del 31/10 (satélites al 100 %, Rock al 78 %); el look-through estricto da 48,4 %
@@ -168,63 +171,30 @@ Y una línea nueva en **§9**: *"Criterio del colchón: 6-12 meses de gastos (Ac
 cubren el rango si el gasto mensual está entre 833 y 1.667 €; fuera de ahí, el colchón se redimensiona
 antes de ejecutar §7."*
 
-## 8. Barrido del catálogo: ¿hay algo que encaje con la tesis del vídeo?
+## 8. Barrido del catálogo: nada que encaje
 
-La tesis de Ackman traducida a filtros de catálogo es una sola familia: **calidad con marca, poca
-deuda, PER razonable, gestor con 10-20 años y sin comisión de éxito**. Barrido del catálogo MyInvestor
-(2.410 fondos, 266 indexados) con `search_funds`: `query "quality"` (16 fondos), `query "global
-brands"` (9 clases de 3 fondos), `sector "Consumo defensivo"` (9 fondos) y las gestoras Fundsmith y
-Comgest (14 clases). Doce candidatos con ficha completa, datos a 30/10/2026:
+Barrido del catálogo (2.410 fondos) contra la tesis del vídeo —calidad con marca, poca deuda, PER
+razonable, gestor con 10-20 años, sin comisión de éxito—: **13 candidatos con ficha completa y ninguno
+mejora lo que ya hay**. La tabla entera, con los 8 fondos de la cartera y Rock al lado para poder
+ordenarla, vive en `propuesta-alternativa.md` §3. Los tres números que deciden:
 
-| Candidato | ISIN | TER | 3A | 5A | Vol 3A | 2022 | EE. UU. | Historial | Encaje con el vídeo |
-| --- | --- | --: | --: | --: | --: | --: | --: | --: | --- |
-| Fundsmith Equity T Acc EUR | LU0690375182 | **1,09 %** | 7,78 % | 2,93 % | 12,89 % | −17,34 % | 79,6 % | 15,0 a | Alto: el más barato de la familia y sin éxito, pero 80 % USA |
-| Wellington Global Quality Growth D | LU1366139522 | 1,79 % | 16,91 % | 6,65 % | 13,34 % | −20,87 % | 61,6 % | 15,4 a | Alto: 15 años y el mejor 3A de la familia |
-| Morgan Stanley Global Brands A EUR | LU2295319300 | 1,84 % | 3,03 % | **0,97 %** | 12,13 % | −13,03 % | 72,6 % | 26,0 a | Es la tesis literal de Ackman… y el peor a 5 años |
-| Morgan Stanley Global Quality A USD | LU0955010870 | 1,83 % | 8,95 % | 1,97 % | 12,02 % | −19,91 % | 64,3 % | 13,3 a | Medio |
-| Fidelity Global Consumer Brands A USD | LU0882574139 | 1,91 % | 11,11 % | 1,05 % | 15,30 % | −28,24 % | 63,4 % | 26,2 a | Medio: marcas de consumo, pero 5A de 1 % |
-| Altex Quality A EUR | LU1877826609 | n/d | 18,64 % | 6,26 % | 15,89 % | −30,67 % | 70,8 % | 8,2 a | Bajo: TER sin publicar y −30 % en 2022 |
-| Santalucía Quality Acciones B | ES0108612013 | 2,10 % | 12,02 % | 5,68 % | 12,27 % | −14,57 % | 74,2 % | 9,5 a | Bajo: caro |
-| Comgest Growth Global EUR R | IE00BD5HXK71 | 2,08 % | 10,11 % | 3,35 % | 11,39 % | −20,18 % | 62,8 % | 22,9 a | Bajo: 2 % de coste |
-| DWS CROCI Sectors Plus LC | LU1278917452 | 1,49 % | 10,93 % | **9,23 %** | 12,93 % | **+1,56 %** | 63,5 % | 11,0 a | Medio: retorno sobre capital, pero 33 % energía |
-| Sextant Quality Focus A | FR001400CEG4 | n/d | 12,28 % | — | 9,66 % | — | 44,1 % | 3,9 a | **No cumple**: menos de 5 años |
-| GVC Gaesco M&S Quality A FI | ES0143562595 | n/d | 18,35 % | — | 8,38 % | — | 24,4 % | 3,6 a | **No cumple**: menos de 5 años y 13 % en caja |
-| Brandes Global Value A EUR | IE0031573904 | 1,78 % | 19,62 % | 12,95 % | 10,50 % | +0,12 % | 44,2 % | 24,1 a | Ya rechazado en §12 (mínimo 10.000 €) |
+- **Contra el indexado de Europa** (0,10 %, 5A 9,61 %): el mejor candidato a cinco años (DWS CROCI,
+  9,23 %) pierde 19 €/año en una pata de 5.000 € y cuesta ×15 lo mismo; Fundsmith pierde 334 €/año;
+  Morgan Stanley Global Brands, 432 €/año.
+- **Contra Cobas** (2,33 %, 5A 17,11 %): los tres mejores de la familia pierden 394-709 €/año.
+- **Meter una pata de calidad de 5.000 €** (Fundsmith sustituyendo Europa) sube el coste a 637,50 €/año y
+  EE. UU. del 32,5 % al 40,7 % de la RV, que es lo que §3 prohíbe.
 
-**La comparación que decide, contra lo que ya está en cartera** (mismo 5.000 €, datos de ficha):
+**El hallazgo incómodo:** lo más literal del vídeo —Morgan Stanley Global Brands, 26 años de historial,
+marcas con poder de precio— es lo que peor se ha comportado a cinco años (+0,97 % anual). La etiqueta no
+paga; el precio de compra sí.
 
-| Alternativa | Coste/año | 5A vs el indexado de Europa (9,61 %) | Veredicto |
-| --- | --: | --: | --- |
-| Fidelity MSCI Europe P (en cartera) | 5,00 € | — | Referencia |
-| DWS CROCI Sectors Plus LC | 74,50 € | **−19 €/año** | El único que casi empata: no compensa el TER ×15 |
-| Wellington Global Quality Growth | 89,50 € | −148 €/año | Fuera |
-| Fundsmith Equity T | 54,50 € | −334 €/año | Fuera: el más barato de la familia y aun así pierde |
-| Morgan Stanley Global Brands | 92,00 € | −432 €/año | Fuera |
-| Santalucía Quality / Comgest Global | 105 / 104 € | −197 / −313 €/año | Fuera |
+Lo que el vídeo sí valida: la cartera ya cumple su regla de «no cambiar de negocio cada año» por la vía
+del indexado — un fondo de índice no tiene gestor al que juzgar ni estrategia que revisar. La rotación que
+preocupa es la de §7, no el 79,4 % indexado.
 
-Y contra Cobas (5A 17,11 %), los tres mejores de la familia pierden **394-709 €/año** en una pata de
-5.000 €.
-
-**Lo que costaría meter una pata de calidad de verdad**, sustituyendo 5.000 € de Fidelity Europe por
-Fundsmith: el coste total pasa de 588 a **637,50 €/año** (0,657 %) y EE. UU. dentro de la RV sube de
-**32,5 % a 40,7 %** (+8,2 pp), que es justo lo que §3 prohíbe ("el S&P 500 no es neutral"). Con
-Wellington, el coste sube a 672,50 €/año y USA a 38,9 %.
-
-**Conclusión del barrido.** La familia que el vídeo describe existe, está bien rotulada y es cara: lo
-más «Ackman» del catálogo (Morgan Stanley Global Brands, 26 años de historial, marcas con poder de
-precio) es lo que peor se ha comportado a cinco años (+0,97 % anual, −432 €/año frente al indexado de
-Europa). **No entra ninguna.** El sello de §11 de la propuesta («ninguna posición está dominada») se
-extiende a esta familia: ninguna la domina a ella tampoco, y ninguna la mejora.
-
-Lo que sí queda del vídeo, y no es poco: la cartera ya cumple su regla de «no cambiar de negocio cada
-año» por la vía del indexado — un fondo de índice no tiene gestor al que juzgar ni estrategia que
-revisar, así que es el vehículo más «para siempre» que existe. La rotación que preocupa es la de §7, no
-la del 79,4 % indexado.
-
-**Límite del barrido:** «invierte su propio dinero junto al tuyo» no existe como campo en el catálogo
-(`no verificado` en los doce); el solape de carteras con los fondos que ya se tienen no está en la
-ficha, solo el país y el sector; y dos candidatos no publican TER, así que su coste real es
-desconocido y no pueden compararse en igualdad.
+**Límite:** «invierte su propio dinero junto al tuyo» no existe como campo en el catálogo (`no
+verificado` en los trece); el solape real de carteras no está en la ficha; dos candidatos no publican TER.
 
 ## 9. Límites de este contraste
 
