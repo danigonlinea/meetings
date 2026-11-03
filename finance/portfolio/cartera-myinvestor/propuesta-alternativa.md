@@ -19,6 +19,18 @@ related: [finance/portfolio/cartera-myinvestor/propuesta-actual.md, finance/port
 > de 5.000 € para poder ordenarlos. §4 y §5 se recalculan con la renta fija de la vigente (Aegon y
 > Sissener, 588 €/año); con la base del 31/10 (DNCA y Carmignac) daban 635-662 €.
 >
+> **Auditada el 03/11/2026 (fichas MCP re-verificadas).** Los tres vehículos nuevos cuadran con la
+> ficha: REITs 0,17 %/3A 10,7/5A +0,6/EE. UU. 64,8 %/mínimo 1 €; Fundsmith ya verificada (§3);
+> **Comgest Growth Europe 1,59 %/3A +2,78/**5A −0,94 %** (26,5 años, EE. UU. 10 %) — y esa es la
+> pega: su pata pierde ≈**528 €/año** frente al indexado de su propia región (5A +9,61 %) mientras el
+> índice subía. **Veredicto de la auditoría: REITs, apto; Fundsmith, apto como decisión del titular**
+> (supone reabrir el descarte de la mañana, §12 de `propuesta-actual.md`, y pagar ~334 €/año menos
+> que el indexado a 5 años por seleccionar, con respaldo Morningstar Silver y riesgo de persona clave
+> a los 72 años); **Comgest, fuera del gate por ahora** — se revisa cuando su ficha muestre una TIR o
+> un tramo de recuperación. Sin Comgest, la ampliada queda en 17 posiciones (solo Fundsmith 3.000 €,
+> financiado como B2+B3) y ~613 €/año de coste real. Los TER de §5-§6 y el mix regional cuadran con
+> este recálculo; una errata: la mínima cuesta **584 €/año** (no 632) y la ampliada **604 €** (no 662).
+>
 > **Incompatible con `propuesta-investigacion.md` (02/11/2026).** Los dos anexos se financian de los
 > mismos cuatro fondos: aquí salen 3.700 € del Vanguard Small-Cap (su saldo entero) y 3.000 € del
 > Fidelity Europe; allí salen 1.500 € del mismo small-cap y otros 1.500 € de Europa. Ejecutados juntos
@@ -323,8 +335,8 @@ la decisión de no pagar el 0,92% del Lazard.
 
 ## 9. Lo que queda abierto
 
-- **Cuál de las dos versiones:** mínima (REITs 5.000 €, 17 posiciones, 632 €) o ampliada (10 fondos, 19
-  posiciones, 662 €). Yo haría la mínima; la ampliada solo si se quiere diversificar por estilo y se
+- **Cuál de las dos versiones:** mínima (REITs 5.000 €, 17 posiciones, **584 €/año**) o ampliada
+  (10 fondos, 19 posiciones, **604 €/año**; sin Comgest, 17 posiciones y ~613 €). Yo haría la mínima; la ampliada solo si se quiere diversificar por estilo y se
   acepta pagar 1,09-1,59% por dos gestores.
 - **Comisión de entrada del iShares REITs, de Fundsmith y de Comgest**: el MCP no las publica → ver en la
   pantalla de suscripción.
