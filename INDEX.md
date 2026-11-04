@@ -5,7 +5,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
-| `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-04 | Cartera definitiva: 55/45 con ocho fondos, sin apuestas de crédito (97.000 €) | [cartera, definitiva, 55-45, renta-fija, abs, cobas-renta, reits, rock, myinvestor, traspasos] |
+| `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-04 | Cartera definitiva, solo fondos: 55/45 en diez posiciones (97.000 €) | [cartera, definitiva, 55-45, solo-fondos, renta-fija, abs, cobas-renta, reits, japon, pacifico, rock, myinvestor] |
 | `finance/portfolio/cartera-myinvestor/propuesta-acciones.md` | portfolio-research | finance | 2026-11-04 | Propuesta de acciones sin dividendo — cuatro posiciones y una lista de espera | [cartera, acciones, sin-dividendo, calidad, tecnologia, value, la-pizarra-de-andres, webinars, myinvestor, propuesta] |
 | `finance/reports/contraste-propuesta-ackman-2026-11-03.md` | revision | finance | 2026-11-03 | Contraste de la cartera definitiva con la clase de Ackman (Big Think, 2012) | [cartera, verificacion, ackman, riesgo, coste, colchon, contraste, myinvestor] |
 | `finance/reports/revision-adversarial-2026-11-02.md` | revision | finance | 2026-11-02 | Revisión adversarial de las dos charlas del 30/10 y 01/11 y su utilidad para la cartera | [revision-adversarial, la-pizarra-de-andres, horos, renta-fija, cobas, tgs, rock, kaizen, verificacion] |

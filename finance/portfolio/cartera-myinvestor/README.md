@@ -18,7 +18,7 @@ material financiero (vídeos, webinars, informes) está en las otras subcarpetas
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
 | `cartera-actual.md` | **Fotografía congelada** del estado real a 30/10/2026: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad de las posiciones | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
-| `propuesta-actual.md` | **La cartera vigente y única** (04/11/2026): modelo de RV con ocho señales, ocho fondos manuales, doce órdenes, métricas, riesgos, descartes y revisión trimestral | **Sí**, es el documento de trabajo |
+| `propuesta-actual.md` | **La cartera vigente y única** (04/11/2026): modelo de RV con ocho señales, diez fondos manuales **solo fondos, cero ETFs**, catorce órdenes, métricas, riesgos, descartes y revisión trimestral | **Sí**, es el documento de trabajo |
 | `propuesta-acciones.md` | **Bloque de riesgo aparte**: cuatro acciones individuales sin dividendo. No forma parte de la cartera de fondos, no entra en su look-through y no se rebalancea contra ella | Sí, pero nunca se suma a la cartera de fondos |
 
 **Ya no hay anexos.** La carpeta llegó a tener cinco propuestas paralelas con cinco cifras distintas de
@@ -35,17 +35,18 @@ el historial de git. Un documento por rol evita las dos verdades.
 
 - **Cartera:** 107.000 € totales = 10.000 € de colchón (Groupama, fuera de la cartera) + 97.000 €
   invertibles (67.000 € manuales, con 7.000 € de aportación nueva, + 30.000 € en Rock).
-- **Reparto:** **54,9 % de RV / 45,1 % de RF** (look-through estricto, Rock dentro). Coste total
-  **426 €/año (0,439 %)**: 303 € manuales y 123 € de Rock. Cero comisiones de éxito.
-- **Ocho fondos manuales + Rock:** Neuberger 17.000 · Cobas Renta 5.000 · Aegon ABS 7.000 · Amundi
-  Euro Corp 1-5Y 7.400 · iShares Europe 13.600 · iShares EM 7.000 · iShares REITs 5.000 · Cobas
-  International 5.000.
-- **Ejecución:** doce órdenes (dos suscripciones y **diez traspasos**, 49.000 €) en dos sesiones.
+- **Reparto:** **55,0 % de RV / 45,0 % de RF** (look-through estricto, Rock dentro). Coste total
+  **424,80 €/año (0,438 %)**: 301,80 € manuales y 123 € de Rock. Cero comisiones de éxito. **Ningún ETF:
+  todo fondos, para que cada movimiento sea un traspaso.**
+- **Diez fondos manuales + Rock:** Neuberger 17.000 · Cobas Renta 5.000 · Aegon ABS 7.000 · Amundi
+  Euro Corp 1-5Y 7.200 · iShares Europe 10.800 · Fidelity Japón 3.000 · Fidelity Pacífico 2.000 ·
+  iShares EM 6.000 · iShares REITs 4.000 · Cobas International 5.000.
+- **Ejecución:** catorce órdenes (dos suscripciones y **doce traspasos**, 49.000 €) en dos sesiones.
   Traspaso y nunca reembolso: 0 € de impuestos.
-- **Caída estimada tipo 2008: −23,3 % (−22.600 €).** Es el precio de entrada y está escrito como suelo
+- **Caída estimada tipo 2008: −23,4 % (−22.700 €).** Es el precio de entrada y está escrito como suelo
   conductual en §2 de la propuesta.
 - **Pendiente antes de la primera orden:** los **gastos mensuales** (el colchón de 10.000 € nunca se
-  dimensionó contra un dato real) y confirmar que se aguanta el −23,3 %. Comisiones verificadas el 31/10:
+  dimensionó contra un dato real) y confirmar que se aguanta el −23,4 %. Comisiones verificadas el 31/10:
   0,00 % de reembolso en los cinco fondos que salen. Falta ver en pantalla la comisión de entrada de
   Aegon, Amundi, iShares Europe, REITs y Cobas Renta.
 
