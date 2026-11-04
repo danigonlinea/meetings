@@ -26,6 +26,13 @@ related:
 > clase de acumulación. Datos de mercado a **03-04/11/2026** (BCE, Bund, EUR/USD, múltiplos).
 > Todo lo que el MCP no publica va marcado como **estimado** en su casilla.
 >
+> **Corrección del 04/11/2026 (misma sesión).** Al abrir las posiciones reales de cada fondo
+> (Anexo B) se cae **Sissener Corporate Bond**: su top-10 son bonos high yield de energía y shipping
+> (Nynas 11,75 %, Golar LNG 7,75 %, W&T Offshore 10,75 %, McDermott 10,5 %), no crédito IG nórdico.
+> Lo sustituye **iShares Euro Investment Grade Corporate Bond D Acc (IE00BDRK7J14, 0,12 %)**. Efecto:
+> TER 0,229 % → **0,190 %**, duración 2,84 → **3,03 años**, y el bloque de crédito pasa a ser IG de
+> verdad. Cifras actualizadas en §D, §E, §F y §G.
+>
 > **No es asesoramiento financiero.** Es una propuesta analítica; la idoneidad depende de la
 > fiscalidad, la liquidez y el aguante real del titular.
 
@@ -89,8 +96,8 @@ replicable (07:50) y de que el riesgo real supera la volatilidad que mide (11:00
 | Principio | Dónde se dice | Cómo se aplica aquí | Dónde NO se sigue |
 | --- | --- | --- | --- |
 | **La indexación es la base, pero no es neutral** | Andrés 03:50 y 09:36; Ruiz 1:04:59 | 45.000 € de RV en índices; **EE. UU. al 39 % de la RV** frente al 72 % de un MSCI World puro | No se compra un S&P 500 ni un World a secas: el World va al 15 % y se diluye con Europa, Japón, EM y small caps |
-| **El coste es lo único que se controla al 100 %** | Andrés 1:40-10:05 | TER ponderado **0,229 % = 229 €/año** sobre 100.000 € (45 % del capital a 0,10-0,17 %) | No se paga un 2,33 % de Cobas ni un 1,09 % de Fundsmith para comprar el mismo beta |
-| **La duración es la decisión** | Renta 4 15:35; Ruiz 1:07:55-1:09:46 | Duración agregada de la RF **≈2,84 años**; +100 pb = **−1.564 €** (1,6 % de la cartera) | No se apuesta por el 20+ años ni por el 30 años americano |
+| **El coste es lo único que se controla al 100 %** | Andrés 1:40-10:05 | TER ponderado **0,190 % = 190 €/año** sobre 100.000 € (45 % del capital a 0,10-0,29 %) | No se paga un 2,33 % de Cobas ni un 1,09 % de Fundsmith para comprar el mismo beta |
+| **La duración es la decisión** | Renta 4 15:35; Ruiz 1:07:55-1:09:46 | Duración agregada de la RF **≈3,03 años**; +100 pb = **−1.665 €** (1,7 % de la cartera) | No se apuesta por el 20+ años ni por el 30 años americano |
 | **No se cobra riesgo de crédito sin prima** | Ábaco 28:37 y 36:47 (vía síntesis) | Crédito solo **25 %** de la cartera y todo IG: corto (14), ABS (6), nórdico (5) | Fuera híbridos con 80 % de high yield escondido bajo etiqueta «mixto» |
 | **La liquidez tiene regla escrita** | Andrés 23/10 | **15.000 €** en monetario (15 %), con uso definido (§H), no como ocurrencia | No se trata el colchón como si fuera cartera |
 | **Lo pequeño está castigado y eso se paga con tiempo** | Andrés 02:25 | Small caps al **5 %** (11 % de la RV), no al 20 % | No se convierte el castigo en una apuesta: 5.000 € y fuera |
@@ -110,7 +117,7 @@ Perfil: **moderado con sesgo de largo plazo**, horizonte 7-10 años, tolerancia 
 | 2 | RV emergentes | Crecimiento y descorrelación; valoración 10,2× | 7 % | 7.000 |
 | 3 | RV small caps globales | Prima de tamaño y beta distinto al large cap | 5 % | 5.000 |
 | 4 | Activos reales — REITs desarrollados | Renta inmobiliaria, cobertura parcial de inflación | 6 % | 6.000 |
-| 5 | RF corta IG (corta + ABS + crédito nórdico) | Carry 4-6 % con duración < 2,5 | 25 % | 25.000 |
+| 5 | RF corta y crédito IG (corta + ABS + corporativo IG) | Carry 3,5-4,5 % con duración ≈2,9 | 25 % | 25.000 |
 | 6 | RF gubernamental euro + ligada a inflación | Amortiguador en recesión y seguro de inflación | 15 % | 15.000 |
 | 7 | Liquidez táctica (monetario) | Reserva para aportaciones y oportunidades | 15 % | 15.000 |
 | | **Total** | | **100 %** | **100.000** |
@@ -135,18 +142,18 @@ ese intercambio no compensa.
 | 6 | Activos reales | iShares Developed Real Estate Index Fund (IE) D Acc EUR | IE00BDRK7P73 | BlackRock | 6.000 | 6,0 % | 0,17 % |
 | 7 | RF corta IG | Neuberger Short Duration Euro Bond Fund EUR U Acc | IE00BL1GVT98 | Neuberger Berman | 14.000 | 14,0 % | 0,38 % |
 | 8 | RF ABS | Aegon European ABS Fund A EUR Acc | IE00BG226Z29 | Aegon | 6.000 | 6,0 % | 0,66 % |
-| 9 | RF crédito IG | Sissener Corporate Bond Fund R EUR | LU2262944817 | Sissener | 5.000 | 5,0 % | 0,90 % |
+| 9 | RF corporativa IG | iShares Euro Investment Grade Corporate Bond Index (IE) D Acc EUR | IE00BDRK7J14 | BlackRock | 5.000 | 5,0 % | 0,12 % |
 | 10 | RF gubernamental | iShares Euro Government Bond Index Fund (IE) D Acc EUR | IE00BD0NC037 | BlackRock | 10.000 | 10,0 % | 0,10 % |
 | 11 | RF inflación | iShares Euro Government Inflation-Linked Bond Index (IE) D Acc | IE00BD0NC144 | BlackRock | 5.000 | 5,0 % | 0,10 % |
 | 12 | Liquidez | Groupama Trésorerie IC | FR0000989626 | Groupama | 15.000 | 15,0 % | 0,07 % |
-| | | **TOTAL** | | | **100.000** | **100 %** | **0,229 %** |
+| | | **TOTAL** | | | **100.000** | **100 %** | **0,190 %** |
 
 **Comprobaciones de las restricciones:**
 
 - Suma exacta: 15.000+8.000+4.000+7.000+5.000+6.000+14.000+6.000+5.000+10.000+5.000+15.000 = **100.000 €**.
 - **12 posiciones** (rango pedido: 8-15). Ninguna por encima del **15 %** (máximo: World y Groupama, 15,0 %).
-- **Gestora máxima: BlackRock 28 %** (EM + REITs + gubernamental), Fidelity 26 %, Groupama 15 %,
-  Neuberger 14 %, Vanguard 6 %, Aegon 6 %, Sissener 5 %. Ninguna llega al 35 %.
+- **Gestora máxima: BlackRock 33 %** (EM + REITs + gubernamental + corporativo IG), Fidelity 26 %,
+  Groupama 15 %, Neuberger 14 %, Vanguard 6 %, Aegon 6 %. Ninguna llega al 35 %.
 - Todas las clases son de **acumulación** (`distributing = 0` verificado en `get_funds`).
 - Todos los mínimos iniciales son **≤ 1 €** salvo Groupama (0,001 participaciones). Ninguno exige 10.000 €.
 
@@ -193,13 +200,14 @@ TIR por año de duración, el mejor carry/riesgo del catálogo en su categoría.
 **8. Aegon European ABS (6 %).** 58 % ABS + 35 % RMBS sin agencia, todo europeo, duración corta,
 TIR declarada ~4,3 % (estimada a partir de la ficha; el MCP no publica TIR), 3A +4,4 %, vol 3A 0,95 %
 (**5A 1,90 %**: el precio del ABS suaviza la serie corta). **Pega:** TER 0,66 %, el más caro del bloque
-corto después de Sissener, y la liquidez de los ABS no es la de un bono de gobierno; se limita al 6 %.
+corto más caro de la cartera, y la liquidez de los ABS no es la de un bono de gobierno; se limita al 6 %.
 
-**9. Sissener Corporate Bond R (5 %).** Crédito IG nórdico (41 % Noruega, 17 % Suecia), 88 %
-corporativo, 3A +6,8 % y 5A +5,5 %, vol 3A 2,05 %, TER 0,90 %. Aporta emisores y divisas que no están
-en el resto de la cartera. **Pega:** es el fondo más caro de la cartera y el que menos historial tiene
-(2019); el aviso del propio sector es que la TIR esperada del crédito se ha quedado corta frente a lo
-prometido (Ruiz 1:08:54). Peso: 5 %.
+**9. iShares Euro Investment Grade Corporate Bond D Acc (5 %).** Deuda corporativa euro **IG** al
+0,12 %, 100 % bonos corporativos, 3A +4,2 % y 5A +0,1 %, vol 3A 3,5 %, duración ≈4,5 (estimada).
+Sustituye a Sissener tras abrir sus posiciones: lo que parecía «crédito nórdico IG» es **high yield de
+energía y shipping** (Nynas 11,75 %, Golar LNG 7,75 %, W&T Offshore 10,75 %, McDermott 10,5 %; top-10 =
+30 % del fondo). **Pega:** 20 % de emisores estadounidenses en euros y duración mayor que el bloque
+corto, que sube la duración agregada de 2,84 a 3,03 años.
 
 **10. iShares Euro Government Bond D Acc (10 %).** Deuda pública euro (Francia 25, Italia 22, Alemania
 20, España 14), TER 0,10 %, duración ≈6,5 (estimada; el MCP no la publica), TIR ≈3,3 % implícita del
@@ -230,6 +238,7 @@ inflación del 3,8 % pierde ~1,3 % real al año; su función no es rentar, es es
 | Activos reales | BGF World Gold A2 | LU0171305526 | TER **2,08 %**, mineras no oro físico | **Descartado**: no es el activo que dice ser, y a ese precio |
 | Activos reales | iShares Dev. Real Estate Institutional | IE00B83YJG36 | TER 0,23 % | Descartado: 6 pb más que la clase D por el mismo fondo |
 | RF corta | AXA Court Terme AC / Ofi ISR Monétaire CT | FR0000288946 / FR0010738229 | TER 0,07 % / 0,06 % | Descartados como **sustitutos del monetario**, no del crédito corto: son 74 % deuda pública a muy corto |
+| RF crédito | Sissener Corporate Bond R | LU2262944817 | 3A +6,8 % pero **top-10 = HY de energía/shipping** (Nynas, Golar, W&T, McDermott) | **Descartado por composición**: no es IG; su TIR alta era prima de riesgo de crédito, no carry de calidad |
 | RF crédito | DNCA Invest Alpha Bonds A | LU1694789451 | 1,31 % + 20 % éxito | Descartado: soberanos G10 con coberturas; el coste no se justifica |
 | RF crédito | Carmignac Portfolio Credit A | LU1623762843 | 1,20 % + 20 % éxito, BBB−, max DD −17,5 % | Descartado: riesgo de crédito peor pagado que la alternativa corta |
 | RF gubernamental | Amundi Prime Euro Government Bond IE-C | LU2339731064 | TER 0,05 %, **mínimo 500.000 €** | **Descartado por mínimo**, no por precio |
@@ -273,13 +282,13 @@ Ningún fondo cubre el tipo de cambio: la clase es EUR, la exposición no.
 
 | Divisa de los activos | % de la cartera | Comentario |
 | --- | ---: | --- |
-| EUR | ≈48 % | RV euro (3,6 k) + toda la RF gubernamental, ligada y el monetario |
-| USD | ≈22 % | 17,7 k de RV + emisores USA en Neuberger y Sissener |
+| EUR | ≈53 % | RV euro (3,6 k) + toda la RF gubernamental, ligada, corporativa IG y el monetario |
+| USD | ≈20 % | 17,7 k de RV + emisores USA en Neuberger y en el corporativo IG (estos, en bonos denominados en euros) |
 | JPY | ≈6 % | Fidelity Japan + la parte japonesa de World, small caps y REITs |
 | GBP / CHF | ≈4,3 % | Reino Unido y Suiza de Europa + emisores de Neuberger/Aegon |
 | Emergentes (TWD, KRW, CNY, INR, BRL…) | ≈6,3 % | Bloque EM, sin cobertura |
-| Otros (CAD, AUD, SEK, NOK, DKK) | ≈13 % | Small caps, REITs y crédito nórdico |
-| **No euro (total)** | **≈52 %** | Frente al ~65 % de una cartera 100 % MSCI World |
+| Otros (CAD, AUD, SEK, NOK, DKK) | ≈9 % | Small caps y REITs |
+| **No euro (total)** | **≈47 %** | Frente al ~65 % de una cartera 100 % MSCI World |
 
 **Qué significa en la práctica:** si el euro se aprecia un 10 % frente a todas las divisas, la cartera
 pierde ~5 % sin que ningún activo se mueva. Si el euro se deprecia, gana. Con horizonte 7-10 años y
@@ -308,30 +317,29 @@ REITs vuelven a Europa y el sector baja al 1 %.
 
 | Gestora | € | % |
 | --- | ---: | ---: |
-| BlackRock | 28.000 | 28,0 % |
+| BlackRock | 33.000 | 33,0 % |
 | Fidelity | 26.000 | 26,0 % |
 | Groupama | 15.000 | 15,0 % |
 | Neuberger Berman | 14.000 | 14,0 % |
 | Vanguard | 6.000 | 6,0 % |
 | Aegon | 6.000 | 6,0 % |
-| Sissener | 5.000 | 5,0 % |
 
-Dos gestoras suman el 54 %, pero **no comparten producto**: BlackRock aporta EM, REITs y deuda
-pública; Fidelity aporta World, Europa y Japón. El riesgo de «un solo proveedor» es operativo, no de
+Dos gestoras suman el 59 %, pero **no comparten producto**: BlackRock aporta EM, REITs, deuda pública
+y crédito IG; Fidelity aporta World, Europa y Japón. El riesgo de «un solo proveedor» es operativo, no de
 exposición.
 
 ### F.6 Métricas de la cartera
 
 | Métrica | Valor | Cómo se ha calculado |
 | --- | --- | --- |
-| TER ponderado | **0,229 % = 229 €/año** | Σ importe × TER de los 12 fondos (fichas 30/10/2026) |
+| TER ponderado | **0,190 % = 190 €/año** | Σ importe × TER de los 12 fondos (fichas 30/10/2026) |
 | Comisión de éxito | **0 €** | Ninguno de los 12 cobra comisión de éxito |
-| Duración de la RF | **≈2,84 años** | Σ importe × duración / 55.000; duraciones de Aegon, Sissener, gubernamental y ligada **estimadas** (el MCP no las publica) |
-| Impacto +100 pb | **−1.564 €** (−1,6 % de la cartera) | Σ importe × duración × 0,01 |
-| TIR/carry de la RF | **≈3,65 % = 2.007 €/año** | Neuberger 4,65 % (ficha 30/09) · Aegon ~4,3 % est. · Sissener ~6,2 % est. · gubernamental 3,3 % · ligada 2,0 % · monetario 2,4 % |
+| Duración de la RF | **≈3,03 años** | Σ importe × duración / 55.000; duraciones de Aegon, corporativo IG, gubernamental y ligada **estimadas** (el MCP no las publica) |
+| Impacto +100 pb | **−1.665 €** (−1,7 % de la cartera) | Σ importe × duración × 0,01 |
+| TIR/carry de la RF | **≈3,45 % = 1.899 €/año** | Neuberger 4,65 % (ficha 30/09) · Aegon ~4,3 % est. · corporativo IG ~4,0 % est. · gubernamental 3,3 % · ligada 2,0 % · monetario 2,4 % |
 | *Earnings yield* de la RV | **≈6,68 %** | 1/PER por bloque: World 5,6 % · Europa 7,35 % · Japón 6,5 % est. · EM 9,8 % · small 6,0 % est. · REITs 5,5 % est. |
-| Retorno esperado nominal base | **≈5,0 %** | 0,45 × 6,68 % + 0,55 × 3,65 % (solo *earnings yield* + carry) |
-| Retorno esperado con crecimiento nominal 4 % | **≈6,8 %** | Añade 4 % de crecimiento a la RV; es una estimación, no un backtest |
+| Retorno esperado nominal base | **≈4,9 %** | 0,45 × 6,68 % + 0,55 × 3,45 % (solo *earnings yield* + carry) |
+| Retorno esperado con crecimiento nominal 4 % | **≈6,7 %** | Añade 4 % de crecimiento a la RV; es una estimación, no un backtest |
 | Real sobre inflación 3,8 % | **+1,2 % a +3,0 %** | Según el escenario anterior |
 
 ---
@@ -345,9 +353,9 @@ Supuestos fijos para poder comparar: RV −40 % (o el que se indique), RF −3 %
 | **1. Caída fuerte de bolsa (tipo 2008)** | RV −40 %, crédito −3 %, monetario intacto | 45.000×(−40 %) + 40.000×(−3 %) | **−19.200 € (−19,2 %)** | 80.800 € |
 | **2. Caída extrema (−50 %)** | Como 2008 pero sin recuperación rápida | 45.000×(−50 %) + 40.000×(−3 %) | −23.700 € (−23,7 %) | 76.300 € |
 | **3. Inflación persistente (4-5 % dos años)** | RV nominal +4 %/año, REITs +5 %, ligados +4 %, RF nominal 3,5 %, monetario 2,5 % | Σ por bloque | **≈+1,5 %/año nominal, −2,5 % real** | ~101.500 € en 12 meses |
-| **4. Subida de tipos +150 pb** | RF −1,4 % (2,84 × 1,5) = −1.704 €, RV −10 % por devaluación de múltiplos | 40.000×(−4,3 %) + 45.000×(−10 %) | **−6.200 € (−6,2 %)** | 93.800 € |
-| **5. Recesión global suave** | RV −25 %, gubernamental +6 %, crédito −5 %, monetario 0 | 45.000×(−25 %) + 15.000×(+6 %) + 25.000×(−5 %) | **−11.700 € (−11,7 %)** | 88.300 € |
-| **6. Mercado lateral 3 años** | RV +2 %/año, RF cobra carry 3,65 % | 3 × (0,45×2 % + 0,55×3,65 %) | **≈+2,9 %/año** | ~108.900 € |
+| **4. Subida de tipos +150 pb** | RF −4,5 % (3,03 × 1,5) = −2.497 €, RV −10 % por devaluación de múltiplos | 40.000×(−4,5 %) + 45.000×(−10 %) | **−7.000 € (−7,0 %)** | 93.000 € |
+| **5. Recesión global suave** | RV −25 %, gubernamental +6 %, crédito −5 %, monetario 0 | 45.000×(−25 %) + 15.000×(+6 %) + 25.000×(−5 %) | **−11.600 € (−11,6 %)** | 88.400 € |
+| **6. Mercado lateral 3 años** | RV +2 %/año, RF cobra carry 3,45 % | 3 × (0,45×2 % + 0,55×3,45 %) | **≈+2,8 %/año** | ~108.600 € |
 
 **Lo que estos números dicen y lo que no.** El escenario 1 es el que manda: **−19,2 % es el precio de
 entrada** a esta cartera y está en el límite de lo que el titular declara aguantar. Si en una caída real
@@ -385,7 +393,7 @@ no la bolsa.
 | --- | --- | --- | ---: |
 | 1 | Día 1 | Fidelity World 15.000 + Fidelity Europe 8.000 + Fidelity Japan 4.000 | 27.000 |
 | 2 | Día 1 | iShares EM 7.000 + Vanguard Small-Cap 5.000 + iShares REITs 6.000 | 18.000 |
-| 3 | Día 2-3 | Neuberger 14.000 + Aegon ABS 6.000 + Sissener 5.000 + iShares Euro Govt 10.000 + Linker 5.000 + Groupama 15.000 | 55.000 |
+| 3 | Día 2-3 | Neuberger 14.000 + Aegon ABS 6.000 + iShares Corp IG 5.000 + iShares Euro Govt 10.000 + Linker 5.000 + Groupama 15.000 | 55.000 |
 
 Comisiones de entrada: **0 %** en los 12 fondos (MyInvestor no cobra suscripción). Cortes: 09:00-16:00
 según ficha, con 2-4 días de *lag* de suscripción. No hace falta tener efectivo extra.
@@ -394,8 +402,8 @@ según ficha, con 2-4 días de *lag* de suscripción. No hace falta tener efecti
 
 - **Frecuencia:** revisión **trimestral** (enero, abril, julio, octubre) + una revisión extraordinaria si
   se cruza un umbral.
-- **Qué se mide cada trimestre:** (1) peso de RV vs 45 %; (2) TER real vs 0,229 %; (3) TIR cobrada a 12
-  meses de la RF vs 3,65 % estimado; (4) duración de la RF vs 2,84; (5) drawdown de la cartera vs
+- **Qué se mide cada trimestre:** (1) peso de RV vs 45 %; (2) TER real vs 0,190 %; (3) TIR cobrada a 12
+  meses de la RF vs 3,45 % estimado; (4) duración de la RF vs 3,03; (5) drawdown de la cartera vs
   −19,2 % de referencia; (6) peso por gestora y por región.
 - **Cuándo se rebalancea:** bandas de **±5 pp absolutas por bloque** (RV 40-50 %, RF 35-45 %,
   liquidez 10-20 %) y **±25 % relativo por posición** (p. ej. World entre 11.250 y 18.750 €). Se
@@ -416,9 +424,9 @@ según ficha, con 2-4 días de *lag* de suscripción. No hace falta tener efecti
 
 | Dato | Estado |
 | --- | --- |
-| TIR (YTW) de Aegon, Sissener, gubernamental y ligada | **No publicado** por el MCP. Se usan ~4,3 %, ~6,2 %, 3,3 % y 2,0 % (ficha de gestora 30/09 y Bund 10 años). Es la cifra que más afecta al carry: si la RF cobra 2 pp menos, el retorno esperado de la cartera baja ~1,1 pp |
-| Duración de Aegon, Sissener, gubernamental y ligada | **No publicada**. Se usan 2,5 / 2,5 / 6,5 / 7,0 años. El shock de +100 pb (−1.564 €) es una estimación, no una cifra de ficha |
-| Rating medio de la RF | Publicado solo para Neuberger (A−, ficha de gestora). Aegon y Sissener no lo dan en el MCP |
+| TIR (YTW) de Aegon, corporativo IG, gubernamental y ligada | **No publicado** por el MCP. Se usan ~4,3 %, ~4,0 %, 3,3 % y 2,0 % (ficha de gestora 30/09 y Bund 10 años). Es la cifra que más afecta al carry: si la RF cobra 2 pp menos, el retorno esperado de la cartera baja ~1,1 pp |
+| Duración de Aegon, corporativo IG, gubernamental y ligada | **No publicada**. Se usan 2,5 / 4,5 / 6,5 / 7,0 años. El shock de +100 pb (−1.665 €) es una estimación, no una cifra de ficha |
+| Rating medio de la RF | Publicado solo para Neuberger (A−, ficha de gestora). Aegon y el corporativo IG no lo dan en el MCP |
 | Máxima caída histórica | El MCP **no tiene campo de max drawdown**. Se usan los años naturales (2022: gubernamental −17,9 %, REITs −20,1 %, Aegon −4,0 %) |
 | 3A/5A de las clases S de BlackRock (World y EM) | **No publicadas** (clases nuevas). Se usa la clase D como referencia del mismo fondo |
 | Tamaño (AUM) de los fondos | No disponible en el MCP; no se ha podido verificar el patrimonio de cada fondo |
@@ -442,7 +450,46 @@ según ficha, con 2-4 días de *lag* de suscripción. No hace falta tener efecti
 
 ---
 
-## Anexo. Relación con la cartera actual (solo para el debate, no para ejecutar)
+## Anexo B. Qué hay dentro de cada fondo (posiciones reales)
+
+Última ficha publicada por la gestora o por FundFacts / FT Markets. **Las posiciones completas no se
+publican** (el World tiene 1.253, el EM 1.179); aquí van las diez mayores, que es lo que explica el
+comportamiento y los solapamientos. Fecha de los datos: **30/09/2026** cuando la fuente la declara
+(FundFacts); sin fecha visible en la página de FT.
+
+### B.1 Renta variable
+
+| Fondo | 10 mayores posiciones (peso) | Top-10 | Nº posiciones | Patrimonio |
+| --- | --- | ---: | ---: | ---: |
+| **Fidelity MSCI World** (IE00BYX5NX33) | NVIDIA 5,8 · Apple 5,4 · Microsoft 4,0 · Alphabet 4,0 · Amazon 2,6 · Meta 1,7 · Broadcom 1,7 · Micron 1,3 · Tesla 1,1 · AMD 1,1 | 28,7 % | 1.253 | USD 3,5 bn |
+| **Fidelity MSCI Europe** (IE00BYX5MD61) | ASML 5,1 · HSBC 2,5 · Roche 2,2 · Shell 2,0 · Novartis 1,9 · AstraZeneca 1,8 · Nestlé 1,7 · Siemens 1,6 · SAP 1,6 · Santander 1,5 | 21,9 % | 389 | EUR 264,6 m |
+| **Fidelity MSCI Japan** (IE00BYX5N771) | Mitsubishi UFJ 4,7 · Toyota 3,3 · Tokyo Electron 3,1 · Sumitomo Mitsui 3,0 · Advantest 3,0 · Hitachi 2,9 · SoftBank 2,8 · Recruit 2,6 · Sony 2,6 · Kioxia 2,5 | 30,5 % | 169 | USD 551,1 m |
+| **iShares EM S Acc** (IE000QAZP7L2) | TSMC 15,63 · Samsung 7,55 · SK Hynix 5,90 · Tencent 2,74 · Alibaba 1,86 · MediaTek 1,82 · Delta Electronics 0,94 · Samsung (sin voto) 0,94 · China Construction Bank 0,86 · Hon Hai 0,79 | 39,0 % | 1.179 | EUR 790,8 m |
+| **Vanguard Global Small-Cap** (IE00B42W4L06) | Moderna 0,63 · Tenet Healthcare 0,21 · Guardant Health 0,21 · Viatris 0,20 · US Foods 0,20 · resto muy repartido | 2,4 % | ≈1.600 | n/d |
+| **iShares Developed Real Estate** (IE00BDRK7P73) | Welltower 8,17 · Prologis 6,48 · Equinix 5,05 · Simon Property 3,32 · Digital Realty 3,29 · resto: REITs de salud, logística y centros de datos | 38,2 % | n/d | n/d |
+
+**Lectura rápida:** el World y el Europe no comparten **ni una** de sus diez primeras posiciones (el
+solape es de índice, no de nombres: ASML, HSBC o Nestlé pesan poco en el World) — es la prueba de que
+la sobreponderación europea no duplica el núcleo. El EM es **TSMC + Samsung + SK Hynix = 29 %**: con
+1.179 posiciones, un tercio del fondo está en tres fabricantes de semiconductores.
+
+### B.2 Renta fija y liquidez
+
+| Fondo | 10 mayores posiciones (peso) | Top-10 | Naturaleza |
+| --- | --- | ---: | --- |
+| **Neuberger Short Duration** (IE00BL1GVT98) | Futuro Euro Schatz **+9,58** · Futuro Euro Bund **−9,57** · Futuro Euro Bobl −4,90 · UBS Switzerland 1,64 · Futuro OAT −1,13 · Nykredit 0,95 · Verizon 0,88 · Athene 0,88 · Supernova 0,86 · HSBC 0,82 | ≈0,0 % neto | Crédito corto + **sobreponderación de curva**: largo Schatz, corto Bund/Bobl. No es «RF pasiva»: hay una apuesta de empinamiento de la curva euro |
+| **Aegon European ABS** (IE00BG226Z29) | Futuro Bobl 1,61 · Pavillion Consumer 2025-1 4,93 % 1,21 · FCT Crédit Agricole Habitat 3,06 % 1,10 · Green Lion 2024-1 2,90 % 1,08 · SLM Student Loan 2,87 % 0,93 · Green Lion 2023-1 0,91 · Olympia 0,84 · Jupiter Mortgage 0,74 · Santander 0,70 · BPCE 0,68 | 9,8 % | Titulizaciones europeas: consumo, hipotecas, estudiantes. Máxima granularidad del bloque |
+| **iShares Euro IG Corporate** (IE00BDRK7J14) | BlackRock ICS Euro Liquidity 0,26 · Amazon 0,09 · AB InBev 0,09 (×2) · Verizon 0,08 · JPMorgan 0,08 (×2) · Morgan Stanley 0,08 · AB InBev 0,08 · Amazon 0,08 | 1,0 % | 100 % corporativo IG, muy repartido: ninguna posición llega al 0,3 % |
+| **iShares Euro Government Bond** (IE00BD0NC037) | Ocho bonos franceses entre 0,72 % y 0,98 % (cupones 0,75-3,5 %), todos «France (Republic Of)» | 8,4 % | Deuda pública euro; Francia es el 25 % del fondo, Italia 22 %, Alemania 20 %, España 14 % |
+| **iShares Euro Govt Inflation-Linked** (IE00BD0NC144) | **Sin desglose publicado** (FT devuelve el propio fondo como única posición) | n/d | Bonos ligados a la inflación de la zona euro |
+| **Groupama Trésorerie** (FR0000989626) | National Bank of Canada 0,8 · Veolia 0,8 · Bank of America 0,7 · TD Bank 0,6 · Wells Fargo 0,6 · BFCM 0,6 · Deutsche Bank 0,6 · RBC 0,6 · TD Bank 0,6 · MUFG London 0,6 | 6,5 % | Papel comercial y depósitos bancarios a muy corto plazo, 273 posiciones |
+
+**Dos cosas que esta tabla cambia y que el documento ya incorpora:** el Neuberger no es un fondo de
+bonos quieto (lleva un *steepener* Schatz/Bund con el 15 % del patrimonio en futuros, en neto casi
+cero) y el que iba a ser el satélite de crédito «IG nórdico» (Sissener) tenía un top-10 de high yield
+de energía y shipping — **por eso está fuera y su hueco lo ocupa el corporativo IG indexado**.
+
+## Anexo A. Relación con la cartera actual (solo para el debate, no para ejecutar)
 
 Se ha diseñado **sin heredar nada**; este anexo solo dice qué pasaría si se comparara con
 `cartera-actual.md` (90.000 € + 10.000 € de colchón).
@@ -451,14 +498,14 @@ Se ha diseñado **sin heredar nada**; este anexo solo dice qué pasaría si se c
 | --- | --- | --- |
 | RV | 31,6 % (con Rock) | **45 %** |
 | RF + liquidez | 68,4 % | 55 % |
-| TER | 0,913 % sobre 60 k invertibles / 0,678 % sobre 100 k | **0,229 %** |
+| TER | 0,913 % sobre 60 k invertibles / 0,678 % sobre 100 k | **0,190 %** |
 | Posiciones | 17 (8 manuales + 9 de Rock) | 12 |
-| Duración RF | 3,83 años | 2,84 años |
+| Duración RF | 3,83 años | 3,03 años |
 | USA en la RV | ≈56 % | 39,4 % |
 | Coche automático | Rock 78/22 (0,41 % todo incluido) | No se usa: todo manual |
 | Fondos que coinciden | Neuberger, Groupama, Fidelity Europe, iShares EM | 4 de 12 |
 
-**Lo que la propuesta gana:** 229 €/año de coste frente a 678 € (450 € menos), una caída esperada
+**Lo que la propuesta gana:** 190 €/año de coste frente a 678 € (488 € menos), una caída esperada
 similar con 13 pp más de RV (porque Rock tiene 78 % de bolsa y aquí la RF es más corta), y una
 exposición a EE. UU. 17 pp menor. **Lo que pierde:** simplicidad —12 fondos manuales que hay que
 rebalancear a mano— y la comodidad del 15 % de liquidez, que hay que gestionar con disciplina.
