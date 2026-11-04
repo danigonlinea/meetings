@@ -5,17 +5,13 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
-| `finance/portfolio/propuesta-acciones.md` | portfolio-research | finance | 2026-11-04 | Propuesta de acciones sin dividendo — cuatro posiciones y una lista de espera | [cartera, acciones, sin-dividendo, calidad, tecnologia, value, la-pizarra-de-andres, webinars, myinvestor, propuesta] |
-| `finance/portfolio/cartera-myinvestor/propuesta-perplexity.md` | portfolio-proposal | finance | 2026-11-04 | Propuesta-perplexity: cartera de 100.000 € desde cero (MyInvestor) | [cartera, propuesta, myinvestor, 100k, indexados, renta-fija, reits, emergentes, japon, escenarios] |
-| `finance/portfolio/cartera-myinvestor/propuesta-actual-avanzada.md` | portfolio-proposal | finance | 2026-11-04 | Cartera avanzada: 55/45 con Rock intacta y diez fondos manuales (97.000 €) | [cartera, avanzada, rock, 55-45, diversificacion, indexados, value, renta-fija, cma, vanguard, jpmorgan, gmo, myinvestor] |
+| `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-04 | Cartera definitiva: 55/45 con ocho fondos, sin apuestas de crédito (97.000 €) | [cartera, definitiva, 55-45, renta-fija, abs, cobas-renta, reits, rock, myinvestor, traspasos] |
+| `finance/portfolio/cartera-myinvestor/propuesta-acciones.md` | portfolio-research | finance | 2026-11-04 | Propuesta de acciones sin dividendo — cuatro posiciones y una lista de espera | [cartera, acciones, sin-dividendo, calidad, tecnologia, value, la-pizarra-de-andres, webinars, myinvestor, propuesta] |
 | `finance/reports/contraste-propuesta-ackman-2026-11-03.md` | revision | finance | 2026-11-03 | Contraste de la cartera definitiva con la clase de Ackman (Big Think, 2012) | [cartera, verificacion, ackman, riesgo, coste, colchon, contraste, myinvestor] |
-| `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-03 | Cartera definitiva: 50/50 con ABS y crédito nórdico (97.000 €) | [cartera, definitiva, renta-fija, abs, aegon, sissener, rebalanceo, rock, myinvestor, traspasos, horos] |
 | `finance/reports/revision-adversarial-2026-11-02.md` | revision | finance | 2026-11-02 | Revisión adversarial de las dos charlas del 30/10 y 01/11 y su utilidad para la cartera | [revision-adversarial, la-pizarra-de-andres, horos, renta-fija, cobas, tgs, rock, kaizen, verificacion] |
 | `finance/reports/informe-canal-la-pizarra-de-andres-2026-11-02.md` | channel-report | finance | 2026-11-02 | Informe de canal: La Pizarra de Andrés (2026-11-02) | [informe-canal, la-pizarra-de-andres, cartera-propia, horos, value, holdings, inteligencia-artificial, renta-fija] |
 | `finance/portfolio/cartera-renta4/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-02 | Cartera Renta 4 — auditoría y propuesta de mejora (Kaizen se queda) | [cartera, renta4, auditoria, rebalanceo, fondos, renta-fija, kaizen, traspasos] |
 | `finance/portfolio/cartera-renta4/cartera-actual.md` | portfolio-snapshot | finance | 2026-11-02 | Cartera Renta 4 — estado congelado a 02/11/2026 | [cartera, renta4, snapshot, congelado, fondos, renta-fija] |
-| `finance/portfolio/cartera-myinvestor/propuesta-investigacion.md` | portfolio-research | finance | 2026-11-02 | Propuesta de investigación — dos bloques de acumulación, sin acciones que repartan | [cartera, investigacion, calidad, activos-reales, reits, fundsmith, acumulacion, horizontes, myinvestor] |
-| `finance/portfolio/cartera-myinvestor/propuesta-alternativa.md` | portfolio-alternative | finance | 2026-11-01 | Propuesta alternativa — activos reales y dos fondos de calidad (10 fondos manuales) | [cartera, alternativa, activos-reales, reits, fundsmith, comgest, calidad, diversificacion, myinvestor, research] |
 | `finance/la-pizarra-de-andres/2026-11-01-estoy-perdiendo-dinero-con-mis-inversiones-resultados-octubre/summary.md` | meeting-summary | finance | 2026-11-01 | Estoy perdiendo dinero con mis inversiones: resultados de la cartera del canal en octubre | [cartera, resultados-mensuales, renta-variable, small-caps, china, cartera-meta, myinvestor, rotacion] |
 | `finance/myinvestor-webinars/catalogo.md` | reference | finance | 2026-10-31 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `finance/reports/sintesis-inversor-2026-10-30.md` | synthesis | finance | 2026-10-30 | Síntesis para el inversor · La Pizarra de Andrés, 18-25 oct 2026 | [la-pizarra-de-andres, sintesis, inversion] |
@@ -44,6 +40,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [finance, meeting, transcript] |
 | `finance/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 38
+**Total de artefactos indexados:** 34
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

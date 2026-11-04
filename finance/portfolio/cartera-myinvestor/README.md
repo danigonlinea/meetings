@@ -1,6 +1,6 @@
 ---
 title: "Cartera MyInvestor: cómo funciona esta carpeta"
-date: 2026-11-01
+date: 2026-11-04
 type: reference
 category: finance
 tags: [cartera, indice, proceso]
@@ -13,51 +13,41 @@ incluidos, + 30.000 € de Rock; más 10.000 € de colchón fuera de la base), 
 Es independiente de `../cartera-renta4/`: no comparten saldos, ni propuesta, ni cifras. El resto de
 material financiero (vídeos, webinars, informes) está en las otras subcarpetas de `finance/`.
 
-## Dos documentos vivos… más cuatro anexos de investigación
+## Tres documentos, un papel cada uno
 
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
-| `cartera-actual.md` | **Fotografía congelada** del estado real: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
-| `propuesta-actual.md` | **La cartera vigente**: modelo que decide el % de RV, cartera final con ISIN e importes, órdenes, métricas, coste de la decisión, ejecución, diagnóstico y qué se descarta | **Sí**, es el documento de trabajo |
-| `propuesta-alternativa.md` | **Anexo de investigación, no una cartera paralela**: dos carteras posibles sobre la vigente —mínima (REITs indexados al 0,17%, 5.000 €) y ampliada (10 fondos manuales: + Fundsmith 1,09% y Comgest Growth Europe 1,59%)— con pesos, financiación y ocho fuentes. Nace del barrido del catálogo MyInvestor del 01/11/2026 | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
-| `propuesta-investigacion.md` | **Anexo de investigación de dos bloques**, no una cartera paralela: calidad global (Fundsmith T Acc, 1,09 %) y activos reales (iShares Developed Real Estate D Acc, 0,17 %), 5.000 € y 19 posiciones, con dos fuentes por vehículo, riesgos, señal de invalidación y cuatro traspasos. Nace del encargo del 02/11/2026 y se reajustó el mismo día con la regla de acumulación, que vació la satélite de acciones y ETFs | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
-| `propuesta-perplexity.md` | **Diseño desde cero** para 100.000 € (04/11/2026): 45 % RV / 40 % RF / 15 % liquidez, 12 fondos, TER 0,199 %, caída estimada −19,2 %. No hereda la cartera vigente ni la sustituye: es un encargo de diseño con sus propios bloques, candidatos descartados, escenarios de estrés y anexo de contraste con la cartera actual | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
-| `propuesta-actual-avanzada.md` | **Diseño desde cero sobre el capital real** (04/11/2026, segunda pasada): 97.000 € con **Rock intacta** (30.000 €) y 10 fondos manuales de 67.000 € en 43/57, look-through 55/45, TER **0,478 %** y hoja de **13 órdenes**. Nace de una revisión adversarial de la versión anterior, que repartía 97.000 € entre 13 fondos sin contar Rock | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
+| `cartera-actual.md` | **Fotografía congelada** del estado real a 30/10/2026: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad de las posiciones | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
+| `propuesta-actual.md` | **La cartera vigente y única** (04/11/2026): modelo de RV con ocho señales, ocho fondos manuales, doce órdenes, métricas, riesgos, descartes y revisión trimestral | **Sí**, es el documento de trabajo |
+| `propuesta-acciones.md` | **Bloque de riesgo aparte**: cuatro acciones individuales sin dividendo. No forma parte de la cartera de fondos, no entra en su look-through y no se rebalancea contra ella | Sí, pero nunca se suma a la cartera de fondos |
 
-Los anexos existen porque el usuario pidió conservar la investigación con nombres, ISIN, TER y pesos; su
-ciclo de vida es corto a propósito: **o se incorporan a la propuesta, o se descartan y desaparecen**. Una
-tercera cartera permanente volvería a dejar dos documentos con dos cifras de la misma cartera.
+**Ya no hay anexos.** La carpeta llegó a tener cinco propuestas paralelas con cinco cifras distintas de
+la misma cartera. El 04/11/2026 se resolvieron todas en `propuesta-actual.md` y se borraron (`git rm`);
+su contenido íntegro sigue en el historial de git (último commit con la carpeta completa: `50b2e69`) y
+el resumen de lo que aportó cada una está en §12 de la propuesta. **No se crean carteras paralelas:** si
+aparece una idea, o entra en la propuesta o se descarta con el número delante.
 
-El diagnóstico, el veredicto frente a las fuentes y las revisiones adversariales **no viven en
-ficheros aparte**: sus conclusiones están dentro de la propuesta (§2, §5, §7, §8) y el debate que las
-produjo, en el historial de git. Un documento por rol evita las dos verdades: la carpeta llegó a tener
-tres ficheros con cifras distintas de la misma cartera.
+El diagnóstico, el veredicto frente a las fuentes y las revisiones adversariales **no viven en ficheros
+aparte**: sus conclusiones están dentro de la propuesta (§2, §5, §8, §10) y el debate que las produjo, en
+el historial de git. Un documento por rol evita las dos verdades.
 
-## Estado a 02/11/2026
+## Estado a 04/11/2026
 
 - **Cartera:** 107.000 € totales = 10.000 € de colchón (Groupama, fuera de la cartera) + 97.000 €
   invertibles (67.000 € manuales, con 7.000 € de aportación nueva, + 30.000 € en Rock).
-- **Situación de partida (90k):** 31,6% de renta variable, 68,4% de renta fija, 0,746% de TER y 17
-  posiciones.
-- **Propuesta (cerrada):** **50,0% de RV / 50,0% de RF**, 0,655% de TER y 17 posiciones. Emergentes al
-  10%, dos fondos value (5.000 + 5.000) y small caps en 3.700. Mueve 25.000 € por traspaso (0 € de
-  impuestos) + 7.000 € de aportación, en 11 órdenes y tres tandas. Caída esperada ≈ −21,5%.
+- **Reparto:** **54,9 % de RV / 45,1 % de RF** (look-through estricto, Rock dentro). Coste total
+  **426 €/año (0,439 %)**: 303 € manuales y 123 € de Rock. Cero comisiones de éxito.
+- **Ocho fondos manuales + Rock:** Neuberger 17.000 · Cobas Renta 5.000 · Aegon ABS 7.000 · Amundi
+  Euro Corp 1-5Y 7.400 · iShares Europe 13.600 · iShares EM 7.000 · iShares REITs 5.000 · Cobas
+  International 5.000.
+- **Ejecución:** doce órdenes (dos suscripciones y **diez traspasos**, 49.000 €) en dos sesiones.
+  Traspaso y nunca reembolso: 0 € de impuestos.
+- **Caída estimada tipo 2008: −23,3 % (−22.600 €).** Es el precio de entrada y está escrito como suelo
+  conductual en §2 de la propuesta.
 - **Pendiente antes de la primera orden:** los **gastos mensuales** (el colchón de 10.000 € nunca se
-  dimensionó contra un dato real) y confirmar que se aguanta el −21,5%. Comisiones verificadas el
-  31/10: 0,00% de reembolso en los cinco fondos que salen; entrada 0,00% salvo el Neuberger («hasta
-  3%», máx. 297 €). Falta ver en pantalla la comisión de la clase S de iShares EM.
-- **Decisión abierta (anexo del 01/11):** si se añade el bloque de activos reales de
-  `propuesta-alternativa.md` —iShares Developed Real Estate (IE00BDRK7P73, 0,17%)— y si la cartera se
-  queda en la **versión mínima** (5.000 €, 17 posiciones, 632 €/año) o pasa a la **ampliada** (10 fondos
-  manuales, con Fundsmith 3.000 € al 1,09% y Comgest Growth Europe 2.500 € al 1,59%; 19 posiciones,
-  662 €/año, USA 37,6% de la RV). Antes de ejecutarlo hay que verificar el reembolso de Vanguard
-  Small-Cap, Fidelity Europe, MyInvestor Value y Cobas, y la entrada de los tres fondos nuevos.
-- **Investigación abierta (02/11):** `propuesta-investigacion.md` propone **5.000 € en dos vehículos de
-  acumulación** —Fundsmith T Acc 3.000 y iShares Developed Real Estate D Acc 2.000— financiados con
-  cuatro traspasos (small cap, Europa y 1.000 € de cada value), manteniendo el 50/50 y la RF intacta.
-  No ejecutada. Como el anexo del 01/11 ha convergido con ella (mismos dos vehículos, distintos pesos),
-  hay **una sola decisión**, no dos: la ampliada de la alternativa (19 posiciones, 662 €/año), la mínima
-  de la alternativa (REITs 5.000 €, 17 posiciones, 632 €/año) o estos 5.000 €.
+  dimensionó contra un dato real) y confirmar que se aguanta el −23,3 %. Comisiones verificadas el 31/10:
+  0,00 % de reembolso en los cinco fondos que salen. Falta ver en pantalla la comisión de entrada de
+  Aegon, Amundi, iShares Europe, REITs y Cobas Renta.
 
 ## Reglas de esta carpeta
 
@@ -65,3 +55,7 @@ tres ficheros con cifras distintas de la misma cartera.
   `propuesta-actual.md`. Ningún fichero replica la tabla de posiciones del otro.
 - Toda propuesta se ejecuta por **traspaso** entre fondos armonizados, nunca por reembolso.
 - Nada se mueve sin verificar antes la clase del fondo y su coste real en la plataforma.
+- **Rock no se desmonta**: la plusvalía de +83,44 % acumulada desde 2020 se cristalizaría. Su 78/22 y su
+  bono a 20+ años se aceptan como parte del diseño, y por eso el 76 % del riesgo de tipos vive ahí.
+- Las acciones individuales son **otro bloque de riesgo** del titular: no entran en el % de RV de esta
+  cartera ni se compensan con ella.

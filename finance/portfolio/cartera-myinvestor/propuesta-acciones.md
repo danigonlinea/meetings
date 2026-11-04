@@ -7,8 +7,7 @@ tags: [cartera, acciones, sin-dividendo, calidad, tecnologia, value, la-pizarra-
 status: research
 related:
   - finance/portfolio/README.md
-  - finance/portfolio/cartera-myinvestor/propuesta-investigacion.md
-  - finance/portfolio/cartera-myinvestor/propuesta-alternativa.md
+  - finance/portfolio/cartera-myinvestor/propuesta-actual.md
   - finance/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/summary.md
   - finance/la-pizarra-de-andres/2026-10-22-gestor-de-renta-4-advierte-sobre-una-gran-recesion/summary.md
   - finance/la-pizarra-de-andres/2026-10-15-da-miedo-pero-la-ia-puede-solucionar-la-economia-juan/summary.md
@@ -28,8 +27,9 @@ related:
 > construye sobre esas menciones **más** verificación propia de negocio, múltiplo y precio.
 >
 > **Fuentes del corpus usadas.** 17 `summary.md` y 3 informes de `finance/reports/`. Se reutilizan
-> además el método y las verificaciones de `propuesta-alternativa.md` y `propuesta-investigacion.md`
-> (regla de acumulación, ficha por vehículo, etiquetas hecho/consenso/opinión, señal de invalidación).
+> además el método y las verificaciones de los anexos absorbidos el 04/11/2026 (regla de acumulación,
+> ficha por vehículo, etiquetas hecho/consenso/opinión, señal de invalidación); el texto íntegro de
+> esos anexos está en el historial de git, commit `50b2e69`, y sus conclusiones en `propuesta-actual.md`.
 > Datos de mercado: 04/11/2026, cierre americano en curso; EUR/USD 1,1225.
 
 ## 0. Resumen ejecutivo
