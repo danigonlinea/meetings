@@ -50,6 +50,97 @@ related: [finance/portfolio/cartera-myinvestor/propuesta-actual.md, finance/port
 > adoptar, no dos:** o esta cartera ampliada, o la versión mínima de aquí (REITs 5.000 €), o los 5.000 €
 > de la investigación.
 
+> **Reglas de la casa añadidas el 04/11/2026 (§0).** Este anexo se lee con las dos reglas que gobiernan
+> la cartera vigente: **acumulación** (ningún vehículo reparte dividendos) y **«cada euro es RV o RF»**
+> (sin bloques mixtos). §0 las verifica ficha a ficha sobre los vehículos que este anexo añade, incluido
+> el bloque de acciones directas, y añade el **contraste con la charla de Horos del 30/10/2026**, que
+> inclina la elección hacia la versión mínima.
+
+## 0. Las dos reglas de la casa, aplicadas a este anexo
+
+### 0.1 Acumulación: ningún vehículo reparte
+
+Verificado con ficha MCP el 04/11/2026 (`distributing = 0` en todos). Es la regla que **vacía el bloque
+de acciones directas**, no la que lo prohíbe: una acción es RV pura y encaja en «cada euro es RV o RF»,
+pero el dividendo la deja fuera por acumulación.
+
+| Vehículo | ISIN | Clase | `distributing` | Asignación (ficha) |
+| --- | --- | --- | ---: | --- |
+| Fundsmith Equity T EUR Acc | LU0690375182 | Acumulación | 0 | RV 100 % |
+| Comgest Growth Europe EUR Acc | IE0004766675 | Acumulación | 0 | RV 99,1 % · liquidez 0,9 % |
+| iShares Developed Real Estate D Acc | IE00BDRK7P73 | Acumulación | 0 | RV 98,9 % · liquidez 0,7 % · otros 0,4 % |
+
+**Las cuatro ideas de acción de `propuesta-investigacion.md` caían por aquí**, no por el análisis:
+TotalEnergies 4,2 %, LVMH 3,4 %, Microsoft 0,8 % y ASML 0,5 % de dividendo. Con la regla aplicada a
+acciones, ninguna pasaba el filtro, y por eso los dos anexos convergieron en los mismos dos vehículos
+(Fundsmith y los REITs). Una acción que no reparta dividendo —o que tenga clase de acumulación— sí
+podría entrar; hoy no hay ninguna en el catálogo que además pase el resto de filtros.
+
+### 0.2 «Cada euro es RV o RF»: sin bloques mixtos
+
+La cartera ampliada mantiene el **50,0 % / 50,0 %** de la vigente y **ningún vehículo nuevo rompe la
+regla**: Fundsmith es 100 % RV, Comgest y los REITs llevan entre 0,9 y 1,5 % de liquidez residual que no
+convierte el fondo en mixto. El único vehículo no puro es **Rock (78/22)**, que ya se rige por su regla
+propia en la vigente y aquí no se toca.
+
+Lo que la regla **sí descarta en este anexo**: los fondos de oro (DWS 1,61 %, Jupiter 1,66 %), que son
+mixtos por construcción y además con volatilidad de 38 %; y cualquier «quality income» o mixto barato que
+se colara por coste. La consecuencia práctica: el bloque de calidad se paga con **RV pura**, así que
+sube la RV activa (20,6 % → 27,8 %) sin tocar el 50/50 — el riesgo se redistribuye, no se mezcla.
+
+### 0.3 Contraste con la charla de Horos (30/10/2026)
+
+Fuente: `finance/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/summary.md`.
+Javier Ruiz, gestor value de Horos; atribución inferida del contenido, no de etiquetas.
+
+**Confirma la tesis del bloque value, con el número delante.** Su marco —«nos cuesta encontrar margen de
+seguridad» en la bolsa americana y la IA, y se van donde no llega el flujo— es el mismo que sostiene
+Cobas y MyInvestor Value en esta cartera. Y **cierra la puerta a Horos Value Internacional**, que ya
+estaba descartado por solape doble en `propuesta-actual.md` §12: ficha re-verificada el 04/11 da TER
+**1,90 %**, 3A **+16,98 %**, 5A **+11,92 %**, vol 3A 11,02 %, **Francia 20,7 % + España 15,0 % + Italia
+4,2 %** y solo 7,2 % en EE. UU., con 9,2 % en liquidez. Pierde las dos ventanas contra Cobas (3A 26,47 %,
+5A 17,11 %) y repite la apuesta francesa de MyInvestor Value: entra por calidad de gestor, no por hueco.
+
+**Argumenta en contra de la versión ampliada.** Es su punto más incómodo para este anexo: dice que
+comprar calidad en Estados Unidos ha pasado de **18 veces a 35-40 veces** beneficios (Coca-Cola 40,
+Walmart 30 y pico) y que eso es **flujo de la gestión indexada, no mejores negocios**. Fundsmith es
+**79,6 % EE. UU. y 32,2 % tecnología**; los REITs, 64,8 % EE. UU. La ampliada sube Estados Unidos del
+34,5 % al **37,6 %** de la RV comprando precisamente el activo que el gestor señala como caro. La mínima
+(REITs 5.000 €), en cambio, se queda en el 34,5 % y no compra múltiplos de calidad americana.
+
+**Y refuerza la renta fija que la cartera ya tiene.** Su fondo de crédito, con **duración 2,5 años** y
+mínimo 80 % corporativo, esperaba 4,5 % neto al lanzar y lleva **menos del 2 %** por la tensión en deuda
+pública. Ese es el argumento de no alargar duración que la vigente ya aplica —y el motivo por el que este
+anexo no toca la RF—, no una razón para acortarla más: el carry esperado y la duración de esta cartera
+(≈3,3 años) ya están por debajo del producto que falló.
+
+**Límite de este contraste:** es un gestor hablando de su propia cartera, sin pesos ni cifras de
+potencial; sirve como corroboración de tesis y como aviso de precio, no como dato para dimensionar
+posiciones.
+
+### 0.4 Cuánto de esa advertencia hay ya en la cartera, con número
+
+Composición de Rock traída del catálogo el 04/11/2026 (`search_portfolios`), sobre 30.000 €: Fidelity
+S&P 500 33 % (9.900 €), Goldman Sachs Global Enhanced Sustainable 14 % (4.200 €), Vanguard US Government
+Bond 12 % (3.600 €), iShares EM 11 % (3.300 €), Vanguard 20+ Year Euro Treasury 10 % (3.000 €), Fidelity
+Japan 9 % (2.700 €), Fidelity Europe 7 % (2.100 €), Fidelity Pacific ex-Japan 2 % (600 €), Vanguard US
+Equity Index 2 % (600 €).
+
+| Dato | Cálculo | Resultado |
+| --- | --- | :-- |
+| Bolsa de EE. UU. dentro de Rock | 9.900 + 600 + (65 % de 4.200) | ≈ **13.230 €**, el 56,5 % de la RV de Rock |
+| Top-10 del S&P (34 % del índice según §2 de la vigente) dentro de la cartera | (9.900 + 600) × 34 % | ≈ **3.570 € = 3,7 % de la cartera** |
+| Lo mismo imputando el 65 % USA del GS Global | + 2.730 × 34 % | ≈ **4.500 € = 4,6 % de la cartera** (9,3 % de la RV) |
+| Renta fija dentro de Rock en 2026 | 3.000 × −17,03 % + 3.600 × −7,94 % | ≈ **−797 € = −12,1 %** sobre sus 6.600 € |
+
+**Las dos conclusiones, y son la respuesta a «¿toca cambiar algo?».** (1) La advertencia de Ruiz sobre
+la concentración del S&P aplica a esta cartera **con un peso mucho menor del que suena**: el top-10
+queda en 3,7-4,6 % del total porque el S&P entra solo por el 33 % de Rock, que pesa el 30,9 %. No hay
+nada que recortar por ese lado. (2) La frase «la renta fija de fija tiene poco» está **cobrada en casa**:
+la RF dentro de Rock pierde ≈12 % en 2026 (−797 €) por el 20+ y el Treasury americano, mientras el bloque
+manual de RF corta cobra su carry. El diseño de la vigente —duración corta con un único 20+ dentro de
+Rock— ya es la respuesta a ese aviso, no la excepción a él.
+
 ## 1. Qué hueco cubre
 
 La propuesta vigente tiene 48.500 € de renta variable: Rock, dos value (uno europeo, uno global), small
@@ -338,6 +429,11 @@ la decisión de no pagar el 0,92% del Lazard.
 - **Cuál de las dos versiones:** mínima (REITs 5.000 €, 17 posiciones, **584 €/año**) o ampliada
   (10 fondos, 19 posiciones, **604 €/año**; sin Comgest, 17 posiciones y ~613 €). Yo haría la mínima; la ampliada solo si se quiere diversificar por estilo y se
   acepta pagar 1,09-1,59% por dos gestores.
+- **La charla de Horos (30/10) inclina la balanza a la mínima (§0.3).** Su argumento de que la calidad
+  americana se paga a 35-40 veces por flujo indexado, no por mejores negocios, es exactamente lo que
+  compra Fundsmith (79,6 % EE. UU., 32,2 % tecnología) y lo que la ampliada lleva a Estados Unidos al
+  37,6 % de la RV. Si además la ficha de Comgest sigue en 5A −0,96 %, la ampliada se queda sin caso: dos
+  gestores pagados para comprar el activo que el gestor value del canal evita.
 - **Comisión de entrada del iShares REITs, de Fundsmith y de Comgest**: el MCP no las publica → ver en la
   pantalla de suscripción.
 - **Comisión de reembolso del Vanguard Small-Cap, del Fidelity Europe, del MyInvestor Value y de Cobas**:
