@@ -198,8 +198,9 @@ sesiones.
 - [ ] Comprobar saldos: Neuberger **22.000** · DNCA **13.000** · Carmignac **12.000** · Gamma **8.000** ·
       MyInvestor Value **2.000** · Cobas **1.000** · Space **1.000** · China **1.000** = **60.000 €**.
 - [ ] Reembolso **0,00 %** verificado el 31/10 en los cinco fondos que salen.
-- [ ] Confirmar la **comisión de entrada** de Aegon, Amundi, iShares Europe, Japón, Pacífico, REITs y
-      Cobas Renta (no publicada).
+- [ ] Mirar en la app la **comisión de suscripción de Aegon y Amundi**: su folleto permite hasta 5,00 %
+      y 4,50 %, pero MyInvestor solo cobra lo que muestra. Si aparece, se cambia el destino (§8). Los
+      otros cinco publican 0,00 %.
 - [ ] **Traspaso, nunca reembolso.**
 
 ### 7.1 Sesión 1 — 31.000 € · 7 órdenes
@@ -267,8 +268,16 @@ Pacífico 2.000 · EM 6.000 · REITs 4.000 · Cobas Intl +4.000 = **49.000 €**
 - **42 % de los emergentes es tecnología** y ~900 € caen en TSMC sola.
 - **El colchón de 10.000 € sigue sin dimensionar** contra gastos reales: cubre si el gasto mensual está
   entre 833 € y 1.667 €. Se ajusta **antes** de ejecutar §7.
-- **Comisión de entrada desconocida** en siete fondos. Si alguna cobra >1 %, el ahorro de 159 €/año se
-  come el primer año.
+- **Comisión de entrada: dos fondos tienen máximo de folleto por encima del 1 %.** Verificado el
+  04/11/2026 en quefondos, Finect y el PRIIPs de la gestora: **Aegon ABS hasta 5,00 % de suscripción y
+  3,00 % de reembolso**; **Amundi 1-5Y hasta 4,50 % y 1,00 %**. Los otros cinco publican **0,00 %**
+  (iShares Europe, iShares REITs, Fidelity Japón, Cobas Renta) o no lo publican (Fidelity Pacífico).
+  Son **máximos**, no el precio: el PRIIPs de Amundi dice literalmente «this is the most you will be
+  charged; the person selling you the product will inform you of the actual charge», y MyInvestor
+  declara que «si en la app no aparece comisión de suscripción, es porque no la cobramos». **Si en la
+  app apareciera**, serían 350 € sobre Aegon (5 % de 7.000) y 324 € sobre Amundi (4,5 % de 7.200):
+  674 €, cuatro veces el ahorro anual. En ese caso no se suscribe: esos 7.000 € van al Neuberger
+  (hasta 24.000, con la concentración dicha) y los 7.200 € al iShares Euro IG Corporate.
 - **TIR y duración de Aegon, Amundi y Cobas Renta no publicadas**: 2,3 años y 4,24 % son inferidos.
 - **Ninguna cifra de retorno está prometida.**
 
@@ -433,7 +442,7 @@ contenido íntegro sigue en el historial de git (commit `50b2e69`).
 
 Límites: duración y TIR de Aegon, Amundi y Cobas Renta **no publicadas** (2,3 años y 4,24 % inferidos);
 la vol y el carry de la RF de Rock no se publican; el 44 % de la cartera de Cobas no viene desglosado por
-país; comisión de entrada de siete fondos no pública; drawdown y retorno esperado son estimaciones
+país; comisión de entrada: máximos de folleto verificados y política de MyInvestor citada en §8, pero el cargo real solo se ve en la app; drawdown y retorno esperado son estimaciones
 propias; las señales de §2 llevan pesos de juicio; los gastos del colchón siguen sin dimensionar.
 
 > No es asesoramiento financiero. La decisión es del titular.
