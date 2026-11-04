@@ -30,7 +30,7 @@ related:
 > (Anexo B) se cae **Sissener Corporate Bond**: su top-10 son bonos high yield de energía y shipping
 > (Nynas 11,75 %, Golar LNG 7,75 %, W&T Offshore 10,75 %, McDermott 10,5 %), no crédito IG nórdico.
 > Lo sustituye **iShares Euro Investment Grade Corporate Bond D Acc (IE00BDRK7J14, 0,12 %)**. Efecto:
-> TER 0,229 % → **0,190 %**, duración 2,84 → **3,03 años**, y el bloque de crédito pasa a ser IG de
+> TER 0,229 % → **0,190 %** (0,199 % tras el cambio del World), duración 2,84 → **3,03 años**, y el bloque de crédito pasa a ser IG de
 > verdad. Cifras actualizadas en §D, §E, §F y §G.
 >
 > **Cambio del 04/11/2026 (a petición del titular).** Sale **Fidelity MSCI World** y entra
