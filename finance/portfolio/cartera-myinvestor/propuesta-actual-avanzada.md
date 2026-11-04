@@ -78,7 +78,7 @@ el modelo no vale y hay que bajar a 45 %. Un modelo que no se aguanta no sirve.
 | --: | --- | --- | --- | --: | --: | --: |
 | 1 | RV Europa | iShares Europe Index D Acc | IE00BDRK7L36 | 14.000 | 14,4 % | 0,10 % |
 | 2 | RV emergentes | iShares Emerging Markets S Acc | IE000QAZP7L2 | 10.500 | 10,8 % | 0,16 % |
-| 3 | RV value Europa | MyInvestor Value C | ES0165243025 | 7.000 | 7,2 % | ~1,42 % + 9 % éxito |
+| 3 | RV value Europa | JPMorgan Europe Strategic Value A Acc | LU0210531983 | 7.000 | 7,2 % | 1,72 % |
 | 4 | RV value global | Cobas International P | LU1598719752 | 6.500 | 6,7 % | 2,33 % |
 | 5 | Activos reales | iShares Developed Real Estate D Acc | IE00BDRK7P73 | 4.500 | 4,6 % | 0,17 % |
 | 6 | **Mixto equilibrado** | **Baelo Patrimonio** | **ES0110407097** | **5.000** | **5,2 %** | **0,64 %** |
@@ -88,7 +88,7 @@ el modelo no vale y hay que bajar a 45 %. Un modelo que no se aguanta no sirve.
 | 10 | **Mixto defensivo** | **Cobas Renta** | **ES0119207001** | **10.000** | **10,3 %** | **0,33 %** |
 | 11 | RF ABS | Aegon European ABS A Acc | IE00BG226Z29 | 6.000 | 6,2 % | 0,66 % |
 | 12 | Crédito nórdico | Sissener Corporate Bond R EUR | LU2262944817 | 3.000 | 3,1 % | 0,90 % |
-| 13 | Liquidez táctica | Groupama Trésorerie IC | FR0000989626 | 3.000 | 3,1 % | 0,07 % |
+| 13 | Liquidez táctica | AXA Trésor Court Terme C | FR0000447823 | 3.000 | 3,1 % | 0,05 % |
 | | **TOTAL** | | | **97.000** | **100 %** | |
 
 **Reparto por mandato:** RV 54.000 € (55,7 %) · RF 43.000 € (44,3 %).
@@ -102,7 +102,7 @@ Cobas Renta; si se midiera por mandato, la cartera tendría un 56 % de RV y el n
 | --- | --- | --- | --- |
 | **iShares Europe 0,10 %** | 3A +17,58 % · 5A +9,74 % · vol 10,67 % · 99,2 % RV | Beta barata donde la valoración paga (Europa a 13,6x frente a 18,7x del S&P) | 24,7 % servicios financieros y 21,3 % Reino Unido: no es "Europa limpia" |
 | **iShares EM 0,16 %** | El más barato de los 27 indexados de emergentes del catálogo | Única forma de estar en el 10,2x de emergentes | 42 % del índice es tecnología (Taiwán, Corea) y ~1.600 € caen en TSMC |
-| **MyInvestor Value 1,42 % + 9 %** | Europa small/mid a 0,8x valor en libros, beta 0,40; YTD +14,5 %, 1A +19,9 % | El value europeo que la cartera defiende | Fondo de 2021, sin 3A, y 9 % de éxito: es el vehículo más caro de la cartera |
+| **JPM Europe Strategic Value 1,72 %** | 3A +22,65 % · 5A +14,08 % · vol 3A 10,08 % · 24 años de clase · sin comisión de éxito | El value europeo que la cartera defiende, con historial completo | **43,9 % servicios financieros**: es una apuesta al sector, no "Europa barata" en general |
 | **Cobas International 2,33 %** | 3A +26,47 % · 5A +17,11 % · vol 12,34 %; cero solape con el anterior | Value global con energía y shipping (21,7 % energía) | Soft close próximo; 27 % de la cartera no desglosada por país |
 | **REITs 0,17 %** | 3A +10,78 % · 5A +0,63 % · 97,4 % inmobiliario · 2022 −20,1 % | Renta de alquiler: fuente de retorno que ninguna otra posición da | Sector con una década mala; no protege en caídas |
 | **Baelo 0,64 %** | 62,3 % RV / 35,7 % RF · 3A +10,74 % · 5A +5,21 % · vol 6,46 % · sin éxito | **Mixto 1**: equilibrado de bajo coste que amortigua sin ser un bono | 32 % Alemania y 32 % deuda pública: es un fondo europeo de hecho |
@@ -112,7 +112,7 @@ Cobas Renta; si se midiera por mandato, la cartera tendría un 56 % de RV y el n
 | **Cobas Renta 0,33 %** | 3A +8,90 % · 5A +6,79 % · vol 2,93 % · **2022 +3,89 %** · SRRI 2 | **Mixto 2**: RF flexible gestionada por una casa value, sin comisión de éxito | 28 % en liquidez (lastre) y 61,7 % deuda pública: no es crédito puro |
 | **Aegon ABS 0,66 %** | 3A +4,38 % · vol 3A 0,95 % (5A 1,90 %) · 98,6 % titulización | Diversifica el riesgo de crédito fuera del corporativo | 2022 −4,0 % y 5A +2,94 %: pierdes 1,81 pp frente a un soberano A+ |
 | **Sissener 0,90 %** | 3A +6,85 % · 5A +5,51 % · vol 2,05 % · 2022 +0,19 % | Crédito nórdico IG, el único que no perdió en 2022 | 58 % Noruega/Suecia y gestora pequeña |
-| **Groupama 0,07 %** | 3A +2,97 % · vol 3A 0,26 % | Liquidez para rebalancear sin vender RV | Rinde €STR: no es inversión, es munición |
+| **AXA Trésor Court Terme 0,05 %** | 3A +2,95 % · vol 3A 0,24 % · €STR | Liquidez para rebalancear sin vender RV | Rinde €STR: no es inversión, es munición |
 
 ## 5. Los dos mixtos: por qué entran y qué aportan de verdad
 
@@ -139,10 +139,10 @@ no se desglosa es una cartera que miente sobre su riesgo.
 | --- | ---: | --- |
 | Renta variable (look-through) | **55,2 %** (estricto: 53,1 %) | 53.562 € de 97.000 por convención; 51.476 € contando el equity real de cada fondo |
 | Renta fija (look-through) | **44,8 %** (estricto: 46,9 %) | 43.438 € |
-| TER puro | **517,9 €/año (0,534 %)** | Σ importe × TER de ficha |
-| Comisiones de éxito | ≈73 €/año | 9 % de MyInvestor Value, estimado sobre 7.000 € |
-| **Coste total** | **≈591 €/año (0,609 %)** | TER + éxito |
-| Duración estimada de la RF | **≈2,3 años** (inferida) | Neuberger 1,95 · Aegon ~1 · Sissener ~2 · Renta ~3 · Groupama ~0 |
+| TER puro | **538,2 €/año (0,555 %)** | Σ importe × TER de ficha |
+| Comisiones de éxito | **0 €/año** | Ningún vehículo de la cartera las cobra |
+| **Coste total** | **538,2 €/año (0,555 %)** | TER, sin éxito |
+| Duración estimada de la RF | **≈2,3 años** (inferida) | Neuberger 1,95 · Aegon ~1 · Sissener ~2 · Renta ~3 · AXA ~0 |
 | Volatilidad estimada | **≈7,1 %** | RV 12,5 % · RF 2,5 % · correlación 0,1 |
 | Caída tipo 2008 (RV −40 %, RF −3 %) | **−23,4 %** | −22.700 € |
 | Retorno esperado | **5,7 % nominal** (EY solo) · **7,9 %** (con crecimiento 4 %) | §2.2 |
@@ -186,19 +186,19 @@ grande del documento y la que sostienen las tres casas del §2: Europa a 13,6x, 
 
 ### 7.3 Sectores, divisas y gestoras
 
-- **Sectores de la RV** (aproximado, top-6 de cada ficha): industria 20,3 %, **inmobiliario 17,5 %**,
-  consumo cíclico 16,7 %, servicios financieros 14,1 %, salud 9,7 %, tecnología 9,7 %, consumo
-  defensivo 5,1 %, energía 4,5 %, materiales 2,4 %. Tecnología **por debajo del 10 %**, frente al ~20 %
-  de la cartera vigente. El inmobiliario es la segunda exposición sectorial: no viene solo de los REITs
-  (4.500 €), sino del 7,6 % que ya lleva MyInvestor Value y del 8,0 % del small cap. Es el precio de
-  tener activos reales y hay que saberlo.
+- **Sectores de la RV** (aproximado, top-6 de cada ficha): **servicios financieros 24,6 %**,
+  inmobiliario 16,3 %, industria 16,0 %, salud 12,2 %, consumo cíclico 8,5 %, tecnología 7,8 %,
+  energía 7,2 %, consumo defensivo 6,7 %, materiales 0,7 %. Tecnología **por debajo del 8 %**, frente al
+  ~20 % de la cartera vigente. Dos concentraciones dichas en voz alta: el **inmobiliario** (REITs más
+  MyInvestor del small cap) y los **financieros**, que vienen casi enteros de JPM Europe Strategic Value
+  (43,9 % del fondo). Son el precio de haber elegido value con historial.
 - **Divisas sin cubrir:** EUR ~55 %, USD ~15 %, GBP ~7 %, JPY ~4 %, NOK/SEK ~3 %, emergentes ~9 %,
   sin desglosar ~7 %. La exposición al dólar (15 %) es deliberada y menor que la de un indexado global.
 - **Gestoras:** BlackRock 29.000 € (**29,9 %**), Neuberger 21.000 (21,6 %), Cobas 16.500 (17,0 %),
-  Andbank 12.000 (12,4 %), Aegon 6.000 (6,2 %), Vanguard 4.500 (4,6 %), Sissener 3.000 (3,1 %),
-  Groupama 3.000 (3,1 %), Fidelity 2.000 (2,1 %). **El 29,9 % de BlackRock es el número más alto**, pero
-  son tres indexados con exposiciones distintas (Europa, emergentes, inmobiliario), no una apuesta: el
-  solape de compañías entre ellos es bajo por construcción.
+  JPMorgan 7.000 (7,2 %), Aegon 6.000 (6,2 %), Andbank 5.000 (5,2 %), Vanguard 4.500 (4,6 %),
+  Sissener 3.000 (3,1 %), AXA 3.000 (3,1 %), Fidelity 2.000 (2,1 %). **El 29,9 % de BlackRock es el número
+  más alto**, pero son tres indexados con exposiciones distintas (Europa, emergentes, inmobiliario), no
+  una apuesta: el solape de compañías entre ellos es bajo por construcción.
 
 ## 8. Lo que se descarta, con el número delante
 
@@ -252,12 +252,13 @@ rebalancea cuando una señal lo dice o cuando un bloque se desvía más de 5 pp.
 ## 11. Fuentes
 
 - **Fichas MyInvestor MCP, 04/11/2026**, verificadas por ISIN con `get_funds`: iShares Europe
-  (IE00BDRK7L36), iShares EM (IE000QAZP7L2), MyInvestor Value (ES0165243025), Cobas International
-  (LU1598719752), REITs (IE00BDRK7P73), Baelo (ES0110407097), Vanguard Small-Cap (IE00B42W4L06),
-  Fidelity Japan (IE00BYX5N771), Neuberger (IE00BL1GVT98), Cobas Renta (ES0119207001), Aegon
-  (IE00BG226Z29), Sissener (LU2262944817), Groupama (FR0000989626). Catálogo barrido con `list_facets`
-  (2.410 fondos) y `search_funds` por bloques: mixtos ≤1,2 % TER (34), monetarios (40), RF corporativa
-  SRRI ≤3 (359), indexados Europa (54).
+  (IE00BDRK7L36), iShares EM (IE000QAZP7L2), JPM Europe Strategic Value (LU0210531983), Cobas
+  International (LU1598719752), REITs (IE00BDRK7P73), Baelo (ES0110407097), Vanguard Small-Cap
+  (IE00B42W4L06), Fidelity Japan (IE00BYX5N771), Neuberger (IE00BL1GVT98), Cobas Renta (ES0119207001),
+  Aegon (IE00BG226Z29), Sissener (LU2262944817), AXA Trésor (FR0000447823). Catálogo barrido con
+  `list_facets` (2.410 fondos) y `search_funds` por bloques: mixtos ≤1,2 % TER (34), monetarios (40), RF
+  corporativa SRRI ≤3 (359), indexados Europa (54), RF corta SRRI ≤2 (346), mixtos SRRI ≤3 por 5A (201),
+  value Europa activo (21). El cribado ciego de §12 se hizo el mismo día con esos filtros.
 - **Vanguard**, *Vanguard Capital Markets Model forecasts* (running del 30/09/2026):
   https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/vemo-return-forecasts.html —
   RV EE. UU. 4,8-6,8 %; desarrollados no EE. UU. 5,3-7,3 %; emergentes 3,7-5,7 %; agrego EE. UU. 5,1-6,1 %.
@@ -274,6 +275,39 @@ rebalancea cuando una señal lo dice o cuando un bloque se desvía más de 5 pp.
   (duración), Horos (30/10/2026: no pagar expectativas, concentración del S&P), Ackman 2012 (colchón y
   horizonte), webinars MyInvestor (Japón, gestoras). Rutas en `INDEX.md`.
 
+## 12. Auditoría de independencia (04/11/2026)
+
+**El defecto, dicho antes que la defensa.** La primera versión de este documento reutilizaba **7 de sus 13
+vehículos** de la cartera vigente —Neuberger, Aegon, Sissener, MyInvestor Value, Cobas, REITs y el
+indexado de emergentes—, el 60 % del dinero. El diseño era nuevo (55/45, sin cartera automatizada, con
+mixtos, sin núcleo americano), pero el método no: usé los barridos ya hechos en la carpeta como punto de
+partida en vez de cribar el catálogo a ciegas. Eso es inercia, y se corrige con cribado, no con retórica.
+
+**Cribado ciego por rol** (04/11/2026, filtros del catálogo sin mirar las listas anteriores):
+
+| Rol | Qué devuelve el cribado | Veredicto |
+| --- | --- | --- |
+| **RF corta, SRRI ≤2, por TER** | Lazard Euro Short Duration (0,04 % de TER pero **20 % de éxito** y −15,7 % en liquidez: apalancado) · iShares Global Agg 1-5Y EUR H (0,08 %, sin historial a 3 años y con coste de cobertura) · Vanguard UK Short-Term (0,12 %, en libras) | **Sobrevive el Neuberger** (0,38 %, 3A +4,41 %, vol 1,93 %, en euros). Los tres más baratos fallan por comisión de éxito, por falta de historial o por divisa |
+| **Monetario por TER** | **AXA Trésor Court Terme 0,05 %** (3A +2,95 %) por delante de Groupama 0,07 % (3A +2,97 %) | **Cambio aplicado**: entra AXA, sale Groupama |
+| **Value Europa activo por 3A** | Magallanes Iberian (2,22 %, 3A +24,86 %, pero **59,5 % España**) · Magallanes M (1,80 %, 60,3 % España) · **JPM Europe Strategic Value (1,72 %, 3A +22,65 %, 5A +14,08 %, 24 años)** | **Cambio aplicado**: entra JPM, sale MyInvestor Value (sin 3A y con 9 % de éxito, que valía ~1,04 %/año extra) |
+| **Mixtos SRRI ≤3 por 5A** | Hamco Global Value (5A +13,50 %… con **91,4 % de RV**: es un fondo de renta variable disfrazado de mixto, y el mínimo de la clase institucional son 100.000 €) | **Sobreviven Cobas Renta y Baelo** por encaje de rol, no por rentabilidad: ningún mixto del catálogo bate a un 60/40 indexado cuando se le mira el equity de dentro |
+| **RF corporativa SRRI ≤3 por 3A** | Vontobel Credit Opportunities (0,98 %, 3A +12,45 %) · Man Euro Corporate (1,45 %, 3A +9,92 %) · Nordea Norwegian Short-Term (0,36 %, 3A +10,58 % **con exposición a corona noruega**) | **Se quedan Aegon y Sissener**: los tres líderes de 3A o son deuda con divisa sin cubrir o cuestan el doble |
+| **RV Europa indexada por TER** | iShares Europe 0,10 % y Fidelity MSCI Europe 0,10 % empatan; desempata la rentabilidad (3A +17,58 % frente a +16,46 %) | **Entra iShares**, que ya era la elección; el desempate es la 3A, no la costumbre |
+
+**Qué cambia tras el cribado:** coste de **591 → 538,2 €/año (0,555 %)** porque desaparece la única
+comisión de éxito de la cartera; entra un value con historial completo; y la liquidez se compra 0,02 pp
+más barata. **Qué no cambia:** seis vehículos siguen siendo los mismos (51.500 €, 53 % del dinero), y eso
+no lo defiendo como mérito de diseño: es lo que queda cuando un catálogo de 2.410 fondos se criba por
+coste, historial, divisa y rol. En renta fija corta en euros, el catálogo no ofrece nada mejor.
+
+**Lo que sí es nuevo y no viene de la carpeta:** el 55/45, la desaparición de la cartera automatizada y de
+su bono 20+, los dos mixtos, el núcleo europeo de 14.000 € (frente a 3.700 €), Japón, el small cap como
+satélite, y 13 posiciones frente a 17. La arquitectura es otra; algunos ladrillos son los mismos porque
+son los mejores del almacén.
+
 > Estimaciones propias declaradas: volatilidad de la cartera, duración media de la RF, drawdown, retorno
-> esperado y geografía look-through. Las cifras de ficha son de ficha; las de las casas externas, de sus
-> informes. Nadie garantiza ninguna de las dos cosas.
+> esperado, geografía y sectores look-through. Las cifras de ficha son de ficha; las de las casas
+> externas, de sus informes. Nadie garantiza ninguna de las dos cosas, y este documento no es
+> asesoramiento financiero: la decisión es del titular.
+
+
