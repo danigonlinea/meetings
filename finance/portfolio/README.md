@@ -17,6 +17,10 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 03/11/2026**: 50/50 con Aegon ABS y Sissener, 588 €/año de coste real, con el barrido por bloques en §11) + dos anexos de investigación |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 
+`propuesta-acciones.md` (04/11/2026) es un **anexo de investigación**, no una tercera cartera: cuatro
+acciones individuales sin dividendo mencionadas en el corpus, con ficha, múltiplo y señal de
+invalidación. No se financia vendiendo ninguna de las dos carteras ni se consolida con ellas.
+
 ## Reglas
 
 - **Un dato, un sitio.** Los saldos viven en el `cartera-actual.md` de su carpeta; las decisiones, en
