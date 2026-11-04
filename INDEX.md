@@ -6,6 +6,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
 | `finance/portfolio/propuesta-acciones.md` | portfolio-research | finance | 2026-11-04 | Propuesta de acciones sin dividendo — cuatro posiciones y una lista de espera | [cartera, acciones, sin-dividendo, calidad, tecnologia, value, la-pizarra-de-andres, webinars, myinvestor, propuesta] |
+| `finance/portfolio/cartera-myinvestor/propuesta-perplexity.md` | portfolio-proposal | finance | 2026-11-04 | Propuesta-perplexity: cartera de 100.000 € desde cero (MyInvestor) | [cartera, propuesta, myinvestor, 100k, indexados, renta-fija, reits, emergentes, japon, escenarios] |
 | `finance/portfolio/cartera-myinvestor/propuesta-actual-avanzada.md` | portfolio-proposal | finance | 2026-11-04 | Cartera avanzada: 55/45 con dos mixtos, construida desde cero (97.000 €) | [cartera, avanzada, mixtos, 55-45, diversificacion, indexados, value, renta-fija, cma, vanguard, jpmorgan, gmo, myinvestor] |
 | `finance/reports/contraste-propuesta-ackman-2026-11-03.md` | revision | finance | 2026-11-03 | Contraste de la cartera definitiva con la clase de Ackman (Big Think, 2012) | [cartera, verificacion, ackman, riesgo, coste, colchon, contraste, myinvestor] |
 | `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-03 | Cartera definitiva: 50/50 con ABS y crédito nórdico (97.000 €) | [cartera, definitiva, renta-fija, abs, aegon, sissener, rebalanceo, rock, myinvestor, traspasos, horos] |
@@ -43,6 +44,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [finance, meeting, transcript] |
 | `finance/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 37
+**Total de artefactos indexados:** 38
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
