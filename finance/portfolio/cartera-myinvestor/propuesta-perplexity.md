@@ -33,6 +33,12 @@ related:
 > TER 0,229 % → **0,190 %**, duración 2,84 → **3,03 años**, y el bloque de crédito pasa a ser IG de
 > verdad. Cifras actualizadas en §D, §E, §F y §G.
 >
+> **Cambio del 04/11/2026 (a petición del titular).** Sale **Fidelity MSCI World** y entra
+> **Vanguard Global Stock Index EUR Acc (IE00B03HD191, 0,18 %)**. Motivo: el titular no quiere ese
+> fondo; el sustituto replica el mismo índice, tiene historial desde 1998 y deja la gestora con más
+> peso en el 33 % (BlackRock), dentro del límite. Precio del cambio: **+9 €/año** de TER (0,190 % →
+> 0,199 %). No se parte en dos fondos porque dos clases del mismo índice serían duplicidad.
+>
 > **No es asesoramiento financiero.** Es una propuesta analítica; la idoneidad depende de la
 > fiscalidad, la liquidez y el aguante real del titular.
 
@@ -96,7 +102,7 @@ replicable (07:50) y de que el riesgo real supera la volatilidad que mide (11:00
 | Principio | Dónde se dice | Cómo se aplica aquí | Dónde NO se sigue |
 | --- | --- | --- | --- |
 | **La indexación es la base, pero no es neutral** | Andrés 03:50 y 09:36; Ruiz 1:04:59 | 45.000 € de RV en índices; **EE. UU. al 39 % de la RV** frente al 72 % de un MSCI World puro | No se compra un S&P 500 ni un World a secas: el World va al 15 % y se diluye con Europa, Japón, EM y small caps |
-| **El coste es lo único que se controla al 100 %** | Andrés 1:40-10:05 | TER ponderado **0,190 % = 190 €/año** sobre 100.000 € (45 % del capital a 0,10-0,29 %) | No se paga un 2,33 % de Cobas ni un 1,09 % de Fundsmith para comprar el mismo beta |
+| **El coste es lo único que se controla al 100 %** | Andrés 1:40-10:05 | TER ponderado **0,199 % = 199 €/año** sobre 100.000 € (45 % del capital a 0,10-0,29 %) | No se paga un 2,33 % de Cobas ni un 1,09 % de Fundsmith para comprar el mismo beta |
 | **La duración es la decisión** | Renta 4 15:35; Ruiz 1:07:55-1:09:46 | Duración agregada de la RF **≈3,03 años**; +100 pb = **−1.665 €** (1,7 % de la cartera) | No se apuesta por el 20+ años ni por el 30 años americano |
 | **No se cobra riesgo de crédito sin prima** | Ábaco 28:37 y 36:47 (vía síntesis) | Crédito solo **25 %** de la cartera y todo IG: corto (14), ABS (6), nórdico (5) | Fuera híbridos con 80 % de high yield escondido bajo etiqueta «mixto» |
 | **La liquidez tiene regla escrita** | Andrés 23/10 | **15.000 €** en monetario (15 %), con uso definido (§H), no como ocurrencia | No se trata el colchón como si fuera cartera |
@@ -134,7 +140,7 @@ ese intercambio no compensa.
 
 | # | Bloque | Fondo | ISIN | Gestora | € | % | TER |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: |
-| 1 | RV global | Fidelity MSCI World Index Fund EUR P Acc | IE00BYX5NX33 | Fidelity | 15.000 | 15,0 % | 0,12 % |
+| 1 | RV global | Vanguard Global Stock Index Fund EUR Acc | IE00B03HD191 | Vanguard | 15.000 | 15,0 % | 0,18 % |
 | 2 | RV Europa | Fidelity MSCI Europe Index Fund EUR P Acc | IE00BYX5MD61 | Fidelity | 8.000 | 8,0 % | 0,10 % |
 | 3 | RV Japón | Fidelity MSCI Japan Index Fund EUR P Acc | IE00BYX5N771 | Fidelity | 4.000 | 4,0 % | 0,10 % |
 | 4 | RV emergentes | iShares Emerging Markets Index Fund (IE) S Acc EUR | IE000QAZP7L2 | BlackRock | 7.000 | 7,0 % | 0,16 % |
@@ -146,14 +152,14 @@ ese intercambio no compensa.
 | 10 | RF gubernamental | iShares Euro Government Bond Index Fund (IE) D Acc EUR | IE00BD0NC037 | BlackRock | 10.000 | 10,0 % | 0,10 % |
 | 11 | RF inflación | iShares Euro Government Inflation-Linked Bond Index (IE) D Acc | IE00BD0NC144 | BlackRock | 5.000 | 5,0 % | 0,10 % |
 | 12 | Liquidez | Groupama Trésorerie IC | FR0000989626 | Groupama | 15.000 | 15,0 % | 0,07 % |
-| | | **TOTAL** | | | **100.000** | **100 %** | **0,190 %** |
+| | | **TOTAL** | | | **100.000** | **100 %** | **0,199 %** |
 
 **Comprobaciones de las restricciones:**
 
 - Suma exacta: 15.000+8.000+4.000+7.000+5.000+6.000+14.000+6.000+5.000+10.000+5.000+15.000 = **100.000 €**.
 - **12 posiciones** (rango pedido: 8-15). Ninguna por encima del **15 %** (máximo: World y Groupama, 15,0 %).
-- **Gestora máxima: BlackRock 33 %** (EM + REITs + gubernamental + corporativo IG), Fidelity 26 %,
-  Groupama 15 %, Neuberger 14 %, Vanguard 6 %, Aegon 6 %. Ninguna llega al 35 %.
+- **Gestora máxima: BlackRock 33 %** (EM + REITs + gubernamental + corporativo IG), Vanguard 21 %,
+  Fidelity 11 %, Groupama 15 %, Neuberger 14 %, Aegon 6 %. Ninguna llega al 35 %.
 - Todas las clases son de **acumulación** (`distributing = 0` verificado en `get_funds`).
 - Todos los mínimos iniciales son **≤ 1 €** salvo Groupama (0,001 participaciones). Ninguno exige 10.000 €.
 
@@ -161,11 +167,11 @@ ese intercambio no compensa.
 
 ## E. Justificación de cada fondo (con la pega en la misma fila)
 
-**1. Fidelity MSCI World (15 %).** Núcleo. 3A +18,7 %, 5A +11,0 % anualizados, vol 3A 11,4 %,
-1.200 empresas, TER 0,12 %. **Pega:** 72 % EE. UU. y 30 % tecnología; por eso se queda en el 15 % y no
-es la cartera entera. Alternativa más barata: iShares Developed World S (0,06 %) — se descarta
-**solo** por concentración de gestora (habría dejado BlackRock al 34 %) y porque su clase no tiene 3A/5A
-propios publicados. Diferencia de coste: 15 €/año.
+**1. Vanguard Global Stock Index EUR Acc (15 %).** Núcleo. Replica el MSCI World con historial desde
+1998: 3A +18,7 %, 5A +10,9 % anualizados, vol 3A 11,4 %, 1.200+ empresas, TER **0,18 %**, mínimo 1 €.
+**Pega:** 72,7 % EE. UU. y 32,5 % tecnología (una décima más que el Fidelity que sustituye), y es
+**6 pb más caro** que aquel: 9 €/año. Se acepta el coste porque el titular descarta el Fidelity y
+porque la alternativa de 0,06 % (iShares Developed World S) dejaría BlackRock en el 48 % del capital.
 
 **2. Fidelity MSCI Europe (8 %).** La sobreponderación con mejor respaldo de valoración (13,6×),
 TER 0,10 %, vol 3A 10,4 %, 3A +16,5 %. Financials 23 %, industria 18 %, salud 14 %, tecnología solo 9 %:
@@ -228,8 +234,9 @@ inflación del 3,8 % pierde ~1,3 % real al año; su función no es rentar, es es
 
 | Bloque | Candidato | ISIN | Dato que decide | Veredicto |
 | --- | --- | --- | --- | --- |
-| RV global | iShares Developed World S Acc | IE000ZYRH0Q7 | TER 0,06 % (el más barato) | **Descartado**: sin 3A/5A de la clase y dejaría BlackRock al 34 % del capital |
-| RV global | Vanguard Global Stock Index EUR Acc | IE00B03HD191 | TER 0,18 %, 3A +18,7 % | Descartado: 6 pb más caro que Fidelity por el mismo índice |
+| RV global | Fidelity MSCI World Index P Acc | IE00BYX5NX33 | TER 0,12 %, 3A +18,7 %, 5A +11,0 % | **Descartado a petición del titular**: era el núcleo original; le sustituye Vanguard al 0,18 % |
+| RV global | iShares Developed World S Acc | IE000ZYRH0Q7 | TER 0,06 % (el más barato) | **Descartado**: sin 3A/5A de la clase y dejaría BlackRock al 48 % del capital |
+| RV global | Vanguard Global Stock Index EUR Acc | IE00B03HD191 | TER 0,18 %, 3A +18,7 %, 5A +10,9 %, historial desde 1998 | **Elegido**: mismo índice, otra gestora, deja BlackRock en el 33 % |
 | RV global | Amundi Index MSCI World IE-C | LU0996181599 | TER 0,20 % | Descartado: más caro y con retención luxemburguesa |
 | RV Europa | Amundi Core MSCI Europe IE-C | LU0389811539 | TER 0,15 %, 3A +17,6 % | Descartado: 5 pb más que Fidelity y misma exposición |
 | RV EM | iShares Emerging Markets D Acc | IE00BYWYCC39 | TER 0,20 %, 3A +20,1 %, 5A +7,6 % | Alternativa con historial completo; cuesta 4 pb más |
@@ -264,15 +271,15 @@ inflación del 3,8 % pierde ~1,3 % real al año; su función no es rentar, es es
 
 | Región | % de la RV | € | vs MSCI ACWI |
 | --- | ---: | ---: | ---: |
-| Estados Unidos | **39,4 %** | 17.750 | 63 % → **−24 pp** |
-| Europa (Reino Unido 5,9 · Suiza 3,7 · Alemania 3,1 · Francia 2,3 · Holanda 1,6 · España 1,0 · resto) | **25,9 %** | 11.650 | 15 % → **+11 pp** |
+| Estados Unidos | **39,6 %** | 17.820 | 63 % → **−24 pp** |
+| Europa (Reino Unido 5,9 · Suiza 3,5 · Alemania 3,1 · Francia 2,3 · Holanda 1,6 · España 1,0 · resto) | **21,3 %** | 9.585 | 15 % → **+6 pp** |
 | Japón | **13,2 %** | 5.930 | 5 % → **+8 pp** |
 | Emergentes (Taiwán 4,2 · Corea 3,2 · China 3,0 · India 1,8 · Brasil 0,6 · otros) | **14,0 %** | 6.300 | 10 % → **+4 pp** |
 | Canadá + Australia | 2,8 % | 1.250 | ≈5 % → −2 pp |
-| Resto sin desglosar en las fichas | 4,5 % | 2.120 | — |
+| Resto sin desglosar en las fichas | 8,9 % | 4.005 | — |
 | **Total** | **≈99,8 %** | 45.000 | (0,2 % de redondeo: cada vector suma 100 % de su fondo) |
 
-**Las tres sobreponderaciones están declaradas, no escondidas:** Europa (+11 pp), Japón (+8 pp) y
+**Las tres sobreponderaciones están declaradas, no escondidas:** Europa (+6 pp), Japón (+8 pp) y
 emergentes (+4 pp) se financian con EE. UU. (−24 pp). Si el titular no quiere *tilt*, el World sube al
 20 % y Europa baja al 4 %: misma caída, 0,4 pp menos de retorno esperado por la valoración.
 
@@ -299,16 +306,16 @@ la cobertura a 10 años cuesta 1,5-2 % anual en tipos (el diferencial euro-dóla
 
 | Sector | % de la RV |
 | --- | ---: |
-| Tecnología | 21,7 % |
-| Servicios financieros | 15,6 % |
-| Industria | 11,6 % |
+| Tecnología | 22,4 % |
+| Servicios financieros | 15,5 % |
+| Industria | 11,7 % |
 | **Inmobiliario** | **13,9 %** |
-| Salud | 7,7 % |
-| Consumo cíclico | 6,3 % |
-| Comunicación | 4,2 % |
-| Resto (consumo defensivo, energía, materiales, utilities) | 19,0 % |
+| Salud | 7,4 % |
+| Consumo cíclico | 6,2 % |
+| Comunicación | 4,6 % |
+| Resto (consumo defensivo, energía, materiales, utilities) | 18,9 % |
 
-**Dos avisos con número:** tecnología al 21,7 % (frente al 31 % de un World puro: se reduce, no se
+**Dos avisos con número:** tecnología al 22,4 % (frente al 31-33 % de un World puro: se reduce, no se
 elimina) e **inmobiliario al 13,9 %**, que es el efecto de sumar REITs (13,3 %) + el 8 % de small caps
 + el 2 % de Europa. Es una apuesta sectorial consciente; si el titular no la quiere, los 6.000 € de
 REITs vuelven a Europa y el sector baja al 1 %.
@@ -318,21 +325,21 @@ REITs vuelven a Europa y el sector baja al 1 %.
 | Gestora | € | % |
 | --- | ---: | ---: |
 | BlackRock | 33.000 | 33,0 % |
-| Fidelity | 26.000 | 26,0 % |
+| Vanguard | 21.000 | 21,0 % |
 | Groupama | 15.000 | 15,0 % |
 | Neuberger Berman | 14.000 | 14,0 % |
-| Vanguard | 6.000 | 6,0 % |
+| Fidelity | 11.000 | 11,0 % |
 | Aegon | 6.000 | 6,0 % |
 
-Dos gestoras suman el 59 %, pero **no comparten producto**: BlackRock aporta EM, REITs, deuda pública
-y crédito IG; Fidelity aporta World, Europa y Japón. El riesgo de «un solo proveedor» es operativo, no de
+BlackRock (33 %) y Vanguard (21 %) suman el 54 %, pero **no comparten producto**: BlackRock aporta EM,
+REITs, deuda pública y crédito IG; Vanguard aporta el World y las small caps; Fidelity, Europa y Japón. El riesgo de «un solo proveedor» es operativo, no de
 exposición.
 
 ### F.6 Métricas de la cartera
 
 | Métrica | Valor | Cómo se ha calculado |
 | --- | --- | --- |
-| TER ponderado | **0,190 % = 190 €/año** | Σ importe × TER de los 12 fondos (fichas 30/10/2026) |
+| TER ponderado | **0,199 % = 199 €/año** | Σ importe × TER de los 12 fondos (fichas 30/10/2026) |
 | Comisión de éxito | **0 €** | Ninguno de los 12 cobra comisión de éxito |
 | Duración de la RF | **≈3,03 años** | Σ importe × duración / 55.000; duraciones de Aegon, corporativo IG, gubernamental y ligada **estimadas** (el MCP no las publica) |
 | Impacto +100 pb | **−1.665 €** (−1,7 % de la cartera) | Σ importe × duración × 0,01 |
@@ -391,7 +398,7 @@ no la bolsa.
 
 | # | Cuándo | Qué | € |
 | --- | --- | --- | ---: |
-| 1 | Día 1 | Fidelity World 15.000 + Fidelity Europe 8.000 + Fidelity Japan 4.000 | 27.000 |
+| 1 | Día 1 | Vanguard World 15.000 + Fidelity Europe 8.000 + Fidelity Japan 4.000 | 27.000 |
 | 2 | Día 1 | iShares EM 7.000 + Vanguard Small-Cap 5.000 + iShares REITs 6.000 | 18.000 |
 | 3 | Día 2-3 | Neuberger 14.000 + Aegon ABS 6.000 + iShares Corp IG 5.000 + iShares Euro Govt 10.000 + Linker 5.000 + Groupama 15.000 | 55.000 |
 
@@ -402,7 +409,7 @@ según ficha, con 2-4 días de *lag* de suscripción. No hace falta tener efecti
 
 - **Frecuencia:** revisión **trimestral** (enero, abril, julio, octubre) + una revisión extraordinaria si
   se cruza un umbral.
-- **Qué se mide cada trimestre:** (1) peso de RV vs 45 %; (2) TER real vs 0,190 %; (3) TIR cobrada a 12
+- **Qué se mide cada trimestre:** (1) peso de RV vs 45 %; (2) TER real vs 0,199 %; (3) TIR cobrada a 12
   meses de la RF vs 3,45 % estimado; (4) duración de la RF vs 3,03; (5) drawdown de la cartera vs
   −19,2 % de referencia; (6) peso por gestora y por región.
 - **Cuándo se rebalancea:** bandas de **±5 pp absolutas por bloque** (RV 40-50 %, RF 35-45 %,
@@ -461,7 +468,7 @@ comportamiento y los solapamientos. Fecha de los datos: **30/09/2026** cuando la
 
 | Fondo | 10 mayores posiciones (peso) | Top-10 | Nº posiciones | Patrimonio |
 | --- | --- | ---: | ---: | ---: |
-| **Fidelity MSCI World** (IE00BYX5NX33) | NVIDIA 5,8 · Apple 5,4 · Microsoft 4,0 · Alphabet 4,0 · Amazon 2,6 · Meta 1,7 · Broadcom 1,7 · Micron 1,3 · Tesla 1,1 · AMD 1,1 | 28,7 % | 1.253 | USD 3,5 bn |
+| **Vanguard Global Stock** (IE00B03HD191) | NVIDIA 5,82 · Apple 5,42 · Microsoft 4,01 · Amazon 2,67 · Alphabet A 2,24 · Meta 1,76 · Alphabet C 1,76 · Broadcom 1,76 · y a partir de ahí Micron y el resto (el listado se corta en la novena) | 27,9 % | n/d | n/d |
 | **Fidelity MSCI Europe** (IE00BYX5MD61) | ASML 5,1 · HSBC 2,5 · Roche 2,2 · Shell 2,0 · Novartis 1,9 · AstraZeneca 1,8 · Nestlé 1,7 · Siemens 1,6 · SAP 1,6 · Santander 1,5 | 21,9 % | 389 | EUR 264,6 m |
 | **Fidelity MSCI Japan** (IE00BYX5N771) | Mitsubishi UFJ 4,7 · Toyota 3,3 · Tokyo Electron 3,1 · Sumitomo Mitsui 3,0 · Advantest 3,0 · Hitachi 2,9 · SoftBank 2,8 · Recruit 2,6 · Sony 2,6 · Kioxia 2,5 | 30,5 % | 169 | USD 551,1 m |
 | **iShares EM S Acc** (IE000QAZP7L2) | TSMC 15,63 · Samsung 7,55 · SK Hynix 5,90 · Tencent 2,74 · Alibaba 1,86 · MediaTek 1,82 · Delta Electronics 0,94 · Samsung (sin voto) 0,94 · China Construction Bank 0,86 · Hon Hai 0,79 | 39,0 % | 1.179 | EUR 790,8 m |
@@ -498,14 +505,14 @@ Se ha diseñado **sin heredar nada**; este anexo solo dice qué pasaría si se c
 | --- | --- | --- |
 | RV | 31,6 % (con Rock) | **45 %** |
 | RF + liquidez | 68,4 % | 55 % |
-| TER | 0,913 % sobre 60 k invertibles / 0,678 % sobre 100 k | **0,190 %** |
+| TER | 0,913 % sobre 60 k invertibles / 0,678 % sobre 100 k | **0,199 %** |
 | Posiciones | 17 (8 manuales + 9 de Rock) | 12 |
 | Duración RF | 3,83 años | 3,03 años |
 | USA en la RV | ≈56 % | 39,4 % |
 | Coche automático | Rock 78/22 (0,41 % todo incluido) | No se usa: todo manual |
 | Fondos que coinciden | Neuberger, Groupama, Fidelity Europe, iShares EM | 4 de 12 |
 
-**Lo que la propuesta gana:** 190 €/año de coste frente a 678 € (488 € menos), una caída esperada
+**Lo que la propuesta gana:** 199 €/año de coste frente a 678 € (479 € menos), una caída esperada
 similar con 13 pp más de RV (porque Rock tiene 78 % de bolsa y aquí la RF es más corta), y una
 exposición a EE. UU. 17 pp menor. **Lo que pierde:** simplicidad —12 fondos manuales que hay que
 rebalancear a mano— y la comodidad del 15 % de liquidez, que hay que gestionar con disciplina.

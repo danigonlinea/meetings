@@ -13,7 +13,7 @@ incluidos, + 30.000 € de Rock; más 10.000 € de colchón fuera de la base), 
 Es independiente de `../cartera-renta4/`: no comparten saldos, ni propuesta, ni cifras. El resto de
 material financiero (vídeos, webinars, informes) está en las otras subcarpetas de `finance/`.
 
-## Dos documentos vivos… más dos anexos de investigación
+## Dos documentos vivos… más cuatro anexos de investigación
 
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
@@ -22,6 +22,7 @@ material financiero (vídeos, webinars, informes) está en las otras subcarpetas
 | `propuesta-alternativa.md` | **Anexo de investigación, no una cartera paralela**: dos carteras posibles sobre la vigente —mínima (REITs indexados al 0,17%, 5.000 €) y ampliada (10 fondos manuales: + Fundsmith 1,09% y Comgest Growth Europe 1,59%)— con pesos, financiación y ocho fuentes. Nace del barrido del catálogo MyInvestor del 01/11/2026 | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
 | `propuesta-investigacion.md` | **Anexo de investigación de dos bloques**, no una cartera paralela: calidad global (Fundsmith T Acc, 1,09 %) y activos reales (iShares Developed Real Estate D Acc, 0,17 %), 5.000 € y 19 posiciones, con dos fuentes por vehículo, riesgos, señal de invalidación y cuatro traspasos. Nace del encargo del 02/11/2026 y se reajustó el mismo día con la regla de acumulación, que vació la satélite de acciones y ETFs | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
 | `propuesta-perplexity.md` | **Diseño desde cero** para 100.000 € (04/11/2026): 45 % RV / 40 % RF / 15 % liquidez, 12 fondos, TER 0,190 %, caída estimada −19,2 %. No hereda la cartera vigente ni la sustituye: es un encargo de diseño con sus propios bloques, candidatos descartados, escenarios de estrés y anexo de contraste con la cartera actual | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
+| `propuesta-actual-avanzada.md` | **Diseño desde cero sobre el capital real** (04/11/2026, segunda pasada): 97.000 € con **Rock intacta** (30.000 €) y 10 fondos manuales de 67.000 € en 43/57, look-through 55/45, TER **0,478 %** y hoja de **13 órdenes**. Nace de una revisión adversarial de la versión anterior, que repartía 97.000 € entre 13 fondos sin contar Rock | **No mientras no se adopte.** Si se adopta, sus conclusiones pasan a `propuesta-actual.md` y el fichero **se borra** (`git rm`) |
 
 Los anexos existen porque el usuario pidió conservar la investigación con nombres, ISIN, TER y pesos; su
 ciclo de vida es corto a propósito: **o se incorporan a la propuesta, o se descartan y desaparecen**. Una
