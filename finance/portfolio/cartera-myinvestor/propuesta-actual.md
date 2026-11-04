@@ -3,7 +3,7 @@ title: "Cartera definitiva: 50/50 con ABS y crédito nórdico (97.000 €)"
 date: 2026-11-03
 type: portfolio-proposal
 category: finance
-tags: [cartera, definitiva, renta-fija, abs, aegon, sissener, rebalanceo, rock, myinvestor, traspasos]
+tags: [cartera, definitiva, renta-fija, abs, aegon, sissener, rebalanceo, rock, myinvestor, traspasos, horos]
 status: final
 related:
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
@@ -26,6 +26,14 @@ related:
 > cortes, incept y clase de acumulación. Cuadran todas; la novedad que trae la ficha: la **vol 5A de
 > Aegon es 1,90 %** (la 0,95 % a 3 años está suavizada por el precio del ABS). El sello «ninguna
 > posición dominada» de §11 se verificó el mismo día con `search_funds` sobre el catálogo.
+>
+> **Contraste añadido el 04/11/2026:** la charla de Horos del 30/10
+> (`finance/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/`)
+> **no cambia ninguna de las trece órdenes**. Aporta una cosa y confirma otra: entra en §14 como
+> **testigo externo de carry cobrado** (su fondo de crédito, con duración 2,5 y 4,5 % esperado, lleva
+> <2 %), y cierra el descarte de Horos Value Internacional de §12 con la ficha del 04/11 (TER 1,90 %;
+> 3A +16,98 %; 5A +11,92 %; Francia 20,7 %, España 15,0 %; 7,2 % EE. UU.). El detalle está en
+> `propuesta-alternativa.md` §0.3-§0.4.
 
 ## 1. Supuestos
 
@@ -608,6 +616,28 @@ Además, sobre las tres patas nuevas (Aegon, Sissener, REITs):
 - Rebalanceo si algún bloque se desvía >5 pp del objetivo; Rock >10 pp de su 78/22.
 - **Si MyInvestor publica TIR o duración** de los fondos nuevos de RF, recalcular §6 con el dato real.
 
+### 14.1 El marcador de carry cobrado (04/11/2026)
+
+La señal «coste real del dinero» se mide **cobrado a 12 meses**, no con el YTW (§2). Para que ese umbral
+no se decida de memoria, se fija un **testigo externo** y un número de casa.
+
+| Testigo | Dato | Qué prueba |
+| --- | --- | --- |
+| **Horos Patrimonio FI**, ficha de la gestora y charla del 30/10 | Duración **2,5 años**, mínimo 80 % RF corporativa, **esperaba 4,5 % neto al lanzar y lleva <2 %** | Un fondo de crédito corto y bien construido puede cobrar la mitad de su carry cuando la deuda pública se tensa: el escenario de la señal **no es teórico** |
+| La propia cartera, RF dentro de Rock en 2026 | 3.000 € en el 20+ Euro Treasury (−17,03 % en el año) + 3.600 € en Treasury americano (−7,94 %) = **≈−797 € (−12,1 %)** | La duración larga ya está pagando el precio en casa; el amortiguador corto es el que cobra |
+| Consecuencia de la concentración del S&P (advertencia de Ruiz, 30/10) | Top-10 del índice dentro de la cartera: **≈3.570-4.500 € (3,7-4,6 % del total)**, porque el S&P entra solo por el 33 % de Rock | No hay nada que recortar por concentración; solo se vigila, no se actúa |
+
+**Regla escrita.** En la primera revisión trimestral se mide la RF **cobrada a 12 meses**. Si queda
+**por debajo del 2 %** —el nivel de Horos Patrimonio, no el 4,42-4,67 % de carry estimado—, se puntúa la
+señal **+3** del §2 y la cartera va a **~53 % de RV**. Si cobra el carry previsto (≈4,4-4,7 %), la señal
+queda en **0** y no se toca nada. El marcador **no mueve importes hoy**: las trece órdenes de §7 se
+ejecutan tal cual.
+
+**Lo que este contraste no autoriza.** Ni acortar la duración por debajo de la actual (Horos falló con
+2,5 años, no por tener 3,3), ni comprar Horos Value Internacional (peor 3A y 5A que Cobas, y solape doble
+en TGS y en Francia con lo que ya hay), ni adoptar el bloque de calidad de `propuesta-alternativa.md`
+(Fundsmith es 79,6 % EE. UU. y 32,2 % tecnología, justo lo que el gestor señala como caro).
+
 ## 15. Fuentes, barrido y límites
 
 - **Fichas MyInvestor MCP a 30/10-02/11/2026**, verificadas por ISIN. **Re-verificación con `get_funds`
@@ -621,6 +651,13 @@ Además, sobre las tres patas nuevas (Aegon, Sissener, REITs):
 - **Factsheets de gestoras (30/09) y carteras publicadas de Cobas**: TIR, duración, rating y solapes.
 - **`sintesis-inversor-2026-10-30.md`** e **`informe-canal-la-pizarra-de-andres-2026-10-30.md`**: tesis
   citadas en las reglas del §3.
+- **Charla de Horos (La Pizarra de Andrés, 30/10/2026)**, ingerida en
+  `finance/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/`:
+  testigo de carry cobrado de §14.1 y descarte de Horos Value Internacional (§12). Ficha del fondo
+  re-verificada con `get_funds` el 04/11/2026 (TER 1,90 %, 3A +16,98 %, 5A +11,92 %, vol 3A 11,02 %,
+  Francia 20,7 % · España 15,0 % · Italia 4,2 % · EE. UU. 7,2 %, liquidez 9,2 %, `distributing = 0`).
+  La composición de Rock (33 % S&P 500, 10 % 20+ Euro Treasury) se trajo con `search_portfolios` el mismo
+  día; el detalle del contraste está en `propuesta-alternativa.md` §0.3-§0.4.
 - **Clase de Ackman (Big Think, 2012)**, ingerida en `finance/others/2012-11-27-ackman-finance-basics/`
   y contrastada el 03/11 (`finance/reports/contraste-propuesta-ackman-2026-11-03.md`): criterio del
   colchón (§9), barrido de la familia «calidad» (§12). Su dato de mercado (bono a 10 años ~3 %) está
