@@ -38,8 +38,9 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/la-pizarra-de-andres/2026-10-09-la-pizarra-burbujas-ia/summary.md` | meeting-summary | finance | 2026-10-09 | La Pizarra de Andrés: burbujas, concentración y CAPEX | [ai, meeting, transcript] |
 | `finance/la-pizarra-de-andres/2026-10-07-javier-andres-vivienda-espana-y-reino-unido/summary.md` | meeting-summary | finance | 2026-10-07 | Encuentro: Javier y Andrés — vivienda en España y Reino Unido | [finance, meeting, transcript] |
 | `finance/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [finance, meeting, transcript] |
+| `finance/analisis-tecnico/2024-08-09-5-modelos-aperturas-cierres/summary.md` | meeting-summary | finance | 2024-08-09 | Revisión de los 5 modelos de aperturas y cierres (clase en vivo) | [analisis-tecnico, trading, velas, ema, parabolic-sar, aperturas, modelos] |
 | `finance/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 34
+**Total de artefactos indexados:** 35
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

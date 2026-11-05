@@ -52,6 +52,24 @@ python3 .agents/skills/analisis-tecnico/scripts/tecnicos.py NFLX --tail 12 --ema
 | NVDA | 183,11 | 197,59 | 199,51 | 181,71 | 243,37 (bajista, giro **este mes**) | Giro bajista recién hecho; EMA3 ya por debajo de EMA9 |
 | NFLX | 64,82 | 66,46 | 75,91 | 83,02 | 96,69 (bajista, 11 velas) | Bajista de libro: EMA20 > EMA9 > EMA3 y precio por debajo de las tres |
 
+## Los cinco modelos de Jesús Navarrete (clase del 09/08/2024)
+
+Documentados en `finance/analisis-tecnico/2024-08-09-5-modelos-aperturas-cierres/summary.md`
+(vídeo `96jjClve3fE`). Resumen operativo:
+
+| # | Modelo | Entrada | Salida | Marco |
+|--:|---|---|---|---|
+| 1 | Velas de entrada / salida | vela de entrada | vela de salida (lápida o libélula) contraria | el mismo día, nunca *overnight* |
+| 2 | Rotación de promedios | EMA3 rota contra EMA9 | contra-rotación, en el rechazo del mínimo (largo) o del máximo (corto) | velas de 15/30/60 min |
+| 3 | Condición óptima | precio bajo EMA9 (corto) o sobre EMA9 (largo), con Parabólicas sincronizadas | condición óptima contraria | el del *swing*; error asumido del 5 % |
+| 4 | Open up / open down | la apertura con hueco | el hueco contrario | obliga a *overnight* |
+| 5 | 9 contra 20 | EMA9 rota contra EMA20 | la rotación inversa | **solo velas de 1 minuto** |
+
+Vocabulario del autor: **autocorrección = EMA20** (equilibrio del mercado); **rechazo del mínimo** = mínimo
+superior al de la vela anterior; **guía** = rotación pendiente que anticipa; **parabólicas flat** = aviso de
+movimiento violento, no señal de entrada. Las Parabólicas **no se usan solas**. La temporalidad elegida fija
+la duración del *swing*: con velas de hora son ~3 horas.
+
 ## Reglas de la casa
 
 - **El técnico no decide la cartera.** El peso y la entrada los fijan `propuesta-acciones.md` y
