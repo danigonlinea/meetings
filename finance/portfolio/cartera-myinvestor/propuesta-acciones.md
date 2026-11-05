@@ -530,5 +530,170 @@ sea una decisión y no un descuido.
 - **Sucesiones.** Si la cartera crece por encima de 60.000 $, decidir entre asumir el riesgo, reducir
   exposición directa o buscar vehículos UCITS (que no resuelven el dividendo, pero sí la situación).
 
+## 9. Universo cribado: 100 acciones sin dividendo (05/11/2026)
+
+**Qué es.** El resultado de aplicar la regla de la casa (dividendo = 0, sin excepciones) a todo el
+universo cotizado en EE. UU. —incluidas las empresas extranjeras que cotizan allí como ADR— y quedarse
+con las que además pasan un filtro de calidad y precio. **No es una cartera ni una recomendación:** es la
+lista de la que saldrán las fichas, y `§3` sigue siendo la única cartera de acciones.
+
+**Método, con las cifras.**
+
+| Paso | Universo | Qué se aplicó |
+|---|---|---|
+| 1. Universo | **5.601** acciones | Cribador global de stockanalysis.com (05/11/2026), ordenado por capitalización |
+| 2. Tamaño y precio | **1.079** | Capitalización ≥ 5.000 M$ y PER positivo ≤ 60× |
+| 3. **Dividendo = 0** | **171** | Doble comprobación: «Dividend Yield = n/a» en la ficha y **cero eventos de dividendo en 3 años** en el histórico de Yahoo Finance. Los 512 que sí reparten quedan fuera |
+| 4. Calidad | **63 nivel A** | ROE > 12 %, margen operativo > 10 %, crecimiento de ingresos a 3 años > 5 %, PER forward < 35× y flujo de caja libre positivo |
+| 5. Lista final | **100** | Las 63 A + las 37 nivel B con una sola condición incumplida (se dice cuál en su fila) |
+
+**Lo que hay que decir antes de mirar la tabla.** Las 171 candidatas son **empresas cotizadas en EE. UU.
+en dólares**; la lista no incluye plazas locales europeas ni asiáticas, porque el cribador devuelve el
+listado estadounidense. La media de PER forward de las 63 de nivel A es **18,3×**, la mitad que la
+mediana del S&P 500. Y ninguna de estas 100 está todavía auditada: **la tabla es el embudo, no la ficha**.
+
+### 9.1 Las diez que hoy se mirarían primero
+
+Filtro: nivel A, caída ≥ 25 % desde el máximo de 52 semanas, PER forward < 25× y crecimiento previsto
+> 8 %. Son 23; estas diez son las de múltiplo más bajo.
+
+| Ticker | Compañía | Sector | PER fwd | ROE | Crec. 3A | Caída 52s | FCF |
+|---|---|---|---:|---:|---:|---:|---:|
+| **YPF** | YPF Sociedad Anónima | Oil & Gas Integrated | 5.9x | 17% | 12% | -33% | 3.5 B$ |
+| **VIST** | Vista Energy, S.A.B. de C.V. | Oil & Gas Exploration &  | 6.3x | 27% | 24% | -29% | 0.7 B$ |
+| **TTMI** | TTM Technologies, Inc. | Electronic Components | 8.1x | 14% | 38% | -72% | 0.0 B$ |
+| **IAG** | IAMGOLD Corporation | Gold | 8.7x | 32% | 14% | -30% | 1.6 B$ |
+| **STRL** | Sterling Infrastructure, Inc. | Engineering & Constructi | 9.1x | 45% | 38% | -75% | 0.5 B$ |
+| **IESC** | IES Holdings, Inc. | Engineering & Constructi | 11.6x | 45% | 30% | -64% | 0.2 B$ |
+| **BIRK** | Birkenstock Holding plc | Footwear & Accessories | 13.9x | 12% | 13% | -28% | 0.3 B$ |
+| **RDDT** | Reddit, Inc. | Internet Content & Infor | 14.9x | 32% | 36% | -64% | 1.2 B$ |
+| **SPXC** | SPX Technologies, Inc. | Building Products & Equi | 15.1x | 13% | 16% | -44% | 0.2 B$ |
+| **CRDO** | Credo Technology Group Holding Ltd | Semiconductors | 15.8x | 31% | 56% | -63% | 0.4 B$ |
+
+**Cómo se lee esto.** Una caída del 70 % (TTMI, STRL, IESC) no es una oportunidad por sí sola: es la
+misma pregunta que el corpus enseña a hacerse con Nike y PayPal —«¿cayó y se abarató, o cayó porque se
+deteriora?»—. El PER forward bajo lo dice el mercado, no la compañía. Antes de comprar cualquiera de
+estas hace falta la ficha de 10 puntos (`propuesta-acciones.md` §4) con la señal de invalidación escrita.
+
+### 9.2 La lista completa
+
+Nivel **A** = cumple los cinco filtros. Nivel **B** = falla uno solo, y se nombra. Cap en millones de
+dólares; ROE y crecimiento, en porcentaje; caída desde el máximo de 52 semanas.
+
+| # | Ticker | Compañía | Sector | Cap (MM$) | PER fwd | ROE | Crec. 3A | Caída 52s | Nivel |
+|--:|---|---|---|---:|---:|---:|---:|---:|:--:|
+| 1 | **CHTR** | Charter Communications, Inc. | Telecom Services | 19,267 | 2.6 | 27.2% | 5.7% | -51.8% | A |
+| 2 | **YPF** | YPF Sociedad Anónima | Oil & Gas Integrated | 16,615 | 5.9 | 17.4% | 12.0% | -32.8% | A |
+| 3 | **VIST** | Vista Energy, S.A.B. de C.V. | Oil & Gas Exploration & Pr | 6,461 | 6.3 | 26.8% | 24.4% | -28.9% | A |
+| 4 | **AR** | Antero Resources Corporation | Oil & Gas Exploration & Pr | 11,327 | 8.1 | 17.4% | 10.8% | -19.6% | A |
+| 5 | **TTMI** | TTM Technologies, Inc. | Electronic Components | 6,802 | 8.1 | 14.3% | 37.7% | -71.7% | A |
+| 6 | **IAG** | IAMGOLD Corporation | Gold | 10,087 | 8.7 | 32.3% | 14.4% | -29.5% | A |
+| 7 | **FSLR** | First Solar, Inc. | Solar | 21,281 | 9.1 | 18.7% | 7.4% | -38.6% | A |
+| 8 | **STRL** | Sterling Infrastructure, Inc. | Engineering & Construction | 7,685 | 9.1 | 45.0% | 38.4% | -75.4% | A |
+| 9 | **CACC** | Credit Acceptance Corporation | Credit Services | 5,211 | 9.6 | 22.7% | 30.8% | -22.7% | A |
+| 10 | **TAL** | TAL Education Group | Education & Training Servi | 5,696 | 9.8 | 19.3% | 15.8% | -22.7% | A |
+| 11 | **DECK** | Deckers Outdoor Corporation | Footwear & Accessories | 11,690 | 11.1 | 44.3% | 5.7% | -28.7% | A |
+| 12 | **IESC** | IES Holdings, Inc. | Engineering & Construction | 5,973 | 11.6 | 44.5% | 30.3% | -64.1% | A |
+| 13 | **HALO** | Halozyme Therapeutics, Inc. | Biotechnology | 14,339 | 12.6 | 173.7% | 18.6% | -6.6% | A |
+| 14 | **NBIX** | Neurocrine Biosciences, Inc. | Drug Manufacturers/Special | 16,390 | 13.3 | 20.4% | 21.1% | -13.4% | A |
+| 15 | **BIRK** | Birkenstock Holding plc | Footwear & Accessories | 6,562 | 13.9 | 12.4% | 12.8% | -27.7% | A |
+| 16 | **CPAY** | Corpay, Inc. | Software/Infrastructure | 29,773 | 14.8 | 32.2% | 11.4% | -4.8% | A |
+| 17 | **RDDT** | Reddit, Inc. | Internet Content & Informa | 18,292 | 14.9 | 32.0% | 36.3% | -64.4% | A |
+| 18 | **EAT** | Brinker International, Inc. | Restaurants | 8,832 | 15.1 | 134.7% | 5.4% | -16.8% | A |
+| 19 | **ZBRA** | Zebra Technologies Corporation | Communication Equipment | 15,520 | 15.1 | 16.5% | 9.2% | -16.6% | A |
+| 20 | **SPXC** | SPX Technologies, Inc. | Building Products & Equipm | 7,165 | 15.1 | 13.2% | 15.9% | -43.8% | A |
+| 21 | **CRDO** | Credo Technology Group Holding Ltd | Semiconductors | 22,185 | 15.8 | 30.7% | 56.0% | -62.5% | A |
+| 22 | **DOCU** | DocuSign, Inc. | Software/Application | 14,874 | 16.1 | 17.8% | 8.1% | -8.0% | A |
+| 23 | **CORT** | Corcept Therapeutics Incorporated | Biotechnology | 8,006 | 16.3 | 22.1% | 41.1% | -42.2% | A |
+| 24 | **LNTH** | Lantheus Holdings, Inc. | Drug Manufacturers/Special | 6,583 | 16.8 | 21.8% | 7.1% | -9.8% | A |
+| 25 | **EXLS** | ExlService Holdings, Inc. | Information Technology Ser | 6,525 | 17.0 | 27.7% | 13.6% | -2.5% | A |
+| 26 | **FFIV** | F5, Inc. | Software/Infrastructure | 17,877 | 17.0 | 19.0% | 7.3% | -35.6% | A |
+| 27 | **SMTC** | Semtech Corporation | Semiconductors | 8,942 | 17.2 | 23.7% | 37.6% | -53.7% | A |
+| 28 | **CACI** | CACI International Inc | Information Technology Ser | 13,427 | 17.3 | 12.5% | 8.3% | -13.5% | A |
+| 29 | **EXEL** | Exelixis, Inc. | Biotechnology | 17,081 | 17.5 | 44.3% | 12.6% | -5.5% | A |
+| 30 | **PAYP** | PayPay Corporation | Software/Infrastructure | 9,994 | 18.0 | 18.8% | 19.7% | -40.6% | A |
+| 31 | **AMRX** | Amneal Pharmaceuticals, Inc. | Drug Manufacturers/Special | 6,827 | 18.1 | 70.0% | 8.5% | -10.0% | A |
+| 32 | **FCN** | FTI Consulting, Inc. | Consulting Services | 5,175 | 18.3 | 15.2% | 5.7% | -4.2% | A |
+| 33 | **FORM** | FormFactor, Inc. | Semiconductor Equipment &  | 5,741 | 18.3 | 15.8% | 28.2% | -54.7% | A |
+| 34 | **RMBS** | Rambus Inc. | Semiconductors | 7,729 | 18.8 | 19.6% | 21.4% | -59.6% | A |
+| 35 | **FTDR** | Frontdoor, Inc. | Personal Services | 6,546 | 18.8 | 101.9% | 5.5% | -8.2% | A |
+| 36 | **PCTY** | Paylocity Holding Corporation | Software/Application | 9,030 | 19.4 | 22.0% | 7.4% | -5.1% | A |
+| 37 | **LIVN** | LivaNova PLC | Medical Devices | 5,012 | 19.5 | 15.5% | 7.9% | -9.1% | A |
+| 38 | **NXT** | Nextpower Inc. | Solar | 14,959 | 19.7 | 26.5% | 18.9% | -39.1% | A |
+| 39 | **CPRT** | Copart, Inc. | Specialty Business Service | 29,792 | 19.8 | 16.2% | 12.7% | -23.5% | A |
+| 40 | **WSE** | Wise Group plc | Information Technology Ser | 11,327 | 19.9 | 27.2% | 17.9% | -36.9% | A |
+| 41 | **ONON** | On Holding AG | Footwear & Accessories | 12,627 | 20.2 | 23.9% | 17.9% | -26.4% | A |
+| 42 | **OLLI** | Ollie's Bargain Outlet Holdings, I | Discount Stores | 5,421 | 20.6 | 14.9% | 10.7% | -30.0% | A |
+| 43 | **UTHR** | United Therapeutics Corporation | Drug Manufacturers/Special | 24,580 | 20.9 | 19.1% | 9.0% | -7.3% | A |
+| 44 | **ULTA** | Ulta Beauty, Inc. | Specialty Retail | 27,684 | 21.1 | 46.1% | 5.8% | -9.7% | A |
+| 45 | **PODD** | Insulet Corporation | Medical Devices | 10,751 | 21.1 | 28.9% | 16.0% | -56.5% | A |
+| 46 | **CART** | Maplebear Inc. | Internet Retail | 13,425 | 21.2 | 15.6% | 11.7% | -6.5% | A |
+| 47 | **PTC** | PTC Inc. | Software/Application | 21,175 | 21.9 | 28.6% | 7.5% | -0.4% | A |
+| 48 | **ALNY** | Alnylam Pharmaceuticals, Inc. | Biotechnology | 21,463 | 22.1 | 138.1% | 27.6% | -66.7% | A |
+| 49 | **NVMI** | Nova Ltd. | Semiconductor Equipment &  | 9,065 | 22.5 | 21.1% | 22.5% | -54.5% | A |
+| 50 | **DOCS** | Doximity, Inc. | Health Information Service | 6,019 | 23.5 | 17.2% | 6.7% | -48.2% | A |
+| 51 | **FIVE** | Five Below, Inc. | Specialty Retail | 13,447 | 24.1 | 28.2% | 12.9% | -7.8% | A |
+| 52 | **SEZL** | Sezzle Inc. | Credit Services | 5,380 | 24.7 | 84.3% | 24.9% | -19.1% | A |
+| 53 | **VICR** | Vicor Corporation | Electronic Components | 6,358 | 24.9 | 23.5% | 42.6% | -64.3% | A |
+| 54 | **QLYS** | Qualys, Inc. | Software/Infrastructure | 7,090 | 25.3 | 38.6% | 8.7% | -14.7% | A |
+| 55 | **XPO** | XPO, Inc. | Trucking | 21,009 | 27.2 | 26.5% | 7.7% | -23.0% | A |
+| 56 | **NTNX** | Nutanix, Inc. | Software/Infrastructure | 16,050 | 27.4 | 37460.2% | 13.8% | -22.6% | A |
+| 57 | **ATI** | ATI Inc. | Metal Fabrication | 23,056 | 27.5 | 28.7% | 10.9% | -30.7% | A |
+| 58 | **TREX** | Trex Company, Inc. | Building Products & Equipm | 5,729 | 28.2 | 17.4% | 6.7% | -6.2% | A |
+| 59 | **CLH** | Clean Harbors, Inc. | Waste Management | 14,803 | 28.7 | 17.9% | 7.3% | -16.6% | A |
+| 60 | **APPF** | AppFolio, Inc. | Software/Application | 8,184 | 29.1 | 31.4% | 17.3% | -11.0% | A |
+| 61 | **TGTX** | TG Therapeutics, Inc. | Biotechnology | 8,326 | 30.6 | 100.3% | 38.2% | -7.9% | A |
+| 62 | **GLBE** | Global-E Online Ltd. | Internet Retail | 7,251 | 31.3 | 17.0% | 31.2% | -4.9% | A |
+| 63 | **MEDP** | Medpace Holdings, Inc. | Diagnostics & Research | 17,874 | 33.3 | 117.9% | 9.0% | -8.1% | A |
+| 64 | **APTV** | Aptiv PLC | Auto Parts | 8,164 | 6.8 | 12.7% | -12.1% | -54.6% | B (crec.) |
+| 65 | **WEX** | WEX Inc. | Software/Infrastructure | 5,919 | 7.9 | 35.6% | 5.0% | -11.3% | B (FCF) |
+| 66 | **ARW** | Arrow Electronics, Inc. | Electronics & Computer Dis | 9,391 | 8.0 | 14.9% | 14.6% | -27.3% | B (margen) |
+| 67 | **NICE** | NICE Ltd. | Software/Application | 5,813 | 8.3 | 9.8% | 9.6% | -29.9% | B (ROE) |
+| 68 | **LYFT** | Lyft, Inc. | Software/Application | 6,774 | 9.0 | 152.6% | 12.2% | -30.4% | B (margen) |
+| 69 | **AX** | Axos Financial, Inc. | Banks/Regional | 5,231 | 9.4 | 16.7% | n/d% | -12.5% | B (crec.) |
+| 70 | **CROX** | Crocs, Inc. | Footwear & Accessories | 7,193 | 9.8 | 49.1% | 3.0% | -4.4% | B (crec.) |
+| 71 | **CNX** | CNX Resources Corporation | Oil & Gas Exploration & Pr | 5,070 | 9.9 | 20.4% | 4.7% | -18.5% | B (crec.) |
+| 72 | **SANM** | Sanmina Corporation | Electronic Components | 7,109 | 10.3 | 12.5% | 35.1% | -54.6% | B (margen) |
+| 73 | **FLEX** | Flex Ltd. | Electronic Components | 25,633 | 10.9 | 19.1% | 25.3% | -59.4% | B (margen) |
+| 74 | **DY** | Dycom Industries, Inc. | Engineering & Construction | 5,849 | 11.0 | 19.2% | 19.9% | -66.1% | B (margen) |
+| 75 | **CLS** | Celestica Inc. | Electronic Components | 26,852 | 11.4 | 30.2% | 66.4% | -55.9% | B (margen) |
+| 76 | **DVA** | DaVita Inc. | Medical Care Facilities | 12,092 | 11.9 | 96.8% | 4.0% | -22.1% | B (crec.) |
+| 77 | **AKAM** | Akamai Technologies, Inc. | Software/Infrastructure | 11,525 | 12.0 | 8.9% | 15.5% | -52.4% | B (ROE) |
+| 78 | **IT** | Gartner, Inc. | Information Technology Ser | 12,569 | 12.5 | 365.8% | 2.4% | -23.1% | B (crec.) |
+| 79 | **ANF** | Abercrombie & Fitch Co. | Apparel Retail | 6,797 | 12.7 | 40.6% | 4.4% | -7.4% | B (crec.) |
+| 80 | **HUBS** | HubSpot, Inc. | Software/Application | 10,216 | 13.0 | 12.2% | 15.0% | -49.5% | B (margen) |
+| 81 | **LULU** | lululemon athletica inc. | Apparel Retail | 12,242 | 13.1 | 30.9% | -1.4% | -51.3% | B (crec.) |
+| 82 | **CRUS** | Cirrus Logic, Inc. | Semiconductors | 5,573 | 13.3 | 19.5% | 3.5% | -38.8% | B (crec.) |
+| 83 | **CHWY** | Chewy, Inc. | Internet Retail | 9,144 | 13.3 | 72.0% | 6.8% | -39.1% | B (margen) |
+| 84 | **URBN** | Urban Outfitters, Inc. | Apparel Retail | 7,526 | 13.4 | 20.9% | 7.6% | -6.6% | B (margen) |
+| 85 | **JLL** | Jones Lang LaSalle Incorporated | Real Estate Services | 17,182 | 13.6 | 14.5% | 8.5% | -5.5% | B (margen) |
+| 86 | **TTD** | The Trade Desk, Inc. | Advertising Agencies | 6,033 | 13.6 | 15.4% | -1.9% | -73.5% | B (crec.) |
+| 87 | **GDDY** | GoDaddy Inc. | Software/Infrastructure | 14,645 | 13.6 | n/d% | 5.4% | -10.2% | B (ROE) |
+| 88 | **THC** | Tenet Healthcare Corporation | Medical Care Facilities | 22,446 | 13.7 | 41.7% | 3.4% | -4.9% | B (crec.) |
+| 89 | **AXTA** | Axalta Coating Systems Ltd. | Specialty Chemicals | 7,768 | 13.8 | 13.4% | 2.1% | -6.1% | B (crec.) |
+| 90 | **CHKP** | Check Point Software Technologies  | Software/Infrastructure | 15,248 | 13.9 | 30.6% | 4.2% | -28.2% | B (crec.) |
+| 91 | **MTZ** | MasTec, Inc. | Engineering & Construction | 12,737 | 14.0 | 14.5% | 19.7% | -64.0% | B (margen) |
+| 92 | **FN** | Fabrinet | Electronic Components | 10,882 | 14.3 | 21.0% | 26.6% | -60.1% | B (FCF) |
+| 93 | **KEX** | Kirby Corporation | Marine Shipping | 6,364 | 14.4 | 10.4% | 7.6% | -24.3% | B (ROE) |
+| 94 | **ZM** | Zoom Communications, Inc. | Software/Application | 26,112 | 14.6 | 32.1% | 4.6% | -22.4% | B (crec.) |
+| 95 | **ON** | ON Semiconductor Corporation | Semiconductors | 25,416 | 14.7 | 8.9% | 12.4% | -52.6% | B (ROE) |
+| 96 | **PATH** | UiPath, Inc. | Software/Infrastructure | 6,822 | 15.1 | 20.0% | 9.1% | -34.7% | B (margen) |
+| 97 | **FICO** | Fair Isaac Corporation | Software/Application | 15,118 | 15.1 | n/d% | 6.6% | -62.2% | B (ROE) |
+| 98 | **ACIW** | ACI Worldwide, Inc. | Software/Infrastructure | 5,988 | 15.7 | 11.2% | 7.4% | -6.2% | B (ROE) |
+| 99 | **GMED** | Globus Medical, Inc. | Medical Devices | 10,942 | 15.9 | 11.8% | 6.9% | -20.0% | B (ROE) |
+| 100 | **GME** | GameStop Corp. | Specialty Retail | 12,264 | 16.0 | 15.8% | 0.8% | -14.7% | B (crec.) |
+
+### 9.3 Límites de este cribado
+
+- **No mide deuda.** Los filtros son de rentabilidad y precio; una compañía muy apalancada puede pasar
+  el corte (Charter, con un PER forward de 2,6× que es una señal de desconfianza del mercado, no una
+  ganga). El endeudamiento se mira en la ficha, no aquí.
+- **No mide dividendo futuro:** «cero eventos en 3 años» no garantiza que no lo empiece a pagar.
+- **El crecimiento a 3 años es consenso de analistas**, no un hecho: es la parte más frágil de la tabla.
+- **No incluye plazas locales.** Si algún día se quiere ASML en Ámsterdam o SAP en Fráncfort, se repite
+  el cribado contra esa plaza con el mismo método (skill `cribado-acciones`).
+- **Los datos son del 05/11/2026**, con el mercado americano aún abierto: los precios y las caídas se
+  moverán, los múltiplos también.
+
 > No es asesoramiento financiero. Los pesos son una decisión de cartera sobre cuentas publicadas,
 > múltiplos verificados el 04/11/2026 y fuentes citadas; no son una previsión de rentabilidad.
