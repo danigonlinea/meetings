@@ -29,6 +29,8 @@ import build_index as bi  # noqa: E402
 ROOT = bi.ROOT
 FOLDER = re.compile(r"^\d{4}-\d{2}-\d{2}-[a-z0-9]+(?:-[a-z0-9]+)*$")
 NO_EVENT = {"portfolio", "reports", "archivo"}
+# Carpetas que agrupan vídeos de una misma fuente: se recorre un nivel más.
+CONTAINERS = {"videos"}
 KEYS = ("title", "date", "type", "category", "tags", "status")
 
 errors: list[str] = []
@@ -44,7 +46,13 @@ def event_folders() -> list[Path]:
         for source in sorted(p for p in base.iterdir() if p.is_dir()):
             if source.name in NO_EVENT:
                 continue
-            found += [p for p in sorted(source.iterdir()) if p.is_dir()]
+            for child in sorted(p for p in source.iterdir() if p.is_dir()):
+                if child.name in NO_EVENT:
+                    continue
+                if child.name in CONTAINERS:
+                    found += [p for p in sorted(child.iterdir()) if p.is_dir()]
+                else:
+                    found.append(child)
     return found
 
 

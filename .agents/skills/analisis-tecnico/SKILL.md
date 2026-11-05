@@ -54,7 +54,7 @@ python3 .agents/skills/analisis-tecnico/scripts/tecnicos.py NFLX --tail 12 --ema
 
 ## Los cinco modelos de Jesús Navarrete (clase del 09/08/2024)
 
-Documentados en `finance/analisis-tecnico/2024-08-09-5-modelos-aperturas-cierres/summary.md`
+Documentados en `finance/analisis-tecnico/videos/2024-08-09-5-modelos-aperturas-cierres/summary.md`
 (vídeo `96jjClve3fE`). Resumen operativo:
 
 | # | Modelo | Entrada | Salida | Marco |
