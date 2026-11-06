@@ -99,3 +99,47 @@ cae y se sale entero.
 4. La salida se pone en el borde opuesto de la caja, no en un número inventado.
 5. Y el límite de siempre (`revision-adversarial.md`): acierta niveles, no direcciones. Por eso cada paso
    lleva su stop escrito.
+
+## 6. ¿Se podía anticipar la vela gigante? Sí, el 18-22 de septiembre
+
+La vela mensual de septiembre **no existió como tal hasta el 24-27**: el día 18 el precio estaba en 63,28 y
+el día 30 cerró en 287,15. Lo que sí existía, día a día, era esto:
+
+| Fecha | Cierre | % del día | Volumen | × media (10.769 QNT) |
+|---|--:|--:|--:|--:|
+| 18/09 | 63,28 | +3,4 % | 22.120 | **2,1×** |
+| 21/09 | 66,87 | +4,2 % | 25.585 | **2,4×** |
+| 22/09 | 73,85 | +10,4 % | 45.386 | **4,2×** ← rompe el techo del rango 55-68 |
+| 24/09 | 90,10 | +27,6 % | 53.387 | 5,0× |
+| 25/09 | 98,64 | +9,5 % | 148.391 | 13,8× |
+| 26/09 | 151,52 | +53,6 % | 236.043 | 21,9× |
+| 27/09 | 286,26 | +88,9 % | 1.013.907 | **94,2×** |
+
+**El volumen fue la señal anterior al precio.** Entre junio y el 15 de septiembre el volumen medio era de
+10.769 QNT al día; el 22/09 se multiplicó por 4 y el 27/09 por 94. Quien miraba volumen relativo a su propia
+media tenía el aviso **cinco días antes** de que la vela mensual fuese gigante.
+
+### La vela de entrada, probada
+
+La regla que planteas —**mínimo superior al anterior + vela positiva**— con un filtro de volumen (>1,5× la
+media de 20 días), medida sobre **964 días** de QNT:
+
+| | Casos | Retorno 10 d medio | Mediana | Casos > +10 % en 10 d | Recorrido máximo medio |
+|---|--:|--:|--:|--:|--:|
+| **Con señal** | 56 | **+17,9 %** | −1,0 % | **21,4 %** | **+43,3 %** |
+| Todos los días | 964 | +2,5 % | −1,8 % | 14,6 % | +14,3 % |
+
+- **La señal habría disparado el 18/09 y el 21/09**, con retorno a 10 días de **+264 %** y **+267 %**. La
+  respuesta a tu pregunta es sí: ese momento era identificable.
+- **Pero la mediana es −1 %:** la mitad de las señales no dan nada. El resultado medio lo cargan dos o tres
+  casos enormes. Es una señal de **cola gorda**, no de acierto frecuente: se gana dejando correr el ganador
+  (recorrido máximo +43 % de media frente a +14 % de base) y cortando el resto con stop.
+- **Tamaño de muestra:** 1000 velas diarias (QNT cotiza en Binance desde 2023). Suficiente para ver la
+  asimetría, corto para afirmar una tasa.
+
+### Dónde estaba la entrada, en la práctica
+
+- **22/09:** ruptura del techo del rango (68,62) con 4,2× de volumen y cierre en 73,85. Stop bajo el mínimo
+  de la vela anterior (**65,86**): riesgo 10,8 %. Desde ahí, trailing con la EMA9 o la parabólica.
+- **Lo que no se debe hacer:** esperar al cierre de la vela semanal (286,26) o mensual (287,15). Ahí ya se
+  había recorrido el 90 % del movimiento y el riesgo estaba en máximos.

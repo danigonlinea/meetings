@@ -114,7 +114,16 @@ Este es el patrón, en el orden en que él lo ejecuta. Sirve para replicarlo sin
 5. **El acierto de nivel no equivale a acierto de escenario.** En Bitcoin acertó los dos extremos del
    rango y aun así la tesis de rango se rompió por abajo (ver `predicciones.md`).
 
-## 6. Cómo se juzga
+## 6. La vela de entrada, medida
+
+La regla «mínimo superior al anterior + vela positiva» **con filtro de volumen >1,5× la media de 20 días**,
+probada sobre 964 días de QNT/USDT: 56 señales, retorno medio a 10 días **+17,9 %** frente a **+2,5 %** de
+base, **21,4 %** de casos con más de +10 % (base 14,6 %) y recorrido máximo medio **+43,3 %** frente a
++14,3 %. **La mediana es −1 %:** la mitad de las señales no dan nada y el resultado lo cargan dos o tres
+casos enormes. Es una señal de cola gorda: funciona con stop y dejando correr, no acertando siempre.
+Detalle y caso práctico: `analisis-qnt-entrada-2026-11-06.md` §6.
+
+## 7. Cómo se juzga
 
 `predicciones.md` recoge cada predicción con objetivo numérico y la contrasta con el precio real. Ese
 documento es el que decide si una regla de este método se adopta o se descarta; la frecuencia sola no
