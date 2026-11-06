@@ -120,6 +120,15 @@ def psar(high, low, step=0.02, max_af=0.20):
     return sar, bull
 
 
+def dec_for(price: float) -> int:
+    """Decimales según la magnitud: 5 para cripto barata, 3 para <10, 2 para el resto."""
+    if price < 1:
+        return 5
+    if price < 10:
+        return 3
+    return 2
+
+
 def fmt(x, dec=2):
     return "—" if x is None else f"{x:,.{dec}f}"
 

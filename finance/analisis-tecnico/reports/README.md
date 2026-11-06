@@ -28,6 +28,7 @@ finance/analisis-tecnico/
 | `metodo.md` | El patrón de análisis completo, regla a regla, con la frecuencia que respalda cada una | Al añadir clases; es el documento de trabajo |
 | `predicciones.md` | Cada predicción con su nivel, su condición y **qué pasó de verdad** en el precio | Al vencer cada horizonte |
 | `revision-adversarial.md` | Si el método aguanta: pruebas con datos de sus dos reglas centrales, errores de concepto y qué se queda y qué se descarta | Al añadir reglas o cerrar una muestra |
+| `analisis-<ticker>-<fecha>.md` | Un informe por activo y fecha: las tres vistas, disparadores con nivel e invalidación | Se crea uno nuevo por consulta; no se reescribe |
 
 ## Estado del corpus
 

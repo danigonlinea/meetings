@@ -9,6 +9,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/analisis-tecnico/reports/predicciones.md` | synthesis | finance | 2026-11-05 | Predicciones de las clases, contrastadas con el precio real | [analisis-tecnico, predicciones, verificacion, nvidia, bitcoin] |
 | `finance/analisis-tecnico/reports/metodo.md` | synthesis | finance | 2026-11-05 | El patrón de análisis: método, reglas y orden de trabajo | [analisis-tecnico, metodo, reglas, patron, trading, checklist] |
 | `finance/analisis-tecnico/reports/glosario.md` | reference | finance | 2026-11-05 | Glosario del método de Jesús Navarrete | [analisis-tecnico, glosario, vocabulario, trading] |
+| `finance/analisis-tecnico/reports/analisis-hbarusdt-2026-11-05.md` | synthesis | finance | 2026-11-05 | HBAR/USDT — lectura mensual, semanal y diaria (05/11/2026) | [analisis-tecnico, hbar, hedera, mensual, semanal, diaria, informe] |
 | `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-04 | Cartera definitiva, solo fondos: 55/45 en diez posiciones (97.000 €) | [cartera, definitiva, 55-45, solo-fondos, renta-fija, abs, cobas-renta, reits, japon, pacifico, rock, myinvestor] |
 | `finance/portfolio/cartera-myinvestor/propuesta-acciones.md` | portfolio-research | finance | 2026-11-04 | Propuesta de acciones sin dividendo — cuatro posiciones y una lista de espera | [cartera, acciones, sin-dividendo, calidad, tecnologia, value, la-pizarra-de-andres, webinars, myinvestor, propuesta] |
 | `finance/analisis-tecnico/videos/2026-11-04-nvidia-4-noviembre/summary.md` | meeting-summary | finance | 2026-11-04 | 4 noviembre del 2026, Nvidia, Frankenstein's Oráculo | [analisis-tecnico, trading, nvidia, premarket, ema, bandas-de-bollinger, accion-del-precio] |
@@ -59,6 +60,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/analisis-tecnico/videos/2024-08-09-5-modelos-aperturas-cierres/summary.md` | meeting-summary | finance | 2024-08-09 | Revisión de los 5 modelos de aperturas y cierres (clase en vivo) | [analisis-tecnico, trading, velas, ema, parabolic-sar, aperturas, modelos] |
 | `finance/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 53
+**Total de artefactos indexados:** 54
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
