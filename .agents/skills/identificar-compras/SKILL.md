@@ -98,9 +98,19 @@ se encienden todas. Script: `scripts/puntuacion_confluencia.py`.
 | Score | Lectura |
 |---|---|
 | **8/8** | momento certificado: es el día de la compra |
-| 7/8 | zona de compra; se espera a que cierre la casilla que falta |
+| **7/8 con la 4 h como única casilla vacía** | **compra válida** (HBAR 15/11/2024, 0,072, 7/8 por la 4 h → **+442 %** en 60 velas) |
+| 7/8 por cualquier otra casilla | zona de compra; se espera a que cierre la casilla que falta |
 | 5-6/8 | vigilancia. No se compra |
 | ≤4/8 | no hay nada que hacer |
+
+**Al listar días de compra NUNCA se filtra por distancia a la EMA20.** El marcador no la incluye y filtrarla
+borra justo los rallies: en HBAR 2024-2025 el corte del 25 % eliminó 8 de 21 días con 8/8, casi todos en la
+subida de noviembre-enero. La distancia solo sirve para ajustar tamaño.
+
+**Orden de las señales dentro de un movimiento:** la primera y la segunda son las buenas (HBAR: 15/11 a 0,072
+y 16/11 a 0,090 → +442 % y +335 %). De la tercera en adelante ya se compra continuación, no arranque, y el
+tamaño baja a la mitad (HBAR, señales de diciembre-enero a 0,31-0,37: máximo favorable de +11 % a +29 % y
+cierre a 60 velas de −2 % a −50 %).
 
 **Dos reglas que valen más que el score:**
 

@@ -166,7 +166,8 @@ def main():
     if mejores:
         s, day, px, dist = mejores[0]
         if dist > 25:
-            print(f"\n⚠️  El mejor día ({day}) está un {dist:+.0f}% sobre su EMA20: subida vertical, no se compra.")
+            print(f"\n⚠️  El mejor día ({day}) está un {dist:+.0f}% sobre su EMA20: subida fuerte. "
+                  "NO descarta la compra (medido: +0,18R, igual que pegado a la EMA20); ajusta el tamaño.")
 
 
 if __name__ == "__main__":
