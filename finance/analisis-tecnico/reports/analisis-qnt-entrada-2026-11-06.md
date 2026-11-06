@@ -100,6 +100,49 @@ cae y se sale entero.
 5. Y el límite de siempre (`revision-adversarial.md`): acierta niveles, no direcciones. Por eso cada paso
    lleva su stop escrito.
 
+## 7. El mapa de octubre: dónde estaba la compra (y por qué no hubo 6x)
+
+**Primero la corrección de dato:** en octubre QNT **no hizo un 6x**. El 6x fue **septiembre** (mínimo 58,75
+→ máximo 373,00 = 6,3x). Octubre fue el mes contrario: abrió en **287,00**, hizo máximo en **307,00** el día
+1 y cayó hasta **173,56** el 24 (−40 %), cerrando el mes en **201,11**.
+
+### Día a día, con las señales
+
+| Fecha | Cierre | Señal | Volumen |
+|---|--:|---|--:|
+| 07/10 | 253,40 | **giro de parabólica a bajista** en 373,00 (fin del tramo de septiembre) | 0,6× |
+| 24/10 | 179,26 | mínimo del mes en **173,56** | 0,4× (sin capitulación) |
+| 25/10 | 190,21 | **vela de entrada**: mínimo 177,92 > 173,56 y cierre positivo | 0,7× |
+| 26/10 | 204,01 | **triple confluencia**: giro de parabólica a alcista (173,56), cierre sobre EMA9 (195,10) y EMA20 (199,10), vela de entrada y **1,8× de volumen** | **1,8×** |
+| 27/10 | 199,39 | rechazo en **213,00**: primera salida | 1,0× |
+| 30/10 | 192,27 | **giro de parabólica a bajista** en 223,96 (segunda salida) | 1,0× |
+
+### Las tres formas de comprar, con su resultado
+
+| Entrada | Precio | Stop | Riesgo | Objetivo | Recorrido | R/R |
+|---|--:|--:|--:|--:|--:|--:|
+| **A. El cierre del día de la señal** | 204,01 | 187,79 (mínimo del día) | 7,9 % | 213,00 | +4,4 % | **0,55** ❌ |
+| **B. El mínimo superior del 25/10** | 190,21 | 173,50 (bajo el mínimo del mes) | 8,8 % | 223,96 | +17,7 % | **2,0** ✅ |
+| C. Aguantar hasta el giro bajista del 30/10 | 204,01 | trailing en la parabólica | — | — | **−5,8 %** | ❌ |
+
+**La respuesta a tu pregunta:** la compra de octubre fue la **B**, el 25 de octubre en **190,21**, con el
+mínimo superior al del día anterior — **un día antes** de que la parabólica confi rmara. El día de la señal
+completa (26/10) ya se compraba un 7 % más arriba y el recorrido hasta el primer rechazo era menor que el
+riesgo. **La señal llega tarde; el mínimo superior llega a tiempo.**
+
+**Y el límite honesto:** aguantar la posición hasta que la parabólica volvió a girar (30/10) daba **−5,8 %**.
+En octubre el dinero estaba en **operar el rango 173-224**, no en mantener: comprar el mínimo superior, vender
+el rechazo. Quien compró y aguantó sigue hoy prácticamente en el precio de compra (190,95).
+
+### Lo que octubre sí dejó escrito para la próxima
+
+1. **El mínimo del mes se hizo sin volumen** (0,4×): el suelo no avisó. El aviso llegó al día siguiente, con
+   la vela de entrada y el 1,8× del 26/10.
+2. **La confluencia del 26/10 fue de manual** (parabólica + EMA9 + EMA20 + volumen + mínimo superior) y aun
+   así el recorrido hasta el rechazo fue corto: la calidad de la señal no arregla un mal precio de entrada.
+3. **En rango, el objetivo es el borde contrario** (213-224), no el máximo histórico. Perseguir el 6x en
+   octubre era comprar la continuación de un movimiento que ya había terminado el 7/10.
+
 ## 6. ¿Se podía anticipar la vela gigante? Sí, el 18-22 de septiembre
 
 La vela mensual de septiembre **no existió como tal hasta el 24-27**: el día 18 el precio estaba en 63,28 y
