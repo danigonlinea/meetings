@@ -100,7 +100,7 @@ cae y se sale entero.
 5. Y el límite de siempre (`revision-adversarial.md`): acierta niveles, no direcciones. Por eso cada paso
    lleva su stop escrito.
 
-## 7. El mapa de octubre: dónde estaba la compra (y por qué no hubo 6x)
+## 6. El mapa de octubre: dónde estaba la compra (y por qué no hubo 6x)
 
 **Primero la corrección de dato:** en octubre QNT **no hizo un 6x**. El 6x fue **septiembre** (mínimo 58,75
 → máximo 373,00 = 6,3x). Octubre fue el mes contrario: abrió en **287,00**, hizo máximo en **307,00** el día
@@ -126,7 +126,7 @@ cae y se sale entero.
 | C. Aguantar hasta el giro bajista del 30/10 | 204,01 | trailing en la parabólica | — | — | **−5,8 %** | ❌ |
 
 **La respuesta a tu pregunta:** la compra de octubre fue la **B**, el 25 de octubre en **190,21**, con el
-mínimo superior al del día anterior — **un día antes** de que la parabólica confi rmara. El día de la señal
+mínimo superior al del día anterior — **un día antes** de que la parabólica confirmara. El día de la señal
 completa (26/10) ya se compraba un 7 % más arriba y el recorrido hasta el primer rechazo era menor que el
 riesgo. **La señal llega tarde; el mínimo superior llega a tiempo.**
 
@@ -143,7 +143,7 @@ el rechazo. Quien compró y aguantó sigue hoy prácticamente en el precio de co
 3. **En rango, el objetivo es el borde contrario** (213-224), no el máximo histórico. Perseguir el 6x en
    octubre era comprar la continuación de un movimiento que ya había terminado el 7/10.
 
-## 6. ¿Se podía anticipar la vela gigante? Sí, el 18-22 de septiembre
+## 7. ¿Se podía anticipar la vela gigante? Sí, el 18-22 de septiembre
 
 La vela mensual de septiembre **no existió como tal hasta el 24-27**: el día 18 el precio estaba en 63,28 y
 el día 30 cerró en 287,15. Lo que sí existía, día a día, era esto:

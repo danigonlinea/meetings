@@ -121,7 +121,7 @@ probada sobre 964 días de QNT/USDT: 56 señales, retorno medio a 10 días **+17
 base, **21,4 %** de casos con más de +10 % (base 14,6 %) y recorrido máximo medio **+43,3 %** frente a
 +14,3 %. **La mediana es −1 %:** la mitad de las señales no dan nada y el resultado lo cargan dos o tres
 casos enormes. Es una señal de cola gorda: funciona con stop y dejando correr, no acertando siempre.
-Detalle y caso práctico: `analisis-qnt-entrada-2026-11-06.md` §6.
+Detalle y caso práctico: `analisis-qnt-entrada-2026-11-06.md` §7.
 
 ## 7. Cómo se juzga
 
