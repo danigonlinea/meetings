@@ -34,6 +34,25 @@ def kl(symbol, interval, limit):
              "c": float(k[4]), "v": float(k[5])} for k in raw]
 
 
+def kl_rango(symbol, interval, start_ms, end_ms):
+    """Descarga paginada: Binance devuelve 1.000 velas por petición."""
+    out, cur = [], start_ms
+    while cur < end_ms:
+        url = (f"https://api.binance.com/api/v3/klines?symbol={symbol}&interval={interval}"
+               f"&startTime={cur}&endTime={end_ms}&limit=1000")
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=30) as r:
+            raw = json.load(r)
+        if not raw:
+            break
+        out += [{"t": int(k[0]), "o": float(k[1]), "h": float(k[2]), "l": float(k[3]),
+                 "c": float(k[4]), "v": float(k[5])} for k in raw]
+        cur = raw[-1][0] + 1
+        if len(raw) < 1000:
+            break
+    return out
+
+
 def ema(v, p):
     out = [None] * len(v)
     if len(v) < p:
@@ -77,7 +96,17 @@ def main():
     ap.add_argument("--dias", type=int, default=0)
     a = ap.parse_args()
 
-    d = kl(a.symbol, "1d", 500)
+    if a.desde and a.hasta:
+        ini = int(datetime.datetime.strptime(a.desde, "%Y-%m-%d")
+                  .replace(tzinfo=datetime.timezone.utc).timestamp() * 1000)
+        fin = int(datetime.datetime.strptime(a.hasta, "%Y-%m-%d")
+                  .replace(tzinfo=datetime.timezone.utc).timestamp() * 1000)
+        margen = 300 * 86400000          # 300 velas diarias previas para que las EMAs existan
+        d = kl_rango(a.symbol, "1d", ini - margen, fin)
+        h4_raw = kl_rango(a.symbol, "4h", ini - 30 * 86400000, fin)
+        w_raw = kl_rango(a.symbol, "1w", ini - 400 * 7 * 86400000, fin)
+    else:
+        d, h4_raw, w_raw = kl(a.symbol, "1d", 500), kl(a.symbol, "4h", 700), kl(a.symbol, "1w", 200)
     c = [x["c"] for x in d]
     h = [x["h"] for x in d]
     l = [x["l"] for x in d]
@@ -86,12 +115,12 @@ def main():
     sar, bl = psar(h, l)
 
     # semanal: régimen mayor
-    w = kl(a.symbol, "1w", 200)
+    w = w_raw
     Ew = {p: ema([x["c"] for x in w], p) for p in (3, 9, 20, 50)}
     sarw, blw = psar([x["h"] for x in w], [x["l"] for x in w])
 
     # 4 h: alineación intradía
-    h4 = kl(a.symbol, "4h", 700)
+    h4 = h4_raw
     c4 = [x["c"] for x in h4]
     e204 = ema(c4, 20)
     _, bl4 = psar([x["h"] for x in h4], [x["l"] for x in h4])

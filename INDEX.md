@@ -8,6 +8,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/analisis-tecnico/reports/revision-adversarial-entradas.md` | synthesis | finance | 2026-11-06 | Revisión adversarial del método de entradas, con backtest de 10 pares | [analisis-tecnico, revision-adversarial, backtest, cripto, identificar-compras] |
 | `finance/analisis-tecnico/reports/analisis-qnt-octubre-2026-11-06.md` | synthesis | finance | 2026-11-06 | QNT/USDT — octubre de 2026, día a día: dónde estaba la compra | [analisis-tecnico, qnt, octubre, ema, parabolic-sar, compra, multi-temporal] |
 | `finance/analisis-tecnico/reports/analisis-qnt-entrada-2026-11-06.md` | synthesis | finance | 2026-11-06 | QNT/USDT — cómo se construye la entrada bajando de temporalidad (06/11/2026) | [analisis-tecnico, qnt, entrada, temporalidades, multi-temporal, compra] |
+| `finance/analisis-tecnico/reports/analisis-hbar-2024-2025-2026-11-06.md` | synthesis | finance | 2026-11-06 | HBAR/USDT — todos los días de compra del método, 2024-2025 | [analisis-tecnico, hbar, backtest, compras, 2024, 2025] |
 | `finance/analisis-tecnico/reports/revision-adversarial.md` | synthesis | finance | 2026-11-05 | Revisión adversarial del método de análisis técnico | [analisis-tecnico, revision-adversarial, veredicto, trading, evidencia] |
 | `finance/analisis-tecnico/reports/predicciones.md` | synthesis | finance | 2026-11-05 | Predicciones de las clases, contrastadas con el precio real | [analisis-tecnico, predicciones, verificacion, nvidia, bitcoin] |
 | `finance/analisis-tecnico/reports/metodo.md` | synthesis | finance | 2026-11-05 | El patrón de análisis: método, reglas y orden de trabajo | [analisis-tecnico, metodo, reglas, patron, trading, checklist] |
@@ -64,6 +65,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/analisis-tecnico/videos/2024-08-09-5-modelos-aperturas-cierres/summary.md` | meeting-summary | finance | 2024-08-09 | Revisión de los 5 modelos de aperturas y cierres (clase en vivo) | [analisis-tecnico, trading, velas, ema, parabolic-sar, aperturas, modelos] |
 | `finance/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 58
+**Total de artefactos indexados:** 59
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
