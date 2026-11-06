@@ -110,7 +110,42 @@ descarga una subida». Esa es la mejora pendiente más importante.
 5. **Añadir un filtro de «no comprar vertical».** Pendiente de probar, pero los dos −1R de QNT vienen de
    ahí: si el precio está a más de 2×ATR de la EMA20 diaria, la vela de entrada no se opera.
 
-## 7. Límites de esta revisión
+## 7. Segunda pasada: la vertical no era el problema, y la ventaja se ha apagado
+
+Dos comprobaciones posteriores, con el mismo script:
+
+**a) La prohibición de comprar vertical no se sostiene.** Repartiendo las 284 operaciones de V5 por distancia
+a la EMA20 y por subida en 30 velas:
+
+| Distancia a la EMA20 | n | Acierto | R medio |
+|---|--:|--:|--:|
+| ≤ 10 % | 95 | 43,2 % | +0,21 |
+| 10-25 % | 138 | 39,9 % | +0,17 |
+| > 25 % | 51 | 41,2 % | +0,18 |
+
+| Subida en 30 velas | n | Acierto | R medio |
+|---|--:|--:|--:|
+| 0-25 % | 149 | 43,0 % | +0,24 |
+| 25-50 % | 84 | 42,9 % | +0,25 |
+| 50-100 % | 29 | 24,1 % | **−0,31** |
+| > 100 % | 22 | 45,5 % | +0,24 |
+
+Comprar en vertical funciona igual que comprar tranquilo. El único tramo malo es el intermedio (50-100 % en
+un mes), con 29 operaciones: muestra para reducir tamaño, no para vetar. Y el contraejemplo es de manual:
+HBAR el 16/11/2024 cerró a 0,090, un 107 % sobre su EMA20, y llegó a 0,392 en veinte velas (**+335 %**).
+
+**b) La ventaja de los últimos doce meses no existe.**
+
+| Periodo | n | Acierto | R medio |
+|---|--:|--:|--:|
+| completo | 284 | 41,2 % | +0,18 |
+| últimos 12 meses | 64 | 32,8 % | **−0,03** |
+| últimos 6 meses | 58 | 34,5 % | +0,01 |
+
+Con 64 operaciones no se puede afirmar que el método haya muerto, pero tampoco que esté vivo. Mientras no se
+demuestre, se usa como filtro de calidad y no como fuente de esperanza. Comando nuevo: `--desde 2025-11-06`.
+
+## 8. Límites de esta revisión
 
 - **2,7 años y un solo ciclo** (un mercado alcista con una corrección): no cubre 2018 ni 2022.
 - **Cinco variantes probadas y elegida la mejor**: es el riesgo clásico de *data snooping*. Que V5 gane en
@@ -119,7 +154,7 @@ descarga una subida». Esa es la mejora pendiente más importante.
 - **Sin intradía y sin comisiones**, ya explicado: no cambia la conclusión pero sí el detalle.
 - **Los pares son los grandes**: en monedas pequeñas el volumen y el spread cambian el resultado.
 
-## 8. Qué se cambia en la skill
+## 9. Qué se cambia en la skill
 
 - Paso 1 (sesgo): deja de ser requisito de entrada; la mensual queda como contexto.
 - Paso 3 (confirmación): el filtro pasa a ser **precio sobre EMA200 diaria**; la triple confluencia se

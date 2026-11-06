@@ -121,7 +121,7 @@ def backtest(symbol, rr, horizonte):
                 break
         return vig
 
-    out = {"V2": [], "V3": [], "V4": [], "V5": [], "BASE": []}
+    out = {"V2": [], "V3": [], "V4": [], "V5": [], "V6": [], "V7": [], "BASE": []}
     riesgos = []
     for i in range(25, len(d) - horizonte - 1):
         v20 = statistics.fmean(v[i - 19:i + 1])
@@ -136,6 +136,11 @@ def backtest(symbol, rr, horizonte):
                 sm = sesgo(r["t"])
                 if e200[i] and r["c"] > e200[i]:
                     out["V5"].append((symbol, r["t"], res))
+                    mom30 = c[i] / c[i - 30] - 1 if i >= 30 else 99
+                    if mom30 < 1.0:          # subida <100 % en 30 velas = ruptura, no vertical
+                        out["V6"].append((symbol, r["t"], res))
+                    if mom30 < 1.5:
+                        out["V7"].append((symbol, r["t"], res))
                 if sm and r["c"] > sm:
                     out["V3"].append((symbol, r["t"], res))
                     if e9[i] and e20[i] and r["c"] > e9[i] and r["c"] > e20[i] and bull[i]:
@@ -163,8 +168,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--rr", type=float, default=2.0)
     ap.add_argument("--horizonte", type=int, default=20)
+    ap.add_argument("--desde", help="solo operaciones con fecha >= YYYY-MM-DD")
     a = ap.parse_args()
-    todo = {"V2": [], "V3": [], "V4": [], "V5": [], "BASE": []}
+    todo = {"V2": [], "V3": [], "V4": [], "V5": [], "V6": [], "V7": [], "BASE": []}
     riesgos = []
     print(f"Objetivo {a.rr}R · horizonte {a.horizonte} velas · stop en el mínimo de la vela de entrada\n")
     for s in SIMBOLOS:
@@ -181,14 +187,19 @@ def main():
             riesgos.append(out["_riesgo"])
         resumen(s, out["V2"])
     print("-" * 86)
-    for k in ("BASE", "V2", "V3", "V4", "V5"):
+    if ap.parse_args().desde:
+        desde = ap.parse_args().desde
+        for k in todo:
+            todo[k] = [x for x in todo[k]
+                       if datetime.datetime.fromtimestamp(x[1] / 1000, datetime.timezone.utc)
+                       .strftime("%Y-%m-%d") >= desde]
+    for k in ("BASE", "V2", "V5", "V6", "V7"):
         resumen(k, todo[k])
     if riesgos:
         print(f"\nRiesgo medio (entrada-mínimo de la vela): {statistics.fmean(riesgos):.1f}% del precio")
     print("\nDetalle de las 6 mejores y 6 peores de V3:")
     v3 = sorted(todo["V3"], key=lambda t: -t[2])
     for sym, ts, r in v3[:6] + v3[-6:]:
-        import datetime
         f = datetime.datetime.fromtimestamp(ts / 1000, datetime.timezone.utc).strftime("%Y-%m-%d")
         print(f"  {sym:9s} {f}  {r:+.2f}R")
 

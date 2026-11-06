@@ -107,9 +107,10 @@ se encienden todas. Script: `scripts/puntuacion_confluencia.py`.
 1. **La de 4 h sola es ruido.** El 21/10/2026 en QNT tenía la de 4 h al 100 % (6 de 6 barras) y el día
    siguiente el precio perdió la EMA9 y cayó un 9 %. Le faltaban la EMA20 diaria, la parabólica y el
    volumen: **4/8**. Sin la diaria completa, la de 4 h no habilita nada.
-2. **Distancia a la EMA20: si supera el ~25 %, la subida es vertical y no se compra** aunque el score sea
-   alto. El 1-6 de octubre QNT puntuaba 6/8 todos los días, pero el precio estaba **+63 % sobre su EMA20**
-   (245,48 frente a 150,98) y el volumen ya se apagaba: era la cola de la subida de septiembre.
+2. **Distancia a la EMA20: es un aviso, no un veto.** Medido sobre 284 operaciones, comprar a más del 25 %
+   sobre la EMA20 da +0,18R, igual que comprar pegado a ella (+0,21R). Sirve para **reducir tamaño**, no para
+   descartar. (El 1-6 de octubre QNT puntuaba 6/8 con el precio +63 % sobre su EMA20: eso era la cola de la
+   subida de septiembre, pero el 8/8 del 26 de octubre también estaba en una subida fuerte y funcionó.)
 
 **Caso resuelto (QNT, octubre de 2026):** 30 días, un solo 8/8 —el **26/10**, cierre 204,01, con EMA3
 cruzando sobre EMA9 por 32 centavos, parabólica girando en 173,56, volumen 1,8× y las 6 barras de 4 h
@@ -134,9 +135,20 @@ La temporalidad de 4 h es la que permite **stop pequeño**:
 **Definición:** vela con **mínimo superior al de la vela anterior** y **cierre positivo** (cierre > apertura),
 con **volumen > 1,5 × la media de 20 velas**, y **siempre con el precio sobre la EMA200 diaria**.
 
-**Prohibición de comprar vertical:** si el precio está a más de **2×ATR** por encima de la EMA20 diaria, la
-vela de entrada no se opera. Los dos −1R de QNT (29 y 30/09/2026, con volumen de 3,9× y 3,5×) vienen
-exactamente de ahí: en una subida vertical el volumen alto es distribución, no acumulación.
+**La vertical NO se prohíbe (corrección medida).** Durante un tiempo esta skill decía «no comprar si el
+precio está a más de 2×ATR o un 25 % sobre la EMA20». El backtest de 284 operaciones no lo respalda:
+
+| Distancia a la EMA20 | n | Acierto | R medio |
+|---|--:|--:|--:|
+| ≤ 10 % | 95 | 43,2 % | +0,21 |
+| 10-25 % | 138 | 39,9 % | +0,17 |
+| **> 25 %** | **51** | **41,2 %** | **+0,18** |
+
+Y por subida en 30 velas: 0-25 % → +0,24R · 25-50 % → +0,25R · **50-100 % → −0,31R (n=29)** · >100 % → +0,24R.
+El único tramo malo es el intermedio (n=29, muestra corta). Conclusión operativa: **la vertical no descarta la
+compra; el tramo 50-100 % de subida en un mes sí obliga a reducir tamaño**. El caso QNT de septiembre era una
+anécdota, no una ley: con la prohibición puesta se habría perdido también la subida de HBAR en noviembre de
+2024 (0,090 → 0,392, +335 %).
 
 Medido sobre 964 días de QNT/USDT (Binance, 2023-2026):
 
@@ -180,6 +192,24 @@ Ejemplo numérico del caso QNT (25/10/2026): entrada **190,21**, stop **173,50**
 6. **Promediar a la baja** cuando el precio cierra bajo el mínimo de la caja.
 7. **Comprar porque «ya ha caído mucho»**: un −90 % puede ser un −95 %.
 
+## Vigencia: el método se comprueba antes de usarlo
+
+La ventaja **no es estable en el tiempo** y hay que mirarla antes de fiarse:
+
+| Periodo | n (V5) | Acierto | R medio |
+|---|--:|--:|--:|
+| Histórico completo (2,7 años) | 284 | 41,2 % | **+0,18** |
+| Últimos 12 meses | 64 | 32,8 % | **−0,03** |
+| Últimos 6 meses | 58 | 34,5 % | **+0,01** |
+
+Leído sin adornos: **en el último año el método no tiene ventaja medible**. Puede ser muestra corta (64
+operaciones), pero mientras no se demuestre lo contrario se usa como **filtro de calidad** (evita comprar
+contra tendencia), no como generador de esperanza. Comprobación obligatoria antes de operar:
+
+```bash
+python3 scripts/backtest_entradas.py --rr 2 --desde 2025-11-06
+```
+
 ## Backtest: qué versión aguanta (10 pares, 1.000 velas diarias, 2R)
 
 | Versión | n | Acierto | R medio |
@@ -193,6 +223,12 @@ Ejemplo numérico del caso QNT (25/10/2026): entrada **190,21**, stop **173,50**
 Con 1R: +0,03R · con 2R: +0,18R · con 3R: +0,21R → **objetivo 2R por defecto**. Riesgo medio de la vela de
 entrada: **7,3 %**, así que con 1 % de riesgo de cuenta el tamaño sería el 13,7 % del capital: hay que
 caparlo o bajar a 4 h. Reproducible: `python3 scripts/backtest_entradas.py --rr 2`.
+
+## Metarregla
+
+**Toda regla de esta skill lleva su `n`.** Si una regla no tiene muestra detrás (o la muestra es menor de 30
+operaciones), se escribe como **hipótesis**, no como prohibición. Las que hoy son hipótesis: el corte en 7/8
+para precompras, el tramo 50-100 % de subida mensual y la capa semanal de permiso.
 
 ## Lo que está medido y lo que no
 
