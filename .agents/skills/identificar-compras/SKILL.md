@@ -23,6 +23,9 @@ pagó 287 y perdió un 40 % en tres semanas.
 ## Paso 0 — datos (3 minutos)
 
 ```bash
+# backtest de la regla sobre 10 pares (¿sigue funcionando hoy?)
+python3 .agents/skills/identificar-compras/scripts/backtest_entradas.py --rr 2
+
 # un activo, tres temporalidades + %B y posición en la vela
 python3 .agents/skills/analisis-tecnico/scripts/informe_activo.py HBAR-USD
 
@@ -44,8 +47,10 @@ mismo formato) y Yahoo (`query2.finance.yahoo.com/v8/finance/chart`, sin crumb) 
 | Parabólica mensual | bajista ≠ prohibición, pero quita urgencia: la media manda |
 | Niveles del mes | máximo, mínimo y cierre del mes anterior: son los niveles grandes del año |
 
-**Regla dura:** si el precio está por debajo de la EMA20 mensual, **no hay compra, hay rebote**. Y un rebote
-se opera en diaria con objetivo pequeño, no con tesis de tendencia.
+**La mensual es CONTEXTO, no filtro.** El backtest (284 operaciones, 10 pares, ver
+`reports/revision-adversarial-entradas.md`) demuestra que el sesgo mensual **resta** esperanza (+0,01R
+frente a +0,11R sin él): deja fuera las mejores entradas. Sirve para saber si se puede operar en corto y
+para situar los niveles grandes, nada más. **El filtro que sí funciona es la EMA200 diaria** (Paso 3).
 
 ## Paso 2 — Zona (semanal): aquí está la caja
 
@@ -58,17 +63,16 @@ se opera en diaria con objetivo pequeño, no con tesis de tendencia.
 
 Ejemplo (QNT, oct-2026): caja **175-211**; comprar en 175-186, primer objetivo 211.
 
-## Paso 3 — Confirmación (diaria): las tres condiciones
+## Paso 3 — Confirmación (diaria): un solo filtro que funciona
 
-Se exige **confluencia**, no una señal sola. Dos «flips» de parabólica seguidos se deshacen (QNT: 26/10 y
-30/10) si no hay más cosas:
+**Filtro obligatorio: precio por encima de la EMA200 diaria.** Es el único que mejora la esperanza medida
+(41,2 % de acierto y **+0,18R** con él, frente a 38,3 % y +0,11R sin él). Debajo de la EMA200 no se compra:
+se está operando un rebote.
 
-1. **Cierre** por encima de **EMA9 y EMA20 diarias** (cierre, no mecha).
-2. **Parabólica diaria girada a alcista** (o ya alcista y precio por encima).
-3. **Nivel**: el cierre coincide con borde de caja, mínimo/máximo histórico, EMA50/200 o el mínimo del día
-   anterior.
-
-Si fallan dos de las tres, **no hay compra**: hay vigilancia.
+**Las tres condiciones de confluencia** (cierre sobre EMA9 y EMA20, parabólica girada a alcista, nivel de
+caja o histórico) siguen siendo útiles, pero **para añadir tamaño, no para entrar**: como filtro de entrada
+bajan la esperanza de +0,11R a +0,06R porque llegan tarde. Regla: la entrada la da la vela de entrada; la
+confluencia decide cuánto se carga en la segunda tanda.
 
 ## Paso 4 — Gatillo (4 horas): el precio de la entrada
 
@@ -83,7 +87,11 @@ La temporalidad de 4 h es la que permite **stop pequeño**:
 ## Paso 5 — La vela de entrada: el aviso llega un día antes
 
 **Definición:** vela con **mínimo superior al de la vela anterior** y **cierre positivo** (cierre > apertura),
-con **volumen > 1,5 × la media de 20 velas**.
+con **volumen > 1,5 × la media de 20 velas**, y **siempre con el precio sobre la EMA200 diaria**.
+
+**Prohibición de comprar vertical:** si el precio está a más de **2×ATR** por encima de la EMA20 diaria, la
+vela de entrada no se opera. Los dos −1R de QNT (29 y 30/09/2026, con volumen de 3,9× y 3,5×) vienen
+exactamente de ahí: en una subida vertical el volumen alto es distribución, no acumulación.
 
 Medido sobre 964 días de QNT/USDT (Binance, 2023-2026):
 
@@ -127,10 +135,24 @@ Ejemplo numérico del caso QNT (25/10/2026): entrada **190,21**, stop **173,50**
 6. **Promediar a la baja** cuando el precio cierra bajo el mínimo de la caja.
 7. **Comprar porque «ya ha caído mucho»**: un −90 % puede ser un −95 %.
 
+## Backtest: qué versión aguanta (10 pares, 1.000 velas diarias, 2R)
+
+| Versión | n | Acierto | R medio |
+|---|--:|--:|--:|
+| Control (cualquier día) | 3.176 | 27,7 % | −0,18 |
+| Vela de entrada + volumen | 535 | 38,3 % | +0,11 |
+| + sesgo mensual | 319 | 35,1 % | +0,01 |
+| + triple confirmación diaria | 274 | 36,9 % | +0,06 |
+| **+ EMA200 diaria** | **284** | **41,2 %** | **+0,18** |
+
+Con 1R: +0,03R · con 2R: +0,18R · con 3R: +0,21R → **objetivo 2R por defecto**. Riesgo medio de la vela de
+entrada: **7,3 %**, así que con 1 % de riesgo de cuenta el tamaño sería el 13,7 % del capital: hay que
+caparlo o bajar a 4 h. Reproducible: `python3 scripts/backtest_entradas.py --rr 2`.
+
 ## Lo que está medido y lo que no
 
-- **Medido y a favor:** la vela de entrada con volumen (tabla del Paso 5); los niveles del método se aciertan
-  con precisión de céntimos en intradía (16 de 19 comprobados en `predicciones.md`).
+- **Medido y a favor:** la vela de entrada con volumen **filtrada por EMA200** (tabla de arriba); los niveles
+  del método se aciertan con precisión de céntimos en intradía (16 de 19 comprobados en `predicciones.md`).
 - **Medido y en contra:** «la anomalía se cierra siempre» es una tautología (el precio vuelve al nivel del
   cruce el 93-99 % de las veces… igual que a cualquier nivel); «la primera vela decide la dirección» no
   predice nada al quitar el solape (51-55 %). Ver `revision-adversarial.md`.
