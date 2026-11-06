@@ -119,3 +119,8 @@ Este es el patrón, en el orden en que él lo ejecuta. Sirve para replicarlo sin
 `predicciones.md` recoge cada predicción con objetivo numérico y la contrasta con el precio real. Ese
 documento es el que decide si una regla de este método se adopta o se descarta; la frecuencia sola no
 basta, porque algo puede repetirse diez veces y estar mal diez veces.
+
+**Resultado ya medido (`revision-adversarial.md`):** de las dos reglas centrales, una es una tautología
+—el precio vuelve al nivel del cruce en el 93-99 % de los casos, igual que a cualquier otro nivel— y la
+otra pierde todo su poder al quitar el solape (51-55 %). Lo que se sostiene es el **proceso** (orden,
+ventanas, confluencia, ejecución), no las «leyes».

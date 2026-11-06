@@ -5,6 +5,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/analisis-tecnico/reports/revision-adversarial.md` | synthesis | finance | 2026-11-05 | Revisión adversarial del método de análisis técnico | [analisis-tecnico, revision-adversarial, veredicto, trading, evidencia] |
 | `finance/analisis-tecnico/reports/predicciones.md` | synthesis | finance | 2026-11-05 | Predicciones de las clases, contrastadas con el precio real | [analisis-tecnico, predicciones, verificacion, nvidia, bitcoin] |
 | `finance/analisis-tecnico/reports/metodo.md` | synthesis | finance | 2026-11-05 | El patrón de análisis: método, reglas y orden de trabajo | [analisis-tecnico, metodo, reglas, patron, trading, checklist] |
 | `finance/analisis-tecnico/reports/glosario.md` | reference | finance | 2026-11-05 | Glosario del método de Jesús Navarrete | [analisis-tecnico, glosario, vocabulario, trading] |
@@ -28,11 +29,15 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/reports/informe-canal-la-pizarra-de-andres-2026-10-30.md` | channel-report | finance | 2026-10-30 | Informe del canal La Pizarra de Andrés (2026-10-30) | [la-pizarra-de-andres, youtube, mercados, inversion] |
 | `finance/portfolio/cartera-myinvestor/cartera-actual.md` | portfolio-snapshot | finance | 2026-10-30 | Cartera actual — estado congelado a 30/10/2026 | [cartera, snapshot, myinvestor, rock, congelado] |
 | `finance/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/summary.md` | meeting-summary | finance | 2026-10-30 | Las empresas que todos ignoran son las mejores inversiones: entrevista a Javier Ruiz (Horos) | [value, horos, holdings, francia, naspers, tencent, pluxee, tgs, paypal, exor, inteligencia-artificial, renta-fija] |
+| `finance/analisis-tecnico/videos/2026-10-29-modelo-delta-neutral/summary.md` | meeting-summary | finance | 2026-10-29 | Modelo Delta Neutral: 3 Fases para Leer el Mercado | [analisis-tecnico, trading, delta-neutral, opciones, error-conceptual] |
+| `finance/analisis-tecnico/videos/2026-10-29-ley-estelar/summary.md` | meeting-summary | finance | 2026-10-29 | Leyes Estelares: El Método Cuantitativo para Detectar Reversiones | [analisis-tecnico, trading, leyes-estelares, fractales, confluencia] |
+| `finance/analisis-tecnico/videos/2026-10-29-ley-de-polaridad/summary.md` | meeting-summary | finance | 2026-10-29 | Ley de Polaridad en Trading: La Señal Clave de Apertura | [analisis-tecnico, trading, polaridad, bandas-de-bollinger, apertura] |
 | `finance/analisis-tecnico/videos/2026-10-28-nvidia-28-octubre/summary.md` | meeting-summary | finance | 2026-10-28 | 28 de Octubre del 2026, Nvidia, Trading Salvaje con Jesús Navarrete | [analisis-tecnico, trading, nvidia, semiconductores, fed, premarket, ema, sideline] |
 | `finance/analisis-tecnico/videos/2026-10-28-bitcoin-28-octubre/summary.md` | meeting-summary | finance | 2026-10-28 | 28 de Octubre del 2026, La Bitcoin Anticipación | [analisis-tecnico, trading, bitcoin, criptomonedas, fed, velas-mensuales, ema, fibonacci] |
 | `finance/analisis-tecnico/videos/2026-10-26-nvidia-26-octubre/summary.md` | meeting-summary | finance | 2026-10-26 | 26 de Octubre del 2026, Nvidia, Trading Salvaje con Jesús Navarrete | [analisis-tecnico, trading, nvidia, nvda, day-trading, apertura, emas, parabolicas] |
 | `finance/analisis-tecnico/videos/2026-10-26-bitcoin-26-octubre/summary.md` | meeting-summary | finance | 2026-10-26 | 26 de Octubre del 2026, La Bitcoin Anticipación | [analisis-tecnico, trading, bitcoin, cripto, velas-mensuales, parabolicas, hombro-cabeza-hombro] |
 | `finance/la-pizarra-de-andres/2026-10-25-la-renta-fija-puede-salvarnos-en-estos-momentos-abaco-capital/summary.md` | meeting-summary | finance | 2026-10-25 | La Pizarra de Andrés: renta fija, estanflación y la oportunidad que espera en el | [finance, meeting, transcript] |
+| `finance/analisis-tecnico/videos/2026-10-24-tercios-operativos/summary.md` | meeting-summary | finance | 2026-10-24 | 3 Tercios Operativos: Estrategia de Trading Paso a Paso | [analisis-tecnico, trading, tercios, sesion, nvidia] |
 | `finance/la-pizarra-de-andres/2026-10-23-la-actualidad-de-los-mercados-financieros-refleja-un-elevado-riesgo/summary.md` | meeting-summary | finance | 2026-10-23 | La Pizarra de Andrés: la actualidad refleja un riesgo elevado | [finance, meeting, transcript] |
 | `finance/reports/auditoria-2026-10-22-gestor-renta-4.md` | revision | finance | 2026-10-22 | Auditoría adversarial del resumen de Renta 4 (2026-10-22) | [renta-4, revision] |
 | `finance/la-pizarra-de-andres/2026-10-22-gestor-de-renta-4-advierte-sobre-una-gran-recesion/summary.md` | meeting-summary | finance | 2026-10-22 | Gestor de Renta 4 advierte sobre una gran recesión | [finance, meeting, transcript] |
@@ -54,6 +59,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/analisis-tecnico/videos/2024-08-09-5-modelos-aperturas-cierres/summary.md` | meeting-summary | finance | 2024-08-09 | Revisión de los 5 modelos de aperturas y cierres (clase en vivo) | [analisis-tecnico, trading, velas, ema, parabolic-sar, aperturas, modelos] |
 | `finance/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 48
+**Total de artefactos indexados:** 53
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

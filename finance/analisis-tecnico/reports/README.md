@@ -27,12 +27,16 @@ finance/analisis-tecnico/
 | `glosario.md` | Qué significa cada término que usa el autor, con la clase y el minuto donde aparece | Al añadir clases con vocabulario nuevo |
 | `metodo.md` | El patrón de análisis completo, regla a regla, con la frecuencia que respalda cada una | Al añadir clases; es el documento de trabajo |
 | `predicciones.md` | Cada predicción con su nivel, su condición y **qué pasó de verdad** en el precio | Al vencer cada horizonte |
+| `revision-adversarial.md` | Si el método aguanta: pruebas con datos de sus dos reglas centrales, errores de concepto y qué se queda y qué se descarta | Al añadir reglas o cerrar una muestra |
 
 ## Estado del corpus
 
 - **10 clases** (26/10/2026 – 04/11/2026) de las dos series del canal: «Nvidia, Trading Salvaje» y
   «Bitcoin Anticipation».
 - **1 clase de referencia** anterior (09/08/2024), la de los cinco modelos de aperturas y cierres.
+- **4 piezas explicativas** (24 y 29/10/2026): tercios operativos, ley de polaridad, leyes estelares y
+  «delta neutral». Son guiones comerciales de 6-10 min, pero contienen las definiciones que las clases
+  dan por sabidas — y uno de ellos comete un error de categoría documentado en la revisión.
 - Todas sin etiquetas de hablante: se atribuyen a Jesús Navarrete.
 - Transcripciones automáticas con errores sistemáticos en las cifras (documentados en cada `summary.md`).
 
