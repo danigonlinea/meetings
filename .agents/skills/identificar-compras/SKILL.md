@@ -7,8 +7,8 @@ description: Usar cuando haya que decidir si un activo (cripto o acción) está 
 
 Cripto o acciones, con velas de **mensual, semanal, diaria y 4 horas**. La regla que ordena todo:
 
-> **La mensual dice SI puedes comprar. La semanal dice DÓNDE. La diaria CONFIRMA. La de 4 horas dice
-> CUÁNDO, y es la que fija el stop pequeño.**
+> **La EMA200 diaria y la vela de entrada deciden SI. La semanal dice DÓNDE. La mensual solo da contexto.
+> La de 4 horas dice CUÁNDO, y es la que fija el stop pequeño.**
 
 Nunca se invierte ese orden y nunca se compra mirando una sola temporalidad. El caso que lo demuestra:
 QNT en septiembre de 2026 hizo un 6x (58,75 → 373) y quien compró «porque la mensual era alcista» al cierre
@@ -38,7 +38,7 @@ mismo formato) y Yahoo (`query2.finance.yahoo.com/v8/finance/chart`, sin crumb) 
 **Comprueba la longitud de la serie antes de opinar:** sin 20 velas mensuales no hay EMA20 mensual, y sin
 200 diarias no hay EMA200.
 
-## Paso 1 — Sesgo (mensual): solo dice si se permite comprar
+## Paso 1 — Contexto (mensual): no es filtro de entrada
 
 | Qué se mira | Regla |
 |---|---|
