@@ -11,6 +11,12 @@ description: Usar cuando el dueño pida velas (mensuales, semanales o diarias), 
 «¿el gráfico acompaña o contradice la tesis?». La respuesta es **una tabla con las velas y los
 indicadores**, más dos líneas de lectura. No es una recomendación de compra.
 
+## Para decidir una compra
+
+Este archivo calcula indicadores. **Para el protocolo de entrada** —sesgo mensual, caja semanal, confirmación
+diaria, gatillo de 4 h, vela de entrada con volumen, R/R mínimo y las siete prohibiciones— usar la skill
+`identificar-compras`.
+
 ## Script
 
 `.agents/skills/analisis-tecnico/scripts/tecnicos.py` — solo stdlib, sin pandas ni TA-Lib.
