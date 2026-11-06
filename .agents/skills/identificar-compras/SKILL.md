@@ -26,6 +26,9 @@ pagó 287 y perdió un 40 % en tres semanas.
 # backtest de la regla sobre 10 pares (¿sigue funcionando hoy?)
 python3 .agents/skills/identificar-compras/scripts/backtest_entradas.py --rr 2
 
+# puntuación de confluencia día a día (¿cuándo exactamente?)
+python3 .agents/skills/identificar-compras/scripts/puntuacion_confluencia.py QNTUSDT --desde 2026-10-01 --hasta 2026-10-30
+
 # un activo, tres temporalidades + %B y posición en la vela
 python3 .agents/skills/analisis-tecnico/scripts/informe_activo.py HBAR-USD
 
@@ -73,6 +76,48 @@ se está operando un rebote.
 caja o histórico) siguen siendo útiles, pero **para añadir tamaño, no para entrar**: como filtro de entrada
 bajan la esperanza de +0,11R a +0,06R porque llegan tarde. Regla: la entrada la da la vela de entrada; la
 confluencia decide cuánto se carga en la segunda tanda.
+
+## Paso 3 bis — Puntuación de confluencia (el marcador de 8)
+
+Cuando la pregunta es «¿cuándo exactamente?», se puntúa cada día con ocho casillas y se busca el día en que
+se encienden todas. Script: `scripts/puntuacion_confluencia.py`.
+
+| # | Condición |
+|--:|---|
+| 1 | Precio > **EMA200** diaria |
+| 2 | Precio > **EMA20** diaria |
+| 3 | Precio > **EMA50** diaria |
+| 4 | **EMA3 > EMA9** diaria |
+| 5 | **Parabólica** diaria alcista |
+| 6 | **Vela de entrada** (mínimo > anterior y cierre > apertura) |
+| 7 | **Volumen > 1,5×** la media de 20 |
+| 8 | **4 h alineada**: ≥80 % de las barras del día sobre su EMA20 y con SAR alcista |
+
+**Cómo se lee el marcador:**
+
+| Score | Lectura |
+|---|---|
+| **8/8** | momento certificado: es el día de la compra |
+| 7/8 | zona de compra; se espera a que cierre la casilla que falta |
+| 5-6/8 | vigilancia. No se compra |
+| ≤4/8 | no hay nada que hacer |
+
+**Dos reglas que valen más que el score:**
+
+1. **La de 4 h sola es ruido.** El 21/10/2026 en QNT tenía la de 4 h al 100 % (6 de 6 barras) y el día
+   siguiente el precio perdió la EMA9 y cayó un 9 %. Le faltaban la EMA20 diaria, la parabólica y el
+   volumen: **4/8**. Sin la diaria completa, la de 4 h no habilita nada.
+2. **Distancia a la EMA20: si supera el ~25 %, la subida es vertical y no se compra** aunque el score sea
+   alto. El 1-6 de octubre QNT puntuaba 6/8 todos los días, pero el precio estaba **+63 % sobre su EMA20**
+   (245,48 frente a 150,98) y el volumen ya se apagaba: era la cola de la subida de septiembre.
+
+**Caso resuelto (QNT, octubre de 2026):** 30 días, un solo 8/8 —el **26/10**, cierre 204,01, con EMA3
+cruzando sobre EMA9 por 32 centavos, parabólica girando en 173,56, volumen 1,8× y las 6 barras de 4 h
+alineadas—. El segundo mejor día del mes fue 5/8. Detalle: `reports/analisis-qnt-octubre-2026-11-06.md`.
+
+**Capa de permiso (semanal):** si la semanal mantiene `EMA3 > EMA9 > EMA20 > EMA50` con parabólica alcista,
+la corrección en diaria es **zona de compra**; si la semanal ya está girada, no hay compra aunque el día
+puntee 8/8, porque se está comprando contra la tendencia mayor.
 
 ## Paso 4 — Gatillo (4 horas): el precio de la entrada
 
@@ -162,8 +207,13 @@ caparlo o bajar a 4 h. Reproducible: `python3 scripts/backtest_entradas.py --rr 
 
 Un informe corto con: **(1)** tabla de las cuatro temporalidades (orden de medias, parabólica, %B, distancia
 a EMA20); **(2)** la caja y sus dos bordes; **(3)** el veredicto en una línea —compra / espera / no—;
-**(4)** la tabla de disparadores con nivel, condición y estado; **(5)** stop, objetivos y R/R; **(6)** los
-avisos de datos (serie corta, mínimos contaminados por el listado, exchange distinto).
+**(4)** el **marcador de 8** del día en curso (y del día anterior, para ver el cambio); **(5)** la tabla de
+disparadores con nivel, condición y estado; **(6)** stop, objetivos y R/R; **(7)** los avisos de datos
+(serie corta, mínimos contaminados por el listado, exchange distinto).
+
+**Si la pregunta es «¿cuándo debería haber comprado?»** (un mes pasado, una caída concreta), la entrega es
+la tabla día a día del §Paso 3 bis con el score, los dos mejores días y las trampas descartadas con su
+motivo numérico. Ejemplo exacto: `reports/analisis-qnt-octubre-2026-11-06.md`.
 Modelo: `finance/analisis-tecnico/reports/analisis-qnt-entrada-2026-11-06.md`.
 
 ## Pitfalls
