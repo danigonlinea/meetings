@@ -145,7 +145,24 @@ HBAR el 16/11/2024 cerró a 0,090, un 107 % sobre su EMA20, y llegó a 0,392 en 
 Con 64 operaciones no se puede afirmar que el método haya muerto, pero tampoco que esté vivo. Mientras no se
 demuestre, se usa como filtro de calidad y no como fuente de esperanza. Comando nuevo: `--desde 2025-11-06`.
 
-## 8. Límites de esta revisión
+## 8. Control del marcador de 8 casillas (¿mejora comprar al azar?)
+
+La prueba que faltaba: comparar los días 8/8 contra **comprar cualquier día** con la misma salida (cierre a 60
+velas), en dos activos distintos de los que se usaron para construirlo.
+
+| Activo | Grupo | n | Mediana a 60 velas | % positivo |
+|---|---|--:|--:|--:|
+| PEPE/USDT | cualquier día | 1.022 | −0,9 % | 49 % |
+| PEPE/USDT | **8/8** | 34 | **+6,7 %** | 53 % |
+| HBAR/USDT | cualquier día | 837 | −11,0 % | 31 % |
+| HBAR/USDT | **8/8** | 21 | **−1,5 %** | 43 % |
+
+**Lo que dice:** el marcador **mejora sistemáticamente al azar** en las tres muestras (aquí y en los +0,18R
+frente a −0,18R de los diez pares), con una mejora de +7,6 y +9,5 puntos de mediana. **Lo que no dice:** que
+la compra gane dinero. En HBAR la mediana del 8/8 sigue siendo **negativa** y el acierto se queda en el 43-53 %,
+que es una moneda al aire jugada con cola gorda.
+
+## 9. Límites de esta revisión
 
 - **2,7 años y un solo ciclo** (un mercado alcista con una corrección): no cubre 2018 ni 2022.
 - **Cinco variantes probadas y elegida la mejor**: es el riesgo clásico de *data snooping*. Que V5 gane en
