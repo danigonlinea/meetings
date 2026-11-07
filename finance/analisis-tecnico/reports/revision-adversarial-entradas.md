@@ -7,6 +7,14 @@ tags: [analisis-tecnico, revision-adversarial, backtest, cripto, identificar-com
 status: living
 ---
 
+> **Aviso de medición corregida (PR #2, 07/11/2026).** Los números de este documento son de la primera
+> versión del script. Al auditar el código aparecieron tres defectos que movían el resultado: look-ahead en el
+> sesgo mensual (usaba el mes en curso), la media de volumen incluía la vela de la señal, y el calentamiento de
+> la EMA200 arrancaba demasiado pronto. Medición corregida: **V5 n=513, +0,22R, 165 episodios, IC95 [+0,02,
+> +0,44]**, control −0,12R, y **−0,00R en los últimos 12 meses**. Con 0,2 % de costes: +0,18R. La conclusión
+> no cambia —ventaja fina y apagada en el último año, el 8/8 ordena pero no decide— pero **las cifras de abajo
+> están obsoletas**; las vigentes están en `.agents/skills/identificar-compras/SKILL.md`.
+
 # Revisión adversarial del método de compras
 
 Objeto: la skill `identificar-compras` (embudo mensual → semanal → diaria → 4 h, vela de entrada con
