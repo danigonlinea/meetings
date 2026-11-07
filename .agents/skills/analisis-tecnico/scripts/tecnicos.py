@@ -9,6 +9,7 @@ Uso:
 Calcula, sin dependencias externas (solo stdlib):
   - EMA 3, 9 y 20 sobre el cierre (configurable con --emas)
   - Parabolic SAR de Wilder (paso 0,02 / máximo 0,20)
+  - Bandas de Bollinger SMA(20) ± 2σ con %B y ancho en % (configurable con --bb)
 
 Los precios vienen de query2.finance.yahoo.com/v8/finance/chart, que NO necesita
 crumb ni cookies (a diferencia de quoteSummary). Los precios están ajustados por
@@ -44,6 +45,11 @@ def fetch(symbol, rng, interval):
         })
     # Yahoo a veces repite el mes en curso como dos barras (la del mes y la del
     # último precio). Se fusionan: apertura de la primera, cierre de la última.
+    # Ojo: la clave depende de la temporalidad. Agrupar por mes en semanal o diaria
+    # aplastaba 260 velas semanales de 5 años en 61 — la serie quedaba falsa.
+    clave = "%Y-%m" if interval == "1mo" else "%Y-%m-%d"
+    for r in rows:
+        r["date"] = time.strftime(clave, time.gmtime(r["ts"]))
     merged = []
     for r in rows:
         if merged and merged[-1]["date"] == r["date"]:
@@ -120,6 +126,56 @@ def psar(high, low, step=0.02, max_af=0.20):
     return sar, bull
 
 
+def bollinger(closes, period=20, mult=2.0):
+    """Bandas de Bollinger clásicas: SMA(period) ± mult · desviación típica poblacional.
+
+    Devuelve dict con listas alineadas al cierre:
+      media[], sup[], inf[], pct_b[] (posición dentro de la banda, 0-100),
+      ancho[] (anchura de la banda en % del precio: la medida de volatilidad/riesgo).
+    %B y ancho son adimensionales: sirven igual en una acción de 300 que en un cripto
+    de 0,000005. La desviación es poblacional (pstdev), que es la convención de Bollinger
+    y la que usa el gráfico.
+    """
+    n = len(closes)
+    media = [None] * n
+    sup = [None] * n
+    inf = [None] * n
+    pct_b = [None] * n
+    ancho = [None] * n
+    if n < period:
+        return {"media": media, "sup": sup, "inf": inf, "pct_b": pct_b, "ancho": ancho}
+    for i in range(period - 1, n):
+        w = closes[i - period + 1:i + 1]
+        m = sum(w) / period
+        var = sum((x - m) ** 2 for x in w) / period
+        sd = var ** 0.5
+        media[i], sup[i], inf[i] = m, m + mult * sd, m - mult * sd
+        rng = sup[i] - inf[i]
+        pct_b[i] = (closes[i] - inf[i]) / rng * 100 if rng else None
+        ancho[i] = rng / m * 100 if m else None
+    return {"media": media, "sup": sup, "inf": inf, "pct_b": pct_b, "ancho": ancho}
+
+
+def percentil(valores, x):
+    """Percentil (0-100) de x dentro de la serie, para leer si el ancho es compresión
+    o expansión respecto a su propia historia. Sin numpy: ordenar y contar."""
+    v = [y for y in valores if y is not None]
+    if not v or x is None:
+        return None
+    menores = sum(1 for y in v if y < x)
+    return menores / (len(v) - 1) * 100 if len(v) > 1 else 0.0
+
+
+def regimen_volatilidad(pct):
+    if pct is None:
+        return None
+    if pct <= 25:
+        return "compresión (squeeze)"
+    if pct >= 75:
+        return "expansión"
+    return "normal"
+
+
 def dec_for(price: float) -> int:
     """Decimales según la magnitud: 5 para cripto barata, 3 para <10, 2 para el resto."""
     if price < 1:
@@ -142,6 +198,8 @@ def main():
     ap.add_argument("--tail", type=int, default=10)
     ap.add_argument("--step", type=float, default=0.02)
     ap.add_argument("--max-af", type=float, default=0.20)
+    ap.add_argument("--bb", default="20,2",
+                    help="Bandas de Bollinger: periodo,multiplicador (por defecto 20,2)")
     ap.add_argument("--json", action="store_true")
     a = ap.parse_args()
 
@@ -156,8 +214,21 @@ def main():
     emas = {p: ema(closes, p) for p in periods}
     sar, bull = psar(highs, lows, a.step, a.max_af)
 
+    try:
+        bb_period, bb_mult = a.bb.split(",")
+        bb_period, bb_mult = int(bb_period), float(bb_mult)
+    except ValueError:
+        sys.exit("--bb se escribe periodo,multiplicador (p. ej. 20,2)")
+    if bb_period < 2:
+        sys.exit("--bb: el periodo mínimo son 2 velas")
+    bb = bollinger(closes, bb_period, bb_mult)
+
     last = len(rows) - 1
     price = closes[last]
+    # percentil del ancho contra su propia historia (200 velas previas, sin la actual):
+    # es lo que dice si la volatilidad está comprimida o expandida, no el ancho en sí
+    ventana = bb["ancho"][max(0, last - 200):last]
+    pct_ancho = percentil(ventana, bb["ancho"][last])
     res = {
         "symbol": meta.get("symbol", a.symbol),
         "interval": a.interval,
@@ -167,6 +238,14 @@ def main():
         "emas": {f"ema{p}": emas[p][last] for p in periods},
         "sar": sar[last],
         "sar_trend": "alcista" if bull[last] else "bajista",
+        "bb": {
+            "periodo": bb_period, "mult": bb_mult,
+            "media": bb["media"][last], "sup": bb["sup"][last], "inf": bb["inf"][last],
+            "pct_b": bb["pct_b"][last], "ancho_pct": bb["ancho"][last],
+            "ancho_percentil": pct_ancho,
+            "regimen": regimen_volatilidad(pct_ancho),
+            "posicion_en_banda": "superior" if (bb["pct_b"][last] or 0) > 50 else "inferior",
+        },
     }
     # velas desde el último giro del SAR
     flips = [i for i in range(1, len(rows)) if bull[i] != bull[i - 1]]
@@ -182,16 +261,26 @@ def main():
     print(f"Precio {fmt(price)}  |  " +
           "  ".join(f"EMA{p} {fmt(emas[p][last])}" for p in periods) +
           f"  |  SAR {fmt(sar[last])} ({res['sar_trend']})")
+    b = res["bb"]
+    print(f"Bollinger ({bb_period},{bb_mult:g}σ)  {fmt(b['inf'])} – {fmt(b['sup'])}"
+          f"  |  media {fmt(b['media'])}"
+          f"  |  ancho {b['ancho_pct']:.1f} % del precio"
+          f"  |  %B {b['pct_b']:.0f} %  |  ancho pctl {b['ancho_percentil']:.0f}"
+          f" ({b['regimen']})")
     print()
     head = f"{'fecha':<12}{'open':>10}{'high':>10}{'low':>10}{'close':>10}" + \
-           "".join(f"{'EMA'+str(p):>10}" for p in periods) + f"{'SAR':>10}{'tend':>8}"
+           "".join(f"{'EMA'+str(p):>10}" for p in periods) + \
+           f"{'SAR':>10}{'tend':>8}{'BBinf':>11}{'BBsup':>11}{'%B':>6}"
     print(head)
     print("-" * len(head))
     for i in range(max(0, len(rows) - a.tail), len(rows)):
+        pb = bb["pct_b"][i]
+        pb_txt = "—" if pb is None else f"{pb:.0f}"
         print(f"{rows[i]['date']:<12}{rows[i]['o']:>10.2f}{rows[i]['h']:>10.2f}"
               f"{rows[i]['l']:>10.2f}{rows[i]['c']:>10.2f}" +
               "".join(f"{fmt(emas[p][i]):>10}" for p in periods) +
-              f"{fmt(sar[i]):>10}{('alcista' if bull[i] else 'bajista'):>8}")
+              f"{fmt(sar[i]):>10}{('alcista' if bull[i] else 'bajista'):>8}"
+              f"{fmt(bb['inf'][i]):>11}{fmt(bb['sup'][i]):>11}{pb_txt:>6}")
 
     # señales de una línea
     print()
@@ -203,6 +292,12 @@ def main():
     if res["sar_flip_date"]:
         print(f"Último giro del SAR: {res['sar_flip_date']} "
               f"({res['bars_since_flip']} velas desde el giro)")
+    print(f"Bollinger — suelo {fmt(b['inf'])} · techo {fmt(b['sup'])} · "
+          f"rango {b['ancho_pct']:.1f} % del precio"
+          f" · precio en la mitad {b['posicion_en_banda']} (%B {b['pct_b']:.0f} %)")
+    print(f"Volatilidad: {b['regimen']} — el ancho está en el percentil "
+          f"{b['ancho_percentil']:.0f} de las últimas {len(ventana)} velas. "
+          f"Describe; no predice.")
 
 
 if __name__ == "__main__":
