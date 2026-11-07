@@ -19,26 +19,27 @@ cierre pagó 287 y perdió un 40 % en tres semanas.
 - «¿Está en buen punto de compra?» / «búscame la entrada» / «¿dónde compro?».
 - Antes de abrir cualquier posición, también si la idea viene de una recomendación externa.
 - **No** se usa para decidir cuánto comprar (eso es gestión de cuenta) ni para predecir el precio.
+- **No hace cálculos de ventaja.** Ni backtests, ni barridos de pares, ni comparaciones: eso es
+  `medir-metodo-compras` y solo corre a petición del dueño. Aquí se leen indicadores y se decide la entrada.
 
 ## Paso 0 — datos (3 minutos)
 
+**Se calcula solo lo del activo que se pregunta.** No hay barridos, ni backtests, ni comparaciones de pares
+en esta skill: la ventaja de la regla se mide aparte, en `medir-metodo-compras`, y **solo si el dueño lo pide**.
+
 ```bash
-# ¿sigue funcionando la regla hoy? (10 pares, sin costes por defecto)
-python3 .agents/skills/identificar-compras/scripts/backtest_entradas.py --rr 2
-python3 .agents/skills/identificar-compras/scripts/backtest_entradas.py --rr 2 --ultimos-meses 12
-python3 .agents/skills/identificar-compras/scripts/backtest_entradas.py --rr 2 --coste 0.2
-
-# marcador día a día (¿cuándo exactamente?) — Binance y, si el par no está, MEXC
-python3 .agents/skills/identificar-compras/scripts/puntuacion_confluencia.py QNTUSDT --desde 2026-10-01 --hasta 2026-10-30
-
 # un activo, tres temporalidades + %B y posición en la vela
 python3 .agents/skills/analisis-tecnico/scripts/informe_activo.py HBAR-USD
 
-# varios pares /USDT de golpe
+# marcador día a día del activo preguntado (¿cuándo exactamente?) — Binance y, si el par no está, MEXC
+python3 .agents/skills/identificar-compras/scripts/puntuacion_confluencia.py QNTUSDT --desde 2026-10-01 --hasta 2026-10-30
+
+# varios pares /USDT de golpe, solo si pide varios de golpe
 python3 .agents/skills/analisis-tecnico/scripts/informe_batch.py HYPEUSDT QNTUSDT
 ```
 
-`--ultimos-meses N` cuenta desde hoy: no caduca como una fecha escrita a mano.
+**Los indicadores se leen, no se remiden.** Las cifras de esta skill (n, R medio) son referencia histórica:
+repetirlas cuesta minutos y no cambia la decisión del día.
 
 **Comprueba la longitud de la serie antes de opinar.** El marcador pide **50 velas mensuales** (la tabla
 del Paso 1 usa la EMA50 mensual; con 20 solo hay EMA20), **200 velas diarias** para la EMA200 y **200 más
@@ -236,45 +237,17 @@ cuenta el tamaño sería el 14,5 % del capital, así que hay que caparlo o bajar
 6. **Promediar a la baja** cuando el precio cierra bajo el mínimo de la caja.
 7. **Comprar porque «ya ha caído mucho»**: un −90 % puede ser un −95 %.
 
-## Vigencia: el método se comprueba antes de usarlo
-
-La ventaja **no es estable en el tiempo**:
+## La ventaja medida (referencia, no tarea de esta skill)
 
 | Periodo | n (V5) | Episodios | Acierto | R medio |
 |---|--:|--:|--:|--:|
 | Histórico completo (~3,3 años) | 513 | 165 | 42,3 % | **+0,22** |
 | Últimos 12 meses | 65 | 23 | 33,8 % | **−0,00** |
-| Últimos 6 meses | 59 | 18 | 35,6 % | +0,05 |
-| Control (cualquier día), últimos 12 meses | 1.147 | 170 | 28,2 % | −0,17 |
+| Control, últimos 12 meses | 1.147 | 170 | 28,2 % | −0,17 |
 
-Leído sin adornos: **en el último año la regla no tiene ventaja absoluta**, pero sigue batiendo al control
-(−0,00 frente a −0,17 en el mismo mercado). Con 65 operaciones y 23 episodios no se puede afirmar que esté
-rota ni que funcione: se usa como **filtro de calidad** (evita comprar contra tendencia y sin volumen), no
-como generador de esperanza. Comprobación obligatoria antes de operar:
-
-```bash
-python3 .agents/skills/identificar-compras/scripts/backtest_entradas.py --rr 2 --ultimos-meses 12
-```
-
-## Backtest: qué versión aguanta (10 pares, 1.600 velas diarias, horizonte 20, 2R, sin costes)
-
-| Versión | n | Episodios | Acierto | R medio |
-|---|--:|--:|--:|--:|
-| Control (un día de cada tres) | 3.926 | 570 | 29,1 % | −0,14 |
-| Vela de entrada + volumen | 781 | 271 | 40,7 % | +0,18 |
-| + sesgo mensual (mes cerrado) | 463 | 162 | 39,7 % | +0,14 |
-| + triple confirmación diaria | 411 | 138 | 41,4 % | +0,19 |
-| **+ EMA200 diaria (V5)** | **513** | **165** | **42,3 %** | **+0,22** |
-
-Las filas **no son un escalón acumulativo**: V3 y V4 llevan el sesgo mensual, V5 no (es V2 + EMA200). Para
-comparar hay que mirar cada fila contra V2, no como suma de la anterior.
-
-Con 1R: +0,10R · con 2R: +0,22R · con 3R: +0,31R → **objetivo 2R por defecto** (el 3R da más R medio con
-menos acierto: 37 % frente a 42 %). Reproducible: `python3 .agents/skills/identificar-compras/scripts/backtest_entradas.py --rr 2`.
-
-**La ventaja no está repartida por igual** (V5, R medio por par): BTC +0,49 (52) · SOL +0,47 (54) ·
-AVAX +0,31 (34) · XRP +0,27 (56) · LINK +0,21 (54) · DOGE +0,19 (54) · ADA +0,17 (47) · BNB +0,14 (69) ·
-ETH +0,12 (49) · **QNT −0,16 (44)**. Nueve de diez pares en positivo, ninguno enorme: es un edge fino.
+Ventaja **fina y apagada en el último año**: bate al control, pero no genera esperanza por sí sola. Se usa como
+filtro de calidad. **No se recalcula aquí**: el backtest vive en `medir-metodo-compras` y se ejecuta solo si el
+dueño lo pide («mídelo», «¿sigue funcionando?»). Esta skill no lo lanza por iniciativa propia.
 
 ## Metarregla
 

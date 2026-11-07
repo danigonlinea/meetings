@@ -11,11 +11,21 @@ description: Usar cuando el dueño pida velas (mensuales, semanales o diarias), 
 «¿el gráfico acompaña o contradice la tesis?». La respuesta es **una tabla con las velas y los
 indicadores**, más dos líneas de lectura. No es una recomendación de compra.
 
+## Frontera: qué se calcula aquí y qué no
+
+| Pregunta | Skill | Calcula |
+|---|---|---|
+| «¿Cómo está X?» · velas, EMAs, SAR, régimen | **esta** | solo indicadores del activo preguntado |
+| «¿Está en punto de compra?» · entrada y niveles | `identificar-compras` | marcador del activo preguntado |
+| «¿Esta regla tiene ventaja?» · backtest, `n`, vigencia | `medir-metodo-compras` | **solo si el dueño lo pide** |
+
+**Regla dura: esta skill no lanza backtests, ni mediciones, ni barridos.** Si hacen falta, se dice qué skill
+los tiene y se espera a que el dueño lo pida. Un análisis técnico se entrega en una tabla, no en una simulación.
+
 ## Para decidir una compra
 
-Este archivo calcula indicadores. **Para el protocolo de entrada** —sesgo mensual, caja semanal, confirmación
-diaria, gatillo de 4 h, vela de entrada con volumen, R/R mínimo y las siete prohibiciones— usar la skill
-`identificar-compras`.
+Este archivo calcula indicadores. **Para el protocolo de entrada** —gate de EMA200, marcador de 8, caja
+semanal, vela de entrada con volumen, R/R mínimo y las prohibiciones— usar la skill `identificar-compras`.
 
 ## Script
 

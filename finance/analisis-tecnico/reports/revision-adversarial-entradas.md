@@ -19,7 +19,7 @@ status: living
 
 Objeto: la skill `identificar-compras` (embudo mensual → semanal → diaria → 4 h, vela de entrada con
 volumen, confluencia y R/R). Prueba: **backtest mecánico sobre 10 pares /USDT** de Binance, 1.000 velas
-diarias por par (≈ 2,7 años: 2023-11 a 2026-11). Script: `.agents/skills/identificar-compras/scripts/backtest_entradas.py`.
+diarias por par (≈ 2,7 años: 2023-11 a 2026-11). Script: `.agents/skills/medir-metodo-compras/scripts/backtest_entradas.py`.
 Reproducible con `python3 backtest_entradas.py --rr 2`.
 
 **Veredicto en una línea:** el método **tiene ventaja real pero fina** (+0,18R por operación en su mejor
