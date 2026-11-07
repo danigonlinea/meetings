@@ -1,6 +1,6 @@
 ---
-name: identificar-compras
-description: Usar cuando haya que decidir si un activo (cripto o acción) está en momento de compra y con qué niveles, bajando de mensual a semanal, diaria y 4 horas. Un gate medido decide la entrada; el marcador de 8 y el resto de capas ordenan tamaño. Cada regla lleva su n.
+name: trading-action
+description: Decidir compra, venta o espera: gate medido y reparto por tipo de trader.
 ---
 
 # Identificar momentos de compra (multi-temporal)
@@ -13,6 +13,42 @@ Cripto o acciones, con velas de **mensual, semanal, diaria y 4 horas**. La regla
 Nunca se invierte ese orden y nunca se compra mirando una sola temporalidad. El caso que lo demuestra:
 QNT en septiembre de 2026 hizo un 6x (58,75 → 373) y quien compró «porque la mensual era alcista» al
 cierre pagó 287 y perdió un 40 % en tres semanas.
+
+## Qué eres antes de decidir: los cuatro tipos
+
+Toda decisión de esta skill se toma **desde un tipo de trader**, no en abstracto. El mismo gráfico da
+decisiones distintas según cuánto tiempo aguantas la posición:
+
+| Tipo | Duración | Qué decide | Tiempo exigido | Skill |
+|---|---|---|---|---|
+| **Scalping** | segundos-minutos | entradas repetidas; el coste manda | muy alto | `trader-scalping` |
+| **Day trading** | minutos-horas | dentro de la sesión, sin overnight | alto | `trader-day-trading` |
+| **Swing** | días-semanas | la oscilación; **única con ventaja medida** | moderado | `trader-swing` |
+| **Position** | semanas-meses | el ciclo; mensual y semanal | bajo-moderado | `trader-position` |
+
+**Si el dueño no dice su tipo**, se pregunta o se asume el que declare su horizonte. Nunca se contesta «compra»
+sin decir **desde qué horizonte** se está comprando: es la mitad de la respuesta.
+
+Cómo cambia la misma señal según el tipo (HBAR, 07/11/2026):
+
+- **Scalping / day trading:** el gráfico no habilita nada; el coste (0,10 %) y el ATR(5 m) no cuadran.
+- **Swing:** no hay gate (precio −19,8 % bajo la EMA200 diaria): **esperar**.
+- **Position:** ciclo bajista (−34,4 % bajo la EMA20 mensual): **esperar**, y no confundir con «está barato».
+
+## Base: trader de futuros
+
+La skill está escrita para **futuros** (perpetuos y trimestrales). Tres cosas que el gráfico no dice y que
+deciden más que el gráfico:
+
+1. **Funding**: cargo o abono cada 8 h. A 0,01 %, son **11 % anual**; una posición de dos semanas paga 0,42 %.
+   Se resta del R/R **antes** de entrar.
+2. **Open interest y liquidaciones**: OI alto con funding neutro se deshace rápido; las mechas buscan los stops
+   agrupados. El OI no dice dirección, dice fragilidad.
+3. **Apalancamiento**: lo fija el stop, no el bróker. Apalancamiento = riesgo por operación ÷ distancia al stop.
+   Con 5×, una mecha del 20 % liquida.
+
+En acciones, el equivalente: horario y huecos de apertura, coste de financiación si hay cortos, y liquidez
+(volumen medio y spread), que se mira antes que el gráfico.
 
 ## Cuándo se usa
 
@@ -32,7 +68,7 @@ en esta skill: la ventaja de la regla se mide aparte, en `medir-metodo-compras`,
 python3 .agents/skills/analisis-tecnico/scripts/informe_activo.py HBAR-USD
 
 # marcador día a día del activo preguntado (¿cuándo exactamente?) — Binance y, si el par no está, MEXC
-python3 .agents/skills/identificar-compras/scripts/puntuacion_confluencia.py QNTUSDT --desde 2026-10-01 --hasta 2026-10-30
+python3 .agents/skills/trading-action/scripts/puntuacion_confluencia.py QNTUSDT --desde 2026-10-01 --hasta 2026-10-30
 
 # varios pares /USDT de golpe, solo si pide varios de golpe
 python3 .agents/skills/analisis-tecnico/scripts/informe_batch.py HYPEUSDT QNTUSDT

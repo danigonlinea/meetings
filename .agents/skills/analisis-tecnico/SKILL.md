@@ -16,7 +16,7 @@ indicadores**, más dos líneas de lectura. No es una recomendación de compra.
 | Pregunta | Skill | Calcula |
 |---|---|---|
 | «¿Cómo está X?» · velas, EMAs, SAR, régimen | **esta** | solo indicadores del activo preguntado |
-| «¿Está en punto de compra?» · entrada y niveles | `identificar-compras` | marcador del activo preguntado |
+| «¿Está en punto de compra?» · entrada y niveles | `trading-action` (reparte a `trader-scalping`, `trader-day-trading`, `trader-swing`, `trader-position`) | marcador del activo preguntado |
 | «¿Esta regla tiene ventaja?» · backtest, `n`, vigencia | `medir-metodo-compras` | **solo si el dueño lo pide** |
 
 **Regla dura: esta skill no lanza backtests, ni mediciones, ni barridos.** Si hacen falta, se dice qué skill
@@ -25,7 +25,7 @@ los tiene y se espera a que el dueño lo pida. Un análisis técnico se entrega 
 ## Para decidir una compra
 
 Este archivo calcula indicadores. **Para el protocolo de entrada** —gate de EMA200, marcador de 8, caja
-semanal, vela de entrada con volumen, R/R mínimo y las prohibiciones— usar la skill `identificar-compras`.
+semanal, vela de entrada con volumen, R/R mínimo y las prohibiciones— usar la skill `trading-action`.
 
 ## Script
 

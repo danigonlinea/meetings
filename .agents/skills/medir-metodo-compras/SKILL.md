@@ -7,7 +7,7 @@ description: Medir con datos la ventaja de una regla de compra. Solo a petición
 
 **Esta skill no se ejecuta por iniciativa propia.** Solo entra cuando el dueño lo pide explícitamente:
 «mídeme esto», «¿tiene ventaja?», «¿sigue funcionando?», «hazme el backtest», «revisión adversarial».
-Si la pregunta es «¿cómo está X?» o «¿dónde compro?», se va a `analisis-tecnico` o a `identificar-compras`
+Si la pregunta es «¿cómo está X?» o «¿dónde compro?», se va a `analisis-tecnico` o a `trading-action`
 y aquí **no se calcula nada**.
 
 ## Qué hace

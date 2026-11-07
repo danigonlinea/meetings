@@ -13,11 +13,11 @@ status: living
 > la EMA200 arrancaba demasiado pronto. Medición corregida: **V5 n=513, +0,22R, 165 episodios, IC95 [+0,02,
 > +0,44]**, control −0,12R, y **−0,00R en los últimos 12 meses**. Con 0,2 % de costes: +0,18R. La conclusión
 > no cambia —ventaja fina y apagada en el último año, el 8/8 ordena pero no decide— pero **las cifras de abajo
-> están obsoletas**; las vigentes están en `.agents/skills/identificar-compras/SKILL.md`.
+> están obsoletas**; las vigentes están en `.agents/skills/trading-action/SKILL.md`.
 
 # Revisión adversarial del método de compras
 
-Objeto: la skill `identificar-compras` (embudo mensual → semanal → diaria → 4 h, vela de entrada con
+Objeto: la skill `trading-action` (embudo mensual → semanal → diaria → 4 h, vela de entrada con
 volumen, confluencia y R/R). Prueba: **backtest mecánico sobre 10 pares /USDT** de Binance, 1.000 velas
 diarias por par (≈ 2,7 años: 2023-11 a 2026-11). Script: `.agents/skills/medir-metodo-compras/scripts/backtest_entradas.py`.
 Reproducible con `python3 backtest_entradas.py --rr 2`.
