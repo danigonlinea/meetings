@@ -7,8 +7,8 @@ description: Medir con datos la ventaja de una regla de compra. Solo a petición
 
 **Esta skill no se ejecuta por iniciativa propia.** Solo entra cuando el dueño lo pide explícitamente:
 «mídeme esto», «¿tiene ventaja?», «¿sigue funcionando?», «hazme el backtest», «revisión adversarial».
-Si la pregunta es «¿cómo está X?» o «¿dónde compro?», se va a `analisis-tecnico` o a `trading-action`
-y aquí **no se calcula nada**.
+Si la pregunta es «¿cómo está X?» o «¿dónde compro?», se va a `velas-en-vivo` (los datos) o a
+`trading-action` (la decisión) y aquí **no se calcula nada**.
 
 ## Qué hace
 
@@ -78,8 +78,6 @@ DOGE +0,19 (54) · ADA +0,17 (47) · BNB +0,14 (69) · ETH +0,12 (49) · QNT −
 - El **gatillo de 4 h** y el stop de 4 h: todos los R publicados usan vela diaria.
 - La **caja semanal** y el **R/R** derivado de ella.
 - **Acciones**: todo esto es cripto. Las 100 candidatas de `propuesta-acciones.md` siguen sin backtest.
-- Los informes de activos concretos (`analisis-hbar-*`, `analisis-pepe-*`, `analisis-qnt-*`) miden el
-  **marcador de 8**, no esta regla: son otra pregunta y no se mezclan.
 
 ## Cómo se entrega
 

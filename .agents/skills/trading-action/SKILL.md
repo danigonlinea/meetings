@@ -64,14 +64,13 @@ En acciones, el equivalente: horario y huecos de apertura, coste de financiació
 en esta skill: la ventaja de la regla se mide aparte, en `medir-metodo-compras`, y **solo si el dueño lo pide**.
 
 ```bash
-# un activo, tres temporalidades + %B y posición en la vela
-python3 .agents/skills/analisis-tecnico/scripts/informe_activo.py HBAR-USD
+# velas + indicadores del activo preguntado, en la temporalidad que toque (cripto o acción)
+python3 .agents/skills/velas-en-vivo/scripts/velas.py HBARUSDT -i 1M        # mensual
+python3 .agents/skills/velas-en-vivo/scripts/velas.py HBARUSDT -i 1w        # semanal
+python3 .agents/skills/velas-en-vivo/scripts/velas.py AMZN -i 1d --mercado yahoo
 
 # marcador día a día del activo preguntado (¿cuándo exactamente?) — Binance y, si el par no está, MEXC
 python3 .agents/skills/trading-action/scripts/puntuacion_confluencia.py QNTUSDT --desde 2026-10-01 --hasta 2026-10-30
-
-# varios pares /USDT de golpe, solo si pide varios de golpe
-python3 .agents/skills/analisis-tecnico/scripts/informe_batch.py HYPEUSDT QNTUSDT
 ```
 
 **Los indicadores se leen, no se remiden.** Las cifras de esta skill (n, R medio) son referencia histórica:
@@ -176,7 +175,7 @@ Paso 5. Script: `scripts/puntuacion_confluencia.py`.
 **El caso que zanja la discusión (QNT, octubre de 2026):** el único 8/8 del mes fue el **26/10**, cierre
 204,01. Pero la vela de entrada fue el **25/10** (cierre 190,21) y ese día puntuaba **3/8**. Comprar en el
 8/8 daba R/R **0,55**; comprar en el 3/8 daba **2,0**. La entrada buena la dio el gate; el marcador llegó un
-día tarde. Detalle: `reports/analisis-qnt-octubre-2026-11-06.md`.
+día tarde. Detalle reproducible con `puntuacion_confluencia.py QNTUSDT --desde 2026-10-01 --hasta 2026-10-31`.
 
 **Al listar días de compra NUNCA se filtra por distancia a la EMA20.** El marcador no la incluye y filtrarla
 borra los rallies: en HBAR 2024-2025 el corte del 25 % eliminó 8 de 21 días con 8/8, casi todos en la subida
@@ -318,8 +317,8 @@ opinión.
 
 **Si la pregunta es «¿cuándo debería haber comprado?»** (un mes pasado, una caída concreta), la entrega es la
 tabla día a día del §Paso 3 bis con el score, los dos mejores días cerrados y las trampas descartadas con su
-motivo numérico. Ejemplo exacto: `reports/analisis-qnt-octubre-2026-11-06.md`. Modelo:
-`finance/analisis-tecnico/reports/analisis-qnt-entrada-2026-11-06.md`.
+motivo numérico. Ejemplo exacto: el caso QNT de octubre de 2026, reproducible con
+`puntuacion_confluencia.py QNTUSDT --desde 2026-10-01 --hasta 2026-10-31`.
 
 ## Pitfalls
 

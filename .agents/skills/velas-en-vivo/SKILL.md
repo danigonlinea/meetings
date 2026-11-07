@@ -19,8 +19,8 @@ aritmética de costes y la tabla de condiciones de `trader-scalping`, nada más:
 | Pregunta | Skill |
 |---|---|
 | «dame las velas / el progreso de la vela / los datos en vivo» | **esta** |
+| «¿cómo está el activo en mensual, semanal o diaria?» | **esta**, con `-i 1M`, `-i 1w`, `-i 1d` |
 | «¿compro, vendo o espero en los próximos minutos?» | `trader-scalping` (con estos datos) |
-| «¿cómo está el activo en mensual/semanal/diaria?» | `analisis-tecnico` |
 | «¿la regla funciona?» | `medir-metodo-compras` (solo si lo pide) |
 
 ## Script
@@ -42,8 +42,12 @@ auto|futuros|spot|mexc|yahoo`, `--gate`, `--taker-bps` (comisión por lado), `--
 (objetivo en múltiplos de ATR, 1.0), `--rango` (Yahoo), `--watch SEG`, `--json`.
 
 Temporalidades: Binance `1m 3m 5m 15m 30m 1h 2h 4h 6h 8h 12h 1d 3d 1w 1M` **y cualquier
-`Nm`** (reagrupado desde 1 m). Yahoo: `1m 2m 5m 15m 30m 1h 1d 1wk 1mo`. No hay segundos en
-ninguna fuente gratuita de las que usa este script.
+`Nm`** (reagrupado desde 1 m). Yahoo: `1m 2m 5m 15m 30m 1h 1d 1w 1M` (se traducen a `1wk`/`1mo`
+internamente). No hay segundos en ninguna fuente gratuita de las que usa este script.
+
+Para temporalidad alta en acciones (`-i 1M`, `-i 1w`) el script pide 25 años a Yahoo y **fusiona el
+periodo en curso repetido** (Yahoo manda dos barras del mismo mes): sin eso la EMA cuenta el mismo tramo
+dos veces.
 
 ## Qué imprime
 

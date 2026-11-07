@@ -168,12 +168,15 @@ def _mexc_klines(symbol, interval, limit):
 
 
 YAHOO_RANGE = {"1m": "7d", "2m": "7d", "5m": "1mo", "15m": "1mo", "30m": "1mo",
-               "60m": "3mo", "90m": "3mo", "1h": "3mo", "1d": "2y", "5d": "2y",
-               "1wk": "5y", "1mo": "10y"}
+               "60m": "3mo", "90m": "3mo", "1h": "3mo", "1d": "5y", "5d": "2y",
+               "1w": "15y", "1wk": "15y", "1M": "25y", "1mo": "25y"}
+
+YAHOO_IV_MAP = {"1h": "60m", "1w": "1wk", "1wk": "1wk", "1M": "1mo", "1mo": "1mo",
+                "1d": "1d", "5d": "5d"}
 
 
 def _yahoo_klines(symbol, interval, limit, rango=None):
-    iv = {"1h": "60m", "1mo": "1mo"}.get(interval, interval)
+    iv = YAHOO_IV_MAP.get(interval, interval)
     rng = rango or YAHOO_RANGE.get(interval, "1mo")
     d = _open(f"{YAHOO}/v8/finance/chart/{symbol}?range={rng}&interval={iv}")
     res = d["chart"]["result"][0]
@@ -191,6 +194,25 @@ def _yahoo_klines(symbol, interval, limit, rango=None):
             continue
         rows.append({"t": float(ts), "o": o, "h": h, "l": l, "c": c, "v": vol,
                      "cerrada": ts + secs < now})
+    # Yahoo repite el periodo en curso en dos barras (la del periodo y la del último
+    # precio; en mensual se ve como dos barras del mismo mes). Se fusionan o la EMA
+    # cuenta el mismo tramo dos veces.
+    clave = "%Y-%m" if iv == "1mo" else ("%Y-%m-%d" if iv in ("1d", "1wk", "5d") else None)
+    if clave:
+        merged = []
+        for r in rows:
+            k = datetime.fromtimestamp(r["t"], timezone.utc).strftime(clave)
+            if merged and merged[-1]["_k"] == k:
+                m = merged[-1]
+                m["h"] = max(m["h"], r["h"])
+                m["l"] = min(m["l"], r["l"])
+                m["c"] = r["c"]
+                m["v"] += r["v"]
+                m["cerrada"] = r["cerrada"]
+            else:
+                r["_k"] = k
+                merged.append(r)
+        rows = merged
     return rows[-limit:], res.get("meta", {})
 
 
@@ -469,6 +491,17 @@ def pct(x, dec_n=2):
     return "—" if x is None else f"{x:+.{dec_n}f} %"
 
 
+def ftime(ts, interval):
+    """Fecha legible según la temporalidad: un mensual no se enseña con minutos."""
+    d = datetime.fromtimestamp(ts, timezone.utc)
+    seg = IV_SECONDS.get(interval, 300)
+    if seg >= 2592000:
+        return d.strftime("%Y-%m")
+    if seg >= 86400:
+        return d.strftime("%Y-%m-%d")
+    return d.strftime("%m-%d %H:%M")
+
+
 def analizar(m, interval, velas_pedidas, taker_bps, objetivo_atr, rango=None):
     rows = candles(m, interval, max(400, velas_pedidas + 220))
     f = m["factor"]
@@ -536,12 +569,12 @@ def imprimir(r, n_velas):
     print(f"# {r['simbolo']} · {r['mercado']} · {r['temporalidad']}{factor_note}")
     if r["resample"]:
         print(f"  (reagrupado: {r['resample']})")
-    print(f"  velas: {r['n']} · última {datetime.fromtimestamp(ult['t'], timezone.utc):%Y-%m-%d %H:%M} UTC"
+    print(f"  velas: {r['n']} · última {ftime(ult['t'], r['temporalidad'])} UTC"
           f" · {'CERRADA' if ult['cerrada'] else 'EN CURSO'}")
     if r["n"] < 200:
         print(f"  ⚠️ serie corta ({r['n']} velas): EMA200 y ATR14 no son fiables; "
               f"el gate de scalping necesita ATR, revísalo en el gráfico.")
-    if r["mercado"] == "yahoo":
+    if r["mercado"] == "yahoo" and IV_SECONDS.get(r["temporalidad"], 300) < 86400:
         print("  ⚠️ Yahoo intradía llega con retraso (~15 min en acciones US): no sirve "
               "para scalping en vivo, solo para contexto.")
     if r["d24"]:
@@ -554,12 +587,13 @@ def imprimir(r, n_velas):
     print("|---|---:|---:|---:|---:|---:|")
     for v in r["velas"][-n_velas:]:
         marca = " *" if not v["cerrada"] else ""
-        print(f"| {datetime.fromtimestamp(v['t'], timezone.utc):%m-%d %H:%M}{marca} | "
+        print(f"| {ftime(v['t'], r['temporalidad'])}{marca} | "
               f"{fmt(v['o'], dec_n)} | {fmt(v['h'], dec_n)} | {fmt(v['l'], dec_n)} | "
               f"{fmt(v['c'], dec_n)} | {fvol(v['v'])} |")
     print("`*` = vela en curso, abierta y sin cerrar (todavía puede cambiar).")
 
-    # progreso de la vela en curso: lo que se mira para no entrar a mitad de barrido
+    # progreso de la vela en curso: lo que se mira para no entrar a mitad de barrido.
+    # En diaria y superiores no hay «cuánto falta»: la vela se cierra con la sesión.
     dur = IV_SECONDS.get(r["temporalidad"], 300)
     ahora = time.time()
     trans = r["ind"]["progreso"]
@@ -567,7 +601,10 @@ def imprimir(r, n_velas):
     pos = (ult["c"] - ult["l"]) / rango * 100 if rango else None
     falta = max(dur - (ahora - ult["t"]), 0)
     print("\n## Vela en curso · progreso")
-    if ult["cerrada"]:
+    if dur >= 86400:
+        print(f"  {'CERRADA' if ult['cerrada'] else 'en curso'} · "
+              f"variación {pct((ult['c'] / ult['o'] - 1) * 100)} desde la apertura")
+    elif ult["cerrada"]:
         print(f"  la última vela está CERRADA · siguiente apertura en "
               f"{int(falta // 60)}m {int(falta % 60):02d}s")
     else:
