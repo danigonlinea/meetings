@@ -20,6 +20,24 @@ aunque el patrón sea perfecto.
 
 Indicadores que sí: **EMA3, EMA9, parabólica (0,02/0,20) y ATR(5 m)**. Los demás sobran.
 
+## Paso 0 — los datos, en una llamada
+
+Todo lo que esta skill necesita son velas de 1 m y 5 m con su volumen, y el progreso de la vela en
+curso. Lo da la skill `velas-en-vivo`:
+
+```bash
+S=.agents/skills/velas-en-vivo/scripts/velas.py
+python3 $S PEPEUSDT -i 1m                  # velas + progreso de la vela
+python3 $S PEPEUSDT -i 5m --gate           # tabla de arriba + coste y veredicto
+python3 $S BTCUSDT -i 5m --gate --taker-bps 2   # si tu exchange cobra menos
+python3 $S SOLUSDT -i 1m --watch 30        # seguimiento en vivo
+```
+
+El `--gate` aplica la tabla de decisión y la regla de coste de esta skill tal cual; el veredicto se
+contrasta con el gráfico, no se copia a ciegas. Si el ATR sale de una serie corta, el script avisa y
+el gate no vale. `--mercado auto` resuelve que `PEPEUSDT` es el perpetuo `1000PEPEUSDT` y normaliza
+el precio a 1 unidad.
+
 ## La cuenta que decide antes que el gráfico
 
 ```
