@@ -6,25 +6,25 @@ category: finance
 tags: [informe-canal, la-pizarra-de-andres, cartera-propia, horos, value, holdings, inteligencia-artificial, renta-fija]
 status: final
 related:
-  - finance/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/summary.md
-  - finance/la-pizarra-de-andres/2026-11-01-estoy-perdiendo-dinero-con-mis-inversiones-resultados-octubre/summary.md
+  - finance/videos/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/summary.md
+  - finance/videos/la-pizarra-de-andres/2026-11-01-estoy-perdiendo-dinero-con-mis-inversiones-resultados-octubre/summary.md
   - finance/reports/revision-adversarial-2026-11-02.md
 ---
 
 # Informe de canal: La Pizarra de Andrés
 
-- **Canal:** La Pizarra de Andrés (`finance/la-pizarra-de-andres`)
+- **Canal:** La Pizarra de Andrés (`finance/videos/la-pizarra-de-andres`)
 - **Fecha de la ejecución:** 2026-11-02
 - **Vídeos analizados en esta tanda:** 2
-- **Carpetas del canal leídas:** 15 (todas en `finance/la-pizarra-de-andres`; las 4 que estaban en `ai/la-pizarra-de-andres` se movieron en la auditoría del 02/11)
+- **Carpetas del canal leídas:** 15 (todas en `finance/videos/la-pizarra-de-andres`; las 4 que estaban en `ai/la-pizarra-de-andres` se movieron en la auditoría del 02/11)
 - **Lectura del periodo:** el juicio propio sobre estas dos charlas —qué sirve y qué no para la cartera— está en `revision-adversarial-2026-11-02.md`. Este informe es el acta: lo que dicen los vídeos, con cita y minuto.
 
 ## Vídeos analizados
 
 | Fecha | Título | Duración | Carpeta |
 | --- | --- | --- | --- |
-| 2026-10-30 | Las Empresas que TODOS Ignoran son las Mejores Inversiones (Javier Ruiz, Horos) | 1:12:40 | `finance/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/` |
-| 2026-11-01 | 🚨 Estoy PERDIENDO DINERO con mis inversiones (Resultados Octubre) | 0:13:16 | `finance/la-pizarra-de-andres/2026-11-01-estoy-perdiendo-dinero-con-mis-inversiones-resultados-octubre/` |
+| 2026-10-30 | Las Empresas que TODOS Ignoran son las Mejores Inversiones (Javier Ruiz, Horos) | 1:12:40 | `finance/videos/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/` |
+| 2026-11-01 | 🚨 Estoy PERDIENDO DINERO con mis inversiones (Resultados Octubre) | 0:13:16 | `finance/videos/la-pizarra-de-andres/2026-11-01-estoy-perdiendo-dinero-con-mis-inversiones-resultados-octubre/` |
 
 ## Hilos comunes
 

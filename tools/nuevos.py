@@ -32,8 +32,10 @@ from datetime import date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CANAL = {"nombre": "La Pizarra de Andrés", "id": "UCEXbEm8RUvRkKUEo2RjKd9w", "carpeta": "la-pizarra-de-andres"}
-WEBINARS = {"nombre": "MyInvestor", "id": "UCc9nsd1tjDdw32wLcM5OOWQ", "carpeta": "myinvestor-webinars"}
+VIDEOS = "videos"  # contenedor de las fuentes de vídeo dentro de finance/
+CANAL = {"nombre": "La Pizarra de Andrés", "id": "UCEXbEm8RUvRkKUEo2RjKd9w", "carpeta": f"{VIDEOS}/la-pizarra-de-andres"}
+WEBINARS = {"nombre": "MyInvestor", "id": "UCc9nsd1tjDdw32wLcM5OOWQ", "carpeta": f"{VIDEOS}/myinvestor-webinars"}
+NO_RECORRER = {".git", ".venv", "node_modules", "ytpipe", ".agents", "__pycache__", ".pytest_cache"}
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 DIAS_POR_DEFECTO = 7
 
@@ -67,7 +69,9 @@ def feed(channel_id: str) -> list[dict]:
 def ingested() -> dict[str, dict]:
     """id → {carpeta, fecha} de cada transcripción del repositorio."""
     found = {}
-    for path in ROOT.glob("*/*/*/transcript.json"):
+    for path in ROOT.rglob("transcript.json"):
+        if set(path.relative_to(ROOT).parts) & NO_RECORRER:
+            continue
         try:
             source = json.loads(path.read_text(encoding="utf-8")).get("source", {})
         except (OSError, ValueError):
@@ -85,7 +89,7 @@ def last_date(done: dict[str, dict], carpeta: str) -> date | None:
     dates = [
         date.fromisoformat(item["fecha"])
         for item in done.values()
-        if item["carpeta"].split("/")[1] == carpeta and len(item["fecha"]) == 10
+        if Path(item["carpeta"]).parent.as_posix() == f"finance/{carpeta}" and len(item["fecha"]) == 10
     ]
     return max(dates) if dates else None
 

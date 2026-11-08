@@ -7,14 +7,14 @@ tags: [cartera, verificacion, ackman, riesgo, coste, colchon, contraste, myinves
 status: final
 related:
   - finance/portfolio/cartera-myinvestor/propuesta-actual.md
-  - finance/others/2012-11-27-ackman-finance-basics/summary.md
+  - finance/videos/others/2012-11-27-ackman-finance-basics/summary.md
 ---
 
 # Contraste de la cartera con la clase de Ackman — 03/11/2026
 
 > **Qué es esto.** Una verificación de `propuesta-actual.md` (la cartera definitiva adoptada el
 > 03/11/2026) contra el marco que Bill Ackman explica en una clase introductoria de Big Think
-> grabada en 2012, ingerida hoy en `finance/others/2012-11-27-ackman-finance-basics/`. **No cambia
+> grabada en 2012, ingerida hoy en `finance/videos/others/2012-11-27-ackman-finance-basics/`. **No cambia
 > ni un euro de la cartera**: ninguna de las comprobaciones mueve importes. Encuentra dos
 > discrepancias de redacción, un hueco de fondo que la carpeta ya tenía abierto (el colchón) y
 > confirma el resto. No es asesoramiento financiero.

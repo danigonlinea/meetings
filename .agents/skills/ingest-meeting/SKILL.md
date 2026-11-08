@@ -10,7 +10,7 @@ description: Usar cuando el usuario pegue una transcripción de reunión en el c
 Esta skill trabaja solo en este repositorio, el repositorio `investing-meetings`.
 
 - Ruta de la skill: `.agents/skills/ingest-meeting/`.
-- Ruta de las carpetas de reunión: `<project-root>/<categoria>/<fuente>/YYYY-MM-DD-<topic-slug>/`.
+- Ruta de las carpetas de reunión: `<project-root>/finance/videos/<fuente>/YYYY-MM-DD-<topic-slug>/` para los vídeos de finanzas y `<project-root>/ai/<fuente>/YYYY-MM-DD-<topic-slug>/` para los de IA.
 - La categoría vale `finance` o `ai`. La fuente es el canal o el programa del vídeo: `la-pizarra-de-andres`, `myinvestor-webinars`, `el-arte-de-invertir`, `dev-docs-explained`.
 - Ruta de los informes y artefactos analíticos: `<project-root>/<categoria>/reports/` y, para la cartera personal, `<project-root>/finance/portfolio/`. Las auditorías de resúmenes también van en `reports/`, con `type: revision`.
 - Ruta de las referencias: `<project-root>/reference/`.

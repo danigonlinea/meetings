@@ -21,11 +21,11 @@ related: [finance/reports/sintesis-inversor-2026-10-30.md]
 
 | Fecha | Título | Duración | Carpeta |
 | --- | --- | --- | --- |
-| 2026-10-18 | La Inversión en Valor sigue siendo la Apuesta Ganadora | 100 min 26 s (6026 s) | `finance/la-pizarra-de-andres/2026-10-18-la-inversion-en-valor-sigue-siendo-la-apuesta-ganadora` |
-| 2026-10-20 | Un Seguidor PAGA para que le Gestionen su Dinero ¿Merece la Pena? | 16 min 45 s (1005 s) | `finance/la-pizarra-de-andres/2026-10-20-un-seguidor-paga-para-que-le-gestionen-su-dinero-merece` |
-| 2026-10-22 | Gestor de Renta 4 ADVIERTE sobre una gran RECESIÓN | 85 min 36 s (5136 s) | `finance/la-pizarra-de-andres/2026-10-22-gestor-de-renta-4-advierte-sobre-una-gran-recesion` |
-| 2026-10-23 | La Actualidad de los Mercados Financieros refleja un Elevado Riesgo | 14 min 5 s (845 s) | `finance/la-pizarra-de-andres/2026-10-23-la-actualidad-de-los-mercados-financieros-refleja-un-elevado-riesgo` |
-| 2026-10-25 | La RENTA FIJA puede SALVARNOS en estos momentos (Abaco Capital) | 58 min 31 s (3511 s) | `finance/la-pizarra-de-andres/2026-10-25-la-renta-fija-puede-salvarnos-en-estos-momentos-abaco-capital` |
+| 2026-10-18 | La Inversión en Valor sigue siendo la Apuesta Ganadora | 100 min 26 s (6026 s) | `finance/videos/la-pizarra-de-andres/2026-10-18-la-inversion-en-valor-sigue-siendo-la-apuesta-ganadora` |
+| 2026-10-20 | Un Seguidor PAGA para que le Gestionen su Dinero ¿Merece la Pena? | 16 min 45 s (1005 s) | `finance/videos/la-pizarra-de-andres/2026-10-20-un-seguidor-paga-para-que-le-gestionen-su-dinero-merece` |
+| 2026-10-22 | Gestor de Renta 4 ADVIERTE sobre una gran RECESIÓN | 85 min 36 s (5136 s) | `finance/videos/la-pizarra-de-andres/2026-10-22-gestor-de-renta-4-advierte-sobre-una-gran-recesion` |
+| 2026-10-23 | La Actualidad de los Mercados Financieros refleja un Elevado Riesgo | 14 min 5 s (845 s) | `finance/videos/la-pizarra-de-andres/2026-10-23-la-actualidad-de-los-mercados-financieros-refleja-un-elevado-riesgo` |
+| 2026-10-25 | La RENTA FIJA puede SALVARNOS en estos momentos (Abaco Capital) | 58 min 31 s (3511 s) | `finance/videos/la-pizarra-de-andres/2026-10-25-la-renta-fija-puede-salvarnos-en-estos-momentos-abaco-capital` |
 
 ## Hilos comunes
 

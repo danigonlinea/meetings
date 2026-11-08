@@ -3,7 +3,7 @@
 
 Uso:
     python3 tools/myinvestor_webinars.py list      # una línea TSV por webinar
-    python3 tools/myinvestor_webinars.py catalogo  # reescribe finance/myinvestor-webinars/catalogo.md
+    python3 tools/myinvestor_webinars.py catalogo  # reescribe finance/videos/myinvestor-webinars/catalogo.md
 
 El listado sale de las páginas públicas de
 https://blog.myinvestor.es/escuelamyinvestor/webinars/ (paginadas). Cada
@@ -25,7 +25,9 @@ from pathlib import Path
 
 BASE = "https://blog.myinvestor.es/escuelamyinvestor/webinars/"
 ROOT = Path(__file__).resolve().parents[1]
-CATALOGO = ROOT / "finance" / "myinvestor-webinars" / "catalogo.md"
+WEBINARS = ROOT / "finance" / "videos" / "myinvestor-webinars"
+CATALOGO = WEBINARS / "catalogo.md"
+NO_RECORRER = {".git", ".venv", "node_modules", "ytpipe", ".agents", "__pycache__", ".pytest_cache"}
 
 ARTICLE = re.compile(r"<article\b.*?</article>", re.S)
 EMBED = re.compile(r'data-plyr-embed-id="([^"]+)"')
@@ -99,7 +101,9 @@ def collect(max_pages: int = 60) -> list[dict]:
 def ingested_ids() -> set[str]:
     """Lee los `source.video_id` de todos los transcript.json del repositorio."""
     ids = set()
-    for path in ROOT.glob("*/*/*/transcript.json"):
+    for path in ROOT.rglob("transcript.json"):
+        if set(path.relative_to(ROOT).parts) & NO_RECORRER:
+            continue
         try:
             ids.add(json.loads(path.read_text(encoding="utf-8"))["source"]["video_id"])
         except (KeyError, ValueError):
@@ -109,7 +113,7 @@ def ingested_ids() -> set[str]:
 
 def folder_for(video_id: str) -> str:
     """Devuelve la ruta relativa de la carpeta del webinar, si existe."""
-    for path in ROOT.glob("finance/myinvestor-webinars/*/transcript.json"):
+    for path in WEBINARS.glob("*/transcript.json"):
         try:
             if json.loads(path.read_text(encoding="utf-8"))["source"]["video_id"] == video_id:
                 return str(path.parent.relative_to(ROOT))

@@ -9,11 +9,12 @@ Repositorio personal de vídeos, webinars, transcripciones y análisis de invers
 
 ```
 finance/                        inversión y finanzas
-  la-pizarra-de-andres/         vídeos del canal La Pizarra de Andrés
-  myinvestor-webinars/          webinars y entrevistas de MyInvestor
-    catalogo.md                 catálogo generado de los 141 webinars y su estado
-  el-arte-de-invertir/          canal El Arte de Invertir
-  others/                       piezas sueltas de otros canales (Big Think, ...)
+  videos/                       todas las transcripciones de vídeo y webinar
+    la-pizarra-de-andres/       vídeos del canal La Pizarra de Andrés
+    myinvestor-webinars/        webinars y entrevistas de MyInvestor
+      catalogo.md               catálogo generado de los webinars y su estado
+    el-arte-de-invertir/        canal El Arte de Invertir
+    others/                     piezas sueltas de otros canales (Big Think, ...)
   portfolio/                    dos carteras independientes (no se consolidan)
     README.md                   mapa de las dos carpetas y reglas
     cartera-myinvestor/         MyInvestor: 97.000 € (manual + Rock)
@@ -30,6 +31,8 @@ AGENTS.md · INDEX.md            enrutado · índice generado de artefactos
 ```
 
 Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpeta de su fuente:
+`finance/videos/<fuente>/` para los vídeos de finanzas y `<categoria>/<fuente>/` para el resto
+(hoy solo `ai/dev-docs-explained/`).
 
 | Archivo | Contenido | ¿Se edita? |
 | --- | --- | --- |
@@ -92,7 +95,7 @@ no lo repite. Si dos documentos dicen lo mismo, sobra uno.
 
 ```bash
 # transcripción de un vídeo suelto (siempre con --out)
-uv run --project ytpipe ytpipe fetch <url> --out finance/<fuente> --no-open
+uv run --project ytpipe ytpipe fetch <url> --out finance/videos/<fuente> --no-open
 
 # webinars de MyInvestor
 python3 tools/myinvestor_webinars.py list        # TSV: id, título, post

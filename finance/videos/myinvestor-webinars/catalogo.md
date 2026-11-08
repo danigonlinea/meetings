@@ -16,7 +16,7 @@ Lo genera `python3 tools/myinvestor_webinars.py catalogo`; no editar a mano.
 
 | # | Título | Vídeo | Estado | Carpeta |
 | --- | --- | --- | --- | --- |
-| 1 | [Webinar del ciclo Aprende con las gestoras. Entrevista Lorenzo Parages (Campion Capital)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-lorenzo-parages-campion-capital/) | [_dlfAWncxeI](https://www.youtube.com/watch?v=_dlfAWncxeI) | ingerido | `finance/myinvestor-webinars/2026-10-20-japon-proxima-gran-oportunidad-en-bolsa` |
+| 1 | [Webinar del ciclo Aprende con las gestoras. Entrevista Lorenzo Parages (Campion Capital)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-lorenzo-parages-campion-capital/) | [_dlfAWncxeI](https://www.youtube.com/watch?v=_dlfAWncxeI) | ingerido | `finance/videos/myinvestor-webinars/2026-10-20-japon-proxima-gran-oportunidad-en-bolsa` |
 | 2 | [Consultorio Hello MyInvestor – Edición Especial Online 2026](https://blog.myinvestor.es/escuela-myinvestor/75815/) | [YYt0yQzpsCA](https://www.youtube.com/watch?v=YYt0yQzpsCA) | pendiente | `—` |
 | 3 | [Webinar del ciclo Aprende con las gestoras. Entrevista Marta Forner (Gestión Boutique IV Alclam US Equities)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-marta-forner-gestion-boutique-iv-alclam-us-equities/) | [qPoKabZuaog](https://www.youtube.com/watch?v=qPoKabZuaog) | pendiente | `—` |
 | 4 | [Webinar ‘Fondos de bajo riesgo: cómo invertir buscando estabilidad’](https://blog.myinvestor.es/escuela-myinvestor/webinar-fondos-de-bajo-riesgo-como-invertir-buscando-estabilidad/) | [7sFLBGLf2ls](https://www.youtube.com/watch?v=7sFLBGLf2ls) | pendiente | `—` |

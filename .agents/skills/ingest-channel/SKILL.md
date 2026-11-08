@@ -10,7 +10,7 @@ description: Usar cuando el usuario pida los vídeos nuevos de un canal de YouTu
 Esta skill trabaja solo en este repositorio, el repositorio `investing-meetings`.
 
 - Ruta de la skill: `.agents/skills/ingest-channel/`.
-- Ruta de las carpetas de reunión: `<project-root>/<categoria>/<fuente>/YYYY-MM-DD-<topic-slug>/`.
+- Ruta de las carpetas de reunión: `<project-root>/finance/videos/<fuente>/YYYY-MM-DD-<topic-slug>/` para los vídeos de finanzas y `<project-root>/ai/<fuente>/YYYY-MM-DD-<topic-slug>/` para los de IA.
 - La categoría vale `ai` o `finance`. La fuente es el canal: `la-pizarra-de-andres`, `myinvestor-webinars`, `el-arte-de-invertir`. La regla de la categoría y de la fuente es la de `ingest-meeting`; el agente las elige por el tema del vídeo antes de descargar. Ver `AGENTS.md`.
 - Ruta del informe: `<project-root>/<categoria>/reports/informe-canal-<canal-slug>-<YYYY-MM-DD>.md`.
 - Ruta de los artefactos analíticos: `<project-root>/<categoria>/reports/`.
@@ -89,7 +89,7 @@ uv run --project ytpipe ytpipe fetch <url> --out <categoria>/<fuente> --no-open
 
 Aplica estas reglas.
 
-- Cambia `<categoria>/<fuente>` por la combinación real: `finance/la-pizarra-de-andres`, `finance/el-arte-de-invertir` o `ai/dev-docs-explained`.
+- Cambia `<categoria>/<fuente>` por la combinación real: `finance/videos/la-pizarra-de-andres`, `finance/videos/el-arte-de-invertir` o `ai/dev-docs-explained`.
 - Pasa siempre `--out` con la subcarpeta de la fuente. Sin esa opción, `ytpipe` escribe la carpeta en la raíz del repositorio, fuera de `finance/` y `ai/`.
 - No ejecutes las descargas en paralelo. YouTube responde con HTTP 429.
 - `ytpipe` ya reintenta después de un límite de peticiones.

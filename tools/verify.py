@@ -46,13 +46,17 @@ def event_folders() -> list[Path]:
         for source in sorted(p for p in base.iterdir() if p.is_dir()):
             if source.name in NO_EVENT:
                 continue
-            for child in sorted(p for p in source.iterdir() if p.is_dir()):
-                if child.name in NO_EVENT:
+            if source.name in CONTAINERS:
+                # Un contenedor (`finance/videos/`) agrupa fuentes: se baja un nivel más.
+                fuentes = sorted(p for p in source.iterdir() if p.is_dir())
+            else:
+                fuentes = [source]
+            for fuente in fuentes:
+                if fuente.name in NO_EVENT:
                     continue
-                if child.name in CONTAINERS:
-                    found += [p for p in sorted(child.iterdir()) if p.is_dir()]
-                else:
-                    found.append(child)
+                found += [
+                    p for p in sorted(fuente.iterdir()) if p.is_dir() and p.name not in NO_EVENT
+                ]
     return found
 
 
@@ -93,10 +97,10 @@ def check_index() -> None:
 
 
 def check_catalog() -> None:
-    webinars = ROOT / "finance" / "myinvestor-webinars"
+    webinars = ROOT / "finance" / "videos" / "myinvestor-webinars"
     catalog = webinars / "catalogo.md"
     if not catalog.is_file():
-        warnings.append("finance/myinvestor-webinars/catalogo.md no existe")
+        warnings.append("finance/videos/myinvestor-webinars/catalogo.md no existe")
         return
     ingested = len(list(webinars.glob("*/transcript.json")))
     match = re.search(r"\*\*ingeridos:\*\*\s*(\d+)", catalog.read_text(encoding="utf-8"))

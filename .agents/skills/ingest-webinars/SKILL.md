@@ -1,6 +1,6 @@
 ---
 name: ingest-webinars
-description: Usar cuando el usuario pida webinars o entrevistas de MyInvestor (Escuela MyInvestor), "los webinars nuevos de MyInvestor" o pase una URL de blog.myinvestor.es/escuelamyinvestor/webinars. Lista el catálogo, salta lo ya ingerido, descarga la transcripción con ytpipe en finance/myinvestor-webinars/ y resume cada webinar con la skill ingest-meeting.
+description: Usar cuando el usuario pida webinars o entrevistas de MyInvestor (Escuela MyInvestor), "los webinars nuevos de MyInvestor" o pase una URL de blog.myinvestor.es/escuelamyinvestor/webinars. Lista el catálogo, salta lo ya ingerido, descarga la transcripción con ytpipe en finance/videos/myinvestor-webinars/ y resume cada webinar con la skill ingest-meeting.
 ---
 
 # Ingesta de webinars de MyInvestor
@@ -10,8 +10,8 @@ description: Usar cuando el usuario pida webinars o entrevistas de MyInvestor (E
 Esta skill trabaja solo en este repositorio, el repositorio `investing-meetings`.
 
 - Ruta de la skill: `.agents/skills/ingest-webinars/`.
-- Ruta de las carpetas de webinar: `<project-root>/finance/myinvestor-webinars/YYYY-MM-DD-<topic-slug>/`.
-- Ruta del catálogo: `<project-root>/finance/myinvestor-webinars/catalogo.md`. Lo genera el script; nunca se edita a mano.
+- Ruta de las carpetas de webinar: `<project-root>/finance/videos/myinvestor-webinars/YYYY-MM-DD-<topic-slug>/`.
+- Ruta del catálogo: `<project-root>/finance/videos/myinvestor-webinars/catalogo.md`. Lo genera el script; nunca se edita a mano.
 - Ruta de los informes y de las auditorías: `<project-root>/finance/reports/` (la auditoría lleva `type: revision`).
 - Categoría: siempre `finance`. Fuente: siempre `myinvestor-webinars`.
 - Al terminar, ejecuta `python3 tools/build_index.py` para regenerar `INDEX.md`.
@@ -67,10 +67,10 @@ Aplica estas reglas.
 
 ## Paso 3: Salta los webinars ya ingeridos
 
-Lee el campo `source.video_id` de cada `finance/myinvestor-webinars/*/transcript.json` antes de cualquier descarga.
+Lee el campo `source.video_id` de cada `finance/videos/myinvestor-webinars/*/transcript.json` antes de cualquier descarga.
 
 ```bash
-grep -o '"video_id": "[^"]*"' finance/myinvestor-webinars/*/transcript.json
+grep -o '"video_id": "[^"]*"' finance/videos/myinvestor-webinars/*/transcript.json
 ```
 
 - Compara el identificador de cada webinar elegido con la lista de identificadores presentes.
@@ -82,12 +82,12 @@ grep -o '"video_id": "[^"]*"' finance/myinvestor-webinars/*/transcript.json
 Entra en la raíz del repositorio y ejecuta este comando, un webinar cada vez.
 
 ```bash
-uv run --project ytpipe ytpipe fetch "https://www.youtube.com/watch?v=<video_id>" --out finance/myinvestor-webinars --slug "<tema-real>" --no-open
+uv run --project ytpipe ytpipe fetch "https://www.youtube.com/watch?v=<video_id>" --out finance/videos/myinvestor-webinars --slug "<tema-real>" --no-open
 ```
 
 Aplica estas reglas.
 
-- Pasa siempre `--out finance/myinvestor-webinars`. Sin esa opción, `ytpipe` escribe la carpeta en la raíz del repositorio.
+- Pasa siempre `--out finance/videos/myinvestor-webinars`. Sin esa opción, `ytpipe` escribe la carpeta en la raíz del repositorio.
 - El título del post de MyInvestor es genérico («Webinar del ciclo Aprende con las gestoras. Entrevista a …»). El `--slug` sale del **título real del vídeo**, que imprime `ytpipe` en su plan (`title :`) o que da `yt-dlp --print "%(title)s"`. Si el tema no se entiende, usa `<gestora>-<tema>` en 6 palabras como máximo, sin acentos.
 - No ejecutes las descargas en paralelo: YouTube responde con HTTP 429. `ytpipe` ya reintenta tras un límite de peticiones.
 - Cuando `ytpipe` falla con `no subtitle available`, el webinar no tiene pista de subtítulos. Repórtalo y sigue con el siguiente: no escribas un resumen sin transcripción.
@@ -175,7 +175,7 @@ Da al usuario una lista numerada de 8 a 12 puntos clave en el chat.
 
 ## Guardarraíles
 
-- Escribe solo dentro de `finance/myinvestor-webinars/` y `finance/reports/`.
+- Escribe solo dentro de `finance/videos/myinvestor-webinars/` y `finance/reports/`.
 - No toques ninguna carpeta de otro canal.
 - No escribas nunca `transcript.json`.
 - No inventes nunca una fecha, un hablante, una cifra ni una fuente.

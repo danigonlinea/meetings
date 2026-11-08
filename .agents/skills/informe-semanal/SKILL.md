@@ -10,7 +10,7 @@ description: Usar cuando corra la revisión semanal de canales (cron del agente 
 - Se ejecuta **sin preguntar nada**. Si algo no cuadra, para y repórtalo.
 - Canal principal: `La Pizarra de Andrés`, ID `UCEXbEm8RUvRkKUEo2RjKd9w`.
   `@LaPizarradeAndrésLive` es otro canal: no se ingiere.
-- Webinars: `finance/myinvestor-webinars/`, catálogo generado por
+- Webinars: `finance/videos/myinvestor-webinars/`, catálogo generado por
   `python3 tools/myinvestor_webinars.py`.
 - Salida: `finance/reports/informe-semanal-YYYY-MM-DD.md`, `type: synthesis`.
 - Dependencias: `yt-dlp`, `uv` + `ytpipe`, skill `ingest-meeting`, skill `ingest-webinars`.
@@ -54,11 +54,11 @@ líneas con "sin novedades" y termina.
 
 ```bash
 uv run --project ytpipe ytpipe fetch "https://www.youtube.com/watch?v=<id>" \
-  --out finance/la-pizarra-de-andres --slug "<tema>" --no-open
+  --out finance/videos/la-pizarra-de-andres --slug "<tema>" --no-open
 ```
 
 - El `--slug` sale del título **real** que imprime `ytpipe` (en español), no del título del listado.
-- Webinars: `--out finance/myinvestor-webinars` y la skill `ingest-webinars`.
+- Webinars: `--out finance/videos/myinvestor-webinars` y la skill `ingest-webinars`.
 - Clasifica `ai` o `finance` por el tema del vídeo; no preguntes.
 
 ## Paso 4: Resume
