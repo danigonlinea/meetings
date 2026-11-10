@@ -42,7 +42,7 @@ complemento de acciones— y el mismo día se corrigió esto:
 | §2 subtotales de sesión, Fidelity, carry, euro-duración, tabla de retorno y fila de §11 | ✅ corregidos y verificados con el termómetro |
 | §3 termómetro sobre la cartera derogada | ✅ reescrito: re-puntúa las ocho señales, valida la suma (45 + 10 = 55) y reproduce las dos tablas de §2 |
 | §4 Renta 4 | ✅ liquidez (4.632 €) y carry (39 / 74 €/año) cuadrados |
-| §5 prima francesa | ✅ matizada como dato del 23-10; el minuto 61:01 → 61:03 y «15 carpetas» → 14 |
+| §5 prima francesa | ✅ matizada como dato del 23-10; «15 carpetas» → 14; el minuto 61:01/61:03 se comprobó y los dos son válidos |
 | §6 títulos truncados | ✅ arreglados en el frontmatter y en el INDEX |
 | §7 rutas del README | ✅ `finance/videos/myinvestor-webinars/` y las seis skills |
 | Glosario, 14 etiquetas de plantilla, la sexta propuesta de §12, `AGENTS.md` | ⏳ pendiente |
@@ -151,9 +151,10 @@ RV 15,3 % → 21,2 %, coste 264 €/año, plusvalía 638,69 €.
 2. **Recuento de carpetas.** `informe-canal-…-2026-11-02.md:19`: «Carpetas del canal leídas: **15**».
    En `finance/videos/la-pizarra-de-andres/` hay **14**, y eran 14 también el 02/11 (las 4 que venían
    de `ai/` están entre ellas). El número no sale ni antes ni después del movimiento.
-3. **El mismo minuto con dos valores.** La cita «no compre ni uno solo de mis valores» aparece como
-   `61:01` en el informe del 30/10 (dos veces) y `61:03` en la síntesis y en la auditoría del 22/10,
-   que fue la que verificó el minuto contra la transcripción. Una de las dos está desplazada.
+3. **El minuto de la misma cita.** El informe del 30/10 usa `61:01` y la síntesis `61:03`. Comprobado
+   contra la transcripción: la frase arranca en **61:01** («Bueno, yo recomiendo, de hecho,») y la
+   cláusula citada cae en **61:03**. No hay error: son dos cortes de la misma frase. Se deja 61:01, que
+   es donde empieza.
 4. **Clase del fondo sin distinguir.** El informe del 30/10 nombra «MyInvestor Value, FI **clase A**
    (ES0165243009)»; el del 02/11 y el snapshot hablan de «MyInvestor Value **C** (ES0165243025)», que
    es la que está en cartera. Son clases distintas del mismo fondo: el lector no puede saber si el

@@ -57,6 +57,7 @@ el historial de git. Un documento por rol evita las dos verdades.
 - Toda propuesta se ejecuta por **traspaso** entre fondos armonizados, nunca por reembolso.
 - Nada se mueve sin verificar antes la clase del fondo y su coste real en la plataforma.
 - **Rock no se desmonta**: la plusvalía de +83,44 % acumulada desde 2020 se cristalizaría. Su 78/22 y su
-  bono a 20+ años se aceptan como parte del diseño, y por eso el 76 % del riesgo de tipos vive ahí.
+  bono a 20+ años se aceptan como parte del diseño: Rock aporta el 46 % de la euro-duración de la
+  cartera, aunque su RF sean solo 6.600 € de 42.800 €.
 - Las acciones individuales son **otro bloque de riesgo** del titular: no entran en el % de RV de esta
   cartera ni se compensan con ella.
