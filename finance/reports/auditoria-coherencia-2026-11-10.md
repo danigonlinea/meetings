@@ -45,7 +45,7 @@ complemento de acciones— y el mismo día se corrigió esto:
 | §5 prima francesa | ✅ matizada como dato del 23-10; «15 carpetas» → 14; el minuto 61:01/61:03 se comprobó y los dos son válidos |
 | §6 títulos truncados | ✅ arreglados en el frontmatter y en el INDEX |
 | §7 rutas | ✅ `finance/videos/myinvestor-webinars/` en README y AGENTS; las seis skills en el README |
-| §6 glosario y etiquetas | ✅ glosario reescrito al 10/11 (11 ponentes, 6 canales, dos correcciones del 10-09 cerradas como no verificables) y 14 resúmenes con etiquetas propias |
+| §6 glosario y etiquetas | ✅ glosario reescrito al 10/11 (11 hablantes y 2 referenciados, 6 canales, dos correcciones del 10-09 cerradas como no verificables) y 14 resúmenes con etiquetas propias |
 | §7 sexta propuesta y `AGENTS.md` | ✅ `propuesta-definitiva.md` documentada en §12; umbrales de `AGENTS.md` al §11 |
 
 Nada de esta lista queda abierto. Los dos únicos puntos que siguen sin poder comprobarse son los del
