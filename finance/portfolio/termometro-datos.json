@@ -1,14 +1,27 @@
 {
-  "fecha": "2026-10-31",
-  "fuente": "propuesta-actual.md §2 y §11; fichas MyInvestor 29/10, factsheets 30/09",
+  "fecha": "2026-11-10",
+  "fuente": "propuesta-actual.md §2, §3 y §11; fichas MyInvestor 04/11/2026",
   "inflacion": 3.8,
   "estr": 2.44,
-  "rf_cartera": 4.79,
+  "rf_ytw": 4.24,
+  "rf_cobrado": 0.41,
   "hy_oas_pb": 363,
   "bb_oas_pb": 175,
   "sp500_per": 18.7,
   "stoxx600_per": 13.6,
   "em_per": 10.2,
-  "bono_10y": null,
-  "rv_pct": 50.0
+  "ey_cartera": 6.65,
+  "bono_10y": 4.24,
+  "rv_pct": 55.0,
+  "base_rv": 45.0,
+  "senales": {
+    "coste_real": 0,
+    "prima_credito": 3,
+    "valoracion": 2,
+    "concentracion": -5,
+    "riesgo_tipos": 2,
+    "aguante": 3,
+    "carry_cobrado": 3,
+    "prima_rv_bono": 2
+  }
 }

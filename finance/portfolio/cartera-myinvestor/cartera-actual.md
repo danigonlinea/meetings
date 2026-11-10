@@ -110,7 +110,7 @@ cartera y las fichas individuales.
 | Nº de posiciones | 8 manuales + 9 de Rock = 17 |
 | Posiciones ≤ 2.000 € | 3 (Cobas, Space, China) = 3.000 € = 3,3% |
 | Drawdown estimado en escenario 2008 | ≈ −13% a −14% |
-| Exposición USA (equity) | ≈ 56% de la RV (Rock vía S&P 500 y Vanguard US) |
+| Exposición USA (equity) | ≈ 47% de la RV de la cartera (56% de la RV de Rock: S&P 500, Vanguard US y el 65% de GS) |
 
 ---
 

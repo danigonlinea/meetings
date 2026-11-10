@@ -18,6 +18,11 @@ related:
 > ni un euro de la cartera**: ninguna de las comprobaciones mueve importes. Encuentra dos
 > discrepancias de redacción, un hueco de fondo que la carpeta ya tenía abierto (el colchón) y
 > confirma el resto. No es asesoramiento financiero.
+>
+> **Aviso de vigencia (10/11/2026).** Se escribió sobre la cartera del **03/11** (50/50, ocho fondos,
+> Sissener, 588 €/año). La definitiva es la del **04/11** (`propuesta-actual.md`: 55/45, diez fondos,
+> 424,80 €/año), que absorbió aquella y la borró. El método y los criterios de Ackman siguen valiendo;
+> los importes, y las referencias a §14 y §10.3, corresponden a la numeración de la versión derogada.
 
 ## 1. Veredicto
 

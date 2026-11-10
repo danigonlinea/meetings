@@ -31,6 +31,22 @@ la herramienta del repositorio mide precisamente esa versión derogada. Hay adem
 localizados en el documento vigente y en el de Renta 4, y un glosario con correcciones pendientes desde
 el 11/10 que nadie aplicó.
 
+## Estado a 10/11/2026
+
+El titular fijó la verdad vigente —`propuesta-actual.md` del 04/11, con `propuesta-acciones.md` como
+complemento de acciones— y el mismo día se corrigió esto:
+
+| Hallazgo | Estado |
+| --- | --- |
+| §1 dos verdades sobre la cartera | ✅ README de cartera y `propuesta-acciones.md` al 55/45; avisos de vigencia fechados en el contraste del 03/11 y en la revisión del 02/11; referencia de Renta 4 actualizada |
+| §2 subtotales de sesión, Fidelity, carry, euro-duración, tabla de retorno y fila de §11 | ✅ corregidos y verificados con el termómetro |
+| §3 termómetro sobre la cartera derogada | ✅ reescrito: re-puntúa las ocho señales, valida la suma (45 + 10 = 55) y reproduce las dos tablas de §2 |
+| §4 Renta 4 | ✅ liquidez (4.632 €) y carry (39 / 74 €/año) cuadrados |
+| §5 prima francesa | ✅ matizada como dato del 23-10; el minuto 61:01 → 61:03 y «15 carpetas» → 14 |
+| §6 títulos truncados | ✅ arreglados en el frontmatter y en el INDEX |
+| §7 rutas del README | ✅ `finance/videos/myinvestor-webinars/` y las seis skills |
+| Glosario, 14 etiquetas de plantilla, la sexta propuesta de §12, `AGENTS.md` | ⏳ pendiente |
+
 ## 1. Bloqueante — dos verdades sobre la cartera de MyInvestor
 
 La versión vigente es `propuesta-actual.md` del **04/11/2026**: 55,0 % RV / 45,0 % RF, diez fondos

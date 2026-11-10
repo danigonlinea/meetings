@@ -18,6 +18,11 @@ Javier Ruiz sobre que la rentabilidad contratada de la renta fija no se está co
 coincidencia útil** (TGS ya está dentro de Cobas). El resto es ruido, autodefensa de un gestor o
 cifras que no aguantan la verificación.
 
+> **Aviso de vigencia (10/11/2026).** Las cifras de esta revisión son de la cartera del **03/11**
+> (50/50, 48.500 € de RF, once órdenes). La vigente es la del **04/11** (55/45, 43.624 € de RF, catorce
+> órdenes). El hallazgo que importaba —el YTW no es rentabilidad cobrada— quedó incorporado a §11.1 de
+> la propuesta, con el carry medido: 0,4 % nominal y −3,4 % real en 2026.
+
 ## 1. Qué es cada vídeo, dicho sin cortesía
 
 | Vídeo | Qué es en realidad | Valor para una cartera |

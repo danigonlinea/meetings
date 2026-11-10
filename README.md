@@ -69,7 +69,8 @@ Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpe
 ## Skills
 
 Las skills viven en `.agents/skills/` (`ingest-meeting`, `ingest-channel`,
-`ingest-webinars`, `revision-cartera`); cuándo usar cada una, en `AGENTS.md`.
+`ingest-webinars`, `informe-semanal`, `revision-cartera`, `cribado-acciones`); cuándo usar cada una, en
+`AGENTS.md`.
 
 ## Reports: qué es cada uno
 
@@ -100,7 +101,7 @@ uv run --project ytpipe ytpipe fetch <url> --out finance/videos/<fuente> --no-op
 # webinars de MyInvestor
 python3 tools/myinvestor_webinars.py list        # TSV: id, título, post
 python3 tools/myinvestor_webinars.py pendientes  # solo los que faltan por ingerir
-python3 tools/myinvestor_webinars.py catalogo    # reescribe finance/myinvestor-webinars/catalogo.md
+python3 tools/myinvestor_webinars.py catalogo    # reescribe finance/videos/myinvestor-webinars/catalogo.md
 
 # qué falta por ingerir, sin descargar (canal + webinars)
 python3 tools/nuevos.py
@@ -113,9 +114,10 @@ python3 tools/build_index.py
 python3 tools/verify.py
 python3 tools/verify.py --git     # exige árbol limpio y nada sin subir
 
-# termómetro de cartera (aritmética del §2 y umbrales del §10)
+# termómetro de cartera (re-puntúa las señales del §2 y comprueba que dan el 55 %)
 python3 tools/termometro.py
 python3 tools/termometro.py --rv 45
+python3 tools/termometro.py --check     # solo coherencia; sale 1 si el % ya no cuadra
 ```
 
 No descargar en paralelo: YouTube responde con HTTP 429.

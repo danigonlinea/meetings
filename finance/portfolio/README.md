@@ -14,12 +14,13 @@ se escribe en un documento aparte con su propia fecha.
 
 | Carpeta | Qué es | Documentos |
 | --- | --- | --- |
-| `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 03/11/2026**: 50/50 con Aegon ABS y Sissener, 588 €/año de coste real, con el barrido por bloques en §11) + dos anexos de investigación |
+| `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 04/11/2026**: 55/45 en diez fondos solo, 424,80 €/año de coste real, catorce órdenes en §7) + `propuesta-acciones.md` (complemento de acciones) |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 
-`propuesta-acciones.md` (04/11/2026) es un **anexo de investigación**, no una tercera cartera: cuatro
-acciones individuales sin dividendo mencionadas en el corpus, con ficha, múltiplo y señal de
-invalidación. No se financia vendiendo ninguna de las dos carteras ni se consolida con ellas.
+`propuesta-acciones.md` (04/11/2026) es el **complemento de acciones** de la cartera de fondos, no una
+tercera cartera: cuatro acciones individuales sin dividendo mencionadas en el corpus, con ficha,
+múltiplo y señal de invalidación, pensadas para convivir con la cartera una vez rebalanceada a 55/45.
+No se financia vendiendo ninguna de las dos carteras ni se consolida con ellas.
 
 ## Reglas
 
@@ -44,11 +45,10 @@ invalidación. No se financia vendiendo ninguna de las dos carteras ni se consol
 - La revisión trimestral se escribe con la skill `revision-cartera` y se guarda como
   `revision-YYYY-QN.md` en esta carpeta; el % de RV lo decide el dueño.
 
-## Estado a 02/11/2026
+## Estado a 10/11/2026
 
-- **MyInvestor:** propuesta cerrada al 50,0% de RV / 50,0% de RF, 0,655% de TER, 11 órdenes en tres
-  tandas. Pendientes: gastos mensuales, aguantar el −21,5% y elegir anexo (los dos proponen ya los mismos
-  dos vehículos: Fundsmith y los REITs de iShares).
+- **MyInvestor:** propuesta cerrada al 55,0% de RV / 45,0% de RF, 0,438% de TER, 14 órdenes en dos
+  sesiones. Pendientes: dimensionar los gastos mensuales del colchón y aguantar el −23,4% (−22.700 €).
 - **Renta 4:** auditoría nueva. 15,3% de RV real, 0,83% de coste (287 €/año) y 65,7% del patrimonio en
   bonos corporativos. Recomendación: **Kaizen se queda** y se recorta al 25%, con 3.618 € a un indexado
   global (21,2% de RV, 0,76% de coste). Pendiente: confirmar el recorte y la clase del fondo de destino.

@@ -38,7 +38,7 @@ related:
 
 | # | Decisión | Por qué |
 | --: | --- | --- |
-| 1 | **RV del 50 % al 55 %** | Ocho señales de §2 puntúan 55; la RF cobró ≈−2,5 % real en 12 meses |
+| 1 | **RV del 50 % al 55 %** | Ocho señales de §2 puntúan 55; la RF cobró ≈0,4 % nominal (≈−3,4 % real) en 12 meses |
 | 2 | **Sale Sissener** (crédito nórdico) | Su top-10 son bonos HY de energía y shipping, no IG: se pagaba prima de crédito por lo que el diseño decía no comprar |
 | 3 | **Entra Cobas Renta** al 0,33 % | Único vehículo de RF del catálogo que **ganó en 2022** (+3,89 %) con vol 2,93 % |
 | 4 | **Entra Amundi Euro Corp 1-5Y** al 0,35 % | Indexado de la misma familia que el Neuberger, sin apuesta de gestor: baja la concentración del Neuberger del 32,9 % al 17,5 % |
@@ -57,13 +57,13 @@ entrada. Base neutra para horizonte largo sin necesidad de vender: **45 %**.
 
 | Señal | Dato a 04/11/2026 | Efecto |
 | --- | --- | ---: |
-| **Coste real del dinero** | TIR de la RF corta 4,24-4,65 % frente a inflación 3,8 % → **+0,4 a +0,8 % real** | **0** |
+| **Coste real del dinero** | TIR de la RF corta 4,24-4,65 % frente a inflación 3,8 % → **+0,4 a +0,8 % real** (YTW; lo cobrado va en la señal 7) | **0** |
 | **Prima de crédito** | HY europeo OAS 363 pb (normal 260-300) y BB a 175 pb: no se paga por asumir crédito | **+3** |
 | **Valoración relativa** | S&P 500 18,7x · STOXX 600 13,6x · MSCI EM 10,2x | **+2** |
 | **Concentración y ciclo de crédito** | 46 % del S&P en tecnología, 34 % en siete valores; Ábaco: 60-70 % de probabilidad de evento de crédito en 6-12 meses | **−5** |
 | **Riesgo de tipos** | BCE restrictivo (depósito 2,50 %, dos subidas en 2026): no se alarga duración | **+2** |
 | **Capacidad de aguante** | Colchón de 10.000 € fuera, ingresos estables, sin obligación de vender | **+3** |
-| **Carry cobrado de la RF** | 1A 2026: Neuberger −0,03 %, Aegon +2,39 %, Amundi −0,19 % → por debajo del 2 % cobrado (§11.1) | **+3** |
+| **Carry cobrado de la RF** | 1A 2026: Neuberger −0,03 %, Aegon +2,39 %, Amundi −0,19 % → **0,4 % ponderado**, por debajo del 2 % (§11.1) | **+3** |
 | **Prima RV-bono** | *Earnings yield* 6,65 % − bono 4,24 % = **2,4 pp** (pánico si <1 pp) | **+2** |
 | | **45 + 10 = 55 %** | |
 
@@ -72,15 +72,19 @@ entrada. Base neutra para horizonte largo sin necesidad de vender: **45 %**.
 
 | RV | RF | Caída tipo 2008 | Retorno (EY solo) | Retorno (EY + crecimiento 4 %) |
 | ---: | ---: | ---: | ---: | ---: |
-| 45 % | 55 % | −19,6 % | 5,05 % | 7,29 % |
-| 50 % | 50 % | −21,5 % | 5,10 % | 7,60 % |
-| **55 %** | **45 %** | **−23,4 %** | **5,56 %** | **7,76 %** |
-| 60 % | 40 % | −25,2 % | 5,41 % | 8,21 % |
-| 68 % | 32 % | **−28,0 %** | 5,92 % | 8,68 % |
+| 45 % | 55 % | −19,6 % | 5,32 % | 7,12 % |
+| 50 % | 50 % | −21,5 % | 5,45 % | 7,45 % |
+| **55 %** | **45 %** | **−23,4 %** | **5,57 %** | **7,77 %** |
+| 60 % | 40 % | −25,2 % | 5,69 % | 8,09 % |
+| 68 % | 32 % | −28,2 % | 5,88 % | 8,60 % |
+
+Caída = −(40 % × RV + 3 % × RF), el escenario de 2008. Retorno = RV × *earnings yield* 6,65 % + RF ×
+4,24 %; con crecimiento, se suman 4 puntos al EY de la RV. Las cinco filas salen de esas dos fórmulas
+y las reproduce `python3 tools/termometro.py`.
 
 **Suelo conductual:** −23,4 % sobre 97.000 € son **−22.700 €**. Si en ese momento se vende, el modelo no
-vale: baja a 45 %. La última fila está a propósito: bajar la RF a 23.000 € (32 %) cambiaría el perfil a
-−28,0 % y **no es lo que esta cartera propone**.
+vale: baja a 45 %. La última fila está a propósito: bajar la RF a 31.000 € (32 %) cambiaría el perfil a
+−28,2 % y **no es lo que esta cartera propone**.
 
 ---
 
@@ -168,22 +172,24 @@ RV o RF aunque el vehículo sea mixto (Cobas Renta entra con su 14,5 % sumado a 
 | **Coste total real** | **584 €/año (0,602 %)** | **424,80 €/año (0,438 %)** | **−159 €/año (−27 %)** |
 | Duración RF manual | ≈3,3 años | **≈2,3 años** | −1,0 |
 | Duración RF total (con Rock) | ≈3,3 años | **≈3,6 años** | +0,3 |
-| Impacto +100 pb | −1.600 € | **−1.590 €** | igual |
-| Carry YTW de la RF manual | 4,42-4,67 % | **≈4,24 % (1.545 €)** | −0,2 pp |
+| Impacto +100 pb | −1.600 € | **−1.540 €** | igual |
+| Carry YTW de la RF manual | 4,42-4,67 % | **≈4,24 % (1.535 €)** | −0,2 pp |
 | Caída tipo 2008 | −20,9 % | **−23,4 %** | −2,5 pp |
-| Retorno esperado (EY + carry) | 5,6 % | **5,56 %** | igual |
-| Retorno esperado (EY + crecimiento 4 %) | 7,6 % | **7,76 %** | +0,2 pp |
+| Retorno esperado (EY + carry) | 5,6 % | **5,57 %** | igual |
+| Retorno esperado (EY + crecimiento 4 %) | 7,6 % | **7,77 %** | +0,2 pp |
 | Posiciones | 8 manuales + Rock | **10 manuales + Rock** | +2 |
 | EE. UU. dentro de la RV | 34,5 % | **30,0 %** | −4,5 pp |
 | Mayor concentración de gestora | Neuberger 32,9 % | **BlackRock 24,8 %** (todo indexado) | −8,1 pp |
 
 **Lo que la duración no baja.** La RF manual baja a 2,3 años, pero la total sube a 3,6 porque la RF de
-Rock (6.600 €, con 3.000 € a 20+ años) pesa más al haber menos RF manual. **El 76 % del riesgo de tipos
-vive en Rock.** Cada +100 pb cuesta ≈1.590 €.
+Rock (6.600 €, con 3.000 € a 20+ años) pesa más al haber menos RF manual. **El 46 % del riesgo de tipos
+vive en Rock**: de los 154.080 € de euro-duración de la cartera (3,6 × 42.800 €), 83.260 € son de la RF
+manual (2,3 × 36.200 €) y 70.820 € de Rock. Cada +100 pb cuesta ≈1.540 €.
 
-**Lo que el 2022 dice de este cambio.** Con RV −25 % y RF −3 %, la cartera del 03/11 perdía 19.600 €;
-esta pierde 22.700 € porque lleva 6,6 pp más de bolsa. La contrapartida es +0,2 pp de retorno anual con
-crecimiento. **Es un cambio de riesgo, no una mejora gratis.**
+**Lo que el 2022 dice de este cambio.** Con RV −25 % y RF −3 %, la cartera del 03/11 perdía 13.200 €;
+esta pierde 14.700 € porque lleva 6,6 pp más de bolsa (el −23,4 % y los 22.700 € de §2 son el escenario
+de 2008, con RV −40 %). La contrapartida es +0,2 pp de retorno anual con crecimiento. **Es un cambio de
+riesgo, no una mejora gratis.**
 
 ---
 
@@ -203,7 +209,7 @@ sesiones.
       otros cinco publican 0,00 %.
 - [ ] **Traspaso, nunca reembolso.**
 
-### 7.1 Sesión 1 — 31.000 € · 7 órdenes
+### 7.1 Sesión 1 — 25.000 € · 7 órdenes
 
 | Hecho | # | Origen | € | Destino | Antes de |
 |:--:|--:|---|---:|---|---|
@@ -217,7 +223,7 @@ sesiones.
 
 Cortes: Europa y DNCA a las **09:00**; Amundi, Gamma y Cobas a las 12:00 o 14:00; Japón a las 16:00.
 
-### 7.2 Sesión 2 (2-3 días después) — 18.000 € · 7 órdenes
+### 7.2 Sesión 2 (2-3 días después) — 24.000 € · 7 órdenes
 
 | Hecho | # | Origen | € | Destino | Antes de |
 |:--:|--:|---|---:|---|---|
@@ -295,7 +301,7 @@ Pacífico 2.000 · EM 6.000 · REITs 4.000 · Cobas Intl +4.000 = **49.000 €**
 | Emergentes (Taiwán, Corea, China, India, Brasil) | **17,4 %** | 9.298 |
 | Pacífico ex-Japón (Australia, Singapur, Hong Kong, NZ) | **5,5 %** | 2.938 |
 | Canadá y otros | 2,2 % | 1.166 |
-| Sin desglosar en las fichas (Cobas no publica el 44 %) | 5,5 % | 2.929 |
+| Sin desglosar en las fichas (Cobas no publica el 44 %) y efectivo de los fondos | 7,4 % | 3.945 |
 
 Frente a un MSCI ACWI (63 % EE. UU., 15 % Europa, 10 % emergentes, 5 % Japón): **−33 pp de EE. UU.,
 +11 pp de Europa, +7 pp de emergentes y +6 pp de Japón.** Esa es la tesis entera, y se puede medir.
@@ -322,7 +328,7 @@ Tecnología al 15,6 % de la RV frente al 30,8 % de un MSCI World.
 | Gestora | € | % cartera |
 | --- | ---: | ---: |
 | BlackRock / iShares | 24.100 | 24,8 % |
-| Fidelity | 19.700 | 20,3 % |
+| Fidelity | 20.300 | 20,9 % |
 | Neuberger Berman | 17.000 | 17,5 % |
 | Cobas | 10.000 | 10,3 % |
 | Amundi | 7.200 | 7,4 % |
@@ -330,6 +336,9 @@ Tecnología al 15,6 % de la RV frente al 30,8 % de un MSCI World.
 | Aegon | 7.000 | 7,2 % |
 | Goldman Sachs | 4.200 | 4,3 % |
 | Groupama | 10.000 | — (colchón) |
+
+Los porcentajes suman 99,8 % por redondeo a un decimal; el 100 % son 97.000 € (la columna de € sí
+cuadra). Groupama queda fuera: es el colchón, no cartera.
 
 ### 9.4 Divisas (sin cobertura)
 
@@ -384,14 +393,17 @@ que no es de coste: **un ETF no admite traspaso**. Cada rebalanceo o cambio de e
 Trimestral (enero, abril, julio, octubre) y cuando se cumpla una señal. **El modelo de §2 se puntúa
 entero: las señales no son aditivas.**
 
-| Señal | Umbral | Efecto |
-| --- | --- | ---: |
-| Carry cobrado de la RF | Por debajo del 2 % a 12 meses (ya activada en 2026) | **+3** → ~58 % |
-| Prima de crédito | HY OAS >700 pb | **−3** → ~52 % |
-| Valoración RV | S&P 500 −20 % con beneficios intactos | **+6** → ~61 % |
-| Evento de crédito | Spreads >700 pb y default en curso | **+4** → ~59 % |
-| Prima RV-bono | *Earnings yield* − bono <1 pp | **−10** → ~45 % |
-| Inflación y tipos | Inflación <2 % y BCE bajando | **−3** → ~52 % |
+| Señal | Puntos hoy (§2) | Umbral | Puntos si cambia | % de RV |
+| --- | ---: | --- | ---: | ---: |
+| Carry cobrado de la RF | +3 | Por debajo del 2 % a 12 meses (ya activada en 2026) | 0 | **52 %** |
+| Prima de crédito | +3 | HY OAS >700 pb | −3 | **49 %** |
+| Valoración RV | +2 | S&P 500 −20 % con beneficios intactos | +6 | **59 %** |
+| Evento de crédito | −5 | Spreads >700 pb y default en curso | +4 | **64 %** |
+| Prima RV-bono | +2 | *Earnings yield* − bono <1 pp | −10 | **43 %** |
+| Inflación y tipos | +2 | Inflación <2 % y BCE bajando | −3 | **50 %** |
+
+El % de la última columna aplica el delta sobre la puntuación actual: 45 + 10 = 55 hoy, y por ejemplo
+55 − 3 = 52 si el carry vuelve a 0. Se repuntúa el modelo entero, no una señal suelta.
 
 Además, sobre las posiciones nuevas o cambiadas:
 
@@ -405,10 +417,12 @@ Además, sobre las posiciones nuevas o cambiadas:
 
 ### 11.1 El marcador de carry cobrado
 
-Se mide **cobrado a 12 meses**, no con el YTW. En 2026 la RF manual cobró ≈1,3 % (Neuberger −0,03 %,
-Aegon +2,39 %, Amundi −0,19 %) frente a una inflación del 3,8 %: **−2,5 % real**. Por eso el modelo ya
-puntúa +3. Testigo externo: Horos Patrimonio (duración 2,5, 80 % corporativo, esperaba 4,5 % y lleva
-<2 %). **Si en enero la RF cobra ≈4,2 %, la señal vuelve a 0 y el modelo baja a 52 %.**
+Se mide **cobrado a 12 meses**, no con el YTW. En 2026 las tres carteras de renta fija pura que se
+quedan —Neuberger 17.000 €, Aegon 7.000 € y Amundi 7.200 €, 31.200 € sobre 36.200 € de RF manual—
+cobraron **0,4 % ponderado** (−0,03 %, +2,39 % y −0,19 %). Con Cobas Renta dentro (+11,7 % a un año)
+el bloque sube a 2,0 %, pero ese es un mixto. Frente a una inflación del 3,8 %: **−3,4 % real**. Por eso
+el modelo ya puntúa +3. Testigo externo: Horos Patrimonio (duración 2,5, 80 % corporativo, esperaba
+4,5 % y lleva <2 %). **Si en enero la RF cobra ≈4,2 %, la señal vuelve a 0 y el modelo baja a 52 %.**
 
 ---
 

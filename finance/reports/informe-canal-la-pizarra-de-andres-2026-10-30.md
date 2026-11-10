@@ -83,7 +83,7 @@ related: [finance/reports/sintesis-inversor-2026-10-30.md]
 - **Cuánta liquidez conviene.** El 2026-10-23 pide guardar liquidez como plan B y el 2026-10-25 la usa como colchón del 10% para comprar crédito barato. El 2026-10-18 afirma que vender durante la corrección para quedarse en liquidez destruye más rentabilidad que la propia caída. La diferencia está en el punto de partida: liquidez nueva frente a vender lo que ya se tiene (inferida).
 - **Tono sobre la bolsa.** El 2026-10-23 dice que el mercado se está comportando "bastante bien para todo lo que tenemos encima de la mesa" y no llama a vender. El 2026-10-22 ve un ciclo maduro, con múltiplos exigentes y beneficios hinchados por partidas contables, y el 2026-10-25 da entre un 60% y un 70% de probabilidad a un evento de crédito. Son tres niveles de alarma distintos en la misma semana.
 - **Dónde está el riesgo de la IA.** El 2026-10-23 y el 2026-10-25 lo sitúan en la concentración y la valoración. El 2026-10-22 añade el canal de la deuda y pone el CDS de CoreWeave (1194 puntos básicos) por delante del múltiplo.
-- **Invitados con interés comercial.** El 2026-10-20 lo firma Andrés, que vende servicios de gestión desde 400.000 euros, y lo advierte en el propio resumen. Los invitados de 2026-10-22 y 2026-10-25 presentan sus carteras, y el gestor de Renta 4 pide explícitamente que nadie copie sus posiciones (61:01).
+- **Invitados con interés comercial.** El 2026-10-20 lo firma Andrés, que vende servicios de gestión desde 400.000 euros, y lo advierte en el propio resumen. Los invitados de 2026-10-22 y 2026-10-25 presentan sus carteras, y el gestor de Renta 4 pide explícitamente que nadie copie sus posiciones (61:03).
 
 ## Riesgos que menciona el canal
 
@@ -146,7 +146,7 @@ related: [finance/reports/sintesis-inversor-2026-10-30.md]
 - Comprar solo porque el precio ha caído: el caso de −50 % que acaba en −80 % (2026-10-23, 11:56).
 - Value traps y reestructuraciones compradas demasiado pronto o demasiado caras (2026-10-18, 21:35 y 78:30).
 - Crédito de riesgo con spreads comprimidos y la parte larga nominal de la curva (2026-10-25, 15:13 y 28:37).
-- Las posiciones concretas del invitado de Renta 4: «recomiendo que no compre ni uno solo de mis valores» (2026-10-22, 61:01).
+- Las posiciones concretas del invitado de Renta 4: «recomiendo que no compre ni uno solo de mis valores» (2026-10-22, 61:03).
 
 ## Qué se puede comprar hoy según el canal
 

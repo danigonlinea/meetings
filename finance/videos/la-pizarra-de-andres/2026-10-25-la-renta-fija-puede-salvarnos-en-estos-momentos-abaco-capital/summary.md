@@ -1,5 +1,5 @@
 ---
-title: "La Pizarra de Andrés: renta fija, estanflación y la oportunidad que espera en el"
+title: "La Pizarra de Andrés: renta fija, estanflación y la oportunidad que espera en el crédito (Ábaco Capital)"
 date: 2026-10-25
 type: meeting-summary
 category: finance

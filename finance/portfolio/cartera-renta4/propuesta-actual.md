@@ -45,9 +45,9 @@ renta fija se ganan su comisión?
 | Renta 4 Renta Fija R | +3,5% | Volatilidad 0,99% | 3,5% con un 1% de volatilidad es un carry corto correcto. |
 | Renta 4 Renta Fija 6 Meses | +2,9% | €STR ~2,4% | Monetario por encima del tipo de referencia, con 0,27% de volatilidad. |
 
-**Conclusión: no se cambia ninguno de los tres.** Ni AXA por un indexado (se ahorran 52 €/año de
-comisión y se renuncia a ~1,2 pp de rentabilidad, ~70 €/año), ni la RF R por el monetario (se ahorran
-49 €/año y se renuncia a 1,1 pp de carry, ~135 €/año). La v1 ya descartaba esos cambios por coste;
+**Conclusión: no se cambia ninguno de los tres.** Ni AXA por un indexado (se ahorran 39 €/año de
+comisión y se renuncia a ~1,2 pp de rentabilidad, ~71 €/año), ni la RF R por el monetario (se ahorran
+49 €/año y se renuncia a 0,6 pp de rentabilidad, ~74 €/año). La v1 ya descartaba esos cambios por coste;
 ahora se descartan también por rentabilidad.
 
 ## 3. Lo que sí se puede mejorar sin salir de Kaizen
@@ -68,8 +68,9 @@ elegir 10 fondos ni hacer un puzzle.
 
 ### 3.3 La liquidez: 13,3% (opcional)
 
-La cartera tiene 4.632 € en efectivo y monetarios: 4.272 € en el fondo de 6 Meses y 1.951 € dentro del
-propio Kaizen. Si este dinero no es el colchón (el colchón está fuera), mantener el 13% en liquidez a
+La cartera tiene **4.632 €** de liquidez dentro de los fondos (13,3 %): **1.951 €** dentro de Kaizen y
+el resto en el monetario de 6 Meses —que vale 4.272 € y destina un 22 % a liquidez— y en las otras dos
+posiciones. Si este dinero no es el colchón (el colchón está fuera), mantener el 13 % en liquidez a
 largo plazo es caro en rentabilidad esperada. Moverlo a RV es una decisión de **liquidez**, no de
 fondos, y va aparte en la tabla de niveles.
 
@@ -138,8 +139,8 @@ impuestos** (fondo a fondo armonizado). No hace falta efectivo en la cuenta.
 | Idea | Por qué no |
 | --- | --- |
 | Salir de Kaizen entero | Decisión del titular: le gusta el fondo y hace lo que tiene que hacer. Se respeta y se reconstruye el plan sin ella (§1). |
-| Cambiar AXA por un indexado de crédito (0,50%) | Ahorra 52 €/año y renuncia a ~70 €/año de rentabilidad (3A +5,4% vs +4,2% del índice), además de añadir ~1 año de duración. |
-| Cambiar Renta 4 RF R por el monetario | Ahorra 49 €/año y renuncia a ~135 €/año de carry (3,3% → 2,2%). |
+| Cambiar AXA por un indexado de crédito (0,50%) | Ahorra 39 €/año (1,16% → 0,50% sobre 5.914 €) y renuncia a ~71 €/año de rentabilidad (3A +5,4% vs +4,2% del índice), además de añadir ~1 año de duración. |
+| Cambiar Renta 4 RF R por el monetario | Ahorra 49 €/año (0,71% → 0,31% sobre 12.273 €) y renuncia a ~74 €/año de rentabilidad (3,5% → 2,9%, la pareja de §2). |
 | Cambiar Renta 4 RF R por un indexado de crédito | Diversifica la periferia (49% → 11%) pero añade ~2,9 años de duración: no es una mejora de coste, es un cambio de riesgo de tipos. |
 | Comprar el indexado por ETF | Los ETF no admiten traspaso: obligan a reembolsar (121 € de plusvalía) y a operar en bolsa. Para 3.618 €, no. |
 | Llevar el dinero a MyInvestor | Un traspaso entre plataformas es un reembolso: 121 € de impuestos y nada que no se pueda hacer en Renta 4. |
@@ -187,5 +188,5 @@ impuestos** (fondo a fondo armonizado). No hace falta efectivo en la cuenta.
 - **BCE / FRED** (30/10/2026): facilidad de depósito 2,50%.
 - **Trading Economics** (29/10/2026): bono alemán a 10 años 3,95%.
 - **SocGen vía Seeking Alpha** (30/10/2026): spread del crédito IG euro 116 pb.
-- **`../cartera-myinvestor/propuesta-actual.md`** (31/10/2026): señales macro y objetivo 50/50 de la otra
+- **`../cartera-myinvestor/propuesta-actual.md`** (04/11/2026): señales macro y objetivo 55/45 de la otra
   cartera, usado solo como referencia de perfil, no para consolidar cifras.

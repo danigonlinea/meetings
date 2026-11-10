@@ -16,7 +16,7 @@ related:
 - **Canal:** La Pizarra de Andrés (`finance/videos/la-pizarra-de-andres`)
 - **Fecha de la ejecución:** 2026-11-02
 - **Vídeos analizados en esta tanda:** 2
-- **Carpetas del canal leídas:** 15 (todas en `finance/videos/la-pizarra-de-andres`; las 4 que estaban en `ai/la-pizarra-de-andres` se movieron en la auditoría del 02/11)
+- **Carpetas del canal leídas:** 14 (todas en `finance/videos/la-pizarra-de-andres`; las 4 que estaban en `ai/la-pizarra-de-andres` se movieron en la auditoría del 02/11)
 - **Lectura del periodo:** el juicio propio sobre estas dos charlas —qué sirve y qué no para la cartera— está en `revision-adversarial-2026-11-02.md`. Este informe es el acta: lo que dicen los vídeos, con cita y minuto.
 
 ## Vídeos analizados

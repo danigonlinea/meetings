@@ -16,17 +16,20 @@ related:
 
 # Propuesta de acciones sin dividendo — 04/11/2026
 
-> **Qué es.** Una cartera de **acciones individuales**, todas ellas **mencionadas en el corpus del
-> repositorio** (La Pizarra de Andrés, webinars de MyInvestor, El Arte de Invertir) y **ninguna que
-> reparta dividendos**. Es una propuesta de investigación: no toca las dos carteras existentes, no
-> modifica el 50/50 de MyInvestor ni la auditoría de Renta 4 y no se consolida con ellas.
+> **Qué es.** El **complemento de acciones** de la cartera de fondos de `propuesta-actual.md`: una
+> cartera de **acciones individuales**, todas ellas **mencionadas en el corpus del repositorio** (La
+> Pizarra de Andrés, webinars de MyInvestor, El Arte de Invertir) y **ninguna que reparta dividendos**.
+> Son las posiciones que podrían convivir con la cartera actual una vez ejecutado el rebalanceo a 55/45
+> que esa propuesta plantea; se analizan aparte porque cada una exige ficha, múltiplo y señal de
+> invalidación. No toca las dos carteras existentes, no modifica la cartera 55/45 de MyInvestor ni la
+> auditoría de Renta 4 y no se consolida con ellas.
 >
 > **Qué no es.** No es una recomendación del canal: el corpus **no contiene ninguna acción sin
 > dividendo con tesis completa y recomendación explícita**. Lo que hay son carteras de gestores
 > (Horos, Arcus, el invitado de la charla de IA) y menciones sueltas de calidad. La propuesta se
 > construye sobre esas menciones **más** verificación propia de negocio, múltiplo y precio.
 >
-> **Fuentes del corpus usadas.** 17 `summary.md` y 3 informes de `finance/reports/`. Se reutilizan
+> **Fuentes del corpus usadas.** 18 `summary.md` y los informes de `finance/reports/`. Se reutilizan
 > además el método y las verificaciones de los anexos absorbidos el 04/11/2026 (regla de acumulación,
 > ficha por vehículo, etiquetas hecho/consenso/opinión, señal de invalidación); el texto íntegro de
 > esos anexos está en el historial de git, commit `50b2e69`, y sus conclusiones en `propuesta-actual.md`.
@@ -68,7 +71,7 @@ invertido (24,1x y 22,3x normalizado al 100 %). Beta ponderada ≈ **1,37** (1,5
 
 ### 1.1 Pasos
 
-1. **Extraer el universo.** Se leen los 17 resúmenes y se listan **todas** las compañías cotizadas
+1. **Extraer el universo.** Se leen los 18 resúmenes y se listan **todas** las compañías cotizadas
    nombradas, con su postura (`recomienda`, `en cartera`, `neutro`, `criticado por caro`,
    `ejemplo negativo`, `idea a estudiar`). Una mención no es una recomendación.
 2. **Filtrar por dividendo.** Se comprueba la política de retribución en la ficha de cada una
@@ -173,14 +176,14 @@ La liquidez aquí **no es un colchón de seguridad**, es una orden pendiente.
 | Posiciones | 4 | Concentración alta, por construcción (§8) |
 | PER trailing ponderado | 21,7x | 24,1x normalizado al 100 % |
 | PER forward ponderado | 20,1x | 22,3x normalizado |
-| Beta ponderada | 1,37 | 1,52 sobre lo invertido; el 50/50 de MyInvestor estima −21,5 % en un 2008 |
+| Beta ponderada | 1,37 | 1,52 sobre lo invertido; la cartera 55/45 estima −23,4 % en un 2008 |
 | Moneda | 100 % USD | EUR/USD 1,1225; sin cobertura |
 | Sectores | 30 % nube y comercio (AMZN) · 25 % medios (NFLX) · 20 % software (ADBE) · 15 % hardware de red (ANET) | En la práctica, **una sola apuesta: tecnología americana** |
 | Dividendo | 0 € | Ninguna de las cuatro retribuye al accionista |
 
 **Lo que no se compra con esta cartera.** Diversificación. Cuatro nombres del mismo mercado y del
 mismo bloque temático no diversifican: comparten el ciclo de capex de la IA, el tipo de interés
-americano y el dólar. El 50/50 de MyInvestor sigue siendo el núcleo; esto es una satélite de
+americano y el dólar. La cartera de fondos 55/45 sigue siendo el núcleo; esto es una satélite de
 convicción y se dimensiona como tal.
 
 ## 4. Fichas
@@ -493,15 +496,15 @@ sea una decisión y no un descuido.
 
 ## 7. Riesgos estructurales de la propuesta
 
-1. **Es la antítesis de la cartera vigente.** El 50/50 de MyInvestor es value + indexado + renta fija
-   corta, con 0 % de calidad americana. Esta propuesta es 100 % tecnología americana y dos de las
-   cuatro posiciones cotizan por encima de 30 veces beneficios. **No se financia vendiendo el 50/50**:
-   o es dinero nuevo, o no se hace.
+1. **Es la antítesis de la cartera vigente.** La cartera 55/45 de MyInvestor es value + indexado + renta
+   fija corta, con 0 % de calidad americana. Esta propuesta es 100 % tecnología americana y dos de las
+   cuatro posiciones cotizan por encima de 30 veces beneficios. **No se financia vendiendo la cartera de
+   fondos**: o es dinero nuevo, o no se hace.
 2. **Concentración.** Cuatro nombres. El propio Andrés avisa: «no deberíais tener gran parte de
    vuestro dinero en una única empresa» (16/10). Con 30 % en Amazon, esta cartera incumple esa regla
    si se compara con un patrimonio completo; es aceptable solo como satélite.
 3. **Beta y caída.** Beta ponderada 1,37 (1,52 sobre lo invertido). En un escenario tipo 2008, donde
-   el 50/50 estima −21,5 %, esta cartera caería del orden de **−45 % a −55 %**. No es una estimación
+   la cartera 55/45 estima −23,4 %, esta cartera caería del orden de **−45 % a −55 %**. No es una estimación
    de modelo, es la beta aplicada a una caída de mercado del 35-40 %.
 4. **Divisa.** 100 % dólares. EUR/USD a 1,1225; una apreciación del euro del 10 % resta ≈9 % a la
    cartera en euros, sin que ninguna empresa haya hecho nada mal.

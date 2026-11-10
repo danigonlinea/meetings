@@ -51,7 +51,7 @@ La discrepancia es real y útil: **dos gestores de renta fija de la misma semana
 - **PER 22 → 19 por beneficio contable:** el beneficio crece 34 % pero solo 17 % es caja (Renta 4, 23:00 y 45:36). «No estamos en múltiplos de burbuja como el año 2000» (49:57), pero tampoco en múltiplos cómodos.
 - **Si el 10 años va al 6 %, el PER implícito es 17** (34:03): esa es la única estimación de caída que da el vídeo.
 - **Brent de 60 a 110 dólares** en el año, leído como presión inflacionaria (Andrés, 5:08).
-- **Prima de riesgo francesa en 152 pb**, con OAT ~5 % frente a Bund 3,4 %, y contagio medido: CAC −3,2 %, Euro Stoxx −2,3 %, Ibex −2,7 % (Andrés, 2:31-3:43).
+- **Prima de riesgo francesa en 152 pb** (Andrés, 2:31). Es un dato de mercado del 23-10, no una constante: cambia cada mes. En el mismo bloque da OAT ~5 % frente a Bund 3,4 % —una resta de 160 pb— y más tarde habla de «1,6 puntos»; se dejan las tres formas porque no hay una cifra única que cuadre. Contagio medido: CAC −3,2 %, Euro Stoxx −2,3 %, Ibex −2,7 % (2:31-3:43).
 - **Empresas que solo viven de una promesa:** microreactores y cuánticas con caídas del 50 % al 90 % tras un Nasdaq −4 % (10:22). Y el caso que importa: quien compró una empresa que hoy va −80 % cuando cayó −50 % «otra vez ya estás en un problema grande» (11:56).
 
 ### Value europeo (el único con cartera auditable)
@@ -105,7 +105,7 @@ La discrepancia es real y útil: **dos gestores de renta fija de la misma semana
 | Bono USA a 30 años | Ya en 5,40 %; 6 % | −9 % adicional con duración 15 | Renta 4, 15:35 |
 | Spread high yield | 260-300 pb normal; >700 pb crisis | Ahí es donde Ábaco entra en duración | Ábaco, 27:34 y 36:47 |
 | Curva corta + crédito | Corto más alto y crédito sufriendo | La señal explícita que espera Ábaco | Ábaco, 15:41-16:07 |
-| Prima de riesgo francesa | 152 pb hoy; 1,6 puntos según Andrés | Contagio a bonos y bolsas europeas | Andrés, 2:31 y Ábaco, 34:25 |
+| Prima de riesgo francesa | 152 pb (≈1,6 puntos) en el dato del 23-10; cambia cada mes | Contagio a bonos y bolsas europeas | Andrés, 2:31 y Ábaco, 34:25 |
 | Brent | 60 → 110 dólares | Inflación y tipos altos más tiempo | Andrés, 5:08 |
 | CDS de emisores de IA | CoreWeave 1194 pb frente a Oracle 315 pb | Estrés de crédito antes que caída de beneficios | Andrés, 5:44 |
 | Concentración del S&P 500 | 46 % tecnología, 40 % top 10 | El índice es una apuesta sectorial | Andrés, 9:36 |
