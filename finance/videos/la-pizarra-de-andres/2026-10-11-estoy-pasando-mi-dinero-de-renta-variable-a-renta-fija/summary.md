@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: renta fija y retransmisión de capital"
 date: 2026-10-11
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [renta-fija, duracion, asignacion-de-activos, gestion-de-carteras, riesgo, andres]
 status: final
 ---
 

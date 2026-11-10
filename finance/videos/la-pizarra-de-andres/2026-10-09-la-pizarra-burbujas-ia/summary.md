@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: burbujas, concentración y CAPEX"
 date: 2026-10-09
 type: meeting-summary
 category: finance
-tags: [ai, meeting, transcript]
+tags: [burbujas, concentracion, sp500, capex, inteligencia-artificial, valoracion, historia]
 status: final
 ---
 

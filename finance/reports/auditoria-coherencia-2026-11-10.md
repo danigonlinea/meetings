@@ -44,8 +44,13 @@ complemento de acciones— y el mismo día se corrigió esto:
 | §4 Renta 4 | ✅ liquidez (4.632 €) y carry (39 / 74 €/año) cuadrados |
 | §5 prima francesa | ✅ matizada como dato del 23-10; «15 carpetas» → 14; el minuto 61:01/61:03 se comprobó y los dos son válidos |
 | §6 títulos truncados | ✅ arreglados en el frontmatter y en el INDEX |
-| §7 rutas del README | ✅ `finance/videos/myinvestor-webinars/` y las seis skills |
-| Glosario, 14 etiquetas de plantilla, la sexta propuesta de §12, `AGENTS.md` | ⏳ pendiente |
+| §7 rutas | ✅ `finance/videos/myinvestor-webinars/` en README y AGENTS; las seis skills en el README |
+| §6 glosario y etiquetas | ✅ glosario reescrito al 10/11 (11 ponentes, 6 canales, dos correcciones del 10-09 cerradas como no verificables) y 14 resúmenes con etiquetas propias |
+| §7 sexta propuesta y `AGENTS.md` | ✅ `propuesta-definitiva.md` documentada en §12; umbrales de `AGENTS.md` al §11 |
+
+Nada de esta lista queda abierto. Los dos únicos puntos que siguen sin poder comprobarse son los del
+2026-10-09, cuya carpeta no tiene `transcript.json`: quedan escritos como **no verificables**, no como
+resueltos.
 
 ## 1. Bloqueante — dos verdades sobre la cartera de MyInvestor
 
@@ -169,9 +174,9 @@ RV 15,3 % → 21,2 %, coste 264 €/año, plusvalía 638,69 €.
   sin escapar, cortado a mitad de nombre, mientras que el H1 del mismo fichero dice «(Juan Santamaría)».
   `2026-10-25-…abaco-capital/summary.md:2`: `…la oportunidad que espera en el` (el H1 continúa «en el
   crédito (Ábaco Capital)»). `build_index.py` los propaga tal cual al `INDEX.md`.
-- **14 de 34 artefactos llevan etiquetas de plantilla** (`[finance, meeting, transcript]` o
-  `[ai, meeting, transcript]`), contra la convención del `README.md`. El índice se vuelve inútil para
-  buscar por tema en casi la mitad del repositorio.
+- **14 de 34 artefactos llevaban etiquetas de plantilla** (`[finance, meeting, transcript]` o
+  `[ai, meeting, transcript]`), contra la convención del `README.md`: el índice era inútil para buscar
+  por tema en casi la mitad del repositorio. Corregido el 10/11 con etiquetas propias en los 14.
 - **El glosario lleva un mes sin actualizarse.** `reference/glossary.md` es del 11/10 y el repositorio
   tiene 26 artefactos posteriores. En `Ponentes`, Andrés figura con «Aparece en 2026-10-09; 2026-10-07»
   cuando es el presentador de 14 carpetas; en `Canales`, El Arte de Invertir se sitúa en 2026-10-07,

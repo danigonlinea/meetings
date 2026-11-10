@@ -428,8 +428,9 @@ el modelo ya puntúa +3. Testigo externo: Horos Patrimonio (duración 2,5, 80 % 
 
 ## 12. Qué se absorbe de las propuestas anteriores
 
-Las cinco propuestas que convivían en la carpeta se resolvieron aquí y **se borraron** (`git rm`); el
-contenido íntegro sigue en el historial de git (commit `50b2e69`).
+Las propuestas que convivían en la carpeta se resolvieron aquí y **se borraron** (`git rm`); el
+contenido íntegro sigue en el historial de git (commit `50b2e69`, que además borró
+`propuesta-definitiva.md`, descartada antes por el titular).
 
 | Documento | Qué aportaba | Qué se hizo |
 | --- | --- | --- |
@@ -438,6 +439,7 @@ contenido íntegro sigue en el historial de git (commit `50b2e69`).
 | `propuesta-alternativa.md` (activos reales + calidad) | Los REITs al 0,17 % y 13 fichas de calidad | Adoptados los REITs; calidad descartada con número |
 | `propuesta-investigacion.md` | La regla de acumulación y el análisis de las cuatro acciones | Adoptada la regla; las acciones van aparte |
 | `propuesta-actual.md` del 03/11 (50/50) | Aegon, Sissener, REITs y el barrido por bloques | Aegon y REITs se conservan; Sissener sale por composición |
+| `propuesta-definitiva.md` | Un veredicto de comité sobre la cartera | Descartada por el titular antes de esta versión; su borrado es el commit `50b2e69`, no esta §12 |
 
 ---
 

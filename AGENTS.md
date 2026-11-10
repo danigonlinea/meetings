@@ -15,12 +15,12 @@ cartera, añade `finance/portfolio/README.md` como cuarto paso.
 | Cartera de Renta 4 Banco | `finance/portfolio/cartera-renta4/` | `propuesta-actual.md` |
 | Un fondo, ETF o acción que tiene o le han recomendado | `finance/portfolio/` | Su ficha en el `cartera-actual.md` de la carpeta que lo tenga, luego los `summary.md` que lo nombran |
 | Macro, tipos, inflación, renta fija, mercados | `finance/la-pizarra-de-andres/` | `summary.md` más reciente del tema |
-| Gestoras, entrevistas, "qué dice MyInvestor" | `finance/myinvestor-webinars/` | `catalogo.md` → carpeta del webinar → `summary.md` |
+| Gestoras, entrevistas, "qué dice MyInvestor" | `finance/videos/myinvestor-webinars/` | `catalogo.md` → carpeta del webinar → `summary.md` |
 | Visión consolidada o discrepancias entre vídeos | `finance/reports/` | `informe-canal-*` y `sintesis-inversor-*` |
 | Agentes de IA, LLMs, Claude | `ai/dev-docs-explained/` | `summary.md` del vídeo |
 | Nombre de una persona, canal o entidad | `reference/glossary.md` | Tabla de ponentes |
 | Terminología (IA o finanzas) | `reference/glossary-technical.md` | — |
-| Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §10 → `python3 tools/termometro.py` |
+| Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §11 → `python3 tools/termometro.py` |
 
 Las dos carteras son independientes: no se suman, ni se comparan, ni se rebalancea una contra la otra.
 
@@ -122,5 +122,5 @@ Para recibirlo como mensaje hay que conectar Telegram (o Slack) en esa instancia
 
 ## 7. Cuándo una señal de cartera obliga a revisar
 
-El termómetro avisa; la decisión es del dueño. Los umbrales están en `propuesta-actual.md` §10 y los
+El termómetro avisa; la decisión es del dueño. Los umbrales están en `propuesta-actual.md` §11 y los
 calcula `python3 tools/termometro.py`. La revisión se escribe con la skill `revision-cartera`.

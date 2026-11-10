@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: la actualidad refleja un riesgo elevado"
 date: 2026-10-23
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [prima-de-riesgo, francia, brent, deuda-ia, deuda-publica, concentracion, sp500, cds]
 status: final
 ---
 

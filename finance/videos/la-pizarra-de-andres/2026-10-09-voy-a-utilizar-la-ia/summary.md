@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: Voy a utilizar la IA para invertir mi dinero"
 date: 2026-10-09
 type: meeting-summary
 category: finance
-tags: [ai, meeting, transcript]
+tags: [inteligencia-artificial, cartera, value, investingpro, myinvestor, artemisa, proceso, stock-picking]
 status: final
 ---
 

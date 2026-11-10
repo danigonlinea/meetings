@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: «Da miedo, pero la IA puede solucionar la econom
 date: 2026-10-15
 type: meeting-summary
 category: finance
-tags: [ai, meeting, transcript]
+tags: [inteligencia-artificial, productividad, semiconductores, data-centers, energia, empleo, venture-capital, start-ups]
 status: final
 ---
 

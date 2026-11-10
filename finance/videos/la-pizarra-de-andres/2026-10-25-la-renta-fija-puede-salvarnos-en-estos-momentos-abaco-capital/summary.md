@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: renta fija, estanflación y la oportunidad que es
 date: 2026-10-25
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [renta-fija, estanflacion, tipos, inflacion, duracion, spreads, credito, europa, abaco-capital]
 status: final
 ---
 

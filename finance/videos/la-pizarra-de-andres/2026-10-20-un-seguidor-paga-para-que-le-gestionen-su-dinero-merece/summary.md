@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: un seguidor paga por gestión delegada, ¿merece 
 date: 2026-10-20
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [cartera, gestion-delegada, comisiones, indexados, renta-fija, benchmark, perfil-de-riesgo, alternativos]
 status: final
 ---
 

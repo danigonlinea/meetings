@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: respuestas a las preguntas más importantes sobre
 date: 2026-10-16
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [inversion, dca, monetarios, renta-fija, hipoteca, valoracion, mcdonalds, nike, preguntas]
 status: final
 ---
 

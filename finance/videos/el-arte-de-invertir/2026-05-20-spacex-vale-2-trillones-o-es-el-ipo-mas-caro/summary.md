@@ -3,7 +3,7 @@ title: "Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la histo
 date: 2026-05-20
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [spacex, ipo, elon-musk, starlink, xai, echo-star, rocket-lab, tesla, valoracion]
 status: final
 ---
 

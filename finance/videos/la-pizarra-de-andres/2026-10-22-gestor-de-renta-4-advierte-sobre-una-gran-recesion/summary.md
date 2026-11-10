@@ -3,7 +3,7 @@ title: "Gestor de Renta 4 advierte sobre una gran recesión"
 date: 2026-10-22
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [renta-4, deuda-publica, bonos, duracion, recesion, geopolitica, petroleo, valoracion, seleccion-de-valores]
 status: final
 ---
 

@@ -3,7 +3,7 @@ title: "La Pizarra de Andrés: Robeco Emerging Markets frente al indexado de eme
 date: 2026-10-13
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [emergentes, robeco, vanguard, indexado, gestion-activa, comisiones, sharpe, volatilidad]
 status: final
 ---
 

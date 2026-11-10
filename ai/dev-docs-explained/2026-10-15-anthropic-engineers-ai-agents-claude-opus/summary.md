@@ -3,7 +3,7 @@ title: "Ingenieros de Anthropic: cómo se construyen los agentes de IA con Claud
 date: 2026-10-15
 type: meeting-summary
 category: ai
-tags: [ai, meeting, transcript]
+tags: [anthropic, claude, agentes, harness, contexto, memoria, orquestacion, skills, ia]
 status: final
 ---
 

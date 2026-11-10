@@ -3,7 +3,7 @@ title: "La Inversión en Valor sigue siendo la Apuesta Ganadora"
 date: 2026-10-18
 type: meeting-summary
 category: finance
-tags: [finance, meeting, transcript]
+tags: [value, myinvestor-value, deep-value, alemania, inmobiliario, aerolineas, ohl, rotacion, cartera]
 status: final
 ---
 
