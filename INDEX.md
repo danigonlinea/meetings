@@ -5,6 +5,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/reports/auditoria-coherencia-2026-11-10.md` | revision | finance | 2026-11-10 | Auditoría de coherencia: dos verdades sobre la misma cartera | [auditoria, coherencia, cartera, myinvestor, renta4, informes, termometro, glosario] |
 | `finance/portfolio/cartera-myinvestor/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-04 | Cartera definitiva, solo fondos: 55/45 en diez posiciones (97.000 €) | [cartera, definitiva, 55-45, solo-fondos, renta-fija, abs, cobas-renta, reits, japon, pacifico, rock, myinvestor] |
 | `finance/portfolio/cartera-myinvestor/propuesta-acciones.md` | portfolio-research | finance | 2026-11-04 | Propuesta de acciones sin dividendo — cuatro posiciones y una lista de espera | [cartera, acciones, sin-dividendo, calidad, tecnologia, value, la-pizarra-de-andres, webinars, myinvestor, propuesta] |
 | `finance/reports/contraste-propuesta-ackman-2026-11-03.md` | revision | finance | 2026-11-03 | Contraste de la cartera definitiva con la clase de Ackman (Big Think, 2012) | [cartera, verificacion, ackman, riesgo, coste, colchon, contraste, myinvestor] |
@@ -40,6 +41,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [finance, meeting, transcript] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 34
+**Total de artefactos indexados:** 35
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
