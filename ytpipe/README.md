@@ -197,6 +197,7 @@ Opciones:
 | `--open` | Activada en macOS | Abre la carpeta al final con el comando `open`. |
 | `--no-open` | | No abre la carpeta. |
 | `--dry-run` | Desactivada | Muestra el plan y los metadatos. No escribe nada. |
+| `--cookies FILE` | La variable `YTPIPE_COOKIES` | Un archivo `cookies.txt` en formato Netscape. Necesario cuando YouTube responde «Sign in to confirm you're not a bot». |
 
 El script para si la carpeta ya existe y `--force` está ausente.
 
@@ -205,6 +206,19 @@ El script muestra un bloque con el plan antes de escribir. Después muestra un b
 El script no muestra la traza del error. La variable `YTPIPE_DEBUG` vale `1` para ver la traza.
 
 Si no hay ninguna pista en los idiomas pedidos, el script sale con código 1, no escribe la carpeta y el error sugiere ejecutar `ytpipe languages <url>` para ver las pistas que sí existen.
+
+## El muro de inicio de sesión
+
+YouTube responde `Sign in to confirm you're not a bot` a las direcciones IP de centro de datos, y sin cookies no hay transcripción que descargar. El archivo `cookies.txt` es la única salida desde el cloud.
+
+1. Exporta las cookies de `youtube.com` desde un navegador con sesión iniciada, en formato Netscape.
+2. Guarda el archivo fuera del repositorio y pásalo con `--cookies`, o deja la ruta en `YTPIPE_COOKIES`.
+
+```bash
+uv run ytpipe fetch <url> --cookies ~/secrets/youtube-cookies.txt --no-open
+```
+
+El archivo no se sube al repositorio y las cookies caducan: si el error vuelve, hay que exportarlas otra vez.
 
 Ejemplo completo:
 
