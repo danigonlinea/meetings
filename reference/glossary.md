@@ -1,6 +1,6 @@
 ---
 title: "Glosario"
-date: 2026-11-10
+date: 2026-11-13
 type: reference
 category: cross
 tags: [glosario, terminologia]
@@ -49,15 +49,25 @@ Fuera de esos casos: `no atribuible con certeza` si el turno es dudoso, `(inferi
 | Alberto | Gestor de fondos de Renta 4. | "La Pizarra de Andrés" | 2026-10-22 | El nombre sí está en el audio («me dicen, Alberto…» 15:24; «Eh, Alberto, llevamos una hora» 60:19); la afiliación a Renta 4 no se dice en la transcripción, consta en la descripción del vídeo. |
 | Pablo González | Gestor de renta fija de Ábaco Capital. | "La Pizarra de Andrés" | 2026-10-25 | Confirmado en el audio (00:52): «Pablo González es uno de los gestores de la gestora Ábaco». |
 | Javier Ruiz | Gestor de Horos. | "La Pizarra de Andrés" | 2026-10-30 | Confirmado en el audio: «Javier Ruiz es uno de los gestores de Horos» (transcrito como "Oros"). |
-| Aitor | Gestor de Kaizen Global Income, mencionado por Andrés. | "La Pizarra de Andrés" | 2026-11-01 | Solo nombre de pila: «un gestor… que se llama Aitor». No se confirma apellido. |
+| Aitor | Gestor de Kaizen Global Income y de Akira Global Value. | "La Pizarra de Andrés" | 2026-11-01, 2026-11-04 (invitado) | Solo nombre de pila: «un gestor… que se llama Aitor» (2026-11-01). En 2026-11-04 es el invitado: el audio lo llama «Aor» al cederle la palabra y «Héctor» en la despedida; la identificación con Aitor es **inferida** porque él mismo describe Kaizen Global Income con sus cifras. No se confirma apellido. |
+| Gabriel Castro | Gestor de renta variable y renta fija en Sigma Internacional y Gamma Global. | "La Pizarra de Andrés" | 2026-11-08 | Presentado literalmente por Andrés: «hoy tenéis a Gabriel Castro… gestor tanto de renta variable como de renta fija en Sigma Internacional y Gamma Global». En el resumen se le cita como "Gabriel". |
 | Mike Bird | Autor del libro *The Land Trap*. No es ponente, es referenciado en el resumen de Javier. | — | 2026-10-07 | Solo citar su nombre y obra. |
 | Stephen Penman | Profesor de la Universidad de Columbia, fuente del método de los beneficios residuales. | — | 2026-10-07 | Referenciado en el resumen de Javier. |
+
+## Gestoras y vehículos citados
+
+| Nombre canónico | Tipo | Gestor / contexto | Aparece en | Notas |
+|---|---|---|---|---|
+| Kaizen Global Income | Fondo mixto flexible | Aitor | 2026-11-01, 2026-11-04 | Transcrito como "Caicen", "Caisen", "Kaisen". En 2026-11-04: 27,5 M€ y 14 % acumulado en 17 meses. |
+| Akira Global Value | Fondo de renta variable | Aitor | 2026-11-04 | Fondo nuevo, vehículo del patrimonio personal del gestor. En el audio se dice "Akira" sin apellido de gestora. |
+| Sigma Internacional | Fondo de renta variable | Gabriel Castro | 2026-11-08 | Nombrado literalmente. |
+| Gamma Global | Fondo de renta fija / crédito | Gabriel Castro | 2026-11-08 | Nombrado literalmente; en el audio alterna "Gamma Global" y "Gamma Globales". |
 
 ## Canales
 
 | Canal | Propietario / frecuente | Descripción |
 |---|---|---|
-| La Pizarra de Andrés | Andrés | Videos y charlas de inversión, con estilo de monólogo y "pizarra". 14 carpetas, de 2026-10-07 a 2026-11-01. |
+| La Pizarra de Andrés | Andrés | Videos y charlas de inversión, con estilo de monólogo y "pizarra". 18 carpetas, de 2026-10-07 a 2026-11-11. |
 | El Arte de Invertir | Presentador (sin nombre confirmado); invitado Comet | Episodios de inversiones con invitados. 2026-05-20. |
 | Dev Docs Explained | — | Canal de IA (agentes, Claude, LLMs). 2026-10-15: `summary.md` + `informe-agentes-autonomos.md`. |
 | MyInvestor | — | Webinars y entrevistas de gestoras; catálogo en `finance/videos/myinvestor-webinars/catalogo.md`. 2026-10-20. |
@@ -91,9 +101,13 @@ Tabla de variaciones detectadas. Cada una debe aparecer en la sección "Adverten
 | Sunder Pichy | Sundar Pichai |
 | Charlie Monger | Charlie Munger |
 | reality distortion feel | reality distortion field |
+| Caicen / Caisen / Kaisen | Kaizen (Kaizen Global Income) |
+| La Bizarra de Andrés | La Pizarra de Andrés |
+| MSC igual | MSCI World |
+| Dan Bank | Andbank |
 | Juan Santa María | Juan Santamaría |
 | Lorenzo Parajes | Lorenzo Parages |
-| Oros | Horos |
+| Oros, Oros Value International | Horos |
 | My Investor | MyInvestor |
 
 ## Aclaraciones alcanzables (en investigación)

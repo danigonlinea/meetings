@@ -1,0 +1,3162 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=yJQPLxP4EYw",
+    "video_id": "yJQPLxP4EYw",
+    "title": "🚨 Invertir SOLO en TECNOLÓGICAS es un GRAN ERROR | Actualidad de mercados",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a analizar la actualidad de los mercados financieros y descubrir los motivos que hay detrás de las fuertes caídas en el sector de la inteligencia artificial y las empresas tecnológicas.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-11-06",
+    "duration_seconds": 805,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-13T17:59:47+00:00"
+  },
+  "stats": {
+    "segment_count": 429,
+    "chunk_count": 14,
+    "speaker_count": 0,
+    "word_count": 3078,
+    "character_count": 16103,
+    "time_span_seconds": 806
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1184,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:00",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal, La pizarra de Andrés. En el día de hoy abrimos con una imagen que vale más que 1000 palabras y es que se están desplomando los mercados. Cuidado, lo primero que quiero transmitir con este vídeo es que no hay que ser alarmistas nunca, tampoco hay que ser extremadamente optimistas o creernos los reyes del mambo cuando las carteras van bien, ni ahora pensar que el mundo se va a acabar. Eh, también los que me seguís a menudo si habéis compartido un poco mi visión, tampoco es un día tan crítico para vosotros o para vuestras carteras, pues creo que si las carteras las tenéis bien diversificadas por tipos de activos, es decir, tenéis algo más que renta variable y por tipos de renta variable en la parte de renta variable y no tenéis un componente tecnológico gigantesco, pues hoy a lo mejor no es un día eh terrible para vosotros. Por el otro lado, si vuestras carteras son principalmente indexados o fondos tecnológicos y o empresas tecnológicas, pues probablemente sea un un día bastante duro. El Nasdaq está cayendo un 5,25 %. Aquí lo vemos. Bueno, no, miento, esto ya está actualizado, un 5,92 %. Se está cayendo en tiempo real."
+    },
+    {
+      "index": 1,
+      "text_start": 1185,
+      "text_end": 2358,
+      "time_start_iso": "00:00:58",
+      "time_end_iso": "00:02:02",
+      "speakers": [],
+      "text": "Esto lo estoy grabando el jueves por la tarde, ya lo veis, a las 7 de la tarde. Eh, y el SP se cae un cuatro, ¿vale? Como al final esto es un poco lo que hemos dicho, si tú si tú si tu fondo es un Fidelity Global Technology o un Nasdaq o lo que sea, la caída es muy bestia, te estás dilapidando a lo mejor un 40 % de los retornos del año o una cosa así en una sola sesión. Si tu fondo es el SP, en vez de un seis te estás cayendo un cuatro, si tu fondo es el MSCI World muy probablemente te estés cayendo un tres y pico y si tu fondo y si tus fondos de renta variable son un popurrí de fondos de entre de entre gestión activa, ehm fondos europeos y demás y algo de de de gestión pasiva, pues probablemente tu cartera de renta variable hoy se pueda estar cayendo un dos y pico, ¿vale? Más o menos. De hecho, si vemos aquí lo curioso es que el Ibex ha cerrado 0,40 arriba cuando ya el el el el el Mira, aquí lo vemos, ¿vale? Cuando el Ibex ha cerrado, que es más o menos a las 5:40, el SP ya ha caído un 3,21, con lo cual es muy posible que mañana cuando abran los mercados, es decir, cuando vosotros veáis el vídeo, mañana Estados Unidos habrán rojo, ¿vale? Pero bueno, digo"
+    },
+    {
+      "index": 2,
+      "text_start": 2359,
+      "text_end": 3551,
+      "time_start_iso": "00:02:00",
+      "time_end_iso": "00:03:01",
+      "speakers": [],
+      "text": "Unidos, Europa. Pero bueno, el el DAX, el el FTSE y demás, es decir, prácticamente todo ya venía un poco contagiado. Eh, un poco pues lo que hemos comentado siempre. Con esto lo primero que quiero decir es es una reflexión muy importante, ¿vale? Porque yo sé que igual que me consumís a mí, probablemente consumáis a otras a otras personas en redes sociales. Ehm, tampoco quiero ehm desprestigiar a los demás, lo único que quiero es que, oye, si yo tengo la humildad de de reconocer que no tengo ni idea de lo que van a hacer los mercados a corto plazo, pues mi objetivo es que no mordáis el anzuelo de cualquier persona que os diga lo que van a hacer en los mercados. Para los que no lo sepáis, ayer los mercados lo lo hicieron increíblemente bien y os está pegando una caída de las más grandes en los últimos años. Eh, todo esto sin noticias aparentes. Bueno, es cierto que pues hay rumores de que ahora con la nueva cámara que se ha formado en Estados Unidos pues quieren tirar para atrás un poco el avance de ciertas IA o tal, no sé qué, que eso podría explicar en gran parte por qué la por qué el el sector tech está cayendo fuerte. El caso es que cuando algo pende de un hilo y está tan"
+    },
+    {
+      "index": 3,
+      "text_start": 3552,
+      "text_end": 4737,
+      "time_start_iso": "00:02:58",
+      "time_end_iso": "00:04:04",
+      "speakers": [],
+      "text": "tan apalancado y y requiere unas inversiones tan grandes que den resultados cuanto antes, cualquier noticia puede hacer perfectamente que los mercados caigan y y así ha sido, ¿no? Entonces, ehm con esto lo que quiero decir lo primero que quiero decir es que, por favor, no hagáis caso a la gente que os diga esto va a subir, esto va a caer, esto va a tal. Nadie tiene ni idea y el el la cabecina de de de de hoy después de un día maravilloso ayer, ehm no estaba en los libros de nadie y es son cosas que son imposibles de predecir. Por eso ahora vamos a hablar de muchas cosas. Quizás eh sea momento pues bueno, hay hay muchas opciones que tenéis a día de hoy. Por ejemplo, el que no tiene prácticamente nada tecnología, a lo mejor se puede estar empezando a plantear algo. Eh, el que tiene una cartera extremadamente expuesta a tecnología, eh a lo mejor ya sea cuando salga un poco del bache o desde hoy mismo puede empezar a entender que una cartera mayor con mayor diversificación es mejor riesgo-beneficio. Eh, y el que tenga una cartera solamente de renta variable también puede llegar a entender que, oye, a lo mejor en la en la próxima eh la próxima vez que tenga un un problema"
+    },
+    {
+      "index": 4,
+      "text_start": 4738,
+      "text_end": 5924,
+      "time_start_iso": "00:04:01",
+      "time_end_iso": "00:05:01",
+      "speakers": [],
+      "text": "ehm eh de este estilo, pues probablemente tenga una una cartera más diversificada donde donde pueda reducir ese ese ese impacto, ¿no? El ganador en concreto es el oro, ¿vale? El oro lleva mucho tiempo comportándose similar a la renta variable, pero la realidad es que cuando ha venido una Habrá que estar vigilando porque si el oro recupera un poco esa fortaleza en momentos de debilidad es eh yo yo el primero, es motivo suficiente para a lo mejor adquirirlo cuanto antes, que es de lo poco que no tengo en las carteras de mis clientes, con lo cual podría empezar aquí a sumar, a algo, puesto que hasta la fecha no lo he cogido porque si lo veis su comportamiento ha sido bastante malo siempre cuando los mercados se han comportado bastante mal. Eh, también eh me gustaría enseñaros que una vez más, a ver si esto lo puedo enseñar aquí, ¿vale? Los bonos, los bonos en este caso gubernamentales, ya sabéis que esto es la inversa del bono que es que es el Los bonos eh lo están haciendo bien, ¿vale? Una vez más, pues aquí lo vemos todos los cayendo, esto quiere decir que todos los bonos, por ejemplo, en este caso bonos del gobierno americano lo están haciendo bien también. Esto es un"
+    },
+    {
+      "index": 5,
+      "text_start": 5925,
+      "text_end": 7093,
+      "time_start_iso": "00:04:59",
+      "time_end_iso": "00:06:01",
+      "speakers": [],
+      "text": "plus para aquellos que tienen, pues o oye, todo lo que tenga renta fija es cierto que dependiendo del tipo de renta fija que tenga se caerán o no. Por ejemplo, la renta fija que sea de mala calidad hoy se la va a pegar porque por mucho que esta parte del bono te beneficie, que es la parte del tipo de interés, eh la parte de la calidad de de la empresa pues se va a ir muy abajo. No me quiero imaginar lo que estarán haciendo los CDS, es decir, esos seguros de de de quiebra de compañías que hoy lo deben estar pasando muy mal tipo, pues no lo sé, a lo mejor Oracle, ¿no? Que no sé cuánto estará cayendo hoy. Ahora veremos unas pocas empresas, ¿no? Con lo cual diría que el principal ganador es el oro. El segundo eh tipo de activo que cumple su cometido diría que es la renta fija, ¿vale? El tercer tipo de hm de cosa que que podría también tener tener cierta valor a día de hoy es un poco donde yo estoy posicionado son las carteras bien diversificadas, es decir, en las carteras que no tengan un exceso de tecnología, que tengan más cosas que solo renta variable, eh que tengan algún fondo alternativo, que tengan eh pues un poco de todo, incluso que tuvieran oro."
+    },
+    {
+      "index": 6,
+      "text_start": 7094,
+      "text_end": 8281,
+      "time_start_iso": "00:05:58",
+      "time_end_iso": "00:06:59",
+      "speakers": [],
+      "text": "Yo no tengo oro, pero no no eh barajo la posibilidad de ponerlo en algún punto. Todas estas carteras pues hoy están un mal trago dependiendo de qué perfil sean. Por ejemplo, la cartera que te tenga un 60% renta variable, asumiendo que tu renta variable promedio se ha caído un dos en vez de un cuatro y pico, pues eh por ahí te estás cayendo a lo mejor 1,2 puntos eh que con lo con otras cosas a lo mejor lo suavizas y tal. Entonces, un día como hoy que es un día bastante malo eh donde la gente se está cayendo pues un cuatro, un cinco, un seis, pues a lo mejor una cartera bien hecha pues se puede estar cayendo un 1,2, ¿no? Eh, con lo cual ese sería quizá el el la tercera lección de días como hoy que, oy, para los que llevamos más tiempo en el mercado como que esto no nos pilla tan de lleno. Aun así es un día doloroso porque todo aquel que tenga inversión hoy va a perder dinero. En eso estamos todos de acuerdo, ¿no? ¿Y qué es lo peor lo peor? Pues lo peor, bueno, aquí lo podemos ver en este pantallazo, lo peor es pues ir muy expuesto. Yo me he encontrado mucha gente, lo he intentado avisar muchas veces, eh no me gusta que las personas eh vayan supercomprometidas con con con"
+    },
+    {
+      "index": 7,
+      "text_start": 8282,
+      "text_end": 9445,
+      "time_start_iso": "00:06:58",
+      "time_end_iso": "00:08:00",
+      "speakers": [],
+      "text": "un activo en concreto. Hay gente que venía comprando el el dip o o o la pequeña corrección de cosas como Google, por ejemplo, que no digo que no sean buenas empresas, pero cuando encima juntas Google, Nvidia, eh lo que sea con acciones sueltas con fondos del Nasdaq o fondos como Fidelity eh Global Technology unido a otros fondos indexados que ya tienen un componente tecnología bastante bastante grande y no tienes en la cartera otro tipo de renta variable que probablemente también va a caer hoy, pero bastante menos, ehm pues al final te vas a encontrar con con una caída que pues eso, que que es muy significativa. Eh, y qué es lo que Bueno, eso sería quizá lo lo lo más malo que le puede pesar a una cartera teóricamente más o menos eh de cierto rigor porque lo peor lo peor que te puede pasar es tener lo que yo considero o llamo chicharros. Cuando digo chicharros digo compañías que no ganan dinero, de componente tecnológico muy alto, por ejemplo, en el Nasdaq y aquí tengo algunas pocas que sigo a menudo. Pues por ejemplo, ATS. Esto es una compañía de satélites en en eh en eh para internet. Pues -15%. Rigetti. Esto es una compañía que no gana un duro"
+    },
+    {
+      "index": 8,
+      "text_start": 9446,
+      "text_end": 10645,
+      "time_start_iso": "00:07:58",
+      "time_end_iso": "00:09:00",
+      "speakers": [],
+      "text": "de computación cuántica también. -13%. Oklo. Esto son microrreactores nucleares que si me habéis seguido un poco con ella, yo me salí por aquí en su día, ¿vale? Evidentemente no puedes clavar el pero por aquí me salí yo. Hoy ya está prácticamente en origen. Tesla, menos 12%. Pues hm, ¿por qué? Porque es una compañía de mucha expectativa y sobrevalorada en métricas a día de hoy. SpaceX, menos menos 9%. Es decir, que aquí donde más van a penalizar es a compañías tecnológicas que no tengan unos resultados claros o tengan una valoración muy alta. Otras cosas que vemos, bitcoin. Yo nunca he sido muy fan de bitcoin, aun así os voy a decir una cosa, que se caiga un cinco y pico cuando el Nasdaq se cae más me sorprende para bien del bitcoin. O sea, ¿qué quiero decir? Que lo está haciendo mal, por supuesto que sí, pero en otros momentos pensaría que lo estaría haciendo peor en un día de pánico como hoy, ¿no? Meta, menos cuatro. Es cierto que las compañías así un poco más sólidas, pues Meta menos cuatro, Microsoft menos tres y medio. Es decir, cayendo un poco menos del que el que el Nasdaq. Y otra cosa más que os quiero enseñar, chicos. Eh, yo hice una cartera de de de empresas precisamente"
+    },
+    {
+      "index": 9,
+      "text_start": 10646,
+      "text_end": 11819,
+      "time_start_iso": "00:08:58",
+      "time_end_iso": "00:09:57",
+      "speakers": [],
+      "text": "de chicharros. Ehm, simplemente la hice con IA pues para tal y y a la vez que la dije, esto los que estáis en los directos lo sabéis, dije, esta cartera no me disgusta la forma que tiene de invertir, pero es imposible que la haga bien en la estructura actual del mercado porque el mercado está muy miedoso y está penalizando muy mucho las empresas que no ganan dinero. Entonces, este tipo de chicharros, empresas que que que que pueden prometer, pero no ganan dinero, en entornos de mercado como este pues van a ser muy muy dadas a recibir palos. Pues mirar, hoy con el Nasdaq cayendo un seis, esto se cae un un 11 y esto es una cartera, si os fijáis. La no no no no hay vamos, no hay ni una que lo está haciendo medianamente bien, ¿no? Con lo cual es una carnicería. Sin embargo, si nos vamos empresas de valor americanas, pues más o menos aguantan el tipo mejor. Y si nos vamos a la cartera Value, que esta es todo menos americana, esta es la cartera a la que tengo muchas fe, os hablaré de ellas de ella en un vídeo próximo de de de de aquí del canal y os diré cómo la hago y y la maravilla que está siendo. Esta cartera ha acabado positiva, aunque al tener muchas cosas"
+    },
+    {
+      "index": 10,
+      "text_start": 11820,
+      "text_end": 12998,
+      "time_start_iso": "00:09:55",
+      "time_end_iso": "00:10:54",
+      "speakers": [],
+      "text": "europeas, probablemente mañana gane negativo. Pero bueno, que es una pasada que en un año en un en un día como este eh la cartera está aguantando el tipo. Aunque insisto, le queda todavía, yo creo, parte de la caída mañana porque, como dije anteriormente, las bolsas europeas han han cerrado cuando el SP caía un tres y pico y cae un cuatro, con lo cual es posible que mañana veamos eh alguna, alguna caída adicional, ¿no? Con todo esto lo que, lo que quiero decir es, hombre, que ya que los que habéis sufrido esto, estáis sufriendo esto de forma grave, que, que, que, que aprendáis la lección, que simplemente pues no os dejéis llevar por el, por el FOMO del mercado de tengo que comprar Google, tengo que comprar IA, tengo que comprar tal, que tengáis un poco de todo y eso implica tener un poco de MSCI World, yo soy, antes he hecho un, eh un análisis un poco por encima de qué tal lo estarían haciendo las carteras con, con la IA. Eh un día como hoy cuando salga todo, ¿vale? Esta es la cartera que hay, claro, si te fijas aquí todo pues donde yo voy a tener algo de caídas en el MSCI World en este fondo de aquí y probablemente en el de US Smaller Companies que me imagino"
+    },
+    {
+      "index": 11,
+      "text_start": 12999,
+      "text_end": 14171,
+      "time_start_iso": "00:10:52",
+      "time_end_iso": "00:11:51",
+      "speakers": [],
+      "text": "que se caerá menos, luego por supuesto habrá contagio en algunas otras partidas de la renta variable, pero todo lo demás, los alternativos de renta fija estos probablemente no los hagan ni siquiera mal. Los alternativos de renta variable probablemente aquí sí que haya algo de caídas posible, aquí habrá bastante caída y aquí habrá poca caída, ¿no? Entonces ehm que, que aprendáis un poco la lección, que, que intentéis no ir siempre eh de la mano de lo que dice vuestro gurú de turno, que tengáis una cartera diversificada, cosas que me harto a contar, pero que por culpa de las redes eh a día de hoy pues os venden que no, es que hay que invertir todo en indexados, hay que tener todo en tecnología y tal no sé qué y no quiero decir que esto signifique una escabechina eh de un menos 30 %, a lo mejor esto mañana se recupera y demás, esto simplemente lo que está añadiendo es un riesgo adicional a todas esas carteras para un retorno que recientemente por, por ejemplo ni siquiera está siendo mejor que algunos otros fondos value eh que no invierten nada en tecnología, ¿no? Con lo cual lo que quiero decir es que si tu perfil es solo de renta variable con más razón que"
+    },
+    {
+      "index": 12,
+      "text_start": 14172,
+      "text_end": 15335,
+      "time_start_iso": "00:11:49",
+      "time_end_iso": "00:12:50",
+      "speakers": [],
+      "text": "que, que nunca deberías tener más cosas y tu, si tu perfil no es solo renta variable eh la parte de renta fija te habrá amortiguado bastante incluso si tu parte de renta variable era muy indexada que es la que más eh golpe ha recibido y con esto vuelvo al ya, ya es la última reflexión, eh los indexados están muy bien porque te dan acceso a muchas cosas y los costes son bajos, pero lo que digo siempre los costes no, si por culpa de que los costes sean bajos, no te atreves to a comprar absolutamente nada más que ha demostrado ser bueno y que diversifica bastante bien cartera, esos costes bajos te están penalizando porque por culpa de querer tener esa mentalidad española de no quiero pagar, es que me cobran, te estás perdiendo otras cosas que te diversifica la cartera y al final del día hacen que tu cartera sea más compacta y sea mejor. Dicho esto, ehm vamos a seguir esto muy de cerca porque parece que este sell off podría a lo mejor no acabar aquí, podría continuar y lo único que digo es que no sabemos donde no sabemos si esto es una oportunidad de compra, si sí o si no. El que no lo tenía todo claro con la tecnología no creo que vaya a comprar en"
+    },
+    {
+      "index": 13,
+      "text_start": 15336,
+      "text_end": 16103,
+      "time_start_iso": "00:12:47",
+      "time_end_iso": "00:13:26",
+      "speakers": [],
+      "text": "esta caída, el que sea un perfil a lo mejor de querer jugársela en la tecnología, pues a lo mejor va a aprovechar esta caída para eh para seguir comprando. Esto ya es es opinión. Como habéis comprobado, aquí nadie tiene ni idea y yo solo hago este este tipo de vídeos para, oye, que por lo menos ya que esto ha pasado y nos ha afectado a todos en mayor o menor medida, pues para que todos eh cojamos un aprendizaje nuevo de aquí y a la próxima vez pues tengamos un poquito eh mejor distribuida nuestras carteras y es que todo esto te ha molestado un montón. Espero que os haya gustado el vídeo, chicos. Eh ya sabéis, a seguir invirtiendo. Si os ha gustado, me dejáis un like o un comentario y nosotros nos vemos en el siguiente vídeo. Se despide La Pizarra de Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.1,
+      "end": 2.9,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.6,
+      "end": 4.7,
+      "text": "mi canal, La pizarra de Andrés. En el"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 2.9,
+      "end": 6.5,
+      "text": "día de hoy abrimos con una imagen que"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 4.7,
+      "end": 8.7,
+      "text": "vale más que 1000 palabras y es que se"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 6.5,
+      "end": 10.0,
+      "text": "están desplomando los mercados. Cuidado,"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 8.7,
+      "end": 12.0,
+      "text": "lo primero que quiero"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 10.0,
+      "end": 13.6,
+      "text": "transmitir con este vídeo es que no hay"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 12.0,
+      "end": 15.8,
+      "text": "que ser alarmistas nunca, tampoco hay"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 13.6,
+      "end": 17.3,
+      "text": "que ser extremadamente optimistas o"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 15.8,
+      "end": 19.3,
+      "text": "creernos los reyes del mambo cuando las"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 17.3,
+      "end": 21.6,
+      "text": "carteras van bien, ni ahora pensar que"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 19.3,
+      "end": 23.4,
+      "text": "el mundo se va a acabar. Eh, también los"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 21.6,
+      "end": 24.700000000000003,
+      "text": "que me seguís a menudo"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 23.4,
+      "end": 26.299999999999997,
+      "text": "si habéis compartido un poco mi visión,"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 24.7,
+      "end": 27.9,
+      "text": "tampoco es un día tan crítico para"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 26.3,
+      "end": 29.3,
+      "text": "vosotros o para vuestras carteras, pues"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 27.9,
+      "end": 31.5,
+      "text": "creo que si las carteras las tenéis bien"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 29.3,
+      "end": 32.599000000000004,
+      "text": "diversificadas por tipos de activos, es"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 31.5,
+      "end": 34.7,
+      "text": "decir, tenéis algo más que renta"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 32.599,
+      "end": 36.0,
+      "text": "variable y por tipos de renta variable"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 34.7,
+      "end": 37.400000000000006,
+      "text": "en la parte de renta variable y no"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 36.0,
+      "end": 39.8,
+      "text": "tenéis un componente tecnológico"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 37.4,
+      "end": 42.5,
+      "text": "gigantesco, pues hoy a lo mejor no es un"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 39.8,
+      "end": 44.0,
+      "text": "día eh terrible para vosotros. Por el"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 42.5,
+      "end": 46.2,
+      "text": "otro lado, si vuestras carteras son"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 44.0,
+      "end": 49.0,
+      "text": "principalmente indexados o fondos"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 46.2,
+      "end": 50.400000000000006,
+      "text": "tecnológicos y o empresas tecnológicas,"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 49.0,
+      "end": 52.3,
+      "text": "pues probablemente sea un un día"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 50.4,
+      "end": 54.199999999999996,
+      "text": "bastante duro. El Nasdaq está cayendo un"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 52.3,
+      "end": 55.5,
+      "text": "5,25 %. Aquí lo vemos. Bueno, no,"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 54.2,
+      "end": 58.2,
+      "text": "miento, esto ya está actualizado, un"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 55.5,
+      "end": 60.3,
+      "text": "5,92 %. Se está cayendo en tiempo real."
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 58.2,
+      "end": 62.6,
+      "text": "Esto lo estoy grabando el jueves por la"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 60.3,
+      "end": 64.39999999999999,
+      "text": "tarde, ya lo veis, a las 7 de la tarde."
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 62.6,
+      "end": 66.7,
+      "text": "Eh, y el SP se cae un cuatro, ¿vale?"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 64.4,
+      "end": 68.7,
+      "text": "Como al final esto es un poco lo que"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 66.7,
+      "end": 70.5,
+      "text": "hemos dicho, si tú si tú si tu fondo es"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 68.7,
+      "end": 72.7,
+      "text": "un Fidelity Global Technology o un"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 70.5,
+      "end": 74.5,
+      "text": "Nasdaq o lo que sea, la caída es muy"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 72.7,
+      "end": 76.7,
+      "text": "bestia, te estás dilapidando a lo mejor"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 74.5,
+      "end": 79.2,
+      "text": "un 40 % de los retornos del año o una"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 76.7,
+      "end": 80.4,
+      "text": "cosa así en una sola sesión. Si tu fondo"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 79.2,
+      "end": 82.2,
+      "text": "es el SP, en vez de un seis te estás"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 80.4,
+      "end": 83.80000000000001,
+      "text": "cayendo un cuatro, si tu fondo es el"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 82.2,
+      "end": 86.4,
+      "text": "MSCI World muy probablemente te estés"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 83.8,
+      "end": 87.89999999999999,
+      "text": "cayendo un tres y pico y si tu fondo y"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 86.4,
+      "end": 90.0,
+      "text": "si tus fondos de renta variable son un"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 87.9,
+      "end": 92.9,
+      "text": "popurrí de fondos de entre de entre"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 90.0,
+      "end": 95.7,
+      "text": "gestión activa, ehm fondos europeos y"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 92.9,
+      "end": 97.30000000000001,
+      "text": "demás y algo de de de gestión pasiva,"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 95.7,
+      "end": 98.60000000000001,
+      "text": "pues probablemente tu cartera de renta"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 97.3,
+      "end": 100.1,
+      "text": "variable hoy se pueda estar cayendo un"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 98.6,
+      "end": 102.69999999999999,
+      "text": "dos y pico, ¿vale? Más o menos. De"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 100.1,
+      "end": 105.5,
+      "text": "hecho, si vemos aquí lo curioso"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 102.7,
+      "end": 108.10000000000001,
+      "text": "es que el Ibex ha cerrado 0,40 arriba"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 105.5,
+      "end": 109.7,
+      "text": "cuando ya el el el el el Mira, aquí lo"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 108.1,
+      "end": 111.69999999999999,
+      "text": "vemos, ¿vale? Cuando el Ibex ha cerrado,"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 109.7,
+      "end": 113.60000000000001,
+      "text": "que es más o menos a las 5:40, el SP ya"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 111.7,
+      "end": 115.0,
+      "text": "ha caído un 3,21, con lo cual es muy"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 113.6,
+      "end": 116.1,
+      "text": "posible que mañana cuando abran los"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 115.0,
+      "end": 118.5,
+      "text": "mercados, es decir, cuando vosotros"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 116.1,
+      "end": 120.292,
+      "text": "veáis el vídeo, mañana Estados Unidos"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 118.5,
+      "end": 122.292,
+      "text": "habrán rojo, ¿vale? Pero bueno, digo"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 120.292,
+      "end": 123.792,
+      "text": "Unidos, Europa. Pero bueno, el el DAX,"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 122.292,
+      "end": 125.292,
+      "text": "el el FTSE y demás, es decir,"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 123.792,
+      "end": 127.292,
+      "text": "prácticamente todo ya venía un poco"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 125.292,
+      "end": 128.892,
+      "text": "contagiado. Eh, un poco pues lo que"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 127.292,
+      "end": 130.292,
+      "text": "hemos comentado siempre. Con esto lo"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 128.892,
+      "end": 132.192,
+      "text": "primero que quiero decir es es una"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 130.292,
+      "end": 133.792,
+      "text": "reflexión muy importante, ¿vale? Porque"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 132.192,
+      "end": 136.192,
+      "text": "yo sé que igual que me consumís a mí,"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 133.792,
+      "end": 138.792,
+      "text": "probablemente consumáis a otras a otras"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 136.192,
+      "end": 142.292,
+      "text": "personas en redes sociales. Ehm, tampoco"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 138.792,
+      "end": 143.292,
+      "text": "quiero ehm desprestigiar a los demás, lo"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 142.292,
+      "end": 144.892,
+      "text": "único que"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 143.292,
+      "end": 147.092,
+      "text": "quiero es que, oye, si yo tengo la"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 144.892,
+      "end": 148.392,
+      "text": "humildad de de reconocer que no tengo ni"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 147.092,
+      "end": 150.692,
+      "text": "idea de lo que van a hacer los mercados"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 148.392,
+      "end": 152.492,
+      "text": "a corto plazo, pues mi objetivo es que"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 150.692,
+      "end": 153.49200000000002,
+      "text": "no mordáis el anzuelo de cualquier"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 152.492,
+      "end": 154.69199999999998,
+      "text": "persona que os diga lo que van a hacer"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 153.492,
+      "end": 156.59199999999998,
+      "text": "en los mercados. Para los que no lo"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 154.692,
+      "end": 158.592,
+      "text": "sepáis, ayer los mercados lo lo hicieron"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 156.592,
+      "end": 159.99200000000002,
+      "text": "increíblemente bien y os está pegando"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 158.592,
+      "end": 162.592,
+      "text": "una caída de las más grandes en los"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 159.992,
+      "end": 164.292,
+      "text": "últimos años. Eh, todo esto sin noticias"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 162.592,
+      "end": 166.39200000000002,
+      "text": "aparentes. Bueno, es cierto que pues hay"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 164.292,
+      "end": 167.592,
+      "text": "rumores de que ahora con la nueva cámara"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 166.392,
+      "end": 169.292,
+      "text": "que se ha formado en Estados Unidos pues"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 167.592,
+      "end": 170.89200000000002,
+      "text": "quieren tirar para atrás un poco el"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 169.292,
+      "end": 172.692,
+      "text": "avance de ciertas IA o tal, no sé qué,"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 170.892,
+      "end": 174.692,
+      "text": "que eso podría explicar en gran parte"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 172.692,
+      "end": 176.692,
+      "text": "por qué la por qué el el sector tech"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 174.692,
+      "end": 178.792,
+      "text": "está cayendo fuerte. El caso es que"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 176.692,
+      "end": 181.192,
+      "text": "cuando algo pende de un hilo y está tan"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 178.792,
+      "end": 182.492,
+      "text": "tan apalancado y y requiere unas"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 181.192,
+      "end": 183.792,
+      "text": "inversiones tan grandes que den"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 182.492,
+      "end": 185.69199999999998,
+      "text": "resultados cuanto antes, cualquier"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 183.792,
+      "end": 187.992,
+      "text": "noticia puede hacer perfectamente que"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 185.692,
+      "end": 190.192,
+      "text": "los mercados caigan y y así ha sido,"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 187.992,
+      "end": 191.792,
+      "text": "¿no? Entonces, ehm con esto lo que"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 190.192,
+      "end": 193.49200000000002,
+      "text": "quiero decir lo primero que quiero decir"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 191.792,
+      "end": 194.992,
+      "text": "es que, por favor, no hagáis caso a la"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 193.492,
+      "end": 196.69199999999998,
+      "text": "gente que os diga esto va a subir, esto"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 194.992,
+      "end": 200.792,
+      "text": "va a caer, esto va a tal. Nadie tiene ni"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 196.692,
+      "end": 203.592,
+      "text": "idea y el el la cabecina de de de de hoy"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 200.792,
+      "end": 205.192,
+      "text": "después de un día maravilloso ayer, ehm"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 203.592,
+      "end": 206.292,
+      "text": "no estaba en los libros de nadie y es"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 205.192,
+      "end": 207.99200000000002,
+      "text": "son cosas que son imposibles de"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 206.292,
+      "end": 211.192,
+      "text": "predecir. Por eso ahora vamos a hablar"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 207.992,
+      "end": 213.59199999999998,
+      "text": "de muchas cosas. Quizás eh sea momento"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 211.192,
+      "end": 214.99200000000002,
+      "text": "pues bueno, hay hay muchas"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 213.592,
+      "end": 216.39200000000002,
+      "text": "opciones que tenéis a día de hoy. Por"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 214.992,
+      "end": 217.992,
+      "text": "ejemplo, el que no tiene prácticamente"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 216.392,
+      "end": 219.892,
+      "text": "nada tecnología, a lo mejor se puede"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 217.992,
+      "end": 221.59199999999998,
+      "text": "estar empezando a plantear algo."
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 219.892,
+      "end": 224.692,
+      "text": "Eh, el que tiene una cartera"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 221.592,
+      "end": 226.692,
+      "text": "extremadamente expuesta a tecnología,"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 224.692,
+      "end": 228.692,
+      "text": "eh a lo mejor ya sea cuando salga un"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 226.692,
+      "end": 230.692,
+      "text": "poco del bache o desde hoy mismo puede"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 228.692,
+      "end": 232.392,
+      "text": "empezar a entender que una cartera mayor"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 230.692,
+      "end": 234.392,
+      "text": "con mayor diversificación es mejor"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 232.392,
+      "end": 235.59199999999998,
+      "text": "riesgo-beneficio. Eh, y el que tenga una"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 234.392,
+      "end": 236.59199999999998,
+      "text": "cartera solamente de renta variable"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 235.592,
+      "end": 239.192,
+      "text": "también puede llegar a entender que,"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 236.592,
+      "end": 241.99200000000002,
+      "text": "oye, a lo mejor en la en la próxima eh"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 239.192,
+      "end": 244.594,
+      "text": "la próxima vez que tenga un un problema"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 241.992,
+      "end": 246.194,
+      "text": "ehm eh de este estilo, pues"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 244.594,
+      "end": 248.494,
+      "text": "probablemente tenga una una cartera más"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 246.194,
+      "end": 250.79399999999998,
+      "text": "diversificada donde donde pueda reducir"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 248.494,
+      "end": 252.594,
+      "text": "ese ese ese impacto, ¿no? El ganador en"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 250.794,
+      "end": 254.394,
+      "text": "concreto es el oro, ¿vale? El oro lleva"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 252.594,
+      "end": 255.79399999999998,
+      "text": "mucho tiempo comportándose similar a la"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 254.394,
+      "end": 258.394,
+      "text": "renta variable, pero la realidad es que"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 255.794,
+      "end": 258.394,
+      "text": "cuando ha venido una"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 258.794,
+      "end": 262.094,
+      "text": "Habrá que estar vigilando porque si el"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 260.094,
+      "end": 264.594,
+      "text": "oro recupera un poco esa fortaleza en"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 262.094,
+      "end": 266.594,
+      "text": "momentos de debilidad es eh yo yo el"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 264.594,
+      "end": 267.894,
+      "text": "primero, es motivo suficiente para a lo"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 266.594,
+      "end": 269.094,
+      "text": "mejor adquirirlo cuanto antes, que es de"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 267.894,
+      "end": 270.994,
+      "text": "lo poco que no tengo en las carteras de"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 269.094,
+      "end": 272.894,
+      "text": "mis clientes, con lo cual podría empezar"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 270.994,
+      "end": 274.194,
+      "text": "aquí a sumar, a algo, puesto que"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 272.894,
+      "end": 275.194,
+      "text": "hasta la fecha no lo he cogido porque si"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 274.194,
+      "end": 276.394,
+      "text": "lo veis su comportamiento ha sido"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 275.194,
+      "end": 278.594,
+      "text": "bastante malo siempre cuando los"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 276.394,
+      "end": 280.994,
+      "text": "mercados se han comportado bastante mal."
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 278.594,
+      "end": 282.294,
+      "text": "Eh, también eh me gustaría enseñaros que"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 280.994,
+      "end": 283.994,
+      "text": "una vez más, a ver si esto lo puedo"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 282.294,
+      "end": 286.19399999999996,
+      "text": "enseñar aquí,"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 283.994,
+      "end": 287.394,
+      "text": "¿vale? Los bonos, los bonos en este caso"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 286.194,
+      "end": 289.194,
+      "text": "gubernamentales, ya sabéis que esto es"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 287.394,
+      "end": 291.294,
+      "text": "la inversa del bono que es que es el"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 289.194,
+      "end": 292.594,
+      "text": "Los bonos eh lo están haciendo bien,"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 291.294,
+      "end": 294.094,
+      "text": "¿vale? Una vez más, pues aquí lo vemos"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 292.594,
+      "end": 295.394,
+      "text": "todos los cayendo, esto quiere decir que"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 294.094,
+      "end": 296.99399999999997,
+      "text": "todos los bonos, por ejemplo, en este"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 295.394,
+      "end": 299.794,
+      "text": "caso bonos del gobierno americano lo"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 296.994,
+      "end": 301.59400000000005,
+      "text": "están haciendo bien también. Esto es un"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 299.794,
+      "end": 303.294,
+      "text": "plus para aquellos que tienen, pues o"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 301.594,
+      "end": 304.49399999999997,
+      "text": "oye, todo lo que tenga renta fija es"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 303.294,
+      "end": 306.294,
+      "text": "cierto que dependiendo del tipo de renta"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 304.494,
+      "end": 307.59400000000005,
+      "text": "fija que tenga se caerán o no. Por"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 306.294,
+      "end": 309.19399999999996,
+      "text": "ejemplo, la renta fija que sea de mala"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 307.594,
+      "end": 310.49399999999997,
+      "text": "calidad hoy se la va a pegar porque por"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 309.194,
+      "end": 312.394,
+      "text": "mucho que esta parte del bono te"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 310.494,
+      "end": 314.894,
+      "text": "beneficie, que es la parte del tipo de"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 312.394,
+      "end": 316.894,
+      "text": "interés, eh la parte de la calidad de de"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 314.894,
+      "end": 317.794,
+      "text": "la empresa pues se va a ir muy abajo. No"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 316.894,
+      "end": 320.394,
+      "text": "me quiero imaginar lo que estarán"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 317.794,
+      "end": 322.69399999999996,
+      "text": "haciendo los CDS, es decir, esos seguros"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 320.394,
+      "end": 324.294,
+      "text": "de de de quiebra de compañías que hoy lo"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 322.694,
+      "end": 325.994,
+      "text": "deben estar pasando muy mal tipo, pues"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 324.294,
+      "end": 327.594,
+      "text": "no lo sé, a lo mejor Oracle, ¿no? Que no"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 325.994,
+      "end": 329.09400000000005,
+      "text": "sé cuánto estará cayendo hoy. Ahora"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 327.594,
+      "end": 330.694,
+      "text": "veremos unas pocas empresas, ¿no? Con lo"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 329.094,
+      "end": 333.894,
+      "text": "cual diría que el principal ganador es"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 330.694,
+      "end": 335.994,
+      "text": "el oro. El segundo eh tipo de activo que"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 333.894,
+      "end": 338.294,
+      "text": "cumple su cometido"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 335.994,
+      "end": 341.894,
+      "text": "diría que es la renta fija, ¿vale? El"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 338.294,
+      "end": 343.394,
+      "text": "tercer tipo de hm de cosa que que podría"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 341.894,
+      "end": 345.494,
+      "text": "también tener tener cierta valor a día"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 343.394,
+      "end": 347.194,
+      "text": "de hoy es un poco donde yo estoy"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 345.494,
+      "end": 348.494,
+      "text": "posicionado son las carteras bien"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 347.194,
+      "end": 350.694,
+      "text": "diversificadas, es decir, en las"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 348.494,
+      "end": 352.894,
+      "text": "carteras que no tengan un exceso de"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 350.694,
+      "end": 354.894,
+      "text": "tecnología, que tengan más cosas que"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 352.894,
+      "end": 357.094,
+      "text": "solo renta variable, eh que tengan algún"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 354.894,
+      "end": 358.994,
+      "text": "fondo alternativo, que tengan eh pues un"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 357.094,
+      "end": 361.894,
+      "text": "poco de todo, incluso que tuvieran oro."
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 358.994,
+      "end": 364.194,
+      "text": "Yo no tengo oro, pero no no eh barajo la"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 361.894,
+      "end": 365.995,
+      "text": "posibilidad de ponerlo en algún punto."
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 364.194,
+      "end": 367.595,
+      "text": "Todas estas carteras pues hoy están un"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 365.995,
+      "end": 368.795,
+      "text": "mal trago dependiendo de qué perfil"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 367.595,
+      "end": 370.995,
+      "text": "sean. Por ejemplo, la cartera que te"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 368.795,
+      "end": 372.995,
+      "text": "tenga un 60% renta variable,"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 370.995,
+      "end": 374.395,
+      "text": "asumiendo que tu renta variable promedio"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 372.995,
+      "end": 377.095,
+      "text": "se ha caído un dos en vez de un cuatro y"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 374.395,
+      "end": 380.09499999999997,
+      "text": "pico, pues eh por ahí te estás cayendo a"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 377.095,
+      "end": 381.39500000000004,
+      "text": "lo mejor 1,2 puntos eh que con lo con"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 380.095,
+      "end": 382.795,
+      "text": "otras cosas a lo mejor lo suavizas y"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 381.395,
+      "end": 384.895,
+      "text": "tal. Entonces, un día como hoy que es un"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 382.795,
+      "end": 386.095,
+      "text": "día bastante malo eh donde la gente se"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 384.895,
+      "end": 387.695,
+      "text": "está cayendo pues un cuatro, un cinco,"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 386.095,
+      "end": 388.795,
+      "text": "un seis, pues a lo mejor una cartera"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 387.695,
+      "end": 391.395,
+      "text": "bien hecha pues se puede estar cayendo"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 388.795,
+      "end": 393.39500000000004,
+      "text": "un 1,2, ¿no? Eh, con lo cual ese sería"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 391.395,
+      "end": 394.895,
+      "text": "quizá el el la tercera lección de días"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 393.395,
+      "end": 396.495,
+      "text": "como hoy que, oy, para los que llevamos"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 394.895,
+      "end": 398.09499999999997,
+      "text": "más tiempo en el mercado como que esto"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 396.495,
+      "end": 400.095,
+      "text": "no nos pilla tan de lleno. Aun así es un"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 398.095,
+      "end": 402.095,
+      "text": "día doloroso porque todo aquel que tenga"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 400.095,
+      "end": 403.89500000000004,
+      "text": "inversión hoy va a perder dinero. En eso"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 402.095,
+      "end": 405.89500000000004,
+      "text": "estamos todos de acuerdo, ¿no? ¿Y qué es"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 403.895,
+      "end": 407.29499999999996,
+      "text": "lo peor lo peor? Pues lo peor, bueno,"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 405.895,
+      "end": 408.495,
+      "text": "aquí lo podemos ver en este pantallazo,"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 407.295,
+      "end": 409.89500000000004,
+      "text": "lo peor es"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 408.495,
+      "end": 411.295,
+      "text": "pues ir muy expuesto. Yo me he"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 409.895,
+      "end": 413.695,
+      "text": "encontrado mucha gente, lo he intentado"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 411.295,
+      "end": 415.195,
+      "text": "avisar muchas veces, eh no me gusta que"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 413.695,
+      "end": 418.195,
+      "text": "las personas"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 415.195,
+      "end": 419.495,
+      "text": "eh vayan supercomprometidas con con con"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 418.195,
+      "end": 422.295,
+      "text": "un activo en concreto. Hay gente que"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 419.495,
+      "end": 424.095,
+      "text": "venía comprando el el dip o o o la"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 422.295,
+      "end": 425.195,
+      "text": "pequeña corrección de cosas como Google,"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 424.095,
+      "end": 426.495,
+      "text": "por ejemplo, que no digo que no sean"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 425.195,
+      "end": 429.395,
+      "text": "buenas empresas, pero cuando encima"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 426.495,
+      "end": 431.595,
+      "text": "juntas Google, Nvidia, eh lo que sea con"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 429.395,
+      "end": 433.59499999999997,
+      "text": "acciones sueltas con fondos del Nasdaq o"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 431.595,
+      "end": 435.595,
+      "text": "fondos como Fidelity eh Global"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 433.595,
+      "end": 436.995,
+      "text": "Technology unido a otros fondos"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 435.595,
+      "end": 438.795,
+      "text": "indexados que ya tienen un componente"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 436.995,
+      "end": 440.095,
+      "text": "tecnología bastante bastante grande y no"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 438.795,
+      "end": 442.095,
+      "text": "tienes en la cartera otro tipo de renta"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 440.095,
+      "end": 444.69500000000005,
+      "text": "variable que probablemente también va a"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 442.095,
+      "end": 446.095,
+      "text": "caer hoy, pero bastante menos, ehm pues"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 444.695,
+      "end": 447.895,
+      "text": "al final te vas a encontrar con con una"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 446.095,
+      "end": 450.19500000000005,
+      "text": "caída que pues eso, que que es muy"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 447.895,
+      "end": 453.79499999999996,
+      "text": "significativa. Eh, y qué es lo que"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 450.195,
+      "end": 455.395,
+      "text": "Bueno, eso sería quizá lo lo lo más malo"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 453.795,
+      "end": 457.995,
+      "text": "que le puede pesar a una cartera"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 455.395,
+      "end": 459.695,
+      "text": "teóricamente más o menos eh de cierto"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 457.995,
+      "end": 462.095,
+      "text": "rigor porque lo peor lo peor que te"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 459.695,
+      "end": 463.395,
+      "text": "puede pasar es tener lo que yo considero"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 462.095,
+      "end": 465.295,
+      "text": "o llamo chicharros. Cuando digo"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 463.395,
+      "end": 467.09499999999997,
+      "text": "chicharros digo compañías que no ganan"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 465.295,
+      "end": 468.295,
+      "text": "dinero, de componente tecnológico muy"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 467.095,
+      "end": 470.095,
+      "text": "alto, por ejemplo, en el Nasdaq y aquí"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 468.295,
+      "end": 471.39500000000004,
+      "text": "tengo algunas pocas que sigo a menudo."
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 470.095,
+      "end": 474.495,
+      "text": "Pues por ejemplo, ATS. Esto es una"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 471.395,
+      "end": 476.895,
+      "text": "compañía de satélites en en eh en eh"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 474.495,
+      "end": 478.095,
+      "text": "para internet. Pues -15%. Rigetti."
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 476.895,
+      "end": 480.695,
+      "text": "Esto es una compañía que no gana un duro"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 478.095,
+      "end": 482.295,
+      "text": "de computación cuántica también. -13%."
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 480.695,
+      "end": 483.995,
+      "text": "Oklo. Esto son microrreactores nucleares"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 482.295,
+      "end": 486.39500000000004,
+      "text": "que si me habéis seguido un poco con"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 483.995,
+      "end": 488.197,
+      "text": "ella, yo me salí por aquí en su día,"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 486.395,
+      "end": 490.097,
+      "text": "¿vale? Evidentemente no puedes clavar el"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 488.197,
+      "end": 491.797,
+      "text": "pero por aquí me salí yo. Hoy ya está"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 490.097,
+      "end": 493.99699999999996,
+      "text": "prácticamente en origen. Tesla, menos"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 491.797,
+      "end": 496.09700000000004,
+      "text": "12%. Pues hm, ¿por qué? Porque es una"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 493.997,
+      "end": 498.09700000000004,
+      "text": "compañía de mucha expectativa y"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 496.097,
+      "end": 501.49699999999996,
+      "text": "sobrevalorada en métricas a día de hoy."
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 498.097,
+      "end": 503.897,
+      "text": "SpaceX, menos menos 9%. Es decir, que"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 501.497,
+      "end": 505.697,
+      "text": "aquí donde más van a penalizar es a"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 503.897,
+      "end": 506.997,
+      "text": "compañías tecnológicas"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 505.697,
+      "end": 508.797,
+      "text": "que no tengan unos resultados claros o"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 506.997,
+      "end": 510.897,
+      "text": "tengan una valoración muy alta."
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 508.797,
+      "end": 512.797,
+      "text": "Otras cosas que vemos, bitcoin. Yo nunca"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 510.897,
+      "end": 514.097,
+      "text": "he sido muy fan de bitcoin, aun así os"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 512.797,
+      "end": 516.097,
+      "text": "voy a decir una cosa, que se caiga un"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 514.097,
+      "end": 517.597,
+      "text": "cinco y pico cuando el Nasdaq se cae más"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 516.097,
+      "end": 518.497,
+      "text": "me sorprende para bien del bitcoin. O"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 517.597,
+      "end": 520.297,
+      "text": "sea, ¿qué quiero decir? Que lo está"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 518.497,
+      "end": 521.597,
+      "text": "haciendo mal, por supuesto que sí, pero"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 520.297,
+      "end": 523.397,
+      "text": "en otros momentos pensaría que lo"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 521.597,
+      "end": 525.3969999999999,
+      "text": "estaría haciendo peor en un día de"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 523.397,
+      "end": 526.9970000000001,
+      "text": "pánico como hoy, ¿no? Meta, menos"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 525.397,
+      "end": 528.4970000000001,
+      "text": "cuatro. Es cierto que las compañías así"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 526.997,
+      "end": 530.497,
+      "text": "un poco más sólidas, pues Meta menos"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 528.497,
+      "end": 532.197,
+      "text": "cuatro, Microsoft menos tres y medio. Es"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 530.497,
+      "end": 533.997,
+      "text": "decir, cayendo un poco menos del que el"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 532.197,
+      "end": 535.997,
+      "text": "que el Nasdaq. Y otra cosa más que os"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 533.997,
+      "end": 538.3969999999999,
+      "text": "quiero enseñar, chicos. Eh, yo hice una"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 535.997,
+      "end": 540.997,
+      "text": "cartera de de de empresas precisamente"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 538.397,
+      "end": 542.9970000000001,
+      "text": "de chicharros. Ehm, simplemente la hice"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 540.997,
+      "end": 544.497,
+      "text": "con IA pues para tal y y a la vez que la"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 542.997,
+      "end": 546.497,
+      "text": "dije, esto los que estáis en los"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 544.497,
+      "end": 547.997,
+      "text": "directos lo sabéis, dije, esta cartera"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 546.497,
+      "end": 549.3969999999999,
+      "text": "no me disgusta la forma que tiene de"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 547.997,
+      "end": 551.2969999999999,
+      "text": "invertir, pero es imposible que la haga"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 549.397,
+      "end": 553.297,
+      "text": "bien en la estructura actual del mercado"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 551.297,
+      "end": 555.897,
+      "text": "porque el mercado está muy miedoso y"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 553.297,
+      "end": 557.4970000000001,
+      "text": "está penalizando muy mucho las empresas"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 555.897,
+      "end": 559.697,
+      "text": "que no ganan dinero. Entonces, este tipo"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 557.497,
+      "end": 561.497,
+      "text": "de chicharros, empresas que que que que"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 559.697,
+      "end": 563.297,
+      "text": "pueden prometer, pero no ganan dinero,"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 561.497,
+      "end": 565.997,
+      "text": "en entornos de mercado como este pues"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 563.297,
+      "end": 567.4970000000001,
+      "text": "van a ser muy muy dadas a recibir palos."
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 565.997,
+      "end": 569.2969999999999,
+      "text": "Pues mirar, hoy con el Nasdaq cayendo un"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 567.497,
+      "end": 571.697,
+      "text": "seis, esto se cae un un 11 y esto es una"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 569.297,
+      "end": 573.297,
+      "text": "cartera, si os fijáis. La no no no no"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 571.697,
+      "end": 574.997,
+      "text": "hay vamos, no hay ni una que lo está"
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 573.297,
+      "end": 576.697,
+      "text": "haciendo medianamente bien, ¿no? Con lo"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 574.997,
+      "end": 578.2969999999999,
+      "text": "cual es una carnicería. Sin embargo, si"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 576.697,
+      "end": 580.097,
+      "text": "nos vamos empresas de valor americanas,"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 578.297,
+      "end": 582.097,
+      "text": "pues más o menos aguantan el tipo mejor."
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 580.097,
+      "end": 584.597,
+      "text": "Y si nos vamos a la cartera Value, que"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 582.097,
+      "end": 585.697,
+      "text": "esta es todo menos americana, esta es la"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 584.597,
+      "end": 587.597,
+      "text": "cartera a la que tengo muchas fe, os"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 585.697,
+      "end": 590.497,
+      "text": "hablaré de ellas de ella en un vídeo"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 587.597,
+      "end": 592.097,
+      "text": "próximo de de de de aquí del canal y os"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 590.497,
+      "end": 593.997,
+      "text": "diré cómo la hago y y la maravilla que"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 592.097,
+      "end": 595.697,
+      "text": "está siendo. Esta cartera ha acabado"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 593.997,
+      "end": 597.697,
+      "text": "positiva, aunque al tener muchas cosas"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 595.697,
+      "end": 599.497,
+      "text": "europeas, probablemente mañana gane"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 597.697,
+      "end": 601.897,
+      "text": "negativo. Pero bueno, que es una pasada"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 599.497,
+      "end": 603.2969999999999,
+      "text": "que en un año en un en un día como este"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 601.897,
+      "end": 604.4970000000001,
+      "text": "eh la cartera está aguantando el tipo."
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 603.297,
+      "end": 605.9970000000001,
+      "text": "Aunque insisto, le queda todavía, yo"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 604.497,
+      "end": 607.697,
+      "text": "creo, parte de la caída mañana porque,"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 605.997,
+      "end": 610.097,
+      "text": "como dije anteriormente, las bolsas"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 607.697,
+      "end": 611.598,
+      "text": "europeas han han cerrado cuando el SP"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 610.097,
+      "end": 614.298,
+      "text": "caía un tres y pico y cae un cuatro, con"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 611.598,
+      "end": 616.198,
+      "text": "lo cual es posible que mañana veamos eh"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 614.298,
+      "end": 617.298,
+      "text": "alguna, alguna caída adicional, ¿no? Con"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 616.198,
+      "end": 618.4979999999999,
+      "text": "todo esto lo que, lo que quiero decir"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 617.298,
+      "end": 619.498,
+      "text": "es,"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 618.498,
+      "end": 621.5980000000001,
+      "text": "hombre,"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 619.498,
+      "end": 623.5980000000001,
+      "text": "que ya que los que habéis sufrido esto,"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 621.598,
+      "end": 625.3979999999999,
+      "text": "estáis sufriendo esto de forma grave,"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 623.598,
+      "end": 627.4979999999999,
+      "text": "que, que, que, que aprendáis la lección,"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 625.398,
+      "end": 629.498,
+      "text": "que simplemente pues no os dejéis llevar"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 627.498,
+      "end": 630.798,
+      "text": "por el, por el FOMO del mercado de tengo"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 629.498,
+      "end": 632.5980000000001,
+      "text": "que comprar Google, tengo que comprar"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 630.798,
+      "end": 634.098,
+      "text": "IA, tengo que comprar tal, que tengáis"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 632.598,
+      "end": 635.798,
+      "text": "un poco de todo y eso implica tener un"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 634.098,
+      "end": 638.198,
+      "text": "poco de MSCI World, yo soy, antes he"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 635.798,
+      "end": 639.598,
+      "text": "hecho un, eh un análisis un poco por"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 638.198,
+      "end": 642.198,
+      "text": "encima de qué tal lo estarían haciendo"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 639.598,
+      "end": 643.9979999999999,
+      "text": "las carteras con, con la IA. Eh un día"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 642.198,
+      "end": 645.698,
+      "text": "como hoy cuando salga todo, ¿vale? Esta"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 643.998,
+      "end": 647.398,
+      "text": "es la cartera que hay, claro, si te"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 645.698,
+      "end": 649.198,
+      "text": "fijas aquí todo pues donde yo voy a"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 647.398,
+      "end": 651.298,
+      "text": "tener algo de caídas en el MSCI World en"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 649.198,
+      "end": 652.9979999999999,
+      "text": "este fondo de aquí y probablemente en el"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 651.298,
+      "end": 654.598,
+      "text": "de US Smaller Companies que me imagino"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 652.998,
+      "end": 656.798,
+      "text": "que se caerá menos, luego por supuesto"
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 654.598,
+      "end": 658.4979999999999,
+      "text": "habrá contagio en algunas otras partidas"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 656.798,
+      "end": 660.098,
+      "text": "de la renta variable, pero todo lo"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 658.498,
+      "end": 661.798,
+      "text": "demás, los alternativos de renta fija"
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 660.098,
+      "end": 663.798,
+      "text": "estos probablemente no los hagan ni"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 661.798,
+      "end": 664.998,
+      "text": "siquiera mal. Los alternativos de renta"
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 663.798,
+      "end": 666.798,
+      "text": "variable probablemente aquí sí que haya"
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 664.998,
+      "end": 668.398,
+      "text": "algo de caídas posible,"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 666.798,
+      "end": 671.298,
+      "text": "aquí habrá bastante caída y aquí habrá"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 668.398,
+      "end": 672.5980000000001,
+      "text": "poca caída, ¿no? Entonces ehm que, que"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 671.298,
+      "end": 676.098,
+      "text": "aprendáis un poco la lección, que, que"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 672.598,
+      "end": 677.698,
+      "text": "intentéis no ir siempre eh de la mano de"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 676.098,
+      "end": 679.198,
+      "text": "lo que dice vuestro gurú de turno, que"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 677.698,
+      "end": 681.398,
+      "text": "tengáis una cartera diversificada, cosas"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 679.198,
+      "end": 683.298,
+      "text": "que me harto a contar, pero que por"
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 681.398,
+      "end": 684.398,
+      "text": "culpa de las redes eh a día de hoy pues"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 683.298,
+      "end": 685.798,
+      "text": "os venden que no, es que hay que"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 684.398,
+      "end": 687.398,
+      "text": "invertir todo en indexados, hay que"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 685.798,
+      "end": 689.498,
+      "text": "tener todo en tecnología y tal no sé qué"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 687.398,
+      "end": 692.0980000000001,
+      "text": "y no quiero decir que esto signifique"
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 689.498,
+      "end": 693.398,
+      "text": "una escabechina eh de un menos 30 %, a"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 692.098,
+      "end": 694.598,
+      "text": "lo mejor esto mañana se recupera y"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 693.398,
+      "end": 696.5980000000001,
+      "text": "demás, esto simplemente lo que está"
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 694.598,
+      "end": 699.198,
+      "text": "añadiendo es un riesgo adicional a todas"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 696.598,
+      "end": 700.798,
+      "text": "esas carteras para un retorno que"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 699.198,
+      "end": 701.9979999999999,
+      "text": "recientemente por, por ejemplo ni"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 700.798,
+      "end": 704.098,
+      "text": "siquiera está siendo mejor que algunos"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 701.998,
+      "end": 705.5980000000001,
+      "text": "otros fondos value eh que no invierten"
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 704.098,
+      "end": 707.298,
+      "text": "nada en tecnología, ¿no? Con lo cual lo"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 705.598,
+      "end": 709.698,
+      "text": "que quiero decir es que si tu perfil es"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 707.298,
+      "end": 711.898,
+      "text": "solo de renta variable con más razón que"
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 709.698,
+      "end": 713.4979999999999,
+      "text": "que, que nunca deberías tener más cosas"
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 711.898,
+      "end": 715.498,
+      "text": "y tu, si tu perfil no es solo renta"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 713.498,
+      "end": 717.898,
+      "text": "variable eh la parte de renta fija te"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 715.498,
+      "end": 719.6980000000001,
+      "text": "habrá amortiguado bastante incluso si tu"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 717.898,
+      "end": 721.698,
+      "text": "parte de renta variable era muy indexada"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 719.698,
+      "end": 723.598,
+      "text": "que es la que más eh golpe ha recibido y"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 721.698,
+      "end": 725.698,
+      "text": "con esto vuelvo al ya, ya es la última"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 723.598,
+      "end": 728.3979999999999,
+      "text": "reflexión, eh los indexados están muy"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 725.698,
+      "end": 730.098,
+      "text": "bien porque te dan acceso a muchas cosas"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 728.398,
+      "end": 732.698,
+      "text": "y los costes son bajos, pero lo que digo"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 730.098,
+      "end": 734.699,
+      "text": "siempre los costes no, si por culpa de"
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 732.698,
+      "end": 736.499,
+      "text": "que los costes sean bajos, no te atreves"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 734.699,
+      "end": 737.799,
+      "text": "to a comprar absolutamente nada más que"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 736.499,
+      "end": 739.899,
+      "text": "ha demostrado ser bueno y que"
+    },
+    {
+      "index": 392,
+      "speaker": null,
+      "start": 737.799,
+      "end": 741.899,
+      "text": "diversifica bastante bien cartera, esos"
+    },
+    {
+      "index": 393,
+      "speaker": null,
+      "start": 739.899,
+      "end": 744.299,
+      "text": "costes bajos te están penalizando porque"
+    },
+    {
+      "index": 394,
+      "speaker": null,
+      "start": 741.899,
+      "end": 745.699,
+      "text": "por culpa de querer tener esa mentalidad"
+    },
+    {
+      "index": 395,
+      "speaker": null,
+      "start": 744.299,
+      "end": 747.699,
+      "text": "española de no quiero pagar, es que me"
+    },
+    {
+      "index": 396,
+      "speaker": null,
+      "start": 745.699,
+      "end": 749.4989999999999,
+      "text": "cobran, te estás perdiendo otras cosas"
+    },
+    {
+      "index": 397,
+      "speaker": null,
+      "start": 747.699,
+      "end": 750.799,
+      "text": "que te diversifica la cartera y al final"
+    },
+    {
+      "index": 398,
+      "speaker": null,
+      "start": 749.499,
+      "end": 753.799,
+      "text": "del día hacen que tu cartera sea más"
+    },
+    {
+      "index": 399,
+      "speaker": null,
+      "start": 750.799,
+      "end": 755.299,
+      "text": "compacta y sea mejor. Dicho esto, ehm"
+    },
+    {
+      "index": 400,
+      "speaker": null,
+      "start": 753.799,
+      "end": 757.299,
+      "text": "vamos a seguir esto muy de cerca porque"
+    },
+    {
+      "index": 401,
+      "speaker": null,
+      "start": 755.299,
+      "end": 759.899,
+      "text": "parece que este sell off podría a lo"
+    },
+    {
+      "index": 402,
+      "speaker": null,
+      "start": 757.299,
+      "end": 761.399,
+      "text": "mejor no acabar aquí, podría continuar y"
+    },
+    {
+      "index": 403,
+      "speaker": null,
+      "start": 759.899,
+      "end": 762.799,
+      "text": "lo único que digo es que no sabemos"
+    },
+    {
+      "index": 404,
+      "speaker": null,
+      "start": 761.399,
+      "end": 764.599,
+      "text": "donde no sabemos si esto es una"
+    },
+    {
+      "index": 405,
+      "speaker": null,
+      "start": 762.799,
+      "end": 766.399,
+      "text": "oportunidad de compra, si sí o si no. El"
+    },
+    {
+      "index": 406,
+      "speaker": null,
+      "start": 764.599,
+      "end": 767.6990000000001,
+      "text": "que no lo tenía todo claro con la"
+    },
+    {
+      "index": 407,
+      "speaker": null,
+      "start": 766.399,
+      "end": 770.099,
+      "text": "tecnología no creo que vaya a comprar en"
+    },
+    {
+      "index": 408,
+      "speaker": null,
+      "start": 767.699,
+      "end": 771.399,
+      "text": "esta caída, el que sea un perfil a lo"
+    },
+    {
+      "index": 409,
+      "speaker": null,
+      "start": 770.099,
+      "end": 772.7990000000001,
+      "text": "mejor de querer jugársela en la"
+    },
+    {
+      "index": 410,
+      "speaker": null,
+      "start": 771.399,
+      "end": 774.599,
+      "text": "tecnología, pues a lo mejor va a"
+    },
+    {
+      "index": 411,
+      "speaker": null,
+      "start": 772.799,
+      "end": 776.799,
+      "text": "aprovechar esta caída para"
+    },
+    {
+      "index": 412,
+      "speaker": null,
+      "start": 774.599,
+      "end": 778.599,
+      "text": "eh para seguir comprando. Esto ya es es"
+    },
+    {
+      "index": 413,
+      "speaker": null,
+      "start": 776.799,
+      "end": 780.5989999999999,
+      "text": "opinión. Como habéis comprobado, aquí"
+    },
+    {
+      "index": 414,
+      "speaker": null,
+      "start": 778.599,
+      "end": 782.399,
+      "text": "nadie tiene ni idea y yo solo hago este"
+    },
+    {
+      "index": 415,
+      "speaker": null,
+      "start": 780.599,
+      "end": 784.099,
+      "text": "este tipo de vídeos para, oye, que por"
+    },
+    {
+      "index": 416,
+      "speaker": null,
+      "start": 782.399,
+      "end": 785.399,
+      "text": "lo menos ya que esto ha pasado y nos ha"
+    },
+    {
+      "index": 417,
+      "speaker": null,
+      "start": 784.099,
+      "end": 788.099,
+      "text": "afectado a todos en mayor o menor"
+    },
+    {
+      "index": 418,
+      "speaker": null,
+      "start": 785.399,
+      "end": 789.799,
+      "text": "medida, pues para que todos eh cojamos"
+    },
+    {
+      "index": 419,
+      "speaker": null,
+      "start": 788.099,
+      "end": 792.7990000000001,
+      "text": "un aprendizaje nuevo de aquí y a la"
+    },
+    {
+      "index": 420,
+      "speaker": null,
+      "start": 789.799,
+      "end": 794.399,
+      "text": "próxima vez pues tengamos un poquito eh"
+    },
+    {
+      "index": 421,
+      "speaker": null,
+      "start": 792.799,
+      "end": 796.499,
+      "text": "mejor distribuida nuestras carteras y es"
+    },
+    {
+      "index": 422,
+      "speaker": null,
+      "start": 794.399,
+      "end": 797.499,
+      "text": "que todo esto te ha molestado un montón."
+    },
+    {
+      "index": 423,
+      "speaker": null,
+      "start": 796.499,
+      "end": 798.899,
+      "text": "Espero que os haya gustado el vídeo,"
+    },
+    {
+      "index": 424,
+      "speaker": null,
+      "start": 797.499,
+      "end": 800.1990000000001,
+      "text": "chicos. Eh ya sabéis, a seguir"
+    },
+    {
+      "index": 425,
+      "speaker": null,
+      "start": 798.899,
+      "end": 802.499,
+      "text": "invirtiendo. Si os ha gustado, me dejáis"
+    },
+    {
+      "index": 426,
+      "speaker": null,
+      "start": 800.199,
+      "end": 803.799,
+      "text": "un like o un comentario y nosotros nos"
+    },
+    {
+      "index": 427,
+      "speaker": null,
+      "start": 802.499,
+      "end": 806.499,
+      "text": "vemos en el siguiente vídeo. Se despide"
+    },
+    {
+      "index": 428,
+      "speaker": null,
+      "start": 803.799,
+      "end": 806.499,
+      "text": "La Pizarra de Andrés."
+    }
+  ]
+}
