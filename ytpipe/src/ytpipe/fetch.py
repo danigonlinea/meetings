@@ -3,10 +3,12 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 from collections.abc import Callable
-from typing import TypeVar
+from pathlib import Path
+from typing import Any, TypeVar, cast
 from urllib.error import URLError
 from urllib.request import Request, urlopen
 
@@ -17,6 +19,7 @@ SUBTITLE_FORMATS = ["json3", "vtt"]  # the order of preference, best first
 VIDEO_ID_PATTERN = re.compile(r"^[A-Za-z0-9_-]{11}$")
 BASE_OPTIONS = {"quiet": True, "no_warnings": True, "noprogress": True}
 USER_AGENT = "Mozilla/5.0 (compatible; ytpipe/0.1)"
+COOKIES_ENV = "YTPIPE_COOKIES"
 
 RATE_LIMIT_BACKOFF = (5, 15, 45)  # the seconds to wait before each retry
 RATE_LIMIT_MARKERS = ("429", "Too Many Requests")
@@ -52,7 +55,8 @@ def extract_video_id(url: str) -> str:
 
 def fetch_metadata(url: str) -> dict:
     """Return the yt-dlp info dict for a video, without any subtitle."""
-    with YoutubeDL({**BASE_OPTIONS, "skip_download": True, "writesubtitles": False}) as ydl:
+    options = {**BASE_OPTIONS, "skip_download": True, "writesubtitles": False, **_cookie_options()}
+    with _client(options) as ydl:
         return ydl.extract_info(url, download=False) or {}
 
 
@@ -75,14 +79,43 @@ def _download_transcript(url: str, wanted: list[str]) -> tuple[dict, str, str]:
         "writeautomaticsub": True,
         "subtitlesformat": "/".join(SUBTITLE_FORMATS),
         "subtitleslangs": wanted,
+        **_cookie_options(),
     }
 
-    with YoutubeDL(options) as ydl:
+    with _client(options) as ydl:
         metadata = ydl.extract_info(url, download=False) or {}
 
     metadata["ytpipe_subtitle"] = _pick_track(metadata, wanted)
     track = metadata["ytpipe_subtitle"]
     return metadata, _download_text(track["url"]), track["ext"]
+
+
+def _client(options: dict) -> YoutubeDL:
+    """Build a yt-dlp client.
+
+    yt-dlp types its options as a private TypedDict, so a dict built at run time
+    does not type-check against it. The keys below are the documented ones.
+    """
+    return YoutubeDL(cast("Any", options))
+
+
+def _cookie_options() -> dict:
+    """Return the yt-dlp option that reads a Netscape cookies file.
+
+    YouTube answers `Sign in to confirm you're not a bot` to datacenter
+    addresses. A cookies file exported from a signed-in browser gets past that
+    wall. The path comes from `YTPIPE_COOKIES`, which the CLI sets from
+    `--cookies`. Without a path, no option is set and yt-dlp behaves as before.
+    """
+    path = (os.environ.get(COOKIES_ENV) or "").strip()
+    if not path:
+        return {}
+
+    cookie_file = Path(path).expanduser()
+    if not cookie_file.is_file():
+        raise ValueError(f"the cookies file does not exist: {cookie_file}")
+
+    return {"cookiefile": str(cookie_file)}
 
 
 def _retry_on_rate_limit(url: str, operation: Callable[[], T]) -> T:

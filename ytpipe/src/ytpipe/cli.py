@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from ytpipe import naming
-from ytpipe.fetch import extract_video_id, fetch_metadata, fetch_transcript, subtitle_languages
+from ytpipe.fetch import COOKIES_ENV, extract_video_id, fetch_metadata, fetch_transcript, subtitle_languages
 from ytpipe.jsonout import build_document, count_words, iso_time, write_json
 from ytpipe.parse import chunk_cues, cues_to_text, merge_speakers, parse_json3, parse_vtt
 
@@ -45,10 +45,12 @@ def build_parser() -> argparse.ArgumentParser:
     fetch.add_argument("--open", dest="open_folder", action="store_true", default=platform.system() == "Darwin", help="Open the folder at the end.")
     fetch.add_argument("--no-open", dest="open_folder", action="store_false", help="Do not open the folder.")
     fetch.add_argument("--dry-run", action="store_true", help="Print the plan and write nothing.")
+    fetch.add_argument("--cookies", help=f"A Netscape cookies.txt file, for the YouTube sign-in wall. Default: ${COOKIES_ENV}.")
     fetch.set_defaults(handler=run_fetch)
 
     languages = subcommands.add_parser("languages", help="List every subtitle track of a video.")
     languages.add_argument("url", help="The YouTube URL of the video.")
+    languages.add_argument("--cookies", help=f"A Netscape cookies.txt file, for the YouTube sign-in wall. Default: ${COOKIES_ENV}.")
     languages.set_defaults(handler=run_languages)
 
     return parser
@@ -70,6 +72,7 @@ def main(argv: list[str] | None = None) -> int:
 def run_languages(args: argparse.Namespace) -> int:
     """Print one line per subtitle track."""
     video_id = extract_video_id(args.url)
+    _use_cookies(args.cookies)
     tracks = subtitle_languages(video_id)
 
     if not tracks:
@@ -87,6 +90,7 @@ def run_languages(args: argparse.Namespace) -> int:
 def run_fetch(args: argparse.Namespace) -> int:
     """Download the transcript, then write the meeting folder."""
     video_id = extract_video_id(args.url)
+    cookies = _use_cookies(args.cookies)
     metadata = fetch_metadata(args.url)
 
     title = str(metadata.get("title") or "")
@@ -99,7 +103,7 @@ def run_fetch(args: argparse.Namespace) -> int:
 
     duration = iso_time(float(metadata.get("duration") or 0))
 
-    print_plan(folder, video_id, title, channel, date, duration, args.chunk_chars)
+    print_plan(folder, video_id, title, channel, date, duration, args.chunk_chars, cookies)
 
     if args.dry_run:
         print("dry run: nothing was written")
@@ -149,7 +153,7 @@ def run_fetch(args: argparse.Namespace) -> int:
     return 0
 
 
-def print_plan(folder: Path, video_id: str, title: str, channel: str, date: str, duration: str, chunk_chars: int) -> None:
+def print_plan(folder: Path, video_id: str, title: str, channel: str, date: str, duration: str, chunk_chars: int, cookies: str | None = None) -> None:
     """Print the plan before any write."""
     print(f"plan: {folder.name}")
     print("```")
@@ -159,6 +163,8 @@ def print_plan(folder: Path, video_id: str, title: str, channel: str, date: str,
     print(f"upload    : {date}")
     print(f"duration  : {duration}")
     print(f"chunk size: {chunk_chars} characters")
+    if cookies:
+        print(f"cookies   : {cookies}")
     print(f"target    : {folder}")
     print("```")
 
@@ -181,6 +187,25 @@ def print_result(folder: Path, txt_bytes: int, json_bytes: int, segments: int, c
 def print_next_step() -> None:
     """Tell the user which skill writes the summary."""
     print("next step: run the ingest-meeting skill to write summary.md from transcript.json")
+
+
+def _use_cookies(supplied: str | None) -> str | None:
+    """Read the cookies file, then leave its path in the environment.
+
+    `--cookies` wins over `YTPIPE_COOKIES`, which is how the cloud agent keeps
+    the file outside the repository. The download code reads the variable, so a
+    missing file fails here, before any request.
+    """
+    path = (supplied or os.environ.get(COOKIES_ENV) or "").strip()
+    if not path:
+        return None
+
+    cookie_file = Path(path).expanduser()
+    if not cookie_file.is_file():
+        raise ValueError(f"the cookies file does not exist: {cookie_file}")
+
+    os.environ[COOKIES_ENV] = str(cookie_file)
+    return str(cookie_file)
 
 
 def _folder_slug(supplied: str | None, title: str) -> str:
