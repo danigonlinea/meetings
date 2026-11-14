@@ -114,7 +114,8 @@ en −27,1 %; mover 22.500 € la deja en 60/40 y −25,2 %. La cartera no cambi
 | | **TOTAL** | **9 fondos + 6 acciones** | | **150.000** | **100 %** | **74,8 %** | **0,113 %** |
 
 **Reparto estricto:** RV **112.230 € (74,8 %)** · RF **37.770 € (25,2 %)**. La diferencia con los 112.500 €
-nominales son 270 € de liquidez dentro de las fichas (0,1-1,4 % por fondo).
+nominales son 270 € de liquidez dentro de las fichas (0,1-1,4 % por fondo). Las seis acciones van a
+**5.000 € de objetivo** cada una; el número de acciones y el importe real de cada compra están en §5.1.
 
 **Las nueve clases son de acumulación** (`distributing = 0` en las nueve fichas). Ninguna paga cupón ni
 dividendo: todo se reinvierte en el valor liquidativo.
@@ -158,6 +159,27 @@ individual pasa del 3,3 % del total.
 
 **Reparto del bloque:** 4 EE.UU. (20.000 €), 1 Países Bajos (5.000 €), 1 Latinoamérica cotizada en EE.UU.
 (5.000 €). Sectores: consumo 2, financiero 1, salud 1, tecnología 1, ocio digital 1.
+
+### 5.1 Cuánto dinero va a cada acción (ejecución por acciones enteras)
+
+El diseño son **5.000 € por acción**, 30.000 € en total. Como las acciones se compran por número entero,
+la ejecución real queda así (precios de referencia Yahoo, 30/10 a 13/11/2026; EUR/USD 1,1225):
+
+| Acción | Ticker | Precio | En euros | Nº acciones | **Dinero real** | % cartera |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| Berkshire Hathaway B | BRK/B | 542,49 $ | 483,30 € | 10 | **4.833 €** | 3,22 % |
+| Amazon | AMZN | 268,85 $ | 239,52 € | 20 | **4.790 €** | 3,19 % |
+| Netflix | NFLX | 65,98 $ | 58,78 € | 85 | **4.996 €** | 3,33 % |
+| Intuitive Surgical | ISRG | 443,59 $ | 395,19 € | 12 | **4.742 €** | 3,16 % |
+| Adyen | ADYEN.AS | 867,10 € | 867,10 € | 6 | **5.203 €** | 3,47 % |
+| MercadoLibre | MELI | 1.491,49 $ | 1.328,77 € | 4 | **5.315 €** | 3,54 % |
+| | | | | **137** | **29.880 €** | **19,92 %** |
+
+**Los 120 € que faltan hasta los 30.000 €** son el redondeo de acciones enteras: se quedan en liquidez o
+se suman al fondo 1. Ninguna posición se aleja más de un 6 % de su objetivo de 5.000 €.
+
+Si el bróker admitiera fracciones, los importes serían los 5.000 € exactos de §3; no está confirmado en el
+MCP, así que la tabla de arriba es la que se puede ejecutar.
 
 ---
 
@@ -238,7 +260,7 @@ las acciones, por número entero, con el importe como referencia.
 | 7 | Suscribir iShares Developed Real Estate D Acc EUR (IE00BDRK7P73) | 6.000 € |
 | 8 | Suscribir iShares Global Aggregate 1-5Y Bond S Acc EUR H (IE0004ZP1ND3) | 21.000 € |
 | 9 | Suscribir Amundi EUR Corporate Bond 1-5Y ESG AE Acc (LU1525412281) | 16.500 € |
-| 10-15 | Comprar BRK/B, AMZN, NFLX, ISRG, ADYEN.AS y MELI | 5.000 € cada una |
+| 10-15 | Comprar BRK/B, AMZN, NFLX, ISRG, ADYEN.AS y MELI (acciones e importes exactos en §5.1) | 29.880 € |
 
 **Notas de ejecución:**
 
@@ -248,8 +270,8 @@ las acciones, por número entero, con el importe como referencia.
 - **Dos tandas si se prefiere.** La mitad ahora y la otra mitad en 30 días reduce el riesgo de entrar
   justo antes de una caída, a cambio de no entrar si sube. Con dinero nuevo y horizonte largo, la
   alternativa neutra es entrar de una vez; la cartera no depende del punto de entrada.
-- **Redondeo de acciones.** MyInvestor puede no admitir fracciones: quedarán 50-200 € sueltos por
-  redondeo. Se dejan en liquidez o se suman al fondo 1.
+- **Redondeo de acciones.** MyInvestor puede no admitir fracciones: los seis importes de §5.1 son los que
+  se pueden ejecutar y dejan **120 €** sueltos. Se quedan en liquidez o se suman al fondo 1.
 - **Antes de la primera orden:** confirmar la comisión de compraventa de acciones y el mínimo por
   operación. No está en el MCP y condiciona si 5.000 € por acción es eficiente.
 
@@ -303,6 +325,8 @@ las acciones, por número entero, con el importe como referencia.
 
 - **MyInvestor MCP**, 14/11/2026: `list_facets` (2.409 fondos, 266 indexados), `search_funds`,
   `get_funds` (9 fichas, NAV 11/11/2026), `get_instruments` (6 acciones, 14/11/2026).
+- **Yahoo Finance MCP**, 14/11/2026: precio de las seis acciones para el redondeo de §5.1 (timestamps
+  entre el 30/10 y el 13/11/2026, no precios de ejecución) y EUR/USD 1,1225.
 - **Repositorio:** `finance/portfolio/README.md` (regla de acumulación y de no consolidar),
   `cartera-myinvestor/propuesta-actual.md` (señales macro del 04/11/2026: TIR de la RF 4,24-4,65 %,
   inflación 3,8 %, EY 6,65 %, S&P 18,7x, STOXX 13,6x, concentración 46 %/34 %),
