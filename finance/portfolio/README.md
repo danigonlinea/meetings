@@ -1,12 +1,12 @@
 ---
-title: "Cartera: dos carteras independientes"
+title: "Cartera: dos carteras propias y una de referencia"
 date: 2026-11-02
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4]
+tags: [cartera, indice, myinvestor, renta4, cartera-de-andres]
 status: living
 ---
-# Cartera: dos carteras independientes
+# Cartera: dos carteras propias y una de referencia
 
 Dos patrimonios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de una
 carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
@@ -16,6 +16,12 @@ se escribe en un documento aparte con su propia fecha.
 | --- | --- | --- |
 | `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 04/11/2026**: 55/45 en diez fondos solo, 424,80 €/año de coste real, catorce órdenes en §7) + `propuesta-acciones.md` (complemento de acciones) |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
+| `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
+
+`cartera-de-andres/` es material de **análisis**, no una tercera cartera del dueño: no se suma, no se
+rebalancea y no compite con las dos anteriores. Se actualiza con la skill `cartera-andres` cuando se
+ingiere un vídeo de resultados del canal.
+
 
 `propuesta-acciones.md` (04/11/2026) es el **complemento de acciones** de la cartera de fondos, no una
 tercera cartera: cuatro acciones individuales sin dividendo mencionadas en el corpus, con ficha,
