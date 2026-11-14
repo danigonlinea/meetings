@@ -8,6 +8,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-14 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `reference/glossary.md` | reference | cross | 2026-11-13 | Glosario | [glosario, terminologia] |
 | `finance/videos/la-pizarra-de-andres/2026-11-13-ha-llegado-el-momento-de-invertir-en-nvidia/summary.md` | meeting-summary | finance | 2026-11-13 | ¿Ha llegado el momento de invertir en Nvidia? La caída del 35% y unos múltiplos de PER 18 | [nvidia, valoracion, per, caida-de-mercado, semiconductores, ia, analistas, investing-pro, especulacion, rotacion-sectorial] |
+| `finance/reports/informe-semanal-2026-11-13.md` | synthesis | finance | 2026-11-13 | Informe semanal — 2026-11-13 | [informe-semanal, candidatos, cartera, nvidia, indexacion, pensiones, myinvestor] |
 | `finance/reports/informe-canal-la-pizarra-de-andres-2026-11-13.md` | channel-report | finance | 2026-11-13 | Informe de canal: La Pizarra de Andrés (2026-11-13) | [informe-canal, la-pizarra-de-andres, indexacion, concentracion-sp500, value, small-caps, renta-fija, credito, ia, grifols] |
 | `finance/videos/la-pizarra-de-andres/2026-11-11-las-caidas-del-mercado-no-te-importaran-si-entiendes-esto/summary.md` | meeting-summary | finance | 2026-11-11 | Las caídas del mercado no te importarán si entiendes esto | [caidas-de-mercado, volatilidad, diversificacion, indexacion, gestion-activa, beta, concentracion-del-indice, comisiones, emergentes] |
 | `finance/reports/auditoria-coherencia-2026-11-10.md` | revision | finance | 2026-11-10 | Auditoría de coherencia: dos verdades sobre la misma cartera | [auditoria, coherencia, cartera, myinvestor, renta4, informes, termometro, glosario] |
@@ -48,6 +49,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/el-arte-de-invertir/2026-05-20-spacex-vale-2-trillones-o-es-el-ipo-mas-caro/summary.md` | meeting-summary | finance | 2026-05-20 | Resumen: SpaceX — ¿Vale 2 trillones o es el IPO más caro de la historia? | [spacex, ipo, elon-musk, starlink, xai, echo-star, rocket-lab, tesla, valoracion] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 42
+**Total de artefactos indexados:** 43
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
