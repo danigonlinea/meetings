@@ -22,6 +22,8 @@ finance/                        inversión y finanzas
   reports/                      informes de canal, síntesis y auditorías (el `type` los distingue)
 ai/                             IA
   dev-docs-explained/           Dev Docs Explained (agentes, Claude, LLMs)
+  ai-engineer/                  charlas de AI Engineer: NYC 2026 y Code Summit 2026
+    catalogo.md                 catálogo generado de las charlas y su estado
   reports/                      se crea con el primer informe de IA
 reference/                      glosario de ponentes y nombres, glosario técnico
 tools/                          catálogo de webinars, generador de INDEX.md, verificación y termómetro
@@ -32,7 +34,7 @@ AGENTS.md · INDEX.md            enrutado · índice generado de artefactos
 
 Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpeta de su fuente:
 `finance/videos/<fuente>/` para los vídeos de finanzas y `<categoria>/<fuente>/` para el resto
-(hoy solo `ai/dev-docs-explained/`).
+(hoy `ai/dev-docs-explained/` y `ai/ai-engineer/`).
 
 | Archivo | Contenido | ¿Se edita? |
 | --- | --- | --- |
@@ -69,8 +71,8 @@ Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpe
 ## Skills
 
 Las skills viven en `.agents/skills/` (`ingest-meeting`, `ingest-channel`,
-`ingest-webinars`, `informe-semanal`, `revision-cartera`, `cribado-acciones`); cuándo usar cada una, en
-`AGENTS.md`.
+`ingest-webinars`, `ingest-charlas-ia`, `informe-semanal`, `revision-cartera`, `cribado-acciones`);
+cuándo usar cada una, en `AGENTS.md`.
 
 ## Reports: qué es cada uno
 
@@ -103,7 +105,12 @@ python3 tools/myinvestor_webinars.py list        # TSV: id, título, post
 python3 tools/myinvestor_webinars.py pendientes  # solo los que faltan por ingerir
 python3 tools/myinvestor_webinars.py catalogo    # reescribe finance/videos/myinvestor-webinars/catalogo.md
 
-# qué falta por ingerir, sin descargar (canal + webinars)
+# charlas de AI Engineer (NYC 2026 y Code Summit 2026)
+python3 tools/aie_talks.py list                  # TSV: id, fecha, evento, título
+python3 tools/aie_talks.py pendientes            # solo las que faltan por ingerir
+python3 tools/aie_talks.py catalogo              # reescribe ai/ai-engineer/catalogo.md
+
+# qué falta por ingerir, sin descargar (canal + webinars + charlas de IA)
 python3 tools/nuevos.py
 python3 tools/nuevos.py --json
 

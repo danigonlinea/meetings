@@ -15,6 +15,9 @@ Fuentes:
     español). `@LaPizarradeAndrésLive` es otro canal y no se ingiere.
   - MyInvestor: catálogo del blog (qué es webinar) cruzado con el RSS del canal
     `UCc9nsd1tjDdw32wLcM5OOWQ` (cuándo se publicó).
+  - AI Engineer: charlas de `AIE NYC 2026` y `AIE CODE 2026`, leídas de sus playlists
+    (`tools/aie_talks.py`). Es backlog, no goteo: se informa del total pendiente y de las tres
+    más recientes, no se listan las 131.
 
 Sin estado: la marca de agua es la fecha de la última transcripción ingerida, así que si el
 cron falla dos semanas, la siguiente recupera lo que faltó.
@@ -31,11 +34,12 @@ import xml.etree.ElementTree as ET
 from datetime import date, timedelta
 from pathlib import Path
 
+import aie_talks
+
 ROOT = Path(__file__).resolve().parents[1]
 VIDEOS = "videos"  # contenedor de las fuentes de vídeo dentro de finance/
 CANAL = {"nombre": "La Pizarra de Andrés", "id": "UCEXbEm8RUvRkKUEo2RjKd9w", "carpeta": f"{VIDEOS}/la-pizarra-de-andres"}
 WEBINARS = {"nombre": "MyInvestor", "id": "UCc9nsd1tjDdw32wLcM5OOWQ", "carpeta": f"{VIDEOS}/myinvestor-webinars"}
-NO_RECORRER = {".git", ".venv", "node_modules", "ytpipe", ".agents", "__pycache__", ".pytest_cache"}
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 DIAS_POR_DEFECTO = 7
 
@@ -68,20 +72,7 @@ def feed(channel_id: str) -> list[dict]:
 
 def ingested() -> dict[str, dict]:
     """id → {carpeta, fecha} de cada transcripción del repositorio."""
-    found = {}
-    for path in ROOT.rglob("transcript.json"):
-        if set(path.relative_to(ROOT).parts) & NO_RECORRER:
-            continue
-        try:
-            source = json.loads(path.read_text(encoding="utf-8")).get("source", {})
-        except (OSError, ValueError):
-            continue
-        if source.get("video_id"):
-            found[source["video_id"]] = {
-                "carpeta": str(path.parent.relative_to(ROOT)),
-                "fecha": str(source.get("upload_date", ""))[:10],
-            }
-    return found
+    return aie_talks.ingested()
 
 
 def last_date(done: dict[str, dict], carpeta: str) -> date | None:
@@ -112,6 +103,20 @@ def pending_webinars() -> dict[str, dict]:
     return out
 
 
+def pending_aie() -> list[dict]:
+    """Charlas de AI Engineer sin ingerir, la más reciente primero. Sin red, lista vacía."""
+    try:
+        items, _ = aie_talks.collect()
+    except Exception as error:  # una fuente caída no puede tumbar el resto del informe
+        print(f"aviso: no pude leer AI Engineer: {error}", file=sys.stderr)
+        return []
+    done = aie_talks.ingested()
+    pending = [item for item in items if item["id"] not in done]
+    pending = aie_talks.with_dates(pending)
+    pending.sort(key=lambda item: item.get("fecha") or "0000-00-00", reverse=True)
+    return pending
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Qué hay nuevo desde la última ingesta")
     parser.add_argument("--dias", type=int, help="ventana si la fuente no tiene ingesta previa")
@@ -138,6 +143,8 @@ def main() -> int:
         if item["id"] in catalog and item["fecha"] >= webinar_cut_effective
     ]
 
+    aie = pending_aie()
+
     if args.json:
         print(
             json.dumps(
@@ -152,6 +159,10 @@ def main() -> int:
                         {**item, "url": f"https://www.youtube.com/watch?v={item['id']}"} for item in webinars_new
                     ],
                     "backlog_webinars": len(catalog),
+                    "aie_pendientes": len(aie),
+                    "aie_recientes": [
+                        {**item, "url": f"https://www.youtube.com/watch?v={item['id']}"} for item in aie[:3]
+                    ],
                 },
                 ensure_ascii=False,
                 indent=1,
@@ -170,9 +181,16 @@ def main() -> int:
         print(f"  {item['fecha']}  {item['id']}  {item['titulo'][:70]}")
         print(f"              https://www.youtube.com/watch?v={item['id']}")
 
+    print(f"\nAI Engineer (NYC 2026 + CODE 2026): {len(aie)} charlas pendientes en el catálogo")
+    for item in aie[:3]:
+        print(f"  {item['fecha'] or '—'}  {item['id']}  {item['evento']}  {item['titulo'][:60]}")
+        print(f"              https://www.youtube.com/watch?v={item['id']}")
+    if len(aie) > 3:
+        print(f"  y {len(aie) - 3} más: ai/ai-engineer/catalogo.md")
+
     if args.backlog:
         print(f"\nBacklog antiguo (no es nuevo, no se ingiere solo): {len(catalog)} webinars")
-    if not channel_new and not webinars_new:
+    if not channel_new and not webinars_new and not aie:
         print("\nSin novedades: nada publicado después de la última ingesta.")
     return 0
 

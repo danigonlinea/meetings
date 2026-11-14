@@ -113,6 +113,23 @@ def check_catalog() -> None:
         )
 
 
+def check_aie_catalog() -> None:
+    charlas = ROOT / "ai" / "ai-engineer"
+    catalog = charlas / "catalogo.md"
+    if not catalog.is_file():
+        warnings.append("ai/ai-engineer/catalogo.md no existe")
+        return
+    ingested = len(list(charlas.glob("*/transcript.json")))
+    match = re.search(r"\*\*ingeridas:\*\*\s*(\d+)", catalog.read_text(encoding="utf-8"))
+    if not match:
+        warnings.append("ai/ai-engineer/catalogo.md: no encuentro el contador de ingeridas")
+    elif int(match.group(1)) != ingested:
+        errors.append(
+            f"ai/ai-engineer/catalogo.md dice {match.group(1)} ingeridas y hay {ingested} carpetas: "
+            "ejecuta `python3 tools/aie_talks.py catalogo`"
+        )
+
+
 def git(*args: str) -> str:
     return subprocess.run(
         ["git", *args], cwd=ROOT, capture_output=True, text=True, check=False
@@ -140,6 +157,7 @@ def main(argv: list[str]) -> int:
     check_frontmatter()
     check_index()
     check_catalog()
+    check_aie_catalog()
     if "--git" in argv:
         check_git()
 

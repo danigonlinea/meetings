@@ -18,6 +18,7 @@ cartera, añade `finance/portfolio/README.md` como cuarto paso.
 | Gestoras, entrevistas, "qué dice MyInvestor" | `finance/videos/myinvestor-webinars/` | `catalogo.md` → carpeta del webinar → `summary.md` |
 | Visión consolidada o discrepancias entre vídeos | `finance/reports/` | `informe-canal-*` y `sintesis-inversor-*` |
 | Agentes de IA, LLMs, Claude | `ai/dev-docs-explained/` | `summary.md` del vídeo |
+| Charlas de AI Engineer (NYC, Code Summit), agentes de código, evals | `ai/ai-engineer/` | `catalogo.md` → carpeta de la charla → `summary.md` |
 | Nombre de una persona, canal o entidad | `reference/glossary.md` | Tabla de ponentes |
 | Terminología (IA o finanzas) | `reference/glossary-technical.md` | — |
 | Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §11 → `python3 tools/termometro.py` |
@@ -47,6 +48,8 @@ Nombres de carpeta, frontmatter YAML y comandos: `README.md`.
 - `ingest-meeting` — llega una transcripción y falta `summary.md`. Define las secciones del resumen.
 - `ingest-channel` — "los últimos N vídeos de un canal" o un informe de canal.
 - `ingest-webinars` — webinars o entrevistas de MyInvestor (lista el catálogo y salta lo ya ingerido).
+- `ingest-charlas-ia` — charlas de AI Engineer (NYC 2026, Code Summit 2026): el catálogo manda
+  qué falta, y el resumen es técnico, no de inversión.
 - `revision-cartera` — revisión trimestral: mide las señales, corre el termómetro y escribe la
   revisión. No decide el % de RV.
 - `informe-semanal` — la pasada semanal del agente cloud: descubre, ingiere, escribe el informe con
@@ -109,6 +112,13 @@ Identidades de las fuentes:
 | La Pizarra de Andrés (la que se ingiere) | canal `UCEXbEm8RUvRkKUEo2RjKd9w` |
 | La Pizarra de Andrés Live | canal `UCDpE0dCtPTJZKAr8psiAHQw` — **no se ingiere** |
 | MyInvestor | `https://blog.myinvestor.es/escuelamyinvestor/webinars/` |
+| AI Engineer — NYC 2026 | canal `UCLKPca3kwwd-B59HNr-_lvA`; playlists `PLLKkCXQeuCis` (completa), `PLVanfCmVOgIg` (charlas online), `PLPrARbQ6iscE` (talleres) |
+| AI Engineer — Code Summit 2026 | mismo canal; playlists `PLZUQJ1aon-40` (completa) y `PLbhiZl98JSQI` (charlas online) |
+
+Las charlas de AI Engineer viven en `ai/ai-engineer/catalogo.md` y son **backlog**: `nuevos.py`
+informa del total pendiente y de las tres más recientes, pero la pasada semanal no las ingiere
+salvo encargo del dueño; el goteo semanal sigue siendo de finanzas. Las 131 charlas no se descargan
+de golpe.
 
 Límites: nada de cartera desde el cloud; nada de merge a `main` en repos de código; una pieza sin
 subtítulos se salta y se reporta, no se resume de memoria.

@@ -53,6 +53,10 @@ yt-dlp --flat-playlist --playlist-end <N> --print "%(id)s" "<canal-url>/videos"
 Canal de La Pizarra de Andrés: `UCEXbEm8RUvRkKUEo2RjKd9w`. El handle `@LaPizarradeAndrésLive` es
 otro canal (directos): no se ingiere. `python3 tools/nuevos.py` ya hace esta comparación.
 
+Las charlas de `AI Engineer` (`@aiDotEngineer`, eventos NYC 2026 y Code Summit 2026) **no** se
+ingieren con esta skill: van por `ingest-charlas-ia`, que usa el catálogo `ai/ai-engineer/` y un
+resumen técnico sin secciones de inversión.
+
 Aplica estas reglas.
 
 - La pestaña `/videos` lista el vídeo más nuevo primero. La opción `--playlist-end N` devuelve los N vídeos más nuevos.
