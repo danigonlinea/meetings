@@ -12,7 +12,8 @@ description: Usar cuando corra la revisión semanal de canales (cron del agente 
   `@LaPizarradeAndrésLive` es otro canal: no se ingiere.
 - Webinars: `finance/videos/myinvestor-webinars/`, catálogo generado por
   `python3 tools/myinvestor_webinars.py`.
-- Salida: `finance/reports/informe-semanal-YYYY-MM-DD.md`, `type: synthesis`.
+- Salida: `finance/reports/informe-semanal-YYYY-MM-DD.md`, `type: synthesis`. La carpeta se crea con
+  `mkdir -p finance/reports` antes de escribir; el 14/11/2026 se vació y no debe darse por existente.
 - Dependencias: `yt-dlp`, `uv` + `ytpipe`, skill `ingest-meeting`, skill `ingest-webinars`.
 
 ## Límites duros

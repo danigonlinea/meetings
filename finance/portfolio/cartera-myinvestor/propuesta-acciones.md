@@ -29,7 +29,9 @@ related:
 > (Horos, Arcus, el invitado de la charla de IA) y menciones sueltas de calidad. La propuesta se
 > construye sobre esas menciones **más** verificación propia de negocio, múltiplo y precio.
 >
-> **Fuentes del corpus usadas.** 18 `summary.md` y los informes de `finance/reports/`. Se reutilizan
+> **Fuentes del corpus usadas.** 18 `summary.md` del corpus. Los informes de canal que vivían en
+> `finance/reports/` se retiraron del repositorio el 14/11/2026; su texto sigue en el historial de git.
+> Se reutilizan
 > además el método y las verificaciones de los anexos absorbidos el 04/11/2026 (regla de acumulación,
 > ficha por vehículo, etiquetas hecho/consenso/opinión, señal de invalidación); el texto íntegro de
 > esos anexos está en el historial de git, commit `50b2e69`, y sus conclusiones en `propuesta-actual.md`.

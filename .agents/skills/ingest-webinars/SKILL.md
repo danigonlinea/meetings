@@ -12,7 +12,7 @@ Esta skill trabaja solo en este repositorio, el repositorio `investing-meetings`
 - Ruta de la skill: `.agents/skills/ingest-webinars/`.
 - Ruta de las carpetas de webinar: `<project-root>/finance/videos/myinvestor-webinars/YYYY-MM-DD-<topic-slug>/`.
 - Ruta del catálogo: `<project-root>/finance/videos/myinvestor-webinars/catalogo.md`. Lo genera el script; nunca se edita a mano.
-- Ruta de los informes y de las auditorías: `<project-root>/finance/reports/` (la auditoría lleva `type: revision`).
+- Ruta de los informes y de las auditorías: `<project-root>/finance/reports/` (la auditoría lleva `type: revision`). La carpeta se crea con `mkdir -p` antes de escribir: el 14/11/2026 se vació.
 - Categoría: siempre `finance`. Fuente: siempre `myinvestor-webinars`.
 - Al terminar, ejecuta `python3 tools/build_index.py` para regenerar `INDEX.md`.
 
