@@ -1,0 +1,3516 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=HqBmtoGZp9w",
+    "video_id": "HqBmtoGZp9w",
+    "title": "El ERROR que Cometen Muchos Inversores al Ejecutar una Orden 👀",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a entender todo sobre las órdenes de ejecución para invertir de la mejor forma.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-07-08",
+    "duration_seconds": 995,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:28:47+00:00"
+  },
+  "stats": {
+    "segment_count": 477,
+    "chunk_count": 16,
+    "speaker_count": 0,
+    "word_count": 3424,
+    "character_count": 17818,
+    "time_span_seconds": 996
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1196,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:07",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal, La Pizarra de Andrés. En el día de hoy vamos a hablar de órdenes de ejecución. Y es que como bien sabéis, yo intento que en este canal hagáis una inversión a largo plazo, menos centrada en la operativa, menos centrada en comprar, vender, en potenciar o maximizar esas órdenes y en muchos casos, si la inversión es a través de fondos, nada de esto aplicaría, porque simplemente en un fondo no existe eh los tipos de órdenes. Tú compras al final de cierto momento se te ejecuta, normalmente al final de la tarde se te ejecuta todas en al mismo precio a todos los que salen del fondo ese día y a todos los que compran ese día y por tanto, no te afecta nada el ti o no existe un tipo de orden. Ahora bien, ¿qué es lo que pasa cuando invertís en ETFs y en acciones? Ahí el tipo de orden sí importa. Para ello, ahora que tenemos el el mercado abierto, vamos a abrir un eh el libro de órdenes, en el que os voy a explicar un poco todas las diferencias o los tipos de órdenes que podría haber y para qué funcionaría cada uno lo vemos en tiempo real lo que está pasando, ¿no? Aquí vemos, pues por ejemplo, aquí tengo un un un libro de órdenes, ¿vale? Como"
+    },
+    {
+      "index": 1,
+      "text_start": 1197,
+      "text_end": 2384,
+      "time_start_iso": "00:01:06",
+      "time_end_iso": "00:02:21",
+      "speakers": [],
+      "text": "otro cualquiera. ¿Qué es lo que tenemos que entender en un libro de órdenes? Bueno, eh siempre vamos a ver un una primera columna, que son las órdenes de compra. Si os fijáis, las órdenes de compra el precio siempre es descendente y luego vamos a ver la otra columna que son las órdenes de venta, ¿vale? Esto, insisto, aplicaría exactamente igual para acciones que para ETFs, no para fondos. Entonces, en la orden en en en la columna de compras, esto es lo que se llama un libro de órdenes, el libro de órdenes tiene dos columnas o o dos dos dos partes. Eh la parte de la compra y la parte de la venta, ¿vale? La parte de la compra siempre, por motivos obvios, será descendente, es decir, hay gente demandando comprar a diferentes precios, siempre cada vez menor, y la orden de venta, pues lo mismo, hay gente eh queriendo vender siempre a diferentes precios, ¿vale? Las eh en este caso eh cada cada mitad tiene dos columnas, ¿vale? Tiene la cantidad, es decir, el número de acciones que se están pidiendo a ese precio o que se están queriendo vender a ese precio y el precio, ¿vale? Con lo cual, aquí lo primero que podemos decir es que hay 5.445 eh peticiones de compra a 1,092, ¿vale?"
+    },
+    {
+      "index": 2,
+      "text_start": 2385,
+      "text_end": 3556,
+      "time_start_iso": "00:02:17",
+      "time_end_iso": "00:03:33",
+      "speakers": [],
+      "text": "Y por otro lado, hay em 5.472 eh peticiones de venta o ofertas para vender a 1,096. La diferencia entre 1,092 y 1,096 es lo que llamaríamos spread, ¿vale? Eh no es un spread muy alto, pero em casi siempre en todas las acciones vais a ver un spread em que es la diferencia entre precio de compra y precio de venta. Eh si es una acción tremendamente líquida, como pueda ser Tesla o Apple, pues el spread es muy reducido y si es una una una empresa eh menos eh em menos tradeada o con menos con menos volumen, es cuando los spreads se hacen más grandes. Cuidado con el spread, porque si tú ahora mismo metieras una orden de compra a mercado, estarías comprando a 1,098, cuando el precio real, bueno, ahora está cambiando, esto es esto es bonito de ver, porque así lo vamos lo vamos viendo en en tiempo real, pero si tú ahora mismo metieras una orden de compra, automáticamente, como hay 203.000 eh títulos que se quieren vender a 1,10, automáticamente tú podrías llegar a comprar hasta 203.000 títulos a 1,10, ¿vale? Eh automáticamente, si quisieras comprar más de 203.000 títulos a mercado, ya tendrías que comprar toda la toda la la la el nivel de 1,10 y te irías al nivel"
+    },
+    {
+      "index": 3,
+      "text_start": 3557,
+      "text_end": 4745,
+      "time_start_iso": "00:03:31",
+      "time_end_iso": "00:04:38",
+      "speakers": [],
+      "text": "de 1,102. Por lo tanto, si alguien quisiera comprar 250.000 títulos, aproximadamente, cogería 204.000 a 1,10, eh 40.000 a 1,102 y 44.000, ¿vale? Si fueran 300.000 títulos, a 1,104, es decir, tu precio medio no sería 1,10 exacto, sería a lo mejor 1,101, porque sería la media de estas tres compras, ¿no? Eso sería una orden a mercado. Por otro lado, ¿vale? Ya hemos descubierto la primera el primer tipo de orden. Por otro lado, tendríamos la orden limitada. ¿Qué hace la orden limitada? La orden limitada te pone a la cola para comprar al precio que tú quieras. Por ejemplo, imagínate que dices, oye, yo no quiero comprar a 1,10, quiero comprar a 1,096, que es donde está el el el el precio de compra, donde la gente está esperando. Pues en estos 19.000 o 20.000 que hay ahora pidiendo, eh pues tú para a lo mejor podrías poner otros 20.000, otros 30.000, otros 50.000, lo que sea y te pondrías a la espera para que alguien decida vender venderte a este precio. Es cierto que cuando estás en la primera fila del precio, por cierto, esta página se llama Xduct para para el que la quiera ver y es gratis, eh cuando te pones a este precio, lo normal es que tarde o temprano, en un vaivén del"
+    },
+    {
+      "index": 4,
+      "text_start": 4746,
+      "text_end": 5911,
+      "time_start_iso": "00:04:36",
+      "time_end_iso": "00:05:45",
+      "speakers": [],
+      "text": "mercado, pues te acaben dando el precio que tú deseas. Es decir, si tú te pones aquí 40.000 títulos a 1,096 para comprar, lo más normal es que a lo largo de los próximos minutos se te ejecute. ¿Qué es lo que pasa? Que al ser una orden limitada y tú poner aquí, por ejemplo, 40.000 títulos, eh existe la posibilidad de que solo peguen 20.000 y te hagan la mitad de la orden y luego que el mercado suba y solo te haya hecho la mitad de la orden, ¿no? O existe la posibilidad de que el mercado nunca vuelva a retroceder, nunca ocurra que se tradee de nuevo el 1,096 y por tanto el mercado suba y te lo pierdas. Es decir, la diferencia principal entre la orden de mercado y la orden limitada es que la orden de mercado se te garantiza, pero a cambio pagas este spread, la diferencia entre el 1,096 y el 1,10, y la orden limitada, en este caso, eh se queda esperando para comprar a un mejor precio, pero dependes de que alguien en el mercado eh decida vender a este precio, con una orden a mercado, por ejemplo, ¿no? Entonces, lo normal es que eh sobre todo en empresas poco líquidas, em en en empresas donde el spread sea muy grande, en empresas donde no tengas ninguna"
+    },
+    {
+      "index": 5,
+      "text_start": 5912,
+      "text_end": 7089,
+      "time_start_iso": "00:05:41",
+      "time_end_iso": "00:06:47",
+      "speakers": [],
+      "text": "prisa, lo normal en esas empresas es eh de orden limitada. Lo normal en empresas grandes donde el spread es muy pequeño y encima vais a largo plazo eh es comprar a mercado. Tener mucho cuidado cuando compréis ETFs, yo particularmente no invierto en ETFs, ya lo sabéis, y esto con fondos no ocurre, pero tener muy mucho cuidado cuando cuando vayáis a comprar un ETF, porque si no podéis ver el el order book, el libro de órdenes, eh tenéis la posibilidad de que la lo que es eh eh la liquidez sea muy mala y aunque tú estés viendo un precio 1 10, si aquí solo hay una una acción a la venta en 1 10 y en 1 10 2 hay 10 más y en 1 10 4 hay 10 más y tú quieres comprar 50, cuando tú crees que estás comprando 1 10, en realidad acabas comprando a precio medio 1 10 6, es decir, te puedes dejar muchísimo dinero en la mesa si compras a mercado algo que tiene poca liquidez, con lo cual mucho cuidado, aquí no hay problema, porque si tú ahora mismo quisieras comprar 150.000 euros de esta acción y lo compraras a mercado, el único spread que te comes es el que ves, que es esto de aquí, ¿no? La diferencia entre este de 0 1 0 9 6 este 1 10. ¿Por qué? Porque hay suficiente volumen. Sin"
+    },
+    {
+      "index": 6,
+      "text_start": 7090,
+      "text_end": 8279,
+      "time_start_iso": "00:06:45",
+      "time_end_iso": "00:07:58",
+      "speakers": [],
+      "text": "embargo, si quisieras comprar 300.000, sería una barbaridad comprar esto a mercado, porque ya no es que asumas este este spread de 1 0 9 6 a 1 10, es que asumes este más esto más esto más esto, es decir, va empeorando tu precio y al final, pues lo inteligente, si tú estuvieras dispuesto a comprar 150.000 euros, a lo mejor estarías dispuesto a pagar este este spread, pero eh no lo pagarías por el resto de dinero superior a esto de aquí, ¿no? Eh también la otra opción sería directamente ponerte en eh a comprar aquí con esa con esa con esa orden limitada diciendo, oye, quiero comprar 150.000, te pones ahí y poco a poco debería ir rellenándose la orden si el mercado, pues eh sigue ejecutándose, ¿no? En en en estos niveles. Entonces, eh ¿qué más cosas podemos, bueno, cosas ya más complejas eh que la que a la gente le cuesta entender? Muchas veces, bueno, aquí podemos ver, aquí arriba en trades, lo que se va ejecutando, por ejemplo, actualmente acaban de pegar 5.900 títulos en 1 0 9 6, ¿vale? Pues aquí en 1096 alguien eh ha vendido a mercado 5904 títulos, de tal forma que aquí antes habría 17000 a la compra y ahora hay 12 porque alguien ya ha comprado 5000, ¿vale? Más o menos."
+    },
+    {
+      "index": 7,
+      "text_start": 8280,
+      "text_end": 9441,
+      "time_start_iso": "00:07:55",
+      "time_end_iso": "00:09:00",
+      "speakers": [],
+      "text": "Eh lo dicho anteriormente, si estos 17000 fueran de una sola persona, esa persona de momento solo ha ejecutado pues más o menos un tercio de la orden. Mira, y aquí lo vemos, es es más, estaba en 1096, de repente el nivel ha subido, es decir, hay alguien que está dispuesto a comprar más arriba y si tú pusiste una orden aquí de 17000 títulos, de momento solo se te ha ejecutado más o menos un tercio, con lo cual ahora tienes no un problema, pero simplemente se te ha rellenado una orden que se llama parcialmente, has tenido eh un eh una parte de tu orden limitada rellena, pero la otra no y sigue aquí esperando con esos 12000. Bueno, esto lo vais viendo que cambia a menudo. El caso es que hay alguien que ahora está dispuesto a ha cerrado lo que se llama el spread, si os fijáis este 1096 a 110 ha pasado a 1098 110, es decir, el spread se ha reducido. Ahora hay gente que tiene más prisa por lo que sea y está dispuesto a comprar a 1098 si alguien le vende, ¿no? Eh entonces, siempre se va jugando con eh con esto, ¿no? El libro de órdenes va cambiando en función de los participantes. Volviendo a los trades, ¿vale? Mucha gente se piensa, ¿vale? Eh que eh"
+    },
+    {
+      "index": 8,
+      "text_start": 9442,
+      "text_end": 10627,
+      "time_start_iso": "00:08:58",
+      "time_end_iso": "00:10:09",
+      "speakers": [],
+      "text": "bueno, aquí lo vamos a ver. Mucha gente se piensa que eh en 110 eh que es aquí vemos 152000 títulos eh la única posibilidad es que hm llegue alguien y compre 152000 títulos para que el 110 pase a ser 1102. No, como ya hemos visto anteriormente, lo primero aquí muchas veces hay máquinas, ¿vale? Eh hay hay algoritmos que por ya sea por market making, por creación de mercado, dar liquidez a los mercados o bien porque especulan o lo que sea, muchas veces estos volúmenes no son del todo reales, es decir, no tienen por qué ser 158000 órdenes de una persona que sí o sí está dispuesta a vender a 110, ¿vale? Os explico. Muchas veces vais a ver, por ejemplo, el nivel de 110, no sé si lo veremos en directo. En este caso se han ejecutado 765 títulos de volumen, que es muy poquito, y el 1,10 no se ha inmutado, pero probablemente, si hubiera máquinas aquí metidos o o personas haciendo eh especulando, si tú ahora metieras 50.000 o 100.000 eh títulos de golpe, a lo mejor el resto que está en el nivel se caga y decide retirar la orden y automáticamente, con una orden grande, pasamos de tener 158.000 aquí a tener cero y a saltarse el nivel nivel 1,10 2. Es decir, que esto, como habéis"
+    },
+    {
+      "index": 9,
+      "text_start": 10628,
+      "text_end": 11799,
+      "time_start_iso": "00:10:08",
+      "time_end_iso": "00:11:14",
+      "speakers": [],
+      "text": "podido ver durante el vídeo, esto va cambiando continuamente. No es eh necesario que se lleve todo el volumen, porque aquí os fijáis, mira, ha pasado de 158.000 a 157.000, es decir, ha habido 1.000 títulos que antes se quería vender, mira, sigue bajando. O sea, ha habido 6.000 títulos que antes se querían vender a este precio que ya no se quieren vender, con lo cual no es necesario llevarte el nivel eh satisfaciendo toda toda la la oferta en este caso, porque normalmente cuando ejecutas eh una parte, a lo mejor eh las máquinas o las personas reaccionan quitando el resto de la orden porque ven que el nivel lo van a perder. Tanto es así eh tanto es así que existen eh yo las he utilizado en en en en mis inicios cuando trabajaba en el en en la prop trading, eh existen órdenes min vol. ¿Qué es min vol? Eh es una abreviatura de minimum volume. Eso significa que tú puedes poner aquí una orden de, oye, quiero vender eh quiero ponerme aquí a la venta, si creo que es un nivel fuerte, y quiero vender 30.000 títulos, por ejemplo, pero siempre y cuando eh haya como mínimo otros 30.000 a la venta, es decir, no quiero ser yo el único que sostenga el nivel, si el nivel"
+    },
+    {
+      "index": 10,
+      "text_start": 11800,
+      "text_end": 12970,
+      "time_start_iso": "00:11:12",
+      "time_end_iso": "00:12:17",
+      "speakers": [],
+      "text": "tiene fuerza, es decir, tiene mínimo 30.000 títulos, encima esos 30.000 pon otros 30.000 míos, de tal forma que pongo 60 o o el nivel se queda en 60.000 en 60.000 títulos mínimo, pero si el volumen cae drásticamente, automáticamente la orden me desaparece. Eso se llama una orden minimum volume, es una orden, digamos, de especulador que solo quiere estar en el nivel si el nivel es fuerte, no quiere estar en el nivel si el nivel es débil, ¿vale? Entonces, por ejemplo, esas órdenes minimum volume, al final son de esas órdenes que desaparecen rápidamente si el mercado le atiza bastante al nivel, por ejemplo. Eh, de tal forma que normalmente, como aquí hay un prorrateo a la hora, aquí hay diferentes colas a la hora, porque alguien podría decir, \"Andrés, si aquí hay 148.000 eh personas o títulos vendiendo y uno tiene 30, ¿cuál es el orden en que en que golpean a ese título?\" Vale, pues dependiendo del mercado, suele haber dos formas, o bien por por por cola, ¿vale? Es decir, hay una lista y si tú te pusiste el primero, pues ser el primero al que te van a dar el el la venta, eh o bien por prorrateo, es decir, a los que más tienen les les dan más. Entonces, si"
+    },
+    {
+      "index": 11,
+      "text_start": 12971,
+      "text_end": 14158,
+      "time_start_iso": "00:12:14",
+      "time_end_iso": "00:13:17",
+      "speakers": [],
+      "text": "tú consigues si si tú estableces, por ejemplo, eh un nivel como muy fuerte, que crees que va a tardar un día en un día o varios días en que se lo [carraspeo] lleven y que el mercado va a estar rebotando ahí eh considerablemente, pues por ejemplo, pues eh me voy a inventar este 1,10, que parece bastante fuerte a en relación al resto de de de de del papel, eh pues a lo mejor tú puedes estar aquí jugando con esa orden de minimum volume, teniendo ahí 30.000 puestos a la venta, esperando que te vayan dando títulos de vez en cuando y irte poniendo a un lado y a otro, de tal forma que vas comprando aquí y lo vas soltando aquí, ¿vale? Eso en una acción parece algo loco y así es, pero en otro tipo de activos, por ejemplo, tipos de interés es algo muy habitual, ¿vale? El trading de tipos de interés se ejecuta en gran parte de esta medida, ¿vale? Se como es un trading eh con muy poco movimiento, los niveles son muy resistentes, los tipos de interés se mueven muy poco en el día a día y por tanto, eh esas órdenes minimum volume se pueden dar. Con esto lo que quiero decir es que, oye, que normalmente en estos 147.000 títulos no hay estrictamente 147.000 títulos que se quieren vender"
+    },
+    {
+      "index": 12,
+      "text_start": 14159,
+      "text_end": 15328,
+      "time_start_iso": "00:13:15",
+      "time_end_iso": "00:14:15",
+      "speakers": [],
+      "text": "aquí, simplemente hay unas cuantas órdenes que si se dan ciertos ciertos casos les interesa estar, pero antes, por ejemplo, hemos visto cómo se llevaban un nivel entero, un nivel de estos de 40.000, solo ejecutando 3.000 títulos, es decir, de repente han ejecutado 3000 títulos en el nivel y el nivel ha desaparecido y automáticamente ha pasado al nivel siguiente y sin embargo había 40000, ¿por qué? Por lo que sea ha habido gente o máquinas que han decidido retirar eh su eh orden de ahí, ¿no? Entonces, esto es como funciona un order book, no hace falta que esta parte eh seáis consciente de ella, esto es simplemente pues para que tengáis conocimientos, eh pero lo que sí que tenéis que tener en cuenta es, oye, si yo voy a meter una orden a mer, bueno, en primer lugar la la cantidad de las cosas, ¿no? Porque si estamos hablando de ejecutar 1000 2000 3000 euros, a priori todo esto que he contado no tendría eh por qué tener un impacto importante, porque aunque te comas un spread decidiendo comprar ahora mismo a mercado a 1,10, por ejemplo, no pasa nada en 3000 euros, ¿vale? El el el el impacto de de de este spread es muy pequeño, ¿no? Pero qué pasa si tienes"
+    },
+    {
+      "index": 13,
+      "text_start": 15329,
+      "text_end": 16523,
+      "time_start_iso": "00:14:13",
+      "time_end_iso": "00:15:22",
+      "speakers": [],
+      "text": "30000, 50000, 100000 euros, pues ya es otra cosa, es cierto que aquí ahora mismo para 147000 euros más o menos, eh bueno, en este caso es 1,10 más o menos, ¿vale? No no no cotiza a 1, si fuera 1, en este caso pues serían como 160000 euros, en 160000 euros eh eh tienes el mismo impacto comprando a mercado que que en 3000, que en 5000, que en 10000 o 20000, porque hay papel de sobra, pero eh hay que tener cuidado porque hay en otras horas del día, otro tipo de activos, eh em acciones con con menos volumen, etcétera etcétera, o ETFs que también es bastante común, alguna vez veréis un gráfico de de un ETF donde veréis movimientos muy bruscos en el ETF, eso no es porque el subyacente, lo que replica ese ETF eh se ha caído o ha subido mucho, eso es porque alguien dibujó en el gráfico o o por culpa de una compra desmedida o una venta desmedida dibujó en el gráfico una eh un pues como como un ese error de de de de haber ejecutado eh con con un spread demasiado alto, ¿no? Eh en en esta acción pues por lo menos, como vemos que esto 1,10 es muy robusto y tiene 147000, pues justo estamos en un momento en el que comprar a mercado solamente te penalizaría el spread normal y corriente, ¿no?"
+    },
+    {
+      "index": 14,
+      "text_start": 16524,
+      "text_end": 17723,
+      "time_start_iso": "00:15:20",
+      "time_end_iso": "00:16:32",
+      "speakers": [],
+      "text": "Insisto, sé que son muchas cosas, eh no es algo que todo el mundo necesite saber, pero sí que creo que, oye, entender qué es una orden limitada, qué es una orden a mercado, qué es eh em qué es el spread, etcétera, etcétera, eh o que o que sepa eh por lo menos leer este order book, que creo que es bastante sencillo, eh creo que sería un mínimo eh obligatorio para todos aquellos que quieran tener acciones en carteras o ETFs. Oh, qué pena, tío. No ha salido en el vídeo, tío. Y si llevan el 1 10 y el 1 10 2, tú, y se va a 1 10 seis directito y no hay papel. Y no hay papel, chat. Y se llevan el 1 10 2, tío, justo cuando cierro el este, qué mala suerte, macho. Fijaros con qué se la Mira, mira la prueba, mira la prueba. Eh el 1 10 se lo han llevado con 6,000 y 12 18 y 2, se lo han llevado con 20,000 títulos en 1 10. Chicos, miradlo. Justo lo que he dicho en el vídeo. Tío, qué pena, habría sido espectacular. O sea, había 140,000 a la venta y se lo ha llevado con 20,000. Miradlo. Con 20,000. Así que nada, chicos, eh esto ha sido en tiempo real todo, lo para los que lo sepáis, estos son los directos que hago en el día a día. Espero que os haya gustado. Si tenéis dudas me las podéis dejar en"
+    },
+    {
+      "index": 15,
+      "text_start": 17724,
+      "text_end": 17818,
+      "time_start_iso": "00:16:30",
+      "time_end_iso": "00:16:36",
+      "speakers": [],
+      "text": "comentarios y nosotros nos vemos en el en el siguiente vídeo. Se despide La Pizarra de Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.92,
+      "end": 5.68,
+      "text": "mi canal, La Pizarra de Andrés. En el"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.24,
+      "end": 8.48,
+      "text": "día de hoy vamos a hablar de órdenes de"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 5.68,
+      "end": 10.0,
+      "text": "ejecución. Y es que como bien sabéis, yo"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 8.48,
+      "end": 12.48,
+      "text": "intento que en este canal hagáis una"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 10.0,
+      "end": 14.04,
+      "text": "inversión a largo plazo, menos centrada"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 12.48,
+      "end": 16.240000000000002,
+      "text": "en la operativa, menos centrada en"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 14.04,
+      "end": 18.919999999999998,
+      "text": "comprar, vender, en potenciar o"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 16.24,
+      "end": 20.4,
+      "text": "maximizar esas órdenes y en muchos"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 18.92,
+      "end": 23.0,
+      "text": "casos, si la inversión es a través de"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 20.4,
+      "end": 26.2,
+      "text": "fondos, nada de esto aplicaría, porque"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 23.0,
+      "end": 28.56,
+      "text": "simplemente en un fondo no existe eh los"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 26.2,
+      "end": 30.799999999999997,
+      "text": "tipos de órdenes. Tú compras al final de"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 28.56,
+      "end": 32.72,
+      "text": "cierto momento se te ejecuta,"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 30.8,
+      "end": 35.480000000000004,
+      "text": "normalmente al final de la tarde se te"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 32.72,
+      "end": 36.72,
+      "text": "ejecuta todas en al mismo precio a todos"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 35.48,
+      "end": 37.839999999999996,
+      "text": "los que salen del fondo ese día y a"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 36.72,
+      "end": 40.96,
+      "text": "todos los que compran ese día y por"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 37.84,
+      "end": 42.64,
+      "text": "tanto, no te afecta nada el ti o no"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 40.96,
+      "end": 44.0,
+      "text": "existe un tipo de orden. Ahora bien,"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 42.64,
+      "end": 46.96,
+      "text": "¿qué es lo que pasa cuando invertís en"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 44.0,
+      "end": 48.8,
+      "text": "ETFs y en acciones? Ahí el tipo de orden"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 46.96,
+      "end": 51.76,
+      "text": "sí importa. Para ello, ahora que tenemos"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 48.8,
+      "end": 54.31999999999999,
+      "text": "el el mercado abierto, vamos a abrir un"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 51.76,
+      "end": 56.28,
+      "text": "eh el libro de órdenes, en el que os voy"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 54.32,
+      "end": 58.6,
+      "text": "a explicar un poco todas las diferencias"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 56.28,
+      "end": 60.88,
+      "text": "o los tipos de órdenes que podría haber"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 58.6,
+      "end": 62.68,
+      "text": "y para qué funcionaría cada uno lo vemos"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 60.88,
+      "end": 64.08,
+      "text": "en tiempo real lo que está pasando, ¿no?"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 62.68,
+      "end": 66.36,
+      "text": "Aquí vemos, pues por ejemplo, aquí tengo"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 64.08,
+      "end": 67.72,
+      "text": "un un un libro de órdenes, ¿vale? Como"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 66.36,
+      "end": 68.96,
+      "text": "otro cualquiera."
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 67.72,
+      "end": 71.08,
+      "text": "¿Qué es lo que tenemos que entender en"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 68.96,
+      "end": 73.11999999999999,
+      "text": "un libro de órdenes? Bueno, eh siempre"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 71.08,
+      "end": 75.16,
+      "text": "vamos a ver un una primera columna, que"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 73.12,
+      "end": 76.76,
+      "text": "son las órdenes de compra. Si os fijáis,"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 75.16,
+      "end": 78.92,
+      "text": "las órdenes de compra el precio siempre"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 76.76,
+      "end": 80.2,
+      "text": "es descendente y luego vamos a ver la"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 78.92,
+      "end": 82.2,
+      "text": "otra columna que son las órdenes de"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 80.2,
+      "end": 84.44,
+      "text": "venta, ¿vale? Esto, insisto, aplicaría"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 82.2,
+      "end": 86.56,
+      "text": "exactamente igual para acciones que para"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 84.44,
+      "end": 89.56,
+      "text": "ETFs, no para fondos."
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 86.56,
+      "end": 91.2,
+      "text": "Entonces, en la orden en en en la"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 89.56,
+      "end": 92.48,
+      "text": "columna de compras, esto es lo que se"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 91.2,
+      "end": 94.92,
+      "text": "llama un libro de órdenes, el libro de"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 92.48,
+      "end": 97.48,
+      "text": "órdenes tiene dos columnas o o dos dos"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 94.92,
+      "end": 98.92,
+      "text": "dos partes. Eh la parte de la compra y"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 97.48,
+      "end": 100.64,
+      "text": "la parte de la venta, ¿vale? La parte de"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 98.92,
+      "end": 102.32000000000001,
+      "text": "la compra siempre, por motivos obvios,"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 100.64,
+      "end": 104.64,
+      "text": "será descendente, es decir, hay gente"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 102.32,
+      "end": 106.63999999999999,
+      "text": "demandando comprar a diferentes precios,"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 104.64,
+      "end": 109.2,
+      "text": "siempre cada vez menor, y la orden de"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 106.64,
+      "end": 110.8,
+      "text": "venta, pues lo mismo, hay gente eh"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 109.2,
+      "end": 112.08,
+      "text": "queriendo vender siempre a diferentes"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 110.8,
+      "end": 115.6,
+      "text": "precios, ¿vale?"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 112.08,
+      "end": 118.48,
+      "text": "Las eh en este caso eh"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 115.6,
+      "end": 120.88,
+      "text": "cada cada mitad tiene dos columnas,"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 118.48,
+      "end": 123.68,
+      "text": "¿vale? Tiene la cantidad, es decir, el"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 120.88,
+      "end": 125.72,
+      "text": "número de acciones que se están pidiendo"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 123.68,
+      "end": 128.16,
+      "text": "a ese precio o que se están queriendo"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 125.72,
+      "end": 129.6,
+      "text": "vender a ese precio y el precio, ¿vale?"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 128.16,
+      "end": 133.04,
+      "text": "Con lo cual, aquí lo primero que podemos"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 129.6,
+      "end": 137.0,
+      "text": "decir es que hay 5.445"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 133.04,
+      "end": 141.32,
+      "text": "eh peticiones de compra a 1,092, ¿vale?"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 137.0,
+      "end": 143.88,
+      "text": "Y por otro lado, hay em 5.472"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 141.32,
+      "end": 146.07999999999998,
+      "text": "eh peticiones de venta o ofertas para"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 143.88,
+      "end": 149.07999999999998,
+      "text": "vender a 1,096. La diferencia entre"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 146.08,
+      "end": 151.48000000000002,
+      "text": "1,092 y 1,096 es lo que llamaríamos"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 149.08,
+      "end": 154.36,
+      "text": "spread, ¿vale? Eh no es un spread muy"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 151.48,
+      "end": 156.51999999999998,
+      "text": "alto, pero em casi siempre en todas las"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 154.36,
+      "end": 159.20000000000002,
+      "text": "acciones vais a ver un spread"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 156.52,
+      "end": 161.16,
+      "text": "em que es la diferencia entre precio de"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 159.2,
+      "end": 162.88,
+      "text": "compra y precio de venta. Eh si es una"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 161.16,
+      "end": 166.28,
+      "text": "acción tremendamente líquida, como pueda"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 162.88,
+      "end": 169.04,
+      "text": "ser Tesla o Apple, pues el spread es muy"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 166.28,
+      "end": 171.72,
+      "text": "reducido y si es una una una empresa"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 169.04,
+      "end": 174.51999999999998,
+      "text": "eh menos eh"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 171.72,
+      "end": 176.08,
+      "text": "em menos tradeada o con menos con menos"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 174.52,
+      "end": 177.68,
+      "text": "volumen, es cuando los spreads se hacen"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 176.08,
+      "end": 179.16000000000003,
+      "text": "más grandes. Cuidado con el spread,"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 177.68,
+      "end": 181.88,
+      "text": "porque si tú ahora mismo metieras una"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 179.16,
+      "end": 183.79999999999998,
+      "text": "orden de compra a mercado, estarías"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 181.88,
+      "end": 185.35999999999999,
+      "text": "comprando a 1,098, cuando el precio"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 183.8,
+      "end": 186.84,
+      "text": "real, bueno, ahora está cambiando, esto"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 185.36,
+      "end": 189.0,
+      "text": "es esto es bonito de ver, porque así lo"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 186.84,
+      "end": 190.76,
+      "text": "vamos lo vamos viendo en en tiempo real,"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 189.0,
+      "end": 193.04,
+      "text": "pero si tú ahora mismo metieras una"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 190.76,
+      "end": 195.88,
+      "text": "orden de compra, automáticamente, como"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 193.04,
+      "end": 197.67999999999998,
+      "text": "hay 203.000 eh títulos que se quieren"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 195.88,
+      "end": 199.64,
+      "text": "vender a 1,10, automáticamente tú"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 197.68,
+      "end": 202.36,
+      "text": "podrías llegar a comprar hasta 203.000"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 199.64,
+      "end": 204.04,
+      "text": "títulos a 1,10, ¿vale? Eh"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 202.36,
+      "end": 206.28,
+      "text": "automáticamente, si quisieras comprar"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 204.04,
+      "end": 209.2,
+      "text": "más de 203.000 títulos a mercado, ya"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 206.28,
+      "end": 211.8,
+      "text": "tendrías que comprar toda la toda la la"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 209.2,
+      "end": 213.28,
+      "text": "la el nivel de 1,10 y te irías al nivel"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 211.8,
+      "end": 214.959,
+      "text": "de 1,102. Por lo tanto, si alguien"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 213.28,
+      "end": 218.959,
+      "text": "quisiera comprar 250.000 títulos,"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 214.959,
+      "end": 223.04,
+      "text": "aproximadamente, cogería 204.000 a 1,10,"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 218.959,
+      "end": 225.32,
+      "text": "eh 40.000 a 1,102 y 44.000, ¿vale? Si"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 223.04,
+      "end": 228.0,
+      "text": "fueran 300.000 títulos, a 1,104, es"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 225.32,
+      "end": 229.92,
+      "text": "decir, tu precio medio no sería 1,10"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 228.0,
+      "end": 232.2,
+      "text": "exacto, sería a lo mejor 1,101, porque"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 229.92,
+      "end": 234.23999999999998,
+      "text": "sería la media de estas tres compras,"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 232.2,
+      "end": 235.95999999999998,
+      "text": "¿no? Eso sería una orden a mercado. Por"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 234.24,
+      "end": 237.48000000000002,
+      "text": "otro lado, ¿vale? Ya hemos descubierto"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 235.96,
+      "end": 239.92000000000002,
+      "text": "la primera el primer tipo de orden. Por"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 237.48,
+      "end": 241.6,
+      "text": "otro lado, tendríamos la orden limitada."
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 239.92,
+      "end": 243.55999999999997,
+      "text": "¿Qué hace la orden limitada? La orden"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 241.6,
+      "end": 244.72,
+      "text": "limitada te pone a la cola para comprar"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 243.56,
+      "end": 246.56,
+      "text": "al precio que tú quieras. Por ejemplo,"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 244.72,
+      "end": 250.24,
+      "text": "imagínate que dices, oye, yo no quiero"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 246.56,
+      "end": 252.0,
+      "text": "comprar a 1,10, quiero comprar a 1,096,"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 250.24,
+      "end": 253.56,
+      "text": "que es donde está el el el el precio de"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 252.0,
+      "end": 255.84,
+      "text": "compra, donde la gente está esperando."
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 253.56,
+      "end": 257.959,
+      "text": "Pues en estos 19.000 o 20.000 que hay"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 255.84,
+      "end": 259.359,
+      "text": "ahora pidiendo, eh pues tú para a lo"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 257.959,
+      "end": 261.359,
+      "text": "mejor podrías poner otros 20.000, otros"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 259.359,
+      "end": 263.44,
+      "text": "30.000, otros 50.000, lo que sea y te"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 261.359,
+      "end": 266.12,
+      "text": "pondrías a la espera para que alguien"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 263.44,
+      "end": 267.48,
+      "text": "decida vender venderte a este precio. Es"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 266.12,
+      "end": 269.08,
+      "text": "cierto que cuando estás en la primera"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 267.48,
+      "end": 270.84000000000003,
+      "text": "fila del precio, por cierto, esta página"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 269.08,
+      "end": 273.2,
+      "text": "se llama Xduct para para el que la"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 270.84,
+      "end": 274.919,
+      "text": "quiera ver y es gratis, eh cuando te"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 273.2,
+      "end": 276.24,
+      "text": "pones a este precio, lo normal es que"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 274.919,
+      "end": 278.08,
+      "text": "tarde o temprano, en un vaivén del"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 276.24,
+      "end": 279.68,
+      "text": "mercado, pues te acaben dando el precio"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 278.08,
+      "end": 282.24,
+      "text": "que tú deseas. Es decir, si tú te pones"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 279.68,
+      "end": 283.96,
+      "text": "aquí 40.000 títulos a 1,096 para"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 282.24,
+      "end": 286.96000000000004,
+      "text": "comprar, lo más normal es que a lo largo"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 283.96,
+      "end": 288.03999999999996,
+      "text": "de los próximos minutos se te ejecute."
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 286.96,
+      "end": 289.35999999999996,
+      "text": "¿Qué es lo que pasa? Que al ser una"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 288.04,
+      "end": 293.20000000000005,
+      "text": "orden limitada y tú poner aquí, por"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 289.36,
+      "end": 294.76,
+      "text": "ejemplo, 40.000 títulos, eh"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 293.2,
+      "end": 296.59999999999997,
+      "text": "existe la posibilidad de que solo peguen"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 294.76,
+      "end": 298.48,
+      "text": "20.000 y te hagan la mitad de la orden y"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 296.6,
+      "end": 300.0,
+      "text": "luego que el mercado suba y solo te haya"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 298.48,
+      "end": 301.52000000000004,
+      "text": "hecho la mitad de la orden, ¿no? O"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 300.0,
+      "end": 304.72,
+      "text": "existe la posibilidad de que el mercado"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 301.52,
+      "end": 307.15999999999997,
+      "text": "nunca vuelva a retroceder, nunca ocurra"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 304.72,
+      "end": 308.88000000000005,
+      "text": "que se tradee de nuevo el 1,096 y por"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 307.16,
+      "end": 311.8,
+      "text": "tanto el mercado suba y te lo pierdas."
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 308.88,
+      "end": 313.28,
+      "text": "Es decir, la diferencia principal entre"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 311.8,
+      "end": 314.6,
+      "text": "la orden de mercado y la orden limitada"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 313.28,
+      "end": 316.4,
+      "text": "es que la orden de mercado se te"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 314.6,
+      "end": 318.68,
+      "text": "garantiza, pero a cambio pagas este"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 316.4,
+      "end": 321.12,
+      "text": "spread, la diferencia entre el 1,096 y"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 318.68,
+      "end": 323.84000000000003,
+      "text": "el 1,10, y la orden limitada, en este"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 321.12,
+      "end": 325.68,
+      "text": "caso, eh se queda esperando para comprar"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 323.84,
+      "end": 326.84,
+      "text": "a un mejor precio,"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 325.68,
+      "end": 329.919,
+      "text": "pero dependes de que alguien en el"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 326.84,
+      "end": 331.23999999999995,
+      "text": "mercado eh decida vender a este precio,"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 329.919,
+      "end": 334.76,
+      "text": "con una orden a mercado, por ejemplo,"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 331.24,
+      "end": 338.24,
+      "text": "¿no? Entonces, lo normal es que eh sobre"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 334.76,
+      "end": 339.88,
+      "text": "todo en empresas poco líquidas, em en en"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 338.24,
+      "end": 341.28000000000003,
+      "text": "empresas donde el spread sea muy grande,"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 339.88,
+      "end": 345.0,
+      "text": "en empresas donde no tengas ninguna"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 341.28,
+      "end": 347.47999999999996,
+      "text": "prisa, lo normal en esas empresas es eh"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 345.0,
+      "end": 349.08,
+      "text": "de orden limitada. Lo normal en empresas"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 347.48,
+      "end": 352.28000000000003,
+      "text": "grandes donde el spread es muy pequeño y"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 349.08,
+      "end": 353.88,
+      "text": "encima vais a largo plazo eh es comprar"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 352.28,
+      "end": 355.76,
+      "text": "a mercado. Tener mucho cuidado cuando"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 353.88,
+      "end": 357.71999999999997,
+      "text": "compréis ETFs, yo particularmente no"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 355.76,
+      "end": 359.71999999999997,
+      "text": "invierto en ETFs, ya lo sabéis, y esto"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 357.72,
+      "end": 361.20000000000005,
+      "text": "con fondos no ocurre, pero tener muy"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 359.72,
+      "end": 363.12,
+      "text": "mucho cuidado cuando cuando vayáis a"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 361.2,
+      "end": 365.36,
+      "text": "comprar un ETF, porque si no podéis ver"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 363.12,
+      "end": 367.96,
+      "text": "el el order book, el libro de órdenes,"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 365.36,
+      "end": 369.6,
+      "text": "eh tenéis la posibilidad de que la lo"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 367.96,
+      "end": 372.15999999999997,
+      "text": "que es eh"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 369.6,
+      "end": 373.76000000000005,
+      "text": "eh la liquidez sea muy mala y aunque tú"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 372.16,
+      "end": 376.0,
+      "text": "estés viendo un precio 1 10, si aquí"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 373.76,
+      "end": 379.68,
+      "text": "solo hay una una acción a la venta en 1"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 376.0,
+      "end": 381.68,
+      "text": "10 y en 1 10 2 hay 10 más y en 1 10 4"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 379.68,
+      "end": 383.36,
+      "text": "hay 10 más y tú quieres comprar 50,"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 381.68,
+      "end": 384.8,
+      "text": "cuando tú crees que estás comprando 1"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 383.36,
+      "end": 387.32,
+      "text": "10, en realidad acabas comprando a"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 384.8,
+      "end": 389.24,
+      "text": "precio medio 1 10 6, es decir, te puedes"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 387.32,
+      "end": 391.2,
+      "text": "dejar muchísimo dinero en la mesa si"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 389.24,
+      "end": 392.88,
+      "text": "compras a mercado algo que tiene poca"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 391.2,
+      "end": 394.56,
+      "text": "liquidez, con lo cual mucho cuidado,"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 392.88,
+      "end": 396.36,
+      "text": "aquí no hay problema, porque si tú ahora"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 394.56,
+      "end": 398.48,
+      "text": "mismo quisieras comprar 150.000 euros de"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 396.36,
+      "end": 400.36,
+      "text": "esta acción y lo compraras a mercado, el"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 398.48,
+      "end": 401.52000000000004,
+      "text": "único spread que te comes es el que ves,"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 400.36,
+      "end": 403.84000000000003,
+      "text": "que es esto de aquí, ¿no? La diferencia"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 401.52,
+      "end": 405.47999999999996,
+      "text": "entre este de 0 1 0 9 6 este 1 10. ¿Por"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 403.84,
+      "end": 407.52,
+      "text": "qué? Porque hay suficiente volumen. Sin"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 405.48,
+      "end": 408.76,
+      "text": "embargo, si quisieras comprar 300.000,"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 407.52,
+      "end": 410.44,
+      "text": "sería una barbaridad comprar esto a"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 408.76,
+      "end": 412.64,
+      "text": "mercado, porque ya no es que asumas este"
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 410.44,
+      "end": 416.36,
+      "text": "este spread de 1 0 9 6 a 1 10, es que"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 412.64,
+      "end": 418.36,
+      "text": "asumes este más esto más esto más esto,"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 416.36,
+      "end": 420.32,
+      "text": "es decir, va empeorando tu precio y al"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 418.36,
+      "end": 421.96000000000004,
+      "text": "final, pues lo inteligente, si tú"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 420.32,
+      "end": 424.12,
+      "text": "estuvieras dispuesto a comprar 150.000"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 421.96,
+      "end": 427.919,
+      "text": "euros, a lo mejor estarías dispuesto a"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 424.12,
+      "end": 429.84000000000003,
+      "text": "pagar este este spread, pero eh no lo"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 427.919,
+      "end": 431.84,
+      "text": "pagarías por el resto de dinero superior"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 429.84,
+      "end": 435.84,
+      "text": "a esto de aquí, ¿no? Eh también la otra"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 431.84,
+      "end": 437.84,
+      "text": "opción sería directamente ponerte en eh"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 435.84,
+      "end": 439.11999999999995,
+      "text": "a comprar aquí con esa con esa con esa"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 437.84,
+      "end": 441.2,
+      "text": "orden limitada diciendo, oye, quiero"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 439.12,
+      "end": 444.0,
+      "text": "comprar 150.000, te pones ahí y poco a"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 441.2,
+      "end": 446.0,
+      "text": "poco debería ir rellenándose la orden si"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 444.0,
+      "end": 448.6,
+      "text": "el mercado, pues eh sigue ejecutándose,"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 446.0,
+      "end": 450.52,
+      "text": "¿no? En en en estos niveles. Entonces,"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 448.6,
+      "end": 452.56,
+      "text": "eh ¿qué más cosas podemos, bueno, cosas"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 450.52,
+      "end": 454.15999999999997,
+      "text": "ya más complejas eh que la que a la"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 452.56,
+      "end": 455.8,
+      "text": "gente le cuesta entender? Muchas veces,"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 454.16,
+      "end": 457.64000000000004,
+      "text": "bueno, aquí podemos ver, aquí arriba en"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 455.8,
+      "end": 459.36,
+      "text": "trades, lo que se va ejecutando, por"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 457.64,
+      "end": 462.12,
+      "text": "ejemplo, actualmente acaban de pegar"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 459.36,
+      "end": 465.88,
+      "text": "5.900 títulos en 1 0 9 6, ¿vale? Pues"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 462.12,
+      "end": 469.28000000000003,
+      "text": "aquí en 1096 alguien eh ha vendido a"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 465.88,
+      "end": 471.88,
+      "text": "mercado 5904 títulos, de tal forma que"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 469.28,
+      "end": 472.96,
+      "text": "aquí antes habría 17000 a la compra y"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 471.88,
+      "end": 475.96,
+      "text": "ahora hay 12 porque alguien ya ha"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 472.96,
+      "end": 478.12,
+      "text": "comprado 5000, ¿vale? Más o menos."
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 475.96,
+      "end": 480.03999999999996,
+      "text": "Eh lo dicho anteriormente, si estos"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 478.12,
+      "end": 481.84000000000003,
+      "text": "17000 fueran de una sola persona, esa"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 480.04,
+      "end": 483.36,
+      "text": "persona de momento solo ha ejecutado"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 481.84,
+      "end": 485.03999999999996,
+      "text": "pues más o menos un tercio de la orden."
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 483.36,
+      "end": 488.44,
+      "text": "Mira, y aquí lo vemos, es es más, estaba"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 485.04,
+      "end": 489.64000000000004,
+      "text": "en 1096, de repente el nivel ha subido,"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 488.44,
+      "end": 491.52,
+      "text": "es decir, hay alguien que está dispuesto"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 489.64,
+      "end": 493.919,
+      "text": "a comprar más arriba y si tú pusiste una"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 491.52,
+      "end": 495.32,
+      "text": "orden aquí de 17000 títulos, de momento"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 493.919,
+      "end": 496.68,
+      "text": "solo se te ha ejecutado más o menos un"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 495.32,
+      "end": 498.48,
+      "text": "tercio, con lo cual ahora tienes no un"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 496.68,
+      "end": 499.76,
+      "text": "problema, pero simplemente se te ha"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 498.48,
+      "end": 503.8,
+      "text": "rellenado una orden que se llama"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 499.76,
+      "end": 505.919,
+      "text": "parcialmente, has tenido eh un eh una"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 503.8,
+      "end": 507.56,
+      "text": "parte de tu orden limitada rellena, pero"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 505.919,
+      "end": 508.88,
+      "text": "la otra no y sigue aquí esperando con"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 507.56,
+      "end": 510.48,
+      "text": "esos 12000. Bueno, esto lo vais viendo"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 508.88,
+      "end": 512.12,
+      "text": "que cambia a menudo. El caso es que hay"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 510.48,
+      "end": 513.599,
+      "text": "alguien que ahora está dispuesto a ha"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 512.12,
+      "end": 517.599,
+      "text": "cerrado lo que se llama el spread, si os"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 513.599,
+      "end": 519.84,
+      "text": "fijáis este 1096 a 110 ha pasado a 1098"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 517.599,
+      "end": 521.76,
+      "text": "110, es decir, el spread se ha reducido."
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 519.84,
+      "end": 524.24,
+      "text": "Ahora hay gente que tiene más prisa por"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 521.76,
+      "end": 526.8389999999999,
+      "text": "lo que sea y está dispuesto a comprar a"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 524.24,
+      "end": 529.32,
+      "text": "1098 si alguien le vende, ¿no?"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 526.839,
+      "end": 531.0,
+      "text": "Eh entonces, siempre se va jugando con"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 529.32,
+      "end": 532.12,
+      "text": "eh con esto, ¿no? El libro de órdenes va"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 531.0,
+      "end": 534.16,
+      "text": "cambiando en función de los"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 532.12,
+      "end": 535.08,
+      "text": "participantes. Volviendo a los trades,"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 534.16,
+      "end": 538.48,
+      "text": "¿vale?"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 535.08,
+      "end": 540.0400000000001,
+      "text": "Mucha gente se piensa, ¿vale? Eh que eh"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 538.48,
+      "end": 544.4,
+      "text": "bueno, aquí lo vamos a ver. Mucha gente"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 540.04,
+      "end": 547.52,
+      "text": "se piensa que eh en 110 eh que es aquí"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 544.4,
+      "end": 550.0,
+      "text": "vemos 152000 títulos eh la única"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 547.52,
+      "end": 552.16,
+      "text": "posibilidad es que hm llegue alguien y"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 550.0,
+      "end": 554.56,
+      "text": "compre 152000 títulos para que el 110"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 552.16,
+      "end": 556.6,
+      "text": "pase a ser 1102. No, como ya hemos visto"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 554.56,
+      "end": 558.7199999999999,
+      "text": "anteriormente, lo primero aquí muchas"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 556.6,
+      "end": 560.64,
+      "text": "veces hay máquinas, ¿vale? Eh hay hay"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 558.72,
+      "end": 562.2,
+      "text": "algoritmos que por ya sea por market"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 560.64,
+      "end": 563.96,
+      "text": "making, por creación de mercado, dar"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 562.2,
+      "end": 566.0400000000001,
+      "text": "liquidez a los mercados o bien porque"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 563.96,
+      "end": 567.9200000000001,
+      "text": "especulan o lo que sea, muchas veces"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 566.04,
+      "end": 570.56,
+      "text": "estos volúmenes no son del todo reales,"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 567.92,
+      "end": 572.24,
+      "text": "es decir, no tienen por qué ser 158000"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 570.56,
+      "end": 574.28,
+      "text": "órdenes de una persona que sí o sí está"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 572.24,
+      "end": 576.32,
+      "text": "dispuesta a vender a 110, ¿vale? Os"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 574.28,
+      "end": 577.56,
+      "text": "explico. Muchas veces vais a ver, por"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 576.32,
+      "end": 579.4000000000001,
+      "text": "ejemplo, el nivel de 110, no sé si lo"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 577.56,
+      "end": 582.3199999999999,
+      "text": "veremos en directo. En este caso se han"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 579.4,
+      "end": 584.3199999999999,
+      "text": "ejecutado 765 títulos de volumen, que es"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 582.32,
+      "end": 586.24,
+      "text": "muy poquito, y el 1,10 no se ha"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 584.32,
+      "end": 588.32,
+      "text": "inmutado, pero probablemente, si hubiera"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 586.24,
+      "end": 590.84,
+      "text": "máquinas aquí metidos o o personas"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 588.32,
+      "end": 594.32,
+      "text": "haciendo eh especulando, si tú ahora"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 590.84,
+      "end": 596.5600000000001,
+      "text": "metieras 50.000 o 100.000 eh títulos de"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 594.32,
+      "end": 598.88,
+      "text": "golpe, a lo mejor el resto que está en"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 596.56,
+      "end": 601.0,
+      "text": "el nivel se caga y decide retirar la"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 598.88,
+      "end": 603.48,
+      "text": "orden y automáticamente, con una orden"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 601.0,
+      "end": 605.64,
+      "text": "grande, pasamos de tener 158.000 aquí a"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 603.48,
+      "end": 608.32,
+      "text": "tener cero y a saltarse el nivel nivel"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 605.64,
+      "end": 609.56,
+      "text": "1,10 2. Es decir, que esto, como habéis"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 608.32,
+      "end": 612.4000000000001,
+      "text": "podido ver durante el vídeo, esto va"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 609.56,
+      "end": 613.8399999999999,
+      "text": "cambiando continuamente. No es eh"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 612.4,
+      "end": 615.1999999999999,
+      "text": "necesario que se lleve todo el volumen,"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 613.84,
+      "end": 617.24,
+      "text": "porque aquí os fijáis, mira, ha pasado"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 615.2,
+      "end": 618.6,
+      "text": "de 158.000 a 157.000, es decir, ha"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 617.24,
+      "end": 620.16,
+      "text": "habido 1.000 títulos que antes se quería"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 618.6,
+      "end": 621.44,
+      "text": "vender, mira, sigue bajando. O sea, ha"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 620.16,
+      "end": 623.0,
+      "text": "habido 6.000 títulos que antes se"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 621.44,
+      "end": 625.0400000000001,
+      "text": "querían vender a este precio que ya no"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 623.0,
+      "end": 627.76,
+      "text": "se quieren vender, con lo cual no es"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 625.04,
+      "end": 630.0,
+      "text": "necesario llevarte el nivel eh"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 627.76,
+      "end": 632.3199999999999,
+      "text": "satisfaciendo toda toda la la oferta en"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 630.0,
+      "end": 635.6,
+      "text": "este caso, porque normalmente cuando"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 632.32,
+      "end": 637.2,
+      "text": "ejecutas eh una parte, a lo mejor eh las"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 635.6,
+      "end": 639.16,
+      "text": "máquinas o las personas reaccionan"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 637.2,
+      "end": 640.88,
+      "text": "quitando el resto de la orden porque ven"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 639.16,
+      "end": 643.24,
+      "text": "que el nivel lo van a perder. Tanto es"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 640.88,
+      "end": 645.68,
+      "text": "así eh tanto es así que existen eh yo"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 643.24,
+      "end": 647.28,
+      "text": "las he utilizado en en en en mis inicios"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 645.68,
+      "end": 650.4,
+      "text": "cuando trabajaba en el en en la prop"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 647.28,
+      "end": 652.76,
+      "text": "trading, eh existen órdenes min vol."
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 650.4,
+      "end": 654.68,
+      "text": "¿Qué es min vol? Eh es una abreviatura"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 652.76,
+      "end": 656.8389999999999,
+      "text": "de minimum volume. Eso significa que tú"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 654.68,
+      "end": 659.5999999999999,
+      "text": "puedes poner aquí una orden de, oye,"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 656.839,
+      "end": 661.32,
+      "text": "quiero vender eh quiero ponerme aquí a"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 659.6,
+      "end": 664.08,
+      "text": "la venta, si creo que es un nivel"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 661.32,
+      "end": 667.2800000000001,
+      "text": "fuerte, y quiero vender 30.000 títulos,"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 664.08,
+      "end": 669.08,
+      "text": "por ejemplo, pero siempre y cuando eh"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 667.28,
+      "end": 670.56,
+      "text": "haya como mínimo otros 30.000 a la"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 669.08,
+      "end": 672.36,
+      "text": "venta, es decir, no quiero ser yo el"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 670.56,
+      "end": 674.3599999999999,
+      "text": "único que sostenga el nivel, si el nivel"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 672.36,
+      "end": 676.5600000000001,
+      "text": "tiene fuerza, es decir, tiene mínimo"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 674.36,
+      "end": 678.36,
+      "text": "30.000 títulos, encima esos 30.000 pon"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 676.56,
+      "end": 681.92,
+      "text": "otros 30.000 míos, de tal forma que"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 678.36,
+      "end": 683.96,
+      "text": "pongo 60 o o el nivel se queda en 60.000"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 681.92,
+      "end": 685.24,
+      "text": "en 60.000 títulos mínimo, pero si el"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 683.96,
+      "end": 687.08,
+      "text": "volumen cae drásticamente,"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 685.24,
+      "end": 688.64,
+      "text": "automáticamente la orden me desaparece."
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 687.08,
+      "end": 691.0,
+      "text": "Eso se llama una orden minimum volume,"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 688.64,
+      "end": 692.36,
+      "text": "es una orden, digamos, de especulador"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 691.0,
+      "end": 694.04,
+      "text": "que solo quiere estar en el nivel si el"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 692.36,
+      "end": 695.92,
+      "text": "nivel es fuerte, no quiere estar en el"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 694.04,
+      "end": 697.24,
+      "text": "nivel si el nivel es débil, ¿vale?"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 695.92,
+      "end": 698.8,
+      "text": "Entonces, por ejemplo, esas órdenes"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 697.24,
+      "end": 701.64,
+      "text": "minimum volume, al final son de esas"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 698.8,
+      "end": 703.56,
+      "text": "órdenes que desaparecen rápidamente si"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 701.64,
+      "end": 706.24,
+      "text": "el mercado le atiza bastante al nivel,"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 703.56,
+      "end": 708.9599999999999,
+      "text": "por ejemplo. Eh, de tal forma que"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 706.24,
+      "end": 710.64,
+      "text": "normalmente, como aquí hay un prorrateo"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 708.96,
+      "end": 711.6800000000001,
+      "text": "a la hora, aquí hay diferentes colas a"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 710.64,
+      "end": 713.8,
+      "text": "la hora, porque alguien podría decir,"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 711.68,
+      "end": 716.64,
+      "text": "\"Andrés, si aquí hay 148.000"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 713.8,
+      "end": 718.8,
+      "text": "eh personas o títulos vendiendo y uno"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 716.64,
+      "end": 720.3199999999999,
+      "text": "tiene 30, ¿cuál es el orden en que en"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 718.8,
+      "end": 722.24,
+      "text": "que golpean a ese título?\" Vale, pues"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 720.32,
+      "end": 724.88,
+      "text": "dependiendo del mercado, suele haber dos"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 722.24,
+      "end": 726.28,
+      "text": "formas, o bien por por por cola, ¿vale?"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 724.88,
+      "end": 727.8,
+      "text": "Es decir, hay una lista y si tú te"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 726.28,
+      "end": 730.6,
+      "text": "pusiste el primero, pues ser el primero"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 727.8,
+      "end": 732.24,
+      "text": "al que te van a dar el el la venta, eh o"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 730.6,
+      "end": 734.9200000000001,
+      "text": "bien por prorrateo, es decir, a los que"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 732.24,
+      "end": 737.5600000000001,
+      "text": "más tienen les les dan más. Entonces, si"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 734.92,
+      "end": 739.76,
+      "text": "tú consigues si si tú estableces, por"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 737.56,
+      "end": 741.52,
+      "text": "ejemplo, eh un nivel como muy fuerte,"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 739.76,
+      "end": 742.778,
+      "text": "que crees que va a tardar un día en un"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 741.52,
+      "end": 744.12,
+      "text": "día o varios días en que se lo"
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 742.778,
+      "end": 745.32,
+      "text": "[carraspeo] lleven y que el mercado va a"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 744.12,
+      "end": 746.72,
+      "text": "estar rebotando ahí eh"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 745.32,
+      "end": 748.48,
+      "text": "considerablemente, pues por ejemplo,"
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 746.72,
+      "end": 750.44,
+      "text": "pues eh me voy a inventar este 1,10, que"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 748.48,
+      "end": 753.72,
+      "text": "parece bastante fuerte a en relación al"
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 750.44,
+      "end": 755.4000000000001,
+      "text": "resto de de de de del papel, eh pues a"
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 753.72,
+      "end": 756.839,
+      "text": "lo mejor tú puedes estar aquí jugando"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 755.4,
+      "end": 758.24,
+      "text": "con esa orden de minimum volume,"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 756.839,
+      "end": 759.9200000000001,
+      "text": "teniendo ahí 30.000 puestos a la venta,"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 758.24,
+      "end": 762.2,
+      "text": "esperando que te vayan dando títulos de"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 759.92,
+      "end": 763.7199999999999,
+      "text": "vez en cuando y irte poniendo a un lado"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 762.2,
+      "end": 766.6800000000001,
+      "text": "y a otro, de tal forma que vas comprando"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 763.72,
+      "end": 769.4,
+      "text": "aquí y lo vas soltando aquí, ¿vale? Eso"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 766.68,
+      "end": 770.8389999999999,
+      "text": "en una acción parece algo loco y así es,"
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 769.4,
+      "end": 772.4,
+      "text": "pero en otro tipo de activos, por"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 770.839,
+      "end": 774.12,
+      "text": "ejemplo, tipos de interés es algo muy"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 772.4,
+      "end": 776.24,
+      "text": "habitual, ¿vale? El trading de tipos de"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 774.12,
+      "end": 779.4,
+      "text": "interés se ejecuta en gran parte de esta"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 776.24,
+      "end": 781.6,
+      "text": "medida, ¿vale? Se como es un trading eh"
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 779.4,
+      "end": 783.48,
+      "text": "con muy poco movimiento, los niveles son"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 781.6,
+      "end": 785.5600000000001,
+      "text": "muy resistentes, los tipos de interés se"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 783.48,
+      "end": 787.72,
+      "text": "mueven muy poco en el día a día y por"
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 785.56,
+      "end": 789.0799999999999,
+      "text": "tanto, eh esas órdenes minimum volume se"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 787.72,
+      "end": 790.839,
+      "text": "pueden dar. Con esto lo que quiero decir"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 789.08,
+      "end": 793.48,
+      "text": "es que, oye, que normalmente en estos"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 790.839,
+      "end": 795.2800000000001,
+      "text": "147.000 títulos no hay estrictamente"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 793.48,
+      "end": 797.44,
+      "text": "147.000 títulos que se quieren vender"
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 795.28,
+      "end": 799.24,
+      "text": "aquí, simplemente hay unas cuantas"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 797.44,
+      "end": 801.36,
+      "text": "órdenes que si se dan ciertos ciertos"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 799.24,
+      "end": 802.48,
+      "text": "casos les interesa estar, pero antes,"
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 801.36,
+      "end": 804.2,
+      "text": "por ejemplo, hemos visto cómo se"
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 802.48,
+      "end": 806.12,
+      "text": "llevaban un nivel entero, un nivel de"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 804.2,
+      "end": 807.44,
+      "text": "estos de 40.000, solo ejecutando 3.000"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 806.12,
+      "end": 808.92,
+      "text": "títulos, es decir, de repente han"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 807.44,
+      "end": 810.8800000000001,
+      "text": "ejecutado 3000 títulos en el nivel y el"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 808.92,
+      "end": 811.9599999999999,
+      "text": "nivel ha desaparecido y automáticamente"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 810.88,
+      "end": 814.12,
+      "text": "ha pasado al nivel siguiente y sin"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 811.96,
+      "end": 815.32,
+      "text": "embargo había 40000, ¿por qué? Por lo"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 814.12,
+      "end": 816.72,
+      "text": "que sea"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 815.32,
+      "end": 820.08,
+      "text": "ha habido gente o máquinas que han"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 816.72,
+      "end": 821.64,
+      "text": "decidido retirar eh su eh orden de ahí,"
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 820.08,
+      "end": 823.44,
+      "text": "¿no? Entonces, esto es como funciona un"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 821.64,
+      "end": 825.56,
+      "text": "order book, no hace falta que esta parte"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 823.44,
+      "end": 826.6,
+      "text": "eh seáis consciente de ella, esto es"
+    },
+    {
+      "index": 392,
+      "speaker": null,
+      "start": 825.56,
+      "end": 828.76,
+      "text": "simplemente pues para que tengáis"
+    },
+    {
+      "index": 393,
+      "speaker": null,
+      "start": 826.6,
+      "end": 830.16,
+      "text": "conocimientos, eh pero lo que sí que"
+    },
+    {
+      "index": 394,
+      "speaker": null,
+      "start": 828.76,
+      "end": 831.48,
+      "text": "tenéis que tener en cuenta es, oye, si"
+    },
+    {
+      "index": 395,
+      "speaker": null,
+      "start": 830.16,
+      "end": 833.0799999999999,
+      "text": "yo voy a meter una orden a mer, bueno,"
+    },
+    {
+      "index": 396,
+      "speaker": null,
+      "start": 831.48,
+      "end": 835.84,
+      "text": "en primer lugar la la cantidad de las"
+    },
+    {
+      "index": 397,
+      "speaker": null,
+      "start": 833.08,
+      "end": 837.48,
+      "text": "cosas, ¿no? Porque si"
+    },
+    {
+      "index": 398,
+      "speaker": null,
+      "start": 835.84,
+      "end": 838.88,
+      "text": "estamos hablando de ejecutar 1000 2000"
+    },
+    {
+      "index": 399,
+      "speaker": null,
+      "start": 837.48,
+      "end": 841.72,
+      "text": "3000 euros, a priori todo esto que he"
+    },
+    {
+      "index": 400,
+      "speaker": null,
+      "start": 838.88,
+      "end": 842.92,
+      "text": "contado no tendría eh por qué tener un"
+    },
+    {
+      "index": 401,
+      "speaker": null,
+      "start": 841.72,
+      "end": 844.64,
+      "text": "impacto importante, porque aunque te"
+    },
+    {
+      "index": 402,
+      "speaker": null,
+      "start": 842.92,
+      "end": 846.7199999999999,
+      "text": "comas un spread decidiendo comprar ahora"
+    },
+    {
+      "index": 403,
+      "speaker": null,
+      "start": 844.64,
+      "end": 848.92,
+      "text": "mismo a mercado a 1,10, por ejemplo, no"
+    },
+    {
+      "index": 404,
+      "speaker": null,
+      "start": 846.72,
+      "end": 851.52,
+      "text": "pasa nada en 3000 euros, ¿vale? El el el"
+    },
+    {
+      "index": 405,
+      "speaker": null,
+      "start": 848.92,
+      "end": 853.04,
+      "text": "el impacto de de de este spread es muy"
+    },
+    {
+      "index": 406,
+      "speaker": null,
+      "start": 851.52,
+      "end": 855.24,
+      "text": "pequeño, ¿no? Pero qué pasa si tienes"
+    },
+    {
+      "index": 407,
+      "speaker": null,
+      "start": 853.04,
+      "end": 856.5999999999999,
+      "text": "30000, 50000, 100000 euros, pues ya es"
+    },
+    {
+      "index": 408,
+      "speaker": null,
+      "start": 855.24,
+      "end": 860.08,
+      "text": "otra cosa, es cierto que aquí ahora"
+    },
+    {
+      "index": 409,
+      "speaker": null,
+      "start": 856.6,
+      "end": 862.36,
+      "text": "mismo para 147000 euros"
+    },
+    {
+      "index": 410,
+      "speaker": null,
+      "start": 860.08,
+      "end": 864.64,
+      "text": "más o menos, eh bueno, en este caso es"
+    },
+    {
+      "index": 411,
+      "speaker": null,
+      "start": 862.36,
+      "end": 866.08,
+      "text": "1,10 más o menos, ¿vale? No no no cotiza"
+    },
+    {
+      "index": 412,
+      "speaker": null,
+      "start": 864.64,
+      "end": 868.52,
+      "text": "a 1, si fuera 1, en este caso pues"
+    },
+    {
+      "index": 413,
+      "speaker": null,
+      "start": 866.08,
+      "end": 871.32,
+      "text": "serían como 160000 euros, en 160000"
+    },
+    {
+      "index": 414,
+      "speaker": null,
+      "start": 868.52,
+      "end": 873.04,
+      "text": "euros eh eh tienes el mismo impacto"
+    },
+    {
+      "index": 415,
+      "speaker": null,
+      "start": 871.32,
+      "end": 874.6,
+      "text": "comprando a mercado que que en 3000, que"
+    },
+    {
+      "index": 416,
+      "speaker": null,
+      "start": 873.04,
+      "end": 876.88,
+      "text": "en 5000, que en 10000 o 20000, porque"
+    },
+    {
+      "index": 417,
+      "speaker": null,
+      "start": 874.6,
+      "end": 878.24,
+      "text": "hay papel de sobra, pero eh hay que"
+    },
+    {
+      "index": 418,
+      "speaker": null,
+      "start": 876.88,
+      "end": 881.0,
+      "text": "tener cuidado porque hay en otras horas"
+    },
+    {
+      "index": 419,
+      "speaker": null,
+      "start": 878.24,
+      "end": 882.6800000000001,
+      "text": "del día, otro tipo de activos, eh em"
+    },
+    {
+      "index": 420,
+      "speaker": null,
+      "start": 881.0,
+      "end": 884.32,
+      "text": "acciones con con menos volumen, etcétera"
+    },
+    {
+      "index": 421,
+      "speaker": null,
+      "start": 882.68,
+      "end": 886.0799999999999,
+      "text": "etcétera, o ETFs que también es bastante"
+    },
+    {
+      "index": 422,
+      "speaker": null,
+      "start": 884.32,
+      "end": 888.5600000000001,
+      "text": "común, alguna vez veréis un gráfico de"
+    },
+    {
+      "index": 423,
+      "speaker": null,
+      "start": 886.08,
+      "end": 891.5200000000001,
+      "text": "de un ETF donde veréis movimientos muy"
+    },
+    {
+      "index": 424,
+      "speaker": null,
+      "start": 888.56,
+      "end": 894.3599999999999,
+      "text": "bruscos en el ETF, eso no es porque el"
+    },
+    {
+      "index": 425,
+      "speaker": null,
+      "start": 891.52,
+      "end": 895.88,
+      "text": "subyacente, lo que replica ese ETF eh se"
+    },
+    {
+      "index": 426,
+      "speaker": null,
+      "start": 894.36,
+      "end": 898.92,
+      "text": "ha caído o ha subido mucho, eso es"
+    },
+    {
+      "index": 427,
+      "speaker": null,
+      "start": 895.88,
+      "end": 900.48,
+      "text": "porque alguien dibujó en el gráfico o o"
+    },
+    {
+      "index": 428,
+      "speaker": null,
+      "start": 898.92,
+      "end": 903.52,
+      "text": "por culpa de una compra desmedida o una"
+    },
+    {
+      "index": 429,
+      "speaker": null,
+      "start": 900.48,
+      "end": 907.28,
+      "text": "venta desmedida dibujó en el gráfico una"
+    },
+    {
+      "index": 430,
+      "speaker": null,
+      "start": 903.52,
+      "end": 909.1999999999999,
+      "text": "eh un pues como como un ese error de de"
+    },
+    {
+      "index": 431,
+      "speaker": null,
+      "start": 907.28,
+      "end": 911.24,
+      "text": "de de haber ejecutado eh con con un"
+    },
+    {
+      "index": 432,
+      "speaker": null,
+      "start": 909.2,
+      "end": 912.6400000000001,
+      "text": "spread demasiado alto, ¿no? Eh en en"
+    },
+    {
+      "index": 433,
+      "speaker": null,
+      "start": 911.24,
+      "end": 914.12,
+      "text": "esta acción pues por lo menos, como"
+    },
+    {
+      "index": 434,
+      "speaker": null,
+      "start": 912.64,
+      "end": 915.96,
+      "text": "vemos que esto 1,10 es muy robusto y"
+    },
+    {
+      "index": 435,
+      "speaker": null,
+      "start": 914.12,
+      "end": 917.48,
+      "text": "tiene 147000, pues justo estamos en un"
+    },
+    {
+      "index": 436,
+      "speaker": null,
+      "start": 915.96,
+      "end": 918.96,
+      "text": "momento en el que comprar a mercado"
+    },
+    {
+      "index": 437,
+      "speaker": null,
+      "start": 917.48,
+      "end": 920.64,
+      "text": "solamente te penalizaría el spread"
+    },
+    {
+      "index": 438,
+      "speaker": null,
+      "start": 918.96,
+      "end": 922.48,
+      "text": "normal y corriente, ¿no?"
+    },
+    {
+      "index": 439,
+      "speaker": null,
+      "start": 920.64,
+      "end": 924.08,
+      "text": "Insisto, sé que son muchas cosas, eh no"
+    },
+    {
+      "index": 440,
+      "speaker": null,
+      "start": 922.48,
+      "end": 925.6,
+      "text": "es algo que todo el mundo necesite"
+    },
+    {
+      "index": 441,
+      "speaker": null,
+      "start": 924.08,
+      "end": 927.0400000000001,
+      "text": "saber, pero sí que creo que, oye,"
+    },
+    {
+      "index": 442,
+      "speaker": null,
+      "start": 925.6,
+      "end": 929.8000000000001,
+      "text": "entender qué es una orden limitada, qué"
+    },
+    {
+      "index": 443,
+      "speaker": null,
+      "start": 927.04,
+      "end": 931.92,
+      "text": "es una orden a mercado, qué es eh em qué"
+    },
+    {
+      "index": 444,
+      "speaker": null,
+      "start": 929.8,
+      "end": 934.3599999999999,
+      "text": "es el spread, etcétera, etcétera, eh o"
+    },
+    {
+      "index": 445,
+      "speaker": null,
+      "start": 931.92,
+      "end": 935.5999999999999,
+      "text": "que o que sepa eh por lo menos leer este"
+    },
+    {
+      "index": 446,
+      "speaker": null,
+      "start": 934.36,
+      "end": 938.72,
+      "text": "order book, que creo que es bastante"
+    },
+    {
+      "index": 447,
+      "speaker": null,
+      "start": 935.6,
+      "end": 940.16,
+      "text": "sencillo, eh creo que sería un mínimo eh"
+    },
+    {
+      "index": 448,
+      "speaker": null,
+      "start": 938.72,
+      "end": 941.48,
+      "text": "obligatorio para todos aquellos que"
+    },
+    {
+      "index": 449,
+      "speaker": null,
+      "start": 940.16,
+      "end": 944.16,
+      "text": "quieran tener acciones en carteras o"
+    },
+    {
+      "index": 450,
+      "speaker": null,
+      "start": 941.48,
+      "end": 947.12,
+      "text": "ETFs. Oh, qué pena, tío."
+    },
+    {
+      "index": 451,
+      "speaker": null,
+      "start": 944.16,
+      "end": 949.3199999999999,
+      "text": "No ha salido en el vídeo, tío."
+    },
+    {
+      "index": 452,
+      "speaker": null,
+      "start": 947.12,
+      "end": 951.16,
+      "text": "Y si llevan el 1 10 y el 1 10 2, tú, y"
+    },
+    {
+      "index": 453,
+      "speaker": null,
+      "start": 949.32,
+      "end": 953.32,
+      "text": "se va a 1 10 seis directito y no hay"
+    },
+    {
+      "index": 454,
+      "speaker": null,
+      "start": 951.16,
+      "end": 955.92,
+      "text": "papel."
+    },
+    {
+      "index": 455,
+      "speaker": null,
+      "start": 953.32,
+      "end": 958.2800000000001,
+      "text": "Y no hay papel, chat."
+    },
+    {
+      "index": 456,
+      "speaker": null,
+      "start": 955.92,
+      "end": 960.1999999999999,
+      "text": "Y se llevan el 1 10 2, tío, justo cuando"
+    },
+    {
+      "index": 457,
+      "speaker": null,
+      "start": 958.28,
+      "end": 961.4,
+      "text": "cierro el este, qué mala suerte, macho."
+    },
+    {
+      "index": 458,
+      "speaker": null,
+      "start": 960.2,
+      "end": 963.0400000000001,
+      "text": "Fijaros con qué se la Mira, mira la"
+    },
+    {
+      "index": 459,
+      "speaker": null,
+      "start": 961.4,
+      "end": 966.9599999999999,
+      "text": "prueba, mira la prueba."
+    },
+    {
+      "index": 460,
+      "speaker": null,
+      "start": 963.04,
+      "end": 970.0799999999999,
+      "text": "Eh el 1 10 se lo han llevado con 6,000 y"
+    },
+    {
+      "index": 461,
+      "speaker": null,
+      "start": 966.96,
+      "end": 972.84,
+      "text": "12 18 y 2, se lo han llevado con 20,000"
+    },
+    {
+      "index": 462,
+      "speaker": null,
+      "start": 970.08,
+      "end": 974.6,
+      "text": "títulos en 1 10. Chicos, miradlo."
+    },
+    {
+      "index": 463,
+      "speaker": null,
+      "start": 972.84,
+      "end": 976.0,
+      "text": "Justo lo que he dicho en el vídeo."
+    },
+    {
+      "index": 464,
+      "speaker": null,
+      "start": 974.6,
+      "end": 978.16,
+      "text": "Tío, qué pena, habría sido espectacular."
+    },
+    {
+      "index": 465,
+      "speaker": null,
+      "start": 976.0,
+      "end": 980.56,
+      "text": "O sea, había 140,000 a la venta y se lo"
+    },
+    {
+      "index": 466,
+      "speaker": null,
+      "start": 978.16,
+      "end": 981.8399999999999,
+      "text": "ha llevado con 20,000. Miradlo."
+    },
+    {
+      "index": 467,
+      "speaker": null,
+      "start": 980.56,
+      "end": 983.7199999999999,
+      "text": "Con 20,000."
+    },
+    {
+      "index": 468,
+      "speaker": null,
+      "start": 981.84,
+      "end": 985.32,
+      "text": "Así que nada, chicos, eh esto ha sido en"
+    },
+    {
+      "index": 469,
+      "speaker": null,
+      "start": 983.72,
+      "end": 987.24,
+      "text": "tiempo real todo, lo para los que lo"
+    },
+    {
+      "index": 470,
+      "speaker": null,
+      "start": 985.32,
+      "end": 988.6,
+      "text": "sepáis, estos son los directos que hago"
+    },
+    {
+      "index": 471,
+      "speaker": null,
+      "start": 987.24,
+      "end": 989.8,
+      "text": "en el día a día. Espero que os haya"
+    },
+    {
+      "index": 472,
+      "speaker": null,
+      "start": 988.6,
+      "end": 990.839,
+      "text": "gustado."
+    },
+    {
+      "index": 473,
+      "speaker": null,
+      "start": 989.8,
+      "end": 992.56,
+      "text": "Si tenéis dudas me las podéis dejar en"
+    },
+    {
+      "index": 474,
+      "speaker": null,
+      "start": 990.839,
+      "end": 993.72,
+      "text": "comentarios y nosotros nos vemos en el"
+    },
+    {
+      "index": 475,
+      "speaker": null,
+      "start": 992.56,
+      "end": 996.3199999999999,
+      "text": "en el siguiente vídeo. Se despide La"
+    },
+    {
+      "index": 476,
+      "speaker": null,
+      "start": 993.72,
+      "end": 996.32,
+      "text": "Pizarra de Andrés."
+    }
+  ]
+}

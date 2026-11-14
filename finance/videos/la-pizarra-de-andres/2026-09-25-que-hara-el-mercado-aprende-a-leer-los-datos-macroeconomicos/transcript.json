@@ -1,0 +1,2598 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=yqi8Ux7eNrg",
+    "video_id": "yqi8Ux7eNrg",
+    "title": "¿Qué hará el mercado? Aprende a leer los datos macroeconómicos 👀",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a ver cómo entender los datos macroeconómicos para intentar adelantarnos un poco al mercado.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-09-25",
+    "duration_seconds": 705,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:21:49+00:00"
+  },
+  "stats": {
+    "segment_count": 351,
+    "chunk_count": 12,
+    "speaker_count": 0,
+    "word_count": 2456,
+    "character_count": 13271,
+    "time_span_seconds": 706
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1200,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:03",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal, La Pizarra Andrés. En el día de hoy vamos a entender cómo funcionan los datos macroeconómicos y de qué manera impactan en los diferentes mercados. Recientemente, y lo intento explicar en mis directos, intento que la gente comprenda que normalmente los activos financieros tienen un comportamiento en muchos casos correlacionado, es decir, que se mueven en la misma dirección, en otros correlacionados de forma inversa, que se mueven justo de forma contraria, eh, pero que muchas veces, sobre todo cuando sale un dato macroeconómico, pues podemos entender rápidamente qué ha hecho el mercado o explicar porque el mercado se ha ido para un lado, para otro. Ojo, no estoy diciendo que si ves un dato económico en tiempo real, tú puedas especular y adelantarte a lo que vaya a hacer el mercado justo antes de ese dato, porque precisamente eso se llama high frequency trading y es donde las máquinas se meten rápidamente en el mercado para descontar esa noticia en los primeros segundos del dato. Con lo cual, esto simplemente es para poder explicar por qué algo ha movido un mercado de cierta manera. ¿Vale? Vamos a empezar aquí por lo más básico, ¿vale?"
+    },
+    {
+      "index": 1,
+      "text_start": 1201,
+      "text_end": 2394,
+      "time_start_iso": "00:01:02",
+      "time_end_iso": "00:02:08",
+      "speakers": [],
+      "text": "Oye, Andrés, ¿esto de los datos qué es? Vale, pues bueno, en investing.com, en la parte totalmente gratuita, no confundir con Investing Pro, que es la parte que es de análisis de acciones, ¿vale? Donde tenéis el código pizarra y colaborador del canal. Esta no, esta es la parte gratuita, ¿vale? En la parte gratuita e tenemos aquí eh una serie de datos, ¿vale? Donde si ponemos por filtro, incluso si ponemos solo los de alta prioridad, eh pues podríamos ver que aquí hoy solamente hemos tenido dos, ¿vale? en este caso el PMI americano, que ahora veremos lo que es, pero bueno, por lo general eh no hace falta que sepáis mucho acerca del dato, porque siempre podéis pinchar aquí y ver que es normalmente también te lo hacen así un poco pues para tontos, para que entiendas que si el dato está en verde, por lo general el dato ha sido bueno. Ojo, esto no siempre es así, ¿vale? Hay veces que un dato eh en verde significa que ha salido por encima de lo esperado y si el dato y si el dato en cuestión era de algo que no era muy positivo, pues un dato verde podría llegar a ser malo, pero no suele ocurrir así. En este caso, ¿qué tenemos? Tenemos eh PMI eh tanto de servicios como manufacturero,"
+    },
+    {
+      "index": 2,
+      "text_start": 2395,
+      "text_end": 3592,
+      "time_start_iso": "00:02:06",
+      "time_end_iso": "00:03:14",
+      "speakers": [],
+      "text": "eh del bueno, en este caso del del SP, ¿no? Eh, si no sabéis lo que es esto, esto es un dato macroeconómico, ¿vale? que se basa en encuestas, aquí lo vemos, eh, y que nos cuenta un poco el eh la el sentimiento que hay en la economía, ¿vale? Aquí pues hablamos de eh transporte, comunicación, intermediarios financieros, es decir, un dato macroeconómico de cierta importancia, ¿vale? También aquí te describe que cualquier dato por encima de 50 significa pues mejoras, mejoras o crecimiento como lo queramos ver, ¿vale? Con lo cual, este dato que si alguien quisiera investigar más, no creo que este sea el más el dato más fuerte, el dato más importante de todos. Por ejemplo, un dato de paro, eh, los famosos non farm payrolls también, que es un dato de empleo, etcétera, etcétera. Todo esto eh suele ser datos que también tienen tres estrellas y suelen ser más importantes, ¿vale? Y esto eh lo que te dicen normalmente es lo que llamamos datos macro, ¿vale? La mayoría de datos macro funcionan pues como este, que si el resultado es bueno, eh, o si el resultado es por encima de lo esperado, pues asume que es bueno. Digo la mayoría porque es lo que digo, porque si estamos hablando de eh un dato"
+    },
+    {
+      "index": 3,
+      "text_start": 3593,
+      "text_end": 4788,
+      "time_start_iso": "00:03:12",
+      "time_end_iso": "00:04:21",
+      "speakers": [],
+      "text": "de paro, ese lo que quieres es que sea lo más bajo posible, no quieres que sea lo más alto posible, pero en la mayoría de datos eh sí que más alto suele ser mejor. En este caso ha salido un muy buen dato. Aquí nos fijamos y el previo eh había sido en el periodo anterior, en el mes anterior, 53,9, 56,5 respectivamente. El esperado era peor, es decir, se esperaba que empeorara, por lo menos en este mes, la economía en estos factores y, sin embargo ha sido mucho mejor de lo esperado, altísimo. Vale, hemos pasado de 53 y 53 también de esperado, de 53 previo y 53 esperado a 57 y de 56 previo y 55 esperado a 58. Vale, entonces el dato ha sido muy bueno de forma automática y aquí lo vemos un poco, el SP500 se ha tirado por el precipicio, ¿vale? Y aquí estamos donde, oye, Andrés, ¿nos puedes explicar por qué e sale un dato bueno y los mercados se caen? Vale, pues esto que lo aprendí yo en mi primer trabajo, nos decía el por aquel entonces jefe que yo tenía que era polaco, nos decía, a ver, sometimes decía, good news cambi good news. Buenas noticias pueden ser buenas noticias. Good news cambi bad news. Buenas noticias pueden ser malas noticias. Bad news cambi bad news. Malas noticias o"
+    },
+    {
+      "index": 4,
+      "text_start": 4789,
+      "text_end": 5979,
+      "time_start_iso": "00:04:19",
+      "time_end_iso": "00:05:29",
+      "speakers": [],
+      "text": "malas noticias. Bad news cambi good news. ¿Y por qué nos decía esto? Porque depende lo que quiera de la economía en ese momento. Es decir, en este caso, ¿en qué coyuntura estamos? Estamos en una coyuntura en la que ya se ha dicho o se asume que va a haber subidas de tipos de interés futuras. Eh, se asume que la inflación está por encima de lo que debería estar, ¿vale? Y por tanto, lo que eh se anticipa es que podría haber subidas de tipos en el futuro. ¿Qué es lo que pasa si salen datos buenos que las subidas de tipos son más probables. ¿Por qué? Porque esto al final es una ecuación de tres incógnitas, como si fuera un triángulo. En un en un lado tenemos los tipos de interés, en otro lado tenemos la inflación y en otro lado tenemos el crecimiento, los datos macroeconómicos pues buenos. ¿Vale? Si tenemos inflación alta y datos de crecimiento buenos, no tengo ninguna excusa, no tengo ningún problema en subir tipos. Si subo tipos, quito eh o reduzco eh liquidez en los mercados y por tanto los mercados se caen. Ahora veremos el resto de eh el resto de tipos de activos, ¿no? Entonces, en este caso, good news cambi bad news, es decir, unas buenos datos macroeconómicos hacen que"
+    },
+    {
+      "index": 5,
+      "text_start": 5980,
+      "text_end": 7166,
+      "time_start_iso": "00:05:27",
+      "time_end_iso": "00:06:32",
+      "speakers": [],
+      "text": "den vía libre para subidas de tipos. Subidas de tipos son negativas para los mercados. Por eso, e muchas veces dependiendo del entorno en el que nos encontremos, por ejemplo, yo viví, esto ya es hm de gente que llevamos unos cuantos años en los mercados, yo viví un entorno en el que la inflación era tan baja que los datos de inflación un poquito altos se celebraban y eran positivos para el mercado. ¿Por qué? Porque no había inflación. Estábamos con la inflación al 0 y pico% era cuando los tipos también estaban al cero. Y cada dato de inflación lo que se quería era una subida de la inflación, es decir, que hubiera un poco de inflación, ¿vale? para fomentar el el el crecimiento, ¿no? El crecimiento normalmente va asociado a la a a algo de inflación, ¿no? En este caso, como la inflación es alta y lo único que hm se cuestiona para subir tipos es si la economía está lo suficientemente bien, en cuanto hay buenos datos, eh el mercado se los toma mal como diciendo, \"Bueno, se vienen las subidas de tipos, ¿no?\" Entonces, en este caso, pues good news cami bad news. Esto, evidentemente, para llegar a pensar de esta manera, tienes que tener muy claro los agentes macroeconómicos y"
+    },
+    {
+      "index": 6,
+      "text_start": 7167,
+      "text_end": 8356,
+      "time_start_iso": "00:06:30",
+      "time_end_iso": "00:07:32",
+      "speakers": [],
+      "text": "tienes que entender lo bueno de esto es que como no vamos a tradear e no tenéis que adivinar qué va a hacer el precio. Estamos intentando explicar lo que ya he hecho. Es decir, si a mí me hubieras preguntado, Andrés, ¿van a subir el dato de el dato macro va a ser muy bueno? Yo probablemente, porque lo hemos visto bastante en los mercados, tú hubieras dicho, bueno, pues si es bueno, yo creo que el mercado subir no va a subir porque le va a dar miedo el el la subida de tipos. A lo mejor no me hubiera aventurado a decir, \"Oye, el SP va a caer medio punto solo por el dato.\" Quizá no. ¿Por qué? Porque nunca sabes del todo cómo va a reaccionar el mercado. Pero sí que me hubiera atrevido a decir perfectamente que un dato bueno macroeconómico a día de hoy que dé fortaleza a la economía americana no se va a interpretar como un muy buen dato porque lo que va a acercar es eh el al a la economía americana a subir tipos y eso no es positivo para los mercados, ¿no? Con lo cual aquí de primeras esto. ¿Qué es lo otro curioso? Pues yo viendo esto he dicho, vamos a ver si se acercan, si mi tesis es buena y yo estoy explicando esto de una forma adecuada, voy a decir, \"Oye, ¿qué pasa con la"
+    },
+    {
+      "index": 7,
+      "text_start": 8357,
+      "text_end": 9528,
+      "time_start_iso": "00:07:31",
+      "time_end_iso": "00:08:38",
+      "speakers": [],
+      "text": "divisa?\" Vale, pues la divisa en este caso es el dólar. Si van a subir tipos, subir tipos aprecia la moneda, fortalece la moneda. ¿Vale? Eh, entonces, ¿por qué es esto? Bueno, hay muchas formas de explicarlo, pero la normal es, oye, si yo subo tipos, mi activo libre de riesgo paga más. como paga más, recibo más entradas de otras monedas para invertirlo en eh los nuevos bonos que pagarán un tipo superior, ¿vale? Es decir, entran entradas a la moneda. En este caso, ¿cómo se ve el dólar? Normalmente comparado contra el euro, puesto que es el par euroólar, el euro está delante, necesitaríamos ver un eurodólar cayendo en picado, eh, para justificar que la tesis, todo lo que estoy explicando yo ahora, tenga sentido. Si nos vamos al eurodólar, aquí lo veis, ¿vale? Aquí lo veis reciente. Esto es de ahora. Esto es en lo que va de día. Una primera caída al vacío, después un ligero repunte que, bueno, esto es volatilidad y otra vez ya estamos otra vez en mínimos. De hecho estamos tocando 1139, ¿vale? Con lo cual podemos justificar que lo que yo os he explicado anteriormente es real. Es real. Se está asumiendo que las subidas de tipos el mercado lo descuenta todo y"
+    },
+    {
+      "index": 8,
+      "text_start": 9529,
+      "text_end": 10721,
+      "time_start_iso": "00:08:37",
+      "time_end_iso": "00:09:36",
+      "speakers": [],
+      "text": "el mercado va mucho antes de que las cosas ocurran, ¿o no? Entonces se está descontando que la subida de tipos eh va a ocurrir. ¿Por qué? Porque si la economía está fuerte y la inflación está alta, ¿qué problemas hay para que suban tipos? ¿No? ¿Qué [resoplido] otras cosas tienen que ver afectadas? Pues también lo dicho, el oro tiene que estar cayendo. Efectivamente, aquí lo vemos. ¿Por qué? Porque la inflación eh, en este caso, la inflación, hay muchas formas de explicarlo. Una es pues que si el tipo de interés libre de riesgo paga bien, es decir, si los tipos van a subir y todos esos bonos libres de riesgo van a pagar bien, el coste de oportunidad de tener oro debajo de tu cama es es más alto, ¿vale? porque tienes algo que sí que te paga y te paga mejor. Eh, entonces normalmente, además, hay muchas más formas de explicar esto. Por ejemplo, el oro últimamente tiene una correlación muy alta con los mercados, o sea, se comporta totalmente como un activo de riesgo, ¿vale? Entonces, si los mercados caen, pues estamos viendo normalmente el oro caer. Bitcoin debería hacer probablemente lo mismo. Es verdad que, mira, aquí lo vemos. Es verdad que Bitcoin es más nuevo y podría estar"
+    },
+    {
+      "index": 9,
+      "text_start": 10722,
+      "text_end": 11899,
+      "time_start_iso": "00:09:33",
+      "time_end_iso": "00:10:38",
+      "speakers": [],
+      "text": "equivocado en este aspecto, pero 3 cuart de lo mismo, ¿vale? ¿Por qué? porque estamos hablando de que e estas subidas de tipos van a afectar a los activos libres de a los activos de riesgo y además van a hacer más atractivo el costo de oportunidad, que es tenerlo en un activo libre de riesgo pagando una rentabilidad superior, ¿no? Eh, probablemente, no lo he mirado, pues los bonos eh también estarán mal, efectivamente. Vale, aquí vemos los, mira, están muy mal los bonos porque los yields, que es el inverso del bono, están subiendo de forma drástica. Es decir, un muy buen dato de empleo lo que ha hecho es afectar negativamente a casi todos los activos de riesgo. En este caso, porque se está dando por hecho que las subidas de tipos van a ser eh innegociables. Y esto yo entiendo que esto es complicado, que a lo mejor yo os lo cuento y ahora lo entendéis todo, pero eh esto es algo bastante común, ¿vale? Los mercados interpretan las cosas según convenga, ¿vale? ya os explicaba un escenario en el que eh momentos de inflación eran muy positivos y tomados muy positivos por el mercado, de por fin recuperamos un poco de inflación eh relacionado con el crecimiento. Eh y"
+    },
+    {
+      "index": 10,
+      "text_start": 11900,
+      "text_end": 13073,
+      "time_start_iso": "00:10:37",
+      "time_end_iso": "00:11:38",
+      "speakers": [],
+      "text": "ahora es todo lo contrario, hará un buen dato de de de la economía americana, que por cierto está bastante fuerte o no lo está haciendo nada mal. se asume con una subida de tipos futura que a lo mejor antes podía estar un poco en duda, pero que ahora cada vez pues lo estará menos, ¿no? Y por tanto pues todos los activos de riesgo eh caen. Esto estoy seguro que se podía extrapolar a otros tipos de activos quizá menos mainstream, ¿vale? pues yo que sé, algunas otras otras commodities o o otro tipo de de bonos, otro tipo de deuda o lo que sea, no estoy seguro, pero bueno, aquí por lo menos os he hecho una síntesis de los activos principales, de lo que es la divisa, el oro, la renta variable, la renta fija, etcétera, etcétera, unido a datos macroeconómicos más o menos importantes. Este dato no es que fuera muy muy importante mi opinión, pero el dato ha sido muy fuerte, el dato ha sido muy bueno, muy bueno. Entonces, eso pues la ha llenado al mercado de dudas de decir, \"Oye, en esta economía sí o sí van a subir tipos, ¿no? Vamos a descontarlo ya en el mercado metiendo ese eh ese ese riesgo, digamos, en los activos en los activos de riesgo, nunca mejor dicho. Y"
+    },
+    {
+      "index": 11,
+      "text_start": 13074,
+      "text_end": 13271,
+      "time_start_iso": "00:11:37",
+      "time_end_iso": "00:11:46",
+      "speakers": [],
+      "text": "nada, chicos, esto es un vídeo improvisado, pero para que entendáis un poquito más cómo funcionan los mercados. Si os ha gustado, me podéis dejar un like y nosotros nos vemos en el siguiente vídeo."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.08,
+      "end": 3.1590000000000003,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.64,
+      "end": 5.279,
+      "text": "mi canal, La Pizarra Andrés. En el día"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.159,
+      "end": 7.0,
+      "text": "de hoy vamos a entender cómo funcionan"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 5.279,
+      "end": 8.84,
+      "text": "los datos macroeconómicos y de qué"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 7.0,
+      "end": 11.120000000000001,
+      "text": "manera impactan en los diferentes"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 8.84,
+      "end": 13.16,
+      "text": "mercados. Recientemente, y lo intento"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 11.12,
+      "end": 14.919999999999998,
+      "text": "explicar en mis directos, intento que la"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 13.16,
+      "end": 16.279,
+      "text": "gente comprenda que normalmente los"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 14.92,
+      "end": 18.32,
+      "text": "activos financieros tienen un"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 16.279,
+      "end": 19.84,
+      "text": "comportamiento en muchos casos"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 18.32,
+      "end": 21.72,
+      "text": "correlacionado, es decir, que se mueven"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 19.84,
+      "end": 23.359,
+      "text": "en la misma dirección, en otros"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 21.72,
+      "end": 25.759999999999998,
+      "text": "correlacionados de forma inversa, que se"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 23.359,
+      "end": 27.64,
+      "text": "mueven justo de forma contraria, eh,"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 25.76,
+      "end": 29.599,
+      "text": "pero que muchas veces, sobre todo cuando"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 27.64,
+      "end": 31.92,
+      "text": "sale un dato macroeconómico, pues"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 29.599,
+      "end": 33.64,
+      "text": "podemos entender rápidamente qué ha"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 31.92,
+      "end": 34.760000000000005,
+      "text": "hecho el mercado o explicar porque el"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 33.64,
+      "end": 37.12,
+      "text": "mercado se ha ido para un lado, para"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 34.76,
+      "end": 39.199999999999996,
+      "text": "otro. Ojo, no estoy diciendo que si ves"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 37.12,
+      "end": 40.919999999999995,
+      "text": "un dato económico en tiempo real, tú"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 39.2,
+      "end": 42.160000000000004,
+      "text": "puedas especular y adelantarte a lo que"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 40.92,
+      "end": 44.64,
+      "text": "vaya a hacer el mercado justo antes de"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 42.16,
+      "end": 46.879,
+      "text": "ese dato, porque precisamente eso se"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 44.64,
+      "end": 49.079,
+      "text": "llama high frequency trading y es donde"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 46.879,
+      "end": 51.76,
+      "text": "las máquinas se meten rápidamente en el"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 49.079,
+      "end": 53.44,
+      "text": "mercado para descontar esa noticia en"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 51.76,
+      "end": 55.48,
+      "text": "los primeros segundos del dato. Con lo"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 53.44,
+      "end": 58.32,
+      "text": "cual, esto simplemente es para poder"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 55.48,
+      "end": 60.07899999999999,
+      "text": "explicar por qué algo ha movido un"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 58.32,
+      "end": 62.32,
+      "text": "mercado de cierta manera. ¿Vale? Vamos a"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 60.079,
+      "end": 63.84,
+      "text": "empezar aquí por lo más básico, ¿vale?"
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 62.32,
+      "end": 65.479,
+      "text": "Oye, Andrés, ¿esto de los datos qué es?"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 63.84,
+      "end": 67.0,
+      "text": "Vale, pues bueno, en investing.com, en"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 65.479,
+      "end": 68.439,
+      "text": "la parte totalmente gratuita, no"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 67.0,
+      "end": 70.52,
+      "text": "confundir con Investing Pro, que es la"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 68.439,
+      "end": 72.39999999999999,
+      "text": "parte que es de análisis de acciones,"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 70.52,
+      "end": 74.03999999999999,
+      "text": "¿vale? Donde tenéis el código pizarra y"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 72.4,
+      "end": 75.799,
+      "text": "colaborador del canal. Esta no, esta es"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 74.04,
+      "end": 77.4,
+      "text": "la parte gratuita, ¿vale? En la parte"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 75.799,
+      "end": 80.96000000000001,
+      "text": "gratuita"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 77.4,
+      "end": 83.759,
+      "text": "e tenemos aquí eh una serie de datos,"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 80.96,
+      "end": 85.479,
+      "text": "¿vale? Donde si ponemos por filtro,"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 83.759,
+      "end": 87.88,
+      "text": "incluso si ponemos solo los de alta"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 85.479,
+      "end": 89.92,
+      "text": "prioridad, eh pues podríamos ver que"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 87.88,
+      "end": 92.079,
+      "text": "aquí hoy solamente hemos tenido dos,"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 89.92,
+      "end": 93.36,
+      "text": "¿vale? en este caso el PMI americano,"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 92.079,
+      "end": 97.32,
+      "text": "que ahora veremos lo que es, pero bueno,"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 93.36,
+      "end": 99.56,
+      "text": "por lo general eh no hace falta que"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 97.32,
+      "end": 101.39899999999999,
+      "text": "sepáis mucho acerca del dato, porque"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 99.56,
+      "end": 102.92,
+      "text": "siempre podéis pinchar aquí y ver que es"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 101.399,
+      "end": 105.24,
+      "text": "normalmente también te lo hacen así un"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 102.92,
+      "end": 106.759,
+      "text": "poco pues para tontos, para que"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 105.24,
+      "end": 108.28,
+      "text": "entiendas que si el dato está en verde,"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 106.759,
+      "end": 110.24,
+      "text": "por lo general el dato ha sido bueno."
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 108.28,
+      "end": 112.96000000000001,
+      "text": "Ojo, esto no siempre es así, ¿vale? Hay"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 110.24,
+      "end": 114.19999999999999,
+      "text": "veces que un dato eh en verde significa"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 112.96,
+      "end": 116.079,
+      "text": "que ha salido por encima de lo esperado"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 114.2,
+      "end": 117.71900000000001,
+      "text": "y si el dato y si el dato en cuestión"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 116.079,
+      "end": 119.24,
+      "text": "era de algo que no era muy positivo,"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 117.719,
+      "end": 121.79899999999999,
+      "text": "pues un dato verde podría llegar a ser"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 119.24,
+      "end": 124.32,
+      "text": "malo, pero no suele ocurrir así. En este"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 121.799,
+      "end": 126.64,
+      "text": "caso, ¿qué tenemos? Tenemos eh PMI eh"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 124.32,
+      "end": 128.92,
+      "text": "tanto de servicios como manufacturero,"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 126.64,
+      "end": 130.56,
+      "text": "eh del bueno, en este caso del del SP,"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 128.92,
+      "end": 132.79999999999998,
+      "text": "¿no? Eh, si no sabéis lo que es esto,"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 130.56,
+      "end": 134.84,
+      "text": "esto es un dato macroeconómico, ¿vale?"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 132.8,
+      "end": 139.08,
+      "text": "que se basa en encuestas, aquí lo vemos,"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 134.84,
+      "end": 140.48,
+      "text": "eh, y que nos cuenta un poco el eh la el"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 139.08,
+      "end": 142.59900000000002,
+      "text": "sentimiento que hay en la economía,"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 140.48,
+      "end": 144.959,
+      "text": "¿vale? Aquí pues hablamos de eh"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 142.599,
+      "end": 146.72,
+      "text": "transporte, comunicación, intermediarios"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 144.959,
+      "end": 149.48,
+      "text": "financieros, es decir, un dato"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 146.72,
+      "end": 151.12,
+      "text": "macroeconómico de cierta importancia,"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 149.48,
+      "end": 153.16,
+      "text": "¿vale? También aquí te describe que"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 151.12,
+      "end": 155.64000000000001,
+      "text": "cualquier dato por encima de 50"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 153.16,
+      "end": 157.519,
+      "text": "significa pues mejoras, mejoras o"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 155.64,
+      "end": 159.44,
+      "text": "crecimiento como lo queramos ver, ¿vale?"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 157.519,
+      "end": 160.76000000000002,
+      "text": "Con lo cual, este dato que si alguien"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 159.44,
+      "end": 162.599,
+      "text": "quisiera investigar más, no creo que"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 160.76,
+      "end": 164.56,
+      "text": "este sea el más el dato más fuerte, el"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 162.599,
+      "end": 167.67999999999998,
+      "text": "dato más importante de todos. Por"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 164.56,
+      "end": 170.0,
+      "text": "ejemplo, un dato de paro, eh, los"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 167.68,
+      "end": 171.12,
+      "text": "famosos non farm payrolls también, que"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 170.0,
+      "end": 174.2,
+      "text": "es un dato de empleo, etcétera,"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 171.12,
+      "end": 175.28,
+      "text": "etcétera. Todo esto eh suele ser datos"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 174.2,
+      "end": 177.07999999999998,
+      "text": "que también tienen tres estrellas y"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 175.28,
+      "end": 179.0,
+      "text": "suelen ser más importantes, ¿vale? Y"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 177.08,
+      "end": 180.87900000000002,
+      "text": "esto eh lo que te dicen normalmente es"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 179.0,
+      "end": 183.48,
+      "text": "lo que llamamos datos macro, ¿vale? La"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 180.879,
+      "end": 186.0,
+      "text": "mayoría de datos macro funcionan pues"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 183.48,
+      "end": 187.23899999999998,
+      "text": "como este, que si el resultado es bueno,"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 186.0,
+      "end": 188.519,
+      "text": "eh, o si el resultado es por encima de"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 187.239,
+      "end": 189.76,
+      "text": "lo esperado, pues asume que es bueno."
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 188.519,
+      "end": 192.48000000000002,
+      "text": "Digo la mayoría porque es lo que digo,"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 189.76,
+      "end": 194.12,
+      "text": "porque si estamos hablando de eh un dato"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 192.48,
+      "end": 195.72,
+      "text": "de paro, ese lo que quieres es que sea"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 194.12,
+      "end": 196.959,
+      "text": "lo más bajo posible, no quieres que sea"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 195.72,
+      "end": 199.4,
+      "text": "lo más alto posible, pero en la mayoría"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 196.959,
+      "end": 200.92000000000002,
+      "text": "de datos eh sí que más alto suele ser"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 199.4,
+      "end": 204.20000000000002,
+      "text": "mejor. En este caso ha salido un muy"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 200.92,
+      "end": 205.76,
+      "text": "buen dato. Aquí nos fijamos y el previo"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 204.2,
+      "end": 208.07999999999998,
+      "text": "eh había sido en el periodo anterior, en"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 205.76,
+      "end": 210.39999999999998,
+      "text": "el mes anterior, 53,9, 56,5"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 208.08,
+      "end": 212.64000000000001,
+      "text": "respectivamente. El esperado era peor,"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 210.4,
+      "end": 214.64000000000001,
+      "text": "es decir, se esperaba que empeorara, por"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 212.64,
+      "end": 216.76,
+      "text": "lo menos en este mes, la economía en"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 214.64,
+      "end": 218.439,
+      "text": "estos factores y, sin embargo ha sido"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 216.76,
+      "end": 221.39999999999998,
+      "text": "mucho mejor de lo esperado, altísimo."
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 218.439,
+      "end": 223.76,
+      "text": "Vale, hemos pasado de 53 y 53 también de"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 221.4,
+      "end": 227.87900000000002,
+      "text": "esperado, de 53 previo y 53 esperado a"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 223.76,
+      "end": 230.76,
+      "text": "57 y de 56 previo y 55 esperado a 58."
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 227.879,
+      "end": 232.72,
+      "text": "Vale, entonces el dato ha sido muy bueno"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 230.76,
+      "end": 234.76,
+      "text": "de forma automática y aquí lo vemos un"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 232.72,
+      "end": 237.0,
+      "text": "poco, el SP500 se ha tirado por el"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 234.76,
+      "end": 238.959,
+      "text": "precipicio, ¿vale? Y aquí estamos donde,"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 237.0,
+      "end": 241.879,
+      "text": "oye, Andrés, ¿nos puedes explicar por"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 238.959,
+      "end": 243.959,
+      "text": "qué e sale un dato bueno y los mercados"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 241.879,
+      "end": 246.56,
+      "text": "se caen? Vale, pues esto que lo aprendí"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 243.959,
+      "end": 248.0,
+      "text": "yo en mi primer trabajo, nos decía el"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 246.56,
+      "end": 250.959,
+      "text": "por aquel entonces jefe que yo tenía que"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 248.0,
+      "end": 253.0,
+      "text": "era polaco, nos decía, a ver, sometimes"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 250.959,
+      "end": 254.64000000000001,
+      "text": "decía, good news cambi good news. Buenas"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 253.0,
+      "end": 256.32,
+      "text": "noticias pueden ser buenas noticias."
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 254.64,
+      "end": 258.199,
+      "text": "Good news cambi bad news. Buenas"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 256.32,
+      "end": 259.71999999999997,
+      "text": "noticias pueden ser malas noticias. Bad"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 258.199,
+      "end": 261.56,
+      "text": "news cambi bad news. Malas noticias o"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 259.72,
+      "end": 264.0,
+      "text": "malas noticias. Bad news cambi good"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 261.56,
+      "end": 265.759,
+      "text": "news. ¿Y por qué nos decía esto? Porque"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 264.0,
+      "end": 268.0,
+      "text": "depende lo que quiera de la economía en"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 265.759,
+      "end": 269.32,
+      "text": "ese momento. Es decir, en este caso, ¿en"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 268.0,
+      "end": 271.919,
+      "text": "qué coyuntura estamos? Estamos en una"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 269.32,
+      "end": 273.44,
+      "text": "coyuntura en la que ya se ha dicho o se"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 271.919,
+      "end": 276.56,
+      "text": "asume que va a haber subidas de tipos de"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 273.44,
+      "end": 278.68,
+      "text": "interés futuras. Eh, se asume que la"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 276.56,
+      "end": 281.68,
+      "text": "inflación está por encima de lo que"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 278.68,
+      "end": 285.759,
+      "text": "debería estar, ¿vale? Y por tanto, lo"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 281.68,
+      "end": 288.28000000000003,
+      "text": "que eh se anticipa es que podría haber"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 285.759,
+      "end": 290.039,
+      "text": "subidas de tipos en el futuro. ¿Qué es"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 288.28,
+      "end": 292.28,
+      "text": "lo que pasa si salen datos buenos que"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 290.039,
+      "end": 293.8,
+      "text": "las subidas de tipos son más probables."
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 292.28,
+      "end": 295.44,
+      "text": "¿Por qué? Porque esto al final es una"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 293.8,
+      "end": 297.44,
+      "text": "ecuación de tres incógnitas, como si"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 295.44,
+      "end": 299.84,
+      "text": "fuera un triángulo. En un en un lado"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 297.44,
+      "end": 301.32,
+      "text": "tenemos los tipos de interés, en otro"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 299.84,
+      "end": 302.59999999999997,
+      "text": "lado tenemos la inflación y en otro lado"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 301.32,
+      "end": 304.96,
+      "text": "tenemos el crecimiento, los datos"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 302.6,
+      "end": 307.12,
+      "text": "macroeconómicos pues buenos. ¿Vale? Si"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 304.96,
+      "end": 308.84,
+      "text": "tenemos inflación alta y datos de"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 307.12,
+      "end": 310.36,
+      "text": "crecimiento buenos, no tengo ninguna"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 308.84,
+      "end": 313.71999999999997,
+      "text": "excusa, no tengo ningún problema en"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 310.36,
+      "end": 316.47900000000004,
+      "text": "subir tipos. Si subo tipos, quito eh o"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 313.72,
+      "end": 317.8,
+      "text": "reduzco eh liquidez en los mercados y"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 316.479,
+      "end": 320.919,
+      "text": "por tanto los mercados se caen. Ahora"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 317.8,
+      "end": 323.12,
+      "text": "veremos el resto de eh el resto de tipos"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 320.919,
+      "end": 325.0,
+      "text": "de activos, ¿no? Entonces, en este caso,"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 323.12,
+      "end": 327.199,
+      "text": "good news cambi bad news, es decir, unas"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 325.0,
+      "end": 329.72,
+      "text": "buenos datos macroeconómicos hacen que"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 327.199,
+      "end": 331.52000000000004,
+      "text": "den vía libre para subidas de tipos."
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 329.72,
+      "end": 335.24,
+      "text": "Subidas de tipos son negativas para los"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 331.52,
+      "end": 336.75899999999996,
+      "text": "mercados. Por eso, e muchas veces"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 335.24,
+      "end": 339.0,
+      "text": "dependiendo del entorno en el que nos"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 336.759,
+      "end": 341.28000000000003,
+      "text": "encontremos, por ejemplo, yo viví, esto"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 339.0,
+      "end": 343.08,
+      "text": "ya es hm de gente que llevamos unos"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 341.28,
+      "end": 344.63899999999995,
+      "text": "cuantos años en los mercados, yo viví un"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 343.08,
+      "end": 347.12,
+      "text": "entorno en el que la inflación era tan"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 344.639,
+      "end": 348.639,
+      "text": "baja que los datos de inflación un"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 347.12,
+      "end": 350.0,
+      "text": "poquito altos se celebraban y eran"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 348.639,
+      "end": 351.319,
+      "text": "positivos para el mercado. ¿Por qué?"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 350.0,
+      "end": 353.4,
+      "text": "Porque no había inflación. Estábamos con"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 351.319,
+      "end": 355.28000000000003,
+      "text": "la inflación al 0 y pico% era cuando los"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 353.4,
+      "end": 357.31899999999996,
+      "text": "tipos también estaban al cero. Y cada"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 355.28,
+      "end": 359.15999999999997,
+      "text": "dato de inflación lo que se quería era"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 357.319,
+      "end": 361.40000000000003,
+      "text": "una subida de la inflación, es decir,"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 359.16,
+      "end": 365.199,
+      "text": "que hubiera un poco de inflación, ¿vale?"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 361.4,
+      "end": 366.67999999999995,
+      "text": "para fomentar el el el crecimiento, ¿no?"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 365.199,
+      "end": 368.91900000000004,
+      "text": "El crecimiento normalmente va asociado a"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 366.68,
+      "end": 371.44,
+      "text": "la a a algo de inflación, ¿no? En este"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 368.919,
+      "end": 374.12,
+      "text": "caso, como la inflación es alta y lo"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 371.44,
+      "end": 375.52,
+      "text": "único que hm se cuestiona para subir"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 374.12,
+      "end": 377.16,
+      "text": "tipos es si la economía está lo"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 375.52,
+      "end": 379.68,
+      "text": "suficientemente bien, en cuanto hay"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 377.16,
+      "end": 381.16,
+      "text": "buenos datos, eh el mercado se los toma"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 379.68,
+      "end": 382.759,
+      "text": "mal como diciendo, \"Bueno, se vienen las"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 381.16,
+      "end": 385.36,
+      "text": "subidas de tipos, ¿no?\" Entonces, en"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 382.759,
+      "end": 387.08000000000004,
+      "text": "este caso, pues good news cami bad news."
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 385.36,
+      "end": 388.44,
+      "text": "Esto, evidentemente, para llegar a"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 387.08,
+      "end": 390.479,
+      "text": "pensar de esta manera, tienes que tener"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 388.44,
+      "end": 392.639,
+      "text": "muy claro los agentes macroeconómicos y"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 390.479,
+      "end": 395.71999999999997,
+      "text": "tienes que entender lo bueno de esto es"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 392.639,
+      "end": 396.88,
+      "text": "que como no vamos a tradear e no tenéis"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 395.72,
+      "end": 398.96000000000004,
+      "text": "que adivinar qué va a hacer el precio."
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 396.88,
+      "end": 400.12,
+      "text": "Estamos intentando explicar lo que ya he"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 398.96,
+      "end": 402.31899999999996,
+      "text": "hecho. Es decir, si a mí me hubieras"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 400.12,
+      "end": 404.56,
+      "text": "preguntado, Andrés, ¿van a subir el dato"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 402.319,
+      "end": 405.84000000000003,
+      "text": "de el dato macro va a ser muy bueno? Yo"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 404.56,
+      "end": 407.16,
+      "text": "probablemente, porque lo hemos visto"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 405.84,
+      "end": 408.88,
+      "text": "bastante en los mercados, tú hubieras"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 407.16,
+      "end": 410.91900000000004,
+      "text": "dicho, bueno, pues si es bueno, yo creo"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 408.88,
+      "end": 413.24,
+      "text": "que el mercado subir no va a subir"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 410.919,
+      "end": 415.31899999999996,
+      "text": "porque le va a dar miedo el el la subida"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 413.24,
+      "end": 417.44,
+      "text": "de tipos. A lo mejor no me hubiera"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 415.319,
+      "end": 419.47900000000004,
+      "text": "aventurado a decir, \"Oye, el SP va a"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 417.44,
+      "end": 421.319,
+      "text": "caer medio punto solo por el dato.\""
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 419.479,
+      "end": 422.479,
+      "text": "Quizá no. ¿Por qué? Porque nunca sabes"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 421.319,
+      "end": 423.96000000000004,
+      "text": "del todo cómo va a reaccionar el"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 422.479,
+      "end": 426.28,
+      "text": "mercado. Pero sí que me hubiera atrevido"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 423.96,
+      "end": 428.52,
+      "text": "a decir perfectamente que un dato bueno"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 426.28,
+      "end": 430.599,
+      "text": "macroeconómico a día de hoy que dé"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 428.52,
+      "end": 432.24,
+      "text": "fortaleza a la economía americana no se"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 430.599,
+      "end": 437.08,
+      "text": "va a interpretar como un muy buen dato"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 432.24,
+      "end": 438.759,
+      "text": "porque lo que va a acercar es eh el al a"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 437.08,
+      "end": 440.24,
+      "text": "la economía americana a subir tipos y"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 438.759,
+      "end": 442.28000000000003,
+      "text": "eso no es positivo para los mercados,"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 440.24,
+      "end": 444.039,
+      "text": "¿no? Con lo cual aquí de primeras esto."
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 442.28,
+      "end": 445.67999999999995,
+      "text": "¿Qué es lo otro curioso? Pues yo viendo"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 444.039,
+      "end": 448.24,
+      "text": "esto he dicho, vamos a ver si se"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 445.68,
+      "end": 449.72,
+      "text": "acercan, si mi tesis es buena y yo estoy"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 448.24,
+      "end": 451.08,
+      "text": "explicando esto de una forma adecuada,"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 449.72,
+      "end": 452.639,
+      "text": "voy a decir, \"Oye, ¿qué pasa con la"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 451.08,
+      "end": 455.44,
+      "text": "divisa?\" Vale, pues la divisa en este"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 452.639,
+      "end": 457.879,
+      "text": "caso es el dólar. Si van a subir tipos,"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 455.44,
+      "end": 461.319,
+      "text": "subir tipos aprecia la moneda, fortalece"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 457.879,
+      "end": 462.40000000000003,
+      "text": "la moneda. ¿Vale? Eh, entonces, ¿por qué"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 461.319,
+      "end": 464.03900000000004,
+      "text": "es esto? Bueno, hay muchas formas de"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 462.4,
+      "end": 466.23999999999995,
+      "text": "explicarlo, pero la normal es, oye, si"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 464.039,
+      "end": 468.44,
+      "text": "yo subo tipos, mi activo libre de riesgo"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 466.24,
+      "end": 470.24,
+      "text": "paga más. como paga más, recibo más"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 468.44,
+      "end": 473.599,
+      "text": "entradas de otras monedas para"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 470.24,
+      "end": 475.199,
+      "text": "invertirlo en eh los nuevos bonos que"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 473.599,
+      "end": 477.71999999999997,
+      "text": "pagarán un tipo superior, ¿vale? Es"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 475.199,
+      "end": 479.24,
+      "text": "decir, entran entradas a la moneda. En"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 477.72,
+      "end": 481.199,
+      "text": "este caso, ¿cómo se ve el dólar?"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 479.24,
+      "end": 483.08,
+      "text": "Normalmente comparado contra el euro,"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 481.199,
+      "end": 485.639,
+      "text": "puesto que es el par euroólar, el euro"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 483.08,
+      "end": 489.08,
+      "text": "está delante, necesitaríamos ver un"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 485.639,
+      "end": 491.0,
+      "text": "eurodólar cayendo en picado, eh, para"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 489.08,
+      "end": 492.12,
+      "text": "justificar que la tesis, todo lo que"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 491.0,
+      "end": 494.96,
+      "text": "estoy explicando yo ahora, tenga"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 492.12,
+      "end": 496.84000000000003,
+      "text": "sentido. Si nos vamos al eurodólar,"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 494.96,
+      "end": 499.79999999999995,
+      "text": "aquí lo veis, ¿vale? Aquí lo veis"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 496.84,
+      "end": 502.71999999999997,
+      "text": "reciente. Esto es de ahora. Esto es en"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 499.8,
+      "end": 504.56,
+      "text": "lo que va de día. Una primera caída al"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 502.72,
+      "end": 506.47900000000004,
+      "text": "vacío, después un ligero repunte que,"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 504.56,
+      "end": 507.8,
+      "text": "bueno, esto es volatilidad y otra vez ya"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 506.479,
+      "end": 510.639,
+      "text": "estamos otra vez en mínimos. De hecho"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 507.8,
+      "end": 511.96000000000004,
+      "text": "estamos tocando 1139, ¿vale? Con lo cual"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 510.639,
+      "end": 513.719,
+      "text": "podemos justificar que lo que yo os he"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 511.96,
+      "end": 515.7189999999999,
+      "text": "explicado anteriormente es real. Es"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 513.719,
+      "end": 517.279,
+      "text": "real. Se está asumiendo que las subidas"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 515.719,
+      "end": 518.8000000000001,
+      "text": "de tipos el mercado lo descuenta todo y"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 517.279,
+      "end": 520.519,
+      "text": "el mercado va mucho antes de que las"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 518.8,
+      "end": 522.8389999999999,
+      "text": "cosas ocurran, ¿o no? Entonces se está"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 520.519,
+      "end": 523.919,
+      "text": "descontando que la subida de tipos eh va"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 522.839,
+      "end": 525.24,
+      "text": "a ocurrir. ¿Por qué? Porque si la"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 523.919,
+      "end": 527.0,
+      "text": "economía está fuerte y la inflación está"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 525.24,
+      "end": 528.48,
+      "text": "alta, ¿qué problemas hay para que suban"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 527.0,
+      "end": 529.76,
+      "text": "tipos? ¿No? ¿Qué [resoplido] otras cosas"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 528.48,
+      "end": 531.16,
+      "text": "tienen que ver afectadas? Pues también"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 529.76,
+      "end": 533.72,
+      "text": "lo dicho, el oro tiene que estar"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 531.16,
+      "end": 536.4399999999999,
+      "text": "cayendo. Efectivamente, aquí lo vemos."
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 533.72,
+      "end": 538.36,
+      "text": "¿Por qué? Porque la inflación eh, en"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 536.44,
+      "end": 540.2790000000001,
+      "text": "este caso, la inflación, hay muchas"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 538.36,
+      "end": 542.0790000000001,
+      "text": "formas de explicarlo. Una es pues que si"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 540.279,
+      "end": 543.8389999999999,
+      "text": "el tipo de interés libre de riesgo paga"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 542.079,
+      "end": 546.399,
+      "text": "bien, es decir, si los tipos van a subir"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 543.839,
+      "end": 548.6,
+      "text": "y todos esos bonos libres de riesgo van"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 546.399,
+      "end": 551.0,
+      "text": "a pagar bien, el coste de oportunidad de"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 548.6,
+      "end": 552.88,
+      "text": "tener oro debajo de tu cama es es más"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 551.0,
+      "end": 555.399,
+      "text": "alto, ¿vale? porque tienes algo que sí"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 552.88,
+      "end": 558.079,
+      "text": "que te paga y te paga mejor. Eh,"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 555.399,
+      "end": 559.279,
+      "text": "entonces normalmente, además, hay muchas"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 558.079,
+      "end": 560.56,
+      "text": "más formas de explicar esto. Por"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 559.279,
+      "end": 562.12,
+      "text": "ejemplo, el oro últimamente tiene una"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 560.56,
+      "end": 563.5999999999999,
+      "text": "correlación muy alta con los mercados, o"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 562.12,
+      "end": 565.92,
+      "text": "sea, se comporta totalmente como un"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 563.6,
+      "end": 567.32,
+      "text": "activo de riesgo, ¿vale? Entonces, si"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 565.92,
+      "end": 569.36,
+      "text": "los mercados caen, pues estamos viendo"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 567.32,
+      "end": 570.519,
+      "text": "normalmente el oro caer. Bitcoin debería"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 569.36,
+      "end": 571.88,
+      "text": "hacer probablemente lo mismo. Es verdad"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 570.519,
+      "end": 573.92,
+      "text": "que, mira, aquí lo vemos. Es verdad que"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 571.88,
+      "end": 576.24,
+      "text": "Bitcoin es más nuevo y podría estar"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 573.92,
+      "end": 577.68,
+      "text": "equivocado en este aspecto, pero 3 cuart"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 576.24,
+      "end": 580.6,
+      "text": "de lo mismo, ¿vale? ¿Por qué? porque"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 577.68,
+      "end": 582.0,
+      "text": "estamos hablando de que e estas subidas"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 580.6,
+      "end": 583.9200000000001,
+      "text": "de tipos van a afectar a los activos"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 582.0,
+      "end": 585.32,
+      "text": "libres de a los activos de riesgo y"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 583.92,
+      "end": 586.64,
+      "text": "además van a hacer más atractivo el"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 585.32,
+      "end": 588.279,
+      "text": "costo de oportunidad, que es tenerlo en"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 586.64,
+      "end": 589.959,
+      "text": "un activo libre de riesgo pagando una"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 588.279,
+      "end": 591.76,
+      "text": "rentabilidad superior, ¿no? Eh,"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 589.959,
+      "end": 593.88,
+      "text": "probablemente, no lo he mirado, pues los"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 591.76,
+      "end": 595.519,
+      "text": "bonos eh también estarán mal,"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 593.88,
+      "end": 597.8,
+      "text": "efectivamente. Vale, aquí vemos los,"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 595.519,
+      "end": 600.16,
+      "text": "mira, están muy mal los bonos porque los"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 597.8,
+      "end": 602.399,
+      "text": "yields, que es el inverso del bono,"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 600.16,
+      "end": 604.48,
+      "text": "están subiendo de forma drástica. Es"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 602.399,
+      "end": 606.68,
+      "text": "decir, un muy buen dato de empleo lo que"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 604.48,
+      "end": 608.48,
+      "text": "ha hecho es afectar negativamente a casi"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 606.68,
+      "end": 610.4799999999999,
+      "text": "todos los activos de riesgo. En este"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 608.48,
+      "end": 612.48,
+      "text": "caso, porque se está dando por hecho que"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 610.48,
+      "end": 614.36,
+      "text": "las subidas de tipos van a ser eh"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 612.48,
+      "end": 615.9590000000001,
+      "text": "innegociables."
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 614.36,
+      "end": 616.9590000000001,
+      "text": "Y esto yo entiendo que esto es"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 615.959,
+      "end": 618.88,
+      "text": "complicado, que a lo mejor yo os lo"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 616.959,
+      "end": 621.279,
+      "text": "cuento y ahora lo entendéis todo, pero"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 618.88,
+      "end": 624.8,
+      "text": "eh esto es algo bastante común, ¿vale?"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 621.279,
+      "end": 626.4399999999999,
+      "text": "Los mercados interpretan las cosas según"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 624.8,
+      "end": 630.4799999999999,
+      "text": "convenga, ¿vale? ya os explicaba un"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 626.44,
+      "end": 632.2790000000001,
+      "text": "escenario en el que eh momentos de"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 630.48,
+      "end": 633.839,
+      "text": "inflación eran muy positivos y tomados"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 632.279,
+      "end": 635.519,
+      "text": "muy positivos por el mercado, de por fin"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 633.839,
+      "end": 637.5600000000001,
+      "text": "recuperamos un poco de inflación eh"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 635.519,
+      "end": 638.88,
+      "text": "relacionado con el crecimiento. Eh y"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 637.56,
+      "end": 641.3199999999999,
+      "text": "ahora es todo lo contrario, hará un buen"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 638.88,
+      "end": 642.68,
+      "text": "dato de de de la economía americana, que"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 641.32,
+      "end": 644.44,
+      "text": "por cierto está bastante fuerte o no lo"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 642.68,
+      "end": 647.04,
+      "text": "está haciendo nada mal."
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 644.44,
+      "end": 648.44,
+      "text": "se asume con una subida de tipos futura"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 647.04,
+      "end": 649.92,
+      "text": "que a lo mejor antes podía estar un poco"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 648.44,
+      "end": 651.72,
+      "text": "en duda, pero que ahora cada vez pues lo"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 649.92,
+      "end": 653.8,
+      "text": "estará menos, ¿no? Y por tanto pues"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 651.72,
+      "end": 655.24,
+      "text": "todos los activos de riesgo eh caen."
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 653.8,
+      "end": 656.76,
+      "text": "Esto estoy seguro que se podía"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 655.24,
+      "end": 658.44,
+      "text": "extrapolar a otros tipos de activos"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 656.76,
+      "end": 661.36,
+      "text": "quizá menos mainstream, ¿vale? pues yo"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 658.44,
+      "end": 664.0400000000001,
+      "text": "que sé, algunas otras otras commodities"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 661.36,
+      "end": 665.9590000000001,
+      "text": "o o otro tipo de de bonos, otro tipo de"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 664.04,
+      "end": 667.399,
+      "text": "deuda o lo que sea, no estoy seguro,"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 665.959,
+      "end": 669.3199999999999,
+      "text": "pero bueno, aquí por lo menos os he"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 667.399,
+      "end": 670.88,
+      "text": "hecho una síntesis de los activos"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 669.32,
+      "end": 672.5600000000001,
+      "text": "principales, de lo que es la divisa, el"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 670.88,
+      "end": 674.399,
+      "text": "oro, la renta variable, la renta fija,"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 672.56,
+      "end": 676.3599999999999,
+      "text": "etcétera, etcétera, unido a datos"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 674.399,
+      "end": 677.92,
+      "text": "macroeconómicos más o menos importantes."
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 676.36,
+      "end": 679.24,
+      "text": "Este dato no es que fuera muy muy"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 677.92,
+      "end": 681.0,
+      "text": "importante mi opinión, pero el dato ha"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 679.24,
+      "end": 683.9590000000001,
+      "text": "sido muy fuerte, el dato ha sido muy"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 681.0,
+      "end": 685.44,
+      "text": "bueno, muy bueno. Entonces, eso pues la"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 683.959,
+      "end": 687.8389999999999,
+      "text": "ha llenado al mercado de dudas de decir,"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 685.44,
+      "end": 690.24,
+      "text": "\"Oye, en esta economía sí o sí van a"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 687.839,
+      "end": 694.0790000000001,
+      "text": "subir tipos, ¿no? Vamos a descontarlo ya"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 690.24,
+      "end": 695.9590000000001,
+      "text": "en el mercado metiendo ese eh ese ese"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 694.079,
+      "end": 697.4799999999999,
+      "text": "riesgo, digamos, en los activos en los"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 695.959,
+      "end": 698.6389999999999,
+      "text": "activos de riesgo, nunca mejor dicho. Y"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 697.48,
+      "end": 699.8000000000001,
+      "text": "nada, chicos, esto es un vídeo"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 698.639,
+      "end": 701.2,
+      "text": "improvisado, pero para que entendáis un"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 699.8,
+      "end": 702.399,
+      "text": "poquito más cómo funcionan los mercados."
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 701.2,
+      "end": 703.839,
+      "text": "Si os ha gustado, me podéis dejar un"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 702.399,
+      "end": 706.32,
+      "text": "like y nosotros nos vemos en el"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 703.839,
+      "end": 706.32,
+      "text": "siguiente vídeo."
+    }
+  ]
+}

@@ -1,0 +1,2011 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=2WWY768v-mk",
+    "video_id": "2WWY768v-mk",
+    "title": "Batiendo a los Mercados Globales: Resultados de la Cartera del Canal (Julio)",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a ver qué tal lo ha hecho la cartera del canal durante el mes de Julio.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-08-02",
+    "duration_seconds": 577,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:26:41+00:00"
+  },
+  "stats": {
+    "segment_count": 271,
+    "chunk_count": 9,
+    "speaker_count": 0,
+    "word_count": 1862,
+    "character_count": 9816,
+    "time_span_seconds": 579
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1173,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:11",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal la pizarra de Andrés en el día de hoy venimos con un clásico del canal, qué tal han ido los mercados y qué tal ha ido la cartera del canal durante este mes de julio, ¿vale? Para ello muchos ya sabéis la forma en la que lo vamos a medir, pero para los que sois más nuevos, pues nada, simplemente lo que hacemos es entender o comparar, mejor dicho, el el balance de la cartera de este mes de final de este mes contra el balance de la cartera del final del mes anterior, ver la diferencia y ver si la cartera ha ganado o no ha ganado dinero. También veremos qué tipos de activos han contribuido a esa ganancia o esa pérdida y por último lo compararemos con el índice mundial, ¿vale? Eh ya se anticipo que no ha sido, una vez más, eh ya van dos seguidos, el mes más sencillo de mercados, pero también os digo que más o menos lo hemos salvado bien y sorprendentemente el mercado también. Y es que aunque ha habido muchísimo ruido durante este mes con un montón de cosas eh relacionadas, pues, eh principalmente con el mercado americano, ya sea por por eh las decisiones de Trump en Irán o por las decisiones de tipos de interés o"
+    },
+    {
+      "index": 1,
+      "text_start": 1174,
+      "text_end": 2339,
+      "time_start_iso": "00:01:08",
+      "time_end_iso": "00:02:21",
+      "speakers": [],
+      "text": "incluso por la deuda americana, eh pues a pesar de todo eso, el el lo que es el mercado global o podemos decir incluso el mercado americano no lo han hecho del todo mal, ¿vale? Eh ya sabéis que todo esto lo traqueamos en un Excel que es lo que vamos a empezar viendo, que os envío en la newsletter, los que no estáis apuntados os podéis apuntar en el enlace de la descripción, ¿no? Entonces, ¿qué es lo que tenemos aquí? Bueno, esta primera parte es una comparación, como ya sabéis, de una cartera real, yo la he llamado, esto podríamos incluso cambiarle el nombre a MSCI World más emergentes, ¿vale? Eh que la comparamos con directamente con la cartera metal, ¿vale? La cartera metal es el roboadvisor es el roboadvisor de My Investor, ¿vale? Em si os fijáis en este periodo, como emergentes ha tenido una caída más o menos eh significativa, aunque el último día ha recuperado ya algo, pues, eh, ha retrocedido un poco más esta cartera que tiene un componente emergente es un poquito mayor y ha pasado de estar por encima de la metal a estar, pues, más o menos a la altura, ¿vale? Aquí lo vemos, 6.625, 6.641, 41. Em, las dos funcionando bastante bien porque tanto"
+    },
+    {
+      "index": 2,
+      "text_start": 2340,
+      "text_end": 3540,
+      "time_start_iso": "00:02:16",
+      "time_end_iso": "00:03:30",
+      "speakers": [],
+      "text": "6.600 como 6, bueno, 6.621, 25 y 6.641, si os fijáis, van por encima de lo que serían 6.284 el escenario de subir un 9% anualizado. Esto quiere decir que ambas carteras desde inicio, es decir, desde octubre del 24, están retornando por encima del 9%, con lo cual, la indexación bastante bien y como siempre digo, pues, si si os queréis indexar a través de un par de fondos indexados o de la cartera metal, vais a ver que los resultados son similares, ¿no? Volviendo a, eh, bueno, esto se podría comprar, se podría comprobar con esta cantidad que hay aquí de la cartera metal y con en este caso la suma entre Trea y Trea Renta Fija y Global y Bankinter Renta Fija Markets, ¿vale? Eh, abriendo ya esta pestaña de fondos, bueno, aquí vemos que, salvo China que está teniendo muy mal año, em, mu, espectacular y hay que hacer mención de lo bien que lo está haciendo en un en un año tan difícil MyInvestor Value, em, ya sabéis que esta cartera proviene de otra cartera que hicimos, eh, anteriormente que lo cambié de una cuenta a otra. Em, en este fondo estaríamos más 40% desde inicio en cuestión de unos 18, 20 meses, una cosa así, con lo cual sería, yo creo que, prácticamente el mejor fondo que hemos,"
+    },
+    {
+      "index": 3,
+      "text_start": 3541,
+      "text_end": 4736,
+      "time_start_iso": "00:03:28",
+      "time_end_iso": "00:04:32",
+      "speakers": [],
+      "text": "eh, cogido de largo plazo. Todo esto sin hablar de de aquel fondo de Robeco que que vendimos con una plusvalía de aproximadamente el 50%, ¿no? Eh, luego tenemos Caixa que es un fondo defensivo que también lo está haciendo bien para el riesgo que tiene. Oro ya está en verde, con lo cual, muy bien también. Oro es otro de los, eh, principales fondos de gestión activa value españoles que que el cual también espero bastante a largo plazo. MSCI World emergentes, mmm, bueno, ya lo hemos tocado, ¿vale? Es la parte que va en indexación y eh Abaco sería uno de los fondos defensivos y Evercapital, que es un mixto agresivo, por decirlo de alguna forma, también increíblemente bien, cerca de un 10% en el año. Entonces, emm, en general, los fondos bastante bien. Es cierto que a lo mejor no llaman tanto la atención como otros activos de la cartera, porque muchos de estos fondos, como puede ser Kaiser o Abaco o incluso China, que lo está haciendo mal, pero bueno, sobre todo Kaiser y Abaco, emm, como tal, pues son fondos que no tienen el riesgo ni las eh eh perspectivas de ganar lo mismo que los fondos de renta variable, con lo cual, siempre hay una parte de la cartera que está en vehículos más"
+    },
+    {
+      "index": 4,
+      "text_start": 4737,
+      "text_end": 5934,
+      "time_start_iso": "00:04:31",
+      "time_end_iso": "00:05:37",
+      "speakers": [],
+      "text": "defensivos, ¿no? Y en la parte de acciones, ¿vale? Pues eh bueno, ya ya lo veis que llevo principalmente desde hace bastante tiempo posicionado en empresas en empresas en concreto. No ha sido el mejor mes para ninguna de ellas, es cierto que al final Nextil ha cerrado el mes cerca de máximos, con lo cual, más o menos ha cumplido con el mes. Emm, aunque por el camino, pues también había corregido. Eh Amper, tampoco lo ha hecho mal en el mes, pero los últimos días se ha venido un poco abajo. Y OHL es la que más se ha corregido, ¿vale? Eh de igual forma, lo que yo digo siempre, si tus tesis más o menos son claras, eh no abandonas la empresa si sube o si baja, solamente si crees que el el el plan que está ejecutando, pues se deteriora o o no va a ocurrir, ¿no? Luego tengo un poquito de dinero en Icértis, donde, pues bueno, tampoco espero no no soy, por la cantidad de dinero que tengo, no no estoy muy metidísimo en el día a día de la empresa, simplemente una oportunidad que le he querido dar a medio plazo, emm, para ver si un poco el el plan que querían ejecutar, pues ocurre, ¿no? Es una forma de, digamos, como yo digo, de seguir la empresa, si no si no pongo algo de dinero, entonces"
+    },
+    {
+      "index": 5,
+      "text_start": 5935,
+      "text_end": 7117,
+      "time_start_iso": "00:05:34",
+      "time_end_iso": "00:06:51",
+      "speakers": [],
+      "text": "no sigo la empresa, ¿no? Emm, pero bueno, estas tres son principalmente las apuestas que eh espero que se acaben desarrollando, aunque eh no podemos pasar por alto las plusvalías que llevamos aquí ni las plusvalías que llevábamos en la cuenta anterior, porque si no me equivoco la en los tres Em, valores teníamos ya plusvalías en la cuenta anterior, ¿no? Con lo cual muy bien. Esto hace un resultado total de 185.179 euros que tiene la cartera Que si nos vamos a la segunda ficha, la segunda página, vemos que eh son 12.000 y pico euros más que el mes pasado, pero Como eh se agregaron 10.000 euros, agregué 10.000 euros a la cartera, pues en este caso la rentabilidad real es de un 1,13%. No he ganado 12.000 euros en el periodo, sino que más bien he ganado unos 2.000. Que esto equivale a un 1,13% y a una ganancia de 1.953,15 euros, ¿vale? Con lo cual de primeras hemos ganado un 1% durante julio. Que oye, que no está mal, porque si alguien Em Anualizar este 1% nos iríamos a retornos de doble dígito anuales Eh del 13 o del 14% anuales, con lo cual estaría muy bien. Y además ha sido un un un mes que no ha sido Del todo fácil, ¿no? Quizá las sensaciones y para mi sorpresa es"
+    },
+    {
+      "index": 6,
+      "text_start": 7118,
+      "text_end": 8314,
+      "time_start_iso": "00:06:48",
+      "time_end_iso": "00:08:09",
+      "speakers": [],
+      "text": "que eh el mes haya acabado tan Eh tan bien para los mercados globales. ¿Por qué digo esto? Porque si pinchamos aquí en el índice El benchmark, que en este caso tengo un MSCI World en euros normal y corriente ¿Vale? Eh y ponemos Monthly, o sea, lo que es mensual El el resultado, vemos que el índice mundial cayó un 0,14%, que es muy poco en comparación con todo el ruido que hemos tenido referente a la deuda, referente a semiconductores, referente al precio del Brent, eh referente a las las decisiones de tipos, referente a todo esto, si después de todo este mes estamos sacando con un S&P 500 en 7.475, que está muy cerca de 7.500, que es Eh digamos que el la barrera que le ha costado tanto sobrepasar, es cierto que hizo máximos, si no recuerdo mal, en 7.600 y pico, pero que el estaba sigue se mantiene bastante fuerte el mercado igualmente, pues me ha sorprendido. De igual forma, pues más o menos contento, porque aquí lo vemos, bueno, en este caso me toca corregir esto aquí, hay que poner un 1,13% que es el resultado final. Eso. ¿Vale? Un 1,13% eh con respecto al -0,14 del índice. Eso quiere decir que si hubiéramos empezado un fondo en 100, hoy estaríamos en 162,84, es decir, un 62%"
+    },
+    {
+      "index": 7,
+      "text_start": 8315,
+      "text_end": 9508,
+      "time_start_iso": "00:08:07",
+      "time_end_iso": "00:09:24",
+      "speakers": [],
+      "text": "desde enero del 25, nada mal, porque estamos hablando de 17 meses, en 17 meses un 62% contra eh un 19,98%, un 20%, que no está mal tampoco, dicho sea de paso, en el mismo periodo en el MSCI World, ¿vale? Con lo cual nuestra em ventaja contra el índice es de un es de 42,86 puntos. Evidentemente, y yo soy consciente, esto no es sostenible en el tiempo. Eh y por otro lado em yo estoy utilizando una cartera con unos riesgos muy dispares a lo que son comprar 2,000 empresas que tienen estos estos fondos, ¿no? Em así que nada, eh simplemente, pues aquí vemos una vez más la la diferencia y esto es lo que quedaría en el gráfico, que es eh pues la diferencia entre lo que ha sido mi gestión y lo que ha sido el índice mundial, que, por cierto, un 20% en 17 meses no está nada mal, está bastante en línea con el histórico habitual de este tipo de de fondos o un poquito por encima, mejor dicho, ¿no? Em así que nada, en general, más o menos un un buen un buen mes o un mes salvado, como yo diría. Es cierto que a todos nos gusta ver em subidas superiores en nuestros eh en nuestro dinero, pero eh que me ha sorprendido que este mes tan complejo y con tantas cosas se haya resuelto de esta manera."
+    },
+    {
+      "index": 8,
+      "text_start": 9509,
+      "text_end": 9816,
+      "time_start_iso": "00:09:23",
+      "time_end_iso": "00:09:38",
+      "speakers": [],
+      "text": "Si os ha gustado, chicos, me podéis dejar un comentario, me podéis dejar un like, podéis traeros a alguien a que vea mi contenido y ya sabéis que estoy en directo a menudo por si queréis preguntarme cualquier cosa. Eh lo dicho, chicos, nos vemos en el en el siguiente vídeo. Se despide La Pizarra de Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.88,
+      "end": 5.68,
+      "text": "mi canal la pizarra de Andrés en el día"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.32,
+      "end": 7.92,
+      "text": "de hoy venimos con un clásico del canal,"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 5.68,
+      "end": 10.6,
+      "text": "qué tal han ido los mercados y qué tal"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 7.92,
+      "end": 12.64,
+      "text": "ha ido la cartera del canal durante este"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 10.6,
+      "end": 14.6,
+      "text": "mes de julio, ¿vale? Para ello muchos ya"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 12.64,
+      "end": 16.76,
+      "text": "sabéis la forma en la que lo vamos a"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 14.6,
+      "end": 18.4,
+      "text": "medir, pero para los que sois más"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 16.76,
+      "end": 21.68,
+      "text": "nuevos, pues nada, simplemente lo que"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 18.4,
+      "end": 25.2,
+      "text": "hacemos es entender o comparar, mejor"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 21.68,
+      "end": 26.759999999999998,
+      "text": "dicho, el el balance de la cartera de"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 25.2,
+      "end": 29.0,
+      "text": "este mes de final de este mes contra el"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 26.76,
+      "end": 31.6,
+      "text": "balance de la cartera del final del mes"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 29.0,
+      "end": 33.84,
+      "text": "anterior, ver la diferencia y ver si la"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 31.6,
+      "end": 36.800000000000004,
+      "text": "cartera ha ganado o no ha ganado dinero."
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 33.84,
+      "end": 38.800000000000004,
+      "text": "También veremos qué tipos de activos han"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 36.8,
+      "end": 41.599999999999994,
+      "text": "contribuido a esa ganancia o esa pérdida"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 38.8,
+      "end": 44.28,
+      "text": "y por último lo compararemos con el"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 41.6,
+      "end": 46.96,
+      "text": "índice mundial, ¿vale? Eh ya se anticipo"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 44.28,
+      "end": 49.92,
+      "text": "que no ha sido, una vez más, eh ya van"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 46.96,
+      "end": 52.0,
+      "text": "dos seguidos, el mes más sencillo de"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 49.92,
+      "end": 53.84,
+      "text": "mercados, pero también os digo que más o"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 52.0,
+      "end": 55.4,
+      "text": "menos lo hemos salvado bien y"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 53.84,
+      "end": 57.24,
+      "text": "sorprendentemente el mercado también. Y"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 55.4,
+      "end": 59.96,
+      "text": "es que aunque ha habido muchísimo ruido"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 57.24,
+      "end": 62.400000000000006,
+      "text": "durante este mes con un montón de cosas"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 59.96,
+      "end": 64.68,
+      "text": "eh relacionadas, pues, eh principalmente"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 62.4,
+      "end": 67.08,
+      "text": "con el mercado americano, ya sea por por"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 64.68,
+      "end": 68.80000000000001,
+      "text": "eh las decisiones de Trump en Irán o por"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 67.08,
+      "end": 71.12,
+      "text": "las decisiones de tipos de interés o"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 68.8,
+      "end": 74.24,
+      "text": "incluso por la deuda americana, eh pues"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 71.12,
+      "end": 76.2,
+      "text": "a pesar de todo eso, el el lo que es el"
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 74.24,
+      "end": 78.03999999999999,
+      "text": "mercado global o podemos decir incluso"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 76.2,
+      "end": 80.28,
+      "text": "el mercado americano no lo han hecho del"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 78.04,
+      "end": 82.08000000000001,
+      "text": "todo mal, ¿vale? Eh ya sabéis que todo"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 80.28,
+      "end": 84.72,
+      "text": "esto lo traqueamos en un Excel que es lo"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 82.08,
+      "end": 85.8,
+      "text": "que vamos a empezar viendo, que os envío"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 84.72,
+      "end": 88.36,
+      "text": "en la newsletter, los que no estáis"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 85.8,
+      "end": 90.52,
+      "text": "apuntados os podéis apuntar en el"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 88.36,
+      "end": 92.24,
+      "text": "enlace de la descripción, ¿no? Entonces,"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 90.52,
+      "end": 94.39999999999999,
+      "text": "¿qué es lo que tenemos aquí? Bueno,"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 92.24,
+      "end": 96.8,
+      "text": "esta primera parte es una comparación,"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 94.4,
+      "end": 98.28,
+      "text": "como ya sabéis, de una cartera real, yo"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 96.8,
+      "end": 99.64,
+      "text": "la he llamado, esto podríamos incluso"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 98.28,
+      "end": 103.88,
+      "text": "cambiarle el nombre a MSCI World más"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 99.64,
+      "end": 103.88,
+      "text": "emergentes, ¿vale? Eh"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 103.96,
+      "end": 107.03999999999999,
+      "text": "que la comparamos con directamente con"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 105.76,
+      "end": 108.52000000000001,
+      "text": "la cartera metal, ¿vale? La cartera"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 107.04,
+      "end": 110.52000000000001,
+      "text": "metal es el roboadvisor es el"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 108.52,
+      "end": 113.32,
+      "text": "roboadvisor de My Investor, ¿vale?"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 110.52,
+      "end": 115.52,
+      "text": "Em si os fijáis en este periodo, como"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 113.32,
+      "end": 118.75999999999999,
+      "text": "emergentes ha tenido una caída más o"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 115.52,
+      "end": 121.44,
+      "text": "menos eh significativa, aunque el último"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 118.76,
+      "end": 123.04,
+      "text": "día ha recuperado ya algo, pues, eh, ha"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 121.44,
+      "end": 124.24,
+      "text": "retrocedido un poco más esta cartera que"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 123.04,
+      "end": 126.28,
+      "text": "tiene un componente emergente es un"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 124.24,
+      "end": 128.79999999999998,
+      "text": "poquito mayor y ha pasado de estar por"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 126.28,
+      "end": 130.32,
+      "text": "encima de la metal a estar, pues, más o"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 128.8,
+      "end": 135.48000000000002,
+      "text": "menos a la altura, ¿vale? Aquí lo vemos,"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 130.32,
+      "end": 136.92,
+      "text": "6.625, 6.641, 41. Em, las dos"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 135.48,
+      "end": 141.51999999999998,
+      "text": "funcionando bastante bien porque tanto"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 136.92,
+      "end": 144.44,
+      "text": "6.600 como 6, bueno, 6.621, 25 y 6.641,"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 141.52,
+      "end": 146.76000000000002,
+      "text": "si os fijáis, van por encima de lo que"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 144.44,
+      "end": 148.76,
+      "text": "serían 6.284"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 146.76,
+      "end": 150.2,
+      "text": "el escenario de subir un 9% anualizado."
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 148.76,
+      "end": 152.72,
+      "text": "Esto quiere decir que ambas carteras"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 150.2,
+      "end": 155.35999999999999,
+      "text": "desde inicio, es decir, desde octubre"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 152.72,
+      "end": 157.6,
+      "text": "del 24, están retornando por encima del"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 155.36,
+      "end": 160.52,
+      "text": "9%, con lo cual, la indexación bastante"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 157.6,
+      "end": 162.48,
+      "text": "bien y como siempre digo, pues, si si os"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 160.52,
+      "end": 164.76000000000002,
+      "text": "queréis indexar a través de un par de"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 162.48,
+      "end": 166.16,
+      "text": "fondos indexados o de la cartera metal,"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 164.76,
+      "end": 168.79999999999998,
+      "text": "vais a ver que los resultados son"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 166.16,
+      "end": 170.6,
+      "text": "similares, ¿no? Volviendo a, eh, bueno,"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 168.8,
+      "end": 173.0,
+      "text": "esto se podría comprar, se podría"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 170.6,
+      "end": 175.2,
+      "text": "comprobar con esta cantidad que hay aquí"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 173.0,
+      "end": 177.16,
+      "text": "de la cartera metal y con en este caso"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 175.2,
+      "end": 178.67999999999998,
+      "text": "la suma entre Trea y Trea Renta Fija y"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 177.16,
+      "end": 180.79999999999998,
+      "text": "Global y Bankinter Renta Fija Markets,"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 178.68,
+      "end": 183.08,
+      "text": "¿vale? Eh, abriendo ya esta pestaña de"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 180.8,
+      "end": 186.04000000000002,
+      "text": "fondos, bueno, aquí vemos que, salvo"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 183.08,
+      "end": 187.04000000000002,
+      "text": "China que está teniendo muy mal año, em,"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 186.04,
+      "end": 188.64,
+      "text": "mu,"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 187.04,
+      "end": 190.16,
+      "text": "espectacular y hay que hacer mención de"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 188.64,
+      "end": 192.55999999999997,
+      "text": "lo bien que lo está haciendo en un en un"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 190.16,
+      "end": 194.44,
+      "text": "año tan difícil MyInvestor Value, em, ya"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 192.56,
+      "end": 196.239,
+      "text": "sabéis que esta cartera"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 194.44,
+      "end": 198.12,
+      "text": "proviene de otra cartera que hicimos,"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 196.239,
+      "end": 200.519,
+      "text": "eh, anteriormente que lo cambié de una"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 198.12,
+      "end": 202.44,
+      "text": "cuenta a otra. Em, en este fondo"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 200.519,
+      "end": 204.48000000000002,
+      "text": "estaríamos más 40% desde inicio en"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 202.44,
+      "end": 206.12,
+      "text": "cuestión de unos 18, 20 meses, una cosa"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 204.48,
+      "end": 208.32,
+      "text": "así, con lo cual sería, yo creo que,"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 206.12,
+      "end": 210.959,
+      "text": "prácticamente el mejor fondo que hemos,"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 208.32,
+      "end": 212.84,
+      "text": "eh, cogido de largo plazo. Todo esto sin"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 210.959,
+      "end": 214.68,
+      "text": "hablar de de aquel fondo de Robeco que"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 212.84,
+      "end": 217.08,
+      "text": "que vendimos con una plusvalía de"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 214.68,
+      "end": 219.56,
+      "text": "aproximadamente el 50%, ¿no? Eh, luego"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 217.08,
+      "end": 220.68,
+      "text": "tenemos Caixa que es un fondo defensivo"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 219.56,
+      "end": 222.519,
+      "text": "que también lo está haciendo bien para"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 220.68,
+      "end": 223.88,
+      "text": "el riesgo que tiene. Oro ya está en"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 222.519,
+      "end": 226.20000000000002,
+      "text": "verde, con lo cual, muy bien también."
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 223.88,
+      "end": 228.6,
+      "text": "Oro es otro de los, eh, principales"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 226.2,
+      "end": 230.959,
+      "text": "fondos de gestión activa value españoles"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 228.6,
+      "end": 233.51999999999998,
+      "text": "que que el cual también espero bastante"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 230.959,
+      "end": 235.24,
+      "text": "a largo plazo. MSCI World emergentes,"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 233.52,
+      "end": 237.72,
+      "text": "mmm, bueno, ya lo hemos tocado, ¿vale?"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 235.24,
+      "end": 239.56,
+      "text": "Es la parte que va en indexación y eh"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 237.72,
+      "end": 241.88,
+      "text": "Abaco sería uno de los fondos defensivos"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 239.56,
+      "end": 243.6,
+      "text": "y Evercapital, que es un mixto agresivo,"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 241.88,
+      "end": 245.51999999999998,
+      "text": "por decirlo de alguna forma, también"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 243.6,
+      "end": 248.84,
+      "text": "increíblemente bien, cerca de un 10% en"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 245.52,
+      "end": 250.44,
+      "text": "el año. Entonces, emm, en general, los"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 248.84,
+      "end": 251.88,
+      "text": "fondos bastante bien. Es cierto que a lo"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 250.44,
+      "end": 253.52,
+      "text": "mejor no llaman tanto la atención como"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 251.88,
+      "end": 254.92,
+      "text": "otros activos de la cartera, porque"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 253.52,
+      "end": 257.12,
+      "text": "muchos de estos fondos, como puede ser"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 254.92,
+      "end": 258.4,
+      "text": "Kaiser o Abaco o incluso China, que lo"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 257.12,
+      "end": 261.48,
+      "text": "está haciendo mal, pero bueno, sobre"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 258.4,
+      "end": 263.919,
+      "text": "todo Kaiser y Abaco, emm, como tal, pues"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 261.48,
+      "end": 266.88,
+      "text": "son fondos que no tienen el riesgo ni"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 263.919,
+      "end": 268.32,
+      "text": "las eh eh perspectivas de ganar lo mismo"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 266.88,
+      "end": 269.56,
+      "text": "que los fondos de renta variable, con lo"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 268.32,
+      "end": 271.12,
+      "text": "cual, siempre hay una parte de la"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 269.56,
+      "end": 272.84,
+      "text": "cartera que está en vehículos más"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 271.12,
+      "end": 275.0,
+      "text": "defensivos, ¿no? Y en la parte de"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 272.84,
+      "end": 276.79999999999995,
+      "text": "acciones, ¿vale? Pues eh bueno, ya ya lo"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 275.0,
+      "end": 278.4,
+      "text": "veis que llevo principalmente desde hace"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 276.8,
+      "end": 280.36,
+      "text": "bastante tiempo posicionado en empresas"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 278.4,
+      "end": 281.96,
+      "text": "en empresas en concreto. No ha sido el"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 280.36,
+      "end": 283.48,
+      "text": "mejor mes para ninguna de ellas, es"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 281.96,
+      "end": 286.0,
+      "text": "cierto que al final Nextil ha cerrado el"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 283.48,
+      "end": 288.56,
+      "text": "mes cerca de máximos, con lo cual, más o"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 286.0,
+      "end": 290.56,
+      "text": "menos ha cumplido con el mes."
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 288.56,
+      "end": 293.12,
+      "text": "Emm, aunque por el camino, pues también"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 290.56,
+      "end": 294.64,
+      "text": "había corregido. Eh Amper,"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 293.12,
+      "end": 296.2,
+      "text": "tampoco lo ha hecho mal en el mes, pero"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 294.64,
+      "end": 297.47999999999996,
+      "text": "los últimos días se ha venido un poco"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 296.2,
+      "end": 299.24,
+      "text": "abajo."
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 297.48,
+      "end": 301.24,
+      "text": "Y OHL es la que más se ha corregido,"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 299.24,
+      "end": 303.28000000000003,
+      "text": "¿vale? Eh de igual forma, lo que yo digo"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 301.24,
+      "end": 304.40000000000003,
+      "text": "siempre, si tus tesis más o menos son"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 303.28,
+      "end": 306.23999999999995,
+      "text": "claras,"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 304.4,
+      "end": 309.15999999999997,
+      "text": "eh no abandonas la empresa si sube o si"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 306.24,
+      "end": 310.6,
+      "text": "baja, solamente si crees que el el el"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 309.16,
+      "end": 312.68,
+      "text": "plan que está ejecutando, pues se"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 310.6,
+      "end": 313.76000000000005,
+      "text": "deteriora o o no va a ocurrir, ¿no?"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 312.68,
+      "end": 316.32,
+      "text": "Luego tengo un poquito de dinero en"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 313.76,
+      "end": 317.4,
+      "text": "Icértis, donde, pues bueno, tampoco"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 316.32,
+      "end": 319.56,
+      "text": "espero"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 317.4,
+      "end": 321.84,
+      "text": "no no soy, por la cantidad de dinero que"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 319.56,
+      "end": 323.28000000000003,
+      "text": "tengo, no no estoy muy metidísimo en el"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 321.84,
+      "end": 324.96,
+      "text": "día a día de la empresa, simplemente una"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 323.28,
+      "end": 327.88,
+      "text": "oportunidad que le he querido dar a"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 324.96,
+      "end": 329.35999999999996,
+      "text": "medio plazo, emm, para ver si un poco el"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 327.88,
+      "end": 331.12,
+      "text": "el plan que querían ejecutar, pues"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 329.36,
+      "end": 332.84000000000003,
+      "text": "ocurre, ¿no? Es una forma de, digamos,"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 331.12,
+      "end": 334.919,
+      "text": "como yo digo, de seguir la empresa, si"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 332.84,
+      "end": 337.03999999999996,
+      "text": "no si no pongo algo de dinero, entonces"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 334.919,
+      "end": 338.4,
+      "text": "no sigo la empresa, ¿no? Emm, pero"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 337.04,
+      "end": 340.8,
+      "text": "bueno, estas tres son principalmente las"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 338.4,
+      "end": 343.4,
+      "text": "apuestas que eh espero que se acaben"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 340.8,
+      "end": 344.96000000000004,
+      "text": "desarrollando, aunque eh no podemos"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 343.4,
+      "end": 346.84,
+      "text": "pasar por alto las plusvalías que"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 344.96,
+      "end": 348.68,
+      "text": "llevamos aquí ni las plusvalías que"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 346.84,
+      "end": 351.08,
+      "text": "llevábamos en la cuenta anterior, porque"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 348.68,
+      "end": 353.24,
+      "text": "si no me equivoco la en los tres"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 351.08,
+      "end": 354.4,
+      "text": "Em, valores teníamos ya plusvalías en la"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 353.24,
+      "end": 357.0,
+      "text": "cuenta anterior, ¿no? Con lo cual muy"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 354.4,
+      "end": 358.76,
+      "text": "bien. Esto hace un resultado total de"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 357.0,
+      "end": 360.68,
+      "text": "185.179"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 358.76,
+      "end": 362.56,
+      "text": "euros que tiene la cartera"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 360.68,
+      "end": 366.12,
+      "text": "Que si nos vamos a la segunda ficha, la"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 362.56,
+      "end": 369.24,
+      "text": "segunda página, vemos que eh son 12.000"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 366.12,
+      "end": 371.84000000000003,
+      "text": "y pico euros más que el mes pasado, pero"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 369.24,
+      "end": 373.76,
+      "text": "Como eh se agregaron 10.000 euros,"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 371.84,
+      "end": 376.59999999999997,
+      "text": "agregué 10.000 euros a la cartera, pues"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 373.76,
+      "end": 379.08,
+      "text": "en este caso la rentabilidad real es de"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 376.6,
+      "end": 380.91900000000004,
+      "text": "un 1,13%. No he ganado 12.000 euros en"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 379.08,
+      "end": 382.2,
+      "text": "el periodo, sino que más bien he ganado"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 380.919,
+      "end": 385.03999999999996,
+      "text": "unos 2.000."
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 382.2,
+      "end": 387.4,
+      "text": "Que esto equivale a un 1,13% y a una"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 385.04,
+      "end": 389.20000000000005,
+      "text": "ganancia de 1.953,15"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 387.4,
+      "end": 391.52,
+      "text": "euros, ¿vale? Con lo cual de primeras"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 389.2,
+      "end": 394.03999999999996,
+      "text": "hemos ganado un 1% durante julio. Que"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 391.52,
+      "end": 395.12,
+      "text": "oye, que no está mal, porque si alguien"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 394.04,
+      "end": 397.40000000000003,
+      "text": "Em"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 395.12,
+      "end": 400.24,
+      "text": "Anualizar este 1% nos iríamos a retornos"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 397.4,
+      "end": 401.88,
+      "text": "de doble dígito anuales Eh del 13 o del"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 400.24,
+      "end": 404.76,
+      "text": "14% anuales, con lo cual estaría muy"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 401.88,
+      "end": 406.56,
+      "text": "bien. Y además ha sido un un un mes que"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 404.76,
+      "end": 408.84,
+      "text": "no ha sido Del todo fácil, ¿no? Quizá"
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 406.56,
+      "end": 411.64,
+      "text": "las sensaciones y para mi sorpresa es"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 408.84,
+      "end": 413.47999999999996,
+      "text": "que eh el mes haya acabado tan"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 411.64,
+      "end": 415.0,
+      "text": "Eh tan bien para los mercados globales."
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 413.48,
+      "end": 416.8,
+      "text": "¿Por qué digo esto? Porque si pinchamos"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 415.0,
+      "end": 418.48,
+      "text": "aquí en el índice"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 416.8,
+      "end": 421.04,
+      "text": "El benchmark, que en este caso tengo un"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 418.48,
+      "end": 423.20000000000005,
+      "text": "MSCI World en euros normal y corriente"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 421.04,
+      "end": 425.56,
+      "text": "¿Vale? Eh y ponemos"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 423.2,
+      "end": 427.8,
+      "text": "Monthly, o sea, lo que es mensual"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 425.56,
+      "end": 430.12,
+      "text": "El el resultado, vemos que el índice"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 427.8,
+      "end": 432.6,
+      "text": "mundial cayó un 0,14%,"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 430.12,
+      "end": 434.24,
+      "text": "que es muy poco en comparación con todo"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 432.6,
+      "end": 435.88,
+      "text": "el ruido que hemos tenido referente a la"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 434.24,
+      "end": 437.919,
+      "text": "deuda, referente a semiconductores,"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 435.88,
+      "end": 440.12,
+      "text": "referente al precio del Brent, eh"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 437.919,
+      "end": 442.2,
+      "text": "referente a las las decisiones de tipos,"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 440.12,
+      "end": 444.16,
+      "text": "referente a todo esto, si después de"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 442.2,
+      "end": 446.96,
+      "text": "todo este mes estamos sacando con un S&P"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 444.16,
+      "end": 448.91900000000004,
+      "text": "500 en 7.475, que está muy cerca de"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 446.96,
+      "end": 451.2,
+      "text": "7.500, que es"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 448.919,
+      "end": 453.59999999999997,
+      "text": "Eh digamos que el la barrera que le ha"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 451.2,
+      "end": 454.96,
+      "text": "costado tanto sobrepasar, es cierto que"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 453.6,
+      "end": 458.08000000000004,
+      "text": "hizo máximos, si no recuerdo mal, en"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 454.96,
+      "end": 459.52,
+      "text": "7.600 y pico, pero que el estaba sigue"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 458.08,
+      "end": 462.68,
+      "text": "se mantiene bastante fuerte el mercado"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 459.52,
+      "end": 463.91999999999996,
+      "text": "igualmente, pues me ha sorprendido."
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 462.68,
+      "end": 465.44,
+      "text": "De igual forma, pues más o menos"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 463.92,
+      "end": 467.8,
+      "text": "contento, porque aquí lo vemos, bueno,"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 465.44,
+      "end": 470.2,
+      "text": "en este caso me toca corregir esto aquí,"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 467.8,
+      "end": 472.12,
+      "text": "hay que poner un 1,13%"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 470.2,
+      "end": 473.24,
+      "text": "que es el resultado final."
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 472.12,
+      "end": 475.56,
+      "text": "Eso."
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 473.24,
+      "end": 478.64,
+      "text": "¿Vale? Un 1,13%"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 475.56,
+      "end": 480.64,
+      "text": "eh con respecto al -0,14 del índice. Eso"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 478.64,
+      "end": 482.0,
+      "text": "quiere decir que si hubiéramos empezado"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 480.64,
+      "end": 485.32,
+      "text": "un fondo"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 482.0,
+      "end": 487.4,
+      "text": "en 100, hoy estaríamos en 162,84, es"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 485.32,
+      "end": 489.88,
+      "text": "decir, un 62%"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 487.4,
+      "end": 492.76,
+      "text": "desde enero del 25, nada mal, porque"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 489.88,
+      "end": 494.6,
+      "text": "estamos hablando de 17 meses, en 17"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 492.76,
+      "end": 498.919,
+      "text": "meses un 62%"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 494.6,
+      "end": 501.96000000000004,
+      "text": "contra eh un 19,98%, un 20%, que no está"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 498.919,
+      "end": 503.76,
+      "text": "mal tampoco, dicho sea de paso, en el"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 501.96,
+      "end": 507.12,
+      "text": "mismo periodo en el MSCI World, ¿vale?"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 503.76,
+      "end": 509.64,
+      "text": "Con lo cual nuestra em ventaja contra el"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 507.12,
+      "end": 511.68,
+      "text": "índice es de un es de 42,86 puntos."
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 509.64,
+      "end": 514.28,
+      "text": "Evidentemente, y yo soy consciente, esto"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 511.68,
+      "end": 515.36,
+      "text": "no es sostenible en el tiempo. Eh y por"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 514.28,
+      "end": 517.24,
+      "text": "otro lado"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 515.36,
+      "end": 519.32,
+      "text": "em yo estoy utilizando una cartera con"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 517.24,
+      "end": 521.08,
+      "text": "unos riesgos muy dispares a lo que son"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 519.32,
+      "end": 523.9190000000001,
+      "text": "comprar 2,000 empresas que tienen estos"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 521.08,
+      "end": 525.72,
+      "text": "estos fondos, ¿no? Em así que nada, eh"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 523.919,
+      "end": 527.4,
+      "text": "simplemente, pues aquí vemos una vez más"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 525.72,
+      "end": 529.64,
+      "text": "la la diferencia y esto es lo que"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 527.4,
+      "end": 531.8389999999999,
+      "text": "quedaría en el gráfico,"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 529.64,
+      "end": 533.12,
+      "text": "que es eh pues la diferencia entre lo"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 531.839,
+      "end": 534.48,
+      "text": "que ha sido mi gestión y lo que ha sido"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 533.12,
+      "end": 537.44,
+      "text": "el índice mundial, que, por cierto, un"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 534.48,
+      "end": 539.48,
+      "text": "20% en 17 meses no está nada mal, está"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 537.44,
+      "end": 541.6400000000001,
+      "text": "bastante en línea con el histórico"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 539.48,
+      "end": 543.8000000000001,
+      "text": "habitual de este tipo de de fondos o un"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 541.64,
+      "end": 546.4,
+      "text": "poquito por encima, mejor dicho, ¿no?"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 543.8,
+      "end": 549.3199999999999,
+      "text": "Em así que nada, en general, más o menos"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 546.4,
+      "end": 551.0799999999999,
+      "text": "un un buen un buen mes o un mes salvado,"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 549.32,
+      "end": 553.24,
+      "text": "como yo diría. Es cierto que a todos nos"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 551.08,
+      "end": 556.6800000000001,
+      "text": "gusta ver em subidas superiores en"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 553.24,
+      "end": 559.64,
+      "text": "nuestros eh en nuestro dinero, pero eh"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 556.68,
+      "end": 561.88,
+      "text": "que me ha sorprendido que este mes tan"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 559.64,
+      "end": 563.28,
+      "text": "complejo y con tantas cosas se haya"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 561.88,
+      "end": 564.4399999999999,
+      "text": "resuelto de esta manera."
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 563.28,
+      "end": 565.92,
+      "text": "Si os ha gustado, chicos, me podéis"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 564.44,
+      "end": 568.2,
+      "text": "dejar un comentario, me podéis dejar un"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 565.92,
+      "end": 569.8,
+      "text": "like, podéis traeros a alguien a que vea"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 568.2,
+      "end": 571.48,
+      "text": "mi contenido y ya sabéis que estoy en"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 569.8,
+      "end": 573.5999999999999,
+      "text": "directo a menudo por si queréis"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 571.48,
+      "end": 575.4,
+      "text": "preguntarme cualquier cosa. Eh lo dicho,"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 573.6,
+      "end": 578.8000000000001,
+      "text": "chicos, nos vemos en el en el siguiente"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 575.4,
+      "end": 578.8,
+      "text": "vídeo. Se despide La Pizarra de Andrés."
+    }
+  ]
+}

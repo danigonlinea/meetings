@@ -1,0 +1,3381 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=GFlW2l6LKWA",
+    "video_id": "GFlW2l6LKWA",
+    "title": "Aprende a Detectar un MAL Fondo Mixto antes de Invertir",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a aprender a analizar un fondo mixto para saber si es una buena o una mala inversión.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-09-06",
+    "duration_seconds": 914,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:24:04+00:00"
+  },
+  "stats": {
+    "segment_count": 459,
+    "chunk_count": 15,
+    "speaker_count": 0,
+    "word_count": 3186,
+    "character_count": 16909,
+    "time_span_seconds": 916
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1173,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:04",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal La Pizarra de Andrés. En el día de hoy traigo otro de esos vídeos que tanto me pedís, que es saber identificar si un fondo es bueno o malo, esta vez edición fondos mixtos. Como bien sabéis, un fondo mixto requiere un tipo de inversión mixta, como su nombre implica, entre renta variable y renta fija. Es cierto que los fondos mixtos, en función de la cantidad de renta variable y de renta fija que puedan tener, los podríamos llegar a considerar como en dos subgrupos, que podrían ser mixtos defensivos o incluso tres subgrupos, mixtos defensivos, mixtos moderados y mixtos agresivos. Y esto va a ir en función, evidentemente, como su nombre indica, en el porcentual que tengan de más de renta variable o menos de renta fija, ¿no? En este caso, eh he cogido tres ejemplos, os los voy un poco a diferenciar y eh os voy a enseñar a que no os tomen el pelo y a que entendáis si vuestro fondo mixto es lo suficientemente bueno o por el contrario os están tomando el pelo. En primer lugar, bueno, he cogido fondos que son muy obvios, en este caso cogí un fondo que parece mentira ni que exista, ¿vale? No voy a no no voy a dar el"
+    },
+    {
+      "index": 1,
+      "text_start": 1174,
+      "text_end": 2362,
+      "time_start_iso": "00:01:02",
+      "time_end_iso": "00:02:01",
+      "speakers": [],
+      "text": "nombre, aunque así le veáis en pantalla. Si vosotros veis un fondo que es un mixto flexible, que pone aquí, bueno, también hay mixtos flexibles en los que se le permite al gestor jugar un poco con las cantidades de renta fija y renta variable, esos son un poco más difícil de reconocer si son mejores o peores, porque siempre existe la duda de, oye, durante estos retornos del pasado tuvo más o menos renta variable, tuvo más o menos renta fija, con lo cual es más complicado. Pero bueno, el primer tipo de fondo mixto que quiero del que quiero hablar es aquel fondo mixto en el que pues se ve muy obvio, en este caso, mmm, me cuesta creer que esto exista, eh he tenido que incluso, bueno, no la tengo por aquí la ficha, he tenido que incluso bajarme la ficha para ver que esto fuera verdad. Si veis un fondo que hace esto, pues evidentemente, no hay mucho que mirar. Hay fondos, evidentemente cogí un caso muy claro, pero si tú ves un eh mixto agresivo, por ejemplo, y en un entorno tan bueno de los mercados como el que hemos visto recientemente, eh no veis unos retornos eh alcistas consistentes, pues dices, oye, esto es un mixto agresivo, esto tiene que tener una parte importante de"
+    },
+    {
+      "index": 2,
+      "text_start": 2363,
+      "text_end": 3549,
+      "time_start_iso": "00:01:59",
+      "time_end_iso": "00:02:59",
+      "speakers": [],
+      "text": "renta variable. Sin embargo, los últimos 5 años ha ganado un un 3% anualizado. Pues, oye, si veis eso, salid corriendo. Es decir, hay algunos fondos, y quiero usar este de ejemplo, donde no se necesita mucho conocimiento para ver si eh ha cumplido un poco, ¿no? Eh también es cierto que con el conocimiento que os voy a dar en el resto de fondos, los podéis extrapolar a más o menos haceros una idea de si ese fondo que no da tantas señales, porque es un mixto flexible, eh o o porque es un mixto donde no no encuentras bien la distribución de del fondo, pues podéis hacer un haceros un poco la idea, siempre y cuando sepáis si es un mixto más tirando agresivo, más defensivo o lo que sea, ¿vale? El segundo fondo que vamos a ver, que creo que os va a dar los conocimientos mínimos para ya empezar a entender cómo se hace esto, es este de aquí, un fondo de BBVA normal y corriente. Me lo pasaron recientemente en un directo, me dijeron, \"Andrés, ¿qué opinas de este fondo?\" Les dije, y yo dije, \"Oye, voy a hacer un vídeo para explicaros y deciros a ciencia cierta si este fondo es bueno o malo.\" A priori, este Quality Inversión Moderada, pues ya vemos que es un mixto moderado, con lo"
+    },
+    {
+      "index": 3,
+      "text_start": 3550,
+      "text_end": 4750,
+      "time_start_iso": "00:02:57",
+      "time_end_iso": "00:04:01",
+      "speakers": [],
+      "text": "cual ya podríamos llegar a asumir que probablemente tenga algo entre el 30, el 40 o el 50% de renta variable, ¿vale? Y vemos que tiene unos retornos más o menos aceptables. Es decir, en este caso, pues de primeras, nadie puede decirte si este fondo es bueno o malo. Es decir, hay que hacer una pequeña comprobación eh para saber si es bueno o malo. ¿Cómo se puede hacer? Normalmente yendo pa yéndote para atrás, aunque, que es lo que vamos a hacer ahora, aunque también se podría hacer pues con el year to date, que es esto de aquí, los últimos 12 meses, o eh bueno, en este caso los últimos 12 meses, el year to date, que sería lo que lleva de año, que es este 5,44 de aquí, o los últimos 3 años. Por ejemplo, por comodidad vamos a 3 años, ya que me parece una eh un un un histórico lo suficientemente alto como para asumir que el fondo no ha cambiado mucho en esa en esa en esa distribución de activos durante sus sus últimos 3 años. ¿Cómo sabemos, en este caso, eh este es el tipo de fondo número dos, eh cómo sabemos si es bueno o malo? Lo mejor que nos puede pasar es que en Finect o en cualquier otro sitio, en una ficha del fondo, donde sea, nos den lo que llaman aquí benchmark. Ya sabéis que"
+    },
+    {
+      "index": 4,
+      "text_start": 4751,
+      "text_end": 5949,
+      "time_start_iso": "00:03:59",
+      "time_end_iso": "00:05:04",
+      "speakers": [],
+      "text": "el benchmark es el índice de referencia, es con lo que se va a comparar el fondo. Entonces, sabiendo cuál es el benchmark, puedo irme yo y decidir, oye, ¿cómo haría yo eh este índice de referencia con mis fondos preferidos o con fondos lo más parecido a indexados posibles para no tener ese sesgo de yo lo hubiera hecho mejor con estos fondos y voy a compararlo. Entonces, ¿qué es lo que tenemos aquí? Bueno, pues podemos por por ejemplo a 3 años y veni- cogemos un Excel y decir, vale, tenemos aquí una rentabilidad del 6,98%, ¿vale? Eh vamos a compararlo solo por la parte de la rentabilidad porque asumimos que si el benchmark es este, la volatilidad será parecida, es decir, el riesgo que emplee este benchmark y el riesgo que emplea este fondo con esta volatilidad, pues asumimos que sea parecido. ¿Qué es lo que tenemos aquí? 25% de Eonia. Para los que no lo sepáis, pues simplemente le preguntáis a la IA qué es el Eonia, ya os lo digo yo, es el eh euro overnight rate, digamos, o sea, el tipo de interés eh digamos que el Euribor a un día, el tipo de interés interbancario de préstamos de un día, es decir, eh lo que sería mercado monetario o similar. Hay muchos fondos monetarios que si os"
+    },
+    {
+      "index": 5,
+      "text_start": 5950,
+      "text_end": 7139,
+      "time_start_iso": "00:05:02",
+      "time_end_iso": "00:06:12",
+      "speakers": [],
+      "text": "fijáis en las fichas, ponen que tienen cash. No es que sea cash, es que son préstamos de un día y te permiten en la ficha poner cash cuando son préstamos de un día. Entonces, esto equivale a monetario, con lo cual aquí lo que tendremos es 25% monetario, ¿vale? ¿Vale? Entonces, lo que vamos a hacer primero es, oye, hm ¿qué tengo? 25% monetario, ¿vale? Me voy a mi monetario de confianza, por ejemplo Groupama, podéis el que queráis, me da igual, ¿vale? Y nos vamos, por ejemplo, al resultado de 3 años, que es un 3,06, ¿vale? Pues en este caso, en los últimos 3 años este esta categoría tendría que haber dado un 3,6%. Si lo multiplicamos por el peso que tiene en este caso el benchmark, sabemos que hay 0,77 puntos que tendrían que provenir del monetario, ¿vale? ¿Qué es lo siguiente que tienen? Nos lo pone muy sencillito. Bueno, pues cerramos ya Groupama y lo siguiente que tienes 40 MSCI World, vaya, este nos suena a todos, ¿no? Pues en este caso nos vamos a Fidelity MSCI World, nos vamos al retorno de los últimos 3 años, que es un 16,91, aquí es donde se van a empezar a ver un poco las costuras y decimos, oye, 40%. Aquí ponemos MSCI World. ¿Vale? Y en este caso estamos hablando"
+    },
+    {
+      "index": 6,
+      "text_start": 7140,
+      "text_end": 8306,
+      "time_start_iso": "00:06:10",
+      "time_end_iso": "00:07:29",
+      "speakers": [],
+      "text": "de que esto tiene una rentabilidad a 3 años del 16,91. 16,91%. Vale. [resoplido] En este caso esto le daría una aportación de 6,76% a ese fondo que sería un fondo que podríamos haber creado nosotros con muy poquito conocimiento, de momento con solamente Groupama y con MSCI World ya sabemos que el fondo, este fondo en concreto, no es bueno. ¿Por qué? Porque la suma de estas dos categorías, es decir, solo he sumado un 65% de la eh de lo que sería la composición de este fondo y yo ya sumaría un 7, 53% eh solamente eh con la eh suma de estos dos fondos, con lo cual hm lo que a lo que a priori o en principio parecía un fondo decente, que podría ser esto, que no parece un fondo malo, ya sabemos de primeras que es malo. Ahora queremos ver cómo de malo, ¿vale? Pues muy sencillo, seguimos con el mismo con el mismo em con las mismas preguntas. De momento he sacado un 65% de la comparación con el benchmark y ahora me voy a ir al 35% restante. Esto, por si no lo sabéis, es un índice de bonos de entre 1 y 10 a de entre 1 y 10 años, ¿vale? Entonces, 35% esto sería el yo yo pondría aquí bonos eh esto sería corto medio, ¿vale? Eh esto es lo más complicado de sacar"
+    },
+    {
+      "index": 7,
+      "text_start": 8307,
+      "text_end": 9473,
+      "time_start_iso": "00:07:27",
+      "time_end_iso": "00:08:37",
+      "speakers": [],
+      "text": "porque aquí, oye, eh Andrés, ¿cómo vas a sacar esto sin barrer mucho para casa? Porque yo podría decir, oye, con mis con mis fondos preferidos este, este y este, estos fondos están haciendo X, ¿vale? [resoplido] Lo que voy a hacer es sin barrer para casa, es Es cogiendo el peor fondo que puedo de esta categoría, que sería el Vanguard Global Bond, que es el que peor lo ha hecho porque es deuda gubernamental durante 3 años, esto sería lo peor de lo peor, sería un 2%, es decir, como mínimo, como mínimo, esto a 3 años ha hecho un 1,98%, esto sería lamentable. Yo no tendría una cartera de 35% Vanguard Global Bond, que son solo bonos gubernamentales. Y en este caso, eh, aún así, si cogiera la peor opción posible, el fondo que hubiéramos hecho de una forma regulera con Groupama, con MSCI World y con Vanguard Global Bond, sería 1,822% la rentabilidad esperada incluyendo las comisiones de esos fondos de sus de sus respectivos fondos, con lo cual, en el peor de los escenarios, este fondo nos está dejando de ganar o nos está haciendo perder un 1, 24%, que sería la diferencia entre esto y esto, ¿vale? Es lo que nos están quitando por una gestión que no hacemos"
+    },
+    {
+      "index": 8,
+      "text_start": 9474,
+      "text_end": 10666,
+      "time_start_iso": "00:08:35",
+      "time_end_iso": "00:09:47",
+      "speakers": [],
+      "text": "nosotros adecuadamente. ¿Cuál es, en mi opinión, lo realista? Pues si tú cogieras fondos del estilo, los que, pues, un poco los que conocéis todos, ¿vale? Voy a Carmignac Portfolio Credit, que, por ejemplo, este año está bastante flojo para no barrer para casa, ¿vale? Si cogemos Carmignac Portfolio Credit, que este año lo está haciendo bastante mal, 0,28, a 3 años tiene un 7% de rentabilidad. Si juntáramos Carmignac Portfolio Credit con otros fondos de renta fija gubernamental que lo han hecho peor, a lo mejor esta categoría debería estar dando, como mínimo, ¿vale? Como mínimo, un 4,5% lo que haría que un fondo mixto creado por nosotros con fondos más o menos conocidos por todos vosotros, uno de ellos monetario, otro de ellos indexado y otro una cartera de dos o tres fondos de renta fija de riesgo intermedio, de los que ya conocemos, como mínimo, esta esta suma de de de fondos en estos porcentuales debería dar un 9% un 9,10% analizado, lo que equivale a un 2,12% analizado en los últimos 3 años, con lo cual estamos hablando de más de un 6 y pico por ciento, eh qué es lo que nos estamos dejando de eh de llevar. Si esto fuera lo que para mi gusto son los las los fondos óptimos"
+    },
+    {
+      "index": 9,
+      "text_start": 10667,
+      "text_end": 11832,
+      "time_start_iso": "00:09:45",
+      "time_end_iso": "00:10:50",
+      "speakers": [],
+      "text": "eh en esta categoría probablemente, como habéis visto con con con Carmignac Portfolio, esta categoría creo que en un entorno de normalidad debería estar dando un 5, un 5 y medio, una cosa así, ¿vale? Y creo que es hasta un 2 y medio por ciento lo que estamos dejando de ganar, en mi opinión, en este fondo. Con lo cual, una vez hecho este cálculo, podemos concluir que este fondo está muy lejos de ser óptimo, ¿vale? Em entonces, esta es la forma sencilla de hacerlo porque, digamos, asumiendo que este benchmark sea correcto, que habría que indagar un poquito más, quizá con la IA poder confirmar que este fondo, más o menos, tiene un 35% renta variable, tiene un 25% de liquidez o más o menos liquidez y tiene un 35% de bonos, ¿vale? Eh asumiendo eso, pues podríamos concluir que este fondo es subóptimo. Yo no me voy a poner a investigar si lo que ponen aquí de benchmark está perfectamente buscado o no. Esto, insisto, no creo que un fondo de este estilo mainstream, con unas comisiones altas y tal, sea buen fondo, con lo cual lo que me sale me puede cuadrar bastante con lo que yo tenía en mi cabeza. ¿Qué es lo complicado? Lo complicado es cuando buscas otro"
+    },
+    {
+      "index": 10,
+      "text_start": 11833,
+      "text_end": 13024,
+      "time_start_iso": "00:10:49",
+      "time_end_iso": "00:11:54",
+      "speakers": [],
+      "text": "fondo, en este caso quería buscar un buen fondo, que es este de aquí, Advantage Fund, es un fondo, yo diría que mixto agresivo, ¿vale? Aquí no sé cómo lo catalogan, lo catalogan como mixto flexible. ¿Por qué mixto agresivo? Porque, si te fijas un poco en el histórico, la volatilidad que tiene a 5 años del 9,25, es una volatilidad más o menos eh alegre, ¿vale? Y la volatilidad a 3 años es de un 8,63, que también es una volatilidad ya, pues, por lo menos te diría de tener un 60% renta variable o una cosa así. ¿Qué es lo que pasa? Que cuando no nos dan el benchmark directamen directamente, porque ponen not benchmark, eh hay que buscar la ficha del fondo. Me he ido aquí a a su página, me he buscado su ficha y me he encontrado que tiene 72% renta variable y asumamos que el resto, que más o menos, bueno, tiene un poco de liquidez, en este caso, pues, me imagino que 72 + 25 más los picos son 98, con lo cual, en este caso, ¿qué es lo que tendríamos? Pues, si quisiéramos hacer un cálculo parecido, para darnos un poco idea de de si este fondo lo hace bien o no, que este es un buen fondo, pues, sería más o menos 72% MSCI World, sería más o menos 26%. Podemos bonos corto medio, ¿vale?"
+    },
+    {
+      "index": 11,
+      "text_start": 13025,
+      "text_end": 14192,
+      "time_start_iso": "00:11:53",
+      "time_end_iso": "00:12:58",
+      "speakers": [],
+      "text": "No especifica mucho qué tipo de renta fija tiene, tampoco he investigado mucho, esto es un ejercicio para entenderlo y podríamos poner más o menos 2% monetario, ¿vale? Que sería liquidez, ¿vale? En este caso, una vez ya hemos reconocido más o menos a qué se enfrenta este fondo, es un poco injusto lo que estoy haciendo porque estoy asumiendo que la cartera actual que he visto la ficha eh es la que se ha llevado a cabo los últimos 3 años, pero sí que nos sirve para hacernos una idea, ¿vale? Pues, en este caso, cogeríamos monetario 3%, lo pondríamos aquí, en este caso, la aportación del monetario es poquísima, ¿vale? Lo vamos a ver, es un 0,06 a lo que sería el retorno de los últimos 3 años. La aportación del MSCI World, en este caso, es este 16,91%, no cambia nada, ¿vale? En este caso, a ver, vale, ahí lo vemos, la aportación sería un 12,18 en nuestra cartera y la aportación de los bonos de corto medio, esto sería también opinable, pues, más o menos, pues, si no queremos barrer mucho para casa, pues, podríamos poner un 4%, de tal forma que la rentabilidad que le tendríamos que exigir a este fondo a 5 años es de un 13,28. No sé cuánto sale, nos vamos a"
+    },
+    {
+      "index": 12,
+      "text_start": 14193,
+      "text_end": 15377,
+      "time_start_iso": "00:12:55",
+      "time_end_iso": "00:13:59",
+      "speakers": [],
+      "text": "Finect, miramos a 3 años y vemos que, efectivamente, la rentabilidad es de un 13,50, que es, más o menos, la rentabilidad esperada, es decir, este me constaba [carraspeo] que era un buen fondo y acabo de demostraros cómo es un buen fondo. Ya sería opinable, pues, muchas cosas, ¿no? Eh no sé si alguien del fondo llegará a ver este vídeo, pero si, por ejemplo, durante ese periodo eh el el el fondo ha mantenido una posición más más defensiva y, aun así, ha conseguido esta rentabilidad, pues, el fondo sería significativamente mejor. No sé tampoco si la volatilidad del 8,63% equivale a la volatilidad de lo que yo he calculado aquí, si tiene una volatilidad mejor menor, pues entonces estamos hablando de que el fondo también es significativamente mejor, pero así sobre un poco sobre eh sobre lo calculado, si alguien quisiera yo ya sabéis que prefiero que las carteras, como os os estoy enseñando aquí, os las construyáis vosotros y la cartera acabe siendo mixta en el sentido de que juntéis renta variable y renta fija con lo mejor de cada categoría, porque rara vez encuentras fondos buenos donde más o menos no te tomen el pelo, pero en este caso, pues por ejemplo, este tipo de"
+    },
+    {
+      "index": 13,
+      "text_start": 15378,
+      "text_end": 16574,
+      "time_start_iso": "00:13:58",
+      "time_end_iso": "00:15:00",
+      "speakers": [],
+      "text": "fondos para gente así un poco más vaga, un poco menos con menos de conocimiento, que quiere tener en este caso, pues imaginemos un fondo de riesgo intermedio alto, pues este podría valer. Entonces, este pequeño truco nos sirve para que no nos tomen el pelo y para saber si un fondo mixto, de los cuales yo uso más bien pocos, está bien hecho, eh tiene unas eh unos retornos adecuados o no. Es cierto que esto es una forma de calcularlo de andar por casa, habría que tener muchísimo más conocimiento, sobre todo del pasado del fondo, de las ponderaciones que tuvo el fondo en el pasado, si lo que queremos es comparar el eh ese retorno de reciente, eh pero más o menos, pues para hacernos una idea nos sirve. La moraleja ¿cuál es? Pues que hay tres tipos de fondos, unos donde claramente se ve que son malos, otros donde haciendo unos pequeños cálculos podréis ver si son malos o buenos y otros donde os tendréis que meter la ficha, ver la composición del fondo y entonces hacer un poco ese análisis por vuestra cuenta, asumiendo pues eso, que tenga sentido lo que estáis poniendo, para descubrir si son buenos y malos. Esto sí sería quizás lo más complicado. Y con este pequeño ejercicio, pues ya"
+    },
+    {
+      "index": 14,
+      "text_start": 16575,
+      "text_end": 16909,
+      "time_start_iso": "00:14:58",
+      "time_end_iso": "00:15:15",
+      "speakers": [],
+      "text": "sabréis o lo se lo podéis pasar a aquel amigo vuestro que tiene eh fondos mixtos, pues ya podréis saber si un fondo es bueno o es malo y si os están tomando el pelo o no. Espero que os haya gustado el vídeo, si tenéis dudas me lo podéis poner en comentarios y nosotros nos vemos en el siguiente vídeo. Se despide La Pizarra de Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.6,
+      "end": 5.48,
+      "text": "mi canal La Pizarra de Andrés. En el día"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.0,
+      "end": 7.76,
+      "text": "de hoy traigo otro de esos vídeos que"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 5.48,
+      "end": 9.72,
+      "text": "tanto me pedís, que es saber identificar"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 7.76,
+      "end": 12.2,
+      "text": "si un fondo es bueno o malo, esta vez"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 9.72,
+      "end": 14.84,
+      "text": "edición fondos mixtos. Como bien sabéis,"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 12.2,
+      "end": 17.759999999999998,
+      "text": "un fondo mixto requiere un tipo de"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 14.84,
+      "end": 20.64,
+      "text": "inversión mixta, como su nombre implica,"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 17.76,
+      "end": 23.240000000000002,
+      "text": "entre renta variable y renta fija. Es"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 20.64,
+      "end": 24.44,
+      "text": "cierto que los fondos mixtos, en función"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 23.24,
+      "end": 25.919999999999998,
+      "text": "de la cantidad de renta variable y de"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 24.44,
+      "end": 27.36,
+      "text": "renta fija que puedan tener, los"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 25.92,
+      "end": 29.12,
+      "text": "podríamos llegar a considerar como en"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 27.36,
+      "end": 31.119999999999997,
+      "text": "dos subgrupos, que podrían ser mixtos"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 29.12,
+      "end": 33.36,
+      "text": "defensivos o incluso tres subgrupos,"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 31.12,
+      "end": 35.2,
+      "text": "mixtos defensivos, mixtos moderados y"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 33.36,
+      "end": 36.56,
+      "text": "mixtos agresivos. Y esto va a ir en"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 35.2,
+      "end": 38.6,
+      "text": "función, evidentemente, como su nombre"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 36.56,
+      "end": 40.760000000000005,
+      "text": "indica, en el porcentual que tengan de"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 38.6,
+      "end": 43.32,
+      "text": "más de renta variable o menos de renta"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 40.76,
+      "end": 45.0,
+      "text": "fija, ¿no? En este caso, eh he cogido"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 43.32,
+      "end": 48.52,
+      "text": "tres ejemplos, os los voy un poco a"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 45.0,
+      "end": 50.24,
+      "text": "diferenciar y eh os voy a enseñar a que"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 48.52,
+      "end": 51.6,
+      "text": "no os tomen el pelo y a que entendáis si"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 50.24,
+      "end": 53.56,
+      "text": "vuestro fondo mixto es lo"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 51.6,
+      "end": 55.32,
+      "text": "suficientemente bueno o por el contrario"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 53.56,
+      "end": 57.760000000000005,
+      "text": "os están tomando el pelo."
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 55.32,
+      "end": 59.2,
+      "text": "En primer lugar, bueno, he cogido fondos"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 57.76,
+      "end": 61.04,
+      "text": "que son muy obvios, en este caso cogí un"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 59.2,
+      "end": 62.6,
+      "text": "fondo que parece mentira ni que exista,"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 61.04,
+      "end": 64.28,
+      "text": "¿vale? No voy a no no voy a dar el"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 62.6,
+      "end": 66.48,
+      "text": "nombre, aunque así le veáis en pantalla."
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 64.28,
+      "end": 68.4,
+      "text": "Si vosotros veis un fondo que es un"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 66.48,
+      "end": 70.24000000000001,
+      "text": "mixto flexible, que pone aquí, bueno,"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 68.4,
+      "end": 71.72,
+      "text": "también hay mixtos flexibles en los que"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 70.24,
+      "end": 73.24,
+      "text": "se le permite al gestor jugar un poco"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 71.72,
+      "end": 75.16,
+      "text": "con las cantidades de renta fija y renta"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 73.24,
+      "end": 77.44,
+      "text": "variable, esos son un poco más difícil"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 75.16,
+      "end": 79.44,
+      "text": "de reconocer si son mejores o peores,"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 77.44,
+      "end": 82.08,
+      "text": "porque siempre existe la duda de, oye,"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 79.44,
+      "end": 83.6,
+      "text": "durante estos retornos del pasado"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 82.08,
+      "end": 84.92,
+      "text": "tuvo más o menos renta variable, tuvo"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 83.6,
+      "end": 86.67999999999999,
+      "text": "más o menos renta fija, con lo cual es"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 84.92,
+      "end": 88.36,
+      "text": "más complicado. Pero bueno, el primer"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 86.68,
+      "end": 90.36000000000001,
+      "text": "tipo de fondo mixto que quiero del que"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 88.36,
+      "end": 92.24,
+      "text": "quiero hablar es aquel fondo mixto en el"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 90.36,
+      "end": 94.96,
+      "text": "que pues se ve muy obvio, en este caso,"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 92.24,
+      "end": 96.52,
+      "text": "mmm, me cuesta creer que esto exista, eh"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 94.96,
+      "end": 98.08,
+      "text": "he tenido que incluso, bueno, no la"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 96.52,
+      "end": 99.32,
+      "text": "tengo por aquí la ficha, he tenido que"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 98.08,
+      "end": 100.84,
+      "text": "incluso bajarme la ficha para ver que"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 99.32,
+      "end": 102.67999999999999,
+      "text": "esto fuera verdad. Si veis un fondo que"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 100.84,
+      "end": 104.12,
+      "text": "hace esto, pues evidentemente, no hay"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 102.68,
+      "end": 105.64,
+      "text": "mucho que mirar. Hay fondos,"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 104.12,
+      "end": 108.24000000000001,
+      "text": "evidentemente cogí un caso muy claro,"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 105.64,
+      "end": 110.0,
+      "text": "pero si tú ves un eh mixto agresivo, por"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 108.24,
+      "end": 111.28,
+      "text": "ejemplo, y en un entorno tan bueno de"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 110.0,
+      "end": 114.64,
+      "text": "los mercados como el que hemos visto"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 111.28,
+      "end": 116.76,
+      "text": "recientemente, eh no veis unos retornos"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 114.64,
+      "end": 118.16,
+      "text": "eh alcistas consistentes, pues dices,"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 116.76,
+      "end": 119.36,
+      "text": "oye, esto es un mixto agresivo, esto"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 118.16,
+      "end": 121.32,
+      "text": "tiene que tener una parte importante de"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 119.36,
+      "end": 123.4,
+      "text": "renta variable. Sin embargo, los últimos"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 121.32,
+      "end": 125.52,
+      "text": "5 años ha ganado un un 3% anualizado."
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 123.4,
+      "end": 126.92,
+      "text": "Pues, oye, si veis eso, salid corriendo."
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 125.52,
+      "end": 128.679,
+      "text": "Es decir, hay algunos fondos, y quiero"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 126.92,
+      "end": 131.24,
+      "text": "usar este de ejemplo, donde no se"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 128.679,
+      "end": 133.76,
+      "text": "necesita mucho conocimiento para ver si"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 131.24,
+      "end": 135.20000000000002,
+      "text": "eh ha cumplido un poco, ¿no? Eh también"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 133.76,
+      "end": 136.84,
+      "text": "es cierto que con el conocimiento que os"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 135.2,
+      "end": 138.79999999999998,
+      "text": "voy a dar en el resto de fondos, los"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 136.84,
+      "end": 141.68,
+      "text": "podéis extrapolar a más o menos haceros"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 138.8,
+      "end": 143.16000000000003,
+      "text": "una idea de si ese fondo que no da"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 141.68,
+      "end": 146.36,
+      "text": "tantas señales, porque es un mixto"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 143.16,
+      "end": 147.959,
+      "text": "flexible, eh o o porque es un mixto"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 146.36,
+      "end": 150.04000000000002,
+      "text": "donde no no encuentras bien la"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 147.959,
+      "end": 151.84,
+      "text": "distribución de del fondo, pues podéis"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 150.04,
+      "end": 153.48,
+      "text": "hacer un haceros un poco la idea,"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 151.84,
+      "end": 155.0,
+      "text": "siempre y cuando sepáis si es un mixto"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 153.48,
+      "end": 156.67999999999998,
+      "text": "más tirando agresivo, más defensivo o lo"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 155.0,
+      "end": 157.959,
+      "text": "que sea, ¿vale? El segundo fondo que"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 156.68,
+      "end": 159.76000000000002,
+      "text": "vamos a ver, que creo que os va a dar"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 157.959,
+      "end": 161.8,
+      "text": "los conocimientos mínimos para ya"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 159.76,
+      "end": 163.67999999999998,
+      "text": "empezar a entender cómo se hace esto, es"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 161.8,
+      "end": 165.24,
+      "text": "este de aquí, un fondo de BBVA normal y"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 163.68,
+      "end": 166.92000000000002,
+      "text": "corriente. Me lo pasaron recientemente"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 165.24,
+      "end": 168.52,
+      "text": "en un directo, me dijeron, \"Andrés, ¿qué"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 166.92,
+      "end": 169.92,
+      "text": "opinas de este fondo?\" Les dije, y yo"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 168.52,
+      "end": 172.24,
+      "text": "dije, \"Oye, voy a hacer un vídeo para"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 169.92,
+      "end": 173.64,
+      "text": "explicaros y deciros a ciencia cierta si"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 172.24,
+      "end": 176.08,
+      "text": "este fondo es bueno o malo.\" A priori,"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 173.64,
+      "end": 177.67999999999998,
+      "text": "este Quality Inversión Moderada, pues ya"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 176.08,
+      "end": 179.84,
+      "text": "vemos que es un mixto moderado, con lo"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 177.68,
+      "end": 182.08,
+      "text": "cual ya podríamos llegar a asumir que"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 179.84,
+      "end": 185.12,
+      "text": "probablemente tenga algo entre el 30, el"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 182.08,
+      "end": 186.8,
+      "text": "40 o el 50% de renta variable, ¿vale? Y"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 185.12,
+      "end": 188.48000000000002,
+      "text": "vemos que tiene unos retornos más o"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 186.8,
+      "end": 191.28,
+      "text": "menos aceptables. Es decir, en este"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 188.48,
+      "end": 192.72,
+      "text": "caso, pues de primeras, nadie puede"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 191.28,
+      "end": 193.959,
+      "text": "decirte si este fondo es bueno o malo."
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 192.72,
+      "end": 196.48,
+      "text": "Es decir, hay que hacer una pequeña"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 193.959,
+      "end": 197.8,
+      "text": "comprobación eh para saber si es bueno o"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 196.48,
+      "end": 199.39999999999998,
+      "text": "malo."
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 197.8,
+      "end": 201.44,
+      "text": "¿Cómo se puede hacer? Normalmente yendo"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 199.4,
+      "end": 202.68,
+      "text": "pa yéndote para atrás, aunque, que es lo"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 201.44,
+      "end": 203.92,
+      "text": "que vamos a hacer ahora, aunque también"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 202.68,
+      "end": 205.20000000000002,
+      "text": "se podría hacer pues con el year to"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 203.92,
+      "end": 207.6,
+      "text": "date, que es esto de aquí, los últimos"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 205.2,
+      "end": 209.16,
+      "text": "12 meses, o eh bueno, en este caso los"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 207.6,
+      "end": 210.239,
+      "text": "últimos 12 meses, el year to date, que"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 209.16,
+      "end": 212.76,
+      "text": "sería lo que lleva de año, que es este"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 210.239,
+      "end": 214.72,
+      "text": "5,44 de aquí, o los últimos 3 años. Por"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 212.76,
+      "end": 218.64,
+      "text": "ejemplo, por comodidad vamos a 3"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 214.72,
+      "end": 220.12,
+      "text": "años, ya que me parece una eh un un un"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 218.64,
+      "end": 221.6,
+      "text": "histórico lo suficientemente alto como"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 220.12,
+      "end": 224.12,
+      "text": "para asumir que el fondo no ha cambiado"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 221.6,
+      "end": 225.88,
+      "text": "mucho en esa en esa en esa distribución"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 224.12,
+      "end": 226.84,
+      "text": "de activos durante sus sus últimos 3"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 225.88,
+      "end": 229.239,
+      "text": "años."
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 226.84,
+      "end": 231.72,
+      "text": "¿Cómo sabemos, en este caso, eh este es"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 229.239,
+      "end": 233.52,
+      "text": "el tipo de fondo número dos,"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 231.72,
+      "end": 234.64,
+      "text": "eh cómo sabemos si es bueno o malo? Lo"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 233.52,
+      "end": 236.28,
+      "text": "mejor que nos puede pasar es que en"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 234.64,
+      "end": 238.16,
+      "text": "Finect o en cualquier otro sitio, en una"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 236.28,
+      "end": 239.76,
+      "text": "ficha del fondo, donde sea, nos den lo"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 238.16,
+      "end": 241.44,
+      "text": "que llaman aquí benchmark. Ya sabéis que"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 239.76,
+      "end": 243.32,
+      "text": "el benchmark es el índice de referencia,"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 241.44,
+      "end": 245.84,
+      "text": "es con lo que se va a comparar el fondo."
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 243.32,
+      "end": 247.84,
+      "text": "Entonces, sabiendo cuál es el benchmark,"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 245.84,
+      "end": 249.12,
+      "text": "puedo irme yo y decidir, oye, ¿cómo"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 247.84,
+      "end": 251.20000000000002,
+      "text": "haría yo"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 249.12,
+      "end": 253.72,
+      "text": "eh este índice de referencia con mis"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 251.2,
+      "end": 255.23999999999998,
+      "text": "fondos preferidos o con fondos lo más"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 253.72,
+      "end": 257.16,
+      "text": "parecido a indexados posibles para no"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 255.24,
+      "end": 259.0,
+      "text": "tener ese sesgo de yo lo hubiera hecho"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 257.16,
+      "end": 260.20000000000005,
+      "text": "mejor con estos fondos y voy a"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 259.0,
+      "end": 261.76,
+      "text": "compararlo. Entonces, ¿qué es lo que"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 260.2,
+      "end": 263.96,
+      "text": "tenemos aquí? Bueno, pues podemos por"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 261.76,
+      "end": 266.12,
+      "text": "por ejemplo a 3 años"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 263.96,
+      "end": 268.56,
+      "text": "y veni- cogemos un Excel y decir, vale,"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 266.12,
+      "end": 269.48,
+      "text": "tenemos aquí una rentabilidad del 6,98%,"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 268.56,
+      "end": 271.12,
+      "text": "¿vale?"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 269.48,
+      "end": 272.6,
+      "text": "Eh vamos a compararlo solo por la parte"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 271.12,
+      "end": 274.64,
+      "text": "de la rentabilidad porque asumimos que"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 272.6,
+      "end": 276.04,
+      "text": "si el benchmark es este, la volatilidad"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 274.64,
+      "end": 278.12,
+      "text": "será parecida, es decir, el riesgo que"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 276.04,
+      "end": 280.48,
+      "text": "emplee este benchmark y el riesgo que"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 278.12,
+      "end": 282.0,
+      "text": "emplea este fondo con esta volatilidad,"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 280.48,
+      "end": 284.96000000000004,
+      "text": "pues asumimos que sea parecido. ¿Qué es"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 282.0,
+      "end": 286.28,
+      "text": "lo que tenemos aquí? 25% de Eonia. Para"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 284.96,
+      "end": 287.59999999999997,
+      "text": "los que no lo sepáis, pues simplemente"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 286.28,
+      "end": 290.11999999999995,
+      "text": "le preguntáis a la IA qué es el Eonia,"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 287.6,
+      "end": 292.36,
+      "text": "ya os lo digo yo, es el eh euro"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 290.12,
+      "end": 294.76,
+      "text": "overnight rate, digamos, o sea, el tipo"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 292.36,
+      "end": 297.0,
+      "text": "de interés eh digamos que el Euribor a"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 294.76,
+      "end": 299.28,
+      "text": "un día, el tipo de interés interbancario"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 297.0,
+      "end": 301.0,
+      "text": "de préstamos de un día, es decir, eh lo"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 299.28,
+      "end": 302.67999999999995,
+      "text": "que sería mercado monetario o similar."
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 301.0,
+      "end": 304.56,
+      "text": "Hay muchos fondos monetarios que si os"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 302.68,
+      "end": 306.0,
+      "text": "fijáis en las fichas, ponen que tienen"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 304.56,
+      "end": 308.04,
+      "text": "cash. No es que sea cash, es que son"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 306.0,
+      "end": 309.64,
+      "text": "préstamos de un día y te permiten en la"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 308.04,
+      "end": 311.04,
+      "text": "ficha poner cash cuando son préstamos de"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 309.64,
+      "end": 312.47999999999996,
+      "text": "un día. Entonces, esto equivale a"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 311.04,
+      "end": 315.32,
+      "text": "monetario, con lo cual aquí lo que"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 312.48,
+      "end": 317.44,
+      "text": "tendremos es 25%"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 315.32,
+      "end": 318.88,
+      "text": "monetario, ¿vale?"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 317.44,
+      "end": 321.24,
+      "text": "¿Vale? Entonces, lo que vamos a hacer"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 318.88,
+      "end": 322.64,
+      "text": "primero es, oye, hm ¿qué tengo? 25%"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 321.24,
+      "end": 324.16,
+      "text": "monetario, ¿vale? Me voy a mi monetario"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 322.64,
+      "end": 325.32,
+      "text": "de confianza, por ejemplo Groupama,"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 324.16,
+      "end": 327.16,
+      "text": "podéis el que queráis, me da"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 325.32,
+      "end": 329.59999999999997,
+      "text": "igual, ¿vale? Y nos vamos, por ejemplo,"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 327.16,
+      "end": 331.52000000000004,
+      "text": "al resultado de 3 años, que es un 3,06,"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 329.6,
+      "end": 334.91900000000004,
+      "text": "¿vale? Pues en este caso, en los últimos"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 331.52,
+      "end": 338.35999999999996,
+      "text": "3 años este esta categoría tendría que"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 334.919,
+      "end": 340.56,
+      "text": "haber dado un 3,6%. Si lo multiplicamos"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 338.36,
+      "end": 343.56,
+      "text": "por el peso que tiene en este caso el"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 340.56,
+      "end": 345.96,
+      "text": "benchmark, sabemos que hay 0,77 puntos"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 343.56,
+      "end": 347.68,
+      "text": "que tendrían que provenir del monetario,"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 345.96,
+      "end": 349.12,
+      "text": "¿vale? ¿Qué es lo siguiente que tienen?"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 347.68,
+      "end": 350.6,
+      "text": "Nos lo pone muy sencillito. Bueno, pues"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 349.12,
+      "end": 352.24,
+      "text": "cerramos ya Groupama y lo siguiente que"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 350.6,
+      "end": 354.12,
+      "text": "tienes 40 MSCI World, vaya, este nos"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 352.24,
+      "end": 355.68,
+      "text": "suena a todos, ¿no? Pues en este caso"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 354.12,
+      "end": 358.32,
+      "text": "nos vamos a Fidelity MSCI World, nos"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 355.68,
+      "end": 360.64,
+      "text": "vamos al retorno de los últimos 3 años,"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 358.32,
+      "end": 362.64,
+      "text": "que es un 16,91, aquí es donde se van a"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 360.64,
+      "end": 365.59999999999997,
+      "text": "empezar a ver un poco las costuras y"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 362.64,
+      "end": 368.4,
+      "text": "decimos, oye, 40%."
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 365.6,
+      "end": 370.76000000000005,
+      "text": "Aquí ponemos MSCI World."
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 368.4,
+      "end": 372.32,
+      "text": "¿Vale? Y en este caso estamos hablando"
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 370.76,
+      "end": 374.44,
+      "text": "de que esto tiene una rentabilidad a 3"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 372.32,
+      "end": 377.2,
+      "text": "años del 16,91."
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 374.44,
+      "end": 377.939,
+      "text": "16,91%."
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 377.2,
+      "end": 378.08,
+      "text": "Vale."
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 377.939,
+      "end": 380.12,
+      "text": "[resoplido]"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 378.08,
+      "end": 382.96,
+      "text": "En este caso esto le daría una"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 380.12,
+      "end": 384.919,
+      "text": "aportación de 6,76%"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 382.96,
+      "end": 386.4,
+      "text": "a ese fondo"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 384.919,
+      "end": 387.919,
+      "text": "que sería un fondo que podríamos haber"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 386.4,
+      "end": 389.96,
+      "text": "creado nosotros con muy poquito"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 387.919,
+      "end": 392.35999999999996,
+      "text": "conocimiento, de momento con solamente"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 389.96,
+      "end": 394.12,
+      "text": "Groupama y con MSCI World"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 392.36,
+      "end": 395.8,
+      "text": "ya sabemos que el fondo, este fondo en"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 394.12,
+      "end": 397.4,
+      "text": "concreto, no es bueno. ¿Por qué? Porque"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 395.8,
+      "end": 399.76,
+      "text": "la suma de estas dos categorías, es"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 397.4,
+      "end": 402.64,
+      "text": "decir, solo he sumado un 65%"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 399.76,
+      "end": 406.64,
+      "text": "de la eh de lo que sería la composición"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 402.64,
+      "end": 410.44,
+      "text": "de este fondo y yo ya sumaría un 7, 53%"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 406.64,
+      "end": 413.08,
+      "text": "eh solamente eh con la eh suma de estos"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 410.44,
+      "end": 414.88,
+      "text": "dos fondos, con lo cual hm lo que a lo"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 413.08,
+      "end": 416.64,
+      "text": "que a priori o en principio parecía un"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 414.88,
+      "end": 418.0,
+      "text": "fondo decente, que podría ser esto, que"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 416.64,
+      "end": 420.12,
+      "text": "no parece un fondo malo, ya sabemos de"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 418.0,
+      "end": 422.2,
+      "text": "primeras que es malo. Ahora queremos ver"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 420.12,
+      "end": 424.8,
+      "text": "cómo de malo, ¿vale? Pues muy sencillo,"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 422.2,
+      "end": 426.96,
+      "text": "seguimos con el mismo con el mismo"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 424.8,
+      "end": 430.08,
+      "text": "em con las mismas preguntas. De momento"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 426.96,
+      "end": 432.56,
+      "text": "he sacado un 65% de la comparación con"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 430.08,
+      "end": 434.0,
+      "text": "el benchmark y ahora me voy a ir al 35%"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 432.56,
+      "end": 436.64,
+      "text": "restante. Esto, por si no lo sabéis, es"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 434.0,
+      "end": 440.56,
+      "text": "un índice de bonos de entre 1 y 10 a de"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 436.64,
+      "end": 443.36,
+      "text": "entre 1 y 10 años, ¿vale? Entonces, 35%"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 440.56,
+      "end": 445.68,
+      "text": "esto sería el yo yo pondría aquí bonos"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 443.36,
+      "end": 447.08000000000004,
+      "text": "eh esto sería corto medio, ¿vale? Eh"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 445.68,
+      "end": 449.48,
+      "text": "esto es lo más complicado de sacar"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 447.08,
+      "end": 451.32,
+      "text": "porque aquí, oye, eh Andrés, ¿cómo vas a"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 449.48,
+      "end": 452.91900000000004,
+      "text": "sacar esto sin barrer mucho para casa?"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 451.32,
+      "end": 455.24,
+      "text": "Porque yo podría decir, oye, con mis con"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 452.919,
+      "end": 457.84999999999997,
+      "text": "mis fondos preferidos este, este y este,"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 455.24,
+      "end": 458.16,
+      "text": "estos fondos están haciendo X, ¿vale?"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 457.85,
+      "end": 459.64000000000004,
+      "text": "[resoplido]"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 458.16,
+      "end": 461.91900000000004,
+      "text": "Lo que voy a hacer es sin barrer para"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 459.64,
+      "end": 463.64,
+      "text": "casa, es Es cogiendo el peor fondo que"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 461.919,
+      "end": 465.35999999999996,
+      "text": "puedo de esta categoría, que sería"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 463.64,
+      "end": 466.71999999999997,
+      "text": "el Vanguard Global Bond, que es el que"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 465.36,
+      "end": 468.76,
+      "text": "peor lo ha hecho porque es deuda"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 466.72,
+      "end": 471.0,
+      "text": "gubernamental durante 3 años, esto sería"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 468.76,
+      "end": 473.44,
+      "text": "lo peor de lo peor, sería un 2%, es"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 471.0,
+      "end": 475.64,
+      "text": "decir, como mínimo, como mínimo, esto a"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 473.44,
+      "end": 477.56,
+      "text": "3 años ha hecho un 1,98%, esto sería"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 475.64,
+      "end": 479.76,
+      "text": "lamentable. Yo no tendría una cartera de"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 477.56,
+      "end": 482.72,
+      "text": "35% Vanguard Global Bond, que son solo"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 479.76,
+      "end": 484.96,
+      "text": "bonos gubernamentales. Y en este caso,"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 482.72,
+      "end": 487.68,
+      "text": "eh, aún así, si cogiera la peor opción"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 484.96,
+      "end": 490.32,
+      "text": "posible, el fondo que hubiéramos hecho"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 487.68,
+      "end": 492.44,
+      "text": "de una forma regulera con Groupama, con"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 490.32,
+      "end": 495.28,
+      "text": "MSCI World y con Vanguard Global Bond,"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 492.44,
+      "end": 497.04,
+      "text": "sería 1,822% la rentabilidad esperada"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 495.28,
+      "end": 499.08,
+      "text": "incluyendo las comisiones de esos fondos"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 497.04,
+      "end": 501.36,
+      "text": "de sus de sus respectivos fondos, con lo"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 499.08,
+      "end": 503.96,
+      "text": "cual, en el peor de los escenarios, este"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 501.36,
+      "end": 508.16,
+      "text": "fondo nos está dejando de ganar o nos"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 503.96,
+      "end": 510.79999999999995,
+      "text": "está haciendo perder un 1, 24%, que"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 508.16,
+      "end": 512.96,
+      "text": "sería la diferencia entre esto"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 510.8,
+      "end": 515.159,
+      "text": "y esto, ¿vale? Es lo que nos están"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 512.96,
+      "end": 517.24,
+      "text": "quitando por una gestión que no hacemos"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 515.159,
+      "end": 519.24,
+      "text": "nosotros adecuadamente. ¿Cuál es, en mi"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 517.24,
+      "end": 521.52,
+      "text": "opinión, lo realista? Pues si tú"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 519.24,
+      "end": 523.2,
+      "text": "cogieras fondos del estilo, los que,"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 521.52,
+      "end": 524.4399999999999,
+      "text": "pues, un poco los que conocéis todos,"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 523.2,
+      "end": 525.72,
+      "text": "¿vale? Voy a Carmignac Portfolio"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 524.44,
+      "end": 528.2800000000001,
+      "text": "Credit, que, por ejemplo, este año está"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 525.72,
+      "end": 529.64,
+      "text": "bastante flojo para no barrer para casa,"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 528.28,
+      "end": 530.8,
+      "text": "¿vale? Si cogemos Carmignac Portfolio"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 529.64,
+      "end": 534.28,
+      "text": "Credit, que este año lo está haciendo"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 530.8,
+      "end": 536.5999999999999,
+      "text": "bastante mal, 0,28, a 3 años tiene un 7%"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 534.28,
+      "end": 538.0,
+      "text": "de rentabilidad. Si juntáramos Carmignac"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 536.6,
+      "end": 539.32,
+      "text": "Portfolio Credit con otros fondos de"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 538.0,
+      "end": 541.28,
+      "text": "renta fija gubernamental que lo han"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 539.32,
+      "end": 543.5600000000001,
+      "text": "hecho peor, a lo mejor esta categoría"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 541.28,
+      "end": 546.16,
+      "text": "debería estar dando, como mínimo,"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 543.56,
+      "end": 549.16,
+      "text": "¿vale? Como mínimo, un 4,5%"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 546.16,
+      "end": 551.8,
+      "text": "lo que haría que un fondo mixto creado"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 549.16,
+      "end": 553.36,
+      "text": "por nosotros con fondos más o menos"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 551.8,
+      "end": 555.3599999999999,
+      "text": "conocidos por todos vosotros, uno de"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 553.36,
+      "end": 557.6,
+      "text": "ellos monetario, otro de ellos indexado"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 555.36,
+      "end": 560.24,
+      "text": "y otro una cartera de dos o tres fondos"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 557.6,
+      "end": 562.6,
+      "text": "de renta fija de riesgo intermedio, de"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 560.24,
+      "end": 565.88,
+      "text": "los que ya conocemos, como mínimo, esta"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 562.6,
+      "end": 568.88,
+      "text": "esta suma de de de fondos en estos"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 565.88,
+      "end": 571.6,
+      "text": "porcentuales debería dar un 9% un 9,10%"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 568.88,
+      "end": 573.16,
+      "text": "analizado, lo que equivale a un 2,12%"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 571.6,
+      "end": 574.6800000000001,
+      "text": "analizado"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 573.16,
+      "end": 576.1999999999999,
+      "text": "en los últimos 3 años, con lo cual"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 574.68,
+      "end": 577.3599999999999,
+      "text": "estamos hablando de más de un 6 y pico"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 576.2,
+      "end": 579.2800000000001,
+      "text": "por ciento,"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 577.36,
+      "end": 582.52,
+      "text": "eh qué es lo que nos estamos dejando de"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 579.28,
+      "end": 585.12,
+      "text": "eh de llevar. Si esto fuera lo que para"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 582.52,
+      "end": 587.3199999999999,
+      "text": "mi gusto son los las los fondos óptimos"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 585.12,
+      "end": 588.96,
+      "text": "eh en esta categoría probablemente, como"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 587.32,
+      "end": 591.48,
+      "text": "habéis visto con con con Carmignac"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 588.96,
+      "end": 592.76,
+      "text": "Portfolio, esta categoría creo que en un"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 591.48,
+      "end": 595.24,
+      "text": "entorno de normalidad debería estar"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 592.76,
+      "end": 597.8,
+      "text": "dando un 5, un 5 y medio, una cosa así,"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 595.24,
+      "end": 599.92,
+      "text": "¿vale? Y creo que es hasta un 2 y medio"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 597.8,
+      "end": 601.92,
+      "text": "por ciento lo que estamos dejando de"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 599.92,
+      "end": 603.7199999999999,
+      "text": "ganar, en mi opinión, en este fondo. Con"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 601.92,
+      "end": 606.16,
+      "text": "lo cual, una vez hecho este cálculo,"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 603.72,
+      "end": 608.48,
+      "text": "podemos concluir que este fondo"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 606.16,
+      "end": 610.4399999999999,
+      "text": "está muy lejos de ser óptimo, ¿vale?"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 608.48,
+      "end": 612.28,
+      "text": "Em entonces, esta es la forma sencilla"
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 610.44,
+      "end": 613.6800000000001,
+      "text": "de hacerlo porque, digamos, asumiendo"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 612.28,
+      "end": 615.0799999999999,
+      "text": "que este benchmark sea correcto, que"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 613.68,
+      "end": 617.2399999999999,
+      "text": "habría que indagar un poquito más, quizá"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 615.08,
+      "end": 620.24,
+      "text": "con la IA poder confirmar que este"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 617.24,
+      "end": 622.8,
+      "text": "fondo, más o menos, tiene un 35% renta"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 620.24,
+      "end": 624.72,
+      "text": "variable, tiene un 25% de liquidez o más"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 622.8,
+      "end": 625.9599999999999,
+      "text": "o menos liquidez y tiene un 35% de"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 624.72,
+      "end": 627.84,
+      "text": "bonos, ¿vale?"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 625.96,
+      "end": 629.84,
+      "text": "Eh asumiendo eso, pues podríamos"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 627.84,
+      "end": 631.88,
+      "text": "concluir que este fondo es subóptimo. Yo"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 629.84,
+      "end": 633.08,
+      "text": "no me voy a poner a investigar si lo que"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 631.88,
+      "end": 635.4,
+      "text": "ponen aquí de benchmark está"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 633.08,
+      "end": 637.48,
+      "text": "perfectamente buscado o no. Esto,"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 635.4,
+      "end": 639.3199999999999,
+      "text": "insisto, no creo que un fondo de este"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 637.48,
+      "end": 641.48,
+      "text": "estilo mainstream, con unas comisiones"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 639.32,
+      "end": 643.24,
+      "text": "altas y tal, sea buen fondo, con lo cual"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 641.48,
+      "end": 646.04,
+      "text": "lo que me sale me puede cuadrar bastante"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 643.24,
+      "end": 647.76,
+      "text": "con lo que yo tenía en mi cabeza."
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 646.04,
+      "end": 649.0,
+      "text": "¿Qué es lo complicado?"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 647.76,
+      "end": 650.16,
+      "text": "Lo complicado es cuando buscas otro"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 649.0,
+      "end": 651.16,
+      "text": "fondo, en este caso quería buscar un"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 650.16,
+      "end": 652.9599999999999,
+      "text": "buen fondo, que es este de aquí,"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 651.16,
+      "end": 654.64,
+      "text": "Advantage Fund, es un fondo, yo diría"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 652.96,
+      "end": 656.1600000000001,
+      "text": "que mixto agresivo, ¿vale? Aquí no sé"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 654.64,
+      "end": 658.12,
+      "text": "cómo lo catalogan, lo catalogan como"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 656.16,
+      "end": 659.48,
+      "text": "mixto flexible. ¿Por qué mixto agresivo?"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 658.12,
+      "end": 661.6,
+      "text": "Porque, si te fijas un poco en el"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 659.48,
+      "end": 664.32,
+      "text": "histórico, la volatilidad que tiene a 5"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 661.6,
+      "end": 667.28,
+      "text": "años del 9,25, es una volatilidad más o"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 664.32,
+      "end": 668.96,
+      "text": "menos eh alegre, ¿vale? Y la volatilidad"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 667.28,
+      "end": 671.16,
+      "text": "a 3 años es de un 8,63, que también es"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 668.96,
+      "end": 673.0400000000001,
+      "text": "una volatilidad ya, pues, por lo menos"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 671.16,
+      "end": 674.64,
+      "text": "te diría de tener un 60% renta variable"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 673.04,
+      "end": 676.16,
+      "text": "o una cosa así. ¿Qué es lo que pasa? Que"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 674.64,
+      "end": 677.72,
+      "text": "cuando no nos dan el benchmark"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 676.16,
+      "end": 679.3199999999999,
+      "text": "directamen directamente, porque ponen"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 677.72,
+      "end": 681.2,
+      "text": "not benchmark,"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 679.32,
+      "end": 683.32,
+      "text": "eh hay que buscar la ficha del fondo. Me"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 681.2,
+      "end": 685.76,
+      "text": "he ido aquí a a su página, me he buscado"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 683.32,
+      "end": 688.12,
+      "text": "su ficha y me he encontrado que tiene"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 685.76,
+      "end": 689.8389999999999,
+      "text": "72% renta variable y asumamos que el"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 688.12,
+      "end": 691.8,
+      "text": "resto, que más o menos, bueno, tiene un"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 689.839,
+      "end": 694.8000000000001,
+      "text": "poco de liquidez, en este caso, pues, me"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 691.8,
+      "end": 697.3599999999999,
+      "text": "imagino que 72 + 25 más los picos son"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 694.8,
+      "end": 699.04,
+      "text": "98, con lo cual, en este caso, ¿qué es"
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 697.36,
+      "end": 701.44,
+      "text": "lo que tendríamos? Pues, si quisiéramos"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 699.04,
+      "end": 703.64,
+      "text": "hacer un cálculo parecido,"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 701.44,
+      "end": 705.2,
+      "text": "para darnos un poco idea de de si este"
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 703.64,
+      "end": 707.24,
+      "text": "fondo lo hace bien o no, que este es un"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 705.2,
+      "end": 711.2,
+      "text": "buen fondo, pues, sería más o menos 72%"
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 707.24,
+      "end": 713.24,
+      "text": "MSCI World, sería más o menos 26%."
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 711.2,
+      "end": 714.88,
+      "text": "Podemos bonos corto medio, ¿vale?"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 713.24,
+      "end": 716.12,
+      "text": "No especifica mucho qué tipo de renta"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 714.88,
+      "end": 717.32,
+      "text": "fija tiene, tampoco he investigado"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 716.12,
+      "end": 719.8,
+      "text": "mucho, esto es un ejercicio para"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 717.32,
+      "end": 722.88,
+      "text": "entenderlo y podríamos poner más o menos"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 719.8,
+      "end": 725.16,
+      "text": "2% monetario, ¿vale? Que sería liquidez,"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 722.88,
+      "end": 727.12,
+      "text": "¿vale? En este caso, una vez ya hemos"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 725.16,
+      "end": 728.64,
+      "text": "reconocido más o menos a qué se enfrenta"
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 727.12,
+      "end": 729.72,
+      "text": "este fondo, es un poco injusto lo que"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 728.64,
+      "end": 731.16,
+      "text": "estoy haciendo porque estoy asumiendo"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 729.72,
+      "end": 733.64,
+      "text": "que la cartera actual que he visto la"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 731.16,
+      "end": 734.9599999999999,
+      "text": "ficha eh es la que se ha llevado a cabo"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 733.64,
+      "end": 736.6,
+      "text": "los últimos 3 años, pero sí que nos"
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 734.96,
+      "end": 738.12,
+      "text": "sirve para hacernos una idea, ¿vale?"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 736.6,
+      "end": 740.08,
+      "text": "Pues, en este caso, cogeríamos monetario"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 738.12,
+      "end": 742.72,
+      "text": "3%, lo pondríamos aquí, en este caso, la"
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 740.08,
+      "end": 744.84,
+      "text": "aportación del monetario es poquísima,"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 742.72,
+      "end": 746.64,
+      "text": "¿vale? Lo vamos a ver, es un 0,06 a lo"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 744.84,
+      "end": 748.84,
+      "text": "que sería el retorno de los últimos 3"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 746.64,
+      "end": 751.16,
+      "text": "años. La aportación del MSCI World, en"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 748.84,
+      "end": 754.12,
+      "text": "este caso, es este 16,91%,"
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 751.16,
+      "end": 755.04,
+      "text": "no cambia nada, ¿vale? En este caso,"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 754.12,
+      "end": 756.5600000000001,
+      "text": "a ver,"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 755.04,
+      "end": 759.4,
+      "text": "vale, ahí lo vemos, la aportación sería"
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 756.56,
+      "end": 761.5999999999999,
+      "text": "un 12,18 en nuestra cartera y la"
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 759.4,
+      "end": 763.8,
+      "text": "aportación de los bonos de corto medio,"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 761.6,
+      "end": 765.36,
+      "text": "esto sería también opinable, pues, más o"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 763.8,
+      "end": 767.52,
+      "text": "menos, pues, si no queremos barrer mucho"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 765.36,
+      "end": 769.6800000000001,
+      "text": "para casa, pues, podríamos poner un 4%,"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 767.52,
+      "end": 771.04,
+      "text": "de tal forma"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 769.68,
+      "end": 772.7199999999999,
+      "text": "que la rentabilidad que le tendríamos"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 771.04,
+      "end": 775.28,
+      "text": "que exigir a este fondo a 5 años es de"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 772.72,
+      "end": 778.24,
+      "text": "un 13,28. No sé cuánto sale, nos vamos a"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 775.28,
+      "end": 779.56,
+      "text": "Finect, miramos a 3 años y vemos que,"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 778.24,
+      "end": 782.16,
+      "text": "efectivamente, la rentabilidad es de un"
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 779.56,
+      "end": 784.04,
+      "text": "13,50, que es, más o menos, la"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 782.16,
+      "end": 784.64,
+      "text": "rentabilidad esperada, es decir, este me"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 784.04,
+      "end": 786.04,
+      "text": "constaba [carraspeo]"
+    },
+    {
+      "index": 392,
+      "speaker": null,
+      "start": 784.64,
+      "end": 788.68,
+      "text": "que era un buen fondo y acabo de"
+    },
+    {
+      "index": 393,
+      "speaker": null,
+      "start": 786.04,
+      "end": 790.9599999999999,
+      "text": "demostraros cómo es un buen fondo. Ya"
+    },
+    {
+      "index": 394,
+      "speaker": null,
+      "start": 788.68,
+      "end": 793.56,
+      "text": "sería opinable, pues, muchas cosas, ¿no?"
+    },
+    {
+      "index": 395,
+      "speaker": null,
+      "start": 790.96,
+      "end": 795.2,
+      "text": "Eh no sé si alguien del fondo llegará a"
+    },
+    {
+      "index": 396,
+      "speaker": null,
+      "start": 793.56,
+      "end": 797.4399999999999,
+      "text": "ver este vídeo, pero"
+    },
+    {
+      "index": 397,
+      "speaker": null,
+      "start": 795.2,
+      "end": 799.4000000000001,
+      "text": "si, por ejemplo, durante ese periodo eh"
+    },
+    {
+      "index": 398,
+      "speaker": null,
+      "start": 797.44,
+      "end": 801.48,
+      "text": "el el el fondo ha mantenido una posición"
+    },
+    {
+      "index": 399,
+      "speaker": null,
+      "start": 799.4,
+      "end": 802.8389999999999,
+      "text": "más más defensiva y, aun así, ha"
+    },
+    {
+      "index": 400,
+      "speaker": null,
+      "start": 801.48,
+      "end": 805.2,
+      "text": "conseguido esta rentabilidad, pues, el"
+    },
+    {
+      "index": 401,
+      "speaker": null,
+      "start": 802.839,
+      "end": 808.0,
+      "text": "fondo sería significativamente mejor. No"
+    },
+    {
+      "index": 402,
+      "speaker": null,
+      "start": 805.2,
+      "end": 809.48,
+      "text": "sé tampoco si la volatilidad del 8,63%"
+    },
+    {
+      "index": 403,
+      "speaker": null,
+      "start": 808.0,
+      "end": 810.4,
+      "text": "equivale a la volatilidad de lo que yo"
+    },
+    {
+      "index": 404,
+      "speaker": null,
+      "start": 809.48,
+      "end": 812.44,
+      "text": "he calculado aquí, si tiene una"
+    },
+    {
+      "index": 405,
+      "speaker": null,
+      "start": 810.4,
+      "end": 813.56,
+      "text": "volatilidad mejor menor, pues entonces"
+    },
+    {
+      "index": 406,
+      "speaker": null,
+      "start": 812.44,
+      "end": 815.5600000000001,
+      "text": "estamos hablando de que el fondo también"
+    },
+    {
+      "index": 407,
+      "speaker": null,
+      "start": 813.56,
+      "end": 818.56,
+      "text": "es significativamente mejor, pero así"
+    },
+    {
+      "index": 408,
+      "speaker": null,
+      "start": 815.56,
+      "end": 821.0799999999999,
+      "text": "sobre un poco sobre eh sobre lo"
+    },
+    {
+      "index": 409,
+      "speaker": null,
+      "start": 818.56,
+      "end": 822.68,
+      "text": "calculado, si alguien quisiera yo ya"
+    },
+    {
+      "index": 410,
+      "speaker": null,
+      "start": 821.08,
+      "end": 825.0400000000001,
+      "text": "sabéis que prefiero que las carteras,"
+    },
+    {
+      "index": 411,
+      "speaker": null,
+      "start": 822.68,
+      "end": 826.92,
+      "text": "como os os estoy enseñando aquí, os las"
+    },
+    {
+      "index": 412,
+      "speaker": null,
+      "start": 825.04,
+      "end": 828.56,
+      "text": "construyáis vosotros y la cartera acabe"
+    },
+    {
+      "index": 413,
+      "speaker": null,
+      "start": 826.92,
+      "end": 830.4799999999999,
+      "text": "siendo mixta en el sentido de que"
+    },
+    {
+      "index": 414,
+      "speaker": null,
+      "start": 828.56,
+      "end": 832.56,
+      "text": "juntéis renta variable y renta fija con"
+    },
+    {
+      "index": 415,
+      "speaker": null,
+      "start": 830.48,
+      "end": 834.84,
+      "text": "lo mejor de cada categoría, porque rara"
+    },
+    {
+      "index": 416,
+      "speaker": null,
+      "start": 832.56,
+      "end": 837.1199999999999,
+      "text": "vez encuentras fondos buenos donde más o"
+    },
+    {
+      "index": 417,
+      "speaker": null,
+      "start": 834.84,
+      "end": 838.4,
+      "text": "menos no te tomen el pelo, pero en este"
+    },
+    {
+      "index": 418,
+      "speaker": null,
+      "start": 837.12,
+      "end": 839.92,
+      "text": "caso, pues por ejemplo, este tipo de"
+    },
+    {
+      "index": 419,
+      "speaker": null,
+      "start": 838.4,
+      "end": 842.24,
+      "text": "fondos para gente así un poco más vaga,"
+    },
+    {
+      "index": 420,
+      "speaker": null,
+      "start": 839.92,
+      "end": 843.4799999999999,
+      "text": "un poco menos con menos de conocimiento,"
+    },
+    {
+      "index": 421,
+      "speaker": null,
+      "start": 842.24,
+      "end": 845.84,
+      "text": "que quiere tener en este caso, pues"
+    },
+    {
+      "index": 422,
+      "speaker": null,
+      "start": 843.48,
+      "end": 848.0,
+      "text": "imaginemos un fondo de riesgo intermedio"
+    },
+    {
+      "index": 423,
+      "speaker": null,
+      "start": 845.84,
+      "end": 849.8000000000001,
+      "text": "alto, pues este podría valer. Entonces,"
+    },
+    {
+      "index": 424,
+      "speaker": null,
+      "start": 848.0,
+      "end": 851.72,
+      "text": "este pequeño truco nos sirve para que no"
+    },
+    {
+      "index": 425,
+      "speaker": null,
+      "start": 849.8,
+      "end": 853.8,
+      "text": "nos tomen el pelo y para saber si un"
+    },
+    {
+      "index": 426,
+      "speaker": null,
+      "start": 851.72,
+      "end": 856.72,
+      "text": "fondo mixto, de los cuales yo uso más"
+    },
+    {
+      "index": 427,
+      "speaker": null,
+      "start": 853.8,
+      "end": 859.3599999999999,
+      "text": "bien pocos, está bien hecho, eh tiene"
+    },
+    {
+      "index": 428,
+      "speaker": null,
+      "start": 856.72,
+      "end": 860.5600000000001,
+      "text": "unas eh unos retornos adecuados o no. Es"
+    },
+    {
+      "index": 429,
+      "speaker": null,
+      "start": 859.36,
+      "end": 862.32,
+      "text": "cierto que esto es una forma de"
+    },
+    {
+      "index": 430,
+      "speaker": null,
+      "start": 860.56,
+      "end": 864.4,
+      "text": "calcularlo de andar por casa, habría que"
+    },
+    {
+      "index": 431,
+      "speaker": null,
+      "start": 862.32,
+      "end": 866.12,
+      "text": "tener muchísimo más conocimiento, sobre"
+    },
+    {
+      "index": 432,
+      "speaker": null,
+      "start": 864.4,
+      "end": 867.3199999999999,
+      "text": "todo del pasado del fondo, de las"
+    },
+    {
+      "index": 433,
+      "speaker": null,
+      "start": 866.12,
+      "end": 869.72,
+      "text": "ponderaciones que tuvo el fondo en el"
+    },
+    {
+      "index": 434,
+      "speaker": null,
+      "start": 867.32,
+      "end": 872.9200000000001,
+      "text": "pasado, si lo que queremos es comparar"
+    },
+    {
+      "index": 435,
+      "speaker": null,
+      "start": 869.72,
+      "end": 874.1600000000001,
+      "text": "el eh ese retorno de reciente, eh pero"
+    },
+    {
+      "index": 436,
+      "speaker": null,
+      "start": 872.92,
+      "end": 875.8,
+      "text": "más o menos, pues para hacernos una idea"
+    },
+    {
+      "index": 437,
+      "speaker": null,
+      "start": 874.16,
+      "end": 877.6,
+      "text": "nos sirve. La moraleja ¿cuál es? Pues"
+    },
+    {
+      "index": 438,
+      "speaker": null,
+      "start": 875.8,
+      "end": 879.4,
+      "text": "que hay tres tipos de fondos, unos donde"
+    },
+    {
+      "index": 439,
+      "speaker": null,
+      "start": 877.6,
+      "end": 880.839,
+      "text": "claramente se ve que son malos, otros"
+    },
+    {
+      "index": 440,
+      "speaker": null,
+      "start": 879.4,
+      "end": 882.52,
+      "text": "donde haciendo unos pequeños cálculos"
+    },
+    {
+      "index": 441,
+      "speaker": null,
+      "start": 880.839,
+      "end": 884.36,
+      "text": "podréis ver si son malos o buenos y"
+    },
+    {
+      "index": 442,
+      "speaker": null,
+      "start": 882.52,
+      "end": 885.88,
+      "text": "otros donde os tendréis que meter la"
+    },
+    {
+      "index": 443,
+      "speaker": null,
+      "start": 884.36,
+      "end": 888.76,
+      "text": "ficha, ver la composición del fondo y"
+    },
+    {
+      "index": 444,
+      "speaker": null,
+      "start": 885.88,
+      "end": 891.04,
+      "text": "entonces hacer un poco ese análisis por"
+    },
+    {
+      "index": 445,
+      "speaker": null,
+      "start": 888.76,
+      "end": 892.88,
+      "text": "vuestra cuenta, asumiendo pues eso, que"
+    },
+    {
+      "index": 446,
+      "speaker": null,
+      "start": 891.04,
+      "end": 894.28,
+      "text": "tenga sentido lo que estáis poniendo,"
+    },
+    {
+      "index": 447,
+      "speaker": null,
+      "start": 892.88,
+      "end": 896.36,
+      "text": "para descubrir si son buenos y malos."
+    },
+    {
+      "index": 448,
+      "speaker": null,
+      "start": 894.28,
+      "end": 898.12,
+      "text": "Esto sí sería quizás lo más complicado."
+    },
+    {
+      "index": 449,
+      "speaker": null,
+      "start": 896.36,
+      "end": 900.48,
+      "text": "Y con este pequeño ejercicio, pues ya"
+    },
+    {
+      "index": 450,
+      "speaker": null,
+      "start": 898.12,
+      "end": 902.68,
+      "text": "sabréis o lo se lo podéis pasar a aquel"
+    },
+    {
+      "index": 451,
+      "speaker": null,
+      "start": 900.48,
+      "end": 904.64,
+      "text": "amigo vuestro que tiene eh fondos"
+    },
+    {
+      "index": 452,
+      "speaker": null,
+      "start": 902.68,
+      "end": 906.3599999999999,
+      "text": "mixtos, pues ya podréis saber si un"
+    },
+    {
+      "index": 453,
+      "speaker": null,
+      "start": 904.64,
+      "end": 908.3199999999999,
+      "text": "fondo es bueno o es malo y si os están"
+    },
+    {
+      "index": 454,
+      "speaker": null,
+      "start": 906.36,
+      "end": 909.72,
+      "text": "tomando el pelo o no. Espero que os haya"
+    },
+    {
+      "index": 455,
+      "speaker": null,
+      "start": 908.32,
+      "end": 911.32,
+      "text": "gustado el vídeo, si tenéis dudas me lo"
+    },
+    {
+      "index": 456,
+      "speaker": null,
+      "start": 909.72,
+      "end": 912.44,
+      "text": "podéis poner en comentarios y nosotros"
+    },
+    {
+      "index": 457,
+      "speaker": null,
+      "start": 911.32,
+      "end": 915.6,
+      "text": "nos vemos en el siguiente vídeo. Se"
+    },
+    {
+      "index": 458,
+      "speaker": null,
+      "start": 912.44,
+      "end": 915.6,
+      "text": "despide La Pizarra de Andrés."
+    }
+  ]
+}

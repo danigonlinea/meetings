@@ -1,0 +1,2894 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=cThx_rmjhjI",
+    "video_id": "cThx_rmjhjI",
+    "title": "¿Por qué los Grandes Inversores usan Opciones? Te lo Explico",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a ver cómo los grandes inversores utilizan las opciones para rentabilizar su dinero.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-07-16",
+    "duration_seconds": 810,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:28:00+00:00"
+  },
+  "stats": {
+    "segment_count": 392,
+    "chunk_count": 13,
+    "speaker_count": 0,
+    "word_count": 2739,
+    "character_count": 14376,
+    "time_span_seconds": 812
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1191,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:04",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal La Pizarra de Andrés. En el día de hoy os voy a explicar eh cómo la megainversora Nancy Pelosi, ya sabéis que esta persona consigue retornos muy superiores a los mercados, ha tomado una posición bastante curiosa en Intel a través de eh una opción. Como sé que para muchos de vosotros es muy complejo entender qué es esto de las opciones, etcétera, etcétera, os voy a explicar con un ejemplo práctico cómo podéis tener acceso también al eh al en este caso las acciones sin hacer la compra propia de la acción, sino comprando un derivado financiero o lo que es un producto eh apalancado, como podrían ser las opciones, ¿vale? Os voy a poner el ejemplo práctico de Intel para que entendáis todo lo que conforma una opción y por qué esto podría llegar a ser interesante, ¿vale? Antes de empezar quiero deciros que tenéis un vídeo, ya sé que es un poco duro de digerir, de 1 hora 40, en el que os hago un curso totalmente gratis, ya sabéis, los tenéis gratis en mi canal de YouTube, en el que os explico todo sobre los derivados financieros. Dentro de los derivados financieros hay uno en concreto, aquí lo vemos, que son las opciones financieras."
+    },
+    {
+      "index": 1,
+      "text_start": 1192,
+      "text_end": 2382,
+      "time_start_iso": "00:01:02",
+      "time_end_iso": "00:02:13",
+      "speakers": [],
+      "text": "Es cierto que este curso es bastante teórico y lo que vamos a hacer a ahora es un poquito más práctico, con lo cual el objetivo del de hoy no es tanto eh teoría, sino que en 10 minutos entendáis cómo se puede obtener eh exposición a una acción sin eh la necesidad de comprar la misma acción, ¿no? Para ello, bueno, esto es Intel, ¿vale? Aparentemente eh Nancy Pelosi en mayo, aproximadamente cuando Intel estaba a 100, más o menos, ¿vale? Eh decidió comprar opciones sobre Intel, ¿vale? Ella habitualmente compra la propia acción, en este caso decidió comprar una opción. ¿Qué es la opción? Bueno, ya os anticipo que es tener eh en este caso una apuesta larga en la compañía, simplemente lo hace sin comprar las acciones, lo hace con este derivado. ¿Cómo funciona este derivado? Bueno, las opciones hay de muchos tipos, ¿vale? Existe una call, bueno, hay dos tipos, la call y la put, y las dos pueden estar compradas y vendidas. En este caso vamos a ir con la más sencilla de todas, que sería comprar una call. Comprar una call es apostar a que un subyacente sube, apostar a que una acción sube, ¿vale? Eh, lo primero que tiene las las opciones eh es un vencimiento, es decir, oye, yo puedo"
+    },
+    {
+      "index": 2,
+      "text_start": 2383,
+      "text_end": 3578,
+      "time_start_iso": "00:02:11",
+      "time_end_iso": "00:03:22",
+      "speakers": [],
+      "text": "decir, oye, esto sube hasta tal fecha. Es decir, tú puedes hacer una call a un año. Ahora vamos a hacer el ejemplo de una call a un año. Una call es apostar a que suba un un subyacente, una acción, y en este caso vamos a determinar que es a un año, ¿vale? Lo segundo, eh hay que notificar cuántos contratos vamos a hacer. Normalmente, aquí lo pone, bueno, aquí lo os lo os lo os lo he preguntado ya. Eh, normalmente un contrato equivale a 100 acciones, ¿vale? Con lo cual, en este caso el valor del contrato, muy importante esto, vale 100 por el precio de la acción. Intel cotiza 110 a día de hoy, un contrato de opciones call sobre Intel te estaría exponiendo, cuidado, ahora vamos a entrar con el apalancamiento, te estaría exponiendo a 11,000 de subyacente, es decir, es como si estuvieras haciendo una inversión de 11,000 dólares. Cuidado, no significa que vayamos a depositar los 11,000, ¿vale? Estamos hablando de que me está exponiendo, digamos, a 11,000. ¿Cómo funciona una call? Una call es una apuesta, como si fuera una apuesta de fútbol, exactamente igual, en la que tú pagas una prima, la prima es por abrir el contrato, pagas una prima y te expones a la subida. En caso de que vaya"
+    },
+    {
+      "index": 3,
+      "text_start": 3579,
+      "text_end": 4763,
+      "time_start_iso": "00:03:20",
+      "time_end_iso": "00:04:35",
+      "speakers": [],
+      "text": "mal, pierdes la prima, ¿vale? Es tan sencillo como eso. Entonces, en lugar de ser una acción en la que si sube ganamos y si baja perdemos, aquí entramos y ya sabemos si sale mal lo que perdemos, que es la prima que hemos pagado, ¿vale? Entonces, en este caso, y lo más curioso de todo, es que Nancy Pelosi ha puesto un precio objetivo de Intel de 50. Esto es lo que se llama strike 50, ¿vale? En este caso, como Intel cotiza 110, un strike de 50 significa que el precio ya está muy por por de 50, con lo cual la la call, lo que es la opción, va a ser tremendamente cara, ¿vale? ¿Qué es lo que tenemos nosotros, vale? En este caso, vamos a ponérnoslo fácil, un contrato de 100 acciones de Intel que nos va a exponer a 11.000, a 11.000, digamos, de, de, a esas 100 acciones, pero que nos va a costar un dinero porque eh hemos decidido que mientras la empresa suba, esté por encima de 50, yo gano dinero. Ojo, gano quiere decir recupero. Por otro lado, como tengo algo tan bueno, que es que algo que vale 110, por encima de 50 gano dinero, acordaros, strike es el precio mínimo al que tiene que estar para yo ganar dinero, lo que quiere decir que si yo tengo un strike de 50 y la empresa"
+    },
+    {
+      "index": 4,
+      "text_start": 4764,
+      "text_end": 5947,
+      "time_start_iso": "00:04:33",
+      "time_end_iso": "00:05:48",
+      "speakers": [],
+      "text": "está a 100 a día de hoy, mucho dinero tengo que pagar para tener un producto tan bueno, porque es muy difícil que yo pierda dinero en esa, en esa opción, ¿no? Entonces, lo primero que hay que preguntarle aquí es, oye, Gemini, ¿cuánto me cuesta la prima? Vale, la prima, insisto, es lo que te cuesta adelantar, por eso son vehículos apalancados, porque tú vas a tener acceso a 11.000 de exposición, pero tú no pones 11.000, tú pagas el producto con la prima, con lo que es entrar a esa apuesta, ¿vale? Entonces, ¿cuánto me cuesta la prima? En este caso, vamos a poner de una opción call, que en este caso es la opción de compra, opción call, de una opción call a un año sobre Intel, hay que decirle subyacente, con strike, strike es el precio mínimo en el que yo, al que yo, a partir del cual yo empiezo a ganar dinero, con strike de 50 USD. Nos dice que, que el contrato vale 11.000 dólares, como hemos dicho anteriormente, y vale, aquí lo primero que vemos es, nos lo calcula y nos dice, entrar en este contrato vale 6.300 dólares. Alguien puede empezar, Andrés, pero entonces, esta chica, por cada, por cada 10.000 euros que quiera de, de, de exposición a Intel, va a perder un 60%"
+    },
+    {
+      "index": 5,
+      "text_start": 5948,
+      "text_end": 7144,
+      "time_start_iso": "00:05:46",
+      "time_end_iso": "00:07:02",
+      "speakers": [],
+      "text": "porque tiene que pagar 6300, cuidado. Lo que estamos diciendo aquí es oye, esta esta opción va poco apalancada, ¿por qué? Porque yo estoy apostando por Intel al alza con 6000 y pico dólares para para exponerme a 11000 de o a 10000 de acciones, ¿vale? Con lo cual el apalancamiento sería lo que vemos entre 6000 y 10000, que es como 1,5 veces, es un apalancamiento pequeño, ¿por qué es un apalancamiento pequeño? Porque hay muy poco riesgo en el subyacente de que caiga por debajo de 50, ¿por qué? Porque está a 109, entonces alguien podría decir, Andrés, pero entonces ¿cómo va a ganar dinero esta persona? Si yo empiezo palmando, empiezo pagando una prima de 6000 y pico, ¿cómo voy a ganar dinero? Muy sencillo, ganas dinero a partir de 50 dólares, entonces yo ahora le puedo preguntar, ¿y qué pasa si a vencimiento, por ejemplo, cae a vencimiento yo lo he hecho a 100, pero la empresa cae y a dentro de un año vale 80, pero vale 80 y yo mi strike lo puse a 50, con lo cual le voy a preguntar, oye, está en 80, mi mi salvación es 50, quiere decir que de 50 a 80 he ganado dinero, algo tengo que recuperar de la prima, entonces le preguntamos esto, ¿vale? Y nos va a decir que recuperamos dinero,"
+    },
+    {
+      "index": 6,
+      "text_start": 7145,
+      "text_end": 8317,
+      "time_start_iso": "00:07:00",
+      "time_end_iso": "00:08:15",
+      "speakers": [],
+      "text": "¿vale? Aquí nos dice la diferencia, lo calcula y dice, estamos recuperando 3000 dólares, como pusimos 6400, me cuesta decir que Intel baje de 110 a 80, si os fijáis me cuesta un 30 y pico por ciento, en este caso no es un 30 y pico por ciento, es un 30 y pico por ciento sobre el nocional, pero un 50% sobre el dinero que puse, porque yo puse 6400, ¿vale? Esto es la la la eh las ventajas y los inconvenientes del apalancamiento, es decir, yo me he expuesto a algo muy similar a mmm 11000 euros de Intel eh pero me he expuesto con 6400, me ha salido mal porque Intel ha bajado, yo lo hice a 110 y ahora está a 80, dentro de un año está a 80, con lo lo solamente rescato 3000 dólares de ganancia, que es la ganancia que me da la opción entre 50 y 80, ¿vale? Eh, y por lo tanto mi apuesta al final sobre dinero puesto sería un menos 50 y pico, menos 60% sobre el subyacente que te jugaste al final perdiste algo similar a lo que a lo que hubiera eh perdido la acción, ¿no? ¿Qué pasa, sin embargo, en el que hago break even dentro de un año? Es decir, le quiero preguntar, \"O vale, muy bien, pues me estás diciendo que en 80 pierdo dinero, recupero, pero pierdo un poco, sigo"
+    },
+    {
+      "index": 7,
+      "text_start": 8318,
+      "text_end": 9504,
+      "time_start_iso": "00:08:13",
+      "time_end_iso": "00:09:17",
+      "speakers": [],
+      "text": "perdiendo. ¿Cuál es el precio por encima, probablemente de 110, en el que yo empiezo a ganar dinero y me cubro esos 6000 y pico que he adelantado?\" Vale, pues le hacemos esta pregunta. Quiere decir, \"Oye, ¿qué es lo que pasa con esta opción?\" Que esto ya es contenido más complejo. Que como está muy in the money, in the money significa que la opción está muy a tu favor. ¿Por qué está muy a tu favor? Porque mientras esté por encima de 50 dentro de un año, tú recuperas dinero. Eso se llama in the money, es decir, tiene que pasar un desastre para que tú no recuperes dinero. Por eso es tan cara, es una empresa es una opción donde te cuesta por cada 11000 de subyacente te cuesta 6000 de prima. Pero ¿qué pasa? Que lo normal es que dentro de un año recuperes algo, porque es muy difícil que Intel caiga un 50 y pico por ciento. Ahora bien, que Intel mañana vale 40, tú has perdido los 6000 y pico, ¿vale? Eh, también es cierto que si compras la acción a día de hoy y y compras 10000 euros, em, si se te va a 40 también pierdes un 60 o 70 por ciento. Entonces, ¿qué es lo que pasa con esta opción? Que está tan in the money que tiene un perfil de ganar y de perder similar al de una el"
+    },
+    {
+      "index": 8,
+      "text_start": 9505,
+      "text_end": 10685,
+      "time_start_iso": "00:09:15",
+      "time_end_iso": "00:10:22",
+      "speakers": [],
+      "text": "al de una acción, ¿vale? Eh, también hay muchas cosas más. Una opción, las americanas, bueno, hay varios tipos de opciones, pero muchas opciones se pueden cerrar antes de, es decir, a ti te puede ir bien el primer mes, Intel sube a 130 y tú puedes cerrar tu opción de la misma forma que alguien que tiene una apuesta hecha en un partido a que gana un equipo, ese equipo ganando 2-0 al descanso puede cerrar la apuesta. Pues esto es lo mismo, ¿vale? Entonces, eh en este caso, ¿dónde ganas dinero? Pues le puedes decir, \"Oye, ¿y cuánto gano y cuánto gano si Intel en un año?\" Vale, 160 USD, ¿vale? Por ejemplo, pues lo mismo, le puedes preguntar. Entonces, ¿qué es lo que pasa? Que al al ser un producto, en este caso, que sigo sin entender mucho por qué la quería hacer hacer así, pelosi, me imagino que por el apalancamiento, ¿no? Eh bueno, aquí te lo dice a 160, eh en este caso ganarías 4,600 dólares. Si os fijáis, 4,600 dólares habiendo puesto 11, pues es más o menos un 40 y pico por ciento, algo muy similar a si la así la acción, compras la acción y se te fuera de 110 a 160, ¿no? Que hemos puesto aquí. ¿Vale? Entonces, ¿qué es lo que pasa? Que cuando una opción está muy"
+    },
+    {
+      "index": 9,
+      "text_start": 10686,
+      "text_end": 11875,
+      "time_start_iso": "00:10:20",
+      "time_end_iso": "00:11:32",
+      "speakers": [],
+      "text": "dentro del dinero, se le parece muchísimo a una acción, con la diferencia de que en una acción para tener eh en este caso sería una acción apalancada, con la diferencia que en una acción para tú poder tener 11,000 de de subyacente, tienes que depositar 11,000 euros, que es comprar acciones por valor de 11,000 euros, y sin embargo, eh cuando tú eh quieres eh hacer esto, pero con la opción, tú solo pones 6,000 y pico euros, con lo cual, el retorno final es 72 por ciento, ¿vale? Pero es 72 por ciento porque se compara en contra la prima que pusiste, no se te compara contra el subyacente. Si comparáramos contra el subyacente, el resultado es similar. En este tipo de de opciones que están tan in the money, el comportamiento euro por euro, ¿no? Del nocional es muy similar al de una acción. ¿Qué pasa? Que como hacer las opciones van apalancadas y cuesta menos dinero, la subida, es decir, esta ganancia de 4,600 dólares sobre 6,400 que pusiste es un 72 por ciento. ¿Por qué es un 72? Porque pusiste 6,400 dólares, no pusiste los 10, 11,000 que tendría que poner alguien con acciones. Con lo cual, en este caso, eh el el bueno, aquí lo veis, ¿no? Dinero recuperado al final son 11,000,"
+    },
+    {
+      "index": 10,
+      "text_start": 11876,
+      "text_end": 13064,
+      "time_start_iso": "00:11:29",
+      "time_end_iso": "00:12:28",
+      "speakers": [],
+      "text": "como pusiste 6,400 de prima, ganas 4,600 4600 dólares, me imagino que dividido entre 6400 te da un 72% de revalorización sobre dinero puesto, que es lo que buscamos cuando calculamos la rentabilidad, ¿no? Y esto ha sido un ejemplo, que me lo ha pedido la gente, de lo que sería comprar una opción. Por lo general, la opción tiene algo muy tricky, que es lo que la gente no entiende, que no es solo apostar a que algo va a hacer X, sino es apostarlo en un periodo de tiempo. Eso complica las cosas muchísimo más, es decir, cuando tú compras una acción, tú eres el tiempo, tú decides cuándo te quedas, cuándo cuándo te vas, cuando lo que sea. Cuando tú tienes una opción, eh el tiempo va va mar va yendo en tu contra, el tiempo es malo para el comprador de una opción, ¿vale? Porque se va cada vez que se va agotando el tiempo y el precio no va donde tú quieres, tu opción va perdiendo valor, ¿vale? Si la quieres cerrar antes de tiempo, esto es como si tú estás apostando a que un equipo va a ganar 2-0, van en el minuto 60 y sigue en 0-0. Pues en el minuto 70 tu apuesta valdrá menos, en el minuto 75 tu apuesta valdrá menos, ¿por qué? Porque es menos probable que se cumpla lo que tú has"
+    },
+    {
+      "index": 11,
+      "text_start": 13065,
+      "text_end": 14258,
+      "time_start_iso": "00:12:27",
+      "time_end_iso": "00:13:27",
+      "speakers": [],
+      "text": "dicho. Con lo cual, cuando estás comprado de opciones, el tiempo, que es la griega theta, eh va en tu contra, ¿vale? Entonces, ya es difícil de por sí acertar que algo va a subir como para encima acertar que algo va a subir en un periodo de tiempo determinado, ¿no? También es cierto que cuando compras una opción muy in the money, muy dentro del dinero, como esta, se parece tanto a una acción eh y está tan dentro del dinero, tan a favor, que el tiempo te impacta menos o te importa menos, ¿no? Pero bueno, aquí habría mucho que explicar, simplemente quería traeros eh a la tierra esto, no creo que la mayoría de vosotros debiera estar haciendo esto, pero simplemente para que entiendan que esto es una una forma, que es lo que habrá hecho Pelosi, de entrar a una acción con eh apalancamiento y teniendo algo muy similar, en este caso, cuando cuando decides comprar una opción tan in the money, teniendo algo muy similar al retorno de del de la acción, pero simplemente de forma apalancada. Espero que os haya servido, chicos, sé que es un contenido un poquito complejo, los que tengáis más ganas de aprender sobre esto, que sepáis que tenéis el curso gratuito de derivados en YouTube. Si os"
+    },
+    {
+      "index": 12,
+      "text_start": 14259,
+      "text_end": 14376,
+      "time_start_iso": "00:13:26",
+      "time_end_iso": "00:13:32",
+      "speakers": [],
+      "text": "ha gustado me podéis dejar un comentario y nosotros nos vemos en el siguiente vídeo. Se despide la Pizarra de Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.56,
+      "end": 5.5600000000000005,
+      "text": "mi canal La Pizarra de Andrés. En el día"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 2.96,
+      "end": 7.44,
+      "text": "de hoy os voy a explicar eh cómo la"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 5.56,
+      "end": 10.28,
+      "text": "megainversora Nancy Pelosi, ya sabéis"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 7.44,
+      "end": 11.8,
+      "text": "que esta persona consigue retornos muy"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 10.28,
+      "end": 14.76,
+      "text": "superiores a los mercados, ha tomado una"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 11.8,
+      "end": 17.36,
+      "text": "posición bastante curiosa en Intel a"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 14.76,
+      "end": 19.48,
+      "text": "través de eh una opción. Como sé que"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 17.36,
+      "end": 20.84,
+      "text": "para muchos de vosotros es muy complejo"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 19.48,
+      "end": 22.64,
+      "text": "entender qué es esto de las opciones,"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 20.84,
+      "end": 24.64,
+      "text": "etcétera, etcétera, os voy a explicar"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 22.64,
+      "end": 28.080000000000002,
+      "text": "con un ejemplo práctico cómo podéis"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 24.64,
+      "end": 30.28,
+      "text": "tener acceso también al eh al en este"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 28.08,
+      "end": 32.519999999999996,
+      "text": "caso las acciones sin hacer la compra"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 30.28,
+      "end": 33.800000000000004,
+      "text": "propia de la acción, sino comprando un"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 32.52,
+      "end": 36.6,
+      "text": "derivado financiero o lo que es un"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 33.8,
+      "end": 38.31999999999999,
+      "text": "producto eh apalancado, como podrían ser"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 36.6,
+      "end": 39.92,
+      "text": "las opciones, ¿vale? Os voy a poner el"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 38.32,
+      "end": 41.76,
+      "text": "ejemplo práctico de Intel para que"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 39.92,
+      "end": 44.120000000000005,
+      "text": "entendáis todo lo que conforma una"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 41.76,
+      "end": 46.199999999999996,
+      "text": "opción y por qué esto podría llegar a"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 44.12,
+      "end": 48.72,
+      "text": "ser interesante, ¿vale? Antes de empezar"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 46.2,
+      "end": 50.440000000000005,
+      "text": "quiero deciros que tenéis un vídeo, ya"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 48.72,
+      "end": 52.519999999999996,
+      "text": "sé que es un poco duro de digerir, de 1"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 50.44,
+      "end": 54.04,
+      "text": "hora 40, en el que os hago un curso"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 52.52,
+      "end": 56.120000000000005,
+      "text": "totalmente gratis, ya sabéis, los tenéis"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 54.04,
+      "end": 57.92,
+      "text": "gratis en mi canal de YouTube, en el que"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 56.12,
+      "end": 59.08,
+      "text": "os explico todo sobre los derivados"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 57.92,
+      "end": 60.92,
+      "text": "financieros. Dentro de los derivados"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 59.08,
+      "end": 62.8,
+      "text": "financieros hay uno en concreto, aquí lo"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 60.92,
+      "end": 64.36,
+      "text": "vemos, que son las opciones financieras."
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 62.8,
+      "end": 66.28,
+      "text": "Es cierto que este curso es bastante"
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 64.36,
+      "end": 68.12,
+      "text": "teórico y lo que vamos a hacer a ahora"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 66.28,
+      "end": 70.32000000000001,
+      "text": "es un poquito más práctico, con lo cual"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 68.12,
+      "end": 72.52000000000001,
+      "text": "el objetivo del de hoy no es tanto eh"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 70.32,
+      "end": 75.55999999999999,
+      "text": "teoría, sino que en 10 minutos entendáis"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 72.52,
+      "end": 78.0,
+      "text": "cómo se puede obtener eh exposición a"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 75.56,
+      "end": 79.96000000000001,
+      "text": "una acción sin eh la necesidad de"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 78.0,
+      "end": 81.2,
+      "text": "comprar la misma acción, ¿no? Para ello,"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 79.96,
+      "end": 84.19999999999999,
+      "text": "bueno, esto es Intel, ¿vale?"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 81.2,
+      "end": 85.72,
+      "text": "Aparentemente eh Nancy Pelosi en mayo,"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 84.2,
+      "end": 88.72,
+      "text": "aproximadamente cuando Intel estaba a"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 85.72,
+      "end": 92.0,
+      "text": "100, más o menos, ¿vale? Eh decidió"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 88.72,
+      "end": 94.12,
+      "text": "comprar opciones sobre Intel, ¿vale?"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 92.0,
+      "end": 96.04,
+      "text": "Ella habitualmente compra la propia"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 94.12,
+      "end": 97.48,
+      "text": "acción, en este caso decidió comprar una"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 96.04,
+      "end": 99.48,
+      "text": "opción."
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 97.48,
+      "end": 103.0,
+      "text": "¿Qué es la opción? Bueno, ya os anticipo"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 99.48,
+      "end": 105.24000000000001,
+      "text": "que es tener eh en este caso una apuesta"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 103.0,
+      "end": 106.84,
+      "text": "larga en la compañía, simplemente lo"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 105.24,
+      "end": 108.72,
+      "text": "hace sin comprar las acciones, lo hace"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 106.84,
+      "end": 110.88000000000001,
+      "text": "con este derivado. ¿Cómo funciona este"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 108.72,
+      "end": 112.76,
+      "text": "derivado? Bueno, las opciones hay de"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 110.88,
+      "end": 115.11999999999999,
+      "text": "muchos tipos, ¿vale? Existe una call,"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 112.76,
+      "end": 117.12,
+      "text": "bueno, hay dos tipos, la call y la put,"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 115.12,
+      "end": 119.08,
+      "text": "y las dos pueden estar compradas y"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 117.12,
+      "end": 121.04,
+      "text": "vendidas. En este caso vamos a ir con la"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 119.08,
+      "end": 123.2,
+      "text": "más sencilla de todas, que sería comprar"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 121.04,
+      "end": 125.52000000000001,
+      "text": "una call. Comprar una call es apostar a"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 123.2,
+      "end": 127.479,
+      "text": "que un subyacente sube, apostar a que"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 125.52,
+      "end": 129.64,
+      "text": "una acción sube, ¿vale? Eh, lo primero"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 127.479,
+      "end": 131.08,
+      "text": "que tiene las las opciones eh es un"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 129.64,
+      "end": 133.83999999999997,
+      "text": "vencimiento, es decir, oye, yo puedo"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 131.08,
+      "end": 135.44000000000003,
+      "text": "decir, oye, esto sube hasta tal fecha."
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 133.84,
+      "end": 137.28,
+      "text": "Es decir, tú puedes hacer una call a un"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 135.44,
+      "end": 139.72,
+      "text": "año. Ahora vamos a hacer el ejemplo de"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 137.28,
+      "end": 142.36,
+      "text": "una call a un año. Una call es apostar a"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 139.72,
+      "end": 143.84,
+      "text": "que suba un un subyacente, una acción, y"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 142.36,
+      "end": 146.64000000000001,
+      "text": "en este caso vamos a determinar que es a"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 143.84,
+      "end": 148.36,
+      "text": "un año, ¿vale? Lo segundo, eh hay que"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 146.64,
+      "end": 150.11999999999998,
+      "text": "notificar cuántos contratos vamos a"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 148.36,
+      "end": 152.48000000000002,
+      "text": "hacer. Normalmente, aquí lo pone, bueno,"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 150.12,
+      "end": 156.12,
+      "text": "aquí lo os lo os lo os lo he preguntado"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 152.48,
+      "end": 158.64,
+      "text": "ya. Eh, normalmente un contrato equivale"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 156.12,
+      "end": 161.28,
+      "text": "a 100 acciones, ¿vale? Con lo cual, en"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 158.64,
+      "end": 164.51999999999998,
+      "text": "este caso el valor del contrato,"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 161.28,
+      "end": 166.32,
+      "text": "muy importante esto, vale 100 por el"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 164.52,
+      "end": 168.92000000000002,
+      "text": "precio de la acción. Intel cotiza 110 a"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 166.32,
+      "end": 170.28,
+      "text": "día de hoy, un contrato de opciones call"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 168.92,
+      "end": 172.51999999999998,
+      "text": "sobre Intel"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 170.28,
+      "end": 173.959,
+      "text": "te estaría exponiendo, cuidado, ahora"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 172.52,
+      "end": 176.48000000000002,
+      "text": "vamos a entrar con el apalancamiento, te"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 173.959,
+      "end": 177.76,
+      "text": "estaría exponiendo a 11,000 de"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 176.48,
+      "end": 179.04,
+      "text": "subyacente, es decir, es como si"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 177.76,
+      "end": 182.2,
+      "text": "estuvieras haciendo una inversión de"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 179.04,
+      "end": 183.76,
+      "text": "11,000 dólares. Cuidado, no significa"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 182.2,
+      "end": 186.07999999999998,
+      "text": "que vayamos a depositar los 11,000,"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 183.76,
+      "end": 188.16,
+      "text": "¿vale? Estamos hablando de que me está"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 186.08,
+      "end": 190.32000000000002,
+      "text": "exponiendo, digamos, a 11,000."
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 188.16,
+      "end": 191.6,
+      "text": "¿Cómo funciona una call? Una call es una"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 190.32,
+      "end": 193.959,
+      "text": "apuesta, como si fuera una apuesta de"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 191.6,
+      "end": 196.0,
+      "text": "fútbol, exactamente igual, en la que tú"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 193.959,
+      "end": 198.0,
+      "text": "pagas una prima, la prima es por abrir"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 196.0,
+      "end": 200.28,
+      "text": "el contrato, pagas una prima y te"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 198.0,
+      "end": 202.4,
+      "text": "expones a la subida. En caso de que vaya"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 200.28,
+      "end": 204.239,
+      "text": "mal, pierdes la prima, ¿vale? Es tan"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 202.4,
+      "end": 207.16,
+      "text": "sencillo como eso. Entonces, en lugar de"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 204.239,
+      "end": 210.0,
+      "text": "ser una acción en la que si sube ganamos"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 207.16,
+      "end": 211.68,
+      "text": "y si baja perdemos, aquí entramos y ya"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 210.0,
+      "end": 213.72,
+      "text": "sabemos si sale mal lo que perdemos, que"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 211.68,
+      "end": 215.56,
+      "text": "es la prima que hemos pagado, ¿vale?"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 213.72,
+      "end": 218.16,
+      "text": "Entonces, en este caso, y lo más curioso"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 215.56,
+      "end": 220.32,
+      "text": "de todo, es que Nancy Pelosi ha puesto"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 218.16,
+      "end": 222.92,
+      "text": "un precio objetivo de Intel de 50. Esto"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 220.32,
+      "end": 225.76,
+      "text": "es lo que se llama strike 50, ¿vale? En"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 222.92,
+      "end": 228.48,
+      "text": "este caso, como Intel cotiza 110, un"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 225.76,
+      "end": 231.04,
+      "text": "strike de 50 significa"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 228.48,
+      "end": 233.48,
+      "text": "que el precio ya está muy por por de 50,"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 231.04,
+      "end": 235.35999999999999,
+      "text": "con lo cual la la call, lo que es la"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 233.48,
+      "end": 236.32,
+      "text": "opción, va a ser tremendamente cara,"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 235.36,
+      "end": 237.84,
+      "text": "¿vale?"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 236.32,
+      "end": 239.76,
+      "text": "¿Qué es lo que tenemos nosotros, vale?"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 237.84,
+      "end": 242.64000000000001,
+      "text": "En este caso, vamos a ponérnoslo fácil,"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 239.76,
+      "end": 244.95999999999998,
+      "text": "un contrato de 100 acciones de Intel"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 242.64,
+      "end": 247.35999999999999,
+      "text": "que nos va a exponer a 11.000, a 11.000,"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 244.96,
+      "end": 250.44,
+      "text": "digamos, de, de, a esas 100 acciones,"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 247.36,
+      "end": 254.04000000000002,
+      "text": "pero que nos va a costar un dinero"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 250.44,
+      "end": 256.16,
+      "text": "porque eh hemos decidido que mientras la"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 254.04,
+      "end": 257.28,
+      "text": "empresa suba, esté por encima de 50, yo"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 256.16,
+      "end": 259.28000000000003,
+      "text": "gano dinero."
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 257.28,
+      "end": 260.359,
+      "text": "Ojo, gano quiere decir recupero. Por"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 259.28,
+      "end": 262.84,
+      "text": "otro lado,"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 260.359,
+      "end": 265.32,
+      "text": "como tengo algo tan bueno, que es que"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 262.84,
+      "end": 267.67999999999995,
+      "text": "algo que vale 110, por encima de 50 gano"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 265.32,
+      "end": 268.919,
+      "text": "dinero, acordaros, strike es el precio"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 267.68,
+      "end": 271.16,
+      "text": "mínimo al que tiene que estar para yo"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 268.919,
+      "end": 273.0,
+      "text": "ganar dinero, lo que quiere decir que si"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 271.16,
+      "end": 275.52000000000004,
+      "text": "yo tengo un strike de 50 y la empresa"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 273.0,
+      "end": 277.8,
+      "text": "está a 100 a día de hoy,"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 275.52,
+      "end": 279.28,
+      "text": "mucho dinero tengo que pagar para tener"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 277.8,
+      "end": 280.96000000000004,
+      "text": "un producto tan bueno, porque es muy"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 279.28,
+      "end": 283.23999999999995,
+      "text": "difícil que yo pierda dinero en esa, en"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 280.96,
+      "end": 284.4,
+      "text": "esa opción, ¿no? Entonces,"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 283.24,
+      "end": 286.36,
+      "text": "lo primero que hay que preguntarle aquí"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 284.4,
+      "end": 288.47999999999996,
+      "text": "es, oye, Gemini,"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 286.36,
+      "end": 290.12,
+      "text": "¿cuánto me cuesta la prima?"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 288.48,
+      "end": 292.08000000000004,
+      "text": "Vale, la prima, insisto, es lo que te"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 290.12,
+      "end": 293.32,
+      "text": "cuesta adelantar, por eso son vehículos"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 292.08,
+      "end": 295.919,
+      "text": "apalancados, porque tú vas a tener"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 293.32,
+      "end": 298.08,
+      "text": "acceso a 11.000 de exposición, pero tú"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 295.919,
+      "end": 300.15999999999997,
+      "text": "no pones 11.000, tú pagas el producto"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 298.08,
+      "end": 301.76,
+      "text": "con la prima, con lo que es entrar a esa"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 300.16,
+      "end": 304.16,
+      "text": "apuesta, ¿vale? Entonces, ¿cuánto me"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 301.76,
+      "end": 306.48,
+      "text": "cuesta la prima?"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 304.16,
+      "end": 307.88000000000005,
+      "text": "En este caso, vamos a poner de una"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 306.48,
+      "end": 310.20000000000005,
+      "text": "opción call, que en este caso es la"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 307.88,
+      "end": 313.32,
+      "text": "opción de compra, opción call, de una"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 310.2,
+      "end": 317.32,
+      "text": "opción call a un año"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 313.32,
+      "end": 319.84,
+      "text": "sobre Intel, hay que decirle subyacente,"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 317.32,
+      "end": 321.68,
+      "text": "con strike, strike es el precio mínimo"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 319.84,
+      "end": 323.2,
+      "text": "en el que yo, al que yo, a partir del"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 321.68,
+      "end": 326.6,
+      "text": "cual yo empiezo a ganar dinero, con"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 323.2,
+      "end": 327.84,
+      "text": "strike de 50 USD."
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 326.6,
+      "end": 328.96000000000004,
+      "text": "Nos dice que, que el contrato vale"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 327.84,
+      "end": 331.11999999999995,
+      "text": "11.000 dólares, como hemos dicho"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 328.96,
+      "end": 333.4,
+      "text": "anteriormente, y vale, aquí lo primero"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 331.12,
+      "end": 336.56,
+      "text": "que vemos es, nos lo calcula y nos dice,"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 333.4,
+      "end": 338.47999999999996,
+      "text": "entrar en este contrato vale 6.300"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 336.56,
+      "end": 341.08,
+      "text": "dólares. Alguien puede empezar, Andrés,"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 338.48,
+      "end": 343.40000000000003,
+      "text": "pero entonces, esta chica, por cada, por"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 341.08,
+      "end": 346.4,
+      "text": "cada 10.000 euros que quiera de, de, de"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 343.4,
+      "end": 348.91999999999996,
+      "text": "exposición a Intel, va a perder un 60%"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 346.4,
+      "end": 350.84,
+      "text": "porque tiene que pagar 6300, cuidado. Lo"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 348.92,
+      "end": 352.88,
+      "text": "que estamos diciendo aquí es oye, esta"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 350.84,
+      "end": 355.0,
+      "text": "esta opción va poco apalancada, ¿por"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 352.88,
+      "end": 357.15999999999997,
+      "text": "qué? Porque yo estoy apostando por Intel"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 355.0,
+      "end": 359.8,
+      "text": "al alza con"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 357.16,
+      "end": 362.52000000000004,
+      "text": "6000 y pico dólares para para exponerme"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 359.8,
+      "end": 364.64,
+      "text": "a 11000 de o a 10000 de acciones, ¿vale?"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 362.52,
+      "end": 366.52,
+      "text": "Con lo cual el apalancamiento sería lo"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 364.64,
+      "end": 368.59999999999997,
+      "text": "que vemos entre 6000 y 10000, que es"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 366.52,
+      "end": 369.79999999999995,
+      "text": "como 1,5 veces, es un apalancamiento"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 368.6,
+      "end": 373.12,
+      "text": "pequeño, ¿por qué es un apalancamiento"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 369.8,
+      "end": 375.72,
+      "text": "pequeño? Porque hay muy poco riesgo en"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 373.12,
+      "end": 377.919,
+      "text": "el subyacente de que caiga por debajo de"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 375.72,
+      "end": 379.6,
+      "text": "50, ¿por qué? Porque está a 109,"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 377.919,
+      "end": 381.4,
+      "text": "entonces alguien podría decir, Andrés,"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 379.6,
+      "end": 384.08000000000004,
+      "text": "pero entonces ¿cómo va a ganar dinero"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 381.4,
+      "end": 386.12,
+      "text": "esta persona? Si yo empiezo palmando,"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 384.08,
+      "end": 388.08,
+      "text": "empiezo pagando una prima de 6000 y"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 386.12,
+      "end": 390.88,
+      "text": "pico, ¿cómo voy a ganar dinero? Muy"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 388.08,
+      "end": 392.0,
+      "text": "sencillo, ganas dinero a partir de 50"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 390.88,
+      "end": 394.48,
+      "text": "dólares, entonces yo ahora le puedo"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 392.0,
+      "end": 396.64,
+      "text": "preguntar, ¿y qué pasa"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 394.48,
+      "end": 397.91900000000004,
+      "text": "si a vencimiento, por ejemplo,"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 396.64,
+      "end": 400.0,
+      "text": "cae"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 397.919,
+      "end": 402.12,
+      "text": "a vencimiento"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 400.0,
+      "end": 404.68,
+      "text": "yo lo he hecho a 100, pero la empresa"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 402.12,
+      "end": 407.28000000000003,
+      "text": "cae y a dentro de un año vale 80, pero"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 404.68,
+      "end": 409.0,
+      "text": "vale 80 y yo mi strike lo puse a 50, con"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 407.28,
+      "end": 411.52,
+      "text": "lo cual le voy a preguntar, oye, está en"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 409.0,
+      "end": 413.68,
+      "text": "80, mi mi salvación es 50, quiere decir"
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 411.52,
+      "end": 415.15999999999997,
+      "text": "que de 50 a 80 he ganado dinero, algo"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 413.68,
+      "end": 417.96,
+      "text": "tengo que recuperar de la prima,"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 415.16,
+      "end": 419.12,
+      "text": "entonces le preguntamos esto,"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 417.96,
+      "end": 420.84,
+      "text": "¿vale?"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 419.12,
+      "end": 422.2,
+      "text": "Y nos va a decir que recuperamos dinero,"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 420.84,
+      "end": 424.76,
+      "text": "¿vale? Aquí nos dice la diferencia, lo"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 422.2,
+      "end": 427.08,
+      "text": "calcula y dice, estamos recuperando 3000"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 424.76,
+      "end": 430.59999999999997,
+      "text": "dólares, como pusimos 6400, me cuesta"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 427.08,
+      "end": 433.15999999999997,
+      "text": "decir que Intel baje de 110 a 80, si os"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 430.6,
+      "end": 435.56,
+      "text": "fijáis me cuesta un 30 y pico por"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 433.16,
+      "end": 437.0,
+      "text": "ciento, en este caso no es un 30 y pico"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 435.56,
+      "end": 439.28000000000003,
+      "text": "por ciento, es un 30 y pico por ciento"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 437.0,
+      "end": 441.6,
+      "text": "sobre el nocional, pero un 50% sobre el"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 439.28,
+      "end": 444.64,
+      "text": "dinero que puse, porque yo puse 6400,"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 441.6,
+      "end": 446.52000000000004,
+      "text": "¿vale? Esto es la la la eh las ventajas"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 444.64,
+      "end": 449.12,
+      "text": "y los inconvenientes del apalancamiento,"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 446.52,
+      "end": 452.919,
+      "text": "es decir, yo me he expuesto a algo muy"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 449.12,
+      "end": 455.56,
+      "text": "similar a mmm 11000 euros de Intel"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 452.919,
+      "end": 457.15999999999997,
+      "text": "eh pero me he expuesto con 6400, me ha"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 455.56,
+      "end": 458.76,
+      "text": "salido mal porque Intel ha bajado, yo lo"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 457.16,
+      "end": 461.24,
+      "text": "hice a 110 y ahora está a 80, dentro de"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 458.76,
+      "end": 464.92,
+      "text": "un año está a 80, con lo lo solamente"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 461.24,
+      "end": 466.84000000000003,
+      "text": "rescato 3000 dólares de ganancia, que es"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 464.92,
+      "end": 469.24,
+      "text": "la ganancia que me da la opción entre 50"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 466.84,
+      "end": 471.2,
+      "text": "y 80, ¿vale? Eh, y por lo tanto mi"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 469.24,
+      "end": 473.24,
+      "text": "apuesta al final sobre dinero puesto"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 471.2,
+      "end": 475.76,
+      "text": "sería un menos 50 y pico, menos 60%"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 473.24,
+      "end": 477.72,
+      "text": "sobre el subyacente que te jugaste al"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 475.76,
+      "end": 479.44,
+      "text": "final perdiste"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 477.72,
+      "end": 481.56,
+      "text": "algo similar a lo que a lo que hubiera"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 479.44,
+      "end": 486.36,
+      "text": "eh perdido la acción, ¿no? ¿Qué pasa,"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 481.56,
+      "end": 488.72,
+      "text": "sin embargo, en el que hago break even"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 486.36,
+      "end": 490.24,
+      "text": "dentro de un año? Es decir, le quiero"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 488.72,
+      "end": 491.6,
+      "text": "preguntar, \"O vale, muy bien, pues me"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 490.24,
+      "end": 493.28000000000003,
+      "text": "estás diciendo que en 80 pierdo dinero,"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 491.6,
+      "end": 495.24,
+      "text": "recupero, pero pierdo un poco, sigo"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 493.28,
+      "end": 497.88,
+      "text": "perdiendo. ¿Cuál es el precio por"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 495.24,
+      "end": 500.6,
+      "text": "encima, probablemente de 110, en el que"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 497.88,
+      "end": 502.12,
+      "text": "yo empiezo a ganar dinero y me cubro"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 500.6,
+      "end": 504.04,
+      "text": "esos 6000 y pico que he adelantado?\""
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 502.12,
+      "end": 506.28000000000003,
+      "text": "Vale, pues le hacemos esta pregunta."
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 504.04,
+      "end": 507.44,
+      "text": "Quiere decir, \"Oye, ¿qué es lo que pasa"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 506.28,
+      "end": 509.44,
+      "text": "con esta opción?\" Que esto ya es"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 507.44,
+      "end": 512.76,
+      "text": "contenido más complejo. Que como está"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 509.44,
+      "end": 514.96,
+      "text": "muy in the money, in the money significa"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 512.76,
+      "end": 517.08,
+      "text": "que la opción está muy a tu favor. ¿Por"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 514.96,
+      "end": 519.44,
+      "text": "qué está muy a tu favor? Porque mientras"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 517.08,
+      "end": 520.96,
+      "text": "esté por encima de 50 dentro de un año,"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 519.44,
+      "end": 522.8800000000001,
+      "text": "tú recuperas dinero. Eso se llama in the"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 520.96,
+      "end": 525.2,
+      "text": "money, es decir, tiene que pasar un"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 522.88,
+      "end": 526.68,
+      "text": "desastre para que tú no recuperes"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 525.2,
+      "end": 528.6800000000001,
+      "text": "dinero. Por eso es tan cara, es una"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 526.68,
+      "end": 530.8389999999999,
+      "text": "empresa es una opción donde te cuesta"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 528.68,
+      "end": 532.68,
+      "text": "por cada 11000 de subyacente te cuesta"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 530.839,
+      "end": 534.36,
+      "text": "6000 de prima. Pero ¿qué pasa? Que lo"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 532.68,
+      "end": 535.92,
+      "text": "normal es que dentro de un año recuperes"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 534.36,
+      "end": 537.08,
+      "text": "algo, porque es muy difícil que Intel"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 535.92,
+      "end": 539.12,
+      "text": "caiga un 50 y pico por ciento. Ahora"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 537.08,
+      "end": 541.32,
+      "text": "bien, que Intel mañana vale 40, tú has"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 539.12,
+      "end": 542.8,
+      "text": "perdido los 6000 y pico, ¿vale?"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 541.32,
+      "end": 545.4000000000001,
+      "text": "Eh, también es cierto que si compras la"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 542.8,
+      "end": 546.68,
+      "text": "acción a día de hoy y y compras 10000"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 545.4,
+      "end": 548.52,
+      "text": "euros,"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 546.68,
+      "end": 549.9599999999999,
+      "text": "em, si se te va a 40 también pierdes un"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 548.52,
+      "end": 551.28,
+      "text": "60 o 70 por ciento. Entonces, ¿qué es lo"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 549.96,
+      "end": 553.64,
+      "text": "que pasa con esta opción? Que está tan"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 551.28,
+      "end": 555.72,
+      "text": "in the money que tiene un perfil de"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 553.64,
+      "end": 557.88,
+      "text": "ganar y de perder similar al de una el"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 555.72,
+      "end": 559.96,
+      "text": "al de una acción, ¿vale?"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 557.88,
+      "end": 561.92,
+      "text": "Eh, también hay muchas cosas más. Una"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 559.96,
+      "end": 563.2,
+      "text": "opción, las americanas, bueno, hay"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 561.92,
+      "end": 564.8,
+      "text": "varios tipos de opciones, pero muchas"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 563.2,
+      "end": 566.5600000000001,
+      "text": "opciones se pueden cerrar antes de, es"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 564.8,
+      "end": 568.76,
+      "text": "decir, a ti te puede ir bien el primer"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 566.56,
+      "end": 570.76,
+      "text": "mes, Intel sube a 130 y tú puedes cerrar"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 568.76,
+      "end": 572.3199999999999,
+      "text": "tu opción de la misma forma que alguien"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 570.76,
+      "end": 574.3199999999999,
+      "text": "que tiene una apuesta hecha en un"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 572.32,
+      "end": 576.0,
+      "text": "partido a que gana un equipo, ese equipo"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 574.32,
+      "end": 578.1600000000001,
+      "text": "ganando 2-0 al descanso puede cerrar la"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 576.0,
+      "end": 580.76,
+      "text": "apuesta. Pues esto es lo mismo, ¿vale?"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 578.16,
+      "end": 582.0799999999999,
+      "text": "Entonces, eh en este caso, ¿dónde ganas"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 580.76,
+      "end": 586.84,
+      "text": "dinero? Pues le puedes decir, \"Oye, ¿y"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 582.08,
+      "end": 588.5200000000001,
+      "text": "cuánto gano y cuánto gano si Intel"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 586.84,
+      "end": 591.6,
+      "text": "en un año?\""
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 588.52,
+      "end": 593.0799999999999,
+      "text": "Vale, 160 USD, ¿vale? Por ejemplo, pues"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 591.6,
+      "end": 594.5600000000001,
+      "text": "lo mismo, le puedes preguntar. Entonces,"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 593.08,
+      "end": 596.32,
+      "text": "¿qué es lo que pasa? Que al al ser un"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 594.56,
+      "end": 597.68,
+      "text": "producto, en este caso,"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 596.32,
+      "end": 599.1600000000001,
+      "text": "que sigo sin entender mucho por qué la"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 597.68,
+      "end": 601.16,
+      "text": "quería hacer hacer así, pelosi, me"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 599.16,
+      "end": 603.8,
+      "text": "imagino que por el apalancamiento, ¿no?"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 601.16,
+      "end": 606.16,
+      "text": "Eh bueno, aquí te lo dice a 160, eh en"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 603.8,
+      "end": 608.16,
+      "text": "este caso ganarías 4,600 dólares. Si os"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 606.16,
+      "end": 610.8,
+      "text": "fijáis, 4,600 dólares habiendo puesto"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 608.16,
+      "end": 613.56,
+      "text": "11, pues es más o menos un 40 y pico por"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 610.8,
+      "end": 615.24,
+      "text": "ciento, algo muy similar a si la así la"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 613.56,
+      "end": 617.4799999999999,
+      "text": "acción, compras la acción y se te fuera"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 615.24,
+      "end": 619.08,
+      "text": "de 110 a 160, ¿no? Que hemos puesto"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 617.48,
+      "end": 620.84,
+      "text": "aquí. ¿Vale? Entonces, ¿qué es lo que"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 619.08,
+      "end": 622.4000000000001,
+      "text": "pasa? Que cuando una opción está muy"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 620.84,
+      "end": 624.4,
+      "text": "dentro del dinero, se le parece"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 622.4,
+      "end": 626.1999999999999,
+      "text": "muchísimo a una acción, con la"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 624.4,
+      "end": 628.04,
+      "text": "diferencia de que en una acción para"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 626.2,
+      "end": 629.32,
+      "text": "tener eh en este caso sería una acción"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 628.04,
+      "end": 632.92,
+      "text": "apalancada, con la diferencia que en una"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 629.32,
+      "end": 634.5600000000001,
+      "text": "acción para tú poder tener 11,000 de de"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 632.92,
+      "end": 636.12,
+      "text": "subyacente, tienes que depositar 11,000"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 634.56,
+      "end": 638.9599999999999,
+      "text": "euros, que es comprar acciones por valor"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 636.12,
+      "end": 641.08,
+      "text": "de 11,000 euros, y sin embargo, eh"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 638.96,
+      "end": 644.0400000000001,
+      "text": "cuando tú eh"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 641.08,
+      "end": 645.839,
+      "text": "quieres eh hacer esto,"
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 644.04,
+      "end": 647.52,
+      "text": "pero con la opción, tú solo pones 6,000"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 645.839,
+      "end": 650.0,
+      "text": "y pico euros, con lo cual, el retorno"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 647.52,
+      "end": 652.16,
+      "text": "final es 72 por ciento, ¿vale? Pero es"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 650.0,
+      "end": 654.52,
+      "text": "72 por ciento porque se compara en"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 652.16,
+      "end": 656.16,
+      "text": "contra la prima que pusiste, no se te"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 654.52,
+      "end": 658.4399999999999,
+      "text": "compara contra el subyacente. Si"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 656.16,
+      "end": 660.52,
+      "text": "comparáramos contra el subyacente,"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 658.44,
+      "end": 662.48,
+      "text": "el resultado es similar. En este tipo de"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 660.52,
+      "end": 665.16,
+      "text": "de opciones que están tan in the money,"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 662.48,
+      "end": 666.6800000000001,
+      "text": "el comportamiento euro por euro, ¿no?"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 665.16,
+      "end": 668.0799999999999,
+      "text": "Del nocional es muy similar al de una"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 666.68,
+      "end": 670.3599999999999,
+      "text": "acción. ¿Qué pasa? Que como hacer las"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 668.08,
+      "end": 672.6,
+      "text": "opciones van apalancadas y cuesta menos"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 670.36,
+      "end": 675.6800000000001,
+      "text": "dinero, la subida, es decir, esta"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 672.6,
+      "end": 677.96,
+      "text": "ganancia de 4,600 dólares sobre 6,400"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 675.68,
+      "end": 679.92,
+      "text": "que pusiste es un 72 por ciento. ¿Por"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 677.96,
+      "end": 681.48,
+      "text": "qué es un 72? Porque pusiste 6,400"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 679.92,
+      "end": 683.52,
+      "text": "dólares, no pusiste los 10, 11,000 que"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 681.48,
+      "end": 685.52,
+      "text": "tendría que poner alguien con acciones."
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 683.52,
+      "end": 688.1999999999999,
+      "text": "Con lo cual, en este caso,"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 685.52,
+      "end": 689.68,
+      "text": "eh el el bueno, aquí lo veis, ¿no?"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 688.2,
+      "end": 692.88,
+      "text": "Dinero recuperado al final son 11,000,"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 689.68,
+      "end": 695.1999999999999,
+      "text": "como pusiste 6,400 de prima, ganas 4,600"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 692.88,
+      "end": 697.56,
+      "text": "4600 dólares, me imagino que dividido"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 695.2,
+      "end": 699.6400000000001,
+      "text": "entre 6400 te da un 72% de"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 697.56,
+      "end": 701.3599999999999,
+      "text": "revalorización sobre dinero puesto, que"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 699.64,
+      "end": 702.76,
+      "text": "es lo que buscamos cuando calculamos la"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 701.36,
+      "end": 704.32,
+      "text": "rentabilidad, ¿no? Y esto ha sido un"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 702.76,
+      "end": 706.72,
+      "text": "ejemplo, que me lo ha pedido la gente,"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 704.32,
+      "end": 709.0400000000001,
+      "text": "de lo que sería comprar una opción."
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 706.72,
+      "end": 710.08,
+      "text": "Por lo general, la opción tiene algo muy"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 709.04,
+      "end": 711.48,
+      "text": "tricky, que es lo que la gente no"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 710.08,
+      "end": 713.0400000000001,
+      "text": "entiende, que no es solo apostar a que"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 711.48,
+      "end": 714.6800000000001,
+      "text": "algo va a hacer X, sino es apostarlo en"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 713.04,
+      "end": 716.5999999999999,
+      "text": "un periodo de tiempo. Eso complica las"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 714.68,
+      "end": 718.2399999999999,
+      "text": "cosas muchísimo más, es decir, cuando tú"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 716.6,
+      "end": 719.9200000000001,
+      "text": "compras una acción, tú eres el tiempo,"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 718.24,
+      "end": 721.52,
+      "text": "tú decides cuándo te quedas, cuándo"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 719.92,
+      "end": 723.0799999999999,
+      "text": "cuándo te vas, cuando lo que sea. Cuando"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 721.52,
+      "end": 725.92,
+      "text": "tú tienes una opción,"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 723.08,
+      "end": 727.44,
+      "text": "eh el tiempo va va mar va yendo en tu"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 725.92,
+      "end": 729.12,
+      "text": "contra, el tiempo es malo para el"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 727.44,
+      "end": 730.5600000000001,
+      "text": "comprador de una opción, ¿vale? Porque"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 729.12,
+      "end": 731.84,
+      "text": "se va cada vez que se va agotando el"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 730.56,
+      "end": 734.16,
+      "text": "tiempo y el precio no va donde tú"
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 731.84,
+      "end": 735.2,
+      "text": "quieres, tu opción va perdiendo valor,"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 734.16,
+      "end": 736.88,
+      "text": "¿vale? Si la quieres cerrar antes de"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 735.2,
+      "end": 738.12,
+      "text": "tiempo, esto es como si tú estás"
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 736.88,
+      "end": 741.12,
+      "text": "apostando a que un equipo va a ganar"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 738.12,
+      "end": 742.64,
+      "text": "2-0, van en el minuto 60 y sigue en 0-0."
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 741.12,
+      "end": 744.44,
+      "text": "Pues en el minuto 70 tu apuesta valdrá"
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 742.64,
+      "end": 745.92,
+      "text": "menos, en el minuto 75 tu apuesta valdrá"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 744.44,
+      "end": 747.24,
+      "text": "menos, ¿por qué? Porque es menos"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 745.92,
+      "end": 748.7199999999999,
+      "text": "probable que se cumpla lo que tú has"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 747.24,
+      "end": 751.28,
+      "text": "dicho. Con lo cual, cuando estás"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 748.72,
+      "end": 754.36,
+      "text": "comprado de opciones, el tiempo, que es"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 751.28,
+      "end": 756.0,
+      "text": "la griega theta, eh va en tu contra,"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 754.36,
+      "end": 757.839,
+      "text": "¿vale? Entonces, ya es difícil de por sí"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 756.0,
+      "end": 759.72,
+      "text": "acertar que algo va a subir como para"
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 757.839,
+      "end": 761.32,
+      "text": "encima acertar que algo va a subir en un"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 759.72,
+      "end": 762.64,
+      "text": "periodo de tiempo determinado, ¿no?"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 761.32,
+      "end": 764.8000000000001,
+      "text": "También es cierto que cuando compras una"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 762.64,
+      "end": 766.76,
+      "text": "opción muy in the money, muy dentro del"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 764.8,
+      "end": 767.88,
+      "text": "dinero, como esta, se parece tanto a una"
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 766.76,
+      "end": 770.0,
+      "text": "acción"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 767.88,
+      "end": 772.92,
+      "text": "eh y está tan dentro del dinero, tan a"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 770.0,
+      "end": 774.64,
+      "text": "favor, que el tiempo te impacta menos o"
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 772.92,
+      "end": 776.0799999999999,
+      "text": "te importa menos, ¿no? Pero bueno, aquí"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 774.64,
+      "end": 777.96,
+      "text": "habría mucho que explicar, simplemente"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 776.08,
+      "end": 779.08,
+      "text": "quería traeros eh a la tierra esto, no"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 777.96,
+      "end": 780.64,
+      "text": "creo que la mayoría de vosotros debiera"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 779.08,
+      "end": 782.2800000000001,
+      "text": "estar haciendo esto, pero simplemente"
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 780.64,
+      "end": 783.4399999999999,
+      "text": "para que entiendan que esto es una una"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 782.28,
+      "end": 785.8389999999999,
+      "text": "forma, que es lo que habrá hecho Pelosi,"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 783.44,
+      "end": 788.48,
+      "text": "de entrar a una acción con eh"
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 785.839,
+      "end": 789.9200000000001,
+      "text": "apalancamiento y teniendo algo muy"
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 788.48,
+      "end": 791.839,
+      "text": "similar, en este caso, cuando cuando"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 789.92,
+      "end": 793.64,
+      "text": "decides comprar una opción tan in the"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 791.839,
+      "end": 796.4000000000001,
+      "text": "money, teniendo algo muy similar al"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 793.64,
+      "end": 798.4,
+      "text": "retorno de del de la acción, pero"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 796.4,
+      "end": 799.56,
+      "text": "simplemente de forma apalancada. Espero"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 798.4,
+      "end": 800.92,
+      "text": "que os haya servido, chicos, sé que es"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 799.56,
+      "end": 802.4399999999999,
+      "text": "un contenido un poquito complejo, los"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 800.92,
+      "end": 804.04,
+      "text": "que tengáis más ganas de aprender sobre"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 802.44,
+      "end": 806.2800000000001,
+      "text": "esto, que sepáis que tenéis el curso"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 804.04,
+      "end": 807.56,
+      "text": "gratuito de derivados en YouTube. Si os"
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 806.28,
+      "end": 808.88,
+      "text": "ha gustado me podéis dejar un comentario"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 807.56,
+      "end": 812.28,
+      "text": "y nosotros nos vemos en el siguiente"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 808.88,
+      "end": 812.28,
+      "text": "vídeo. Se despide la Pizarra de Andrés."
+    }
+  ]
+}

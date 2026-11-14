@@ -1,0 +1,3106 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=qlvtWjTEh0E",
+    "video_id": "qlvtWjTEh0E",
+    "title": "Analizando el PRIMER Día en Bolsa de SpaceX ¿Qué podemos Esperar?",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\n🎓 Certifícate en asesoramiento financiero con MyInvestor. Usa el código AFPIZARRA para conseguir un descuento exclusivo: https://myinvestor.es/landings/cursos/asesor-financiero/ \n\nEn el vídeo de hoy vamos a analizar la histórica salida de SpaceX a los mercados financieros.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA:\nhttps://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel= \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-06-14",
+    "duration_seconds": 851,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:30:45+00:00"
+  },
+  "stats": {
+    "segment_count": 421,
+    "chunk_count": 14,
+    "speaker_count": 0,
+    "word_count": 2956,
+    "character_count": 15717,
+    "time_span_seconds": 852
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1163,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:09",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal La Pizarra de Andrés. En el día de hoy venimos con un vídeo lleno de actualizaciones. Como bien sabéis, recientemente ha salido la compañía más grande de la historia a cotizar, o mejor dicho, la salida a bolsa más grande de la historia, y vamos a ver qué tal ha salido. Además, vamos a hacer un pequeño repaso rápido de lo que va eh de lo que está haciendo la cartera en este mes, que ya os anticipo que está en máximos históricos. Recordaros un pequeño cambio que he hecho de fondos, por si alguno no se ha visto los vídeos previos de YouTube, y además os voy a informar de algo de lo que estoy muy muy contento, que es esto que veis aquí, que es una formación eh amparada por la CNMV de MyInvestor y la Carlos III. Em tengo el el el honor, diría, de ser parte de este de este em de esta formación y si a alguien le interesa, pues o bien mejorar su currículum en el sector, o bien eh afianzar ciertos conceptos que habéis aprendido conmigo, o bien el día de mañana dedicarse al asesoramiento, pues esto puede ser un buen un inicio eh de cómo hacerlo, ¿no? Aunque aquí pone que el curso vale 2000 300 euros, con el"
+    },
+    {
+      "index": 1,
+      "text_start": 1164,
+      "text_end": 2341,
+      "time_start_iso": "00:01:05",
+      "time_end_iso": "00:02:13",
+      "speakers": [],
+      "text": "código AFPIZARRA em todo en mayúsculas, se hará un descuento del 20%, se queda en 1800 y pico euros. Aprovecho para decir que justo este poquito es publicidad, que de esto vamos a hablar al final del vídeo, ¿vale? Porque sé sé que esto ahora mismo no os interesa a todos, pero eh simplemente creo que es una opción muy válida em para todos aquellos que pues lo que he dicho anteriormente, que quieren afianzar un poco esos conceptos, ya sea por su propio bien o sea porque se quieren dedicar al mundillo. Ahora sí, vamos a lo importante. Vamos a hablar de SpaceX. Lo primero de todo es que antes de SpaceX, lo que quiero nombrar es que por lo que fuera SpaceX salió el viernes, el jueves Trump hizo eso que que que le llaman taco, ¿no? Eh Trump always chickens out, Trump siempre se caga, y el jueves antes de la salida de SpaceX puso el mercado de cara diciendo que iba a llegar o había llegado en a acuerdo, eh, para eh, frenar la guerra, etcétera, etcétera, un settlement que llaman ellos. Esto es lo que, qué es lo que ha conseguido, pues que lo más importante ahora mismo, lo que estaba en el punto de mira de los mercados financieros, que es el el barril de Brent, bajara"
+    },
+    {
+      "index": 2,
+      "text_start": 2342,
+      "text_end": 3512,
+      "time_start_iso": "00:02:10",
+      "time_end_iso": "00:03:23",
+      "speakers": [],
+      "text": "significativamente hasta 84, ¿vale? Sí, 84, 87, dependiendo cuál miréis de los dos. Si nos metemos en cualquiera de estos, podemos ver cómo, pues, el barril llegó a tocar aquí picos de 110, 113 y hoy está 84, con lo cual esto es muy positivo, ya sabes que el Brent es uno de los principales drivers de la inflación y que si esto se relaja, las subidas de tipos que están tanto amenazando en Estados Unidos, pues, podrían no llegar a a producirse y eso es positivo para los mercados, ¿no? Con lo cual, de primeras, eh, esto empezó bien, esto fue el jueves, ¿vale? También, eh, a raíz de esa noticia y un poco a raíz del del viernes, donde subió otro 0,50 adicional, aquí lo veis, el S&P 500 se volvió a posicionar muy cerquita de máximos, en 7.431, a solo 150 puntos de los máximos, ¿no? Eh, previamente, pues, habíamos visto una ligera caída, aquí lo vemos, hasta 7.200, aquí un poquito de, no digo de pánico, pero un poco de dudas, porque ya sabéis que cuando el S&P 500 se cae un 3%, un 4%, mucha gente ya se pregunta qué está pasando, pero, eh, tanto el el settlement de Trump, eh, sobre la guerra, como eh, la salida de SpaceX, que ahora os, ahora la veremos, que ha"
+    },
+    {
+      "index": 3,
+      "text_start": 3513,
+      "text_end": 4682,
+      "time_start_iso": "00:03:20",
+      "time_end_iso": "00:04:34",
+      "speakers": [],
+      "text": "sido más o menos un éxito, pues, eh, han hecho que el mercado rebote, ¿no? Con lo cual, vuelvo a estar en una posición cómoda con, eh, un montón de de de cosas muy cerca de máximos, ¿no? Incluyendo estos índices, ¿no? ¿Qué fue de la de la salida a bolsa de SpaceX, vale? Aquí lo vemos, esto es un, eh, esto es el día de trading entero de SpaceX, ¿vale? Hay gente que viendo esto puede pensar que, oye, que la salida no fue tan buena, porque subió, luego bajó, pero está muy cerca de la salida. No, no, no, no, SpaceX se planteaba va a en 135 y la salida acabó siendo a 149, es decir, esto de aquí es como si ya vierais un gap, es decir, un hueco desde su punto de salida, el el punto de salida que iba a ser, que se esperaba, que si lo queremos pintar aquí con una, por ejemplo, línea horizontal, eh, hubiera sido aquí, ¿vale? Es como si SpaceX hubiera salido a este precio, hubiera abierto al alza hasta aquí y después desarrollara su sesión, ¿vale? Entonces, eh, lo que vemos es una subida del 19% durante la sesión y de eh, un 3,66% en el after hours, que se iría a 166, con lo cual estamos hablando de que una colocación que ya de por sí parece una barbaridad a 135"
+    },
+    {
+      "index": 4,
+      "text_start": 4683,
+      "text_end": 5883,
+      "time_start_iso": "00:04:31",
+      "time_end_iso": "00:05:41",
+      "speakers": [],
+      "text": "se ha ido eh, hasta se llegó a ir hasta 176 para cerrar en 161, que con el post market o el after el after hours, ¿no? podríamos decirlo, eh, ahora mismo, pues estaría en 100, por lo que hemos visto, habría cerrado aquí en la en los minutos posteriores al cierre de mercado, ¿no? Con lo cual, esto es un éxito porque al final también el volumen fue una barbaridad, el día fue en verde los mercados y como yo digo, y esto es opinión, eh, esto es eh, parte de lo que tiene que ocurrir para que el mercado siga funcionando y aunque en mi opinión lo está haciendo de una forma eh, no muy realista, ¿no? Que es dándole una valoración a una compañía que ni gana dinero ni está claro cómo va a ganar dinero, eh, pues sí que habilita la posibilidad de que las nuevas salidas a bolsa que se esperan de Anthropic y de SpaceX eh, y de OpenAI a lo largo de este año, pues sean buenas también. Esto debería hacer que los mercados siguieran en una buena dinámica, por lo menos otros cuantos meses más, es decir, el hecho de que el Brent esté bajando mucho, de que la guerra parece parece que poco a poco va llegando a su fin y eh, de que las salidas a bolsa están siendo buenas debería ser un buen caldo de cultivo"
+    },
+    {
+      "index": 5,
+      "text_start": 5884,
+      "text_end": 7077,
+      "time_start_iso": "00:05:38",
+      "time_end_iso": "00:06:38",
+      "speakers": [],
+      "text": "para que los mercados subieran. La pregunta del millón es si están subiendo de una forma honesta o si están subiendo de una forma, pues, un un burbuja. Para mí es más de lo segundo, eh, ya sabéis que cada vez me gusta un poquito menos lo que es la indexación, quizás por todo este componente tan tecnológico y tan de valoraciones tan absurdas, eh, en un modelo de de de de economía basada en la IA que no está claro que vaya a funcionar, pero por otro lado siempre digo que no podemos jugar aquí a ser adivinos y pasar de tener, eh, esos indexados a no tenerlos, es decir, simplemente pues podrás cambiar un poco el allocation de tu cartera, los pesos de tu cartera para decidir si quieres tener más o menos renta variable o decidir si quieres tener más renta variable gestión pasiva como son los indexados o más renta variable gestión activa como podrían ser otros fondos, ¿no? Dicho esto, de momento, y es lo que a mí me me gusta ver, la gente está ganando dinero, los fondos están yendo bien, la economía parece que se empieza a recuperar y encima con elecciones a la vuelta de la esquina parece que el caldo de cultivo no es bueno. Insisto, esto es solo opinión porque lo que vayan a hacer"
+    },
+    {
+      "index": 6,
+      "text_start": 7078,
+      "text_end": 8247,
+      "time_start_iso": "00:06:37",
+      "time_end_iso": "00:07:41",
+      "speakers": [],
+      "text": "los mercados en los próximos meses no lo sabe absolutamente nadie. ¿Vale? Esto de aquí es lo que hemos visto, eh, de de SpaceX y ahora vamos a ver mi cartera, está, ¿vale? Está en 175,000 euros. Para los que me seguís desde los inicios esta es la segunda cuenta porque traspasé de otra cuenta, eh, traspasamos 150,000 euros el 1 de diciembre, con lo cual vamos 25,000 arriba eh, en este periodo de pues medio año más más un mes, ¿no? Estos últimos 7 meses, eh, el resultado está siendo muy bueno. Estos son máximos en mi cartera porque como hemos dicho hemos dicho anteriormente, ya no solo la cartera metálica que hay muy poqui muy poquito dinero ya empieza a funcionar, las cuatro acciones que llevo, sobre todo las tres que llevo desde hace más tiempo, eh, pues lo están haciendo muy bien. Aquí hay pues, precisamente en esta cuenta gran parte de esas ganancias se explican con estas tres. Curioso lo de que Nextil justo la posición valga 50,000 euros justos, bueno, casualidad, y eh, los fondos de inversión, pues aquí como podemos ver también todo va bastante bien, ¿vale? Eh, es cierto que hay algunos a lo mejor como Abaco que son defensivos que simplemente pues"
+    },
+    {
+      "index": 7,
+      "text_start": 8248,
+      "text_end": 9436,
+      "time_start_iso": "00:07:40",
+      "time_end_iso": "00:08:43",
+      "speakers": [],
+      "text": "están haciendo lo que tienen que hacer que es una pequeña rentabilidad en un año que no ha sido especialmente bueno para la renta fija y luego como otras cosas lo están haciendo muy bien. Mención especial, aunque yo tenga poco dinero, a lo bien que lo han lo han hecho los mercados emergentes, que sí que me consta o así debería ser, que es una parte importante de vuestras carteras. Eh y eh recordar que este 20% que veis aquí viene adicional al 30 y pico por ciento que iba ganando en la otra cuenta, si no recuerdo mal, ¿no? Con lo cual eh bueno, aquí vemos que todo está funcionando bien. También deciros que este fondo ya no está, ha sido traspasado por Oros Internacional, ¿vale? Que lo veremos pronto y que de hecho vendrán pronto al canal, ¿vale? Oros Value Internacional es uno de esos fondos de los eh yo diría de los mejores de de de gestión value en España y eh con un histórico muy amplio, porque antes de de de la gestora Oros lo hacían en otra gestora llamada Metagestión eh o en otro fondo llamado Metagestión. Su retorno es bastante bueno y este año se están quedando un poco más atrás, con lo cual me he decantado por ellos porque este año todavía no su cartera no ha lo"
+    },
+    {
+      "index": 8,
+      "text_start": 9437,
+      "text_end": 10613,
+      "time_start_iso": "00:08:42",
+      "time_end_iso": "00:09:45",
+      "speakers": [],
+      "text": "ha hecho lo bien que debería y probablemente eso significa que su cartera está llena de oportunidades, ya que su gestión eh va ligada al value, ¿no? Con lo cual eh bueno, sus retornos están fuera de toda duda, aquí están, ¿vale? A 5 años pues es un 13% anualizado, con 11,8 de volatilidad, esto es bastante mejor que que incluso si nos vamos al al famoso Fidelity MSCI World, ¿no? Eh y no nos vamos a 5 años, pues este es un 12 13, es decir, 12 de rentabilidad con 13,4 de volatilidad y este es un 13 con 3 de rentabilidad con un 11,8 de volatilidad, es decir, incluso a pesar de un 2026 que no está siendo su mejor año eh es en los últimos 5 años mejor que un indexado, mejor que un indexado de primerísimo nivel y esto asumiendo que muy probablemente, ya nos lo contarán en el canal cuando vengan eh muy probablemente con una cartera que tenga muchísimo potencial. Ya sabéis que en un fondo value em se compran empresas que a priori están infravaloradas según los modelos de de que ellos emplean y por tanto pues si no están dando los rendimientos habituales, es que probablemente esa cartera tenga un potencial que a mí no me gustaría perderme. Dicho sea de paso, aprovecho"
+    },
+    {
+      "index": 9,
+      "text_start": 10614,
+      "text_end": 11785,
+      "time_start_iso": "00:09:44",
+      "time_end_iso": "00:10:51",
+      "speakers": [],
+      "text": "aquí para mencionar que hay otros fondos value, como pueden ser, y ya sonarán, Cobas Internacional, o Azeta Valor Internacional, o incluso Myinvestor Value, que ese sí lo llevo, eh, que también lo hacen muy bien, ¿vale? Eh, pues, creo que los conocéis todos, pero bueno, por enseñarlos pues por aquí, por ejemplo, alguno, Myinvestor Value en lo que va de año lleva un un nueve y Cobas o Azeta Valor, me da igual, lo están haciendo tremendamente bien, ¿no? Eh, un 19 lleva Cobas y Azeta Valor lleva, pues, también un 23, ¿no? Una pasada. Entonces, en lugar de comprar estos fondos, que ya están haciendo o que su cartera han hecho gran parte del retorno, probablemente que ellos mismos podrían esperar para este año, me pre- preferido subir a otra que tiene un histórico casi tan bueno como el suyo, eh, pero que todavía no ha hecho los resultados, ¿no? Entonces, eso es un poco el recordatorio de, eh, de la cartera, ¿vale? Y por último, la acreditación financiera, si os vais a esta página, bueno, la pondré en en la descripción, ¿vale? Myinvestor Landing Cursos Asesor Financiero, eh, podéis encontrar incluso el temario de lo que, bueno, aquí es un poco, eh, lo que lo"
+    },
+    {
+      "index": 10,
+      "text_start": 11786,
+      "text_end": 12977,
+      "time_start_iso": "00:10:49",
+      "time_end_iso": "00:11:52",
+      "speakers": [],
+      "text": "que ofrece el programa, ¿vale? Es online, a tu ritmo, el examen creo que es en noviembre, el inicio es el 23 de junio, si no recuerdo mal. También es cierto que si te suscribes, o sea, si te inscribes al programa después de esa fecha, puedes hacerlo igualmente, simplemente algunas clases son online, te las perderías y luego te tocaría verlas en diferido, ¿no? Eh, ya ya sabéis, la la Universidad Carlos III de Madrid está involucrada en parte de de del del del programa, que es, por cierto, la universidad donde yo estudié y podría decir tranquilamente que, si no la mejor, una de las mejores en el en el sector académico de de de de la economía y demás. Eh, bueno, y un poco, pues, eh, lo que incluye el programa, este es el temario, ¿vale? Aquí lo veis, Economía y mercados financieros. De todo esto hemos hablado mucho en el chat. También deciros que la gran mayoría de los que estáis conmigo a menudo, todo esto que os van a contar, no todo, pero una gran parte de lo que os van a contar lo sabéis, con lo cual la ventaja de la que parte una persona que haya estado en el canal un año, ya no digo solo en YouTube, sino en los directos, etcétera, etcétera, pues es es muy importante, es"
+    },
+    {
+      "index": 11,
+      "text_start": 12978,
+      "text_end": 14158,
+      "time_start_iso": "00:11:50",
+      "time_end_iso": "00:12:53",
+      "speakers": [],
+      "text": "decir, todo te va a sonar, no va a haber prácticamente nada que sea nuevo para ti. Sí que es cierto que hay otras cosas, pues por ejemplo, cumplimiento normativo y procesos operativos. Esto es algo de lo que yo evidentemente no hablo, pero que es obligatorio saber ciertas cosas si el día de mañana quieres asesorar en productos de inversión, sí que estáis bastante familiarizados con todo. Fiscalidad de productos, aquí también estáis más o menos familiarizado. Esto hemos hablado poco, pero es importante también, que es, oye, ¿qué busca el cliente? ¿Qué es lo ideal para el cliente? Incluso simulaciones y demás. Eh, bueno, aquí me veis, a ver, ¿dónde estoy yo? Yo debería salir por aquí. Aquí me veis, aquí está eh vuestro youtuber preferido, ¿vale? También cuentan con con Andrea, que es una una chica que se dedica a a la formación financiera eh de una forma eh también bien traída al al al mundo de las redes, ¿vale? El resto son todo o profesionales de Andbank, como veis aquí, algunos os sonarán, por ejemplo, Ignasi es el principal responsable de la cartera metal, que es un trabajazo y y lo hace increíblemente bien, y el bueno, y ya no por por no hablar del currículum"
+    },
+    {
+      "index": 12,
+      "text_start": 14159,
+      "text_end": 15331,
+      "time_start_iso": "00:12:51",
+      "time_end_iso": "00:13:54",
+      "speakers": [],
+      "text": "que traen estas personas de eh previo. A Val Carreras le conocéis, eh Carlos Asoro, para que lo que no para los que no le conozcáis, es el CEO de Andbank y el fundador de MyInvestor. Eh y luego otras adicionales dentro de MyInvestor y por último gente de eh la Carlos III, ¿vale? Eh que también, pues oye, eh esta parte, si me apuras, creo que es la más importante, porque al final es eh son personas que llevan dando este tipo de de de temática muchísimos años, ¿no? Y luego pues todo esto amparado por la CNMV. Eh deciros que que el lo que os he dicho anteriormente, que con el código AFPizarra el coste se reduce un 20% y que, oye, pues para los que queráis pensároslos, por lo que me han dicho, habrá más convocatorias. Esta convocatoria, digamos que es para gente que quiere preparárselo durante el verano, que es un buen momento, pues para darle caña. Dicho esto, la preparación que va a necesitar alguien que lleva viéndose todos mis vídeos, pues no va a ser la misma o va a ser relativamente bastante, bastante, bastante menor. Va a ser casi como una lectura donde va a apuntar ciertas cosillas en comparación con alguien que venga de cero, que si vienes de cero y"
+    },
+    {
+      "index": 13,
+      "text_start": 15332,
+      "text_end": 15717,
+      "time_start_iso": "00:13:52",
+      "time_end_iso": "00:14:12",
+      "speakers": [],
+      "text": "te va sonando tal, también creo que es un curso de nivel intermedio y creo que casi cualquier persona lo podría sacar. Así que nada, chicos, cualquier duda sobre el curso, cualquier duda sobre sobre el vídeo, cualquier idea para vídeos futuros, eh cualquier cosa que necesitéis me la podéis dejar en comentarios y nosotros nos vemos en el siguiente vídeo. Se despide La Pizarra Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.0,
+      "end": 3.48,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.8,
+      "end": 5.36,
+      "text": "mi canal La Pizarra de Andrés. En el día"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.48,
+      "end": 7.6,
+      "text": "de hoy venimos con un vídeo lleno de"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 5.36,
+      "end": 10.760000000000002,
+      "text": "actualizaciones. Como bien sabéis,"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 7.6,
+      "end": 12.76,
+      "text": "recientemente ha salido la compañía más"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 10.76,
+      "end": 15.0,
+      "text": "grande de la historia a cotizar, o mejor"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 12.76,
+      "end": 17.0,
+      "text": "dicho, la salida a bolsa más grande de"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 15.0,
+      "end": 18.92,
+      "text": "la historia, y vamos a ver qué tal ha"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 17.0,
+      "end": 21.2,
+      "text": "salido. Además, vamos a hacer un pequeño"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 18.92,
+      "end": 22.6,
+      "text": "repaso rápido de lo que va eh de lo que"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 21.2,
+      "end": 24.119999999999997,
+      "text": "está haciendo la cartera en este mes,"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 22.6,
+      "end": 26.0,
+      "text": "que ya os anticipo que está en máximos"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 24.12,
+      "end": 27.32,
+      "text": "históricos. Recordaros un pequeño cambio"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 26.0,
+      "end": 29.0,
+      "text": "que he hecho de fondos, por si alguno no"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 27.32,
+      "end": 31.16,
+      "text": "se ha visto los vídeos previos de"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 29.0,
+      "end": 33.16,
+      "text": "YouTube, y además os voy a informar de"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 31.16,
+      "end": 36.16,
+      "text": "algo de lo que estoy muy muy contento,"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 33.16,
+      "end": 39.519999999999996,
+      "text": "que es esto que veis aquí, que es una"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 36.16,
+      "end": 43.519999999999996,
+      "text": "formación eh amparada por la CNMV de"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 39.52,
+      "end": 45.760000000000005,
+      "text": "MyInvestor y la Carlos III. Em tengo el"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 43.52,
+      "end": 49.56,
+      "text": "el el honor, diría, de ser parte de este"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 45.76,
+      "end": 51.68,
+      "text": "de este em de esta formación y si a"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 49.56,
+      "end": 54.56,
+      "text": "alguien le interesa, pues o bien mejorar"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 51.68,
+      "end": 56.08,
+      "text": "su currículum en el sector, o bien eh"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 54.56,
+      "end": 57.84,
+      "text": "afianzar ciertos conceptos que habéis"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 56.08,
+      "end": 59.8,
+      "text": "aprendido conmigo, o bien el día de"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 57.84,
+      "end": 62.400000000000006,
+      "text": "mañana dedicarse al asesoramiento, pues"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 59.8,
+      "end": 64.0,
+      "text": "esto puede ser un buen un inicio eh de"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 62.4,
+      "end": 65.88,
+      "text": "cómo hacerlo, ¿no? Aunque aquí pone que"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 64.0,
+      "end": 69.88,
+      "text": "el curso vale 2000 300 euros, con el"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 65.88,
+      "end": 71.36,
+      "text": "código AFPIZARRA em todo en mayúsculas,"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 69.88,
+      "end": 73.08,
+      "text": "se hará un descuento del 20%, se queda"
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 71.36,
+      "end": 74.32,
+      "text": "en 1800 y pico euros. Aprovecho para"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 73.08,
+      "end": 75.6,
+      "text": "decir que justo este poquito es"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 74.32,
+      "end": 78.08,
+      "text": "publicidad, que de esto vamos a hablar"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 75.6,
+      "end": 79.36,
+      "text": "al final del vídeo, ¿vale? Porque sé sé"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 78.08,
+      "end": 81.56,
+      "text": "que esto ahora mismo no os interesa a"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 79.36,
+      "end": 84.2,
+      "text": "todos, pero eh simplemente creo que es"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 81.56,
+      "end": 85.52,
+      "text": "una opción muy válida em para todos"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 84.2,
+      "end": 86.72,
+      "text": "aquellos que pues lo que he dicho"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 85.52,
+      "end": 88.52,
+      "text": "anteriormente, que quieren afianzar un"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 86.72,
+      "end": 90.6,
+      "text": "poco esos conceptos, ya sea por su"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 88.52,
+      "end": 92.03999999999999,
+      "text": "propio bien o sea porque se quieren"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 90.6,
+      "end": 95.72,
+      "text": "dedicar al mundillo. Ahora sí, vamos a"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 92.04,
+      "end": 97.2,
+      "text": "lo importante. Vamos a hablar de SpaceX."
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 95.72,
+      "end": 99.64,
+      "text": "Lo primero de todo es que antes de"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 97.2,
+      "end": 101.64,
+      "text": "SpaceX, lo que quiero nombrar es que por"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 99.64,
+      "end": 105.12,
+      "text": "lo que fuera SpaceX salió el viernes, el"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 101.64,
+      "end": 107.28,
+      "text": "jueves Trump hizo eso que que que le"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 105.12,
+      "end": 109.44,
+      "text": "llaman taco, ¿no? Eh Trump always"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 107.28,
+      "end": 111.68,
+      "text": "chickens out, Trump siempre se caga, y"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 109.44,
+      "end": 115.12,
+      "text": "el jueves antes de la salida de SpaceX"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 111.68,
+      "end": 117.60000000000001,
+      "text": "puso el mercado de cara diciendo que iba"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 115.12,
+      "end": 120.44,
+      "text": "a llegar o había llegado en a acuerdo,"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 117.6,
+      "end": 121.96,
+      "text": "eh, para eh, frenar la guerra, etcétera,"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 120.44,
+      "end": 123.44,
+      "text": "etcétera, un settlement que llaman"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 121.96,
+      "end": 125.52,
+      "text": "ellos. Esto es lo que, qué es lo que ha"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 123.44,
+      "end": 126.72,
+      "text": "conseguido, pues que lo más importante"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 125.52,
+      "end": 128.039,
+      "text": "ahora mismo, lo que estaba en el punto"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 126.72,
+      "end": 130.35999999999999,
+      "text": "de mira de los mercados financieros, que"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 128.039,
+      "end": 133.04,
+      "text": "es el el barril de Brent, bajara"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 130.36,
+      "end": 135.36,
+      "text": "significativamente hasta 84, ¿vale? Sí,"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 133.04,
+      "end": 137.0,
+      "text": "84, 87, dependiendo cuál miréis de los"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 135.36,
+      "end": 139.959,
+      "text": "dos. Si nos metemos en cualquiera de"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 137.0,
+      "end": 142.92,
+      "text": "estos, podemos ver cómo, pues, el barril"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 139.959,
+      "end": 145.0,
+      "text": "llegó a tocar aquí picos de 110, 113 y"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 142.92,
+      "end": 146.95899999999997,
+      "text": "hoy está 84, con lo cual esto es muy"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 145.0,
+      "end": 148.12,
+      "text": "positivo, ya sabes que el Brent es uno"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 146.959,
+      "end": 151.08,
+      "text": "de los principales drivers de la"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 148.12,
+      "end": 152.76,
+      "text": "inflación y que si esto se relaja, las"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 151.08,
+      "end": 154.08,
+      "text": "subidas de tipos que están tanto"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 152.76,
+      "end": 156.56,
+      "text": "amenazando en Estados Unidos, pues,"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 154.08,
+      "end": 158.76000000000002,
+      "text": "podrían no llegar a a producirse y eso"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 156.56,
+      "end": 160.48,
+      "text": "es positivo para los mercados, ¿no? Con"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 158.76,
+      "end": 162.0,
+      "text": "lo cual, de primeras,"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 160.48,
+      "end": 164.16,
+      "text": "eh,"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 162.0,
+      "end": 165.04,
+      "text": "esto empezó bien, esto fue el jueves,"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 164.16,
+      "end": 167.52,
+      "text": "¿vale?"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 165.04,
+      "end": 169.32,
+      "text": "También, eh, a raíz de esa noticia y un"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 167.52,
+      "end": 171.12,
+      "text": "poco a raíz del del viernes, donde subió"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 169.32,
+      "end": 173.28,
+      "text": "otro 0,50 adicional, aquí lo veis, el"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 171.12,
+      "end": 176.04,
+      "text": "S&P 500 se volvió a posicionar muy"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 173.28,
+      "end": 178.8,
+      "text": "cerquita de máximos, en 7.431,"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 176.04,
+      "end": 181.07999999999998,
+      "text": "a solo 150 puntos de los máximos, ¿no?"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 178.8,
+      "end": 183.12,
+      "text": "Eh, previamente, pues, habíamos visto"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 181.08,
+      "end": 185.92000000000002,
+      "text": "una ligera caída, aquí lo vemos, hasta"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 183.12,
+      "end": 187.519,
+      "text": "7.200, aquí un poquito de, no digo de"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 185.92,
+      "end": 188.95899999999997,
+      "text": "pánico, pero un poco de dudas, porque ya"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 187.519,
+      "end": 191.239,
+      "text": "sabéis que cuando el S&P 500 se cae un"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 188.959,
+      "end": 194.239,
+      "text": "3%, un 4%, mucha gente ya se pregunta"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 191.239,
+      "end": 195.88,
+      "text": "qué está pasando, pero, eh, tanto el el"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 194.239,
+      "end": 199.6,
+      "text": "settlement de Trump, eh, sobre la"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 195.88,
+      "end": 200.92,
+      "text": "guerra, como eh, la salida de SpaceX,"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 199.6,
+      "end": 203.32,
+      "text": "que ahora os, ahora la veremos, que ha"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 200.92,
+      "end": 205.39999999999998,
+      "text": "sido más o menos un éxito, pues, eh, han"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 203.32,
+      "end": 206.79999999999998,
+      "text": "hecho que el mercado rebote, ¿no? Con lo"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 205.4,
+      "end": 210.44,
+      "text": "cual, vuelvo a estar en una posición"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 206.8,
+      "end": 211.88000000000002,
+      "text": "cómoda con, eh, un montón de de de cosas"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 210.44,
+      "end": 213.56,
+      "text": "muy cerca de máximos, ¿no? Incluyendo"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 211.88,
+      "end": 215.56,
+      "text": "estos índices, ¿no?"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 213.56,
+      "end": 217.8,
+      "text": "¿Qué fue de la de la salida a bolsa de"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 215.56,
+      "end": 219.88,
+      "text": "SpaceX, vale? Aquí lo vemos, esto es un,"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 217.8,
+      "end": 222.44,
+      "text": "eh, esto es el día de trading entero de"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 219.88,
+      "end": 224.44,
+      "text": "SpaceX, ¿vale? Hay gente que viendo esto"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 222.44,
+      "end": 226.2,
+      "text": "puede pensar que, oye, que la salida no"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 224.44,
+      "end": 227.48,
+      "text": "fue tan buena, porque subió, luego bajó,"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 226.2,
+      "end": 230.35999999999999,
+      "text": "pero está muy cerca de la salida. No,"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 227.48,
+      "end": 234.35999999999999,
+      "text": "no, no, no, SpaceX se planteaba va a en"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 230.36,
+      "end": 236.24,
+      "text": "135 y la salida acabó siendo a 149, es"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 234.36,
+      "end": 238.96,
+      "text": "decir, esto de aquí es como si ya"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 236.24,
+      "end": 241.32000000000002,
+      "text": "vierais un gap, es decir, un hueco desde"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 238.96,
+      "end": 243.56,
+      "text": "su punto de salida, el el punto de"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 241.32,
+      "end": 245.79999999999998,
+      "text": "salida que iba a ser, que se esperaba,"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 243.56,
+      "end": 247.959,
+      "text": "que si lo queremos pintar aquí con una,"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 245.8,
+      "end": 250.60000000000002,
+      "text": "por ejemplo, línea horizontal,"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 247.959,
+      "end": 252.44,
+      "text": "eh, hubiera sido aquí, ¿vale?"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 250.6,
+      "end": 254.56,
+      "text": "Es como si SpaceX hubiera salido a este"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 252.44,
+      "end": 256.71999999999997,
+      "text": "precio, hubiera abierto al alza hasta"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 254.56,
+      "end": 259.2,
+      "text": "aquí y después desarrollara su sesión,"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 256.72,
+      "end": 262.6,
+      "text": "¿vale? Entonces, eh, lo que vemos es una"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 259.2,
+      "end": 264.919,
+      "text": "subida del 19% durante la sesión y de"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 262.6,
+      "end": 267.32000000000005,
+      "text": "eh, un 3,66% en el after hours, que se"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 264.919,
+      "end": 269.03999999999996,
+      "text": "iría a 166, con lo cual estamos hablando"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 267.32,
+      "end": 271.59999999999997,
+      "text": "de que una colocación que ya de por sí"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 269.04,
+      "end": 274.44,
+      "text": "parece una barbaridad a 135"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 271.6,
+      "end": 277.52000000000004,
+      "text": "se ha ido eh, hasta se llegó a ir hasta"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 274.44,
+      "end": 279.44,
+      "text": "176 para cerrar en 161, que con el post"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 277.52,
+      "end": 281.96,
+      "text": "market o el after el after hours, ¿no?"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 279.44,
+      "end": 284.24,
+      "text": "podríamos decirlo, eh, ahora mismo, pues"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 281.96,
+      "end": 287.08,
+      "text": "estaría en 100, por lo que hemos visto,"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 284.24,
+      "end": 288.919,
+      "text": "habría cerrado aquí en la en los minutos"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 287.08,
+      "end": 290.32,
+      "text": "posteriores al cierre de mercado, ¿no?"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 288.919,
+      "end": 291.79999999999995,
+      "text": "Con lo cual, esto es un éxito porque al"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 290.32,
+      "end": 293.71999999999997,
+      "text": "final también el volumen fue una"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 291.8,
+      "end": 294.88,
+      "text": "barbaridad, el día fue en verde los"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 293.72,
+      "end": 297.32000000000005,
+      "text": "mercados"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 294.88,
+      "end": 300.24,
+      "text": "y como yo digo, y esto es opinión, eh,"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 297.32,
+      "end": 302.12,
+      "text": "esto es eh, parte de lo que tiene que"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 300.24,
+      "end": 303.919,
+      "text": "ocurrir para que el mercado siga"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 302.12,
+      "end": 307.12,
+      "text": "funcionando y aunque en mi opinión lo"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 303.919,
+      "end": 309.28,
+      "text": "está haciendo de una forma eh, no muy"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 307.12,
+      "end": 311.0,
+      "text": "realista, ¿no? Que es dándole una"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 309.28,
+      "end": 312.64,
+      "text": "valoración a una compañía que ni gana"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 311.0,
+      "end": 315.64,
+      "text": "dinero ni está claro cómo va a ganar"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 312.64,
+      "end": 317.03999999999996,
+      "text": "dinero, eh, pues sí que habilita la"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 315.64,
+      "end": 318.36,
+      "text": "posibilidad de que las nuevas salidas a"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 317.04,
+      "end": 319.40000000000003,
+      "text": "bolsa que se esperan de Anthropic y de"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 318.36,
+      "end": 321.48,
+      "text": "SpaceX eh,"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 319.4,
+      "end": 323.88,
+      "text": "y de OpenAI a lo largo de este año, pues"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 321.48,
+      "end": 325.96000000000004,
+      "text": "sean buenas también. Esto debería hacer"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 323.88,
+      "end": 327.6,
+      "text": "que los mercados siguieran en una buena"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 325.96,
+      "end": 329.84,
+      "text": "dinámica, por lo menos otros cuantos"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 327.6,
+      "end": 331.08000000000004,
+      "text": "meses más, es decir, el hecho de que el"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 329.84,
+      "end": 333.11999999999995,
+      "text": "Brent esté bajando mucho, de que la"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 331.08,
+      "end": 336.2,
+      "text": "guerra parece parece que poco a poco va"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 333.12,
+      "end": 337.36,
+      "text": "llegando a su fin y eh, de que las"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 336.2,
+      "end": 338.88,
+      "text": "salidas a bolsa están siendo buenas"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 337.36,
+      "end": 341.08000000000004,
+      "text": "debería ser un buen caldo de cultivo"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 338.88,
+      "end": 342.15999999999997,
+      "text": "para que los mercados subieran."
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 341.08,
+      "end": 343.88,
+      "text": "La pregunta del millón es si están"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 342.16,
+      "end": 345.24,
+      "text": "subiendo de una forma honesta o si están"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 343.88,
+      "end": 347.48,
+      "text": "subiendo de una forma, pues, un un"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 345.24,
+      "end": 349.84000000000003,
+      "text": "burbuja. Para mí es más de lo segundo,"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 347.48,
+      "end": 351.96000000000004,
+      "text": "eh, ya sabéis que cada vez me gusta un"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 349.84,
+      "end": 353.4,
+      "text": "poquito menos lo que es la indexación,"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 351.96,
+      "end": 355.03999999999996,
+      "text": "quizás por todo este componente tan"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 353.4,
+      "end": 358.4,
+      "text": "tecnológico y tan de valoraciones tan"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 355.04,
+      "end": 359.96000000000004,
+      "text": "absurdas, eh, en un modelo de de de de"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 358.4,
+      "end": 361.79999999999995,
+      "text": "economía basada en la IA que no está"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 359.96,
+      "end": 363.4,
+      "text": "claro que vaya a funcionar, pero por"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 361.8,
+      "end": 364.8,
+      "text": "otro lado siempre digo que no podemos"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 363.4,
+      "end": 367.47999999999996,
+      "text": "jugar aquí a ser adivinos y pasar de"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 364.8,
+      "end": 369.24,
+      "text": "tener, eh, esos indexados a no tenerlos,"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 367.48,
+      "end": 371.32,
+      "text": "es decir, simplemente pues podrás"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 369.24,
+      "end": 373.52,
+      "text": "cambiar un poco el allocation de tu"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 371.32,
+      "end": 375.04,
+      "text": "cartera, los pesos de tu cartera para"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 373.52,
+      "end": 376.84,
+      "text": "decidir si quieres tener más o menos"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 375.04,
+      "end": 378.56,
+      "text": "renta variable o decidir si quieres"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 376.84,
+      "end": 379.88,
+      "text": "tener más renta variable gestión pasiva"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 378.56,
+      "end": 381.56,
+      "text": "como son los indexados o más renta"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 379.88,
+      "end": 382.919,
+      "text": "variable gestión activa como podrían ser"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 381.56,
+      "end": 385.36,
+      "text": "otros fondos, ¿no?"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 382.919,
+      "end": 386.88,
+      "text": "Dicho esto, de momento, y es lo que a mí"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 385.36,
+      "end": 388.76,
+      "text": "me me gusta ver, la gente está ganando"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 386.88,
+      "end": 390.2,
+      "text": "dinero, los fondos están yendo bien, la"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 388.76,
+      "end": 391.8,
+      "text": "economía parece que se empieza a"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 390.2,
+      "end": 393.32,
+      "text": "recuperar y encima con elecciones a la"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 391.8,
+      "end": 395.52000000000004,
+      "text": "vuelta de la esquina parece que el caldo"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 393.32,
+      "end": 397.0,
+      "text": "de cultivo no es bueno. Insisto, esto es"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 395.52,
+      "end": 398.52,
+      "text": "solo opinión porque lo que vayan a hacer"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 397.0,
+      "end": 400.919,
+      "text": "los mercados en los próximos meses no lo"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 398.52,
+      "end": 403.12,
+      "text": "sabe absolutamente nadie. ¿Vale? Esto de"
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 400.919,
+      "end": 406.47999999999996,
+      "text": "aquí es lo que hemos visto, eh, de de"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 403.12,
+      "end": 409.88,
+      "text": "SpaceX y ahora vamos a ver mi cartera,"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 406.48,
+      "end": 411.76,
+      "text": "está, ¿vale? Está en 175,000 euros. Para"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 409.88,
+      "end": 413.48,
+      "text": "los que me seguís desde los inicios esta"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 411.76,
+      "end": 416.8,
+      "text": "es la segunda cuenta porque traspasé de"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 413.48,
+      "end": 419.08000000000004,
+      "text": "otra cuenta, eh, traspasamos 150,000"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 416.8,
+      "end": 422.28000000000003,
+      "text": "euros el 1 de diciembre, con lo cual"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 419.08,
+      "end": 424.2,
+      "text": "vamos 25,000 arriba eh, en este periodo"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 422.28,
+      "end": 427.11999999999995,
+      "text": "de pues medio año más más un mes, ¿no?"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 424.2,
+      "end": 428.59999999999997,
+      "text": "Estos últimos 7 meses, eh, el resultado"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 427.12,
+      "end": 430.28000000000003,
+      "text": "está siendo muy bueno. Estos son máximos"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 428.6,
+      "end": 432.04,
+      "text": "en mi cartera porque como hemos dicho"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 430.28,
+      "end": 433.55999999999995,
+      "text": "hemos dicho anteriormente, ya no solo la"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 432.04,
+      "end": 435.12,
+      "text": "cartera metálica que hay muy poqui muy"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 433.56,
+      "end": 437.12,
+      "text": "poquito dinero ya empieza a funcionar,"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 435.12,
+      "end": 438.48,
+      "text": "las cuatro acciones que llevo,"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 437.12,
+      "end": 441.2,
+      "text": "sobre todo las tres que llevo desde hace"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 438.48,
+      "end": 443.16,
+      "text": "más tiempo, eh, pues lo están haciendo"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 441.2,
+      "end": 444.59999999999997,
+      "text": "muy bien. Aquí hay pues, precisamente en"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 443.16,
+      "end": 446.52000000000004,
+      "text": "esta cuenta gran parte de esas ganancias"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 444.6,
+      "end": 448.91900000000004,
+      "text": "se explican con estas tres. Curioso lo"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 446.52,
+      "end": 451.24,
+      "text": "de que Nextil justo la posición valga"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 448.919,
+      "end": 453.84,
+      "text": "50,000 euros justos, bueno, casualidad,"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 451.24,
+      "end": 455.2,
+      "text": "y eh, los fondos de inversión, pues aquí"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 453.84,
+      "end": 457.28,
+      "text": "como podemos ver también todo va"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 455.2,
+      "end": 458.71999999999997,
+      "text": "bastante bien, ¿vale? Eh, es cierto que"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 457.28,
+      "end": 460.52,
+      "text": "hay algunos a lo mejor como Abaco que"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 458.72,
+      "end": 461.76000000000005,
+      "text": "son defensivos que simplemente pues"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 460.52,
+      "end": 463.47999999999996,
+      "text": "están haciendo lo que tienen que hacer"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 461.76,
+      "end": 464.8,
+      "text": "que es una pequeña rentabilidad en un"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 463.48,
+      "end": 466.92,
+      "text": "año que no ha sido especialmente bueno"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 464.8,
+      "end": 468.40000000000003,
+      "text": "para la renta fija y luego como otras"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 466.92,
+      "end": 469.68,
+      "text": "cosas lo están haciendo muy bien."
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 468.4,
+      "end": 471.03999999999996,
+      "text": "Mención especial, aunque yo tenga poco"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 469.68,
+      "end": 472.44,
+      "text": "dinero, a lo bien que lo han lo han"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 471.04,
+      "end": 474.64000000000004,
+      "text": "hecho los mercados emergentes, que sí"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 472.44,
+      "end": 476.0,
+      "text": "que me consta o así debería ser, que es"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 474.64,
+      "end": 480.12,
+      "text": "una parte importante de vuestras"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 476.0,
+      "end": 482.96,
+      "text": "carteras. Eh y eh recordar que este 20%"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 480.12,
+      "end": 484.2,
+      "text": "que veis aquí viene adicional al 30 y"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 482.96,
+      "end": 486.0,
+      "text": "pico por ciento que iba ganando en la"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 484.2,
+      "end": 487.71999999999997,
+      "text": "otra cuenta, si no recuerdo mal, ¿no?"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 486.0,
+      "end": 489.2,
+      "text": "Con lo cual eh bueno, aquí vemos que"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 487.72,
+      "end": 490.76000000000005,
+      "text": "todo está funcionando bien. También"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 489.2,
+      "end": 492.919,
+      "text": "deciros que este fondo ya no está, ha"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 490.76,
+      "end": 494.28,
+      "text": "sido traspasado por Oros Internacional,"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 492.919,
+      "end": 496.2,
+      "text": "¿vale? Que lo veremos pronto y que de"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 494.28,
+      "end": 497.71999999999997,
+      "text": "hecho vendrán pronto al canal, ¿vale?"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 496.2,
+      "end": 500.88,
+      "text": "Oros Value Internacional es uno de esos"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 497.72,
+      "end": 503.72,
+      "text": "fondos de los eh yo diría de los"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 500.88,
+      "end": 506.8,
+      "text": "mejores de de de gestión value en España"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 503.72,
+      "end": 509.6,
+      "text": "y eh con un histórico muy amplio, porque"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 506.8,
+      "end": 512.36,
+      "text": "antes de de de la gestora Oros lo hacían"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 509.6,
+      "end": 513.84,
+      "text": "en otra gestora llamada Metagestión eh o"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 512.36,
+      "end": 516.479,
+      "text": "en otro fondo llamado Metagestión. Su"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 513.84,
+      "end": 517.84,
+      "text": "retorno es bastante bueno y este año se"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 516.479,
+      "end": 520.039,
+      "text": "están quedando un poco más atrás, con lo"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 517.84,
+      "end": 522.2,
+      "text": "cual me he decantado por ellos porque"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 520.039,
+      "end": 523.3199999999999,
+      "text": "este año todavía no su cartera no ha lo"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 522.2,
+      "end": 524.6400000000001,
+      "text": "ha hecho lo bien que debería y"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 523.32,
+      "end": 526.32,
+      "text": "probablemente eso significa que su"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 524.64,
+      "end": 529.72,
+      "text": "cartera está llena de oportunidades, ya"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 526.32,
+      "end": 531.36,
+      "text": "que su gestión eh va ligada al value,"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 529.72,
+      "end": 532.8000000000001,
+      "text": "¿no? Con lo cual"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 531.36,
+      "end": 534.72,
+      "text": "eh bueno, sus retornos están fuera de"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 532.8,
+      "end": 537.4399999999999,
+      "text": "toda duda, aquí están, ¿vale? A 5 años"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 534.72,
+      "end": 539.0,
+      "text": "pues es un 13% anualizado, con 11,8 de"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 537.44,
+      "end": 541.5200000000001,
+      "text": "volatilidad, esto es bastante mejor que"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 539.0,
+      "end": 543.64,
+      "text": "que incluso si nos vamos al al famoso"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 541.52,
+      "end": 546.36,
+      "text": "Fidelity MSCI World, ¿no? Eh y no nos"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 543.64,
+      "end": 548.36,
+      "text": "vamos a 5 años, pues este es un 12 13,"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 546.36,
+      "end": 550.5600000000001,
+      "text": "es decir, 12 de rentabilidad con 13,4 de"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 548.36,
+      "end": 552.36,
+      "text": "volatilidad y este es un 13 con 3 de"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 550.56,
+      "end": 555.5999999999999,
+      "text": "rentabilidad con un 11,8 de volatilidad,"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 552.36,
+      "end": 558.64,
+      "text": "es decir, incluso a pesar de un 2026 que"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 555.6,
+      "end": 560.2,
+      "text": "no está siendo su mejor año eh es en los"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 558.64,
+      "end": 561.52,
+      "text": "últimos 5 años mejor que un indexado,"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 560.2,
+      "end": 562.9200000000001,
+      "text": "mejor que un indexado de primerísimo"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 561.52,
+      "end": 564.1999999999999,
+      "text": "nivel y esto asumiendo que muy"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 562.92,
+      "end": 566.9599999999999,
+      "text": "probablemente, ya nos lo contarán en el"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 564.2,
+      "end": 568.32,
+      "text": "canal cuando vengan eh muy probablemente"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 566.96,
+      "end": 569.5600000000001,
+      "text": "con una cartera que tenga muchísimo"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 568.32,
+      "end": 572.9200000000001,
+      "text": "potencial. Ya sabéis que en un fondo"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 569.56,
+      "end": 574.52,
+      "text": "value em se compran empresas que a"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 572.92,
+      "end": 576.56,
+      "text": "priori están infravaloradas según los"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 574.52,
+      "end": 577.96,
+      "text": "modelos de de que ellos emplean y por"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 576.56,
+      "end": 579.4799999999999,
+      "text": "tanto pues si no están dando los"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 577.96,
+      "end": 581.0,
+      "text": "rendimientos habituales, es que"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 579.48,
+      "end": 583.16,
+      "text": "probablemente esa cartera tenga un"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 581.0,
+      "end": 584.52,
+      "text": "potencial que a mí no me gustaría"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 583.16,
+      "end": 585.8399999999999,
+      "text": "perderme. Dicho sea de paso, aprovecho"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 584.52,
+      "end": 587.8,
+      "text": "aquí para mencionar que hay otros fondos"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 585.84,
+      "end": 589.24,
+      "text": "value, como pueden ser, y ya sonarán,"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 587.8,
+      "end": 591.24,
+      "text": "Cobas Internacional, o Azeta Valor"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 589.24,
+      "end": 593.08,
+      "text": "Internacional, o incluso Myinvestor"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 591.24,
+      "end": 594.6800000000001,
+      "text": "Value, que ese sí lo llevo, eh, que"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 593.08,
+      "end": 595.44,
+      "text": "también lo hacen muy bien, ¿vale? Eh,"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 594.68,
+      "end": 596.92,
+      "text": "pues,"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 595.44,
+      "end": 598.0400000000001,
+      "text": "creo que los conocéis todos, pero bueno,"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 596.92,
+      "end": 600.04,
+      "text": "por enseñarlos pues por aquí, por"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 598.04,
+      "end": 601.8399999999999,
+      "text": "ejemplo, alguno, Myinvestor Value en lo"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 600.04,
+      "end": 605.52,
+      "text": "que va de año lleva un"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 601.84,
+      "end": 606.96,
+      "text": "un nueve y Cobas o Azeta Valor, me da"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 605.52,
+      "end": 608.4399999999999,
+      "text": "igual,"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 606.96,
+      "end": 611.9200000000001,
+      "text": "lo están haciendo tremendamente bien,"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 608.44,
+      "end": 614.32,
+      "text": "¿no? Eh, un 19 lleva Cobas y Azeta Valor"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 611.92,
+      "end": 615.9599999999999,
+      "text": "lleva, pues, también un 23, ¿no? Una"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 614.32,
+      "end": 618.12,
+      "text": "pasada. Entonces, en lugar de comprar"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 615.96,
+      "end": 619.6800000000001,
+      "text": "estos fondos, que ya están haciendo o"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 618.12,
+      "end": 621.6,
+      "text": "que su cartera han hecho gran parte del"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 619.68,
+      "end": 623.3199999999999,
+      "text": "retorno, probablemente que ellos mismos"
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 621.6,
+      "end": 626.36,
+      "text": "podrían esperar para este año, me pre-"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 623.32,
+      "end": 628.72,
+      "text": "preferido subir a otra que tiene un"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 626.36,
+      "end": 630.52,
+      "text": "histórico casi tan bueno como el suyo,"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 628.72,
+      "end": 632.08,
+      "text": "eh, pero que todavía no ha hecho los"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 630.52,
+      "end": 634.96,
+      "text": "resultados, ¿no? Entonces, eso es un"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 632.08,
+      "end": 636.76,
+      "text": "poco el recordatorio de, eh, de la"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 634.96,
+      "end": 638.32,
+      "text": "cartera, ¿vale? Y por último, la"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 636.76,
+      "end": 639.92,
+      "text": "acreditación financiera, si os vais a"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 638.32,
+      "end": 641.8000000000001,
+      "text": "esta página, bueno, la pondré en en la"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 639.92,
+      "end": 644.16,
+      "text": "descripción, ¿vale? Myinvestor Landing"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 641.8,
+      "end": 646.4,
+      "text": "Cursos Asesor Financiero, eh, podéis"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 644.16,
+      "end": 649.7199999999999,
+      "text": "encontrar incluso el temario de lo que,"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 646.4,
+      "end": 651.16,
+      "text": "bueno, aquí es un poco, eh, lo que lo"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 649.72,
+      "end": 653.1600000000001,
+      "text": "que ofrece el programa, ¿vale? Es"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 651.16,
+      "end": 655.12,
+      "text": "online, a tu ritmo, el examen creo que"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 653.16,
+      "end": 657.4,
+      "text": "es en noviembre, el inicio es el 23 de"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 655.12,
+      "end": 659.12,
+      "text": "junio, si no recuerdo mal. También es"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 657.4,
+      "end": 661.1999999999999,
+      "text": "cierto que si te suscribes, o sea, si te"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 659.12,
+      "end": 662.76,
+      "text": "inscribes al programa después de esa"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 661.2,
+      "end": 664.48,
+      "text": "fecha, puedes hacerlo igualmente,"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 662.76,
+      "end": 666.08,
+      "text": "simplemente algunas clases son online,"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 664.48,
+      "end": 668.6800000000001,
+      "text": "te las perderías y luego te tocaría"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 666.08,
+      "end": 670.8000000000001,
+      "text": "verlas en diferido, ¿no? Eh, ya ya"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 668.68,
+      "end": 672.88,
+      "text": "sabéis, la la Universidad Carlos III de"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 670.8,
+      "end": 675.64,
+      "text": "Madrid está involucrada en parte de de"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 672.88,
+      "end": 677.04,
+      "text": "del del del programa, que es, por"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 675.64,
+      "end": 679.68,
+      "text": "cierto, la universidad donde yo estudié"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 677.04,
+      "end": 682.16,
+      "text": "y podría decir tranquilamente que, si no"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 679.68,
+      "end": 685.4799999999999,
+      "text": "la mejor, una de las mejores en el en el"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 682.16,
+      "end": 688.1999999999999,
+      "text": "sector académico de de de de la economía"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 685.48,
+      "end": 690.6,
+      "text": "y demás. Eh, bueno, y un poco, pues, eh,"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 688.2,
+      "end": 692.4000000000001,
+      "text": "lo que incluye el programa, este es el"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 690.6,
+      "end": 694.48,
+      "text": "temario, ¿vale? Aquí lo veis, Economía y"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 692.4,
+      "end": 695.4399999999999,
+      "text": "mercados financieros. De todo esto hemos"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 694.48,
+      "end": 696.76,
+      "text": "hablado mucho en el chat. También"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 695.44,
+      "end": 698.72,
+      "text": "deciros que la gran mayoría de los que"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 696.76,
+      "end": 700.3199999999999,
+      "text": "estáis conmigo a menudo, todo esto que"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 698.72,
+      "end": 701.24,
+      "text": "os van a contar, no todo, pero una gran"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 700.32,
+      "end": 703.24,
+      "text": "parte de lo que os van a contar lo"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 701.24,
+      "end": 705.0,
+      "text": "sabéis, con lo cual la ventaja de la que"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 703.24,
+      "end": 706.96,
+      "text": "parte una persona que haya estado en el"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 705.0,
+      "end": 708.44,
+      "text": "canal un año, ya no digo solo en"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 706.96,
+      "end": 710.64,
+      "text": "YouTube, sino en los directos, etcétera,"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 708.44,
+      "end": 712.2,
+      "text": "etcétera, pues es es muy importante, es"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 710.64,
+      "end": 713.72,
+      "text": "decir, todo te va a sonar, no va a haber"
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 712.2,
+      "end": 714.88,
+      "text": "prácticamente nada que sea nuevo para"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 713.72,
+      "end": 716.32,
+      "text": "ti."
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 714.88,
+      "end": 717.88,
+      "text": "Sí que es cierto que hay otras cosas,"
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 716.32,
+      "end": 719.48,
+      "text": "pues por ejemplo, cumplimiento normativo"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 717.88,
+      "end": 721.6,
+      "text": "y procesos operativos."
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 719.48,
+      "end": 723.8000000000001,
+      "text": "Esto es algo de lo que yo evidentemente"
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 721.6,
+      "end": 725.24,
+      "text": "no hablo, pero que es obligatorio saber"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 723.8,
+      "end": 726.56,
+      "text": "ciertas cosas si el día de mañana"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 725.24,
+      "end": 727.8,
+      "text": "quieres asesorar en productos de"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 726.56,
+      "end": 730.0,
+      "text": "inversión, sí que estáis bastante"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 727.8,
+      "end": 731.52,
+      "text": "familiarizados con todo. Fiscalidad de"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 730.0,
+      "end": 733.8,
+      "text": "productos, aquí también estáis más o"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 731.52,
+      "end": 735.4,
+      "text": "menos familiarizado. Esto hemos hablado"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 733.8,
+      "end": 737.12,
+      "text": "poco, pero es importante también, que"
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 735.4,
+      "end": 739.0799999999999,
+      "text": "es, oye, ¿qué busca el cliente? ¿Qué es"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 737.12,
+      "end": 741.44,
+      "text": "lo ideal para el cliente? Incluso"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 739.08,
+      "end": 743.0400000000001,
+      "text": "simulaciones y demás. Eh, bueno, aquí me"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 741.44,
+      "end": 746.08,
+      "text": "veis, a ver, ¿dónde estoy yo? Yo debería"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 743.04,
+      "end": 748.0,
+      "text": "salir por aquí. Aquí me veis, aquí está"
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 746.08,
+      "end": 749.84,
+      "text": "eh vuestro youtuber preferido, ¿vale?"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 748.0,
+      "end": 751.64,
+      "text": "También cuentan con con Andrea, que es"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 749.84,
+      "end": 754.88,
+      "text": "una una chica que se dedica a a la"
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 751.64,
+      "end": 757.36,
+      "text": "formación financiera eh de una forma eh"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 754.88,
+      "end": 760.4399999999999,
+      "text": "también bien traída al al al mundo de"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 757.36,
+      "end": 761.8000000000001,
+      "text": "las redes, ¿vale? El resto son todo o"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 760.44,
+      "end": 763.4000000000001,
+      "text": "profesionales de Andbank, como veis"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 761.8,
+      "end": 765.4399999999999,
+      "text": "aquí, algunos os sonarán, por ejemplo,"
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 763.4,
+      "end": 767.52,
+      "text": "Ignasi es el principal responsable de la"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 765.44,
+      "end": 769.12,
+      "text": "cartera metal, que es un trabajazo y y"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 767.52,
+      "end": 771.1999999999999,
+      "text": "lo hace increíblemente bien, y el bueno,"
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 769.12,
+      "end": 773.4,
+      "text": "y ya no por por no hablar del currículum"
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 771.2,
+      "end": 775.12,
+      "text": "que traen estas personas de eh previo. A"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 773.4,
+      "end": 776.64,
+      "text": "Val Carreras le conocéis, eh Carlos"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 775.12,
+      "end": 778.76,
+      "text": "Asoro, para que lo que no para los que"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 776.64,
+      "end": 780.96,
+      "text": "no le conozcáis, es el CEO de Andbank y"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 778.76,
+      "end": 783.36,
+      "text": "el fundador de MyInvestor. Eh y luego"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 780.96,
+      "end": 785.72,
+      "text": "otras adicionales dentro de MyInvestor y"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 783.36,
+      "end": 788.72,
+      "text": "por último gente de eh la Carlos III,"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 785.72,
+      "end": 790.12,
+      "text": "¿vale? Eh que también, pues oye, eh esta"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 788.72,
+      "end": 792.4,
+      "text": "parte, si me apuras, creo que es la más"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 790.12,
+      "end": 794.96,
+      "text": "importante, porque al final es eh son"
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 792.4,
+      "end": 797.88,
+      "text": "personas que llevan dando este tipo de"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 794.96,
+      "end": 799.44,
+      "text": "de de temática muchísimos años, ¿no?"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 797.88,
+      "end": 802.8389999999999,
+      "text": "Y luego pues todo esto amparado por la"
+    },
+    {
+      "index": 392,
+      "speaker": null,
+      "start": 799.44,
+      "end": 804.6400000000001,
+      "text": "CNMV. Eh deciros que que el lo que os he"
+    },
+    {
+      "index": 393,
+      "speaker": null,
+      "start": 802.839,
+      "end": 808.36,
+      "text": "dicho anteriormente, que con el código"
+    },
+    {
+      "index": 394,
+      "speaker": null,
+      "start": 804.64,
+      "end": 809.64,
+      "text": "AFPizarra el coste se reduce un 20% y"
+    },
+    {
+      "index": 395,
+      "speaker": null,
+      "start": 808.36,
+      "end": 811.12,
+      "text": "que, oye, pues para los que queráis"
+    },
+    {
+      "index": 396,
+      "speaker": null,
+      "start": 809.64,
+      "end": 812.4,
+      "text": "pensároslos, por lo que me han dicho,"
+    },
+    {
+      "index": 397,
+      "speaker": null,
+      "start": 811.12,
+      "end": 814.24,
+      "text": "habrá más convocatorias. Esta"
+    },
+    {
+      "index": 398,
+      "speaker": null,
+      "start": 812.4,
+      "end": 815.4399999999999,
+      "text": "convocatoria, digamos que es para gente"
+    },
+    {
+      "index": 399,
+      "speaker": null,
+      "start": 814.24,
+      "end": 817.12,
+      "text": "que quiere preparárselo durante el"
+    },
+    {
+      "index": 400,
+      "speaker": null,
+      "start": 815.44,
+      "end": 818.6400000000001,
+      "text": "verano, que es un buen momento, pues"
+    },
+    {
+      "index": 401,
+      "speaker": null,
+      "start": 817.12,
+      "end": 820.36,
+      "text": "para darle caña. Dicho esto, la"
+    },
+    {
+      "index": 402,
+      "speaker": null,
+      "start": 818.64,
+      "end": 822.12,
+      "text": "preparación que va a necesitar alguien"
+    },
+    {
+      "index": 403,
+      "speaker": null,
+      "start": 820.36,
+      "end": 823.6,
+      "text": "que lleva viéndose todos mis vídeos,"
+    },
+    {
+      "index": 404,
+      "speaker": null,
+      "start": 822.12,
+      "end": 825.08,
+      "text": "pues no va a ser la misma o va a ser"
+    },
+    {
+      "index": 405,
+      "speaker": null,
+      "start": 823.6,
+      "end": 827.08,
+      "text": "relativamente bastante, bastante,"
+    },
+    {
+      "index": 406,
+      "speaker": null,
+      "start": 825.08,
+      "end": 828.84,
+      "text": "bastante menor. Va a ser casi como una"
+    },
+    {
+      "index": 407,
+      "speaker": null,
+      "start": 827.08,
+      "end": 830.24,
+      "text": "lectura donde va a apuntar ciertas"
+    },
+    {
+      "index": 408,
+      "speaker": null,
+      "start": 828.84,
+      "end": 832.0400000000001,
+      "text": "cosillas en comparación con alguien que"
+    },
+    {
+      "index": 409,
+      "speaker": null,
+      "start": 830.24,
+      "end": 834.16,
+      "text": "venga de cero, que si vienes de cero y"
+    },
+    {
+      "index": 410,
+      "speaker": null,
+      "start": 832.04,
+      "end": 836.68,
+      "text": "te va sonando tal, también creo que es"
+    },
+    {
+      "index": 411,
+      "speaker": null,
+      "start": 834.16,
+      "end": 838.4399999999999,
+      "text": "un curso de nivel intermedio y creo que"
+    },
+    {
+      "index": 412,
+      "speaker": null,
+      "start": 836.68,
+      "end": 839.8,
+      "text": "casi cualquier persona lo podría sacar."
+    },
+    {
+      "index": 413,
+      "speaker": null,
+      "start": 838.44,
+      "end": 841.7600000000001,
+      "text": "Así que nada, chicos, cualquier duda"
+    },
+    {
+      "index": 414,
+      "speaker": null,
+      "start": 839.8,
+      "end": 843.3199999999999,
+      "text": "sobre el curso, cualquier duda sobre"
+    },
+    {
+      "index": 415,
+      "speaker": null,
+      "start": 841.76,
+      "end": 845.6,
+      "text": "sobre el vídeo, cualquier idea para"
+    },
+    {
+      "index": 416,
+      "speaker": null,
+      "start": 843.32,
+      "end": 846.6,
+      "text": "vídeos futuros, eh cualquier cosa que"
+    },
+    {
+      "index": 417,
+      "speaker": null,
+      "start": 845.6,
+      "end": 848.64,
+      "text": "necesitéis me la podéis dejar en"
+    },
+    {
+      "index": 418,
+      "speaker": null,
+      "start": 846.6,
+      "end": 849.96,
+      "text": "comentarios y nosotros nos vemos en el"
+    },
+    {
+      "index": 419,
+      "speaker": null,
+      "start": 848.64,
+      "end": 852.36,
+      "text": "siguiente vídeo. Se despide La Pizarra"
+    },
+    {
+      "index": 420,
+      "speaker": null,
+      "start": 849.96,
+      "end": 852.36,
+      "text": "Andrés."
+    }
+  ]
+}

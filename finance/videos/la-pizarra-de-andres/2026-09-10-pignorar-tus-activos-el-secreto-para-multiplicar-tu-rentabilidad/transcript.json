@@ -1,0 +1,3325 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=sKwDmqERvCw",
+    "video_id": "sKwDmqERvCw",
+    "title": "Pignorar tus Activos ¿El Secreto para Multiplicar tu Rentabilidad?",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a ver cómo funciona la pignoración y cómo puedes utilizarla correctamente.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-09-10",
+    "duration_seconds": 900,
+    "language_code": "en-US",
+    "language_name": "English (United States)",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:23:38+00:00"
+  },
+  "stats": {
+    "segment_count": 451,
+    "chunk_count": 15,
+    "speaker_count": 0,
+    "word_count": 3100,
+    "character_count": 16794,
+    "time_span_seconds": 901
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1184,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:09",
+      "speakers": [],
+      "text": "Hello everyone and welcome back to my channel, La Pizarra Andrés. Today I’m back with another video you’ve requested, and the fact is that many of you, as you gain more financial knowledge, want to get into forms of financing that are, let’s say, more complex or historically typical of high-net-worth individuals or people with significant capital, which in this case, we’re talking about pledging or what used to be called Lombard loans, right? What is this pledging thing? Most of you, I assume, will already know it. I have a video from, I’d say , a couple of years ago with the head of pledging at MyInvestor, and it is nothing more than accessing a loan thanks to the funds you have on the platform. For example, at MyInvestor, if you have € 100,000 in a fund portfolio, you could request a quite competitive loan of € 50,000, around 3, 3 and a bit percent, depending a bit on what you are pledging. And thanks to those assets you have within the platform, the bank knows that you will never default because they will block a portion of those funds. You remain the beneficiary of the gains or, of course, the one who would assume the losses, and thanks to that, they grant you a"
+    },
+    {
+      "index": 1,
+      "text_start": 1185,
+      "text_end": 2382,
+      "time_start_iso": "00:01:08",
+      "time_end_iso": "00:02:18",
+      "speakers": [],
+      "text": "loan knowing that, hey, this person is solvent because they have significant assets, and therefore, I’m going to give them a competitive loan. This competitive loan, currently around 3, 3 and a bit percent, you could then use for whatever you want. Today, instead of talking about the positives of this, okay? Another day, if you want, we can cover what pledging is useful for. I am going to point out the most common mistakes I’m seeing in people who come to me wanting to pledge, but then I look at their plan for that pledge and it’s not well thought out, okay? So, I have detailed the six most common mistakes in pledging, and I am going to present them to you one by one. What is the first one of all? Leveraging above 50%. Obviously, this doesn't mean 49%is good and 51%is bad. What is this about leveraging at 50%? Well, for those who don't know, in an example where you have € 100,000, you ask for a € 50,000 loan, okay? It’s not that 49 is good and 51 is bad, no. I mean, don't be aggressive with the leverage, with the margin that you're going to use for that pledge. That is, if tomorrow you, uh, put everything into the MSCall, you lock up 100,000 € there and borrow 50,000 against it,"
+    },
+    {
+      "index": 2,
+      "text_start": 2383,
+      "text_end": 3551,
+      "time_start_iso": "00:02:17",
+      "time_end_iso": "00:03:31",
+      "speakers": [],
+      "text": "it's virtually impossible for a global stock market to drop 50%and leave you in trouble. Why is this? Because obviously, if the bank sees that the loan you have, uh, no, suddenly your collateral, your fund, your 100,000 € , no longer covers it comfortably, they can automatically liquidate your fund and leave you, uh, leave you with no, uh, asset, and therefore, you will have lost your greatest treasure, which is that investment you have. So, it's one of two things: either you do it with a logical amount of money, which I would say is 50%or less, or you run the risk that during a major drop you could be liquidated, okay? So, if you have, uh, a loan that MyInvestor gives at 70%or 80%, or 75, or 60, tomorrow if there's a black swan in the markets and what you've pledged is aggressive, it's risky, it's very risky, it could be that they liquidate you, that you face this margin call risk. Margin is a margin call, like, \"Hey, either you put in more money or I'm going to close your position because with your investment having fallen so much, I'm starting to get worried about the loan you owe me,\" right? So, if you're going to do, uh, any of this, leverage is"
+    },
+    {
+      "index": 3,
+      "text_start": 3552,
+      "text_end": 4720,
+      "time_start_iso": "00:03:30",
+      "time_end_iso": "00:04:40",
+      "speakers": [],
+      "text": "already risky in itself, it's already taking on significant risks, so take on risks that make sense, okay? Don't go overboard, right? Obviously, there will be those to whom you say this, and they are so in love with risk that they decide to leverage with a higher margin . But, first of all, your interest rate will go up because, for greater risk and a larger amount requested, they will, they will charge you a higher interest rate. And, on the other hand, you will significantly increase your potential closings if they call the margin and there isn't enough of a portfolio to fall back on. So, be very careful, in my opinion, at most, at most, that 50%margin so that the chances of you having a liquidity event are very low, or let's not say zero, but very, very, very low. Error number two, ignoring conservative funds. In other words, if someone is going to lend you money at three percent, okay? Uh, at a minimum, the funds you leave locked up there, which need to provide a return higher than the cost of the debt, should be giving you, at the very least, a target return of six or seven percent, okay? Why? Because a six, uh, down the road, if everything goes"
+    },
+    {
+      "index": 4,
+      "text_start": 4721,
+      "text_end": 5893,
+      "time_start_iso": "00:04:39",
+      "time_end_iso": "00:05:39",
+      "speakers": [],
+      "text": "normally and you actually generate a six, uh, you’ll have to pay taxes; so , net-net, you'll be left with 4.8, and the loan is three-something, meaning you’re moving heaven and earth to gain a difference of one-something percent, which is quite little. I wouldn't take on a risk for less than that. A lot of people think, right? Hey , I pledge, uh, let me leave here, I’ll give you the example that reaches me very often. \"No, Andrés, what I do is: I pledge a money market fund, a very low-risk fund.\"\"The fund gives me two-something, the loan is at three, and therefore, I’m financing myself at one.\" And they don't understand that you are financing yourself at one at the cost of locking up something that generates a very high opportunity cost, because you are financing yourself at one while locking up a large part of your net worth, so you aren't financing yourself at one; you are financing yourself at one plus everything you’re failing to earn with that money, not to mention that, normally, hyper-conservative or conservative funds are used to have some liquidity in certain environments. So, if you also lock up something that is your emergency fund, well, it’s"
+    },
+    {
+      "index": 5,
+      "text_start": 5894,
+      "text_end": 7087,
+      "time_start_iso": "00:05:38",
+      "time_end_iso": "00:06:35",
+      "speakers": [],
+      "text": "all wrong. In other words, pledging conservative funds is wrong, no matter how you look at it, okay? Don't settle for that minimal attempt of, \"Hey, I’m financing myself at one,\" because you aren't financing yourself at one; you’re financing yourself at one plus the opportunity cost plus the possibility that you might need money that you can't even take out of liquid assets. So, be very careful with that. If you are going to pledge something, at a minimum, it should be things that, in the long term—if you have a pledge for 5 or 10 years—it’s very unlikely that your good equity funds won’t yield a 7, an 8, or a 9. Well, clearly, if you are borrowing at three to meanwhile maintain an investment at eight or nine, it’s very difficult for that not to work out well for you. Uh, that being said, I wouldn't take— we'll talk about this later—I wouldn't take a pledged loan and put it directly into the market, I wouldn't take that pledged loan and do something else with it, like a down payment on an apartment, uh, based on the fact that I don't want to liquidate my investments, okay? That, yes. So, be very careful with this, because the mindset many people have, which has surprised me,"
+    },
+    {
+      "index": 6,
+      "text_start": 7088,
+      "text_end": 8281,
+      "time_start_iso": "00:06:34",
+      "time_end_iso": "00:07:42",
+      "speakers": [],
+      "text": "Andrés, is that I'm borrowing at one percent. No, you're not borrowing at one percent; you're borrowing at one percent plus what you stop earning or what you are failing to earn by having so much money locked up with such a low interest rate, which makes it a very bad investment. I would prefer that someone who has a conservative fund, if they want to use that money in real life, not pledge it, but liquidate part of that fund and use it, rather than taking out a mortgage or a pledged loan at three-something percent while their fund is giving them two-something. It's a huge mistake, okay? Uh, moving on. In line with what I've said, pledging when you have cash, you have cash or you have things you could get your hands on , okay? It's one thing if you have an aggressive portfolio, if you have an aggressive way of investing and then you want to add risk because you aren't willing to liquidate and you want additional money. Okay, but no matter how much you—let's use an example now , okay? Another example that comes to me a lot. Hey, Andrés, I have € 100,000, of which € 50,000 are in equities and € 50,000 are in conservative things. I'm going to pledge the € 50,000 in equities and"
+    },
+    {
+      "index": 7,
+      "text_start": 8282,
+      "text_end": 9474,
+      "time_start_iso": "00:07:41",
+      "time_end_iso": "00:08:41",
+      "speakers": [],
+      "text": "I'm going to borrow € 25,000, sort of meeting that 50%ratio. Why do you think that's bad? Because even though you are pledging assets that are risky and that in theory will give you a higher return , you have other assets like, for example, Money Market Funds or whatever , that are giving you two-something percent. So in your assets, you have something that gives you two-something while you are borrowing at three-something. It's absurd. Okay? I mean, it would only make sense if the only thing you have are moderately risky things, okay? Or if that person who has € 100,000 has € 90,000 in equities and € 10,000 in a money market fund, well, man, those € 10,000, as we said before, they aren't going to pledge because that's money they want to have for their day-to-day for whatever might happen. So, in that case, we could say that person has a portfolio that's quite too risky to pledge, and they shouldn't pledge that cash, which, as we've discussed before, is a huge mistake. So, if you have cash or very conservative holdings, I'd rather you use that money for whatever you needed the loan for instead of pledging your assets. So, it's not just about pledging risky assets; they also"
+    },
+    {
+      "index": 8,
+      "text_start": 9475,
+      "text_end": 10659,
+      "time_start_iso": "00:08:41",
+      "time_end_iso": "00:09:47",
+      "speakers": [],
+      "text": "have to be risky assets in aggressive portfolios because, if you pledge risky assets but still have other low-yield holdings, we go back to the previous mistake: you're using a higher interest rate than if you had just liquidated certain assets, okay? So, that's another major mistake. Uh, more mistakes here, okay? I've listed four and five here. And pledging to enter a demanding market like today's, okay? Nobody knows what the market will do, of course not, but we are talking about borrowing to invest. Personally, I've never liked borrowing to invest in the markets. Uh, I've never liked being leveraged. Uh, going crazy in the current market, pledging because it's trendy and starting to jump into everything. Of course, it could work out for you, but there's a chance you'll buy right at the peak, then a major drop comes, and you end up with a loan you have to repay and a purchase you made at the top that's falling by 30 or 40%. That, uh, I think is unnecessary. It’s true that this is open to debate and someone might come with all the data in hand and say, \"Hey , I've studied the last 100 years and this works out on average.\"\"So, it could work because markets rise more"
+    },
+    {
+      "index": 9,
+      "text_start": 10660,
+      "text_end": 11825,
+      "time_start_iso": "00:09:46",
+      "time_end_iso": "00:10:51",
+      "speakers": [],
+      "text": "than they fall and that's the norm, but I don't think that's the way to do it.\" I think if someone uses pledging, it should be for a purpose other than, uh, buying more of the market, okay? That is to say, we'll talk later or in another video about examples of what pledging is for, and then we could say: \"Hey, Andrés, I don't want to lose liquidity for the car I bought; it's € 20,000, the car financing is awful, I pledged my assets, took the € 20,000, and self-financed the car at 3% .\" Well, hey, you didn't want to deplete your capital and you got a much better loan than the one they were offering you. Well, that could work for me. However, uh, you've made a quick fix for something that came up in your life. That said, wanting to voluntarily pledge your funds to leverage yourself even more and get into this, I don't know if I like it. In fact, when it comes to things like this, you have leveraged equity funds today, so, probably without so much fuss and with a lower interest rate, you could just take a two-times multiplier with part of your MSCI World money, which surely exists, and, without so much hassle, uh , do something similar and leverage a"
+    },
+    {
+      "index": 10,
+      "text_start": 11826,
+      "text_end": 12997,
+      "time_start_iso": "00:10:50",
+      "time_end_iso": "00:11:46",
+      "speakers": [],
+      "text": "part of your portfolio. Having said that, I don't like it either way. I don't think the general public is ready for this. And if it were to be done, it would have to be in a market environment or with an investment proposal where you believe you have a very interesting margin and it would be stupid not to do it, right? If tomorrow you believe a company has a super interesting thesis and you want to put € 15,000 there and pledge it, it's still very risky, but you're playing with something where you think you have more knowledge than the market, right? Uh, this also leads us to error number five, which is pledging without knowing what you are doing. \"It's not that I'm going to pledge to have availa-\" I don't like it, okay? Because this has to be a move where you know, \"Hey, I'm doing this for this reason, I'm going to pay this interest rate and I'm going to resolve it with this other interest rate.\" Perfect. But if you don't have a clear plan, I also meet people who want to pledge and say, \"No, I'll just have it available for when...\" I don't like it. I don't like it, because having money available there for whenever you use it—regardless of the fact that"
+    },
+    {
+      "index": 11,
+      "text_start": 12998,
+      "text_end": 14175,
+      "time_start_iso": "00:11:45",
+      "time_end_iso": "00:12:50",
+      "speakers": [],
+      "text": "now there's a type of pledging where you have the money available and you don't pay until you use it—leads people, sooner or later, to make mistakes, to get into things they shouldn't, to leverage where they shouldn't. And since they don't have a clear destination, any day they get excited, uh, they do things they shouldn't and they're already in a mess that is totally unnecessary. Okay? I understand the whole \"I have it, I'm not paying for it, it's already approved, I'll keep it just in case\" thing, but that’s what I mean, you’re already predisposed to leverage yourself without really knowing what for. I don't really like that. Having said that, well, if someone is very patient and is truly waiting for a great moment to do something, then it could be justifiable . In most cases, I don't like it when someone pledges assets without knowing what they need the money for, right? And then the last reason, which in this case is, uh, pledging for real estate. It's very interesting, pledging for real estate, but well, the AI translated this however it felt like. It’s not \"ignoring\" for real estate. In fact, I think pledging for real estate is a very good way to use a"
+    },
+    {
+      "index": 12,
+      "text_start": 14176,
+      "text_end": 15337,
+      "time_start_iso": "00:12:49",
+      "time_end_iso": "00:13:49",
+      "speakers": [],
+      "text": "collateralized loan. It is pledging while having a mortgage available. That is, if you are able to, if you still have room to take out mortgages, a mortgage has a better interest rate, a longer maturity, 30 years, and a guarantee where you can't get a margin call, because, hey, you have the house, right? It doesn't depend on my funds, right? So it is better in absolutely every way. So, be careful with pledging to buy a property, because if you have normal debt and can go to a bank for a mortgage, you can set up a mortgage. It’s something very different that I think the greatest utility of pledging is: I'm going to leverage the property as much as possible, I'll take out a mortgage, and I'll pledge to pay the down payment, so I end up buying a house putting € 0 from my own pocket. I think that's great. In fact, that would be the main reason why I think pledging would be useful. But be careful with saying, \"Hey, I'm going to pledge because I have € 300,000 and I'm going to buy a € 150,000 property .\" It is absurd if you have a job and have debt available that you don't do it through the bank. They are going to give you better rates and you won't"
+    },
+    {
+      "index": 13,
+      "text_start": 15338,
+      "text_end": 16500,
+      "time_start_iso": "00:13:48",
+      "time_end_iso": "00:14:46",
+      "speakers": [],
+      "text": "have the risk that if the markets fall, they liquidate you. Okay? So, these are the six main mistakes I've seen. I wouldn't want any of you to commit them . I think pledging is something that is already at an important level. I think that either you are very clear about everything I have said here, you have understood everything perfectly, you evidently don't fall into these errors and you have—we would talk about that in another video—and you are very clear about what you want that leverage for, or it is something that most people should not use. And this is a tool that is born from High Net Worth Individuals, from people who have portfolios of 2, 3, 5 million euros, who want to live a little off their investments, in such a way that they take out debt, which also doesn't pay taxes. They keep using the debt and, every now and then, their investments generate whatever they generate—some cash flow, some dividends, whatever it may be—with which they go about repaying the debt and they never fully deplete their capital. That loan of living based on my investment through debt, or that way of doing it, is very \"high net worth.\" I have seen it a lot."
+    },
+    {
+      "index": 14,
+      "text_start": 16501,
+      "text_end": 16794,
+      "time_start_iso": "00:14:46",
+      "time_end_iso": "00:15:01",
+      "speakers": [],
+      "text": "In this case, we are using leverage for something else, which are little boosts in real life, which we would talk about in another video. If you liked it, guys , you know, leave me a comment; it helps me a lot. And we will see each other in the next video. The whiteboard says goodbye, Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.119,
+      "end": 2.5540000000000003,
+      "text": "Hello everyone and welcome back to my"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.593,
+      "end": 4.615,
+      "text": "channel, La Pizarra Andrés. Today"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.678,
+      "end": 7.074999999999999,
+      "text": "I’m back with another video you’ve"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 6.139,
+      "end": 9.599,
+      "text": "requested, and the fact is that many of"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 8.662,
+      "end": 11.618,
+      "text": "you, as you gain more financial"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 10.681,
+      "end": 13.951999999999998,
+      "text": "knowledge, want to get into forms of"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 13.015,
+      "end": 16.35,
+      "text": "financing that are, let’s say, more"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 15.413,
+      "end": 18.558,
+      "text": "complex or historically typical of"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 17.621,
+      "end": 20.892,
+      "text": "high-net-worth individuals or people"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 19.955,
+      "end": 23.415999999999997,
+      "text": "with significant capital, which in this"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 22.479,
+      "end": 25.939,
+      "text": "case, we’re talking about pledging or"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 25.003,
+      "end": 28.337,
+      "text": "what used to be called Lombard loans,"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 27.4,
+      "end": 30.517999999999997,
+      "text": "right? What is this pledging thing?"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 29.659,
+      "end": 32.217999999999996,
+      "text": "Most of you, I assume, will already"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 31.262,
+      "end": 34.334,
+      "text": "know it. I have a video from, I’d say"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 33.334,
+      "end": 36.30200000000001,
+      "text": ", a couple of years ago with the head"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 35.355,
+      "end": 38.269999999999996,
+      "text": "of pledging at MyInvestor, and it is"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 37.323,
+      "end": 40.132,
+      "text": "nothing more than accessing a loan"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 39.185,
+      "end": 42.047000000000004,
+      "text": "thanks to the funds you have on the"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 41.1,
+      "end": 44.456,
+      "text": "platform. For example, at MyInvestor,"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 43.516,
+      "end": 46.492,
+      "text": "if you have € 100,000 in a fund"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 45.552,
+      "end": 48.709,
+      "text": "portfolio, you could request a quite"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 47.769,
+      "end": 51.045,
+      "text": "competitive loan of € 50,000, around"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 50.105,
+      "end": 53.440999999999995,
+      "text": "3, 3 and a bit percent, depending a bit"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 52.501,
+      "end": 56.527,
+      "text": "on what you are pledging. And thanks to"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 55.571,
+      "end": 57.971,
+      "text": "those assets you have within the"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 57.015,
+      "end": 59.678,
+      "text": "platform, the bank knows that you will"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 58.722,
+      "end": 61.428000000000004,
+      "text": "never default because they will block a"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 60.472,
+      "end": 64.388,
+      "text": "portion of those funds. You remain the"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 63.431,
+      "end": 66.128,
+      "text": "beneficiary of the gains or, of course,"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 65.172,
+      "end": 67.739,
+      "text": "the one who would assume the losses,"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 66.782,
+      "end": 69.34899999999999,
+      "text": "and thanks to that, they grant you a"
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 68.392,
+      "end": 71.04599999999999,
+      "text": "loan knowing that, hey, this person is"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 70.089,
+      "end": 72.699,
+      "text": "solvent because they have significant"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 71.743,
+      "end": 74.353,
+      "text": "assets, and therefore, I’m going to"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 73.397,
+      "end": 76.551,
+      "text": "give them a competitive loan. This"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 75.599,
+      "end": 78.471,
+      "text": "competitive loan, currently around 3, 3"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 77.519,
+      "end": 80.295,
+      "text": "and a bit percent, you could then use"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 79.343,
+      "end": 82.412,
+      "text": "for whatever you want. Today, instead"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 81.459,
+      "end": 84.279,
+      "text": "of talking about the positives of this,"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 83.326,
+      "end": 86.422,
+      "text": "okay? Another day, if you want, we can"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 85.473,
+      "end": 89.385,
+      "text": "cover what pledging is useful for. I am"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 88.427,
+      "end": 90.837,
+      "text": "going to point out the most common"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 89.878,
+      "end": 92.33,
+      "text": "mistakes I’m seeing in people who"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 91.371,
+      "end": 93.94699999999999,
+      "text": "come to me wanting to pledge, but then"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 92.988,
+      "end": 95.481,
+      "text": "I look at their plan for that pledge"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 94.523,
+      "end": 97.09899999999999,
+      "text": "and it’s not well thought out, okay?"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 97.379,
+      "end": 100.515,
+      "text": "So, I have detailed the six most common"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 99.569,
+      "end": 102.706,
+      "text": "mistakes in pledging, and I am going to"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 101.76,
+      "end": 105.138,
+      "text": "present them to you one by one. What is"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 104.181,
+      "end": 107.184,
+      "text": "the first one of all? Leveraging above"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 106.246,
+      "end": 110.627,
+      "text": "50%. Obviously, this doesn't mean 49%is"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 109.703,
+      "end": 113.22,
+      "text": "good and 51%is bad. What is this about"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 112.257,
+      "end": 114.91300000000001,
+      "text": "leveraging at 50%? Well, for those who"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 113.955,
+      "end": 116.419,
+      "text": "don't know, in an example where you"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 115.461,
+      "end": 117.925,
+      "text": "have € 100,000, you ask for a €"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 116.967,
+      "end": 120.775,
+      "text": "50,000 loan, okay? It’s not that 49"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 119.855,
+      "end": 124.178,
+      "text": "is good and 51 is bad, no. I mean,"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 123.246,
+      "end": 126.848,
+      "text": "don't be aggressive with the leverage,"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 125.916,
+      "end": 129.381,
+      "text": "with the margin that you're going to"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 128.449,
+      "end": 131.85600000000002,
+      "text": "use for that pledge. That is, if"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 130.914,
+      "end": 134.057,
+      "text": "tomorrow you, uh, put everything into"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 133.115,
+      "end": 136.14100000000002,
+      "text": "the MSCall, you lock up 100,000 €"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 135.199,
+      "end": 138.226,
+      "text": "there and borrow 50,000 against it,"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 137.284,
+      "end": 140.48399999999998,
+      "text": "it's virtually impossible for a global"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 139.542,
+      "end": 142.685,
+      "text": "stock market to drop 50%and leave you"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 141.743,
+      "end": 145.253,
+      "text": "in trouble. Why is this? Because"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 144.318,
+      "end": 147.656,
+      "text": "obviously, if the bank sees that the"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 146.721,
+      "end": 150.059,
+      "text": "loan you have, uh, no, suddenly your"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 149.124,
+      "end": 152.656,
+      "text": "collateral, your fund, your 100,000 €"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 151.656,
+      "end": 155.189,
+      "text": ", no longer covers it comfortably, they"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 154.254,
+      "end": 157.65699999999998,
+      "text": "can automatically liquidate your fund"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 156.722,
+      "end": 160.125,
+      "text": "and leave you, uh, leave you with no,"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 159.19,
+      "end": 162.722,
+      "text": "uh, asset, and therefore, you will have"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 161.787,
+      "end": 165.19,
+      "text": "lost your greatest treasure, which is"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 164.255,
+      "end": 169.123,
+      "text": "that investment you have. So, it's one"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 168.184,
+      "end": 171.476,
+      "text": "of two things: either you do it with a"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 170.536,
+      "end": 173.828,
+      "text": "logical amount of money, which I would"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 172.889,
+      "end": 176.181,
+      "text": "say is 50%or less, or you run the risk"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 175.241,
+      "end": 178.473,
+      "text": "that during a major drop you could be"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 177.533,
+      "end": 182.07199999999997,
+      "text": "liquidated, okay? So, if you have, uh,"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 181.139,
+      "end": 184.60500000000002,
+      "text": "a loan that MyInvestor gives at 70%or"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 183.672,
+      "end": 187.206,
+      "text": "80%, or 75, or 60, tomorrow if there's"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 186.272,
+      "end": 189.672,
+      "text": "a black swan in the markets and what"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 188.739,
+      "end": 192.006,
+      "text": "you've pledged is aggressive, it's"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 191.072,
+      "end": 194.406,
+      "text": "risky, it's very risky, it could be"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 193.473,
+      "end": 197.006,
+      "text": "that they liquidate you, that you face"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 196.073,
+      "end": 199.598,
+      "text": "this margin call risk. Margin is a"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 198.634,
+      "end": 201.04999999999998,
+      "text": "margin call, like, \"Hey, either you put"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 200.086,
+      "end": 202.35600000000002,
+      "text": "in more money or I'm going to close"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 201.393,
+      "end": 203.518,
+      "text": "your position because with your"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 202.554,
+      "end": 204.897,
+      "text": "investment having fallen so much, I'm"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 203.933,
+      "end": 206.313,
+      "text": "starting to get worried about the loan"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 205.349,
+      "end": 208.898,
+      "text": "you owe me,\" right? So, if you're going"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 207.959,
+      "end": 211.094,
+      "text": "to do, uh, any of this, leverage is"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 210.155,
+      "end": 213.411,
+      "text": "already risky in itself, it's already"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 212.472,
+      "end": 215.851,
+      "text": "taking on significant risks, so take on"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 214.912,
+      "end": 218.28,
+      "text": "risks that make sense, okay? Don't go"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 217.328,
+      "end": 221.108,
+      "text": "overboard, right? Obviously, there will"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 220.15,
+      "end": 222.80100000000002,
+      "text": "be those to whom you say this, and they"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 221.843,
+      "end": 224.283,
+      "text": "are so in love with risk that they"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 223.325,
+      "end": 225.976,
+      "text": "decide to leverage with a higher margin"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 224.976,
+      "end": 228.587,
+      "text": ". But, first of all, your interest rate"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 227.631,
+      "end": 230.196,
+      "text": "will go up because, for greater risk"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 229.239,
+      "end": 231.761,
+      "text": "and a larger amount requested, they"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 230.805,
+      "end": 233.326,
+      "text": "will, they will charge you a higher"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 232.37,
+      "end": 235.173,
+      "text": "interest rate. And, on the other hand,"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 234.21,
+      "end": 236.547,
+      "text": "you will significantly increase your"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 235.584,
+      "end": 240.897,
+      "text": "potential closings if they call the"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 239.943,
+      "end": 242.49,
+      "text": "margin and there isn't enough of a"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 241.535,
+      "end": 245.245,
+      "text": "portfolio to fall back on. So, be very"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 244.322,
+      "end": 248.01500000000001,
+      "text": "careful, in my opinion, at most, at"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 247.092,
+      "end": 250.554,
+      "text": "most, that 50%margin so that the"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 249.631,
+      "end": 253.632,
+      "text": "chances of you having a liquidity event"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 252.709,
+      "end": 256.479,
+      "text": "are very low, or let's not say zero,"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 255.556,
+      "end": 260.15000000000003,
+      "text": "but very, very, very low. Error number"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 259.211,
+      "end": 262.432,
+      "text": "two, ignoring conservative funds. In"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 261.469,
+      "end": 263.76099999999997,
+      "text": "other words, if someone is going to"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 262.797,
+      "end": 265.20000000000005,
+      "text": "lend you money at three percent, okay?"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 265.099,
+      "end": 267.957,
+      "text": "Uh, at a minimum, the funds you leave"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 267.008,
+      "end": 269.917,
+      "text": "locked up there, which need to provide"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 268.967,
+      "end": 271.776,
+      "text": "a return higher than the cost of the"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 270.826,
+      "end": 273.785,
+      "text": "debt, should be giving you, at the very"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 272.836,
+      "end": 275.745,
+      "text": "least, a target return of six or seven"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 274.795,
+      "end": 278.668,
+      "text": "percent, okay? Why? Because a six, uh,"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 277.717,
+      "end": 280.346,
+      "text": "down the road, if everything goes"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 279.395,
+      "end": 282.17199999999997,
+      "text": "normally and you actually generate a"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 281.221,
+      "end": 284.146,
+      "text": "six, uh, you’ll have to pay taxes; so"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 283.146,
+      "end": 286.07,
+      "text": ", net-net, you'll be left with 4.8, and"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 285.12,
+      "end": 287.896,
+      "text": "the loan is three-something, meaning"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 286.946,
+      "end": 289.673,
+      "text": "you’re moving heaven and earth to"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 288.722,
+      "end": 291.4,
+      "text": "gain a difference of one-something"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 290.45,
+      "end": 294.06,
+      "text": "percent, which is quite little. I"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 293.101,
+      "end": 295.614,
+      "text": "wouldn't take on a risk for less than"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 294.655,
+      "end": 298.164,
+      "text": "that. A lot of people think, right? Hey"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 297.164,
+      "end": 300.27,
+      "text": ", I pledge, uh, let me leave here,"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 299.332,
+      "end": 302.314,
+      "text": "I’ll give you the example that"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 301.376,
+      "end": 304.68199999999996,
+      "text": "reaches me very often. \"No, Andrés,"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 303.733,
+      "end": 306.62,
+      "text": "what I do is: I pledge a money market"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 305.671,
+      "end": 308.668,
+      "text": "fund, a very low-risk fund.\"\"The fund"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 307.711,
+      "end": 310.35,
+      "text": "gives me two-something, the loan is at"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 309.393,
+      "end": 311.988,
+      "text": "three, and therefore, I’m financing"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 311.032,
+      "end": 314.008,
+      "text": "myself at one.\" And they don't"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 313.055,
+      "end": 315.587,
+      "text": "understand that you are financing"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 314.633,
+      "end": 317.39799999999997,
+      "text": "yourself at one at the cost of locking"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 316.444,
+      "end": 319.255,
+      "text": "up something that generates a very high"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 318.301,
+      "end": 320.83299999999997,
+      "text": "opportunity cost, because you are"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 319.879,
+      "end": 322.69,
+      "text": "financing yourself at one while locking"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 321.736,
+      "end": 324.454,
+      "text": "up a large part of your net worth, so"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 323.501,
+      "end": 326.21799999999996,
+      "text": "you aren't financing yourself at one;"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 325.265,
+      "end": 328.029,
+      "text": "you are financing yourself at one plus"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 327.075,
+      "end": 329.7,
+      "text": "everything you’re failing to earn"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 328.747,
+      "end": 331.46500000000003,
+      "text": "with that money, not to mention that,"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 330.511,
+      "end": 332.95000000000005,
+      "text": "normally, hyper-conservative or"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 331.997,
+      "end": 334.62100000000004,
+      "text": "conservative funds are used to have"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 333.668,
+      "end": 336.479,
+      "text": "some liquidity in certain environments."
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 335.58,
+      "end": 338.08099999999996,
+      "text": "So, if you also lock up something that"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 337.121,
+      "end": 339.544,
+      "text": "is your emergency fund, well, it’s"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 338.583,
+      "end": 341.769,
+      "text": "all wrong. In other words, pledging"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 340.838,
+      "end": 344.451,
+      "text": "conservative funds is wrong, no matter"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 343.52,
+      "end": 347.203,
+      "text": "how you look at it, okay? Don't settle"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 346.242,
+      "end": 348.558,
+      "text": "for that minimal attempt of, \"Hey,"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 347.597,
+      "end": 350.10699999999997,
+      "text": "I’m financing myself at one,\" because"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 349.145,
+      "end": 351.578,
+      "text": "you aren't financing yourself at one;"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 350.617,
+      "end": 353.12600000000003,
+      "text": "you’re financing yourself at one plus"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 352.165,
+      "end": 354.288,
+      "text": "the opportunity cost plus the"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 353.327,
+      "end": 355.759,
+      "text": "possibility that you might need money"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 354.798,
+      "end": 357.269,
+      "text": "that you can't even take out of liquid"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 356.308,
+      "end": 359.39799999999997,
+      "text": "assets. So, be very careful with that."
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 358.499,
+      "end": 361.398,
+      "text": "If you are going to pledge something,"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 360.449,
+      "end": 363.451,
+      "text": "at a minimum, it should be things that,"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 362.502,
+      "end": 365.504,
+      "text": "in the long term—if you have a pledge"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 364.555,
+      "end": 367.146,
+      "text": "for 5 or 10 years—it’s very"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 366.198,
+      "end": 369.046,
+      "text": "unlikely that your good equity funds"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 368.097,
+      "end": 371.731,
+      "text": "won’t yield a 7, an 8, or a 9. Well,"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 370.765,
+      "end": 373.075,
+      "text": "clearly, if you are borrowing at three"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 372.109,
+      "end": 374.419,
+      "text": "to meanwhile maintain an investment at"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 373.454,
+      "end": 375.694,
+      "text": "eight or nine, it’s very difficult"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 374.729,
+      "end": 377.039,
+      "text": "for that not to work out well for you."
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 377.519,
+      "end": 380.014,
+      "text": "Uh, that being said, I wouldn't take—"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 379.014,
+      "end": 381.202,
+      "text": "we'll talk about this later—I"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 380.241,
+      "end": 382.736,
+      "text": "wouldn't take a pledged loan and put it"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 381.774,
+      "end": 384.154,
+      "text": "directly into the market, I wouldn't"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 383.193,
+      "end": 385.688,
+      "text": "take that pledged loan and do something"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 384.726,
+      "end": 387.221,
+      "text": "else with it, like a down payment on an"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 386.26,
+      "end": 388.755,
+      "text": "apartment, uh, based on the fact that I"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 387.793,
+      "end": 390.288,
+      "text": "don't want to liquidate my investments,"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 389.327,
+      "end": 392.664,
+      "text": "okay? That, yes. So, be very careful"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 391.708,
+      "end": 394.228,
+      "text": "with this, because the mindset many"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 393.272,
+      "end": 395.836,
+      "text": "people have, which has surprised me,"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 394.88,
+      "end": 397.487,
+      "text": "Andrés, is that I'm borrowing at one"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 396.531,
+      "end": 399.16,
+      "text": "percent. No, you're not borrowing at"
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 398.204,
+      "end": 400.779,
+      "text": "one percent; you're borrowing at one"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 399.823,
+      "end": 402.442,
+      "text": "percent plus what you stop earning or"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 401.486,
+      "end": 404.149,
+      "text": "what you are failing to earn by having"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 403.193,
+      "end": 405.899,
+      "text": "so much money locked up with such a low"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 404.943,
+      "end": 407.518,
+      "text": "interest rate, which makes it a very"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 406.562,
+      "end": 409.945,
+      "text": "bad investment. I would prefer that"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 408.994,
+      "end": 411.93600000000004,
+      "text": "someone who has a conservative fund, if"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 410.986,
+      "end": 413.729,
+      "text": "they want to use that money in real"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 412.778,
+      "end": 415.72,
+      "text": "life, not pledge it, but liquidate part"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 414.77,
+      "end": 417.56199999999995,
+      "text": "of that fund and use it, rather than"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 416.612,
+      "end": 419.55400000000003,
+      "text": "taking out a mortgage or a pledged loan"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 418.604,
+      "end": 421.496,
+      "text": "at three-something percent while their"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 420.546,
+      "end": 424.308,
+      "text": "fund is giving them two-something. It's"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 423.42,
+      "end": 430.957,
+      "text": "a huge mistake, okay? Uh, moving on. In"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 430.016,
+      "end": 433.312,
+      "text": "line with what I've said, pledging when"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 432.371,
+      "end": 435.43199999999996,
+      "text": "you have cash, you have cash or you"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 434.49,
+      "end": 437.786,
+      "text": "have things you could get your hands on"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 436.786,
+      "end": 440.519,
+      "text": ", okay? It's one thing if you have an"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 439.565,
+      "end": 442.204,
+      "text": "aggressive portfolio, if you have an"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 441.25,
+      "end": 443.889,
+      "text": "aggressive way of investing and then"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 442.935,
+      "end": 445.711,
+      "text": "you want to add risk because you aren't"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 444.756,
+      "end": 447.25899999999996,
+      "text": "willing to liquidate and you want"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 446.304,
+      "end": 449.755,
+      "text": "additional money. Okay, but no matter"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 448.797,
+      "end": 451.44800000000004,
+      "text": "how much you—let's use an example now"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 450.448,
+      "end": 452.789,
+      "text": ", okay? Another example that comes to"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 451.821,
+      "end": 454.50600000000003,
+      "text": "me a lot. Hey, Andrés, I have €"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 453.56,
+      "end": 456.443,
+      "text": "100,000, of which € 50,000 are in"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 455.497,
+      "end": 458.111,
+      "text": "equities and € 50,000 are in"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 457.165,
+      "end": 460.375,
+      "text": "conservative things. I'm going to"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 459.427,
+      "end": 462.32500000000005,
+      "text": "pledge the € 50,000 in equities and"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 461.376,
+      "end": 464.37699999999995,
+      "text": "I'm going to borrow € 25,000, sort of"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 463.429,
+      "end": 466.64099999999996,
+      "text": "meeting that 50%ratio. Why do you think"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 465.693,
+      "end": 469.003,
+      "text": "that's bad? Because even though you are"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 468.046,
+      "end": 470.68899999999996,
+      "text": "pledging assets that are risky and that"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 469.731,
+      "end": 472.375,
+      "text": "in theory will give you a higher return"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 471.375,
+      "end": 473.766,
+      "text": ", you have other assets like, for"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 472.808,
+      "end": 475.45099999999996,
+      "text": "example, Money Market Funds or whatever"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 474.451,
+      "end": 476.92600000000004,
+      "text": ", that are giving you two-something"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 475.968,
+      "end": 478.53200000000004,
+      "text": "percent. So in your assets, you have"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 477.574,
+      "end": 480.16,
+      "text": "something that gives you two-something"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 479.201,
+      "end": 481.286,
+      "text": "while you are borrowing at"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 480.328,
+      "end": 483.49899999999997,
+      "text": "three-something. It's absurd. Okay? I"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 482.551,
+      "end": 485.488,
+      "text": "mean, it would only make sense if the"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 484.54,
+      "end": 487.32,
+      "text": "only thing you have are moderately"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 486.372,
+      "end": 489.437,
+      "text": "risky things, okay? Or if that person"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 488.479,
+      "end": 491.043,
+      "text": "who has € 100,000 has € 90,000 in"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 490.085,
+      "end": 492.522,
+      "text": "equities and € 10,000 in a money"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 491.564,
+      "end": 493.958,
+      "text": "market fund, well, man, those €"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 493.0,
+      "end": 495.606,
+      "text": "10,000, as we said before, they aren't"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 494.648,
+      "end": 497.17,
+      "text": "going to pledge because that's money"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 496.212,
+      "end": 498.818,
+      "text": "they want to have for their day-to-day"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 497.86,
+      "end": 500.80400000000003,
+      "text": "for whatever might happen. So, in that"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 499.849,
+      "end": 502.43899999999996,
+      "text": "case, we could say that person has a"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 501.483,
+      "end": 504.029,
+      "text": "portfolio that's quite too risky to"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 503.073,
+      "end": 505.75199999999995,
+      "text": "pledge, and they shouldn't pledge that"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 504.796,
+      "end": 507.519,
+      "text": "cash, which, as we've discussed before,"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 506.563,
+      "end": 510.46999999999997,
+      "text": "is a huge mistake. So, if you have cash"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 509.521,
+      "end": 512.241,
+      "text": "or very conservative holdings, I'd"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 511.292,
+      "end": 514.2149999999999,
+      "text": "rather you use that money for whatever"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 513.265,
+      "end": 515.985,
+      "text": "you needed the loan for instead of"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 515.036,
+      "end": 519.867,
+      "text": "pledging your assets. So, it's not just"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 518.92,
+      "end": 521.948,
+      "text": "about pledging risky assets; they also"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 521.002,
+      "end": 523.977,
+      "text": "have to be risky assets in aggressive"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 523.03,
+      "end": 526.112,
+      "text": "portfolios because, if you pledge risky"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 525.165,
+      "end": 528.14,
+      "text": "assets but still have other low-yield"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 527.193,
+      "end": 530.115,
+      "text": "holdings, we go back to the previous"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 529.168,
+      "end": 532.249,
+      "text": "mistake: you're using a higher interest"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 531.303,
+      "end": 534.224,
+      "text": "rate than if you had just liquidated"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 533.278,
+      "end": 537.5600000000001,
+      "text": "certain assets, okay? So, that's"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 536.612,
+      "end": 539.991,
+      "text": "another major mistake. Uh, more"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 539.059,
+      "end": 542.1279999999999,
+      "text": "mistakes here, okay? I've listed four"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 541.167,
+      "end": 544.587,
+      "text": "and five here. And pledging to enter a"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 543.655,
+      "end": 547.079,
+      "text": "demanding market like today's, okay?"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 546.439,
+      "end": 549.0849999999999,
+      "text": "Nobody knows what the market will do,"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 548.13,
+      "end": 550.865,
+      "text": "of course not, but we are talking about"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 549.91,
+      "end": 552.769,
+      "text": "borrowing to invest. Personally, I've"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 551.809,
+      "end": 554.353,
+      "text": "never liked borrowing to invest in the"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 553.394,
+      "end": 556.291,
+      "text": "markets. Uh, I've never liked being"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 555.341,
+      "end": 558.34,
+      "text": "leveraged. Uh, going crazy in the"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 557.389,
+      "end": 560.208,
+      "text": "current market, pledging because it's"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 559.257,
+      "end": 561.8299999999999,
+      "text": "trendy and starting to jump into"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 560.879,
+      "end": 564.26,
+      "text": "everything. Of course, it could work"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 563.306,
+      "end": 565.792,
+      "text": "out for you, but there's a chance"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 564.837,
+      "end": 567.458,
+      "text": "you'll buy right at the peak, then a"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 566.503,
+      "end": 569.26,
+      "text": "major drop comes, and you end up with a"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 568.305,
+      "end": 570.972,
+      "text": "loan you have to repay and a purchase"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 570.017,
+      "end": 572.6830000000001,
+      "text": "you made at the top that's falling by"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 571.728,
+      "end": 576.132,
+      "text": "30 or 40%. That, uh, I think is"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 575.199,
+      "end": 578.626,
+      "text": "unnecessary. It’s true that this is"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 577.675,
+      "end": 580.483,
+      "text": "open to debate and someone might come"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 579.531,
+      "end": 582.4369999999999,
+      "text": "with all the data in hand and say, \"Hey"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 581.437,
+      "end": 584.245,
+      "text": ", I've studied the last 100 years and"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 583.293,
+      "end": 586.639,
+      "text": "this works out on average.\"\"So, it"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 585.674,
+      "end": 587.9399999999999,
+      "text": "could work because markets rise more"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 586.975,
+      "end": 589.346,
+      "text": "than they fall and that's the norm, but"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 588.381,
+      "end": 590.7529999999999,
+      "text": "I don't think that's the way to do it.\""
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 590.96,
+      "end": 593.914,
+      "text": "I think if someone uses pledging, it"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 592.969,
+      "end": 596.0870000000001,
+      "text": "should be for a purpose other than, uh,"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 595.141,
+      "end": 599.0939999999999,
+      "text": "buying more of the market, okay? That"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 598.143,
+      "end": 600.754,
+      "text": "is to say, we'll talk later or in"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 599.802,
+      "end": 602.5600000000001,
+      "text": "another video about examples of what"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 601.609,
+      "end": 604.5120000000001,
+      "text": "pledging is for, and then we could say:"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 603.561,
+      "end": 606.27,
+      "text": "\"Hey, Andrés, I don't want to lose"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 605.319,
+      "end": 608.0759999999999,
+      "text": "liquidity for the car I bought; it's"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 607.125,
+      "end": 610.029,
+      "text": "€ 20,000, the car financing is awful,"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 609.077,
+      "end": 611.688,
+      "text": "I pledged my assets, took the €"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 610.737,
+      "end": 613.641,
+      "text": "20,000, and self-financed the car at 3%"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 612.641,
+      "end": 615.786,
+      "text": ".\" Well, hey, you didn't want to"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 614.831,
+      "end": 617.563,
+      "text": "deplete your capital and you got a much"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 616.607,
+      "end": 619.117,
+      "text": "better loan than the one they were"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 618.161,
+      "end": 621.1149999999999,
+      "text": "offering you. Well, that could work for"
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 620.166,
+      "end": 623.5390000000001,
+      "text": "me. However, uh, you've made a quick"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 622.582,
+      "end": 625.221,
+      "text": "fix for something that came up in your"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 624.264,
+      "end": 628.049,
+      "text": "life. That said, wanting to voluntarily"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 627.099,
+      "end": 629.999,
+      "text": "pledge your funds to leverage yourself"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 629.049,
+      "end": 631.8489999999999,
+      "text": "even more and get into this, I don't"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 630.899,
+      "end": 634.278,
+      "text": "know if I like it. In fact, when it"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 633.336,
+      "end": 636.347,
+      "text": "comes to things like this, you have"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 635.405,
+      "end": 638.302,
+      "text": "leveraged equity funds today, so,"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 637.359,
+      "end": 640.543,
+      "text": "probably without so much fuss and with"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 639.601,
+      "end": 642.727,
+      "text": "a lower interest rate, you could just"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 641.785,
+      "end": 644.9119999999999,
+      "text": "take a two-times multiplier with part"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 643.969,
+      "end": 647.153,
+      "text": "of your MSCI World money, which surely"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 646.211,
+      "end": 649.452,
+      "text": "exists, and, without so much hassle, uh"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 648.452,
+      "end": 651.579,
+      "text": ", do something similar and leverage a"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 650.637,
+      "end": 653.9789999999999,
+      "text": "part of your portfolio. Having said"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 653.019,
+      "end": 655.85,
+      "text": "that, I don't like it either way. I"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 654.881,
+      "end": 657.072,
+      "text": "don't think the general public is ready"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 656.103,
+      "end": 659.1279999999999,
+      "text": "for this. And if it were to be done, it"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 658.169,
+      "end": 660.317,
+      "text": "would have to be in a market"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 659.358,
+      "end": 661.7109999999999,
+      "text": "environment or with an investment"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 660.752,
+      "end": 663.27,
+      "text": "proposal where you believe you have a"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 662.311,
+      "end": 664.9100000000001,
+      "text": "very interesting margin and it would be"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 663.951,
+      "end": 667.9300000000001,
+      "text": "stupid not to do it, right? If tomorrow"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 666.971,
+      "end": 669.324,
+      "text": "you believe a company has a super"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 668.365,
+      "end": 670.924,
+      "text": "interesting thesis and you want to put"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 669.965,
+      "end": 672.441,
+      "text": "€ 15,000 there and pledge it, it's"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 671.482,
+      "end": 673.959,
+      "text": "still very risky, but you're playing"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 673.0,
+      "end": 675.599,
+      "text": "with something where you think you have"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 674.64,
+      "end": 677.199,
+      "text": "more knowledge than the market, right?"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 678.079,
+      "end": 680.6139999999999,
+      "text": "Uh, this also leads us to error number"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 679.654,
+      "end": 682.23,
+      "text": "five, which is pledging without knowing"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 681.271,
+      "end": 684.139,
+      "text": "what you are doing. \"It's not that I'm"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 683.179,
+      "end": 685.539,
+      "text": "going to pledge to have availa-\" I"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 684.579,
+      "end": 687.756,
+      "text": "don't like it, okay? Because this has"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 686.787,
+      "end": 688.967,
+      "text": "to be a move where you know, \"Hey, I'm"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 687.998,
+      "end": 690.148,
+      "text": "doing this for this reason, I'm going"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 689.179,
+      "end": 691.39,
+      "text": "to pay this interest rate and I'm going"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 690.421,
+      "end": 692.6020000000001,
+      "text": "to resolve it with this other interest"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 691.633,
+      "end": 695.571,
+      "text": "rate.\" Perfect. But if you don't have a"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 694.612,
+      "end": 697.194,
+      "text": "clear plan, I also meet people who want"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 696.234,
+      "end": 698.7750000000001,
+      "text": "to pledge and say, \"No, I'll just have"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 697.816,
+      "end": 700.3570000000001,
+      "text": "it available for when...\" I don't like"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 699.398,
+      "end": 702.9540000000001,
+      "text": "it. I don't like it, because having"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 701.997,
+      "end": 704.6089999999999,
+      "text": "money available there for whenever you"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 703.652,
+      "end": 706.1790000000001,
+      "text": "use it—regardless of the fact that"
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 705.222,
+      "end": 707.75,
+      "text": "now there's a type of pledging where"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 706.792,
+      "end": 709.32,
+      "text": "you have the money available and you"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 708.362,
+      "end": 710.805,
+      "text": "don't pay until you use it—leads"
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 709.848,
+      "end": 712.2059999999999,
+      "text": "people, sooner or later, to make"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 711.248,
+      "end": 713.649,
+      "text": "mistakes, to get into things they"
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 712.691,
+      "end": 715.092,
+      "text": "shouldn't, to leverage where they"
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 714.134,
+      "end": 717.787,
+      "text": "shouldn't. And since they don't have a"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 716.824,
+      "end": 719.131,
+      "text": "clear destination, any day they get"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 718.168,
+      "end": 720.363,
+      "text": "excited, uh, they do things they"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 719.4,
+      "end": 721.856,
+      "text": "shouldn't and they're already in a mess"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 720.893,
+      "end": 724.994,
+      "text": "that is totally unnecessary. Okay? I"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 724.048,
+      "end": 726.998,
+      "text": "understand the whole \"I have it, I'm"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 726.052,
+      "end": 728.731,
+      "text": "not paying for it, it's already"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 727.785,
+      "end": 730.735,
+      "text": "approved, I'll keep it just in case\""
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 729.789,
+      "end": 732.523,
+      "text": "thing, but that’s what I mean,"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 731.577,
+      "end": 734.256,
+      "text": "you’re already predisposed to"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 733.31,
+      "end": 736.044,
+      "text": "leverage yourself without really"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 735.098,
+      "end": 738.819,
+      "text": "knowing what for. I don't really like"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 737.863,
+      "end": 741.115,
+      "text": "that. Having said that, well, if"
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 740.166,
+      "end": 743.0160000000001,
+      "text": "someone is very patient and is truly"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 742.067,
+      "end": 744.712,
+      "text": "waiting for a great moment to do"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 743.763,
+      "end": 746.767,
+      "text": "something, then it could be justifiable"
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 745.767,
+      "end": 748.6360000000001,
+      "text": ". In most cases, I don't like it when"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 747.667,
+      "end": 749.859,
+      "text": "someone pledges assets without knowing"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 748.89,
+      "end": 751.019,
+      "text": "what they need the money for, right?"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 751.839,
+      "end": 755.859,
+      "text": "And then the last reason, which in this"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 754.936,
+      "end": 758.879,
+      "text": "case is, uh, pledging for real estate."
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 759.159,
+      "end": 761.8439999999999,
+      "text": "It's very interesting, pledging for"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 760.892,
+      "end": 763.2890000000001,
+      "text": "real estate, but well, the AI"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 762.337,
+      "end": 765.119,
+      "text": "translated this however it felt like."
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 764.8,
+      "end": 767.319,
+      "text": "It’s not \"ignoring\" for real estate."
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 766.859,
+      "end": 769.1890000000001,
+      "text": "In fact, I think pledging for real"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 768.228,
+      "end": 770.558,
+      "text": "estate is a very good way to use a"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 769.597,
+      "end": 772.4639999999999,
+      "text": "collateralized loan. It is pledging"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 771.502,
+      "end": 775.233,
+      "text": "while having a mortgage available. That"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 774.292,
+      "end": 777.403,
+      "text": "is, if you are able to, if you still"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 776.461,
+      "end": 779.455,
+      "text": "have room to take out mortgages, a"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 778.514,
+      "end": 781.742,
+      "text": "mortgage has a better interest rate, a"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 780.8,
+      "end": 783.6769999999999,
+      "text": "longer maturity, 30 years, and a"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 782.735,
+      "end": 785.964,
+      "text": "guarantee where you can't get a margin"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 785.022,
+      "end": 788.3090000000001,
+      "text": "call, because, hey, you have the house,"
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 787.368,
+      "end": 791.2320000000001,
+      "text": "right? It doesn't depend on my funds,"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 790.281,
+      "end": 792.9749999999999,
+      "text": "right? So it is better in absolutely"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 792.02,
+      "end": 794.917,
+      "text": "every way. So, be careful with pledging"
+    },
+    {
+      "index": 392,
+      "speaker": null,
+      "start": 793.965,
+      "end": 796.793,
+      "text": "to buy a property, because if you have"
+    },
+    {
+      "index": 393,
+      "speaker": null,
+      "start": 795.841,
+      "end": 798.669,
+      "text": "normal debt and can go to a bank for a"
+    },
+    {
+      "index": 394,
+      "speaker": null,
+      "start": 797.717,
+      "end": 800.4499999999999,
+      "text": "mortgage, you can set up a mortgage."
+    },
+    {
+      "index": 395,
+      "speaker": null,
+      "start": 799.659,
+      "end": 802.316,
+      "text": "It’s something very different that I"
+    },
+    {
+      "index": 396,
+      "speaker": null,
+      "start": 801.36,
+      "end": 804.017,
+      "text": "think the greatest utility of pledging"
+    },
+    {
+      "index": 397,
+      "speaker": null,
+      "start": 803.061,
+      "end": 805.719,
+      "text": "is: I'm going to leverage the property"
+    },
+    {
+      "index": 398,
+      "speaker": null,
+      "start": 804.762,
+      "end": 807.333,
+      "text": "as much as possible, I'll take out a"
+    },
+    {
+      "index": 399,
+      "speaker": null,
+      "start": 806.376,
+      "end": 808.947,
+      "text": "mortgage, and I'll pledge to pay the"
+    },
+    {
+      "index": 400,
+      "speaker": null,
+      "start": 807.99,
+      "end": 810.474,
+      "text": "down payment, so I end up buying a"
+    },
+    {
+      "index": 401,
+      "speaker": null,
+      "start": 809.517,
+      "end": 812.219,
+      "text": "house putting € 0 from my own pocket."
+    },
+    {
+      "index": 402,
+      "speaker": null,
+      "start": 811.319,
+      "end": 813.973,
+      "text": "I think that's great. In fact, that"
+    },
+    {
+      "index": 403,
+      "speaker": null,
+      "start": 813.016,
+      "end": 815.5509999999999,
+      "text": "would be the main reason why I think"
+    },
+    {
+      "index": 404,
+      "speaker": null,
+      "start": 814.593,
+      "end": 817.3919999999999,
+      "text": "pledging would be useful. But be"
+    },
+    {
+      "index": 405,
+      "speaker": null,
+      "start": 816.434,
+      "end": 819.081,
+      "text": "careful with saying, \"Hey, I'm going to"
+    },
+    {
+      "index": 406,
+      "speaker": null,
+      "start": 818.123,
+      "end": 820.6850000000001,
+      "text": "pledge because I have € 300,000 and"
+    },
+    {
+      "index": 407,
+      "speaker": null,
+      "start": 819.727,
+      "end": 822.374,
+      "text": "I'm going to buy a € 150,000 property"
+    },
+    {
+      "index": 408,
+      "speaker": null,
+      "start": 821.374,
+      "end": 824.479,
+      "text": ".\" It is absurd if you have a job and"
+    },
+    {
+      "index": 409,
+      "speaker": null,
+      "start": 823.524,
+      "end": 826.179,
+      "text": "have debt available that you don't do"
+    },
+    {
+      "index": 410,
+      "speaker": null,
+      "start": 825.224,
+      "end": 828.2370000000001,
+      "text": "it through the bank. They are going to"
+    },
+    {
+      "index": 411,
+      "speaker": null,
+      "start": 827.281,
+      "end": 829.842,
+      "text": "give you better rates and you won't"
+    },
+    {
+      "index": 412,
+      "speaker": null,
+      "start": 828.887,
+      "end": 831.626,
+      "text": "have the risk that if the markets fall,"
+    },
+    {
+      "index": 413,
+      "speaker": null,
+      "start": 830.671,
+      "end": 834.152,
+      "text": "they liquidate you. Okay? So, these are"
+    },
+    {
+      "index": 414,
+      "speaker": null,
+      "start": 833.2,
+      "end": 836.5120000000001,
+      "text": "the six main mistakes I've seen. I"
+    },
+    {
+      "index": 415,
+      "speaker": null,
+      "start": 835.551,
+      "end": 838.071,
+      "text": "wouldn't want any of you to commit them"
+    },
+    {
+      "index": 416,
+      "speaker": null,
+      "start": 837.071,
+      "end": 840.2330000000001,
+      "text": ". I think pledging is something that is"
+    },
+    {
+      "index": 417,
+      "speaker": null,
+      "start": 839.288,
+      "end": 842.318,
+      "text": "already at an important level. I think"
+    },
+    {
+      "index": 418,
+      "speaker": null,
+      "start": 841.359,
+      "end": 843.849,
+      "text": "that either you are very clear about"
+    },
+    {
+      "index": 419,
+      "speaker": null,
+      "start": 842.89,
+      "end": 845.4209999999999,
+      "text": "everything I have said here, you have"
+    },
+    {
+      "index": 420,
+      "speaker": null,
+      "start": 844.462,
+      "end": 846.952,
+      "text": "understood everything perfectly, you"
+    },
+    {
+      "index": 421,
+      "speaker": null,
+      "start": 845.993,
+      "end": 848.565,
+      "text": "evidently don't fall into these errors"
+    },
+    {
+      "index": 422,
+      "speaker": null,
+      "start": 847.607,
+      "end": 850.22,
+      "text": "and you have—we would talk about that"
+    },
+    {
+      "index": 423,
+      "speaker": null,
+      "start": 849.261,
+      "end": 851.709,
+      "text": "in another video—and you are very"
+    },
+    {
+      "index": 424,
+      "speaker": null,
+      "start": 850.751,
+      "end": 853.364,
+      "text": "clear about what you want that leverage"
+    },
+    {
+      "index": 425,
+      "speaker": null,
+      "start": 852.406,
+      "end": 854.771,
+      "text": "for, or it is something that most"
+    },
+    {
+      "index": 426,
+      "speaker": null,
+      "start": 853.812,
+      "end": 857.1610000000001,
+      "text": "people should not use. And this is a"
+    },
+    {
+      "index": 427,
+      "speaker": null,
+      "start": 856.206,
+      "end": 858.865,
+      "text": "tool that is born from High Net Worth"
+    },
+    {
+      "index": 428,
+      "speaker": null,
+      "start": 857.91,
+      "end": 860.39,
+      "text": "Individuals, from people who have"
+    },
+    {
+      "index": 429,
+      "speaker": null,
+      "start": 859.435,
+      "end": 862.049,
+      "text": "portfolios of 2, 3, 5 million euros,"
+    },
+    {
+      "index": 430,
+      "speaker": null,
+      "start": 861.094,
+      "end": 863.663,
+      "text": "who want to live a little off their"
+    },
+    {
+      "index": 431,
+      "speaker": null,
+      "start": 862.708,
+      "end": 865.322,
+      "text": "investments, in such a way that they"
+    },
+    {
+      "index": 432,
+      "speaker": null,
+      "start": 864.367,
+      "end": 867.026,
+      "text": "take out debt, which also doesn't pay"
+    },
+    {
+      "index": 433,
+      "speaker": null,
+      "start": 866.07,
+      "end": 869.8770000000001,
+      "text": "taxes. They keep using the debt and,"
+    },
+    {
+      "index": 434,
+      "speaker": null,
+      "start": 868.919,
+      "end": 871.473,
+      "text": "every now and then, their investments"
+    },
+    {
+      "index": 435,
+      "speaker": null,
+      "start": 870.515,
+      "end": 873.111,
+      "text": "generate whatever they generate—some"
+    },
+    {
+      "index": 436,
+      "speaker": null,
+      "start": 872.153,
+      "end": 874.748,
+      "text": "cash flow, some dividends, whatever it"
+    },
+    {
+      "index": 437,
+      "speaker": null,
+      "start": 873.79,
+      "end": 876.1759999999999,
+      "text": "may be—with which they go about"
+    },
+    {
+      "index": 438,
+      "speaker": null,
+      "start": 875.218,
+      "end": 877.814,
+      "text": "repaying the debt and they never fully"
+    },
+    {
+      "index": 439,
+      "speaker": null,
+      "start": 876.856,
+      "end": 881.281,
+      "text": "deplete their capital. That loan of"
+    },
+    {
+      "index": 440,
+      "speaker": null,
+      "start": 880.323,
+      "end": 882.872,
+      "text": "living based on my investment through"
+    },
+    {
+      "index": 441,
+      "speaker": null,
+      "start": 881.914,
+      "end": 884.505,
+      "text": "debt, or that way of doing it, is very"
+    },
+    {
+      "index": 442,
+      "speaker": null,
+      "start": 883.547,
+      "end": 886.9590000000001,
+      "text": "\"high net worth.\" I have seen it a lot."
+    },
+    {
+      "index": 443,
+      "speaker": null,
+      "start": 886.579,
+      "end": 889.241,
+      "text": "In this case, we are using leverage for"
+    },
+    {
+      "index": 444,
+      "speaker": null,
+      "start": 888.284,
+      "end": 890.946,
+      "text": "something else, which are little boosts"
+    },
+    {
+      "index": 445,
+      "speaker": null,
+      "start": 889.989,
+      "end": 892.6510000000001,
+      "text": "in real life, which we would talk about"
+    },
+    {
+      "index": 446,
+      "speaker": null,
+      "start": 891.694,
+      "end": 895.661,
+      "text": "in another video. If you liked it, guys"
+    },
+    {
+      "index": 447,
+      "speaker": null,
+      "start": 894.661,
+      "end": 897.155,
+      "text": ", you know, leave me a comment; it"
+    },
+    {
+      "index": 448,
+      "speaker": null,
+      "start": 896.199,
+      "end": 899.308,
+      "text": "helps me a lot. And we will see each"
+    },
+    {
+      "index": 449,
+      "speaker": null,
+      "start": 898.343,
+      "end": 900.6479999999999,
+      "text": "other in the next video. The whiteboard"
+    },
+    {
+      "index": 450,
+      "speaker": null,
+      "start": 899.675,
+      "end": 901.266,
+      "text": "says goodbye, Andrés."
+    }
+  ]
+}

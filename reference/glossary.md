@@ -39,7 +39,7 @@ Fuera de esos casos: `no atribuible con certeza` si el turno es dudoso, `(inferi
 
 | Nombre canónico | Rol | Canal / contexto | Aparece en | Notas |
 |---|---|---|---|---|
-| Andrés | Autor y presentador del canal "La Pizarra de Andrés". Hace videos y charlas sobre inversiones. | "La Pizarra de Andrés" | 2026-10-07 a 2026-11-01 (14 carpetas); 2026-10-09 (monólogo, autor) | En 2026-10-07 el nombre "Andrés" lo usan ambas partes (el entrevistador lo llama al invitado al inicio y el invitado lo llama al entrevistador en la segunda mitad). Por eso la atribución de turno en ese encuentro es inferencial y va marcada como "(inferida)". En el resto de vídeos es la única voz o el entrevistador. |
+| Andrés | Autor y presentador del canal "La Pizarra de Andrés". Hace videos y charlas sobre inversiones. | "La Pizarra de Andrés" | 2026-05-14 a 2026-11-13 (todas las carpetas del canal) | En 2026-10-07 el nombre "Andrés" lo usan ambas partes (el entrevistador lo llama al invitado al inicio y el invitado lo llama al entrevistador en la segunda mitad). Por eso la atribución de turno en ese encuentro es inferencial y va marcada como "(inferida)". En el resto de vídeos es la única voz o el entrevistador. |
 | Javier (también "Jorge") | Invitado / gestor de inversiones. Aparece como autor del libro *Lo que saben los que saben*. | Canal no declarado en el resumen | 2026-10-07 | El nombre "Javier" lo usa el entrevistador al invitado (es la única voz que lo llama así). El nombre "Jorge" aparece en el slug del fichero `invest-jorge-la-pizarra-andres.txt`. La correlación Jorge ↔ Javier es inferida; no se confirma apellido. |
 | Comet | Invitado del episodio de SpaceX (El Arte de Invertir). | "El Arte de Invertir" | 2026-05-20 | En la transcripción aparece como "Nicomer", "Comic", "come to". La forma canónica es "Comet". |
 | Presentador (El Arte de Invertir) | Presentador del canal El Arte de Invertir. No tiene nombre explícito en la transcripción del episodio de SpaceX. | "El Arte de Invertir" | 2026-05-20 | Solo se referencia como "presentador". No colocar nombre propio que no esté en la transcripción. |
@@ -53,6 +53,19 @@ Fuera de esos casos: `no atribuible con certeza` si el turno es dudoso, `(inferi
 | Gabriel Castro | Gestor de renta variable y renta fija en Sigma Internacional y Gamma Global. | "La Pizarra de Andrés" | 2026-11-08 | Presentado literalmente por Andrés: «hoy tenéis a Gabriel Castro… gestor tanto de renta variable como de renta fija en Sigma Internacional y Gamma Global». En el resumen se le cita como "Gabriel". |
 | Mike Bird | Autor del libro *The Land Trap*. No es ponente, es referenciado en el resumen de Javier. | — | 2026-10-07 | Solo citar su nombre y obra. |
 | Stephen Penman | Profesor de la Universidad de Columbia, fuente del método de los beneficios residuales. | — | 2026-10-07 | Referenciado en el resumen de Javier. |
+| Gabriela Guerrero | Responsable del negocio de distribución digital de BlackRock (iShares). | "La Pizarra de Andrés" | 2026-05-27, 2026-07-14 (Jornadas) | Presentada literalmente por Andrés. En las Jornadas aparece transcrita como "Gabriela Guerrero/Beltrán" y con variantes del apellido; se usa la forma canónica. |
+| Lola Solana | Gestora de Santander Small Caps España. | "La Pizarra de Andrés" | 2026-05-29, 2026-07-14 (Jornadas) | Presentada literalmente. En el audio dice «40 billones» donde el resumen anota millones (error de magnitud documentado en Advertencias). |
+| Juan Ángel Lafuente | Catedrático de Economía (Universitat Jaume I); vinculado al curso MiFID de la Carlos III. | "La Pizarra de Andrés" | 2026-06-04, 2026-07-14 (Jornadas) | Presentado literalmente. |
+| Javier López | Gestor de Brightgate Capital (renta fija corporativa y mixtos). | "La Pizarra de Andrés" | 2026-06-08, 2026-06-23 ("Javier", BrightGate), 2026-07-14 (Jornadas), 2026-10-06 (renta fija) | Ojo: **no** es el "Javier" del encuentro de 2026-10-07 ni el Javier Ruiz de Horos. En 2026-06-23 y en 2026-07-14 el audio solo da el nombre de pila; la identificación con Javier López es inferida. En 2026-10-06 presenta su curso de valoración: `(lo comercializa)`. |
+| Agustín Márquez | Representante de HWK (HWK Tech Investment / Isatis). | "La Pizarra de Andrés" | 2026-06-11, 2026-07-14 (Jornadas) | Presentado literalmente. La transcripción escribe la gestora como "HWK", "ISTIS" o "SAS"; forma canónica HWK. |
+| Beltrán Parages | Socio fundador de Azvalor Asset Management. | "La Pizarra de Andrés" | 2026-06-16, 2026-07-14 (Jornadas), 2026-09-27 (entrevista) | Presentado literalmente. La transcripción escribe "Parajes" y "Abante Valor Internacional" por Azvalor Internacional. **No confundir** con Lorenzo Parages (Campion Capital): son personas distintas. |
+| Eduardo (también «Edu») | Experto en fiscalidad de inversiones; invitado por TaxDown. | "La Pizarra de Andrés" | 2026-06-19 | Presentado literalmente; solo nombre de pila. |
+| Alejandro | Gestor del equipo de Horos. | "La Pizarra de Andrés" | 2026-06-21 | Solo nombre de pila, apellido no verificado en el audio. La transcripción escribe "Oros"/"Orus" por Horos. |
+| Nicolás Sinás (transcrito también "Ginás") | Representante de ventas de Carmignac en España. | "La Pizarra de Andrés" | 2026-07-09, 2026-07-14 (Jornadas) | Presentado literalmente. El apellido queda **no verificado** en el audio: se escribe "Sinás/Ginás" tal como suena. |
+| Carlos (Investing) | Representante de Investing (patrocinador del canal). | "La Pizarra de Andrés" | 2026-07-21 | Solo nombre de pila. **No confundir** con Carlos Valcárcel (MyInvestor Value). |
+| Juan (gestor tecnológico) | Gestor de una gestora especializada en tecnología. | "La Pizarra de Andrés" | 2026-06-28 | Solo nombre de pila; gestora y fondos (ISAIS/HWK) quedan no verificados. |
+| Rubén González | Gestor de inversiones; declara 165 M€ gestionados y posición propia en Nextil y Amper. | "La Pizarra de Andrés" | 2026-10-04 | El nombre lo dice Andrés en la primera frase. Sus dos "mantener" van como `recomienda (lo comercializa)`. |
+| Jeremy Grantham | Inversor (GMO), voz del vídeo original que comenta Andrés. | — | 2026-06-30 | No es ponente del canal: es el autor del vídeo reaccionado. |
 
 ## Gestoras y vehículos citados
 
@@ -67,7 +80,7 @@ Fuera de esos casos: `no atribuible con certeza` si el turno es dudoso, `(inferi
 
 | Canal | Propietario / frecuente | Descripción |
 |---|---|---|
-| La Pizarra de Andrés | Andrés | Videos y charlas de inversión, con estilo de monólogo y "pizarra". 18 carpetas, de 2026-10-07 a 2026-11-11. |
+| La Pizarra de Andrés | Andrés | Videos y charlas de inversión, con estilo de monólogo y "pizarra". 81 carpetas, de 2026-05-14 a 2026-11-13. |
 | El Arte de Invertir | Presentador (sin nombre confirmado); invitado Comet | Episodios de inversiones con invitados. 2026-05-20. |
 | Dev Docs Explained | — | Canal de IA (agentes, Claude, LLMs). 2026-10-15: `summary.md` + `informe-agentes-autonomos.md`. |
 | MyInvestor | — | Webinars y entrevistas de gestoras; catálogo en `finance/videos/myinvestor-webinars/catalogo.md`. 2026-10-20. |
@@ -107,7 +120,13 @@ Tabla de variaciones detectadas. Cada una debe aparecer en la sección "Adverten
 | Dan Bank | Andbank |
 | Juan Santa María | Juan Santamaría |
 | Lorenzo Parajes | Lorenzo Parages |
-| Oros, Oros Value International | Horos |
+| Oros, Oros Value International, Orus | Horos |
+| Parajes (Beltrán) | Beltrán Parages |
+| Abante Valor Internacional | Azvalor Internacional |
+| ISTIS / SAS Tech | HWK (HWK Tech Investment) |
+| Bright Capital / BrightGate | Brightgate Capital |
+| Sinás / Ginás | Nicolás Sinás (apellido no verificado) |
+| San Jung / HWI | no verificado (firma de auditoría citada en 2026-06-21) |
 | My Investor | MyInvestor |
 
 ## Aclaraciones alcanzables (en investigación)

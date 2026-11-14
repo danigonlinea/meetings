@@ -1,0 +1,2957 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=j7FT8hFBjKw",
+    "video_id": "j7FT8hFBjKw",
+    "title": "📈 ¿Estoy batiendo a los índices bursátiles? ¿Y vosotros?",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a ver qué tal lo están haciendo mis carteras frente a los índices para comprobar si tanto vosotros como yo lo estamos haciendo bien.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-07-12",
+    "duration_seconds": 799,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:28:25+00:00"
+  },
+  "stats": {
+    "segment_count": 401,
+    "chunk_count": 13,
+    "speaker_count": 0,
+    "word_count": 2749,
+    "character_count": 15033,
+    "time_span_seconds": 800
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1171,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:10",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a la pizarra de Andrés. La pregunta de hoy, ¿cuánto estáis ganando en lo que va de año? En el día de hoy vamos a ver en función del tipo de cartera que tenéis, cuánto deberíais estar ganando y lo vamos a comparar con lo que las carteras que tengo yo para clientes de alto patrimonio que gestiono a través de Andbank, podáis comprobar cuánto o qué resultados ha obtenido cada una de ellas y lo podáis comparar con el resultado que estáis obteniendo vosotros. De esta forma podréis saber, además os voy a enseñar el benchmark, es decir, el índice de referencia para cada categoría y de esta forma podréis saber si vuestra gestión está siendo lo suficientemente buena o por lo menos se parecen algo a lo que podría ser una gestión profesional. También decir una vez más que aunque mis carteras tienen un componente importante de opinión mía, también puedo decir que mis carteras están fundamentadas en los mejores fondos de cada categoría basándome en criterios normalmente, diríamos que matemáticos o en formato de ratios, con lo cual en muchos casos la opinión de, oye, uso estos fondos, viene dada por un histórico muy bueno, por una"
+    },
+    {
+      "index": 1,
+      "text_start": 1172,
+      "text_end": 2355,
+      "time_start_iso": "00:01:08",
+      "time_end_iso": "00:02:13",
+      "speakers": [],
+      "text": "rentabilidad atractiva, por un riesgo adecuado, por unas comisiones bajas, etcétera, etcétera. Con lo cual, aunque estas carteras que voy a enseñar y los resultados que están obteniendo pueden tener una parte que sea mis conocimientos, también tiene otra parte que creo que es sentido común el utilizar ciertos fondos en en diferentes categorías, ¿no? Para los que no lo sepáis, en la página de Andbank, en la parte de Boutique Hub, La Pizarra de Andrés, podéis acceder a a las carteras. Aquí arriba están los fondos que utilizo principalmente. Ya sabéis que esto también está disponible para clientes de de alto patrimonio con eh patrimonios superiores a 400.000 euros. Esto no es un vídeo de publicidad, simplemente sé que para eso aplica poca gente, pero eh sí que os puedo decir que, oye, que si habéis estado un poco siguiendo mi mi mi contenido, casi cualquier persona puede hacer una cartera de forma relativamente sencilla, competitiva en cada categoría, ¿vale? Aquí simplemente vemos los perfiles, que si alguien quiere saber, oye, Andrés, este perfil conservador, bueno, aquí te indica la rentabilidad, el porcentaje de rentabilidad que tiene cada perfil, ¿vale? Desde 0 el"
+    },
+    {
+      "index": 2,
+      "text_start": 2356,
+      "text_end": 3521,
+      "time_start_iso": "00:02:11",
+      "time_end_iso": "00:03:12",
+      "speakers": [],
+      "text": "conservador plus a 100% el agresivo plus, ¿vale? Entonces, más o menos te puedes hacer una idea de tu tipo de cartera en función de la rentabilidad y renta fija que tenga, aunque bueno, luego hay otra categoría más que son alternativos. Em, do- contra qué debería compararse, ¿vale? También, como las carteras ya tienen casi 6 meses de vida, vamos a analizar el year to date y los 6 meses, y el year to date, para los que no lo sepan, es a lo largo de este año. En este caso, por supuesto, como es a final de junio, los 6 últimos meses y el year y el year to date coinciden, porque justo son 6 meses lo que lo que lleva actualizado este esta cartera. Eh, y por tanto, pues lo primero que tendríamos que ver, esto ya en su mayoría, eh, previamente, si nos vamos a 1 año, 3 años o o o o 5 años, las carteras están creadas de de alante hacia atrás, con lo cual es una suposición de que yo hubieras tenido estas carteras hace 5 años. Esto para mi gusto no tiene ningún sentido, independientemente de que aquí en el papel queden genial, eh, no tendría ningún sentido porque probablemente hace 5 años la cartera que yo hubiera hecho hubiera sido diferente, sobre todo por"
+    },
+    {
+      "index": 3,
+      "text_start": 3522,
+      "text_end": 4695,
+      "time_start_iso": "00:03:10",
+      "time_end_iso": "00:04:13",
+      "speakers": [],
+      "text": "el lado de la renta fija, donde pues los tipos de interés estaban al 0 y había un montón de renta fija que no era atractiva. Con lo cual, eh, comparar estos resultados o estos resultados a 5 o 3 años en el pasado no tiene mucho sentido, bueno, es cierto que hm si sabes esas esas connotaciones, pues, oye, pues son números y los puedes tener en cuenta para lo que tú desees, pero a priori no tiene mucho sentido. Sin embargo, el year to date y el 6 meses ya se asemeja a lo que es la cartera real. La cartera lleva lleva corriendo 5 de esos 6 meses, con lo cual gran parte lo que vemos aquí ha ocurrido ya en tiempo real, con dinero de personas, ¿no? ¿Qué es lo primero que vemos? Bueno, pues, como podéis esperar, en un entorno de normalidad en el que, bueno, hemos tenido un periodo con ciertas dificultades en algunos casos a través de de la guerra, la subida del Brent, etcétera, etcétera, pero que más o menos, por lo menos a finales de junio se ha resuelto eh más o menos de forma positiva y por tanto, pues lo que tenemos es que a mayor eh porcentual de renta variable, mayores retornos en estos últimos 6 meses. En la cartera conservadora eh 1,45, pues si entendéis"
+    },
+    {
+      "index": 4,
+      "text_start": 4696,
+      "text_end": 5888,
+      "time_start_iso": "00:04:11",
+      "time_end_iso": "00:05:15",
+      "speakers": [],
+      "text": "que un monetario de hoy paga 2,230, si se repitiera este retorno en los próximos 6 meses, la cartera daría cerca de un 3, cerca de un 3 para una cartera conservadora plus, pues puede tener sentido, ya que un monetario te da pues un 2,2, ¿no? Una cosa así, ¿no? Entonces, eh más o menos, es cierto que aquí, como hay muy bajo riesgo, la posibilidad de ganar o de batir al índice significativamente, pues es difícil, ¿no? Pero los retornos pues están siendo eh bastante buenos, aunque aquí tengo abiertas las fichas que las veremos una a una, ¿no? Si tienes una cartera conservadora, es decir, con eh entre un 15 y un 20% de renta variable, tu retorno en los últimos 6 meses debería ser de un 3,2 aproximadamente, ¿vale? Eh que no estaría nada mal, ¿vale? Porque no olvidemos que esto multiplicado por 2, si se mantuviera este anualizado, te daría un retorno anual de la cartera de un 6 y pico, que es una barbaridad para una cartera que tiene tan poca renta variable, ¿no? Moderado subiría 5,25, equilibrado subiría 7,11, agresivo sería 1,15 y agresivo plus, es decir, todo renta variable, sería 1,11,6%, es decir, si tú has tenido una cartera similar en porcentuales de renta variable y renta"
+    },
+    {
+      "index": 5,
+      "text_start": 5889,
+      "text_end": 7066,
+      "time_start_iso": "00:05:13",
+      "time_end_iso": "00:06:20",
+      "speakers": [],
+      "text": "fija principalmente a estas de aquí, deberías haber obtenido retornos similares a esto. Cuidado, en estas carteras, yo uso clases limpias, las clases limpias tienen como un 0,40% aproximadamente, depende de los tipos de activos, pero entre un 0,30 o un 0,40% es lo que de media yo os diría que eh mis carteras van a dar por encima del retorno que vosotros obtengáis en vuestra plataforma tipo MyInvestor, ¿no? Con lo cual, no os castiguéis si no tenéis estos resultados porque 0,30 o 0,40 no es la virtud de Andrés, es que simplemente utiliza fondos con menos comisiones, ¿vale? Los fondos que conocéis todos, pero en clase limpia con menos comisiones, con lo cual eh en este caso, si no estáis teniendo estos resultados, pero se le parece, eh estarían bastante bien. En general, los resultados han sido muy buenos y no ha sido por el numerito que vemos aquí, ha sido porque en la mayoría de los casos se ha batido al índice de referencia, es decir, lo estamos haciendo mejor que eh lo que se considera la referencia de esta cartera. ¿Dónde se ve esto? Bueno, esto me lo ha preparado el banco. Aquí están las seis fichas de los perfiles. Algo muy importante, ¿vale? Esto se cal"
+    },
+    {
+      "index": 6,
+      "text_start": 7067,
+      "text_end": 8247,
+      "time_start_iso": "00:06:18",
+      "time_end_iso": "00:07:27",
+      "speakers": [],
+      "text": "Esto se Esta ficha se descarga con Morningstar y os enseño cómo descargarla, esto es un vídeo ya de hace 11 meses, del 15 de julio de 2025. Se llama Cómo analizar tu cartera de fondos de eh de manera manual o muy fácil. Y eh esto os enseño a hacerlo en vuestra cartera de MyInvestor, ¿vale? Para que tengáis una ficha parecida. Si queréis buscar, si queréis hacerla, buscáis este vídeo y veis cómo lo hacéis. En este caso, el perfil que utiliza el banco es un poco más profesional y la ficha tiene otra otra pinta, ¿no? O tiene quizás más cosas, ¿no? Pero bueno, el que quiera saber cómo buscar eso de su propia cartera, que sepa que en este vídeo lo puede encontrar, ¿no? Volviendo aquí, no voy a entrar en analizar la ficha de nuevo, eso es algo que ya está hecho en el vídeo que os he enseñado y lo que queremos ver es, oye, ¿qué tal lo está haciendo el índice de referencia? En este caso, el índice de referencia me han puesto aquí un Bloomberg Euro Aggregate 3-5 años, es decir, en este caso, renta fija gubernamental de entre 3 años, algo pues bastante conservador, una opción como eh comparativa conservadora bastante válida, ¿no? Yo quizás no usaría esta, eh buscaría otra"
+    },
+    {
+      "index": 7,
+      "text_start": 8248,
+      "text_end": 9447,
+      "time_start_iso": "00:07:25",
+      "time_end_iso": "00:08:28",
+      "speakers": [],
+      "text": "cosa que se le pareciera un poco más, eh pero bueno, en este caso, pues el el el el resultado es increíblemente bueno, ¿vale? Eh tengo que decir que en esta categoría solo tengo un par de personas, tengo una persona mayor y tengo una persona que ha vendido la empresa y quiere vivir del del dinero que eh le han dado por esa empresa, con lo cual el retorno que esperan en esta categoría es bajo, bajo y el riesgo muy bajo y los retornos están eh, obteniendo con creces, ¿no? Porque este 1,45 que se ha obtenido en los últimos 6 meses es muy superior al 0,66 que hubiera obtenido esta categoría. También es cierto que si hubieran cogido un monetario, esto estaría haciendo más o menos, pues, si llevamos ya unos cuantos días de julio, estaría haciendo un 1,05 a Groupama, ¿no? Pues, eh, en este caso, contra Groupama habría un un retorno por encima de de del monetario de 0,40%. Dicho esto, esto es una cartera extremadamente conservadora, no es muy habitual que nadie lleve carteras de este estilo. La cartera conservadora que ya tiene entre un 15 y un 20% de renta variable, me han puesto este benchmark. Insisto, esto no lo ha puesto yo, esto me lo ha hecho el banco. Eh, y me han puesto el Causus"
+    },
+    {
+      "index": 8,
+      "text_start": 9448,
+      "text_end": 10641,
+      "time_start_iso": "00:08:25",
+      "time_end_iso": "00:09:28",
+      "speakers": [],
+      "text": "Allocation, ¿vale? Como un un eh un benchmark. En este caso, la cartera ha hecho un 3,28, que es una barbaridad, pero el el índice de referencia no lo ha hecho mal tampoco en este periodo, es decir, lo ha hecho un 0,24 por encima de lo mejor de lo esperado, no está mal, ¿vale? O sea, una vez más, pues, mejor mejor que la categoría. Eh, [resoplido] la la agregada, o sea, bueno, la no miento, la moderada, me han puesto este Moderate Allocation y aquí sí que está bastante empatada, ¿vale? O sea, está haciendo un 0,19 peor que el benchmark. Aquí cuidado, eh. Quiero explicar una cosa, mucha gente diría, \"Andrés, ¿y para qué te voy a contratar a ti si existe la posibilidad de que no lo hagas mejor que el índice?\" Bueno, es que ya de por sí eh, hacer una cartera moderada no es algo que pueda hacer cualquier persona, especialmente si hablamos de carteras de medio millón de euros, es decir, que eh, si tú consigues eh, los retornos de una especie de índice sintético que ha sido creado, que refleja lo que sería una gestión moderada, significa que has hecho un buen trabajo, independientemente de que acabes 0,20 por arriba o 0,20 por abajo, porque has conseguido crear una cartera robusta"
+    },
+    {
+      "index": 9,
+      "text_start": 10642,
+      "text_end": 11825,
+      "time_start_iso": "00:09:27",
+      "time_end_iso": "00:10:39",
+      "speakers": [],
+      "text": "que cumple con lo que te han pedido, ¿vale? Entonces, técnicamente, yo no creo que yo esté aquí para superar a los índices, que por supuesto es un objetivo que yo me pongo, eh, sino más bien para conseguir el retorno esperado de la categoría, ¿vale? Que ya de por sí es eh conseguir lo que el cliente te pide, ¿vale? Por supuesto que utilizando los mejores fondos, yo creo que es es habitual que lo puedas batir, pero eh que no es no es una garantía, ¿no? Eh, entonces, esta es la primera de las que vemos que se queda 0,19 atrás por debajo del del benchmark, algo totalmente normal, insisto, que además son solo 6 meses de track record. Eh, la equilibrada, muy bien, aquí lo vemos, ponen un flexible allocation, el year to date del 7% es un 1,70% por encima del eh benchmark, también la bate. La agresiva, muy bien también, 9,15 por encima de 0,89, o sea, por encima 0,89 de lo esperado, con lo cual bien también, insisto una vez más, mi objetivo no es batir a a esa cartera del benchmark, con ese benchmark, es decir, quedarme o un poco o un poquito por encima, un poquito por debajo, pero haberle hecho el trabajo a alguien de de darle lo que pedía, ¿no? Lo que pedía de una forma"
+    },
+    {
+      "index": 10,
+      "text_start": 11826,
+      "text_end": 13025,
+      "time_start_iso": "00:10:35",
+      "time_end_iso": "00:11:39",
+      "speakers": [],
+      "text": "justa. Eh, y por último, eh la agresiva plus, que en esta no tengo a ningún cliente, también os diré, pero esta es la que se ha quedado un 1% por debajo, ¿vale? Es decir, si alguien tuviera una cartera 100% renta variable, es muy difícil, eh sobre todo con una diversificación importante de fondos, no olvidemos que aquí eh aquí sí que sí podemos decir que una cartera diversificada de renta variable va a tener menos riesgo que una cartera de solo MSCI World, que es al final el benchmark, ¿vale? MSCI World net eh euros, ¿vale? Em, entonces, al final estas quizá de de las seis que hay, la única que para mi gusto pues se ha quedado un poquito atrás, aquí no tengo ningún cliente, yo ya he dicho mil veces que si alguien quiere hacer una cartera 100% renta variable, no creo que tenga que contratarme o contratar este tipo de servicios, porque comprar una comprar tres, cuatro, cinco fondos de renta variable y mantenerlos durante mucho tiempo, creo que es algo relativamente sencillo hacer y donde el gestor tiene poco que toca tiene poco que tocar o poco que rebalancear entre entre clases de activos, ya que no hay clases de activos, hay una única clase de activo que es la renta variable, ¿no?"
+    },
+    {
+      "index": 11,
+      "text_start": 13026,
+      "text_end": 14213,
+      "time_start_iso": "00:11:37",
+      "time_end_iso": "00:12:42",
+      "speakers": [],
+      "text": "Con lo cual esta es quizá la única que no ha cumplido. De las otras eh cinco, todas baten al índice menos uno, cosa que estoy tremendamente contento, no es nada fácil. Y la que no bate al índice está 0,19 por debajo en seis meses, con lo cual está está bastante bien. Con lo cual eh bueno, esto es solo, no voy a estar haciendo actualizaciones continuas de de las carteras de del banco, pero como esta es la primera, eh pues nada, simplemente que decirle a la gente, oye, que esto está funcionando como debería y que no hay mucho misterio, que ya veis que eh si compráis cosas buenas y el el el la distribución de los activos es más o menos coherente, hacerlo igual o mejor que una categoría, pues no debería ser difícil, ¿no? Otra cosa es ya cuando pones pues comisiones imposibles, utilizas fondos subóptimos, etcétera, etcétera, y por tanto, me atrevo a decir que si habéis obtenido retornos similares, eh también deciros que en muchos casos esos retornos que veis en un índice no tienen comisiones, es decir, por eso esos benchmarks sintéticos son tan difíciles de batir, porque te ponen el subyacente debajo y no te ponen una capa de comisiones encima, ¿no? Que hay muchas cosas que"
+    },
+    {
+      "index": 12,
+      "text_start": 14214,
+      "text_end": 15033,
+      "time_start_iso": "00:12:40",
+      "time_end_iso": "00:13:20",
+      "speakers": [],
+      "text": "tendría que explicar, eh incluso la agresiva plus, pero esto podríamos explicarlo otro día, alguien podría preguntaros, \"Oye, Andrés, ¿por qué eh en la cartera agresiva plus, si coges tamonofondos, el el portfolio casi nunca o prácticamente nunca bate al índice, ¿no?\" Y esto también lo podría explicar, porque hay una explicación para ello, etcétera, etcétera, pero no creo que sea algo para este vídeo, quizá en una del futuro. Así que nada, chicos, esto es un update de cuánto habría de estar ganando en la cartera eh a día de hoy, o mejor dicho, en lo que va de año, y espero eh o podéis dejármelo en comentarios, cómo os va la vuestra en comparación con las que yo os he enseñado aquí. Si tenéis dudas, me las podéis dejar en comentarios y nosotros nos vemos en el siguiente vídeo. Se despide La Pizarra de Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.0,
+      "end": 3.56,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.6,
+      "end": 6.4,
+      "text": "la pizarra de Andrés. La pregunta de"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.56,
+      "end": 9.040000000000001,
+      "text": "hoy, ¿cuánto estáis ganando en lo que va"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 6.4,
+      "end": 11.48,
+      "text": "de año? En el día de hoy vamos a ver en"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 9.04,
+      "end": 13.239999999999998,
+      "text": "función del tipo de cartera que tenéis,"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 11.48,
+      "end": 16.4,
+      "text": "cuánto deberíais estar ganando y lo"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 13.24,
+      "end": 18.560000000000002,
+      "text": "vamos a comparar con lo que las carteras"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 16.4,
+      "end": 19.959999999999997,
+      "text": "que tengo yo para clientes de alto"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 18.56,
+      "end": 23.479999999999997,
+      "text": "patrimonio que gestiono a través de"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 19.96,
+      "end": 25.240000000000002,
+      "text": "Andbank, podáis comprobar cuánto o qué"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 23.48,
+      "end": 27.080000000000002,
+      "text": "resultados ha obtenido cada una de ellas"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 25.24,
+      "end": 28.52,
+      "text": "y lo podáis comparar con el resultado"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 27.08,
+      "end": 30.56,
+      "text": "que estáis obteniendo vosotros. De esta"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 28.52,
+      "end": 31.52,
+      "text": "forma podréis saber, además os voy a"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 30.56,
+      "end": 32.839999999999996,
+      "text": "enseñar el"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 31.52,
+      "end": 34.839999999999996,
+      "text": "benchmark, es decir, el índice de"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 32.84,
+      "end": 37.36,
+      "text": "referencia para cada categoría y de esta"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 34.84,
+      "end": 39.24,
+      "text": "forma podréis saber si vuestra gestión"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 37.36,
+      "end": 40.88,
+      "text": "está siendo lo suficientemente buena o"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 39.24,
+      "end": 42.6,
+      "text": "por lo menos se parecen algo a lo que"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 40.88,
+      "end": 44.760000000000005,
+      "text": "podría ser una gestión profesional."
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 42.6,
+      "end": 46.84,
+      "text": "También decir una vez más que aunque mis"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 44.76,
+      "end": 49.12,
+      "text": "carteras tienen un componente importante"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 46.84,
+      "end": 52.56,
+      "text": "de opinión mía, también puedo decir que"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 49.12,
+      "end": 54.839999999999996,
+      "text": "mis carteras están fundamentadas en los"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 52.56,
+      "end": 58.68,
+      "text": "mejores fondos de cada categoría"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 54.84,
+      "end": 60.64,
+      "text": "basándome en criterios normalmente,"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 58.68,
+      "end": 63.08,
+      "text": "diríamos que matemáticos o en formato de"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 60.64,
+      "end": 65.28,
+      "text": "ratios, con lo cual en muchos casos la"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 63.08,
+      "end": 68.32,
+      "text": "opinión de, oye, uso estos fondos, viene"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 65.28,
+      "end": 70.08,
+      "text": "dada por un histórico muy bueno, por una"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 68.32,
+      "end": 72.03999999999999,
+      "text": "rentabilidad atractiva, por un riesgo"
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 70.08,
+      "end": 73.76,
+      "text": "adecuado, por unas comisiones bajas,"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 72.04,
+      "end": 75.04,
+      "text": "etcétera, etcétera. Con lo cual, aunque"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 73.76,
+      "end": 76.72,
+      "text": "estas carteras que voy a enseñar y los"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 75.04,
+      "end": 78.60000000000001,
+      "text": "resultados que están obteniendo pueden"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 76.72,
+      "end": 81.16,
+      "text": "tener una parte que sea"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 78.6,
+      "end": 83.91999999999999,
+      "text": "mis conocimientos, también tiene otra"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 81.16,
+      "end": 85.96,
+      "text": "parte que creo que es sentido común el"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 83.92,
+      "end": 87.56,
+      "text": "utilizar ciertos fondos en en diferentes"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 85.96,
+      "end": 89.44,
+      "text": "categorías, ¿no? Para los que no lo"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 87.56,
+      "end": 91.48,
+      "text": "sepáis, en la página de Andbank, en la"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 89.44,
+      "end": 94.67999999999999,
+      "text": "parte de Boutique Hub, La Pizarra de"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 91.48,
+      "end": 96.28,
+      "text": "Andrés, podéis acceder a a las carteras."
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 94.68,
+      "end": 97.80000000000001,
+      "text": "Aquí arriba están los fondos que utilizo"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 96.28,
+      "end": 99.88,
+      "text": "principalmente. Ya sabéis que esto"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 97.8,
+      "end": 102.39999999999999,
+      "text": "también está disponible para clientes de"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 99.88,
+      "end": 104.52,
+      "text": "de alto patrimonio con eh patrimonios"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 102.4,
+      "end": 107.60000000000001,
+      "text": "superiores a 400.000 euros. Esto no es"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 104.52,
+      "end": 110.72,
+      "text": "un vídeo de publicidad, simplemente sé"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 107.6,
+      "end": 112.19999999999999,
+      "text": "que para eso aplica poca gente, pero eh"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 110.72,
+      "end": 114.64,
+      "text": "sí que os puedo decir que, oye, que si"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 112.2,
+      "end": 116.4,
+      "text": "habéis estado un poco siguiendo mi mi mi"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 114.64,
+      "end": 118.96000000000001,
+      "text": "contenido, casi cualquier persona puede"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 116.4,
+      "end": 121.08000000000001,
+      "text": "hacer una cartera de forma relativamente"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 118.96,
+      "end": 122.8,
+      "text": "sencilla, competitiva en cada categoría,"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 121.08,
+      "end": 124.39999999999999,
+      "text": "¿vale? Aquí simplemente vemos los"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 122.8,
+      "end": 126.2,
+      "text": "perfiles, que si alguien quiere saber,"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 124.4,
+      "end": 128.399,
+      "text": "oye, Andrés, este perfil conservador,"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 126.2,
+      "end": 129.72,
+      "text": "bueno, aquí te indica la rentabilidad,"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 128.399,
+      "end": 131.2,
+      "text": "el porcentaje de rentabilidad que tiene"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 129.72,
+      "end": 133.76,
+      "text": "cada perfil, ¿vale? Desde 0 el"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 131.2,
+      "end": 136.0,
+      "text": "conservador plus a 100% el agresivo"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 133.76,
+      "end": 137.64,
+      "text": "plus, ¿vale? Entonces, más o menos te"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 136.0,
+      "end": 139.72,
+      "text": "puedes hacer una idea de tu tipo de"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 137.64,
+      "end": 141.04,
+      "text": "cartera en función de la rentabilidad y"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 139.72,
+      "end": 142.16,
+      "text": "renta fija que tenga, aunque bueno,"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 141.04,
+      "end": 145.12,
+      "text": "luego hay otra categoría más que son"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 142.16,
+      "end": 147.0,
+      "text": "alternativos. Em, do- contra qué debería"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 145.12,
+      "end": 149.52,
+      "text": "compararse, ¿vale? También, como las"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 147.0,
+      "end": 151.24,
+      "text": "carteras ya tienen casi 6 meses de vida,"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 149.52,
+      "end": 152.32000000000002,
+      "text": "vamos a analizar el year to date y los 6"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 151.24,
+      "end": 154.60000000000002,
+      "text": "meses, y el year to date, para los que"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 152.32,
+      "end": 156.0,
+      "text": "no lo sepan, es a lo largo de este año."
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 154.6,
+      "end": 158.68,
+      "text": "En este caso, por supuesto, como es a"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 156.0,
+      "end": 160.72,
+      "text": "final de junio, los 6 últimos meses y el"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 158.68,
+      "end": 162.92000000000002,
+      "text": "year y el year to date coinciden, porque"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 160.72,
+      "end": 165.6,
+      "text": "justo son 6 meses lo que lo que lleva"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 162.92,
+      "end": 167.32,
+      "text": "actualizado este esta cartera. Eh, y por"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 165.6,
+      "end": 168.44,
+      "text": "tanto, pues lo primero que tendríamos"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 167.32,
+      "end": 170.79999999999998,
+      "text": "que ver,"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 168.44,
+      "end": 173.2,
+      "text": "esto ya en su mayoría, eh, previamente,"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 170.8,
+      "end": 175.52,
+      "text": "si nos vamos a 1 año, 3 años o o o o 5"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 173.2,
+      "end": 177.44,
+      "text": "años, las carteras están creadas de de"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 175.52,
+      "end": 178.76000000000002,
+      "text": "alante hacia atrás, con lo cual es una"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 177.44,
+      "end": 181.04,
+      "text": "suposición de que yo hubieras tenido"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 178.76,
+      "end": 182.48,
+      "text": "estas carteras hace 5 años. Esto para mi"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 181.04,
+      "end": 183.72,
+      "text": "gusto no tiene ningún sentido,"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 182.48,
+      "end": 186.0,
+      "text": "independientemente de que aquí en el"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 183.72,
+      "end": 187.32,
+      "text": "papel queden genial, eh, no tendría"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 186.0,
+      "end": 188.72,
+      "text": "ningún sentido porque probablemente hace"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 187.32,
+      "end": 190.07999999999998,
+      "text": "5 años la cartera que yo hubiera hecho"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 188.72,
+      "end": 192.32,
+      "text": "hubiera sido diferente, sobre todo por"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 190.08,
+      "end": 193.76000000000002,
+      "text": "el lado de la renta fija, donde pues los"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 192.32,
+      "end": 194.76,
+      "text": "tipos de interés estaban al 0 y había un"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 193.76,
+      "end": 197.88,
+      "text": "montón de renta fija que no era"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 194.76,
+      "end": 199.519,
+      "text": "atractiva. Con lo cual, eh,"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 197.88,
+      "end": 202.68,
+      "text": "comparar estos resultados o estos"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 199.519,
+      "end": 203.92000000000002,
+      "text": "resultados a 5 o 3 años en el pasado no"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 202.68,
+      "end": 206.6,
+      "text": "tiene mucho sentido, bueno, es cierto"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 203.92,
+      "end": 208.07999999999998,
+      "text": "que hm si sabes esas esas connotaciones,"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 206.6,
+      "end": 210.0,
+      "text": "pues, oye, pues son números y los puedes"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 208.08,
+      "end": 211.519,
+      "text": "tener en cuenta para lo que tú desees,"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 210.0,
+      "end": 213.6,
+      "text": "pero a priori no tiene mucho sentido."
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 211.519,
+      "end": 214.88,
+      "text": "Sin embargo, el year to date y el 6"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 213.6,
+      "end": 217.239,
+      "text": "meses ya se asemeja a lo que es la"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 214.88,
+      "end": 219.79999999999998,
+      "text": "cartera real. La cartera lleva lleva"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 217.239,
+      "end": 221.48000000000002,
+      "text": "corriendo 5 de esos 6 meses, con lo cual"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 219.8,
+      "end": 222.76000000000002,
+      "text": "gran parte lo que vemos aquí ha ocurrido"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 221.48,
+      "end": 225.0,
+      "text": "ya en tiempo real, con dinero de"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 222.76,
+      "end": 226.16,
+      "text": "personas, ¿no?"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 225.0,
+      "end": 228.68,
+      "text": "¿Qué es lo primero que vemos? Bueno,"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 226.16,
+      "end": 230.239,
+      "text": "pues, como podéis esperar, en un entorno"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 228.68,
+      "end": 231.8,
+      "text": "de normalidad en el que, bueno, hemos"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 230.239,
+      "end": 233.4,
+      "text": "tenido un periodo con ciertas"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 231.8,
+      "end": 234.76000000000002,
+      "text": "dificultades en algunos casos a través"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 233.4,
+      "end": 236.68,
+      "text": "de de la guerra, la subida del Brent,"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 234.76,
+      "end": 237.95999999999998,
+      "text": "etcétera, etcétera, pero que más o"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 236.68,
+      "end": 240.16,
+      "text": "menos, por lo menos a finales de junio"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 237.96,
+      "end": 242.08,
+      "text": "se ha resuelto eh más o menos de forma"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 240.16,
+      "end": 244.44,
+      "text": "positiva y por tanto, pues lo que"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 242.08,
+      "end": 246.28,
+      "text": "tenemos es que a mayor eh porcentual de"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 244.44,
+      "end": 248.44,
+      "text": "renta variable, mayores retornos en"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 246.28,
+      "end": 251.16,
+      "text": "estos últimos 6 meses. En la cartera"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 248.44,
+      "end": 253.84,
+      "text": "conservadora eh 1,45, pues si entendéis"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 251.16,
+      "end": 255.48,
+      "text": "que un monetario de hoy paga 2,230, si"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 253.84,
+      "end": 257.519,
+      "text": "se repitiera este retorno en los"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 255.48,
+      "end": 259.519,
+      "text": "próximos 6 meses, la cartera daría cerca"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 257.519,
+      "end": 260.959,
+      "text": "de un 3, cerca de un 3 para una cartera"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 259.519,
+      "end": 263.32,
+      "text": "conservadora plus, pues puede tener"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 260.959,
+      "end": 264.88,
+      "text": "sentido, ya que un monetario te da pues"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 263.32,
+      "end": 267.12,
+      "text": "un 2,2, ¿no? Una cosa así, ¿no?"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 264.88,
+      "end": 269.4,
+      "text": "Entonces, eh más o menos, es cierto que"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 267.12,
+      "end": 271.48,
+      "text": "aquí, como hay muy bajo riesgo, la"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 269.4,
+      "end": 273.35999999999996,
+      "text": "posibilidad de ganar o de batir al"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 271.48,
+      "end": 275.20000000000005,
+      "text": "índice significativamente, pues es"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 273.36,
+      "end": 276.96000000000004,
+      "text": "difícil, ¿no? Pero los retornos pues"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 275.2,
+      "end": 278.24,
+      "text": "están siendo eh bastante buenos, aunque"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 276.96,
+      "end": 280.03999999999996,
+      "text": "aquí tengo abiertas las fichas que las"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 278.24,
+      "end": 282.0,
+      "text": "veremos una a una, ¿no? Si tienes una"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 280.04,
+      "end": 284.12,
+      "text": "cartera conservadora, es decir, con eh"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 282.0,
+      "end": 285.28,
+      "text": "entre un 15 y un 20% de renta variable,"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 284.12,
+      "end": 287.0,
+      "text": "tu retorno en los últimos 6 meses"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 285.28,
+      "end": 289.71999999999997,
+      "text": "debería ser de un 3,2 aproximadamente,"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 287.0,
+      "end": 291.12,
+      "text": "¿vale? Eh que no estaría nada mal,"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 289.72,
+      "end": 292.96000000000004,
+      "text": "¿vale? Porque no olvidemos que esto"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 291.12,
+      "end": 294.919,
+      "text": "multiplicado por 2, si se mantuviera"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 292.96,
+      "end": 296.52,
+      "text": "este anualizado, te daría un retorno"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 294.919,
+      "end": 298.4,
+      "text": "anual de la cartera de un 6 y pico, que"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 296.52,
+      "end": 299.96,
+      "text": "es una barbaridad para una cartera que"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 298.4,
+      "end": 302.15999999999997,
+      "text": "tiene tan poca renta variable, ¿no?"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 299.96,
+      "end": 305.15999999999997,
+      "text": "Moderado subiría 5,25, equilibrado"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 302.16,
+      "end": 306.52000000000004,
+      "text": "subiría 7,11, agresivo sería 1,15 y"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 305.16,
+      "end": 309.36,
+      "text": "agresivo plus, es decir, todo renta"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 306.52,
+      "end": 311.68,
+      "text": "variable, sería 1,11,6%, es decir, si tú"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 309.36,
+      "end": 313.28000000000003,
+      "text": "has tenido una cartera similar en"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 311.68,
+      "end": 315.48,
+      "text": "porcentuales de renta variable y renta"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 313.28,
+      "end": 316.96,
+      "text": "fija principalmente a estas de aquí,"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 315.48,
+      "end": 318.72,
+      "text": "deberías haber obtenido retornos"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 316.96,
+      "end": 321.08,
+      "text": "similares a esto. Cuidado, en estas"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 318.72,
+      "end": 323.32000000000005,
+      "text": "carteras, yo uso clases limpias, las"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 321.08,
+      "end": 325.71999999999997,
+      "text": "clases limpias tienen como un 0,40%"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 323.32,
+      "end": 328.44,
+      "text": "aproximadamente, depende de los tipos de"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 325.72,
+      "end": 331.64000000000004,
+      "text": "activos, pero entre un 0,30 o un 0,40%"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 328.44,
+      "end": 333.36,
+      "text": "es lo que de media yo os diría que eh"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 331.64,
+      "end": 334.8,
+      "text": "mis carteras van a dar por encima del"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 333.36,
+      "end": 337.32,
+      "text": "retorno que vosotros obtengáis en"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 334.8,
+      "end": 339.2,
+      "text": "vuestra plataforma tipo MyInvestor, ¿no?"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 337.32,
+      "end": 341.24,
+      "text": "Con lo cual, no os castiguéis si no"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 339.2,
+      "end": 343.84,
+      "text": "tenéis estos resultados porque 0,30 o"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 341.24,
+      "end": 345.32,
+      "text": "0,40 no es la virtud de Andrés, es que"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 343.84,
+      "end": 346.56,
+      "text": "simplemente utiliza fondos con menos"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 345.32,
+      "end": 349.24,
+      "text": "comisiones, ¿vale? Los fondos que"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 346.56,
+      "end": 351.48,
+      "text": "conocéis todos, pero en clase limpia con"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 349.24,
+      "end": 352.76,
+      "text": "menos comisiones, con lo cual eh en este"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 351.48,
+      "end": 354.04,
+      "text": "caso,"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 352.76,
+      "end": 357.32,
+      "text": "si no estáis teniendo estos resultados,"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 354.04,
+      "end": 358.84000000000003,
+      "text": "pero se le parece, eh estarían bastante"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 357.32,
+      "end": 361.0,
+      "text": "bien. En general, los resultados han"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 358.84,
+      "end": 363.03999999999996,
+      "text": "sido muy buenos y no ha sido por el"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 361.0,
+      "end": 364.8,
+      "text": "numerito que vemos aquí, ha sido porque"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 363.04,
+      "end": 366.12,
+      "text": "en la mayoría de los casos se ha batido"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 364.8,
+      "end": 369.16,
+      "text": "al índice de referencia, es decir, lo"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 366.12,
+      "end": 372.68,
+      "text": "estamos haciendo mejor que eh lo que se"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 369.16,
+      "end": 374.08000000000004,
+      "text": "considera la referencia de esta cartera."
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 372.68,
+      "end": 375.8,
+      "text": "¿Dónde se ve esto? Bueno, esto me lo ha"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 374.08,
+      "end": 377.35999999999996,
+      "text": "preparado el banco. Aquí están las seis"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 375.8,
+      "end": 378.91900000000004,
+      "text": "fichas de los perfiles."
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 377.36,
+      "end": 380.72,
+      "text": "Algo muy importante, ¿vale? Esto se cal"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 378.919,
+      "end": 382.59999999999997,
+      "text": "Esto se Esta ficha se descarga con"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 380.72,
+      "end": 384.28000000000003,
+      "text": "Morningstar y os enseño cómo"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 382.6,
+      "end": 386.84000000000003,
+      "text": "descargarla, esto es un vídeo ya de hace"
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 384.28,
+      "end": 388.55999999999995,
+      "text": "11 meses, del 15 de julio de 2025. Se"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 386.84,
+      "end": 394.11999999999995,
+      "text": "llama Cómo analizar tu cartera de fondos"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 388.56,
+      "end": 395.2,
+      "text": "de eh de manera manual o muy fácil. Y eh"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 394.12,
+      "end": 396.4,
+      "text": "esto os enseño a hacerlo en vuestra"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 395.2,
+      "end": 398.2,
+      "text": "cartera de MyInvestor, ¿vale? Para que"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 396.4,
+      "end": 400.15999999999997,
+      "text": "tengáis una ficha parecida. Si queréis"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 398.2,
+      "end": 401.919,
+      "text": "buscar, si queréis hacerla, buscáis este"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 400.16,
+      "end": 405.08000000000004,
+      "text": "vídeo y veis cómo lo hacéis. En este"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 401.919,
+      "end": 407.24,
+      "text": "caso, el perfil que utiliza el banco es"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 405.08,
+      "end": 409.8,
+      "text": "un poco más profesional y la ficha tiene"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 407.24,
+      "end": 411.76,
+      "text": "otra otra pinta, ¿no? O tiene quizás más"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 409.8,
+      "end": 413.24,
+      "text": "cosas, ¿no? Pero bueno, el que quiera"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 411.76,
+      "end": 415.0,
+      "text": "saber cómo buscar eso de su propia"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 413.24,
+      "end": 416.76,
+      "text": "cartera, que sepa que en este vídeo lo"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 415.0,
+      "end": 418.32,
+      "text": "puede encontrar, ¿no? Volviendo aquí, no"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 416.76,
+      "end": 419.68,
+      "text": "voy a entrar en analizar la ficha de"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 418.32,
+      "end": 421.36,
+      "text": "nuevo, eso es algo que ya está hecho en"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 419.68,
+      "end": 422.88,
+      "text": "el vídeo que os he enseñado y lo que"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 421.36,
+      "end": 423.96000000000004,
+      "text": "queremos ver es, oye, ¿qué tal lo está"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 422.88,
+      "end": 425.71999999999997,
+      "text": "haciendo el índice de referencia? En"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 423.96,
+      "end": 428.56,
+      "text": "este caso, el índice de referencia me"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 425.72,
+      "end": 431.52000000000004,
+      "text": "han puesto aquí un Bloomberg Euro"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 428.56,
+      "end": 434.72,
+      "text": "Aggregate 3-5 años, es decir, en este"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 431.52,
+      "end": 437.24,
+      "text": "caso, renta fija gubernamental de entre"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 434.72,
+      "end": 439.91900000000004,
+      "text": "3 años, algo pues bastante conservador,"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 437.24,
+      "end": 442.8,
+      "text": "una opción como eh comparativa"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 439.919,
+      "end": 445.64,
+      "text": "conservadora bastante válida, ¿no? Yo"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 442.8,
+      "end": 447.56,
+      "text": "quizás no usaría esta, eh buscaría otra"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 445.64,
+      "end": 450.03999999999996,
+      "text": "cosa que se le pareciera un poco más, eh"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 447.56,
+      "end": 451.4,
+      "text": "pero bueno, en este caso, pues el el el"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 450.04,
+      "end": 452.96000000000004,
+      "text": "el resultado es increíblemente bueno,"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 451.4,
+      "end": 454.79999999999995,
+      "text": "¿vale? Eh tengo que decir que en esta"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 452.96,
+      "end": 456.47999999999996,
+      "text": "categoría solo tengo un par de personas,"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 454.8,
+      "end": 457.64,
+      "text": "tengo una persona mayor y tengo una"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 456.48,
+      "end": 460.32,
+      "text": "persona que ha vendido la empresa y"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 457.64,
+      "end": 461.91999999999996,
+      "text": "quiere vivir del del dinero que eh le"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 460.32,
+      "end": 464.8,
+      "text": "han dado por esa empresa, con lo cual el"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 461.92,
+      "end": 466.92,
+      "text": "retorno que esperan en esta categoría es"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 464.8,
+      "end": 469.48,
+      "text": "bajo, bajo y el riesgo muy bajo y los"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 466.92,
+      "end": 471.24,
+      "text": "retornos están eh, obteniendo con"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 469.48,
+      "end": 472.8,
+      "text": "creces, ¿no? Porque este 1,45 que se ha"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 471.24,
+      "end": 475.08,
+      "text": "obtenido en los últimos 6 meses es muy"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 472.8,
+      "end": 476.8,
+      "text": "superior al 0,66 que hubiera obtenido"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 475.08,
+      "end": 478.0,
+      "text": "esta categoría. También es cierto que si"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 476.8,
+      "end": 479.52000000000004,
+      "text": "hubieran cogido un monetario, esto"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 478.0,
+      "end": 480.8,
+      "text": "estaría haciendo más o menos, pues, si"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 479.52,
+      "end": 482.96,
+      "text": "llevamos ya unos cuantos días de julio,"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 480.8,
+      "end": 485.6,
+      "text": "estaría haciendo un 1,05 a Groupama,"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 482.96,
+      "end": 489.0,
+      "text": "¿no? Pues, eh, en este caso, contra"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 485.6,
+      "end": 492.28000000000003,
+      "text": "Groupama habría un un retorno por encima"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 489.0,
+      "end": 493.48,
+      "text": "de de del monetario de 0,40%. Dicho"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 492.28,
+      "end": 495.55999999999995,
+      "text": "esto, esto es una cartera extremadamente"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 493.48,
+      "end": 497.12,
+      "text": "conservadora, no es muy habitual que"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 495.56,
+      "end": 498.44,
+      "text": "nadie lleve carteras de este estilo. La"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 497.12,
+      "end": 500.52,
+      "text": "cartera conservadora que ya tiene entre"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 498.44,
+      "end": 502.16,
+      "text": "un 15 y un 20% de renta variable, me han"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 500.52,
+      "end": 503.15999999999997,
+      "text": "puesto este benchmark. Insisto, esto no"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 502.16,
+      "end": 505.72,
+      "text": "lo ha puesto yo, esto me lo ha hecho el"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 503.16,
+      "end": 508.6,
+      "text": "banco. Eh, y me han puesto el Causus"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 505.72,
+      "end": 510.56,
+      "text": "Allocation, ¿vale? Como un un eh un"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 508.6,
+      "end": 513.52,
+      "text": "benchmark. En este caso, la cartera ha"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 510.56,
+      "end": 515.44,
+      "text": "hecho un 3,28, que es una barbaridad,"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 513.52,
+      "end": 516.64,
+      "text": "pero el el índice de referencia no lo ha"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 515.44,
+      "end": 519.7600000000001,
+      "text": "hecho mal tampoco en este periodo, es"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 516.64,
+      "end": 521.039,
+      "text": "decir, lo ha hecho un 0,24 por encima de"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 519.76,
+      "end": 523.4,
+      "text": "lo mejor de lo esperado, no está mal,"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 521.039,
+      "end": 525.04,
+      "text": "¿vale? O sea, una vez más, pues, mejor"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 523.4,
+      "end": 527.4399999999999,
+      "text": "mejor que la categoría."
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 525.04,
+      "end": 529.1999999999999,
+      "text": "Eh, [resoplido] la la agregada, o sea,"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 527.44,
+      "end": 530.9200000000001,
+      "text": "bueno, la no miento, la moderada, me han"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 529.2,
+      "end": 532.5600000000001,
+      "text": "puesto este Moderate Allocation y aquí"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 530.92,
+      "end": 534.0799999999999,
+      "text": "sí que está bastante empatada, ¿vale? O"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 532.56,
+      "end": 536.1199999999999,
+      "text": "sea, está haciendo un 0,19 peor que el"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 534.08,
+      "end": 537.2800000000001,
+      "text": "benchmark. Aquí cuidado, eh. Quiero"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 536.12,
+      "end": 538.64,
+      "text": "explicar una cosa, mucha gente diría,"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 537.28,
+      "end": 539.76,
+      "text": "\"Andrés, ¿y para qué te voy a contratar"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 538.64,
+      "end": 541.12,
+      "text": "a ti si existe la posibilidad de que no"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 539.76,
+      "end": 543.3199999999999,
+      "text": "lo hagas mejor que el índice?\" Bueno, es"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 541.12,
+      "end": 544.5600000000001,
+      "text": "que ya de por sí eh, hacer una cartera"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 543.32,
+      "end": 545.96,
+      "text": "moderada no es algo que pueda hacer"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 544.56,
+      "end": 547.4,
+      "text": "cualquier persona, especialmente si"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 545.96,
+      "end": 551.12,
+      "text": "hablamos de carteras de medio millón de"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 547.4,
+      "end": 553.28,
+      "text": "euros, es decir, que eh, si tú consigues"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 551.12,
+      "end": 555.28,
+      "text": "eh, los retornos de"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 553.28,
+      "end": 556.92,
+      "text": "una especie de índice sintético que ha"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 555.28,
+      "end": 558.76,
+      "text": "sido creado, que refleja lo que sería"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 556.92,
+      "end": 560.1999999999999,
+      "text": "una gestión moderada, significa que has"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 558.76,
+      "end": 561.76,
+      "text": "hecho un buen trabajo,"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 560.2,
+      "end": 563.24,
+      "text": "independientemente de que acabes 0,20"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 561.76,
+      "end": 567.04,
+      "text": "por arriba o 0,20 por abajo, porque has"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 563.24,
+      "end": 568.88,
+      "text": "conseguido crear una cartera robusta"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 567.04,
+      "end": 571.12,
+      "text": "que cumple con lo que te han pedido,"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 568.88,
+      "end": 572.76,
+      "text": "¿vale? Entonces, técnicamente, yo no"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 571.12,
+      "end": 574.2,
+      "text": "creo que yo esté aquí para superar a los"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 572.76,
+      "end": 577.08,
+      "text": "índices, que por supuesto es un objetivo"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 574.2,
+      "end": 578.72,
+      "text": "que yo me pongo, eh, sino más bien para"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 577.08,
+      "end": 582.32,
+      "text": "conseguir el retorno esperado de la"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 578.72,
+      "end": 583.96,
+      "text": "categoría, ¿vale? Que ya de por sí es eh"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 582.32,
+      "end": 586.12,
+      "text": "conseguir lo que el cliente te pide,"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 583.96,
+      "end": 588.6,
+      "text": "¿vale? Por supuesto que utilizando los"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 586.12,
+      "end": 590.96,
+      "text": "mejores fondos, yo creo que es es"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 588.6,
+      "end": 593.24,
+      "text": "habitual que lo puedas batir, pero eh"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 590.96,
+      "end": 594.84,
+      "text": "que no es no es una garantía, ¿no?"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 593.24,
+      "end": 597.4,
+      "text": "Eh, entonces, esta es la primera de las"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 594.84,
+      "end": 599.0400000000001,
+      "text": "que vemos que se queda 0,19 atrás por"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 597.4,
+      "end": 600.6,
+      "text": "debajo del del benchmark, algo"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 599.04,
+      "end": 603.68,
+      "text": "totalmente normal, insisto, que además"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 600.6,
+      "end": 605.16,
+      "text": "son solo 6 meses de track record. Eh, la"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 603.68,
+      "end": 607.2399999999999,
+      "text": "equilibrada, muy bien, aquí lo vemos,"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 605.16,
+      "end": 610.76,
+      "text": "ponen un flexible allocation, el year to"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 607.24,
+      "end": 613.4,
+      "text": "date del 7% es un 1,70% por encima del"
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 610.76,
+      "end": 616.3199999999999,
+      "text": "eh benchmark, también la bate."
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 613.4,
+      "end": 618.9599999999999,
+      "text": "La agresiva, muy bien también, 9,15 por"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 616.32,
+      "end": 620.0,
+      "text": "encima de 0,89, o sea, por encima 0,89"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 618.96,
+      "end": 621.88,
+      "text": "de lo esperado, con lo cual bien"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 620.0,
+      "end": 624.72,
+      "text": "también, insisto una vez más, mi"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 621.88,
+      "end": 626.4399999999999,
+      "text": "objetivo no es batir a a esa cartera del"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 624.72,
+      "end": 628.24,
+      "text": "benchmark,"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 626.44,
+      "end": 629.8000000000001,
+      "text": "con ese benchmark, es decir, quedarme o"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 628.24,
+      "end": 631.5600000000001,
+      "text": "un poco o un poquito por encima, un"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 629.8,
+      "end": 633.76,
+      "text": "poquito por debajo, pero haberle hecho"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 631.56,
+      "end": 635.3199999999999,
+      "text": "el trabajo a alguien de de darle lo que"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 633.76,
+      "end": 639.3199999999999,
+      "text": "pedía, ¿no? Lo que pedía de una forma"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 635.32,
+      "end": 640.8000000000001,
+      "text": "justa. Eh, y por último, eh la agresiva"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 639.32,
+      "end": 642.48,
+      "text": "plus, que en esta no tengo a ningún"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 640.8,
+      "end": 644.4399999999999,
+      "text": "cliente, también os diré, pero esta es"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 642.48,
+      "end": 645.839,
+      "text": "la que se ha quedado un 1% por debajo,"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 644.44,
+      "end": 648.2,
+      "text": "¿vale? Es decir, si alguien tuviera una"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 645.839,
+      "end": 650.24,
+      "text": "cartera 100% renta variable, es muy"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 648.2,
+      "end": 651.9200000000001,
+      "text": "difícil, eh sobre todo con una"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 650.24,
+      "end": 654.72,
+      "text": "diversificación importante de fondos, no"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 651.92,
+      "end": 656.7199999999999,
+      "text": "olvidemos que aquí eh aquí sí que sí"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 654.72,
+      "end": 658.08,
+      "text": "podemos decir que una cartera"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 656.72,
+      "end": 659.96,
+      "text": "diversificada de renta variable va a"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 658.08,
+      "end": 661.6,
+      "text": "tener menos riesgo que una cartera de"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 659.96,
+      "end": 664.2800000000001,
+      "text": "solo MSCI World, que es al final el"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 661.6,
+      "end": 667.4,
+      "text": "benchmark, ¿vale? MSCI World net eh"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 664.28,
+      "end": 669.8,
+      "text": "euros, ¿vale? Em, entonces,"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 667.4,
+      "end": 671.36,
+      "text": "al final estas quizá de de las seis que"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 669.8,
+      "end": 672.4799999999999,
+      "text": "hay, la única que para mi gusto pues se"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 671.36,
+      "end": 674.04,
+      "text": "ha quedado un poquito atrás, aquí no"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 672.48,
+      "end": 675.04,
+      "text": "tengo ningún cliente, yo ya he dicho mil"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 674.04,
+      "end": 677.9599999999999,
+      "text": "veces que si alguien quiere hacer una"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 675.04,
+      "end": 679.5999999999999,
+      "text": "cartera 100% renta variable, no creo que"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 677.96,
+      "end": 681.24,
+      "text": "tenga que contratarme o contratar este"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 679.6,
+      "end": 682.8000000000001,
+      "text": "tipo de servicios, porque comprar una"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 681.24,
+      "end": 684.08,
+      "text": "comprar tres, cuatro, cinco fondos de"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 682.8,
+      "end": 685.7199999999999,
+      "text": "renta variable y mantenerlos durante"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 684.08,
+      "end": 687.6800000000001,
+      "text": "mucho tiempo, creo que es algo"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 685.72,
+      "end": 690.28,
+      "text": "relativamente sencillo hacer y donde el"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 687.68,
+      "end": 692.4,
+      "text": "gestor tiene poco que toca tiene poco"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 690.28,
+      "end": 693.92,
+      "text": "que tocar o poco que rebalancear entre"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 692.4,
+      "end": 695.36,
+      "text": "entre clases de activos, ya que no hay"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 693.92,
+      "end": 697.16,
+      "text": "clases de activos, hay una única clase"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 695.36,
+      "end": 699.04,
+      "text": "de activo que es la renta variable, ¿no?"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 697.16,
+      "end": 702.48,
+      "text": "Con lo cual esta es quizá la única que"
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 699.04,
+      "end": 704.16,
+      "text": "no ha cumplido. De las otras eh cinco,"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 702.48,
+      "end": 706.04,
+      "text": "todas baten al índice menos uno, cosa"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 704.16,
+      "end": 708.24,
+      "text": "que estoy tremendamente contento, no es"
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 706.04,
+      "end": 710.64,
+      "text": "nada fácil. Y la que no bate al índice"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 708.24,
+      "end": 712.5600000000001,
+      "text": "está 0,19 por debajo en seis meses, con"
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 710.64,
+      "end": 714.0,
+      "text": "lo cual está está bastante bien. Con lo"
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 712.56,
+      "end": 715.4799999999999,
+      "text": "cual eh"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 714.0,
+      "end": 717.12,
+      "text": "bueno, esto es solo, no voy a estar"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 715.48,
+      "end": 719.04,
+      "text": "haciendo actualizaciones continuas de de"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 717.12,
+      "end": 720.8,
+      "text": "las carteras de del banco, pero como"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 719.04,
+      "end": 722.12,
+      "text": "esta es la primera, eh pues nada,"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 720.8,
+      "end": 724.12,
+      "text": "simplemente que decirle a la gente, oye,"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 722.12,
+      "end": 726.16,
+      "text": "que esto está funcionando como debería y"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 724.12,
+      "end": 730.84,
+      "text": "que no hay mucho misterio, que ya veis"
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 726.16,
+      "end": 733.76,
+      "text": "que eh si compráis cosas buenas y el el"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 730.84,
+      "end": 736.6,
+      "text": "el la distribución de los activos es más"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 733.76,
+      "end": 738.2,
+      "text": "o menos coherente, hacerlo igual o mejor"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 736.6,
+      "end": 740.0,
+      "text": "que una categoría, pues no debería ser"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 738.2,
+      "end": 741.5200000000001,
+      "text": "difícil, ¿no? Otra cosa es ya cuando"
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 740.0,
+      "end": 743.2,
+      "text": "pones pues comisiones imposibles,"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 741.52,
+      "end": 745.52,
+      "text": "utilizas fondos subóptimos, etcétera,"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 743.2,
+      "end": 747.2800000000001,
+      "text": "etcétera, y por tanto, me atrevo a decir"
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 745.52,
+      "end": 749.36,
+      "text": "que si habéis obtenido retornos"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 747.28,
+      "end": 751.1999999999999,
+      "text": "similares, eh también deciros que en"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 749.36,
+      "end": 752.6,
+      "text": "muchos casos esos retornos que veis en"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 751.2,
+      "end": 754.12,
+      "text": "un índice no tienen comisiones, es"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 752.6,
+      "end": 756.2,
+      "text": "decir, por eso esos benchmarks"
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 754.12,
+      "end": 757.839,
+      "text": "sintéticos son tan difíciles de batir,"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 756.2,
+      "end": 759.0,
+      "text": "porque te ponen el subyacente debajo y"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 757.839,
+      "end": 760.7600000000001,
+      "text": "no te ponen una capa de comisiones"
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 759.0,
+      "end": 762.88,
+      "text": "encima, ¿no? Que hay muchas cosas que"
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 760.76,
+      "end": 764.24,
+      "text": "tendría que explicar, eh incluso la"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 762.88,
+      "end": 765.64,
+      "text": "agresiva plus, pero esto podríamos"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 764.24,
+      "end": 767.839,
+      "text": "explicarlo otro día, alguien podría"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 765.64,
+      "end": 769.56,
+      "text": "preguntaros, \"Oye, Andrés, ¿por qué eh"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 767.839,
+      "end": 772.44,
+      "text": "en la cartera agresiva plus, si coges"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 769.56,
+      "end": 773.92,
+      "text": "tamonofondos, el el portfolio casi nunca"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 772.44,
+      "end": 775.44,
+      "text": "o prácticamente nunca bate al índice,"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 773.92,
+      "end": 776.56,
+      "text": "¿no?\" Y esto también lo podría explicar,"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 775.44,
+      "end": 778.4000000000001,
+      "text": "porque hay una explicación para ello,"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 776.56,
+      "end": 780.1999999999999,
+      "text": "etcétera, etcétera, pero no creo que sea"
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 778.4,
+      "end": 781.72,
+      "text": "algo para este vídeo, quizá en una del"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 780.2,
+      "end": 783.5200000000001,
+      "text": "futuro. Así que nada, chicos, esto es un"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 781.72,
+      "end": 786.44,
+      "text": "update de cuánto habría de estar ganando"
+    },
+    {
+      "index": 392,
+      "speaker": null,
+      "start": 783.52,
+      "end": 789.72,
+      "text": "en la cartera eh a día de hoy, o mejor"
+    },
+    {
+      "index": 393,
+      "speaker": null,
+      "start": 786.44,
+      "end": 791.12,
+      "text": "dicho, en lo que va de año, y espero eh"
+    },
+    {
+      "index": 394,
+      "speaker": null,
+      "start": 789.72,
+      "end": 792.64,
+      "text": "o podéis dejármelo en comentarios, cómo"
+    },
+    {
+      "index": 395,
+      "speaker": null,
+      "start": 791.12,
+      "end": 794.16,
+      "text": "os va la vuestra en comparación con las"
+    },
+    {
+      "index": 396,
+      "speaker": null,
+      "start": 792.64,
+      "end": 795.0,
+      "text": "que yo os he enseñado aquí. Si tenéis"
+    },
+    {
+      "index": 397,
+      "speaker": null,
+      "start": 794.16,
+      "end": 796.68,
+      "text": "dudas, me las podéis dejar en"
+    },
+    {
+      "index": 398,
+      "speaker": null,
+      "start": 795.0,
+      "end": 798.04,
+      "text": "comentarios y nosotros nos vemos en el"
+    },
+    {
+      "index": 399,
+      "speaker": null,
+      "start": 796.68,
+      "end": 800.4399999999999,
+      "text": "siguiente vídeo. Se despide La Pizarra"
+    },
+    {
+      "index": 400,
+      "speaker": null,
+      "start": 798.04,
+      "end": 800.4399999999999,
+      "text": "de Andrés."
+    }
+  ]
+}

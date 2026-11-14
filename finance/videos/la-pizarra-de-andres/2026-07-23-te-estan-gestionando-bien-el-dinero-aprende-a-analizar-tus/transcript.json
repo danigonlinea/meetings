@@ -1,0 +1,5164 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=0CDqqFGANos",
+    "video_id": "0CDqqFGANos",
+    "title": "¿Te están Gestionando Bien el Dinero? Aprende a Analizar tus Fondos",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a aprender a analizar fondos de inversión para saber si los tuyos están entre los mejores de su categoría.\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 15% de descuento extra en InvestingPro con el código PIZARRA: https://es.investing.com/pro/pricing/partners/pizarra?oid=3&affid=1180&transaction_id=4bf65ea864e041beb6ae06bd5ba58596&couponCode=pizarra&utm_source=1180&utm_medium=affiliates&sm_channel \n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-07-23",
+    "duration_seconds": 1379,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-14T16:27:30+00:00"
+  },
+  "stats": {
+    "segment_count": 706,
+    "chunk_count": 21,
+    "speaker_count": 0,
+    "word_count": 4709,
+    "character_count": 24793,
+    "time_span_seconds": 1381
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1199,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:16",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal La Pizarra de Andrés en el día de hoy vamos a hacer un ejercicio de análisis de fondos. Y es que en esta ocasión uno de mis clientes me ha pedido que por favor le examine los fondos que tiene en otras entidades. En este caso vamos a hacer digamos que eh un ejercicio de por un lado entender qué hace cada fondo, algo que ya la mayoría de vosotros deberíais saber, y por otro lado compararlo en mayor o menor medida con eh otros fondos de la categoría si hiciera falta. Ya sabéis que hay una parte de esto que siempre eh será subjetiva y que en algunos casos pueda derivar a usar unos fondos u otros, pero siempre y cuando riesgo-beneficio estén en puntos similares a otros de la categoría que puedan estar eh buscando eh o operando de forma similar, pues eh no estaría mal, con lo cual el objetivo no es solo eh ver si el fondo ha ganado recientemente o no, sino más bien eh compararlos con los de la categoría. Para ello he creado este Excel de aquí, ¿vale? Donde en este caso, pues eh hay dos entidades, ¿no? Esta persona luego tendría una tercera, digamos, que es donde eh dispongo yo de su de su capital. Ya sabéis que mi capital, para los que no"
+    },
+    {
+      "index": 1,
+      "text_start": 1200,
+      "text_end": 2378,
+      "time_start_iso": "00:01:13",
+      "time_end_iso": "00:02:19",
+      "speakers": [],
+      "text": "sepáis, podéis eh o mejor dicho, mis carteras podéis revisarlas en eh esta página web de aquí, ¿vale? Eh Andbank Boutique Hub La Pizarra de Andrés, ¿vale? Y aquí veis mis carteras o las carteras de altos patrimonios. En este caso, eh bueno, he separado por colores los dos diferentes bancos que utiliza, ¿no? Mirando, ¿no? Por ejemplo, aquí lo primero que tenemos es una Mundi Euroliquidity. Esto la mayoría de vosotros ya deberíais saber lo que es porque eh cuando vemos algo que se llama Liquidity, ¿vale? Ya sabemos que estamos hablando de algo muy cercano a monetario. Y si vemos la recta, ya vemos que es totalmente un monetario, ¿no? Con lo cual, en este caso es un monetario y si viéramos un poco los retornos, pues podríamos hm ver si si es un monetario aceptablemente bueno o no. A priori, no parece malo. En este caso, si me voy a Groupama, eh Groupama tiene mejores retornos, 2,38, 1,18, aquí lo vemos, ¿vale? Que es superior a esto, eh pero es que aquí estamos hablando de Gobis. Esto quiere decir que probablemente lo que haya debajo sean solo letras del Tesoro de países, ¿vale? O sea, bueno, letras del Tesoro, eh deuda deuda de países. Entonces, por supuesto que"
+    },
+    {
+      "index": 2,
+      "text_start": 2379,
+      "text_end": 3549,
+      "time_start_iso": "00:02:17",
+      "time_end_iso": "00:03:31",
+      "speakers": [],
+      "text": "cuando construyes un monetario con solo deuda de países, el retorno es menor y la volatilidad probablemente también menor, ¿no? Em, de hecho, 0,04, 0,03, bueno, ahí lo veis, ¿no? Em, para mí compensa eh el el hacer un monetario solo exclusivamente con con renta fija gubernamental, no. Dicho esto, hay mucha diferencia entre ganar un 1,18 este año o un eh 0,95, no mucha, ¿no? Con lo cual, aquí, pues podemos poner aceptable, ¿no? Em, insisto, no es nada del otro mundo tampoco eh nada que nos asuste, ¿no? Siguiente fondo. Vale, este es el Floating Rates, aquí lo vemos, es prácticamente un monetario, este es un buen fondo de la categoría. Lo que hace, por lo que hace, eh pues es em, está muy bien, ¿vale? Es un fondo que eh si lo comparamos con Groupama, aquí vemos cómo ya solo tiene un poquito más de rentabilidad, pero por otro lado, pues sí que es cierto que em sí que asumes un ligerísimo riesgo, prácticamente un riesgo bajo. A este también podríamos ponerlo aceptable o a este incluso podríamos ponerlo bueno. Creo que dentro de lo que hace tiene pocos rivales, ¿no? Con lo cual, sería un fondo, más lo mismo, hiperconservador, eh pero totalmente válido, ¿no?"
+    },
+    {
+      "index": 3,
+      "text_start": 3550,
+      "text_end": 4715,
+      "time_start_iso": "00:03:29",
+      "time_end_iso": "00:04:44",
+      "speakers": [],
+      "text": "Siguiente, Global Evolution Frontier Markets, ¿vale? Esto parece como podemos ver aquí, esto parece mercados frontera y parece renta variable. No, en este caso es mercados frontera, pero renta fija, con lo cual sería un renta fija high yield, ¿vale? Eh aquí vemos por retornos, a 5 años es un 6,6, eh ya vemos que son bonos nada mainstream, ¿vale? También podemos ver eh eh si yo pongo aquí mis mis mis fondos, yo en esta categoría eh uso este Emerging Markets Fund, ¿vale? El EMG, eh que no es lo mismo, pero sí que nos podemos hacer un poco una idea de de algo que podría llegar a ser similar, ¿no? Este eh sí que es cierto que el la la disparidad de cómo se consiguen los retornos nos hace ver que los fondos no tienen nada que ver uno con otro, ¿vale? Porque este tiene su fuerte en los últimos años eh y el mío en en 2022 no. Eh también es cierto que este es eh renta variable renta fija de mercados de mercado frontera, no mercado emergente. Esto es renta varia esto es renta fija de mercado de mercado emergente, ¿no? Eh con lo cual el suyo lo hace bastante bien, con lo cual voy a aunque no son comparables, insisto, estoy comparando mercados emergentes con"
+    },
+    {
+      "index": 4,
+      "text_start": 4716,
+      "text_end": 5901,
+      "time_start_iso": "00:04:42",
+      "time_end_iso": "00:05:48",
+      "speakers": [],
+      "text": "mercados frontera, el suyo es bastante bueno, no conocía este fondo, eh pero está bastante bien. De hecho, hm me lo voy medio a apuntar porque el fondo lo hace bastante bien. Entonces, eh a este, que insisto, no tengo un benchmark con el que compararlo porque esto es mercados frontera y yo de esto no hago, eh pues no este lo vamos a poner como bueno. No tengo cómo comparar, pero a juzgar por los retornos que tiene, eh está bastante bien, ¿no? El [resoplido] siguiente que tenemos aquí es que es emergentes de eh vale, este este lo que le falta es que le falta histórico, lo que le pasa es que le falta histórico, con lo cual es difícil de ver a priori. Renta fija emergente, comisiones 0,65, que está bastante bien. Yo uso uno con mucho más track record eh y también en renta fija emergente. Es difícil comparar este de aquí, yo pondría aquí falta histórico como para para saber si el fondo está al nivel o no, ¿vale? Con lo cual en ese no Nordic Cross yo lo uso, ¿vale? O sea, este es bueno directamente. Esto, insisto, los que lo quieran ver, tenéis aquí en la pizarra de Andrés los fondos que yo utilizo y aquí está el Pareto Nordic Cross, con lo cual este es un muy buen fondo."
+    },
+    {
+      "index": 5,
+      "text_start": 5902,
+      "text_end": 7078,
+      "time_start_iso": "00:05:45",
+      "time_end_iso": "00:06:46",
+      "speakers": [],
+      "text": "Em Storm Bond, yo creo que todos los conocéis, esto es un muy buen fondo. Azeta Valor Iberia es un muy buen fondo, lo que pasa que es renta variable española, española y portuguesa. Eh, dicho esto, pues bueno, mmm, no me disgusta, ¿vale? O sea, alguien podría podría comprobarlo, que además en los últimos años lo ha hecho increíblemente bien. Yo no sé si España lo va a seguir haciendo bien los próximos años, pero por supuesto todo el que haya invertido en España, aquí lo vemos, eh, lo ha hecho increíblemente bien recientemente. Es cierto que ahora está corrigiendo un poquillo, ¿vale? Que aquí vemos un poco los los los resultados y al final eh, es marca de la casa porque es Azeta Valor y los resultados son tan buenos como en el internacional, aunque insisto, son tan buenos en los últimos 5 años. Si nos fuéramos a todo el histórico, creo que Azeta Valor Internacional es mejor que el Iberia, ¿no? Pero este fondo sería bastante bueno. Eh, Gesconsult Corto Plazo, yo también lo uso, ¿vale? Es un muy buen fondo, también conservador. Eh, Magallanes Iberian, aquí es donde tendría quizás la primera eh, pregunta que me haría es por qué un gestor compra dos fondos de eh,"
+    },
+    {
+      "index": 6,
+      "text_start": 7079,
+      "text_end": 8260,
+      "time_start_iso": "00:06:44",
+      "time_end_iso": "00:07:57",
+      "speakers": [],
+      "text": "ibéricos, ¿vale? O sea, que aquí bueno, pero sí que aquí yo lo primero que diría es, oye, ¿qué hago yo teniendo dos fondos eh, mmm, ibéricos, ¿vale? No no no me termina de cuadrar. Eh, pero bueno. Y este, este es el SSIH Ahorro, que también es buen fondo, ¿vale? Que es un fondo eh, conservador. ¿Vale? Eh, que esto es esto vendría a competir más o menos con con Neuberger, ¿vale? Em, es cierto que tiene menos menor riesgo que Neuberger. Eh, yo soy Neuberger que me gusta más, eh, pero también tiene un este, como digo, tiene un poquito más de riesgo, aquí lo vemos, este es el este es el el el que habría que comparar con este de aquí, que podríamos directamente venir aquí a compararlo y eh, para saber si es qué tal lo hace contra el que yo utilizo a menudo en esta categoría. En esta categoría hay más y tengo más fondos que esos. Digo la cartera del Mag, aquí lo vemos, como a un año es prácticamente eh, pues bueno, aquí lo vemos un +2,08 contra +1,85. A 3 años es bastante mejor Neuberger, pero a 5, que es donde viene la caída, lo vamos a ver ahora, sigue siendo mejor, ¿no? Con lo cual, creo que este es mejorable, ¿vale? Creo que Neuberger, a todas luces, aquí lo vemos,"
+    },
+    {
+      "index": 7,
+      "text_start": 8261,
+      "text_end": 9431,
+      "time_start_iso": "00:07:54",
+      "time_end_iso": "00:08:53",
+      "speakers": [],
+      "text": "es superior, ¿vale? Entonces, eh, podría poner, podríamos ponerlo por aceptable, ¿vale? Eh, lo que quiero recalcar es que, bueno, esta gestión que le están haciendo aquí, eh, quitando uno que le falta histórico, quitando dos que tienen aquí lo mismo comprado en dos sitios diferentes, Azeta Valor y y Magallanes, y quitando este, que creo que es mejorable, creo, por lo general, incluso este Amundi de aquí, creo que por lo general es una buena gestión, ¿vale? O sea, esto es un ejemplo de, oye, yo cuando hablé con este cliente le voy a decir, lo que te están haciendo no está mal, ¿vale? Opinable, como he dicho muchas veces y como he dicho en la presentación o en la, o en el inicio de este vídeo, hay unas partes de aquí que son subjetivas y, pues, en mi opinión, tener dos fondos de Iberia, no sé en qué punto, o sea, una cosa es que quieras sobreponderar o tener, eh, eh, renta variable española y otra que que no tenga renta variable mundial, porque no he visto aquí renta variable mundial y, sin embargo, tengas de renta variable española principalmente dos fondos. Entonces, yo aquí lo que me plantearía es, oye, si tengo renta variable, ¿por qué no tengo renta"
+    },
+    {
+      "index": 8,
+      "text_start": 9432,
+      "text_end": 10620,
+      "time_start_iso": "00:08:52",
+      "time_end_iso": "00:09:59",
+      "speakers": [],
+      "text": "variable mundial? Habría que preguntar a la gestor o al o al banquero, eh, y por qué tengo, pues, por ejemplo, este fondo creo que es un poco mejorable, pero en general está bastante bien, ¿vale? Los fondos en general son bastante buenos. No me voy a meter ya en el en el en el en los porcentajes de asset allocation, es decir, cuánto tiene de cada cosa, porque eso no es mi es mi intención. Enten, yo no no no sé exactamente qué le ha pedido el cliente a eh al banquero, ¿vale? Entonces, aquí luego habría otra parte que sería entender cuánto tiene de cada cosa, ¿no? Que sería importante también, ¿no? Eh, de primeras, si la cartera es muy grande, también, normalmente, hm, 10 fondos diría que son tirando a pocos, ¿vale? Eh, si la cartera es muy grande, si la cartera es de 5, 6, 8 millones, normalmente, pues, te diría que 10 fondos son pocos. Yo para estas cantidades a lo mejor usaría 20 y pico, ¿no? Eh, pero eh, bueno, lo mismo. Eh, echo aquí de menos el el tener algo de renta variable que no sea solo española, que solo hay dos fondos de renta variable que son estos dos. Eh, y poco más, la verdad. Este este fondo me ha sorprendido para bien, este de aquí, el Frontier Markets."
+    },
+    {
+      "index": 9,
+      "text_start": 10621,
+      "text_end": 11815,
+      "time_start_iso": "00:09:56",
+      "time_end_iso": "00:11:03",
+      "speakers": [],
+      "text": "Mmm, eh, no no me he puesto a mirarlo, no sé de dónde saca tan buena rentabilidad, no sé si es que ha invertido en Polonia o dónde. Pero por lo demás, creo que está bastante bien, ¿vale? Vamos con la segunda, ¿vale? La segunda, en este caso hay bastantes más fondos y vamos a ir pues lo mismo, viendo uno por uno eh, así de primeras para ver qué hay. Este al final he conseguido encontrarlo, ¿vale? Es este que vemos aquí, acabado en 68, Franklin European Total Return. Así, viendo de primeras su histórico desde 2016, podemos decir que el fondo no parece nada del otro mundo. Es cierto que la renta fija ha tenido periodos en el pasado bastante complicados, con lo cual no vamos a juzgar solo esto, pero es que eh, es cierto que las comisiones son bajas, cosa que honra al al al banquero, la persona que esté que esté utilizándolo, pero habría que preguntarle un poco por qué confía en esta estrategia, ¿vale? Cuando este año lleva un 0,5, es cierto que este año no está siendo fácil, pero estos dos años fueron buenos y si nos aplicamos el concepto de Total Return, esto de Total Return nada, porque 2021 y 2022 eh, son pésimos, ¿no? Eh, la volatilidad a eh, a 5 años del 5,59 no es poco y la"
+    },
+    {
+      "index": 10,
+      "text_start": 11816,
+      "text_end": 12983,
+      "time_start_iso": "00:11:01",
+      "time_end_iso": "00:12:14",
+      "speakers": [],
+      "text": "máxima caída es de -16. Yo este fondo, si tuviera que catalogarlo, lo diría que es tirando a malo, ¿vale? O sea, esto es mejor esto es no sé cómo quiero ser de crítico con todo esto, pero aquí podríamos decir que esto mhm, vamos a poner, por no ser muy haters, subóptimo. Vale, este es Berman eh, Eurostock, que ya os he demostrado antes que es uno de los que yo utilizo, con lo cual este es bueno, ¿vale? Este está bien. Eh, esto de aquí, Santander Sostenible, no tengo ni idea qué es, pero lo vamos a averiguar ahora. Y vamos a si está un poco a la altura. Renta fija o renta cartera, eh esto parece que es un renta fija a corto plazo, efectivamente. Vale, eh y una vez más parece que mejorable, ¿vale? Eh este probablemente habría que compararlo con el BH eh BH deuda, lo digo por no comparar con otra vez con el Newberger, pero si hablamos este fondo tiene baja volatilidad, estamos hablando de un 1,81, ¿vale? Eh este tiene una volatilidad del 2,4, 1,4 a 3 años, no sé cuánto tiene este a 3 años, 1,3, es decir, creo que lo más comparable a este de aquí de Santander sería, por ejemplo, este este BH deuda, lo digo por usar fondos similares a los que yo utilizo."
+    },
+    {
+      "index": 11,
+      "text_start": 12984,
+      "text_end": 14171,
+      "time_start_iso": "00:12:12",
+      "time_end_iso": "00:13:16",
+      "speakers": [],
+      "text": "Eh este no lo tengo en las carteras actualmente de Adman, pero sí que lo he usado bastante. Eh y habría que ver un poco qué tal el comportamiento. Aquí vemos cómo el BH lo hace significativamente mejor en todos los escenarios, ¿no? Con lo cual ya a 10 años, mmm te una ya ha hecho un 9 y otra ya ha hecho un 29, para mi gusto, es cierto que el el el que el que tenga este fondo de este Santander, pues puede argumentar que es que este este tiene menor riesgo, y sí, estoy de acuerdo, tiene un poquito menos riesgo que el que he enseñado, pero los retornos son bastante inferiores a este, que ya de por sí es un fondo bastante conservador, ¿vale? Aquí lo vemos que incluso eh por años, en el año malo en 2022 cayó un 2,3%, este cayó un 4, con lo cual ¿de qué me sirve que este tenga menos volatilidad si cuando vienen mal dadas este, por ejemplo, responde mejor? Entonces, yo este por lo menos en comparación con los fondos que yo utilizo, me parece mejorable, ¿vale? Entonces, lo voy a poner como subóptimo. No quiero decir que sea pésimo, pero no me da para ponerlo como aceptable. Creo que esos creo que para alguien que invierte con riesgo, esos retornos tienen que ser mejores, estos"
+    },
+    {
+      "index": 12,
+      "text_start": 14172,
+      "text_end": 15365,
+      "time_start_iso": "00:13:14",
+      "time_end_iso": "00:14:25",
+      "speakers": [],
+      "text": "retornos tienen que ser mejorables para alguien que invierte con riesgo, ¿no? Este de aquí, a esto hay que ver lo que es, esto es renta fija global emergente. Esta comisión es altísima, si esto de verdad se lo están cobrando a mi cliente, esto es carísimo, esto es un desastre. Eh, es cierto que los retornos no son malos, en ese aspecto no no no son malos. Tampoco me parece nada del otro mundo. Yo es cierto que de renta fija, está por aquí el mío, creo. Eh, emergente, no soy experto, eh, aquí yo soy el primero que que he puesto el fondo que mejor me han sabido explicar y demás. Tampoco sé, en vamos a, bueno, lo vamos a comparar tal cual, ¿vale? No soy experto en esta categoría. Eh, este es el Y al final en carteras grandes pues estás obligado a meter de todo, incluyendo algo de esto, ¿no? Entonces, eh, vamos a compararlo un poco con el que yo uso, a ver si está más o menos en línea, porque yo de esta categoría, que es lo que renta fija, bueno, aquí vemos que son muy muy muy similares. Eh, a un año, a tres años, incluso a cinco años, incluso la a con todo el histórico, este de aquí, el el que usáis, el que usan aquí, está bastante bien. O sea, parece que dentro de la categoría"
+    },
+    {
+      "index": 13,
+      "text_start": 15366,
+      "text_end": 16545,
+      "time_start_iso": "00:14:23",
+      "time_end_iso": "00:15:32",
+      "speakers": [],
+      "text": "incluso lo hace mejor que el que yo utilizo. Con lo cual, este lo vamos a dar por bueno, aunque vuelvo a lo mismo, que yo en esta categoría tengo muy poco dinero y es una categoría que yo hm entiendo menos que renta fija eh emergente, ¿no? Hm, que además hemos visto que en el pasado no lo ha hecho especialmente bien. Em, bueno, Carmignac Portfolio Flexible Bond, este es un buen fondo, ¿vale? Yo no lo uso, prefiero el Carmignac Portfolio Credit, pero es un buen fondo. Los gestores llevan toda la vida haciendo esto y y bueno, eh, aquí está un poco el el el histórico, ¿no? Con lo cual, este que se queda en a medio camino entre el entre el Securité y el Portfolio, pues es válido, ¿no? Eh, eh, Pimco GIS, este no soy muy fan de él, o sea, pues es lo que digo, hm, mejora esto a otros fondos de la categoría, pues, hm, está ahí ahí, ¿no? Por ejemplo, a cinco años uno y medio con 5,68 volatilidad, creo que el castigo de 2022 es demasiado grande para los retornos de después, e incluso este año está rojo. Eh, dicho esto, no no es mal fondo y si lo usa todo el mundo, entiendo que que es porque el equipo gestor es es reputado y demás, ¿no? Eh, yo en esta categoría, mmm, casi"
+    },
+    {
+      "index": 14,
+      "text_start": 16546,
+      "text_end": 17741,
+      "time_start_iso": "00:15:29",
+      "time_end_iso": "00:16:42",
+      "speakers": [],
+      "text": "cualquiera de los que conocéis, eh, ya sea Abaco o ya sea em, Gama, por ejemplo, o Brightgate, ¿vale? Sin ir más lejos, pues si ponemos por aquí Brightgate, por ejemplo, Brightgate Global Income, eh, y lo comparamos con este, eh, ah, si nos fijamos a 3 años, la diferencia es abismal. [resoplido] Y a 5 años es una locura, con lo cual, no entiendo bien el el uso de de Es cierto que aquí la caída tuvo menos menos caída, etcétera, etcétera, pero, eh, a priori, creo que hay fondos mejores, ¿no? Entonces, lo voy a poner como aceptable, em, pero insisto, creo que hay otros mejores, ¿vale? Algo parecido le pasa a este, lo he visto muchas veces, no soy fan tampoco, hay mucha gente que le gusta, lo utiliza, el DWS Concept Kaldermorgen, em, es cierto que, bueno, es para empezar ya es un mixto, yo mixtos uso uso menos, ¿no? Eh, y es cierto que ha encadenado aquí un un un mix de de años buenos, ¿no? Em, no me parece nada del otro mundo, 4% de rentabilidad con 5% de volatilidad los últimos 5 años, nada del otro mundo, es cierto que yo mixtos uso muy pocos, pero entiendo que es un fondo que sea, pues, un poco todoterreno, que es lo que mucha gente, eh, eh, utiliza, ¿no? Con lo cual, podemos,"
+    },
+    {
+      "index": 15,
+      "text_start": 17742,
+      "text_end": 18925,
+      "time_start_iso": "00:16:41",
+      "time_end_iso": "00:17:46",
+      "speakers": [],
+      "text": "dentro de de una categoría que yo uso poco, podemos darlo como aceptable. Eh, aquí tiene uno de defensa, ¿vale? Con lo cual, mmm, voy a ponerlo directamente como aceptable porque yo no soy nada del sector defensa. Ya sabéis que no me gusta mucho apostar por nichos o por mercados, em, en concreto, porque creo que requieren un conocimiento muy alto sobre la materia, cosa que creo que la mayoría de banqueros no tienen. Eh, este es el MG Strategic Value, sigo pensando que es algo mejor que los algo peor que los value españoles, pero la verdad es que lo revienta también, ¿vale? O sea, este este estos últimos 5 años son buenísimos, ¿no? Yo creo que prefiero, quizá por el histórico que no se ve, que es el histórico previo a Cobas y a Azvalor, pues prefiero Cobas y Azvalor, pero este es fondo es de los mejores, ¿no? Con lo cual aquí, este sin duda, eh que yo tenga un sesgo hacia quizá todos esos fondos que han han han eh han funcionado muy bien durante tantos años en España, no quizá no significa que no haya cosas en el extranjero igual de buenas, este es el Robeco Premium Equities, más de lo mismo, no es mal fondo, yo prefiero otros, ¿vale? Aquí veis un poco su histórico,"
+    },
+    {
+      "index": 16,
+      "text_start": 18926,
+      "text_end": 20099,
+      "time_start_iso": "00:17:43",
+      "time_end_iso": "00:18:44",
+      "speakers": [],
+      "text": "a 5 años ha quedado un poco por atrás y yo creo que esto no justifica el tener gestión activa, como bien sabéis, es cierto que no es un fondo tremendamente caro, me imagino que está en la clase limpia, eh pero este este histórico de aquí creo que lo sitúa por debajo de otros fondos de gestión activa que si habéis visto aquí las carteras mías de Andbank, pues en este caso estaríamos hablando de Oros, eh incluso MyInvestor Value, Azvalor o Cobas, ¿no? Eh por hacer una comparativa, por ejemplo, con Oros, cierto, a un año están igualados, hm a 3 años bastante mejor Oros y a 5 años mucho mejor Oros, ¿no? Incluso histórico también, ¿no? Entonces, eh que si fuera a pagar gestión activa, eh me gusta bastante más eh Oros, por ejemplo, que este, sin embargo, me parece que es buen fondo. Eh lo vamos a poner como aceptable, pero podría ser podría llegar a ser bueno, ¿no? Eh aquí hay uno de Japón, hm en este caso sí que conozco un fondo bueno de Japón, con lo cual lo voy a comparar en un momento, sí que hay un fondo, esto es Arcus Japan, insisto, no lo he visto en mi vida, yo no invierto en Japón en Japón eh exclusivamente, es en este caso, bueno, y creo que a todo el"
+    },
+    {
+      "index": 17,
+      "text_start": 20100,
+      "text_end": 21284,
+      "time_start_iso": "00:18:43",
+      "time_end_iso": "00:19:52",
+      "speakers": [],
+      "text": "mundo le le sirve un poco lo que estoy haciendo, vamos a darlo como aceptable, no puedo compararlo con el de Japón. Eh bueno, aquí Japón, eh esto es un Vanguard US 500, ¿vale? Con lo cual esto es buen fondo, es un indexado del SP, me me sirve. Eh aquí es un un emergentes de Asia, la pena es que no tenga probablemente este emergentes de Asia eh sea peor que que Robeco Emerging Markets, que es el que yo utilizo, dudo mucho que haya un fondo que esté a la altura, eh pero bueno, lo podemos ver un poco a 5 años. Sí, correcto, un 7,17. Eh, estoy seguro que es probablemente que sea peor que este. Que es un 13,15, ¿no? Con lo cual, si hablamos de mercados emergentes, este lo pondría como mejorable y si o subóptimo. Sí que es cierto que lo que digo antes, habría que saber un poquito más de este fondo, ¿vale? Si lo estoy haciendo un poco de andar por casa, porque si no el vídeo eh se va a hacer muy muy largo, ¿no? Eh, este que es el New Perspective, yo también lo uso, porque es un buen fondo. Creo que es válido dentro de la gestión activa. Fidelity Global Technology es un buen es un buen fondo también. Eh, Vanguard Global Stock, hm habría que habría que preguntar por qué usan"
+    },
+    {
+      "index": 18,
+      "text_start": 21285,
+      "text_end": 22454,
+      "time_start_iso": "00:19:50",
+      "time_end_iso": "00:20:59",
+      "speakers": [],
+      "text": "Vanguard Global Stock y Vanguard US 500, están repitiendo lo mismo. Pero eh los dos son buenos, ¿vale? Con lo cual, eso sin problema. Em, Santander Gestión Dinámica, esto habría que ver qué es. Ah, es un alternativo Global Macro y le falta histórico, pero eh ya sabéis que a los alternativos se les exige, se les pide ganar dinero todos los años y este lo lo hace. Podríamos ponerle directamente falta histórico, pero por lo que hemos visto parece un fondo lo suficientemente bueno. Si yo pudiera compararlo, y no tiene nada que ver, simplemente son alternativos, por ejemplo, eh un fondo que podría ir en esta categoría, riesgo-beneficio, sería el Helium, ¿vale? Em, Helium es un 5,227, 5,40 2,27. Bueno, aquí le falta histórico. A 3 años esto es un 4,30 2,09 y esto es un 6,12 1,82, es decir, seguramente haya alternativos mejores. Dicho esto, parece que lo hace bastante bien. Eh, de commodities no voy a decir nadie nada, o sea, no puedo comparar, yo no utilizo de commodities y en este caso aquí eh otro de Precious Metals, con lo cual, en estos dos no voy a no voy a pronunciarme, ¿no? Entonces, la moraleja de esto qué es? Bueno, lo primero de todo es que cuando"
+    },
+    {
+      "index": 19,
+      "text_start": 22455,
+      "text_end": 23654,
+      "time_start_iso": "00:20:57",
+      "time_end_iso": "00:22:02",
+      "speakers": [],
+      "text": "tienes dinero, eh ya hay un incentivo claro a hacerte las cosas más o menos bien, ¿vale? Es decir, ninguna gestión me parece hay algunas cosas opinables, eh la mayoría de las cosas son decentemente buenas y los gestores saben o los banqueros saben que lo hacen un poco bien o o el cliente se va a ir, se va a ir a otro lado donde no le tomen el pelo y donde y donde le le eh sobre todo si están en competencia como así lo estamos, ¿no? Esta cartera de aquí, esta de aquí y la mía eh pues van a comparar unas cosas con otras y entonces es ahí donde se va a ver eh si hay alguno que desentona un poco, ¿no? Entonces más o menos está está bien, hay una parte que como ya he dicho anteriormente que es subjetiva cada uno son los fondos que usa, yo por ejemplo este fondo no lo uso, no me gusta este fondo, estos dos fondos por ejemplo creo que son mejorables, etcétera, etcétera, pero es opinión y por lo demás pues oye, hm se ve claramente cómo no hay prácticamente ningún fondo malo, no opinables estos tres de aquí que he puesto que creo que podrían ser mejorables pero me falta contexto, me faltaría analizar un poco más a fondo, etcétera, etcétera eh y eh luego faltaría lo más importante que saber"
+    },
+    {
+      "index": 20,
+      "text_start": 23655,
+      "text_end": 24793,
+      "time_start_iso": "00:22:00",
+      "time_end_iso": "00:23:00",
+      "speakers": [],
+      "text": "cuánto tiene de cada cosa para de verdad que se ajuste la cartera al riesgo de lo que busca el cliente, pero en general pues creo que es un análisis más o menos de andar por casa, sencillo, donde todos todo el mundo puede ir recogiendo algo algo nuevo de contenido eh para que el día de mañana cuando tenga que ver un fondo tal y como he hecho yo aquí, aunque yo pues es son muchos años de experiencia, eh pues pueda abrir una ficha y rápidamente ver qué está pasando ahí, ¿no? Ver incluso ir directamente ya a compararlo contra otro que sepa que en esa categoría lo hace bastante bien. Entonces chicos, espero que este tipo de vídeos os sirvan, para mí son un poco un vídeos un poco rollo pero que estoy seguro que a vosotros os os trae a eh a la tierra eh todo este contenido fresco de eh saber analizar un poco a fondo sobre la marcha aunque sea en tres minutos, ¿no? Entonces eh chicos, si os ha gustado pues yo agradezco que me dejéis un comentario, un like, eh que le paséis este vídeo a vuestro amigo el que tiene fondos de un banco así un poco eh dudoso y eh nosotros nos vemos en el siguiente vídeo. Se despide La Pizarra Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 1.52,
+      "end": 5.4399999999999995,
+      "text": "mi canal La Pizarra de Andrés en el día"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.0,
+      "end": 7.48,
+      "text": "de hoy vamos a hacer un ejercicio de"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 5.44,
+      "end": 10.56,
+      "text": "análisis de fondos. Y es que en esta"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 7.48,
+      "end": 12.280000000000001,
+      "text": "ocasión uno de mis clientes me ha pedido"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 10.56,
+      "end": 14.8,
+      "text": "que por favor le examine los fondos que"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 12.28,
+      "end": 16.16,
+      "text": "tiene en otras entidades. En este caso"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 14.8,
+      "end": 18.560000000000002,
+      "text": "vamos a hacer"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 16.16,
+      "end": 21.0,
+      "text": "digamos que eh un ejercicio de por un"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 18.56,
+      "end": 22.24,
+      "text": "lado entender qué hace cada fondo, algo"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 21.0,
+      "end": 25.32,
+      "text": "que ya la mayoría de vosotros deberíais"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 22.24,
+      "end": 28.0,
+      "text": "saber, y por otro lado compararlo en"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 25.32,
+      "end": 30.0,
+      "text": "mayor o menor medida con eh otros fondos"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 28.0,
+      "end": 32.278999999999996,
+      "text": "de la categoría si hiciera falta. Ya"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 30.0,
+      "end": 35.4,
+      "text": "sabéis que hay una parte de esto"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 32.279,
+      "end": 39.0,
+      "text": "que siempre eh será subjetiva y que en"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 35.4,
+      "end": 42.0,
+      "text": "algunos casos pueda derivar a usar unos"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 39.0,
+      "end": 43.8,
+      "text": "fondos u otros, pero siempre y cuando"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 42.0,
+      "end": 45.36,
+      "text": "riesgo-beneficio estén"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 43.8,
+      "end": 47.239999999999995,
+      "text": "en puntos similares a otros de la"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 45.36,
+      "end": 49.76,
+      "text": "categoría que puedan estar"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 47.24,
+      "end": 51.88,
+      "text": "eh buscando eh o operando de forma"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 49.76,
+      "end": 54.519999999999996,
+      "text": "similar, pues eh no estaría mal, con lo"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 51.88,
+      "end": 56.2,
+      "text": "cual el objetivo no es solo eh ver si el"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 54.52,
+      "end": 58.720000000000006,
+      "text": "fondo ha ganado recientemente o no, sino"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 56.2,
+      "end": 60.440000000000005,
+      "text": "más bien eh compararlos con los de la"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 58.72,
+      "end": 62.8,
+      "text": "categoría. Para ello he creado este"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 60.44,
+      "end": 65.32,
+      "text": "Excel de aquí, ¿vale? Donde en este"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 62.8,
+      "end": 66.88,
+      "text": "caso, pues eh hay dos entidades, ¿no?"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 65.32,
+      "end": 69.6,
+      "text": "Esta persona luego tendría una tercera,"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 66.88,
+      "end": 72.16,
+      "text": "digamos, que es donde eh"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 69.6,
+      "end": 73.72,
+      "text": "dispongo yo de su de su capital. Ya"
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 72.16,
+      "end": 76.44,
+      "text": "sabéis que mi capital, para los que no"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 73.72,
+      "end": 79.76,
+      "text": "sepáis, podéis eh o mejor dicho, mis"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 76.44,
+      "end": 82.32,
+      "text": "carteras podéis revisarlas en eh esta"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 79.76,
+      "end": 84.12,
+      "text": "página web de aquí, ¿vale? Eh Andbank"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 82.32,
+      "end": 86.19999999999999,
+      "text": "Boutique Hub La Pizarra de Andrés,"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 84.12,
+      "end": 87.96000000000001,
+      "text": "¿vale? Y aquí veis mis carteras o las"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 86.2,
+      "end": 89.08,
+      "text": "carteras de altos patrimonios. En este"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 87.96,
+      "end": 90.83999999999999,
+      "text": "caso,"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 89.08,
+      "end": 92.92,
+      "text": "eh bueno, he separado por colores los"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 90.84,
+      "end": 94.0,
+      "text": "dos diferentes bancos que utiliza, ¿no?"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 92.92,
+      "end": 95.24,
+      "text": "Mirando, ¿no? Por ejemplo, aquí lo"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 94.0,
+      "end": 97.0,
+      "text": "primero que tenemos es una Mundi"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 95.24,
+      "end": 98.75999999999999,
+      "text": "Euroliquidity. Esto la mayoría de"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 97.0,
+      "end": 100.8,
+      "text": "vosotros ya deberíais saber lo que es"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 98.76,
+      "end": 102.4,
+      "text": "porque eh cuando vemos algo que se llama"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 100.8,
+      "end": 103.36,
+      "text": "Liquidity, ¿vale? Ya sabemos que estamos"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 102.4,
+      "end": 105.60000000000001,
+      "text": "hablando de algo muy cercano a"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 103.36,
+      "end": 106.96,
+      "text": "monetario. Y si vemos la recta, ya vemos"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 105.6,
+      "end": 109.55999999999999,
+      "text": "que es totalmente un monetario, ¿no? Con"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 106.96,
+      "end": 111.96,
+      "text": "lo cual, en este caso es un monetario y"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 109.56,
+      "end": 115.72,
+      "text": "si viéramos un poco los retornos, pues"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 111.96,
+      "end": 118.08,
+      "text": "podríamos hm ver si si es un monetario"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 115.72,
+      "end": 119.44,
+      "text": "aceptablemente bueno o no. A priori, no"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 118.08,
+      "end": 121.36,
+      "text": "parece malo. En este caso, si me voy a"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 119.44,
+      "end": 123.8,
+      "text": "Groupama, eh Groupama tiene mejores"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 121.36,
+      "end": 126.12,
+      "text": "retornos, 2,38, 1,18, aquí lo vemos,"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 123.8,
+      "end": 128.0,
+      "text": "¿vale? Que es superior a esto, eh pero"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 126.12,
+      "end": 129.32,
+      "text": "es que aquí estamos hablando de Gobis."
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 128.0,
+      "end": 131.68,
+      "text": "Esto quiere decir que probablemente lo"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 129.32,
+      "end": 133.72,
+      "text": "que haya debajo sean solo letras del"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 131.68,
+      "end": 135.64000000000001,
+      "text": "Tesoro de países, ¿vale? O sea, bueno,"
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 133.72,
+      "end": 137.04,
+      "text": "letras del Tesoro, eh deuda deuda de"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 135.64,
+      "end": 139.04,
+      "text": "países. Entonces, por supuesto que"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 137.04,
+      "end": 141.23999999999998,
+      "text": "cuando construyes un monetario con solo"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 139.04,
+      "end": 142.79999999999998,
+      "text": "deuda de países, el retorno es menor y"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 141.24,
+      "end": 143.88,
+      "text": "la volatilidad probablemente también"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 142.8,
+      "end": 145.20000000000002,
+      "text": "menor, ¿no?"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 143.88,
+      "end": 148.35999999999999,
+      "text": "Em,"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 145.2,
+      "end": 152.79999999999998,
+      "text": "de hecho, 0,04, 0,03, bueno, ahí lo"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 148.36,
+      "end": 154.36,
+      "text": "veis, ¿no? Em, para mí compensa eh el el"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 152.8,
+      "end": 156.76000000000002,
+      "text": "hacer un monetario solo exclusivamente"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 154.36,
+      "end": 159.0,
+      "text": "con con renta fija gubernamental, no."
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 156.76,
+      "end": 163.51999999999998,
+      "text": "Dicho esto, hay mucha diferencia entre"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 159.0,
+      "end": 165.8,
+      "text": "ganar un 1,18 este año o un"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 163.52,
+      "end": 168.48000000000002,
+      "text": "eh 0,95, no mucha, ¿no? Con lo cual,"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 165.8,
+      "end": 170.52,
+      "text": "aquí, pues podemos poner"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 168.48,
+      "end": 171.72,
+      "text": "aceptable, ¿no? Em,"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 170.52,
+      "end": 174.72,
+      "text": "insisto, no es nada del otro mundo"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 171.72,
+      "end": 176.0,
+      "text": "tampoco eh nada que nos asuste, ¿no?"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 174.72,
+      "end": 177.48,
+      "text": "Siguiente fondo. Vale, este es el"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 176.0,
+      "end": 179.12,
+      "text": "Floating Rates, aquí lo vemos, es"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 177.48,
+      "end": 181.28,
+      "text": "prácticamente un monetario, este es un"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 179.12,
+      "end": 183.92000000000002,
+      "text": "buen fondo de la categoría. Lo que hace,"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 181.28,
+      "end": 185.84,
+      "text": "por lo que hace, eh pues es"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 183.92,
+      "end": 187.79999999999998,
+      "text": "em, está muy bien, ¿vale? Es un fondo"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 185.84,
+      "end": 189.08,
+      "text": "que eh si lo comparamos con Groupama,"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 187.8,
+      "end": 191.16000000000003,
+      "text": "aquí vemos cómo ya solo tiene un poquito"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 189.08,
+      "end": 194.56,
+      "text": "más de rentabilidad, pero por otro lado,"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 191.16,
+      "end": 196.92,
+      "text": "pues sí que es cierto que em"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 194.56,
+      "end": 198.32,
+      "text": "sí que asumes un ligerísimo riesgo,"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 196.92,
+      "end": 199.79999999999998,
+      "text": "prácticamente un riesgo bajo. A este"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 198.32,
+      "end": 201.16,
+      "text": "también podríamos ponerlo aceptable o a"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 199.8,
+      "end": 203.0,
+      "text": "este incluso podríamos ponerlo bueno."
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 201.16,
+      "end": 204.84,
+      "text": "Creo que dentro de lo que hace tiene"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 203.0,
+      "end": 206.08,
+      "text": "pocos rivales, ¿no? Con lo cual, sería"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 204.84,
+      "end": 207.6,
+      "text": "un fondo, más lo mismo,"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 206.08,
+      "end": 209.959,
+      "text": "hiperconservador,"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 207.6,
+      "end": 211.88,
+      "text": "eh pero totalmente válido, ¿no?"
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 209.959,
+      "end": 214.84,
+      "text": "Siguiente, Global Evolution Frontier"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 211.88,
+      "end": 216.44,
+      "text": "Markets, ¿vale? Esto parece"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 214.84,
+      "end": 218.84,
+      "text": "como podemos ver aquí, esto parece"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 216.44,
+      "end": 220.68,
+      "text": "mercados frontera y parece renta"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 218.84,
+      "end": 222.20000000000002,
+      "text": "variable. No, en este caso es mercados"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 220.68,
+      "end": 224.16,
+      "text": "frontera, pero renta fija, con lo cual"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 222.2,
+      "end": 227.76,
+      "text": "sería un renta fija high yield,"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 224.16,
+      "end": 229.56,
+      "text": "¿vale? Eh aquí vemos por retornos, a 5"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 227.76,
+      "end": 231.51899999999998,
+      "text": "años es un 6,6,"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 229.56,
+      "end": 233.88,
+      "text": "eh ya vemos que son bonos nada"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 231.519,
+      "end": 236.76,
+      "text": "mainstream, ¿vale? También podemos ver"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 233.88,
+      "end": 239.44,
+      "text": "eh eh si yo pongo aquí mis mis mis"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 236.76,
+      "end": 242.44,
+      "text": "fondos, yo en esta categoría"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 239.44,
+      "end": 244.12,
+      "text": "eh uso este Emerging Markets Fund,"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 242.44,
+      "end": 246.2,
+      "text": "¿vale? El EMG,"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 244.12,
+      "end": 248.08,
+      "text": "eh que no es lo mismo, pero sí que nos"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 246.2,
+      "end": 249.83999999999997,
+      "text": "podemos hacer un poco una idea"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 248.08,
+      "end": 252.44000000000003,
+      "text": "de de algo que podría llegar a ser"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 249.84,
+      "end": 254.56,
+      "text": "similar, ¿no? Este"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 252.44,
+      "end": 256.84,
+      "text": "eh sí que es cierto"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 254.56,
+      "end": 258.32,
+      "text": "que el la la disparidad de cómo se"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 256.84,
+      "end": 259.359,
+      "text": "consiguen los retornos nos hace ver que"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 258.32,
+      "end": 260.76,
+      "text": "los fondos no tienen nada que ver uno"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 259.359,
+      "end": 264.28,
+      "text": "con otro, ¿vale? Porque este tiene su"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 260.76,
+      "end": 267.15999999999997,
+      "text": "fuerte en los últimos años eh y el mío"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 264.28,
+      "end": 269.44,
+      "text": "en en 2022 no. Eh también es cierto que"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 267.16,
+      "end": 271.40000000000003,
+      "text": "este es eh renta variable renta fija de"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 269.44,
+      "end": 272.96,
+      "text": "mercados de mercado frontera, no mercado"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 271.4,
+      "end": 274.88,
+      "text": "emergente. Esto es renta varia esto es"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 272.96,
+      "end": 277.84,
+      "text": "renta fija de mercado de mercado"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 274.88,
+      "end": 279.919,
+      "text": "emergente, ¿no? Eh con lo cual el suyo"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 277.84,
+      "end": 281.35999999999996,
+      "text": "lo hace bastante bien, con lo cual voy a"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 279.919,
+      "end": 282.76,
+      "text": "aunque no son comparables, insisto,"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 281.36,
+      "end": 284.88,
+      "text": "estoy comparando mercados emergentes con"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 282.76,
+      "end": 286.71999999999997,
+      "text": "mercados frontera, el suyo es bastante"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 284.88,
+      "end": 289.04,
+      "text": "bueno, no conocía este fondo,"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 286.72,
+      "end": 290.44000000000005,
+      "text": "eh pero está bastante bien. De hecho, hm"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 289.04,
+      "end": 292.28000000000003,
+      "text": "me lo voy medio a apuntar porque el"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 290.44,
+      "end": 294.32,
+      "text": "fondo lo hace bastante bien. Entonces,"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 292.28,
+      "end": 295.79999999999995,
+      "text": "eh a este, que insisto, no tengo un"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 294.32,
+      "end": 297.24,
+      "text": "benchmark con el que compararlo porque"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 295.8,
+      "end": 299.76,
+      "text": "esto es mercados frontera y yo de esto"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 297.24,
+      "end": 301.36,
+      "text": "no hago, eh pues no este lo vamos a"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 299.76,
+      "end": 303.08,
+      "text": "poner como bueno. No tengo cómo"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 301.36,
+      "end": 305.88,
+      "text": "comparar, pero a juzgar por los retornos"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 303.08,
+      "end": 306.88,
+      "text": "que tiene, eh está bastante bien, ¿no?"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 305.88,
+      "end": 310.64,
+      "text": "El [resoplido] siguiente que tenemos"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 306.88,
+      "end": 311.88,
+      "text": "aquí es que es emergentes de eh vale,"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 310.64,
+      "end": 313.08,
+      "text": "este este lo que le falta es que le"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 311.88,
+      "end": 314.24,
+      "text": "falta histórico, lo que le pasa es que"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 313.08,
+      "end": 317.64,
+      "text": "le falta histórico, con lo cual es"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 314.24,
+      "end": 320.04,
+      "text": "difícil de ver a priori."
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 317.64,
+      "end": 321.919,
+      "text": "Renta fija emergente, comisiones 0,65,"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 320.04,
+      "end": 324.52000000000004,
+      "text": "que está bastante bien. Yo uso uno con"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 321.919,
+      "end": 326.2,
+      "text": "mucho más track record eh y también en"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 324.52,
+      "end": 328.03999999999996,
+      "text": "renta fija emergente. Es difícil"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 326.2,
+      "end": 330.64,
+      "text": "comparar este de aquí, yo pondría aquí"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 328.04,
+      "end": 333.04,
+      "text": "falta histórico como para para saber si"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 330.64,
+      "end": 335.24,
+      "text": "el fondo está al nivel o no, ¿vale?"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 333.04,
+      "end": 336.68,
+      "text": "Con lo cual en ese no Nordic Cross yo lo"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 335.24,
+      "end": 338.72,
+      "text": "uso, ¿vale? O sea, este es bueno"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 336.68,
+      "end": 341.24,
+      "text": "directamente. Esto, insisto, los que lo"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 338.72,
+      "end": 342.52000000000004,
+      "text": "quieran ver, tenéis aquí en la pizarra"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 341.24,
+      "end": 343.919,
+      "text": "de Andrés los fondos que yo utilizo y"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 342.52,
+      "end": 345.84,
+      "text": "aquí está el Pareto Nordic Cross, con lo"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 343.919,
+      "end": 348.2,
+      "text": "cual este es un muy buen fondo."
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 345.84,
+      "end": 350.11999999999995,
+      "text": "Em Storm Bond, yo creo que todos los"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 348.2,
+      "end": 352.12,
+      "text": "conocéis, esto es un muy buen fondo."
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 350.12,
+      "end": 353.72,
+      "text": "Azeta Valor Iberia es un muy buen fondo,"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 352.12,
+      "end": 356.48,
+      "text": "lo que pasa que es renta variable"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 353.72,
+      "end": 358.44000000000005,
+      "text": "española, española y portuguesa. Eh,"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 356.48,
+      "end": 361.08000000000004,
+      "text": "dicho esto, pues bueno, mmm, no me"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 358.44,
+      "end": 362.6,
+      "text": "disgusta, ¿vale? O sea, alguien podría"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 361.08,
+      "end": 363.96,
+      "text": "podría comprobarlo, que además en los"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 362.6,
+      "end": 365.76000000000005,
+      "text": "últimos años lo ha hecho increíblemente"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 363.96,
+      "end": 367.84,
+      "text": "bien. Yo no sé si España lo va a seguir"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 365.76,
+      "end": 368.88,
+      "text": "haciendo bien los próximos años,"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 367.84,
+      "end": 370.84,
+      "text": "pero por supuesto todo el que haya"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 368.88,
+      "end": 371.88,
+      "text": "invertido en España, aquí lo vemos, eh,"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 370.84,
+      "end": 373.23999999999995,
+      "text": "lo ha hecho increíblemente bien"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 371.88,
+      "end": 375.15999999999997,
+      "text": "recientemente. Es cierto que ahora está"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 373.24,
+      "end": 378.04,
+      "text": "corrigiendo un poquillo, ¿vale? Que aquí"
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 375.16,
+      "end": 380.52000000000004,
+      "text": "vemos un poco los los los resultados y"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 378.04,
+      "end": 382.20000000000005,
+      "text": "al final eh, es marca de la casa porque"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 380.52,
+      "end": 383.68,
+      "text": "es Azeta Valor y los resultados son tan"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 382.2,
+      "end": 385.36,
+      "text": "buenos como en el internacional, aunque"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 383.68,
+      "end": 386.36,
+      "text": "insisto, son tan buenos en los últimos 5"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 385.36,
+      "end": 387.88,
+      "text": "años. Si nos fuéramos a todo el"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 386.36,
+      "end": 389.16,
+      "text": "histórico, creo que Azeta Valor"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 387.88,
+      "end": 390.76,
+      "text": "Internacional es mejor que el Iberia,"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 389.16,
+      "end": 391.68,
+      "text": "¿no? Pero este fondo sería bastante"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 390.76,
+      "end": 393.36,
+      "text": "bueno."
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 391.68,
+      "end": 395.16,
+      "text": "Eh, Gesconsult Corto Plazo, yo también"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 393.36,
+      "end": 397.28000000000003,
+      "text": "lo uso, ¿vale? Es un muy buen fondo,"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 395.16,
+      "end": 399.36,
+      "text": "también conservador. Eh, Magallanes"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 397.28,
+      "end": 400.59999999999997,
+      "text": "Iberian, aquí es donde tendría quizás la"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 399.36,
+      "end": 402.08000000000004,
+      "text": "primera"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 400.6,
+      "end": 404.32000000000005,
+      "text": "eh, pregunta que me haría es por qué un"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 402.08,
+      "end": 406.68,
+      "text": "gestor compra dos fondos de eh,"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 404.32,
+      "end": 408.56,
+      "text": "ibéricos, ¿vale? O sea, que aquí bueno,"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 406.68,
+      "end": 411.04,
+      "text": "pero sí que aquí yo lo primero que diría"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 408.56,
+      "end": 413.8,
+      "text": "es, oye, ¿qué hago yo teniendo"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 411.04,
+      "end": 415.91900000000004,
+      "text": "dos fondos eh,"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 413.8,
+      "end": 418.84000000000003,
+      "text": "mmm, ibéricos, ¿vale? No no no me"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 415.919,
+      "end": 421.24,
+      "text": "termina de cuadrar. Eh, pero bueno. Y"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 418.84,
+      "end": 422.56,
+      "text": "este, este es el SSIH Ahorro,"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 421.24,
+      "end": 425.2,
+      "text": "que también es buen fondo, ¿vale? Que es"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 422.56,
+      "end": 427.6,
+      "text": "un fondo eh, conservador."
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 425.2,
+      "end": 430.08,
+      "text": "¿Vale? Eh, que esto es esto vendría a"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 427.6,
+      "end": 432.6,
+      "text": "competir más o menos con con Neuberger,"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 430.08,
+      "end": 434.68,
+      "text": "¿vale? Em, es cierto que tiene menos"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 432.6,
+      "end": 437.88,
+      "text": "menor riesgo que Neuberger."
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 434.68,
+      "end": 439.6,
+      "text": "Eh, yo soy Neuberger que me gusta más,"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 437.88,
+      "end": 440.71999999999997,
+      "text": "eh, pero también tiene un este, como"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 439.6,
+      "end": 443.24,
+      "text": "digo, tiene un poquito más de riesgo,"
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 440.72,
+      "end": 444.36,
+      "text": "aquí lo vemos, este es el este es el el"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 443.24,
+      "end": 446.08,
+      "text": "el que habría que comparar con este de"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 444.36,
+      "end": 447.76,
+      "text": "aquí, que podríamos directamente venir"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 446.08,
+      "end": 450.44,
+      "text": "aquí a compararlo"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 447.76,
+      "end": 451.64,
+      "text": "y eh, para saber si es qué tal lo hace"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 450.44,
+      "end": 452.919,
+      "text": "contra el que yo utilizo a menudo en"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 451.64,
+      "end": 454.84,
+      "text": "esta categoría. En esta categoría hay"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 452.919,
+      "end": 456.64,
+      "text": "más y tengo más fondos que esos. Digo la"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 454.84,
+      "end": 459.96,
+      "text": "cartera del Mag, aquí lo vemos, como a"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 456.64,
+      "end": 462.08,
+      "text": "un año es prácticamente eh,"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 459.96,
+      "end": 465.47999999999996,
+      "text": "pues bueno, aquí lo vemos un +2,08"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 462.08,
+      "end": 466.91999999999996,
+      "text": "contra +1,85. A 3 años es bastante mejor"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 465.48,
+      "end": 468.72,
+      "text": "Neuberger, pero a 5, que es donde viene"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 466.92,
+      "end": 470.8,
+      "text": "la caída, lo vamos a ver ahora, sigue"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 468.72,
+      "end": 472.16,
+      "text": "siendo mejor, ¿no? Con lo cual, creo que"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 470.8,
+      "end": 474.36,
+      "text": "este es mejorable, ¿vale? Creo que"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 472.16,
+      "end": 477.36,
+      "text": "Neuberger, a todas luces, aquí lo vemos,"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 474.36,
+      "end": 478.92,
+      "text": "es superior, ¿vale? Entonces, eh, podría"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 477.36,
+      "end": 480.6,
+      "text": "poner, podríamos ponerlo por aceptable,"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 478.92,
+      "end": 481.92,
+      "text": "¿vale? Eh, lo que quiero recalcar es"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 480.6,
+      "end": 483.44,
+      "text": "que, bueno, esta gestión que le están"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 481.92,
+      "end": 485.44,
+      "text": "haciendo aquí,"
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 483.44,
+      "end": 487.44,
+      "text": "eh, quitando uno que le falta histórico,"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 485.44,
+      "end": 489.08,
+      "text": "quitando dos que tienen aquí lo mismo"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 487.44,
+      "end": 491.56,
+      "text": "comprado en dos sitios diferentes, Azeta"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 489.08,
+      "end": 493.88,
+      "text": "Valor y y Magallanes, y quitando este,"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 491.56,
+      "end": 495.96,
+      "text": "que creo que es mejorable, creo, por lo"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 493.88,
+      "end": 497.0,
+      "text": "general, incluso este Amundi de aquí,"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 495.96,
+      "end": 499.03999999999996,
+      "text": "creo que por lo general es una buena"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 497.0,
+      "end": 500.24,
+      "text": "gestión, ¿vale? O sea, esto es un"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 499.04,
+      "end": 501.91900000000004,
+      "text": "ejemplo de, oye, yo cuando hablé con"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 500.24,
+      "end": 503.36,
+      "text": "este cliente le voy a decir,"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 501.919,
+      "end": 505.03999999999996,
+      "text": "lo que te están haciendo no está mal,"
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 503.36,
+      "end": 507.32,
+      "text": "¿vale? Opinable, como he dicho muchas"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 505.04,
+      "end": 509.36,
+      "text": "veces y como he dicho en la presentación"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 507.32,
+      "end": 511.04,
+      "text": "o en la, o en el inicio de este vídeo,"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 509.36,
+      "end": 513.32,
+      "text": "hay unas partes de aquí que son"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 511.04,
+      "end": 514.96,
+      "text": "subjetivas y, pues, en mi opinión, tener"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 513.32,
+      "end": 517.0390000000001,
+      "text": "dos fondos de Iberia,"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 514.96,
+      "end": 520.0,
+      "text": "no sé en qué punto, o sea, una cosa es"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 517.039,
+      "end": 522.68,
+      "text": "que quieras sobreponderar o tener, eh,"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 520.0,
+      "end": 524.76,
+      "text": "eh, renta variable española y otra que"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 522.68,
+      "end": 525.92,
+      "text": "que no tenga renta variable mundial,"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 524.76,
+      "end": 527.28,
+      "text": "porque no he visto aquí renta variable"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 525.92,
+      "end": 528.5999999999999,
+      "text": "mundial y, sin embargo, tengas de renta"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 527.28,
+      "end": 529.9599999999999,
+      "text": "variable española principalmente dos"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 528.6,
+      "end": 531.6,
+      "text": "fondos. Entonces, yo aquí lo que me"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 529.96,
+      "end": 532.6,
+      "text": "plantearía es, oye, si tengo renta"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 531.6,
+      "end": 533.88,
+      "text": "variable, ¿por qué no tengo renta"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 532.6,
+      "end": 537.08,
+      "text": "variable mundial? Habría que preguntar a"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 533.88,
+      "end": 538.48,
+      "text": "la gestor o al o al banquero, eh, y por"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 537.08,
+      "end": 539.72,
+      "text": "qué tengo, pues, por ejemplo, este fondo"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 538.48,
+      "end": 541.32,
+      "text": "creo que es un poco mejorable, pero en"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 539.72,
+      "end": 543.2,
+      "text": "general está bastante bien, ¿vale? Los"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 541.32,
+      "end": 545.9200000000001,
+      "text": "fondos en general son bastante buenos."
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 543.2,
+      "end": 547.36,
+      "text": "No me voy a meter ya en el en el en el"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 545.92,
+      "end": 549.24,
+      "text": "en los porcentajes de asset allocation,"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 547.36,
+      "end": 551.88,
+      "text": "es decir, cuánto tiene de cada cosa,"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 549.24,
+      "end": 554.0,
+      "text": "porque eso no es mi es mi intención."
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 551.88,
+      "end": 555.6,
+      "text": "Enten, yo no no no sé exactamente qué le"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 554.0,
+      "end": 558.28,
+      "text": "ha pedido el cliente"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 555.6,
+      "end": 560.16,
+      "text": "a eh al banquero, ¿vale? Entonces, aquí"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 558.28,
+      "end": 562.16,
+      "text": "luego habría otra parte que sería"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 560.16,
+      "end": 564.4,
+      "text": "entender cuánto tiene de cada cosa, ¿no?"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 562.16,
+      "end": 565.9599999999999,
+      "text": "Que sería importante también, ¿no? Eh,"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 564.4,
+      "end": 568.6,
+      "text": "de primeras, si la cartera es muy"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 565.96,
+      "end": 571.0,
+      "text": "grande, también, normalmente,"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 568.6,
+      "end": 573.0400000000001,
+      "text": "hm, 10 fondos diría que son tirando a"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 571.0,
+      "end": 575.2,
+      "text": "pocos, ¿vale? Eh, si la cartera es muy"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 573.04,
+      "end": 576.88,
+      "text": "grande, si la cartera es de 5, 6, 8"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 575.2,
+      "end": 578.5600000000001,
+      "text": "millones, normalmente, pues, te diría"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 576.88,
+      "end": 580.04,
+      "text": "que 10 fondos son pocos. Yo para estas"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 578.56,
+      "end": 582.52,
+      "text": "cantidades a lo mejor usaría 20 y pico,"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 580.04,
+      "end": 584.8399999999999,
+      "text": "¿no? Eh, pero"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 582.52,
+      "end": 587.16,
+      "text": "eh, bueno, lo mismo. Eh, echo aquí de"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 584.84,
+      "end": 588.8000000000001,
+      "text": "menos el el tener algo de renta variable"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 587.16,
+      "end": 589.9599999999999,
+      "text": "que no sea solo española, que solo hay"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 588.8,
+      "end": 593.24,
+      "text": "dos fondos de renta variable que son"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 589.96,
+      "end": 594.5600000000001,
+      "text": "estos dos. Eh, y poco más, la verdad."
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 593.24,
+      "end": 596.96,
+      "text": "Este este fondo me ha sorprendido para"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 594.56,
+      "end": 599.0,
+      "text": "bien, este de aquí, el Frontier Markets."
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 596.96,
+      "end": 599.9200000000001,
+      "text": "Mmm, eh, no no me he puesto a mirarlo,"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 599.0,
+      "end": 600.88,
+      "text": "no sé de dónde saca tan buena"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 599.92,
+      "end": 603.36,
+      "text": "rentabilidad, no sé si es que ha"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 600.88,
+      "end": 604.96,
+      "text": "invertido en Polonia o dónde."
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 603.36,
+      "end": 606.48,
+      "text": "Pero por lo demás, creo que está"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 604.96,
+      "end": 609.2,
+      "text": "bastante bien, ¿vale? Vamos con la"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 606.48,
+      "end": 611.2,
+      "text": "segunda, ¿vale? La segunda, en este caso"
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 609.2,
+      "end": 613.24,
+      "text": "hay bastantes más fondos y vamos a ir"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 611.2,
+      "end": 615.8000000000001,
+      "text": "pues lo mismo, viendo uno por uno"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 613.24,
+      "end": 617.6,
+      "text": "eh, así de primeras"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 615.8,
+      "end": 619.28,
+      "text": "para ver qué hay. Este al final he"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 617.6,
+      "end": 621.2,
+      "text": "conseguido encontrarlo, ¿vale? Es este"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 619.28,
+      "end": 623.24,
+      "text": "que vemos aquí, acabado en 68, Franklin"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 621.2,
+      "end": 625.36,
+      "text": "European Total Return. Así, viendo de"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 623.24,
+      "end": 626.8,
+      "text": "primeras su histórico desde 2016,"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 625.36,
+      "end": 628.6,
+      "text": "podemos decir que el fondo no parece"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 626.8,
+      "end": 629.8399999999999,
+      "text": "nada del otro mundo. Es cierto que la"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 628.6,
+      "end": 631.16,
+      "text": "renta fija ha tenido periodos en el"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 629.84,
+      "end": 633.1600000000001,
+      "text": "pasado bastante complicados, con lo cual"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 631.16,
+      "end": 634.7199999999999,
+      "text": "no vamos a juzgar solo esto,"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 633.16,
+      "end": 637.24,
+      "text": "pero es que eh, es cierto que las"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 634.72,
+      "end": 638.84,
+      "text": "comisiones son bajas, cosa que honra al"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 637.24,
+      "end": 640.6,
+      "text": "al al banquero, la persona que esté que"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 638.84,
+      "end": 642.08,
+      "text": "esté utilizándolo, pero habría que"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 640.6,
+      "end": 644.0,
+      "text": "preguntarle un poco por qué confía en"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 642.08,
+      "end": 645.32,
+      "text": "esta estrategia, ¿vale? Cuando este año"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 644.0,
+      "end": 647.44,
+      "text": "lleva un 0,5, es cierto que este año no"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 645.32,
+      "end": 649.6800000000001,
+      "text": "está siendo fácil, pero estos dos años"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 647.44,
+      "end": 651.44,
+      "text": "fueron buenos y si nos aplicamos el"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 649.68,
+      "end": 654.68,
+      "text": "concepto de Total Return, esto de Total"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 651.44,
+      "end": 655.8800000000001,
+      "text": "Return nada, porque 2021 y 2022 eh, son"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 654.68,
+      "end": 658.7199999999999,
+      "text": "pésimos, ¿no?"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 655.88,
+      "end": 661.36,
+      "text": "Eh, la volatilidad a"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 658.72,
+      "end": 663.96,
+      "text": "eh, a 5 años del 5,59 no es poco y la"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 661.36,
+      "end": 665.4,
+      "text": "máxima caída es de -16. Yo este fondo,"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 663.96,
+      "end": 667.32,
+      "text": "si tuviera que catalogarlo, lo diría que"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 665.4,
+      "end": 668.88,
+      "text": "es tirando a malo, ¿vale? O sea, esto es"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 667.32,
+      "end": 670.48,
+      "text": "mejor esto es"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 668.88,
+      "end": 673.08,
+      "text": "no sé cómo quiero ser de crítico con"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 670.48,
+      "end": 674.2,
+      "text": "todo esto, pero aquí podríamos decir que"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 673.08,
+      "end": 675.76,
+      "text": "esto"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 674.2,
+      "end": 677.9200000000001,
+      "text": "mhm,"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 675.76,
+      "end": 680.24,
+      "text": "vamos a poner, por no ser muy haters,"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 677.92,
+      "end": 681.68,
+      "text": "subóptimo. Vale, este es Berman eh,"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 680.24,
+      "end": 682.8,
+      "text": "Eurostock, que ya os he demostrado antes"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 681.68,
+      "end": 684.28,
+      "text": "que es uno de los que yo utilizo, con lo"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 682.8,
+      "end": 686.3599999999999,
+      "text": "cual este es bueno,"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 684.28,
+      "end": 689.0799999999999,
+      "text": "¿vale? Este está bien."
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 686.36,
+      "end": 690.48,
+      "text": "Eh, esto de aquí, Santander Sostenible,"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 689.08,
+      "end": 692.5200000000001,
+      "text": "no tengo ni idea qué es, pero lo vamos a"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 690.48,
+      "end": 693.84,
+      "text": "averiguar ahora. Y vamos a si está un"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 692.52,
+      "end": 696.0,
+      "text": "poco a la altura."
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 693.84,
+      "end": 697.2800000000001,
+      "text": "Renta fija o renta cartera, eh esto"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 696.0,
+      "end": 699.52,
+      "text": "parece que es un renta fija a corto"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 697.28,
+      "end": 702.04,
+      "text": "plazo, efectivamente."
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 699.52,
+      "end": 704.96,
+      "text": "Vale, eh"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 702.04,
+      "end": 707.7199999999999,
+      "text": "y una vez más"
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 704.96,
+      "end": 709.1600000000001,
+      "text": "parece que mejorable, ¿vale? Eh este"
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 707.72,
+      "end": 711.0400000000001,
+      "text": "probablemente habría que compararlo con"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 709.16,
+      "end": 713.0799999999999,
+      "text": "el BH"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 711.04,
+      "end": 714.76,
+      "text": "eh BH deuda, lo digo por no comparar con"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 713.08,
+      "end": 716.0,
+      "text": "otra vez con el Newberger, pero si"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 714.76,
+      "end": 717.28,
+      "text": "hablamos este fondo tiene baja"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 716.0,
+      "end": 720.12,
+      "text": "volatilidad, estamos hablando de un"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 717.28,
+      "end": 722.88,
+      "text": "1,81, ¿vale? Eh este tiene una"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 720.12,
+      "end": 725.04,
+      "text": "volatilidad del 2,4, 1,4 a 3 años, no sé"
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 722.88,
+      "end": 726.6,
+      "text": "cuánto tiene este a 3 años, 1,3, es"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 725.04,
+      "end": 728.56,
+      "text": "decir, creo que lo más comparable a este"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 726.6,
+      "end": 730.64,
+      "text": "de aquí de Santander sería, por ejemplo,"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 728.56,
+      "end": 732.92,
+      "text": "este este BH deuda, lo digo por usar"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 730.64,
+      "end": 734.1999999999999,
+      "text": "fondos similares a los que yo utilizo."
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 732.92,
+      "end": 735.4399999999999,
+      "text": "Eh este no lo tengo en las carteras"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 734.2,
+      "end": 736.8000000000001,
+      "text": "actualmente de Adman, pero sí que lo he"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 735.44,
+      "end": 738.6400000000001,
+      "text": "usado bastante."
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 736.8,
+      "end": 740.5999999999999,
+      "text": "Eh y habría que ver un poco qué tal el"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 738.64,
+      "end": 742.84,
+      "text": "comportamiento. Aquí vemos cómo el BH lo"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 740.6,
+      "end": 745.0,
+      "text": "hace significativamente mejor en todos"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 742.84,
+      "end": 747.72,
+      "text": "los escenarios, ¿no? Con lo cual"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 745.0,
+      "end": 749.6,
+      "text": "ya a 10 años, mmm te una ya ha hecho un"
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 747.72,
+      "end": 750.64,
+      "text": "9 y otra ya ha hecho un 29, para mi"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 749.6,
+      "end": 752.84,
+      "text": "gusto,"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 750.64,
+      "end": 755.1999999999999,
+      "text": "es cierto que el el el que el que tenga"
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 752.84,
+      "end": 756.9200000000001,
+      "text": "este fondo de este Santander, pues puede"
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 755.2,
+      "end": 758.5200000000001,
+      "text": "argumentar que es que este este tiene"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 756.92,
+      "end": 759.8389999999999,
+      "text": "menor riesgo, y sí, estoy de acuerdo,"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 758.52,
+      "end": 761.72,
+      "text": "tiene un poquito menos riesgo que el que"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 759.839,
+      "end": 763.2800000000001,
+      "text": "he enseñado, pero los retornos son"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 761.72,
+      "end": 764.76,
+      "text": "bastante inferiores a este, que ya de"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 763.28,
+      "end": 767.0,
+      "text": "por sí es un fondo bastante conservador,"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 764.76,
+      "end": 768.92,
+      "text": "¿vale? Aquí lo vemos que incluso eh por"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 767.0,
+      "end": 771.96,
+      "text": "años, en el año malo en 2022 cayó un"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 768.92,
+      "end": 773.3199999999999,
+      "text": "2,3%, este cayó un 4, con lo cual ¿de"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 771.96,
+      "end": 775.6800000000001,
+      "text": "qué me sirve que este tenga menos"
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 773.32,
+      "end": 777.12,
+      "text": "volatilidad si cuando vienen mal dadas"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 775.68,
+      "end": 779.4,
+      "text": "este, por ejemplo, responde mejor?"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 777.12,
+      "end": 780.64,
+      "text": "Entonces, yo este"
+    },
+    {
+      "index": 392,
+      "speaker": null,
+      "start": 779.4,
+      "end": 782.3199999999999,
+      "text": "por lo menos en comparación con los"
+    },
+    {
+      "index": 393,
+      "speaker": null,
+      "start": 780.64,
+      "end": 783.76,
+      "text": "fondos que yo utilizo, me parece"
+    },
+    {
+      "index": 394,
+      "speaker": null,
+      "start": 782.32,
+      "end": 786.08,
+      "text": "mejorable, ¿vale? Entonces, lo voy a"
+    },
+    {
+      "index": 395,
+      "speaker": null,
+      "start": 783.76,
+      "end": 787.64,
+      "text": "poner como subóptimo. No quiero decir"
+    },
+    {
+      "index": 396,
+      "speaker": null,
+      "start": 786.08,
+      "end": 789.0,
+      "text": "que sea pésimo,"
+    },
+    {
+      "index": 397,
+      "speaker": null,
+      "start": 787.64,
+      "end": 790.96,
+      "text": "pero no me da para ponerlo como"
+    },
+    {
+      "index": 398,
+      "speaker": null,
+      "start": 789.0,
+      "end": 792.839,
+      "text": "aceptable. Creo que esos creo que para"
+    },
+    {
+      "index": 399,
+      "speaker": null,
+      "start": 790.96,
+      "end": 794.64,
+      "text": "alguien que invierte con riesgo, esos"
+    },
+    {
+      "index": 400,
+      "speaker": null,
+      "start": 792.839,
+      "end": 796.0400000000001,
+      "text": "retornos tienen que ser mejores, estos"
+    },
+    {
+      "index": 401,
+      "speaker": null,
+      "start": 794.64,
+      "end": 798.16,
+      "text": "retornos tienen que ser mejorables para"
+    },
+    {
+      "index": 402,
+      "speaker": null,
+      "start": 796.04,
+      "end": 799.7199999999999,
+      "text": "alguien que invierte con riesgo, ¿no?"
+    },
+    {
+      "index": 403,
+      "speaker": null,
+      "start": 798.16,
+      "end": 802.16,
+      "text": "Este de aquí, a esto hay que ver lo que"
+    },
+    {
+      "index": 404,
+      "speaker": null,
+      "start": 799.72,
+      "end": 804.12,
+      "text": "es, esto es renta fija global emergente."
+    },
+    {
+      "index": 405,
+      "speaker": null,
+      "start": 802.16,
+      "end": 805.3199999999999,
+      "text": "Esta comisión es altísima, si esto de"
+    },
+    {
+      "index": 406,
+      "speaker": null,
+      "start": 804.12,
+      "end": 806.8,
+      "text": "verdad se lo están cobrando a mi"
+    },
+    {
+      "index": 407,
+      "speaker": null,
+      "start": 805.32,
+      "end": 808.08,
+      "text": "cliente, esto es carísimo, esto es un"
+    },
+    {
+      "index": 408,
+      "speaker": null,
+      "start": 806.8,
+      "end": 811.24,
+      "text": "desastre."
+    },
+    {
+      "index": 409,
+      "speaker": null,
+      "start": 808.08,
+      "end": 813.8000000000001,
+      "text": "Eh, es cierto que los retornos no son"
+    },
+    {
+      "index": 410,
+      "speaker": null,
+      "start": 811.24,
+      "end": 815.28,
+      "text": "malos, en ese aspecto no no no son"
+    },
+    {
+      "index": 411,
+      "speaker": null,
+      "start": 813.8,
+      "end": 817.0799999999999,
+      "text": "malos."
+    },
+    {
+      "index": 412,
+      "speaker": null,
+      "start": 815.28,
+      "end": 819.6,
+      "text": "Tampoco me parece nada del otro mundo."
+    },
+    {
+      "index": 413,
+      "speaker": null,
+      "start": 817.08,
+      "end": 821.08,
+      "text": "Yo es cierto que de renta fija, está por"
+    },
+    {
+      "index": 414,
+      "speaker": null,
+      "start": 819.6,
+      "end": 823.9200000000001,
+      "text": "aquí el mío, creo."
+    },
+    {
+      "index": 415,
+      "speaker": null,
+      "start": 821.08,
+      "end": 825.9200000000001,
+      "text": "Eh, emergente, no soy experto, eh, aquí"
+    },
+    {
+      "index": 416,
+      "speaker": null,
+      "start": 823.92,
+      "end": 827.56,
+      "text": "yo soy el primero que que he puesto el"
+    },
+    {
+      "index": 417,
+      "speaker": null,
+      "start": 825.92,
+      "end": 830.0,
+      "text": "fondo que"
+    },
+    {
+      "index": 418,
+      "speaker": null,
+      "start": 827.56,
+      "end": 832.16,
+      "text": "mejor me han sabido explicar y demás."
+    },
+    {
+      "index": 419,
+      "speaker": null,
+      "start": 830.0,
+      "end": 833.8,
+      "text": "Tampoco sé, en vamos a, bueno, lo vamos"
+    },
+    {
+      "index": 420,
+      "speaker": null,
+      "start": 832.16,
+      "end": 835.6,
+      "text": "a comparar tal cual, ¿vale? No soy"
+    },
+    {
+      "index": 421,
+      "speaker": null,
+      "start": 833.8,
+      "end": 838.8399999999999,
+      "text": "experto en esta categoría."
+    },
+    {
+      "index": 422,
+      "speaker": null,
+      "start": 835.6,
+      "end": 840.08,
+      "text": "Eh, este es el"
+    },
+    {
+      "index": 423,
+      "speaker": null,
+      "start": 838.84,
+      "end": 841.24,
+      "text": "Y al final en carteras grandes pues"
+    },
+    {
+      "index": 424,
+      "speaker": null,
+      "start": 840.08,
+      "end": 843.4000000000001,
+      "text": "estás obligado a meter de todo,"
+    },
+    {
+      "index": 425,
+      "speaker": null,
+      "start": 841.24,
+      "end": 844.76,
+      "text": "incluyendo algo de esto, ¿no? Entonces,"
+    },
+    {
+      "index": 426,
+      "speaker": null,
+      "start": 843.4,
+      "end": 846.24,
+      "text": "eh, vamos a compararlo un poco con el"
+    },
+    {
+      "index": 427,
+      "speaker": null,
+      "start": 844.76,
+      "end": 848.16,
+      "text": "que yo uso, a ver si está más o menos en"
+    },
+    {
+      "index": 428,
+      "speaker": null,
+      "start": 846.24,
+      "end": 849.76,
+      "text": "línea, porque yo de esta categoría, que"
+    },
+    {
+      "index": 429,
+      "speaker": null,
+      "start": 848.16,
+      "end": 851.68,
+      "text": "es lo que renta fija, bueno, aquí vemos"
+    },
+    {
+      "index": 430,
+      "speaker": null,
+      "start": 849.76,
+      "end": 853.4,
+      "text": "que son muy muy muy similares."
+    },
+    {
+      "index": 431,
+      "speaker": null,
+      "start": 851.68,
+      "end": 855.8399999999999,
+      "text": "Eh, a un año, a tres años, incluso a"
+    },
+    {
+      "index": 432,
+      "speaker": null,
+      "start": 853.4,
+      "end": 858.24,
+      "text": "cinco años, incluso la a con todo el"
+    },
+    {
+      "index": 433,
+      "speaker": null,
+      "start": 855.84,
+      "end": 859.44,
+      "text": "histórico, este de aquí, el el que"
+    },
+    {
+      "index": 434,
+      "speaker": null,
+      "start": 858.24,
+      "end": 861.2,
+      "text": "usáis,"
+    },
+    {
+      "index": 435,
+      "speaker": null,
+      "start": 859.44,
+      "end": 863.72,
+      "text": "el que usan aquí, está bastante bien. O"
+    },
+    {
+      "index": 436,
+      "speaker": null,
+      "start": 861.2,
+      "end": 865.08,
+      "text": "sea, parece que dentro de la categoría"
+    },
+    {
+      "index": 437,
+      "speaker": null,
+      "start": 863.72,
+      "end": 866.64,
+      "text": "incluso lo hace mejor que el que yo"
+    },
+    {
+      "index": 438,
+      "speaker": null,
+      "start": 865.08,
+      "end": 868.5600000000001,
+      "text": "utilizo. Con lo cual, este lo vamos a"
+    },
+    {
+      "index": 439,
+      "speaker": null,
+      "start": 866.64,
+      "end": 870.04,
+      "text": "dar por bueno, aunque vuelvo a lo mismo,"
+    },
+    {
+      "index": 440,
+      "speaker": null,
+      "start": 868.56,
+      "end": 872.56,
+      "text": "que yo en esta categoría tengo muy poco"
+    },
+    {
+      "index": 441,
+      "speaker": null,
+      "start": 870.04,
+      "end": 876.68,
+      "text": "dinero y es una categoría que yo hm"
+    },
+    {
+      "index": 442,
+      "speaker": null,
+      "start": 872.56,
+      "end": 876.68,
+      "text": "entiendo menos que renta fija eh"
+    },
+    {
+      "index": 443,
+      "speaker": null,
+      "start": 876.92,
+      "end": 879.8389999999999,
+      "text": "emergente, ¿no? Hm, que además hemos"
+    },
+    {
+      "index": 444,
+      "speaker": null,
+      "start": 878.76,
+      "end": 882.8389999999999,
+      "text": "visto que en el pasado no lo ha hecho"
+    },
+    {
+      "index": 445,
+      "speaker": null,
+      "start": 879.839,
+      "end": 884.2,
+      "text": "especialmente bien. Em, bueno, Carmignac"
+    },
+    {
+      "index": 446,
+      "speaker": null,
+      "start": 882.839,
+      "end": 886.0,
+      "text": "Portfolio Flexible Bond, este es un buen"
+    },
+    {
+      "index": 447,
+      "speaker": null,
+      "start": 884.2,
+      "end": 887.44,
+      "text": "fondo, ¿vale? Yo no lo uso, prefiero el"
+    },
+    {
+      "index": 448,
+      "speaker": null,
+      "start": 886.0,
+      "end": 888.44,
+      "text": "Carmignac Portfolio Credit, pero es un"
+    },
+    {
+      "index": 449,
+      "speaker": null,
+      "start": 887.44,
+      "end": 889.36,
+      "text": "buen fondo."
+    },
+    {
+      "index": 450,
+      "speaker": null,
+      "start": 888.44,
+      "end": 891.12,
+      "text": "Los gestores llevan toda la vida"
+    },
+    {
+      "index": 451,
+      "speaker": null,
+      "start": 889.36,
+      "end": 893.36,
+      "text": "haciendo esto y"
+    },
+    {
+      "index": 452,
+      "speaker": null,
+      "start": 891.12,
+      "end": 895.2,
+      "text": "y bueno, eh, aquí está un poco el el el"
+    },
+    {
+      "index": 453,
+      "speaker": null,
+      "start": 893.36,
+      "end": 897.52,
+      "text": "histórico, ¿no? Con lo cual, este que se"
+    },
+    {
+      "index": 454,
+      "speaker": null,
+      "start": 895.2,
+      "end": 899.72,
+      "text": "queda en a medio camino entre el"
+    },
+    {
+      "index": 455,
+      "speaker": null,
+      "start": 897.52,
+      "end": 901.3199999999999,
+      "text": "entre el Securité y el Portfolio, pues"
+    },
+    {
+      "index": 456,
+      "speaker": null,
+      "start": 899.72,
+      "end": 904.88,
+      "text": "es válido, ¿no?"
+    },
+    {
+      "index": 457,
+      "speaker": null,
+      "start": 901.32,
+      "end": 906.2800000000001,
+      "text": "Eh, eh, Pimco GIS, este no soy muy fan"
+    },
+    {
+      "index": 458,
+      "speaker": null,
+      "start": 904.88,
+      "end": 908.4,
+      "text": "de él, o sea,"
+    },
+    {
+      "index": 459,
+      "speaker": null,
+      "start": 906.28,
+      "end": 910.24,
+      "text": "pues es lo que digo, hm, mejora esto a"
+    },
+    {
+      "index": 460,
+      "speaker": null,
+      "start": 908.4,
+      "end": 911.88,
+      "text": "otros fondos de la categoría, pues, hm,"
+    },
+    {
+      "index": 461,
+      "speaker": null,
+      "start": 910.24,
+      "end": 914.48,
+      "text": "está ahí ahí, ¿no? Por ejemplo, a cinco"
+    },
+    {
+      "index": 462,
+      "speaker": null,
+      "start": 911.88,
+      "end": 916.28,
+      "text": "años uno y medio con 5,68 volatilidad,"
+    },
+    {
+      "index": 463,
+      "speaker": null,
+      "start": 914.48,
+      "end": 918.5600000000001,
+      "text": "creo que el castigo de 2022 es demasiado"
+    },
+    {
+      "index": 464,
+      "speaker": null,
+      "start": 916.28,
+      "end": 921.04,
+      "text": "grande para los retornos de después, e"
+    },
+    {
+      "index": 465,
+      "speaker": null,
+      "start": 918.56,
+      "end": 922.52,
+      "text": "incluso este año está rojo. Eh, dicho"
+    },
+    {
+      "index": 466,
+      "speaker": null,
+      "start": 921.04,
+      "end": 924.04,
+      "text": "esto, no no es mal fondo y si lo usa"
+    },
+    {
+      "index": 467,
+      "speaker": null,
+      "start": 922.52,
+      "end": 926.4399999999999,
+      "text": "todo el mundo, entiendo que que es"
+    },
+    {
+      "index": 468,
+      "speaker": null,
+      "start": 924.04,
+      "end": 927.52,
+      "text": "porque el equipo gestor es es reputado y"
+    },
+    {
+      "index": 469,
+      "speaker": null,
+      "start": 926.44,
+      "end": 929.84,
+      "text": "demás, ¿no?"
+    },
+    {
+      "index": 470,
+      "speaker": null,
+      "start": 927.52,
+      "end": 932.1999999999999,
+      "text": "Eh, yo en esta categoría, mmm, casi"
+    },
+    {
+      "index": 471,
+      "speaker": null,
+      "start": 929.84,
+      "end": 934.44,
+      "text": "cualquiera de los que conocéis, eh, ya"
+    },
+    {
+      "index": 472,
+      "speaker": null,
+      "start": 932.2,
+      "end": 937.2800000000001,
+      "text": "sea Abaco o ya sea"
+    },
+    {
+      "index": 473,
+      "speaker": null,
+      "start": 934.44,
+      "end": 938.72,
+      "text": "em, Gama, por ejemplo, o Brightgate,"
+    },
+    {
+      "index": 474,
+      "speaker": null,
+      "start": 937.28,
+      "end": 940.04,
+      "text": "¿vale? Sin ir más lejos, pues si ponemos"
+    },
+    {
+      "index": 475,
+      "speaker": null,
+      "start": 938.72,
+      "end": 941.88,
+      "text": "por aquí Brightgate, por ejemplo,"
+    },
+    {
+      "index": 476,
+      "speaker": null,
+      "start": 940.04,
+      "end": 944.64,
+      "text": "Brightgate Global Income,"
+    },
+    {
+      "index": 477,
+      "speaker": null,
+      "start": 941.88,
+      "end": 946.8,
+      "text": "eh, y lo comparamos con este, eh, ah, si"
+    },
+    {
+      "index": 478,
+      "speaker": null,
+      "start": 944.64,
+      "end": 947.795,
+      "text": "nos fijamos a 3 años, la diferencia es"
+    },
+    {
+      "index": 479,
+      "speaker": null,
+      "start": 946.8,
+      "end": 947.88,
+      "text": "abismal."
+    },
+    {
+      "index": 480,
+      "speaker": null,
+      "start": 947.795,
+      "end": 949.8399999999999,
+      "text": "[resoplido]"
+    },
+    {
+      "index": 481,
+      "speaker": null,
+      "start": 947.88,
+      "end": 953.04,
+      "text": "Y a 5 años es una locura, con lo cual,"
+    },
+    {
+      "index": 482,
+      "speaker": null,
+      "start": 949.84,
+      "end": 954.48,
+      "text": "no entiendo bien el el uso de de Es"
+    },
+    {
+      "index": 483,
+      "speaker": null,
+      "start": 953.04,
+      "end": 956.8399999999999,
+      "text": "cierto que aquí la caída tuvo menos"
+    },
+    {
+      "index": 484,
+      "speaker": null,
+      "start": 954.48,
+      "end": 958.88,
+      "text": "menos caída, etcétera, etcétera, pero,"
+    },
+    {
+      "index": 485,
+      "speaker": null,
+      "start": 956.84,
+      "end": 960.1600000000001,
+      "text": "eh, a priori, creo que hay fondos"
+    },
+    {
+      "index": 486,
+      "speaker": null,
+      "start": 958.88,
+      "end": 961.64,
+      "text": "mejores, ¿no? Entonces, lo voy a poner"
+    },
+    {
+      "index": 487,
+      "speaker": null,
+      "start": 960.16,
+      "end": 964.3199999999999,
+      "text": "como aceptable,"
+    },
+    {
+      "index": 488,
+      "speaker": null,
+      "start": 961.64,
+      "end": 965.3199999999999,
+      "text": "em,"
+    },
+    {
+      "index": 489,
+      "speaker": null,
+      "start": 964.32,
+      "end": 966.9200000000001,
+      "text": "pero insisto, creo que hay otros"
+    },
+    {
+      "index": 490,
+      "speaker": null,
+      "start": 965.32,
+      "end": 969.2800000000001,
+      "text": "mejores, ¿vale? Algo parecido le pasa a"
+    },
+    {
+      "index": 491,
+      "speaker": null,
+      "start": 966.92,
+      "end": 970.92,
+      "text": "este, lo he visto muchas veces, no soy"
+    },
+    {
+      "index": 492,
+      "speaker": null,
+      "start": 969.28,
+      "end": 972.72,
+      "text": "fan tampoco, hay mucha gente que le"
+    },
+    {
+      "index": 493,
+      "speaker": null,
+      "start": 970.92,
+      "end": 975.4399999999999,
+      "text": "gusta, lo utiliza, el DWS Concept"
+    },
+    {
+      "index": 494,
+      "speaker": null,
+      "start": 972.72,
+      "end": 976.96,
+      "text": "Kaldermorgen, em,"
+    },
+    {
+      "index": 495,
+      "speaker": null,
+      "start": 975.44,
+      "end": 979.0,
+      "text": "es cierto que, bueno, es para empezar ya"
+    },
+    {
+      "index": 496,
+      "speaker": null,
+      "start": 976.96,
+      "end": 981.08,
+      "text": "es un mixto, yo mixtos uso uso menos,"
+    },
+    {
+      "index": 497,
+      "speaker": null,
+      "start": 979.0,
+      "end": 984.48,
+      "text": "¿no? Eh, y es cierto que ha encadenado"
+    },
+    {
+      "index": 498,
+      "speaker": null,
+      "start": 981.08,
+      "end": 986.839,
+      "text": "aquí un un un mix de de años buenos,"
+    },
+    {
+      "index": 499,
+      "speaker": null,
+      "start": 984.48,
+      "end": 989.24,
+      "text": "¿no? Em, no me parece nada del otro"
+    },
+    {
+      "index": 500,
+      "speaker": null,
+      "start": 986.839,
+      "end": 990.8800000000001,
+      "text": "mundo, 4% de rentabilidad con 5% de"
+    },
+    {
+      "index": 501,
+      "speaker": null,
+      "start": 989.24,
+      "end": 992.72,
+      "text": "volatilidad los últimos 5 años, nada del"
+    },
+    {
+      "index": 502,
+      "speaker": null,
+      "start": 990.88,
+      "end": 994.92,
+      "text": "otro mundo, es cierto que yo mixtos uso"
+    },
+    {
+      "index": 503,
+      "speaker": null,
+      "start": 992.72,
+      "end": 996.8000000000001,
+      "text": "muy pocos, pero entiendo que es un fondo"
+    },
+    {
+      "index": 504,
+      "speaker": null,
+      "start": 994.92,
+      "end": 998.8389999999999,
+      "text": "que sea, pues, un poco todoterreno, que"
+    },
+    {
+      "index": 505,
+      "speaker": null,
+      "start": 996.8,
+      "end": 1001.04,
+      "text": "es lo que mucha gente, eh,"
+    },
+    {
+      "index": 506,
+      "speaker": null,
+      "start": 998.839,
+      "end": 1002.6400000000001,
+      "text": "eh, utiliza, ¿no? Con lo cual, podemos,"
+    },
+    {
+      "index": 507,
+      "speaker": null,
+      "start": 1001.04,
+      "end": 1004.9599999999999,
+      "text": "dentro de de una categoría que yo uso"
+    },
+    {
+      "index": 508,
+      "speaker": null,
+      "start": 1002.64,
+      "end": 1007.16,
+      "text": "poco, podemos darlo como aceptable."
+    },
+    {
+      "index": 509,
+      "speaker": null,
+      "start": 1004.96,
+      "end": 1009.2800000000001,
+      "text": "Eh, aquí tiene uno de defensa, ¿vale?"
+    },
+    {
+      "index": 510,
+      "speaker": null,
+      "start": 1007.16,
+      "end": 1010.68,
+      "text": "Con lo cual, mmm, voy a ponerlo"
+    },
+    {
+      "index": 511,
+      "speaker": null,
+      "start": 1009.28,
+      "end": 1012.8,
+      "text": "directamente como aceptable porque yo no"
+    },
+    {
+      "index": 512,
+      "speaker": null,
+      "start": 1010.68,
+      "end": 1015.2399999999999,
+      "text": "soy nada del sector defensa. Ya sabéis"
+    },
+    {
+      "index": 513,
+      "speaker": null,
+      "start": 1012.8,
+      "end": 1016.68,
+      "text": "que no me gusta mucho apostar por nichos"
+    },
+    {
+      "index": 514,
+      "speaker": null,
+      "start": 1015.24,
+      "end": 1018.4,
+      "text": "o por mercados,"
+    },
+    {
+      "index": 515,
+      "speaker": null,
+      "start": 1016.68,
+      "end": 1020.0,
+      "text": "em,"
+    },
+    {
+      "index": 516,
+      "speaker": null,
+      "start": 1018.4,
+      "end": 1021.4,
+      "text": "en concreto, porque creo que requieren"
+    },
+    {
+      "index": 517,
+      "speaker": null,
+      "start": 1020.0,
+      "end": 1022.88,
+      "text": "un conocimiento muy alto sobre la"
+    },
+    {
+      "index": 518,
+      "speaker": null,
+      "start": 1021.4,
+      "end": 1025.4,
+      "text": "materia, cosa que creo que la mayoría de"
+    },
+    {
+      "index": 519,
+      "speaker": null,
+      "start": 1022.88,
+      "end": 1027.079,
+      "text": "banqueros no tienen. Eh, este es el MG"
+    },
+    {
+      "index": 520,
+      "speaker": null,
+      "start": 1025.4,
+      "end": 1028.72,
+      "text": "Strategic Value, sigo pensando que es"
+    },
+    {
+      "index": 521,
+      "speaker": null,
+      "start": 1027.079,
+      "end": 1030.6399999999999,
+      "text": "algo mejor que los algo peor que los"
+    },
+    {
+      "index": 522,
+      "speaker": null,
+      "start": 1028.72,
+      "end": 1032.64,
+      "text": "value españoles, pero la verdad es que"
+    },
+    {
+      "index": 523,
+      "speaker": null,
+      "start": 1030.64,
+      "end": 1035.48,
+      "text": "lo revienta también, ¿vale? O sea, este"
+    },
+    {
+      "index": 524,
+      "speaker": null,
+      "start": 1032.64,
+      "end": 1037.48,
+      "text": "este estos últimos 5 años son"
+    },
+    {
+      "index": 525,
+      "speaker": null,
+      "start": 1035.48,
+      "end": 1039.48,
+      "text": "buenísimos, ¿no? Yo creo que prefiero,"
+    },
+    {
+      "index": 526,
+      "speaker": null,
+      "start": 1037.48,
+      "end": 1040.8,
+      "text": "quizá por el histórico que no se ve, que"
+    },
+    {
+      "index": 527,
+      "speaker": null,
+      "start": 1039.48,
+      "end": 1042.839,
+      "text": "es el histórico previo a Cobas y a"
+    },
+    {
+      "index": 528,
+      "speaker": null,
+      "start": 1040.8,
+      "end": 1044.28,
+      "text": "Azvalor, pues prefiero Cobas y Azvalor,"
+    },
+    {
+      "index": 529,
+      "speaker": null,
+      "start": 1042.839,
+      "end": 1046.839,
+      "text": "pero este es fondo es de los mejores,"
+    },
+    {
+      "index": 530,
+      "speaker": null,
+      "start": 1044.28,
+      "end": 1048.6,
+      "text": "¿no? Con lo cual aquí, este sin duda, eh"
+    },
+    {
+      "index": 531,
+      "speaker": null,
+      "start": 1046.839,
+      "end": 1050.44,
+      "text": "que yo tenga un sesgo hacia quizá todos"
+    },
+    {
+      "index": 532,
+      "speaker": null,
+      "start": 1048.6,
+      "end": 1052.8799999999999,
+      "text": "esos fondos que han han"
+    },
+    {
+      "index": 533,
+      "speaker": null,
+      "start": 1050.44,
+      "end": 1054.8400000000001,
+      "text": "han eh han funcionado muy bien durante"
+    },
+    {
+      "index": 534,
+      "speaker": null,
+      "start": 1052.88,
+      "end": 1055.96,
+      "text": "tantos años en España, no quizá no"
+    },
+    {
+      "index": 535,
+      "speaker": null,
+      "start": 1054.84,
+      "end": 1057.52,
+      "text": "significa que no haya cosas en el"
+    },
+    {
+      "index": 536,
+      "speaker": null,
+      "start": 1055.96,
+      "end": 1059.08,
+      "text": "extranjero igual de buenas,"
+    },
+    {
+      "index": 537,
+      "speaker": null,
+      "start": 1057.52,
+      "end": 1060.56,
+      "text": "este es el Robeco Premium Equities, más"
+    },
+    {
+      "index": 538,
+      "speaker": null,
+      "start": 1059.08,
+      "end": 1062.4399999999998,
+      "text": "de lo mismo, no es mal fondo, yo"
+    },
+    {
+      "index": 539,
+      "speaker": null,
+      "start": 1060.56,
+      "end": 1063.8,
+      "text": "prefiero otros, ¿vale? Aquí veis un poco"
+    },
+    {
+      "index": 540,
+      "speaker": null,
+      "start": 1062.44,
+      "end": 1066.04,
+      "text": "su histórico,"
+    },
+    {
+      "index": 541,
+      "speaker": null,
+      "start": 1063.8,
+      "end": 1067.48,
+      "text": "a 5 años ha quedado un poco por atrás y"
+    },
+    {
+      "index": 542,
+      "speaker": null,
+      "start": 1066.04,
+      "end": 1069.32,
+      "text": "yo creo que esto no justifica el tener"
+    },
+    {
+      "index": 543,
+      "speaker": null,
+      "start": 1067.48,
+      "end": 1070.6,
+      "text": "gestión activa, como bien sabéis, es"
+    },
+    {
+      "index": 544,
+      "speaker": null,
+      "start": 1069.32,
+      "end": 1071.84,
+      "text": "cierto que no es un fondo tremendamente"
+    },
+    {
+      "index": 545,
+      "speaker": null,
+      "start": 1070.6,
+      "end": 1074.24,
+      "text": "caro, me imagino que está en la clase"
+    },
+    {
+      "index": 546,
+      "speaker": null,
+      "start": 1071.84,
+      "end": 1077.76,
+      "text": "limpia, eh pero este este histórico de"
+    },
+    {
+      "index": 547,
+      "speaker": null,
+      "start": 1074.24,
+      "end": 1079.28,
+      "text": "aquí creo que lo sitúa por debajo de"
+    },
+    {
+      "index": 548,
+      "speaker": null,
+      "start": 1077.76,
+      "end": 1080.6,
+      "text": "otros fondos de gestión activa que si"
+    },
+    {
+      "index": 549,
+      "speaker": null,
+      "start": 1079.28,
+      "end": 1082.16,
+      "text": "habéis visto aquí las carteras mías de"
+    },
+    {
+      "index": 550,
+      "speaker": null,
+      "start": 1080.6,
+      "end": 1084.48,
+      "text": "Andbank, pues en este caso estaríamos"
+    },
+    {
+      "index": 551,
+      "speaker": null,
+      "start": 1082.16,
+      "end": 1086.8400000000001,
+      "text": "hablando de Oros, eh incluso MyInvestor"
+    },
+    {
+      "index": 552,
+      "speaker": null,
+      "start": 1084.48,
+      "end": 1088.44,
+      "text": "Value, Azvalor o Cobas, ¿no? Eh por"
+    },
+    {
+      "index": 553,
+      "speaker": null,
+      "start": 1086.84,
+      "end": 1091.08,
+      "text": "hacer una comparativa, por ejemplo, con"
+    },
+    {
+      "index": 554,
+      "speaker": null,
+      "start": 1088.44,
+      "end": 1093.48,
+      "text": "Oros, cierto, a un año están igualados,"
+    },
+    {
+      "index": 555,
+      "speaker": null,
+      "start": 1091.08,
+      "end": 1095.28,
+      "text": "hm a 3 años bastante mejor Oros y a 5"
+    },
+    {
+      "index": 556,
+      "speaker": null,
+      "start": 1093.48,
+      "end": 1097.44,
+      "text": "años mucho mejor Oros, ¿no? Incluso"
+    },
+    {
+      "index": 557,
+      "speaker": null,
+      "start": 1095.28,
+      "end": 1099.52,
+      "text": "histórico también, ¿no? Entonces, eh que"
+    },
+    {
+      "index": 558,
+      "speaker": null,
+      "start": 1097.44,
+      "end": 1101.96,
+      "text": "si fuera a pagar gestión activa, eh me"
+    },
+    {
+      "index": 559,
+      "speaker": null,
+      "start": 1099.52,
+      "end": 1103.16,
+      "text": "gusta bastante más eh Oros, por ejemplo,"
+    },
+    {
+      "index": 560,
+      "speaker": null,
+      "start": 1101.96,
+      "end": 1105.04,
+      "text": "que este, sin embargo, me parece que es"
+    },
+    {
+      "index": 561,
+      "speaker": null,
+      "start": 1103.16,
+      "end": 1106.68,
+      "text": "buen fondo. Eh lo vamos a poner como"
+    },
+    {
+      "index": 562,
+      "speaker": null,
+      "start": 1105.04,
+      "end": 1108.04,
+      "text": "aceptable, pero podría ser podría llegar"
+    },
+    {
+      "index": 563,
+      "speaker": null,
+      "start": 1106.68,
+      "end": 1110.76,
+      "text": "a ser bueno, ¿no?"
+    },
+    {
+      "index": 564,
+      "speaker": null,
+      "start": 1108.04,
+      "end": 1112.1599999999999,
+      "text": "Eh aquí hay uno de Japón, hm"
+    },
+    {
+      "index": 565,
+      "speaker": null,
+      "start": 1110.76,
+      "end": 1113.36,
+      "text": "en este caso sí que conozco un fondo"
+    },
+    {
+      "index": 566,
+      "speaker": null,
+      "start": 1112.16,
+      "end": 1115.0,
+      "text": "bueno de Japón, con lo cual lo voy a"
+    },
+    {
+      "index": 567,
+      "speaker": null,
+      "start": 1113.36,
+      "end": 1116.0,
+      "text": "comparar en un momento, sí que hay un"
+    },
+    {
+      "index": 568,
+      "speaker": null,
+      "start": 1115.0,
+      "end": 1117.8,
+      "text": "fondo,"
+    },
+    {
+      "index": 569,
+      "speaker": null,
+      "start": 1116.0,
+      "end": 1118.84,
+      "text": "esto es Arcus Japan, insisto, no lo he"
+    },
+    {
+      "index": 570,
+      "speaker": null,
+      "start": 1117.8,
+      "end": 1121.68,
+      "text": "visto en mi vida, yo no invierto en"
+    },
+    {
+      "index": 571,
+      "speaker": null,
+      "start": 1118.84,
+      "end": 1123.48,
+      "text": "Japón en Japón eh exclusivamente, es en"
+    },
+    {
+      "index": 572,
+      "speaker": null,
+      "start": 1121.68,
+      "end": 1124.64,
+      "text": "este caso, bueno, y creo que a todo el"
+    },
+    {
+      "index": 573,
+      "speaker": null,
+      "start": 1123.48,
+      "end": 1125.92,
+      "text": "mundo le le sirve un poco lo que estoy"
+    },
+    {
+      "index": 574,
+      "speaker": null,
+      "start": 1124.64,
+      "end": 1128.24,
+      "text": "haciendo, vamos a darlo como aceptable,"
+    },
+    {
+      "index": 575,
+      "speaker": null,
+      "start": 1125.92,
+      "end": 1130.3200000000002,
+      "text": "no puedo compararlo con el de Japón."
+    },
+    {
+      "index": 576,
+      "speaker": null,
+      "start": 1128.24,
+      "end": 1133.4,
+      "text": "Eh bueno, aquí Japón,"
+    },
+    {
+      "index": 577,
+      "speaker": null,
+      "start": 1130.32,
+      "end": 1134.6799999999998,
+      "text": "eh esto es un Vanguard US 500, ¿vale?"
+    },
+    {
+      "index": 578,
+      "speaker": null,
+      "start": 1133.4,
+      "end": 1137.4,
+      "text": "Con lo cual esto es buen fondo, es un"
+    },
+    {
+      "index": 579,
+      "speaker": null,
+      "start": 1134.68,
+      "end": 1140.0,
+      "text": "indexado del SP, me me sirve."
+    },
+    {
+      "index": 580,
+      "speaker": null,
+      "start": 1137.4,
+      "end": 1141.8000000000002,
+      "text": "Eh aquí es un un emergentes de Asia, la"
+    },
+    {
+      "index": 581,
+      "speaker": null,
+      "start": 1140.0,
+      "end": 1143.56,
+      "text": "pena es que no tenga probablemente este"
+    },
+    {
+      "index": 582,
+      "speaker": null,
+      "start": 1141.8,
+      "end": 1145.8799999999999,
+      "text": "emergentes de Asia"
+    },
+    {
+      "index": 583,
+      "speaker": null,
+      "start": 1143.56,
+      "end": 1147.32,
+      "text": "eh sea peor que que Robeco Emerging"
+    },
+    {
+      "index": 584,
+      "speaker": null,
+      "start": 1145.88,
+      "end": 1148.8000000000002,
+      "text": "Markets, que es el que yo utilizo, dudo"
+    },
+    {
+      "index": 585,
+      "speaker": null,
+      "start": 1147.32,
+      "end": 1150.32,
+      "text": "mucho que haya un fondo"
+    },
+    {
+      "index": 586,
+      "speaker": null,
+      "start": 1148.8,
+      "end": 1152.72,
+      "text": "que esté a la altura,"
+    },
+    {
+      "index": 587,
+      "speaker": null,
+      "start": 1150.32,
+      "end": 1154.2,
+      "text": "eh pero bueno, lo podemos ver un poco a"
+    },
+    {
+      "index": 588,
+      "speaker": null,
+      "start": 1152.72,
+      "end": 1156.76,
+      "text": "5 años."
+    },
+    {
+      "index": 589,
+      "speaker": null,
+      "start": 1154.2,
+      "end": 1159.48,
+      "text": "Sí, correcto, un 7,17."
+    },
+    {
+      "index": 590,
+      "speaker": null,
+      "start": 1156.76,
+      "end": 1161.0,
+      "text": "Eh, estoy seguro"
+    },
+    {
+      "index": 591,
+      "speaker": null,
+      "start": 1159.48,
+      "end": 1163.1200000000001,
+      "text": "que es probablemente que sea peor que"
+    },
+    {
+      "index": 592,
+      "speaker": null,
+      "start": 1161.0,
+      "end": 1164.6,
+      "text": "este."
+    },
+    {
+      "index": 593,
+      "speaker": null,
+      "start": 1163.12,
+      "end": 1166.7199999999998,
+      "text": "Que es un 13,15, ¿no? Con lo cual, si"
+    },
+    {
+      "index": 594,
+      "speaker": null,
+      "start": 1164.6,
+      "end": 1169.12,
+      "text": "hablamos de mercados emergentes, este lo"
+    },
+    {
+      "index": 595,
+      "speaker": null,
+      "start": 1166.72,
+      "end": 1170.48,
+      "text": "pondría como mejorable y si o subóptimo."
+    },
+    {
+      "index": 596,
+      "speaker": null,
+      "start": 1169.12,
+      "end": 1171.9199999999998,
+      "text": "Sí que es cierto que lo que digo antes,"
+    },
+    {
+      "index": 597,
+      "speaker": null,
+      "start": 1170.48,
+      "end": 1173.04,
+      "text": "habría que saber un poquito más de este"
+    },
+    {
+      "index": 598,
+      "speaker": null,
+      "start": 1171.92,
+      "end": 1174.3200000000002,
+      "text": "fondo, ¿vale? Si lo estoy haciendo un"
+    },
+    {
+      "index": 599,
+      "speaker": null,
+      "start": 1173.04,
+      "end": 1176.8,
+      "text": "poco de andar por casa, porque si no el"
+    },
+    {
+      "index": 600,
+      "speaker": null,
+      "start": 1174.32,
+      "end": 1179.28,
+      "text": "vídeo eh se va a hacer muy muy largo,"
+    },
+    {
+      "index": 601,
+      "speaker": null,
+      "start": 1176.8,
+      "end": 1180.3999999999999,
+      "text": "¿no? Eh, este que es el New Perspective,"
+    },
+    {
+      "index": 602,
+      "speaker": null,
+      "start": 1179.28,
+      "end": 1182.16,
+      "text": "yo también lo uso, porque es un buen"
+    },
+    {
+      "index": 603,
+      "speaker": null,
+      "start": 1180.4,
+      "end": 1183.8400000000001,
+      "text": "fondo. Creo que es válido dentro de la"
+    },
+    {
+      "index": 604,
+      "speaker": null,
+      "start": 1182.16,
+      "end": 1185.44,
+      "text": "gestión activa. Fidelity Global"
+    },
+    {
+      "index": 605,
+      "speaker": null,
+      "start": 1183.84,
+      "end": 1186.52,
+      "text": "Technology es un buen es un buen fondo"
+    },
+    {
+      "index": 606,
+      "speaker": null,
+      "start": 1185.44,
+      "end": 1188.88,
+      "text": "también."
+    },
+    {
+      "index": 607,
+      "speaker": null,
+      "start": 1186.52,
+      "end": 1190.08,
+      "text": "Eh, Vanguard Global Stock, hm habría que"
+    },
+    {
+      "index": 608,
+      "speaker": null,
+      "start": 1188.88,
+      "end": 1192.2,
+      "text": "habría que preguntar por qué usan"
+    },
+    {
+      "index": 609,
+      "speaker": null,
+      "start": 1190.08,
+      "end": 1194.72,
+      "text": "Vanguard Global Stock y Vanguard US 500,"
+    },
+    {
+      "index": 610,
+      "speaker": null,
+      "start": 1192.2,
+      "end": 1196.6000000000001,
+      "text": "están repitiendo lo mismo."
+    },
+    {
+      "index": 611,
+      "speaker": null,
+      "start": 1194.72,
+      "end": 1198.72,
+      "text": "Pero eh los dos son buenos, ¿vale? Con"
+    },
+    {
+      "index": 612,
+      "speaker": null,
+      "start": 1196.6,
+      "end": 1200.24,
+      "text": "lo cual, eso sin problema."
+    },
+    {
+      "index": 613,
+      "speaker": null,
+      "start": 1198.72,
+      "end": 1202.04,
+      "text": "Em,"
+    },
+    {
+      "index": 614,
+      "speaker": null,
+      "start": 1200.24,
+      "end": 1204.48,
+      "text": "Santander Gestión Dinámica, esto habría"
+    },
+    {
+      "index": 615,
+      "speaker": null,
+      "start": 1202.04,
+      "end": 1207.8,
+      "text": "que ver qué es. Ah, es un alternativo"
+    },
+    {
+      "index": 616,
+      "speaker": null,
+      "start": 1204.48,
+      "end": 1209.2,
+      "text": "Global Macro y le falta histórico, pero"
+    },
+    {
+      "index": 617,
+      "speaker": null,
+      "start": 1207.8,
+      "end": 1210.8799999999999,
+      "text": "eh ya sabéis que a los alternativos se"
+    },
+    {
+      "index": 618,
+      "speaker": null,
+      "start": 1209.2,
+      "end": 1213.0,
+      "text": "les exige, se les pide ganar dinero"
+    },
+    {
+      "index": 619,
+      "speaker": null,
+      "start": 1210.88,
+      "end": 1214.6000000000001,
+      "text": "todos los años y este lo lo hace."
+    },
+    {
+      "index": 620,
+      "speaker": null,
+      "start": 1213.0,
+      "end": 1216.84,
+      "text": "Podríamos ponerle directamente falta"
+    },
+    {
+      "index": 621,
+      "speaker": null,
+      "start": 1214.6,
+      "end": 1218.28,
+      "text": "histórico, pero por lo que hemos visto"
+    },
+    {
+      "index": 622,
+      "speaker": null,
+      "start": 1216.84,
+      "end": 1220.72,
+      "text": "parece un fondo lo suficientemente"
+    },
+    {
+      "index": 623,
+      "speaker": null,
+      "start": 1218.28,
+      "end": 1222.04,
+      "text": "bueno. Si yo pudiera compararlo, y no"
+    },
+    {
+      "index": 624,
+      "speaker": null,
+      "start": 1220.72,
+      "end": 1224.32,
+      "text": "tiene nada que ver, simplemente son"
+    },
+    {
+      "index": 625,
+      "speaker": null,
+      "start": 1222.04,
+      "end": 1225.6,
+      "text": "alternativos, por ejemplo, eh un fondo"
+    },
+    {
+      "index": 626,
+      "speaker": null,
+      "start": 1224.32,
+      "end": 1227.0,
+      "text": "que podría ir en esta categoría,"
+    },
+    {
+      "index": 627,
+      "speaker": null,
+      "start": 1225.6,
+      "end": 1227.9199999999998,
+      "text": "riesgo-beneficio, sería el Helium,"
+    },
+    {
+      "index": 628,
+      "speaker": null,
+      "start": 1227.0,
+      "end": 1231.88,
+      "text": "¿vale?"
+    },
+    {
+      "index": 629,
+      "speaker": null,
+      "start": 1227.92,
+      "end": 1234.3600000000001,
+      "text": "Em, Helium es un 5,227,"
+    },
+    {
+      "index": 630,
+      "speaker": null,
+      "start": 1231.88,
+      "end": 1237.4,
+      "text": "5,40 2,27. Bueno, aquí le falta"
+    },
+    {
+      "index": 631,
+      "speaker": null,
+      "start": 1234.36,
+      "end": 1239.76,
+      "text": "histórico. A 3 años esto es un 4,30 2,09"
+    },
+    {
+      "index": 632,
+      "speaker": null,
+      "start": 1237.4,
+      "end": 1241.3600000000001,
+      "text": "y esto es un 6,12 1,82, es decir,"
+    },
+    {
+      "index": 633,
+      "speaker": null,
+      "start": 1239.76,
+      "end": 1242.8799999999999,
+      "text": "seguramente haya alternativos mejores."
+    },
+    {
+      "index": 634,
+      "speaker": null,
+      "start": 1241.36,
+      "end": 1245.24,
+      "text": "Dicho esto, parece que lo hace bastante"
+    },
+    {
+      "index": 635,
+      "speaker": null,
+      "start": 1242.88,
+      "end": 1247.24,
+      "text": "bien. Eh, de commodities no voy a decir"
+    },
+    {
+      "index": 636,
+      "speaker": null,
+      "start": 1245.24,
+      "end": 1248.84,
+      "text": "nadie nada, o sea, no puedo comparar, yo"
+    },
+    {
+      "index": 637,
+      "speaker": null,
+      "start": 1247.24,
+      "end": 1251.04,
+      "text": "no utilizo de commodities y en este caso"
+    },
+    {
+      "index": 638,
+      "speaker": null,
+      "start": 1248.84,
+      "end": 1252.84,
+      "text": "aquí eh otro de Precious Metals, con lo"
+    },
+    {
+      "index": 639,
+      "speaker": null,
+      "start": 1251.04,
+      "end": 1254.12,
+      "text": "cual, en estos dos no voy a no voy a"
+    },
+    {
+      "index": 640,
+      "speaker": null,
+      "start": 1252.84,
+      "end": 1255.6799999999998,
+      "text": "pronunciarme, ¿no?"
+    },
+    {
+      "index": 641,
+      "speaker": null,
+      "start": 1254.12,
+      "end": 1257.04,
+      "text": "Entonces, la moraleja de esto qué es?"
+    },
+    {
+      "index": 642,
+      "speaker": null,
+      "start": 1255.68,
+      "end": 1259.52,
+      "text": "Bueno, lo primero de todo es que cuando"
+    },
+    {
+      "index": 643,
+      "speaker": null,
+      "start": 1257.04,
+      "end": 1261.12,
+      "text": "tienes dinero, eh ya hay un incentivo"
+    },
+    {
+      "index": 644,
+      "speaker": null,
+      "start": 1259.52,
+      "end": 1263.24,
+      "text": "claro a hacerte las cosas más o menos"
+    },
+    {
+      "index": 645,
+      "speaker": null,
+      "start": 1261.12,
+      "end": 1265.6799999999998,
+      "text": "bien, ¿vale? Es decir, ninguna gestión"
+    },
+    {
+      "index": 646,
+      "speaker": null,
+      "start": 1263.24,
+      "end": 1267.16,
+      "text": "me parece hay algunas cosas opinables,"
+    },
+    {
+      "index": 647,
+      "speaker": null,
+      "start": 1265.68,
+      "end": 1269.52,
+      "text": "eh la mayoría de las cosas son"
+    },
+    {
+      "index": 648,
+      "speaker": null,
+      "start": 1267.16,
+      "end": 1271.2,
+      "text": "decentemente buenas y los gestores saben"
+    },
+    {
+      "index": 649,
+      "speaker": null,
+      "start": 1269.52,
+      "end": 1272.52,
+      "text": "o los banqueros saben que lo hacen un"
+    },
+    {
+      "index": 650,
+      "speaker": null,
+      "start": 1271.2,
+      "end": 1274.3600000000001,
+      "text": "poco bien"
+    },
+    {
+      "index": 651,
+      "speaker": null,
+      "start": 1272.52,
+      "end": 1275.76,
+      "text": "o o el cliente se va a ir, se va a ir a"
+    },
+    {
+      "index": 652,
+      "speaker": null,
+      "start": 1274.36,
+      "end": 1278.9199999999998,
+      "text": "otro lado donde no le tomen el pelo y"
+    },
+    {
+      "index": 653,
+      "speaker": null,
+      "start": 1275.76,
+      "end": 1280.76,
+      "text": "donde y donde le le eh sobre todo si"
+    },
+    {
+      "index": 654,
+      "speaker": null,
+      "start": 1278.92,
+      "end": 1282.3600000000001,
+      "text": "están en competencia"
+    },
+    {
+      "index": 655,
+      "speaker": null,
+      "start": 1280.76,
+      "end": 1284.8799999999999,
+      "text": "como así lo estamos, ¿no? Esta cartera"
+    },
+    {
+      "index": 656,
+      "speaker": null,
+      "start": 1282.36,
+      "end": 1286.6,
+      "text": "de aquí, esta de aquí y la mía eh pues"
+    },
+    {
+      "index": 657,
+      "speaker": null,
+      "start": 1284.88,
+      "end": 1289.1200000000001,
+      "text": "van a comparar unas cosas con otras y"
+    },
+    {
+      "index": 658,
+      "speaker": null,
+      "start": 1286.6,
+      "end": 1291.1599999999999,
+      "text": "entonces es ahí donde se va a ver eh si"
+    },
+    {
+      "index": 659,
+      "speaker": null,
+      "start": 1289.12,
+      "end": 1292.9199999999998,
+      "text": "hay alguno que desentona un poco, ¿no?"
+    },
+    {
+      "index": 660,
+      "speaker": null,
+      "start": 1291.16,
+      "end": 1293.96,
+      "text": "Entonces más o menos está está bien, hay"
+    },
+    {
+      "index": 661,
+      "speaker": null,
+      "start": 1292.92,
+      "end": 1296.0800000000002,
+      "text": "una parte que como ya he dicho"
+    },
+    {
+      "index": 662,
+      "speaker": null,
+      "start": 1293.96,
+      "end": 1297.24,
+      "text": "anteriormente que es subjetiva cada uno"
+    },
+    {
+      "index": 663,
+      "speaker": null,
+      "start": 1296.08,
+      "end": 1298.96,
+      "text": "son los fondos que usa, yo por ejemplo"
+    },
+    {
+      "index": 664,
+      "speaker": null,
+      "start": 1297.24,
+      "end": 1300.64,
+      "text": "este fondo no lo uso, no me gusta este"
+    },
+    {
+      "index": 665,
+      "speaker": null,
+      "start": 1298.96,
+      "end": 1302.4,
+      "text": "fondo, estos dos fondos por ejemplo creo"
+    },
+    {
+      "index": 666,
+      "speaker": null,
+      "start": 1300.64,
+      "end": 1304.8400000000001,
+      "text": "que son mejorables, etcétera, etcétera,"
+    },
+    {
+      "index": 667,
+      "speaker": null,
+      "start": 1302.4,
+      "end": 1307.24,
+      "text": "pero es opinión y por lo demás pues oye,"
+    },
+    {
+      "index": 668,
+      "speaker": null,
+      "start": 1304.84,
+      "end": 1309.1599999999999,
+      "text": "hm se ve claramente cómo no hay"
+    },
+    {
+      "index": 669,
+      "speaker": null,
+      "start": 1307.24,
+      "end": 1310.56,
+      "text": "prácticamente ningún fondo malo, no"
+    },
+    {
+      "index": 670,
+      "speaker": null,
+      "start": 1309.16,
+      "end": 1312.0800000000002,
+      "text": "opinables estos tres de aquí que he"
+    },
+    {
+      "index": 671,
+      "speaker": null,
+      "start": 1310.56,
+      "end": 1313.76,
+      "text": "puesto que creo que podrían ser"
+    },
+    {
+      "index": 672,
+      "speaker": null,
+      "start": 1312.08,
+      "end": 1315.76,
+      "text": "mejorables pero me falta contexto, me"
+    },
+    {
+      "index": 673,
+      "speaker": null,
+      "start": 1313.76,
+      "end": 1318.64,
+      "text": "faltaría analizar un poco más a fondo,"
+    },
+    {
+      "index": 674,
+      "speaker": null,
+      "start": 1315.76,
+      "end": 1320.0,
+      "text": "etcétera, etcétera eh y eh luego"
+    },
+    {
+      "index": 675,
+      "speaker": null,
+      "start": 1318.64,
+      "end": 1322.8400000000001,
+      "text": "faltaría lo más importante que saber"
+    },
+    {
+      "index": 676,
+      "speaker": null,
+      "start": 1320.0,
+      "end": 1324.24,
+      "text": "cuánto tiene de cada cosa para de verdad"
+    },
+    {
+      "index": 677,
+      "speaker": null,
+      "start": 1322.84,
+      "end": 1326.04,
+      "text": "que se ajuste la cartera al riesgo de lo"
+    },
+    {
+      "index": 678,
+      "speaker": null,
+      "start": 1324.24,
+      "end": 1327.56,
+      "text": "que busca el cliente, pero en general"
+    },
+    {
+      "index": 679,
+      "speaker": null,
+      "start": 1326.04,
+      "end": 1329.52,
+      "text": "pues creo que es un análisis más o menos"
+    },
+    {
+      "index": 680,
+      "speaker": null,
+      "start": 1327.56,
+      "end": 1331.2,
+      "text": "de andar por casa, sencillo, donde todos"
+    },
+    {
+      "index": 681,
+      "speaker": null,
+      "start": 1329.52,
+      "end": 1333.68,
+      "text": "todo el mundo puede ir recogiendo algo"
+    },
+    {
+      "index": 682,
+      "speaker": null,
+      "start": 1331.2,
+      "end": 1334.68,
+      "text": "algo nuevo de contenido eh para que el"
+    },
+    {
+      "index": 683,
+      "speaker": null,
+      "start": 1333.68,
+      "end": 1336.16,
+      "text": "día de mañana cuando tenga que ver un"
+    },
+    {
+      "index": 684,
+      "speaker": null,
+      "start": 1334.68,
+      "end": 1337.72,
+      "text": "fondo tal y como he hecho yo aquí,"
+    },
+    {
+      "index": 685,
+      "speaker": null,
+      "start": 1336.16,
+      "end": 1339.5600000000002,
+      "text": "aunque yo pues es son muchos años de"
+    },
+    {
+      "index": 686,
+      "speaker": null,
+      "start": 1337.72,
+      "end": 1341.48,
+      "text": "experiencia, eh pues pueda abrir una"
+    },
+    {
+      "index": 687,
+      "speaker": null,
+      "start": 1339.56,
+      "end": 1344.1599999999999,
+      "text": "ficha y rápidamente ver qué está pasando"
+    },
+    {
+      "index": 688,
+      "speaker": null,
+      "start": 1341.48,
+      "end": 1346.32,
+      "text": "ahí, ¿no? Ver incluso ir directamente ya"
+    },
+    {
+      "index": 689,
+      "speaker": null,
+      "start": 1344.16,
+      "end": 1347.96,
+      "text": "a compararlo contra otro que sepa que en"
+    },
+    {
+      "index": 690,
+      "speaker": null,
+      "start": 1346.32,
+      "end": 1349.48,
+      "text": "esa categoría lo hace bastante bien."
+    },
+    {
+      "index": 691,
+      "speaker": null,
+      "start": 1347.96,
+      "end": 1351.28,
+      "text": "Entonces chicos, espero que este tipo de"
+    },
+    {
+      "index": 692,
+      "speaker": null,
+      "start": 1349.48,
+      "end": 1353.0,
+      "text": "vídeos os sirvan, para mí son un poco un"
+    },
+    {
+      "index": 693,
+      "speaker": null,
+      "start": 1351.28,
+      "end": 1356.0,
+      "text": "vídeos un poco rollo pero que estoy"
+    },
+    {
+      "index": 694,
+      "speaker": null,
+      "start": 1353.0,
+      "end": 1358.96,
+      "text": "seguro que a vosotros os os trae a eh a"
+    },
+    {
+      "index": 695,
+      "speaker": null,
+      "start": 1356.0,
+      "end": 1361.56,
+      "text": "la tierra eh todo este contenido fresco"
+    },
+    {
+      "index": 696,
+      "speaker": null,
+      "start": 1358.96,
+      "end": 1362.72,
+      "text": "de eh saber analizar un poco a fondo"
+    },
+    {
+      "index": 697,
+      "speaker": null,
+      "start": 1361.56,
+      "end": 1365.24,
+      "text": "sobre la marcha aunque sea en tres"
+    },
+    {
+      "index": 698,
+      "speaker": null,
+      "start": 1362.72,
+      "end": 1366.68,
+      "text": "minutos, ¿no? Entonces eh chicos, si os"
+    },
+    {
+      "index": 699,
+      "speaker": null,
+      "start": 1365.24,
+      "end": 1368.64,
+      "text": "ha gustado pues yo agradezco que me"
+    },
+    {
+      "index": 700,
+      "speaker": null,
+      "start": 1366.68,
+      "end": 1370.2,
+      "text": "dejéis un comentario, un like, eh que le"
+    },
+    {
+      "index": 701,
+      "speaker": null,
+      "start": 1368.64,
+      "end": 1371.88,
+      "text": "paséis este vídeo a vuestro amigo el que"
+    },
+    {
+      "index": 702,
+      "speaker": null,
+      "start": 1370.2,
+      "end": 1375.72,
+      "text": "tiene fondos de"
+    },
+    {
+      "index": 703,
+      "speaker": null,
+      "start": 1371.88,
+      "end": 1377.0400000000002,
+      "text": "un banco así un poco eh dudoso y eh"
+    },
+    {
+      "index": 704,
+      "speaker": null,
+      "start": 1375.72,
+      "end": 1380.56,
+      "text": "nosotros nos vemos en el siguiente"
+    },
+    {
+      "index": 705,
+      "speaker": null,
+      "start": 1377.04,
+      "end": 1380.56,
+      "text": "vídeo. Se despide La Pizarra Andrés."
+    }
+  ]
+}
