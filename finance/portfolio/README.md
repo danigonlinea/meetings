@@ -1,14 +1,14 @@
 ---
-title: "Cartera: tres carteras propias y una de referencia"
-date: 2026-11-02
+title: "Cartera: cuatro carteras propias y una de referencia"
+date: 2026-11-15
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-de-andres]
 status: living
 ---
-# Cartera: tres carteras propias y una de referencia
+# Cartera: cuatro carteras propias y una de referencia
 
-Tres patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Cuatro patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -17,18 +17,24 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 04/11/2026**: 55/45 en diez fondos solo, 424,80 €/año de coste real, catorce órdenes en §7) + `propuesta-acciones.md` (complemento de acciones) |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 | `cartera-ai/` | **150.000 €** en una cartera nueva diseñada desde cero el 14/11/2026: 9 fondos indexados + 6 acciones, 75 % RV / 25 % RF, 170,10 €/año (0,113 %) | `cartera-actual.md` (foto inicial: liquidez, cero posiciones) + `propuesta-actual.md` (15 posiciones con ISIN/ticker y órdenes) |
+| `cartera-ai-andres/` | **200.000 €** diseñados el 15/11/2026 con criterio del agente y la experiencia de Andrés: **14 fondos, cero acciones**, 60,0 % de RV por look-through, 1.016,20 €/año verificados (0,51 %) | `cartera-actual.md` (foto inicial: liquidez, cero posiciones) + `propuesta-actual.md` (14 ISIN, órdenes, descartes y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 
-`cartera-de-andres/` es material de **análisis**, no una cuarta cartera del dueño: no se suma, no se
-rebalancea y no compite con las tres anteriores. Se actualiza con la skill `cartera-andres` cuando se
+`cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
+rebalancea y no compite con las cuatro anteriores. Se actualiza con la skill `cartera-andres` cuando se
 ingiere un vídeo de resultados del canal.
+
+`cartera-ai/` y `cartera-ai-andres/` son dos diseños **independientes** del mismo agente con mandatos
+distintos: la primera maximiza coste bajo (80 % indexado, seis acciones), la segunda sigue el criterio de
+Andrés (gestión activa, sin acciones, 60 % de RV). No son dos versiones de lo mismo ni se ejecutan las
+dos sobre el mismo dinero: el titular elige una.
 
 
 `propuesta-acciones.md` (04/11/2026) es el **complemento de acciones** de la cartera de MyInvestor, no una
 cartera aparte: cuatro acciones individuales sin dividendo mencionadas en el corpus, con ficha,
 múltiplo y señal de invalidación, pensadas para convivir con la cartera una vez rebalanceada a 55/45.
-No se financia vendiendo ninguna de las dos carteras ni se consolida con ellas. La cartera de acciones
-propia y separada es la de `cartera-ai/`.
+No se financia vendiendo ninguna de las dos carteras ni se consolida con ellas. La cartera con acciones
+propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva acciones a propósito.
 
 ## Reglas
 
@@ -53,7 +59,7 @@ propia y separada es la de `cartera-ai/`.
 - La revisión trimestral se escribe con la skill `revision-cartera` y se guarda como
   `revision-YYYY-QN.md` en esta carpeta; el % de RV lo decide el dueño.
 
-## Estado a 14/11/2026
+## Estado a 15/11/2026
 
 - **MyInvestor:** propuesta cerrada al 55,0% de RV / 45,0% de RF, 0,438% de TER, 14 órdenes en dos
   sesiones. Pendientes: dimensionar los gastos mensuales del colchón y aguantar el −23,4% (−22.700 €).
@@ -63,3 +69,7 @@ propia y separada es la de `cartera-ai/`.
 - **cartera-ai:** propuesta nueva del 14/11/2026, sin ejecutar. 150.000 €, 9 fondos indexados + 6
   acciones, 75,0% de RV / 25,0% de RF, 170,10 €/año (0,113%). Pendiente: confirmar horizonte, comisión de
   acciones del bróker y si se entra en una o dos tandas.
+- **cartera-ai-andres:** propuesta nueva del 15/11/2026, sin ejecutar. 200.000 €, **14 fondos y cero
+  acciones**, 60,0% de RV por look-through, 1.016,20 €/año verificados (0,51%) más dos fondos sin TER
+  publicado. Pendiente: horizonte real, coste de Myinvestor Value y Kaizen, y si se quiere un bloque de
+  tres acciones (7,5%) que el diseño no incluye.
