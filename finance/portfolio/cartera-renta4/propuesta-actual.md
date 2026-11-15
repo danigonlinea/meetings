@@ -188,5 +188,5 @@ impuestos** (fondo a fondo armonizado). No hace falta efectivo en la cuenta.
 - **BCE / FRED** (30/10/2026): facilidad de depósito 2,50%.
 - **Trading Economics** (29/10/2026): bono alemán a 10 años 3,95%.
 - **SocGen vía Seeking Alpha** (30/10/2026): spread del crédito IG euro 116 pb.
-- **`../cartera-myinvestor/propuesta-actual.md`** (04/11/2026): señales macro y objetivo 55/45 de la otra
+- **`../cartera-myinvestor/propuesta-actual.md`** (04/11/2026): datos macro y criterio 55/45 de la otra
   cartera, usado solo como referencia de perfil, no para consolidar cifras.

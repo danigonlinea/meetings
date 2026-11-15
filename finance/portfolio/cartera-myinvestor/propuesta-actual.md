@@ -38,7 +38,7 @@ related:
 
 | # | Decisión | Por qué |
 | --: | --- | --- |
-| 1 | **RV del 50 % al 55 %** | Ocho señales de §2 puntúan 55; la RF cobró ≈0,4 % nominal (≈−3,4 % real) en 12 meses |
+| 1 | **RV del 50 % al 55 %** | El razonamiento de §2 con ocho hechos: la RF cobró ≈0,4 % nominal (≈−3,4 % real) en 12 meses y el colchón de 10.000 € está fuera |
 | 2 | **Sale Sissener** (crédito nórdico) | Su top-10 son bonos HY de energía y shipping, no IG: se pagaba prima de crédito por lo que el diseño decía no comprar |
 | 3 | **Entra Cobas Renta** al 0,33 % | Único vehículo de RF del catálogo que **ganó en 2022** (+3,89 %) con vol 2,93 % |
 | 4 | **Entra Amundi Euro Corp 1-5Y** al 0,35 % | Indexado de la misma familia que el Neuberger, sin apuesta de gestor: baja la concentración del Neuberger del 32,9 % al 17,5 % |
@@ -57,17 +57,16 @@ del 45 % para un horizonte largo sin necesidad de vender. La tabla se conserva c
 aquella decisión**, no como un marcador: no se repuntúa con ninguna herramienta ni se recalcula cada
 trimestre. Cambiar el % exige un argumento, no una suma de puntos.
 
-| Señal | Dato a 04/11/2026 | Efecto |
-| --- | --- | ---: |
-| **Coste real del dinero** | TIR de la RF corta 4,24-4,65 % frente a inflación 3,8 % → **+0,4 a +0,8 % real** (YTW; lo cobrado va en la señal 7) | **0** |
-| **Prima de crédito** | HY europeo OAS 363 pb (normal 260-300) y BB a 175 pb: no se paga por asumir crédito | **+3** |
-| **Valoración relativa** | S&P 500 18,7x · STOXX 600 13,6x · MSCI EM 10,2x | **+2** |
-| **Concentración y ciclo de crédito** | 46 % del S&P en tecnología, 34 % en siete valores; Ábaco: 60-70 % de probabilidad de evento de crédito en 6-12 meses | **−5** |
-| **Riesgo de tipos** | BCE restrictivo (depósito 2,50 %, dos subidas en 2026): no se alarga duración | **+2** |
-| **Capacidad de aguante** | Colchón de 10.000 € fuera, ingresos estables, sin obligación de vender | **+3** |
-| **Carry cobrado de la RF** | 1A 2026: Neuberger −0,03 %, Aegon +2,39 %, Amundi −0,19 % → **0,4 % ponderado**, por debajo del 2 % (§11.1) | **+3** |
-| **Prima RV-bono** | *Earnings yield* 6,65 % − bono 4,24 % = **2,4 pp** (pánico si <1 pp) | **+2** |
-| | **45 + 10 = 55 %** | |
+| Hecho | Dato a 04/11/2026 | Cómo entró en la decisión |
+| --- | --- | --- |
+| **Coste real del dinero** | TIR de la RF corta 4,24-4,65 % frente a inflación 3,8 % → **+0,4 a +0,8 % real** (YTW; lo cobrado, en §11.1) | La RF no compensa la inflación: es colchón, no rentabilidad |
+| **Prima de crédito** | HY europeo OAS 363 pb (normal 260-300) y BB a 175 pb | No se paga por asumir crédito: el bloque de RF se queda en corto y corporativo |
+| **Valoración relativa** | S&P 500 18,7x · STOXX 600 13,6x · MSCI EM 10,2x | Justifica pesar Europa y emergentes dentro de la RV |
+| **Concentración y ciclo de crédito** | 46 % del S&P en tecnología, 34 % en siete valores; Ábaco: 60-70 % de probabilidad de evento de crédito en 6-12 meses | Es el hecho que más frena el %: no se compra el índice puro |
+| **Riesgo de tipos** | BCE restrictivo (depósito 2,50 %, dos subidas en 2026) | No se alarga duración |
+| **Capacidad de aguante** | Colchón de 10.000 € fuera, ingresos estables, sin obligación de vender | Es el criterio que permite el 55 % y no menos |
+| **Carry cobrado de la RF** | 1A 2026: Neuberger −0,03 %, Aegon +2,39 %, Amundi −0,19 % → **0,4 % ponderado** (§11.1) | Confirma que el bloque de RF no renta hoy |
+| **Prima RV-bono** | *Earnings yield* 6,65 % − bono 4,24 % = **2,4 pp** | Contexto: la RV paga prima, pero no decide el número |
 
 **Decisión: 55,0 % de RV (53.376 €) / 45,0 % de RF (43.624 €)**, look-through estricto por el
 `alloc_equity` de cada ficha, Rock al 78 % y Cobas Renta al 14,5 %.
@@ -83,7 +82,7 @@ trimestre. Cambiar el % exige un argumento, no una suma de puntos.
 Caída = −(40 % × RV + 3 % × RF), el escenario de 2008. Retorno = RV × *earnings yield* 6,65 % + RF ×
 4,24 %; con crecimiento, se suman 4 puntos al EY de la RV. Las cinco filas salen de esas dos fórmulas.
 
-**Suelo conductual:** −23,4 % sobre 97.000 € son **−22.700 €**. Si en ese momento se vende, el modelo no
+**Suelo conductual:** −23,4 % sobre 97.000 € son **−22.700 €**. Si en ese momento se vende, el diseño no
 vale: baja a 45 %. La última fila está a propósito: bajar la RF a 31.000 € (32 %) cambiaría el perfil a
 −28,2 % y **no es lo que esta cartera propone**.
 
@@ -152,7 +151,7 @@ repartidos 68 / 19 / 13**, que es aproximadamente el peso de esas tres regiones 
 
 | | Sale | Entra | Por qué, con el número |
 | --- | --- | --- | --- |
-| **Crédito** | **Sissener** 0,90 % · 3A +6,85 % | **Amundi 1-5Y** 0,35 % · 3A +3,55 % | Cambio de activo, no de vehículo: el top-10 del Sissener es HY de energía y shipping (Nynas, Golar, W&T, McDermott; un tercio del fondo). Se renuncia a 3,3 pp de 3A para no comprar lo que la señal de crédito prohíbe |
+| **Crédito** | **Sissener** 0,90 % · 3A +6,85 % | **Amundi 1-5Y** 0,35 % · 3A +3,55 % | Cambio de activo, no de vehículo: el top-10 del Sissener es HY de energía y shipping (Nynas, Golar, W&T, McDermott; un tercio del fondo). Se renuncia a 3,3 pp de 3A para no comprar lo que el criterio de crédito descarta |
 | **Value Europa** | **MyInvestor Value C** · TER y 3A/5A **no publicados** | **Europa indexada** (0,10 %) + Japón y Pacífico | Sin coste verificable no entra. La tesis se conserva a 1/14 del precio y el hueco de Japón y Pacífico se compra con el ahorro |
 | **Concentración RF** | **Neuberger 31.900 €** (32,9 %) | **17.000 €** (17,5 %) | Cuesta ≈37 €/año de carry y compra que ninguna ficha, curva o derivado decida el 33 % del capital |
 | **Núcleo geográfico** | **50 % de RV en 8 fondos** | **55 % en 10 fondos** | §2 y §3 |
@@ -409,7 +408,7 @@ Sobre las posiciones nuevas o cambiadas:
 ### 11.1 El hecho de la renta fija que quedó del 04/11
 
 La RF cobró **0,4 % ponderado a 12 meses** frente a una inflación del 3,8 %: **−3,4 % real**. Es el hecho
-que justificó la señal 7 de §2 y sigue siendo el motivo por el que esta cartera no alarga duración. No es
+de renta fija que justificó el 55 % y sigue siendo el motivo por el que esta cartera no alarga duración. No es
 un umbral que se recalcule cada trimestre ni un marcador que mueva el %: si algún día la RF cobra lo que
 dice su TIR, será un argumento nuevo, no una casilla que cambie de valor.
 
@@ -448,6 +447,6 @@ contenido íntegro sigue en el historial de git (commit `50b2e69`, que además b
 Límites: duración y TIR de Aegon, Amundi y Cobas Renta **no publicadas** (2,3 años y 4,24 % inferidos);
 la vol y el carry de la RF de Rock no se publican; el 44 % de la cartera de Cobas no viene desglosado por
 país; comisión de entrada: máximos de folleto verificados y política de MyInvestor citada en §8, pero el cargo real solo se ve en la app; drawdown y retorno esperado son estimaciones
-propias; las señales de §2 llevan pesos de juicio; los gastos del colchón siguen sin dimensionar.
+propias; los hechos de §2 llevan interpretación de juicio; los gastos del colchón siguen sin dimensionar.
 
 > No es asesoramiento financiero. La decisión es del titular.

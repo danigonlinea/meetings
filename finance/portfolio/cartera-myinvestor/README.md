@@ -18,7 +18,7 @@ material financiero (vídeos, webinars, informes) está en las otras subcarpetas
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
 | `cartera-actual.md` | **Fotografía congelada** del estado real a 30/10/2026: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad de las posiciones | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
-| `propuesta-actual.md` | **La cartera vigente y única** (04/11/2026): modelo de RV con ocho señales, diez fondos manuales **solo fondos, cero ETFs**, catorce órdenes, métricas, riesgos, descartes y revisión trimestral | **Sí**, es el documento de trabajo |
+| `propuesta-actual.md` | **La cartera vigente y única** (04/11/2026): el razonamiento del 55 % con ocho hechos, diez fondos manuales **solo fondos, cero ETFs**, catorce órdenes, métricas, riesgos, descartes y revisión trimestral | **Sí**, es el documento de trabajo |
 | `propuesta-acciones.md` | **Bloque de riesgo aparte**: cuatro acciones individuales sin dividendo. No forma parte de la cartera de fondos, no entra en su look-through y no se rebalancea contra ella | Sí, pero nunca se suma a la cartera de fondos |
 
 **Ya no hay anexos.** La carpeta llegó a tener cinco propuestas paralelas con cinco cifras distintas de
