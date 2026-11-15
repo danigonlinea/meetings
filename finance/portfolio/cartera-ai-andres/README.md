@@ -8,11 +8,13 @@ una segunda versión de `cartera-ai/`: es una cartera distinta, con otro mandato
 
 | Archivo | Qué es |
 | --- | --- |
-| `propuesta-actual.md` | **La cartera**, en un solo documento: 14 fondos con ISIN, pesos, coste, órdenes, descartes y señales de revisión. |
+| `100k.md` | La cartera de **100.000 €**: 11 fondos, 60,3 % de RV, 0,46 % de coste verificado |
+| `200k.md` | La cartera de **200.000 €**: 14 fondos, 60,0 % de RV, 0,51 % de coste verificado |
 
-Una sola cartera, un solo documento: nace de cero y las decisiones son del agente, así que no hay saldos
-reales que fotografiar. Cuando se ejecute y haya posiciones con precio de compra, se abrirá
-`cartera-actual-YYYY-MM-DD.md` y solo entonces.
+**Un fichero por talla, una cartera por fichero.** No hay foto de saldos: cada cartera nace de cero y las
+decisiones son del agente. A 100.000 € el diseño pierde tres líneas (Azvalor, small caps y Europa); a
+200.000 € entran, porque el mínimo de 5.000 € de Azvalor pasa de 5 % a 3 %. Cuando se ejecute una y haya
+posiciones con precio de compra, se abrirá `cartera-actual-YYYY-MM-DD.md` y solo entonces.
 
 ## Reglas
 
@@ -30,15 +32,16 @@ reales que fotografiar. Cuando se ejecute y haya posiciones con precio de compra
 
 ## Actualización
 
-1. Cuando se ejecute y haya posiciones reales, se abre `cartera-actual-YYYY-MM-DD.md` con los saldos y
-   los precios de compra. Hasta entonces, `propuesta-actual.md` es la única descripción de la cartera.
-2. Si cambia un fondo (soft close, cambio de gestor, TER nuevo), se anota en `propuesta-actual.md` §9 y
-   se fecha.
+1. Cuando se ejecute una talla y haya posiciones reales, se abre `cartera-actual-YYYY-MM-DD.md` con los
+   saldos y los precios de compra. Hasta entonces, el fichero de cada talla es la única descripción de esa
+   cartera.
+2. Si cambia un fondo (soft close, cambio de gestor, TER nuevo), se anota en la sección de descartes y
+   señales del fichero de su talla, y se fecha.
 3. `python3 tools/build_index.py && python3 tools/verify.py` después de cualquier cambio.
 
 ## Estado
 
-- **15/11/2026:** propuesta cerrada, sin ejecutar. 200.000 €, 14 fondos, 60,0 % de RV por look-through,
-  1.016,20 €/año verificados (0,51 %) y 1.336-1.496 € si los dos fondos sin TER publicado costaran un
-  1,0-1,5 %. Pendientes: horizonte real, coste de Myinvestor Value y Kaizen, y si el titular quiere un
-  bloque de acciones (el diseño no lo lleva).
+- **15/11/2026:** dos tallas cerradas, sin ejecutar. **100.000 €**: 11 fondos, 60,3 % de RV, 463,30 €/año
+  verificados (0,46 %). **200.000 €**: 14 fondos, 60,0 % de RV, 1.016,20 €/año verificados (0,51 %).
+  Pendientes en las dos: coste de Myinvestor Value y Kaizen, horizonte real y si se quiere un bloque de
+  acciones (ninguna lo lleva).

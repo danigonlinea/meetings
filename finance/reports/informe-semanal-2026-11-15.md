@@ -57,7 +57,7 @@ Una sola pieza nueva en la semana: un vídeo de La Pizarra de Andrés sobre si u
 
 Lo que sí aporta es un criterio que toca dos documentos ya abiertos:
 
-- **`cartera-ai/propuesta-actual.md` §5 — bloque de seis acciones (30.000 €, 20 %).** El vídeo exige «muy pocas compañías» para la vía de acciones (dos a cuatro) y descarta expresamente la cartera larga. Seis posiciones están por encima de ese rango, pero el vídeo no dice que seis sea un error por sí mismo: su argumento es de cobertura (¿puedes seguir seis tesis?) y de tamaño de la apuesta, no un número mágico. Queda como observación de perfil, no como señal de cambio. Qué habría que quitar: nada por este vídeo; reducir a cuatro sería una decisión del dueño, no una consecuencia lógica del audio.
+- **`cartera-ai/150k.md` §5 — bloque de seis acciones (30.000 €, 20 %).** El vídeo exige «muy pocas compañías» para la vía de acciones (dos a cuatro) y descarta expresamente la cartera larga. Seis posiciones están por encima de ese rango, pero el vídeo no dice que seis sea un error por sí mismo: su argumento es de cobertura (¿puedes seguir seis tesis?) y de tamaño de la apuesta, no un número mágico. Queda como observación de perfil, no como señal de cambio. Qué habría que quitar: nada por este vídeo; reducir a cuatro sería una decisión del dueño, no una consecuencia lógica del audio.
 - **`cartera-myinvestor/propuesta-acciones.md` — cuatro posiciones sin dividendo (20.000 €).** Es el caso que el vídeo sí admite en tamaño (cuatro) y en el motivo (buscar lo que un fondo no da). El vídeo no valida las tesis: exige catalizadores, precio del mercado y research propio, y la propuesta ya los documenta por posición.
 
 Ninguno de los dos documentos se ha tocado: el informe propone, la cartera la decide el dueño.

@@ -16,8 +16,8 @@ se escribe en un documento aparte con su propia fecha.
 | --- | --- | --- |
 | `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 04/11/2026**: 55/45 en diez fondos solo, 424,80 €/año de coste real, catorce órdenes en §7) + `propuesta-acciones.md` (complemento de acciones) |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
-| `cartera-ai/` | **150.000 €** en una cartera nueva diseñada desde cero el 14/11/2026: 9 fondos indexados + 6 acciones, 75 % RV / 25 % RF, 170,10 €/año (0,113 %) | `propuesta-actual.md` (**la cartera entera**: 15 posiciones con ISIN/ticker, órdenes, coste y pendientes) |
-| `cartera-ai-andres/` | **200.000 €** diseñados el 15/11/2026 con criterio del agente y la experiencia de Andrés: **14 fondos, cero acciones**, 60,0 % de RV por look-through, 1.016,20 €/año verificados (0,51 %) | `propuesta-actual.md` (**la cartera entera**: 14 ISIN, órdenes, descartes y señales) |
+| `cartera-ai/` | **Tres tallas del mismo diseño** de coste mínimo: `100k.md` (7 fondos + 4 acciones, 74,9 % RV, 0,116 %), `150k.md` (9 + 6, 74,8 %, 0,113 %) y `200k.md` (9 + 6, 74,8 %, 0,113 %) | Un fichero por talla; cada uno es la cartera entera (ISIN/ticker, órdenes, coste, descartes) |
+| `cartera-ai-andres/` | **Dos tallas** con el criterio de Andrés, sin acciones: `100k.md` (11 fondos, 60,3 % RV, 0,46 %) y `200k.md` (14 fondos, 60,0 %, 0,51 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, órdenes, descartes y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
@@ -25,9 +25,9 @@ rebalancea y no compite con las cuatro anteriores. Se actualiza con la skill `ca
 ingiere un vídeo de resultados del canal.
 
 `cartera-ai/` y `cartera-ai-andres/` son dos diseños **independientes** del mismo agente con mandatos
-distintos: la primera maximiza coste bajo (80 % indexado, seis acciones), la segunda sigue el criterio de
-Andrés (gestión activa, sin acciones, 60 % de RV). No son dos versiones de lo mismo ni se ejecutan las
-dos sobre el mismo dinero: el titular elige una.
+distintos: la primera minimiza coste (indexado + acciones sin dividendo), la segunda sigue el criterio de
+Andrés (gestión activa, sin acciones, 60 % de RV). No son dos versiones de lo mismo ni se ejecutan las dos
+sobre el mismo dinero: el titular elige una, y dentro de cada una elige la talla.
 
 
 `propuesta-acciones.md` (04/11/2026) es el **complemento de acciones** de la cartera de MyInvestor, no una
@@ -68,10 +68,9 @@ propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva accione
 - **Renta 4:** auditoría nueva. 15,3% de RV real, 0,83% de coste (287 €/año) y 65,7% del patrimonio en
   bonos corporativos. Recomendación: **Kaizen se queda** y se recorta al 25%, con 3.618 € a un indexado
   global (21,2% de RV, 0,76% de coste). Pendiente: confirmar el recorte y la clase del fondo de destino.
-- **cartera-ai:** propuesta nueva del 14/11/2026, sin ejecutar. 150.000 €, 9 fondos indexados + 6
-  acciones, 75,0% de RV / 25,0% de RF, 170,10 €/año (0,113%). Pendiente: confirmar horizonte, comisión de
-  acciones del bróker y si se entra en una o dos tandas.
-- **cartera-ai-andres:** propuesta nueva del 15/11/2026, sin ejecutar. 200.000 €, **14 fondos y cero
-  acciones**, 60,0% de RV por look-through, 1.016,20 €/año verificados (0,51%) más dos fondos sin TER
-  publicado. Pendiente: horizonte real, coste de Myinvestor Value y Kaizen, y si se quiere un bloque de
-  tres acciones (7,5%) que el diseño no incluye.
+- **cartera-ai:** tres tallas cerradas el 15/11/2026, sin ejecutar. 100k (7 fondos + 4 acciones, 0,116 %),
+  150k (9 + 6, 0,113 %) y 200k (9 + 6, 0,113 %). Pendientes: clase del núcleo y comisión de acciones del
+  bróker.
+- **cartera-ai-andres:** dos tallas cerradas el 15/11/2026, sin ejecutar. 100k (11 fondos, 60,3 % de RV,
+  0,46 %) y 200k (14 fondos, 60,0 %, 0,51 %), con dos fondos cuyo TER no publica el MCP. Pendientes:
+  horizonte real, coste de Myinvestor Value y Kaizen, y si se quiere un bloque de tres acciones.
