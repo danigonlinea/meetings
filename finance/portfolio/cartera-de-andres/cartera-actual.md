@@ -39,11 +39,18 @@ Patrimonio declarado: **176.000 €** de referencia (02:14 del vídeo). El mismo
 | Bloque | Vehículo tal como lo nombra | Importe declarado | Peso derivado | Fuente |
 | --- | --- | ---: | ---: | --- |
 | Acciones | Nextil | 50.000 € (14/06/2026) | ≈28 % | `2026-06-14` «la posición vale 50.000 euros justos» |
-| Acciones | Amper, OHL, Izertis | `no publicado` por posición | — | `2026-11-01` 07:18-07:45 |
+| Acciones | Amper, Izertis | `no publicado` por posición | — | `2026-11-01` 07:18-07:45 |
+| Acciones | OHL | `no publicado`; estaba «muy en verde» y «ahora está en -10 %» al grabar | — | `2026-11-01` 07:29 |
 | China | Fondo de RV china (identificado como Pictet China en junio) | 8.000 € | 5 % (dicho) / 4,5 % sobre 176.000 | `2026-11-01` 05:01-05:06 |
 | Indexado | Cartera Meta de MyInvestor | ≈7.790 € a dos años | ≈4,4 % | `2026-11-01` 03:30 |
 | Indexado | 80/20 MSCI World + emergentes | ≈7.760 € a dos años | ≈4,4 % | `2026-11-01` 03:34 |
 | Liquidez | Saldo en cuenta | 9.000-9.500 € | ≈5 % | `2026-09-01` 00:40 y `2026-10-02` 7:15 |
+
+**Peso de renta variable declarado (`inferida`).** La única frase del autor sobre su reparto es de pasada:
+«yo tengo la cartera equilibrada también en un 7 y pico que tiene un 60 % de renta variable o un 55 que
+tengo ahora» (`2026-11-04` 06:56). Cuadra con el YTD del 7,40 % que da el vídeo de octubre, pero sale de
+un turno corto de una conversación a dos voces sin etiquetas: la atribución a Andrés es `inferida` y la
+cifra es una estimación del hablante, no un dato de la cuenta.
 
 Las dos carteras indexadas suman **15.000 €** con 12.500 € aportados según el vídeo de septiembre
 (6:49): unos 2.500 € de plusvalía.
@@ -91,6 +98,12 @@ fondos, y su reparto interno no se publica en ningún vídeo del corpus.**
   acciones, no a los fondos.
 - **Agosto es el primer mes por debajo del índice** desde que arrancó la serie; octubre es el primero
   con dos meses consecutivos en negativo.
+- **Ventaja máxima histórica: 43 puntos**, en enero (`2026-11-01` 11:24-11:32). De 43 ha pasado a 30 y dice
+  «nada que me preocupe»: lo enmarca en la dificultad de batir al índice de forma recurrente, no en un
+  error de selección.
+- **Octubre es el último mes cerrado documentado.** Al 15/11/2026 no hay vídeo de resultados de
+  noviembre: la siguiente foto llegará con el cierre de noviembre (previsiblemente a principios de
+  diciembre), no antes.
 
 ---
 
@@ -139,7 +152,27 @@ aportaciones periódicas de 250 € a cada una (`2026-07-02` 09:29).
 
 ---
 
-## 6. Cómo se actualiza esta ficha
+## 6. Las carteras que gestiona a clientes (no son esta cuenta)
+
+Objeto distinto y separado: los perfiles que el autor ofrece a clientes. No se mezclan con los 176.000 €
+de la cuenta personal, ni se usan para calcular sus pesos. Se documentan porque son la única información
+nueva sobre «su cartera» aparecida después del cierre de octubre, y porque el autor **las comercializa**
+(`2026-11-11` 21:24).
+
+| Dato | Qué dice | Fuente |
+| --- | --- | --- |
+| Patrimonio mínimo | 400.000 € para gestionar carteras de clientes | `2026-11-01` 08:40 |
+| Número de fondos | «Veintipico fondos» en las carteras que ofrece en su web | `2026-11-01` 08:20 |
+| Perfiles | moderado, equilibrado y agresivo; existe además una «agresiva Plus» | `2026-11-11` 11:30-13:36 y 21:24 |
+| Caída semanal vs índice | MSCI World −2,35 %; perfiles −0,40 / −0,80 / −1,20 (las dos cifras del agresivo no cuadran entre sí) | `2026-11-11` 11:16-13:36 |
+| Composición de la agresiva Plus | «Indexados y tres o cuatro fondos buenos adicionales» | `2026-11-11` 21:24-21:31 |
+| Comisión que justifica | «Un 1 y pico %» para un gestor con diez años haciéndolo bien | `2026-11-11` 05:06-05:11 |
+| Peso indexado que usaba | 15 % en «las carteras que gestionaba vía fondos»; turno de réplica corta, atribución `inferida` | `2026-11-04` 50:23-50:38 |
+| Indexación en carteras de clientes | Dice que lleva indexación «siempre» y también en las carteras de sus clientes | `2026-11-11` 08:01-08:04 |
+
+---
+
+## 7. Cómo se actualiza esta ficha
 
 1. Cuando se ingiere un vídeo de resultados mensuales de La Pizarra, se sigue la skill
    `cartera-andres` (`.agents/skills/cartera-andres/SKILL.md`).
@@ -148,3 +181,41 @@ aportaciones periódicas de 250 € a cada una (`2026-07-02` 09:29).
 4. `python3 tools/build_index.py && python3 tools/verify.py`.
 
 Versiones anteriores: `anteriores/`. Índice y reglas: `README.md`.
+
+---
+
+## 8. Auditoría del 15/11/2026
+
+Revisión de la ficha contra los seis vídeos del canal posteriores al cierre de octubre, más el propio
+vídeo de resultados. Sin vídeos nuevos en los canales seguidos a esa fecha (`nuevos.py`: 0 en La Pizarra,
+0 en MyInvestor), así que la auditoría es de coherencia, no de actualización mensual.
+
+**Qué se comprobó**
+
+1. **Cifras contra la fuente.** Todas las que llevan fuente del `2026-11-01` aparecen en su `summary.md` y
+   en la transcripción, en el minuto indicado, incluidos los tres patrimonios que no concilian y el −10 %
+   de OHL. Las que vienen de `2026-06-14`, `2026-09-01` y `2026-10-02` se comprobaron en sus propios
+   resúmenes y en las fotos de `anteriores/`.
+2. **Aritmética de los pesos derivados.** Nextil 50.000/176.000 = 28,4 %; China 8.000/176.000 = 4,5 %;
+   Cartera Meta 7.790/176.000 = 4,4 %; indexado 80/20 7.760/176.000 = 4,4 %; liquidez 9.000-9.500 ≈ 5 %.
+   Todos cuadran con lo publicado.
+3. **Series cruzadas.** Los 12.500 € aportados a los indexados son del vídeo de septiembre y la ficha los
+   atribuía bien. El YTD del 7,40 % y el 154,91 sobre 100 son del vídeo de octubre y coinciden.
+4. **Vídeos posteriores al cierre** (`2026-11-04`, `06`, `08`, `11`, `13`, `15`): ninguno da patrimonio,
+   rentabilidad mensual ni cambios de posiciones de esta cuenta. El único dato nuevo es la frase sobre el
+   55-60 % de renta variable de §1 y las carteras de clientes de §6.
+
+**Qué se corrigió**
+
+- Se añadió el **−10 % de OHL** al bloque de acciones (§1.1), que estaba solo en el resumen del vídeo.
+- Se añadió la **ventaja máxima de 43 puntos** en enero y la nota de que octubre es el último cierre (§2).
+- Se añadió el **peso de renta variable declarado** como `inferida`, con su minuto y su cautela (§1).
+- Se añadió la sección de **carteras de clientes** (§6), que es objeto distinto.
+
+**Qué se dejó igual a propósito**
+
+- Las tres cifras de patrimonio de octubre y el −1,19 % siguen sin conciliar: §5 conserva la
+  inconsistencia, no la promedia.
+- Los ocho fondos activos siguen sin pesos: ningún vídeo de la serie los publica.
+- No se ha tocado ninguna propuesta del dueño ni se ha derivado ninguna acción de cartera.
+

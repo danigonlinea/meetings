@@ -24,7 +24,7 @@ source: "https://www.youtube.com/watch?v=ZKoalxcLw6c"
 - Aitor abre con la tesis del vídeo: quien tiene un indexado «no es consciente de que tiene el 40% en 10 empresas gigantescas» (00:06, repetido en 48:49).
 - Su miedo no es el capex de la IA, que es el que tiene Andrés: es que para que el indexado siga dando un 12% anual esas diez empresas tendrían que mantener márgenes y crecimiento «por los siglos de los siglos», algo que no ha pasado nunca (47:14-48:22).
 - Si la concentración sigue, plantea dos salidas: un índice que ya no sea un 40% sino un 65% en diez nombres —«será SP10, ya no será SP500»— o un pinchazo con malos resultados para el inversor (49:26-49:49).
-- No descarta indexarse: dice que está bien que todo el mundo tenga indexados y que él también los lleva «por respeto a los clientes», con un 15% en las carteras que gestionaba (50:03-50:29).
+- No descarta indexarse: dice que está bien que todo el mundo tenga indexados y que él también los lleva «por respeto a los clientes», con un 15% (`inferida`) en las carteras que gestionaba vía fondos (50:03-50:38).
 - Describe 2026 como un año agotador pero con oportunidades: mucha volatilidad, value funcionando, indexados fuertes en la primera mitad y renta fija «regular» por el coste de oportunidad (01:10-05:47).
 - Cuenta su historial: diez años como agente en una entidad que la transcripción no permite identificar, EAF registrado en la CNMV con el número 60, y un primer fondo, Kaizen, con 27,5 millones, un 14% acumulado en 17 meses y volatilidad del 6 (10:07-11:17).
 - Presenta Akira Global Value, su segundo fondo: cuatro meses, cuatro millones, 36 compañías y un 7,05% en el periodo, que él mismo avisa de que no hay que anualizar (20:18-26:54).
@@ -32,7 +32,7 @@ source: "https://www.youtube.com/watch?v=ZKoalxcLw6c"
 - Recorre posiciones con cifras: Warpaint London, CIE Automotive, Vetoquinol, NextEnergy Solar, Atalaya Mining, Amper, Grifols, Yellow Cake y Trigano (21:09-44:20).
 - Cuenta sus reglas de trading: entradas en tandas, venta cuando el precio alcanza su valoración, y dos OPAs que vendió por encima del precio de la oferta (28:05-30:16).
 - Reconoce un episodio incómodo: un inversor entró con un millón en un fondo que tenía dos, por aparecer primero en un ranking de rentabilidad a un mes (31:54-32:20).
-- Andrés cierra con su propia mezcla: cartera equilibrada con un 55-60% en renta variable y un 7 y pico en el año, y un 15% indexado como seguro contra su propio error (06:56-06:58, 50:29).
+- Andrés cierra con su propia mezcla: cartera equilibrada con un 55-60% en renta variable y un 7 y pico en el año, y un 15% indexado como seguro contra su propio error (06:54-06:58, 50:23-50:38; las dos cifras de cartera son `inferida`).
 
 ## Temas tratados
 
@@ -112,7 +112,7 @@ source: "https://www.youtube.com/watch?v=ZKoalxcLw6c"
 - Dibuja el escenario extremo: un índice con el 65% en diez nombres, «será SP10» (49:26-49:35).
 - Reconoce que no hay que jugar a adivino y que tener indexados está bien (49:49-50:00).
 - Defiende la mezcla y dice que hoy daría más peso a la gestión activa, sin renunciar al indexado por si los próximos cinco años siguen tirando (50:08-50:20).
-- Andrés aporta su versión: un 15% indexado en las carteras que gestionaba, como seguro contra su propio error (50:29-50:40).
+- Andrés aporta su versión (`inferida`): un 15% indexado en las carteras que gestionaba, como seguro contra su propio error (50:29-50:40).
 
 ### Riesgos macro
 
@@ -157,7 +157,7 @@ source: "https://www.youtube.com/watch?v=ZKoalxcLw6c"
 | 40% | Peso de las diez mayores empresas dentro de un indexado, según Aitor (00:06 y 48:49) |
 | 65% | Concentración que augura si la tendencia sigue: «será SP10» (49:26) |
 | 12% anual | Rentabilidad del indexado que habría que sostener para que la tesis se cumpla (47:14) |
-| 15% | Peso indexado que Andrés usaba en las carteras que gestionaba (50:29) |
+| 15% | Peso indexado en «las carteras que gestionaba vía fondos»; turno de réplica corta, atribución `(inferida)` (50:23-50:38) |
 | 10 | Años que Aitor trabajó como agente en banca (10:07) |
 | 60 | Número de registro como EAF en la CNMV, según Aitor (11:05) |
 | 27,5 millones | Patrimonio de Kaizen Global Income (11:09) |
@@ -264,7 +264,7 @@ Criterio: las cifras son las que da el hablante y el minuto es el `start` del se
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Akira Global Value, FI (`lo comercializa`) | Fondo de renta variable global small/mid | ES0107479000 | única | `no verificado` | 4 millones y 7,05% en 4 meses; 36 compañías | en cartera (lo gestiona) | 20:18 (cifra 26:43) |
 | Kaizen Global Income, FI (`lo comercializa`) | Mixto flexible | ES0156674006 | única | `no verificado` | 27,5 millones; 14% en 17 meses; volatilidad 6 | en cartera (lo gestiona) | 11:09 |
-| Indexado sin vehículo identificado | Indexación | `no verificado` | `no aplica` | `no verificado` (el audio no da coste) | 40% en 10 empresas; un 15% en las carteras de Andrés | en cartera | 50:03 (40% en 00:06) |
+| Indexado sin vehículo identificado | Indexación | `no verificado` | `no aplica` | `no verificado` (el audio no da coste) | 40% en 10 empresas; «un 15%» indexado en «las carteras que gestionaba vía fondos», `(inferida)` | en cartera (`inferida`) | 50:03 (40% en 00:06; 15% en 50:23) |
 
 **Akira Global Value, FI** (en el audio, «Akira», también «Aquira» y «Aquila»)
 
@@ -335,7 +335,7 @@ Criterio: las cifras son las que da el hablante y el minuto es el `start` del se
 - La disciplina de entrada y salida —tandas, precio objetivo y venta al alcanzarlo— es la parte de su método que él considera más diferencial.
 - Los fondos que presenta son suyos: Kaizen y Akira aparecen con patrimonio, rentabilidad y volatilidad, y él mismo avisa de que Akira es un fondo de renta variable pequeña que «se va a mover».
 - El episodio del millón que entró por un ranking a un mes es un aviso sobre el dinero que llega atraído por rentabilidades recientes.
-- Andrés aporta la otra mitad del argumento: él usa un 15% indexado como protección frente a su propio error de selección.
+- Andrés aporta la otra mitad del argumento (`inferida`): él usa un 15% indexado como protección frente a su propio error de selección.
 - Las cifras de capitalización de Warpaint no son estables en el propio vídeo (158 y 150 millones de libras): el resumen conserva las dos y no las corrige.
 
 ## Tips para el inversor
@@ -357,6 +357,12 @@ Criterio: las cifras son las que da el hablante y el minuto es el `start` del se
 ## Advertencias sobre la transcripción
 
 La transcripción viene de YouTube con `has_speaker_labels: false` y `speaker_count: 0`. Hay dos voces y ningún nombre asignado: la atribución del resumen es `(inferida)` por el contenido, y los turnos de réplica corta se marcan `no atribuible con certeza`. Los errores se concentran en nombres de empresas, nombres de fondos y siglas.
+
+### Atribución de turnos
+
+- El intercambio de 50:21-50:52 encadena réplicas cortas de las dos voces sin pausa clara: como turno aislado es `no atribuible con certeza`. Por contenido —habla de «clientes» y de «las carteras que gestionaba vía fondos», y después se dirige a «los gestores» como terceros— se atribuye a Andrés y va marcado `(inferida)`.
+- En ese mismo tramo está la frase «yo tengo la cartera equilibrada también en un 7 y pico que tiene un 60% de renta variable o un 55 que tengo ahora» (06:54-06:58): es la única cifra de reparto de renta variable que da el autor y va `(inferida)`, no como dato de la cuenta.
+- Esa cifra y el 15% indexado son coherentes con el YTD del 7,40% del vídeo del 2026-11-01, y así se anotan en `finance/portfolio/cartera-de-andres/cartera-actual.md`; no se elevan a dato verificado en ninguno de los dos sitios.
 
 ### Nombres propios
 

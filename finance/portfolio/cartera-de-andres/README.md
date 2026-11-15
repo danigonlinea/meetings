@@ -36,6 +36,12 @@ Cuando se ingiere un vídeo de resultados mensuales:
 
 El procedimiento completo está en la skill `.agents/skills/cartera-andres/SKILL.md`.
 
+## Auditorías
+
+| Fecha | Qué se revisó | Resultado | Dónde |
+| --- | --- | --- | --- |
+| 2026-11-15 | Coherencia de la ficha contra los seis vídeos del canal posteriores al cierre de octubre y contra la fuente de cada cifra | Sin vídeos nuevos en los canales; ningún peso por fondo nuevo; añadidas la sección de carteras de clientes (§6), el −10 % de OHL, la ventaja máxima de 43 puntos y el peso de renta variable declarado | `cartera-actual.md` §8 |
+
 ## Serie disponible
 
 | Mes cerrado | Foto | Vídeo |
