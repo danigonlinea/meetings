@@ -7,7 +7,7 @@ tags: [cartera, cartera-ai, 150k, indexados, acumulacion, myinvestor, acciones, 
 status: final
 related:
   - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai/cartera-actual.md
+  - finance/portfolio/cartera-ai/README.md
   - finance/portfolio/cartera-myinvestor/propuesta-actual.md
   - finance/portfolio/cartera-myinvestor/propuesta-acciones.md
 ---
@@ -33,6 +33,10 @@ related:
 > **Método.** Catálogo MyInvestor vía MCP el 14/11/2026: 2.409 fondos, 266 indexados. Todas las fichas
 > son de `get_funds`, NAV 11/11/2026. Las seis acciones salen del catálogo de acciones del bróker
 > (`get_instruments`, 14/11/2026). Cada cifra de este documento es de ficha; lo que no lo es, va marcado.
+>
+> **Un solo documento.** Esta propuesta **es** la cartera: nace de cero, las decisiones son del agente y
+> no hay saldos reales que fotografiar. No existe un `cartera-actual.md` que mantener en paralelo; se abre
+> el día que haya posiciones ejecutadas con precio de compra.
 >
 > **No es asesoramiento financiero.** La decisión es del titular.
 

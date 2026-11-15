@@ -16,8 +16,8 @@ se escribe en un documento aparte con su propia fecha.
 | --- | --- | --- |
 | `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 04/11/2026**: 55/45 en diez fondos solo, 424,80 €/año de coste real, catorce órdenes en §7) + `propuesta-acciones.md` (complemento de acciones) |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
-| `cartera-ai/` | **150.000 €** en una cartera nueva diseñada desde cero el 14/11/2026: 9 fondos indexados + 6 acciones, 75 % RV / 25 % RF, 170,10 €/año (0,113 %) | `cartera-actual.md` (foto inicial: liquidez, cero posiciones) + `propuesta-actual.md` (15 posiciones con ISIN/ticker y órdenes) |
-| `cartera-ai-andres/` | **200.000 €** diseñados el 15/11/2026 con criterio del agente y la experiencia de Andrés: **14 fondos, cero acciones**, 60,0 % de RV por look-through, 1.016,20 €/año verificados (0,51 %) | `cartera-actual.md` (foto inicial: liquidez, cero posiciones) + `propuesta-actual.md` (14 ISIN, órdenes, descartes y señales) |
+| `cartera-ai/` | **150.000 €** en una cartera nueva diseñada desde cero el 14/11/2026: 9 fondos indexados + 6 acciones, 75 % RV / 25 % RF, 170,10 €/año (0,113 %) | `propuesta-actual.md` (**la cartera entera**: 15 posiciones con ISIN/ticker, órdenes, coste y pendientes) |
+| `cartera-ai-andres/` | **200.000 €** diseñados el 15/11/2026 con criterio del agente y la experiencia de Andrés: **14 fondos, cero acciones**, 60,0 % de RV por look-through, 1.016,20 €/año verificados (0,51 %) | `propuesta-actual.md` (**la cartera entera**: 14 ISIN, órdenes, descartes y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
@@ -38,8 +38,10 @@ propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva accione
 
 ## Reglas
 
-- **Un dato, un sitio.** Los saldos viven en el `cartera-actual.md` de su carpeta; las decisiones, en
-  el `propuesta-actual.md` de esa misma carpeta.
+- **Un dato, un sitio.** En las carteras con dinero real los saldos viven en su `cartera-actual.md` y las
+  decisiones en el `propuesta-actual.md` de la misma carpeta. **Las carteras `ai` no tienen foto**: nacen
+  de cero y las decisiones son del agente, así que un solo documento —`propuesta-actual.md`— es la
+  cartera entera. La foto se abre el día que haya posiciones reales con precio de compra.
 - **Nada se mueve de una carpeta a otra.** Un traspaso entre plataformas es un reembolso con peaje
   fiscal; si se plantea, se documenta en las dos propuestas antes de ejecutarlo.
 - Cada carpeta ejecuta por **traspaso entre fondos armonizados** (0 € de impuestos), nunca por reembolso.

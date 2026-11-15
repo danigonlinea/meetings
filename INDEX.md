@@ -8,10 +8,8 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/la-pizarra-de-andres/2026-11-15-acciones-individuales/summary.md` | meeting-summary | finance | 2026-11-15 | Deja de comprar acciones individuales sin entender esto: quién debería y quién no | [acciones-individuales, diversificacion, fondos-indexados, beta, martingala, riesgo, cartera, chicharros, psicologia, la-pizarra-de-andres] |
 | `finance/reports/informe-semanal-2026-11-15.md` | synthesis | finance | 2026-11-15 | Informe semanal — 2026-11-15 | [informe-semanal, candidatos, cartera, acciones-individuales, la-pizarra-de-andres] |
 | `finance/portfolio/cartera-ai-andres/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-15 | Cartera-ai-andres: 200.000 € en catorce fondos, 60 % de renta variable por look-through | [cartera, cartera-ai-andres, 200k, fondos, indexados, value, mixtos, renta-fija, monetario, inmobiliario, acumulacion, myinvestor] |
-| `finance/portfolio/cartera-ai-andres/cartera-actual.md` | portfolio-snapshot | finance | 2026-11-15 | Cartera-ai-andres: foto inicial — 200.000 € en liquidez, sin posiciones | [cartera, cartera-ai-andres, 200k, liquidez, foto] |
 | `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-14 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `finance/portfolio/cartera-ai/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-14 | Cartera-ai: 150.000 € en nueve fondos indexados y seis acciones, 75/25 | [cartera, cartera-ai, 150k, indexados, acumulacion, myinvestor, acciones, diversificacion, 75-25] |
-| `finance/portfolio/cartera-ai/cartera-actual.md` | portfolio-snapshot | finance | 2026-11-14 | Cartera-ai: foto inicial — 150.000 € en liquidez, sin posiciones | [cartera, cartera-ai, 150k, liquidez, foto] |
 | `ai/ai-engineer/catalogo.md` | reference | ai | 2026-11-14 | Catálogo de charlas de AI Engineer: NYC 2026 y Code Summit 2026 | [ai-engineer, youtube, charlas, catalogo, agentes, ia] |
 | `reference/glossary.md` | reference | cross | 2026-11-13 | Glosario | [glosario, terminologia] |
 | `finance/videos/la-pizarra-de-andres/2026-11-13-ha-llegado-el-momento-de-invertir-en-nvidia/summary.md` | meeting-summary | finance | 2026-11-13 | ¿Ha llegado el momento de invertir en Nvidia? La caída del 35% y unos múltiplos de PER 18 | [nvidia, valoracion, per, caida-de-mercado, semiconductores, ia, analistas, investing-pro, especulacion, rotacion-sectorial] |
@@ -114,6 +112,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/la-pizarra-de-andres/2026-05-14-la-estrategia-que-aplico-en-carteras-de-grandes-patrimonios-puedes/summary.md` | meeting-summary | finance | 2026-05-14 | La Estrategia que APLICO en Carteras de Grandes Patrimonios ¿Puedes copiarla? | [banca-privada, carteras, clases-limpias, fondos, renta-fija, renta-variable, alternativos, andbank] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 108
+**Total de artefactos indexados:** 106
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

@@ -8,8 +8,11 @@ una segunda versión de `cartera-ai/`: es una cartera distinta, con otro mandato
 
 | Archivo | Qué es |
 | --- | --- |
-| `cartera-actual.md` | Foto inicial del 15/11/2026: liquidez y cero posiciones. Congelada. |
-| `propuesta-actual.md` | El diseño completo: 14 fondos con ISIN, pesos, coste, órdenes, descartes y señales de revisión. |
+| `propuesta-actual.md` | **La cartera**, en un solo documento: 14 fondos con ISIN, pesos, coste, órdenes, descartes y señales de revisión. |
+
+Una sola cartera, un solo documento: nace de cero y las decisiones son del agente, así que no hay saldos
+reales que fotografiar. Cuando se ejecute y haya posiciones con precio de compra, se abrirá
+`cartera-actual-YYYY-MM-DD.md` y solo entonces.
 
 ## Reglas
 
@@ -27,8 +30,8 @@ una segunda versión de `cartera-ai/`: es una cartera distinta, con otro mandato
 
 ## Actualización
 
-1. Cuando se ejecute, la foto nueva se crea como `cartera-actual-YYYY-MM-DD.md` con los saldos reales y
-   la de hoy se conserva.
+1. Cuando se ejecute y haya posiciones reales, se abre `cartera-actual-YYYY-MM-DD.md` con los saldos y
+   los precios de compra. Hasta entonces, `propuesta-actual.md` es la única descripción de la cartera.
 2. Si cambia un fondo (soft close, cambio de gestor, TER nuevo), se anota en `propuesta-actual.md` §9 y
    se fecha.
 3. `python3 tools/build_index.py && python3 tools/verify.py` después de cualquier cambio.

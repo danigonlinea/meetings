@@ -11,12 +11,13 @@ y no se rebalancea contra las otras.
 
 | Fichero | Qué es | ¿Se edita? |
 | --- | --- | --- |
-| `cartera-actual.md` | Foto inicial del 14/11/2026: 150.000 € en liquidez, cero posiciones | **No** — congelada |
-| `propuesta-actual.md` | La propuesta viva: 15 posiciones con ISIN/ticker, importes, pesos, TER, tesis, ejecución, descartes y pendientes | Sí |
+| `propuesta-actual.md` | **La cartera**: 15 posiciones con ISIN/ticker, importes, pesos, TER, tesis, ejecución, descartes y pendientes | Sí |
 | `README.md` | Este mapa | Sí |
 
-Cuando se ejecute la primera compra, la foto siguiente se crea como `cartera-actual-YYYY-MM-DD.md` y
-`propuesta-actual.md` se actualiza con los saldos reales.
+Una sola cartera, un solo documento. La cartera nace de cero y las decisiones son del agente, así que no
+hay foto de saldos que mantener aparte: la propuesta **es** la cartera. Cuando se ejecute y existan
+posiciones reales con precios de compra, se abrirá `cartera-actual-YYYY-MM-DD.md` con los saldos, y solo
+entonces.
 
 ## Reglas
 
@@ -25,7 +26,7 @@ Cuando se ejecute la primera compra, la foto siguiente se crea como `cartera-act
   al accionista.
 - **Solo fondos del catálogo de MyInvestor**, verificado por ISIN con `get_funds`, no por nombre.
 - **Sin ETFs.** Un ETF no admite traspaso y cada rebalanceo tributa al 19-23 %.
-- **Un dato, un sitio.** Saldos en la foto; pesos, diagnóstico y órdenes en la propuesta.
+- **Un dato, un sitio.** Pesos, diagnóstico, coste y órdenes viven en `propuesta-actual.md`; no se duplican.
 - Rebalanceo **anual** con bandas de ±5 puntos, con aportaciones o traspasos de fondos; nunca vendiendo
   acciones (cristalizaría plusvalía).
 

@@ -7,7 +7,7 @@ tags: [cartera, cartera-ai-andres, 200k, fondos, indexados, value, mixtos, renta
 status: final
 related:
   - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-andres/cartera-actual.md
+  - finance/portfolio/cartera-ai-andres/README.md
   - finance/portfolio/cartera-ai/propuesta-actual.md
   - finance/portfolio/cartera-de-andres/cartera-actual.md
   - finance/videos/la-pizarra-de-andres/2026-11-15-acciones-individuales/summary.md
@@ -32,6 +32,10 @@ related:
 > verificadas contra el catálogo con `get_funds`/`search_funds`; los datos de ficha son del NAV
 > 10-12/11/2026. Ninguna cifra de este documento viene de una estimación sin marcar: lo derivado va
 > dicho como derivado y lo que la ficha no publica va `no publicado`.
+>
+> **Un solo documento.** Esta propuesta **es** la cartera: nace de cero, las decisiones son del agente y
+> no hay saldos reales que fotografiar. No existe un `cartera-actual.md` que mantener en paralelo; se abre
+> el día que haya posiciones ejecutadas con precio de compra.
 >
 > **No es asesoramiento financiero.** La decisión es del titular.
 
