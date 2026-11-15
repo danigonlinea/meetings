@@ -52,8 +52,10 @@ related:
 
 ## 2. Cuánta renta variable, y por qué 55
 
-**No hay perfil fijo.** El porcentaje sale de ocho señales medibles; el perfil es la consecuencia, no la
-entrada. Base neutra para horizonte largo sin necesidad de vender: **45 %**.
+**No hay perfil fijo.** El 55 % se fijó el 04/11/2026 con los ocho hechos de la tabla, con una base neutra
+del 45 % para un horizonte largo sin necesidad de vender. La tabla se conserva como **el razonamiento de
+aquella decisión**, no como un marcador: no se repuntúa con ninguna herramienta ni se recalcula cada
+trimestre. Cambiar el % exige un argumento, no una suma de puntos.
 
 | Señal | Dato a 04/11/2026 | Efecto |
 | --- | --- | ---: |
@@ -79,8 +81,7 @@ entrada. Base neutra para horizonte largo sin necesidad de vender: **45 %**.
 | 68 % | 32 % | −28,2 % | 5,88 % | 8,60 % |
 
 Caída = −(40 % × RV + 3 % × RF), el escenario de 2008. Retorno = RV × *earnings yield* 6,65 % + RF ×
-4,24 %; con crecimiento, se suman 4 puntos al EY de la RV. Las cinco filas salen de esas dos fórmulas
-y las reproduce `python3 tools/termometro.py`.
+4,24 %; con crecimiento, se suman 4 puntos al EY de la RV. Las cinco filas salen de esas dos fórmulas.
 
 **Suelo conductual:** −23,4 % sobre 97.000 € son **−22.700 €**. Si en ese momento se vende, el modelo no
 vale: baja a 45 %. La última fila está a propósito: bajar la RF a 31.000 € (32 %) cambiaría el perfil a
@@ -390,22 +391,12 @@ que no es de coste: **un ETF no admite traspaso**. Cada rebalanceo o cambio de e
 
 ## 11. Cuándo se revisa
 
-Trimestral (enero, abril, julio, octubre) y cuando se cumpla una señal. **El modelo de §2 se puntúa
-entero: las señales no son aditivas.**
+Trimestral (enero, abril, julio, octubre) y siempre que cambie un criterio de esta cartera: horizonte,
+necesidad de liquidez, tolerancia a la caída o coste. **El % de renta variable no se mide con ninguna
+herramienta**: es una decisión del titular que se cambia con un argumento escrito y fechado, no con una
+puntuación.
 
-| Señal | Puntos hoy (§2) | Umbral | Puntos si cambia | % de RV |
-| --- | ---: | --- | ---: | ---: |
-| Carry cobrado de la RF | +3 | Por debajo del 2 % a 12 meses (ya activada en 2026) | 0 | **52 %** |
-| Prima de crédito | +3 | HY OAS >700 pb | −3 | **49 %** |
-| Valoración RV | +2 | S&P 500 −20 % con beneficios intactos | +6 | **59 %** |
-| Evento de crédito | −5 | Spreads >700 pb y default en curso | +4 | **64 %** |
-| Prima RV-bono | +2 | *Earnings yield* − bono <1 pp | −10 | **43 %** |
-| Inflación y tipos | +2 | Inflación <2 % y BCE bajando | −3 | **50 %** |
-
-El % de la última columna aplica el delta sobre la puntuación actual: 45 + 10 = 55 hoy, y por ejemplo
-55 − 3 = 52 si el carry vuelve a 0. Se repuntúa el modelo entero, no una señal suelta.
-
-Además, sobre las posiciones nuevas o cambiadas:
+Sobre las posiciones nuevas o cambiadas:
 
 - **Cobas Renta:** a los 24 meses, si no defendió en una caída como en 2022, sale al Neuberger.
 - **Amundi 1-5Y:** a los 3 meses, comparar con el Neuberger. Si la brecha a 3A pasa de 1,5 pp, el
@@ -415,14 +406,12 @@ Además, sobre las posiciones nuevas o cambiadas:
 - **REITs:** si en dos revisiones el sector sigue en valores de 2012-2023, se decide con número.
 - **Rebalanceo** si un bloque se desvía >5 pp; Rock >10 pp de su 78/22.
 
-### 11.1 El marcador de carry cobrado
+### 11.1 El hecho de la renta fija que quedó del 04/11
 
-Se mide **cobrado a 12 meses**, no con el YTW. En 2026 las tres carteras de renta fija pura que se
-quedan —Neuberger 17.000 €, Aegon 7.000 € y Amundi 7.200 €, 31.200 € sobre 36.200 € de RF manual—
-cobraron **0,4 % ponderado** (−0,03 %, +2,39 % y −0,19 %). Con Cobas Renta dentro (+11,7 % a un año)
-el bloque sube a 2,0 %, pero ese es un mixto. Frente a una inflación del 3,8 %: **−3,4 % real**. Por eso
-el modelo ya puntúa +3. Testigo externo: Horos Patrimonio (duración 2,5, 80 % corporativo, esperaba
-4,5 % y lleva <2 %). **Si en enero la RF cobra ≈4,2 %, la señal vuelve a 0 y el modelo baja a 52 %.**
+La RF cobró **0,4 % ponderado a 12 meses** frente a una inflación del 3,8 %: **−3,4 % real**. Es el hecho
+que justificó la señal 7 de §2 y sigue siendo el motivo por el que esta cartera no alarga duración. No es
+un umbral que se recalcule cada trimestre ni un marcador que mueva el %: si algún día la RF cobra lo que
+dice su TIR, será un argumento nuevo, no una casilla que cambie de valor.
 
 ---
 

@@ -96,8 +96,9 @@ Lee `finance/portfolio/cartera-myinvestor/cartera-actual.md` y `propuesta-actual
 - **Encaje**: di si cubre un hueco real (geografía, factor, duración) o si duplica.
 - **Qué habría que quitar**: si no cabe sin vender algo, dilo. Un candidato que exige vender es una
   decisión, no una mejora gratis.
-- Comprueba las señales del §10 con `python3 tools/termometro.py`. Si ninguna cruza su umbral,
-  escribe que la cartera no se toca esta semana.
+- No hay termómetro ni puntuación de señales: el % de RV es un criterio del dueño. Si un hecho de la semana
+  toca el criterio escrito de una cartera (§2 o fichero de talla), dilo con su fuente; si no, escribe que
+  ninguna cartera se toca esta semana.
 
 Prohibido: `recomienda` sobre un vehículo, cualquier cifra de rentabilidad futura y modificar la
 propuesta. El informe es análisis, no asesoramiento.
@@ -123,7 +124,7 @@ Secciones, en este orden:
 2. **Lo importante de la semana** — 5-8 viñetas. Solo lo que cambia una decisión, con hablante y minuto.
 3. **Fondos y acciones mencionados** — tabla agregada con ISIN, comisiones de suscripción y reembolso, postura.
 4. **Candidatos para la cartera** — la tabla del Paso 6 y una frase de veredicto por candidato.
-5. **Señales de la cartera** — salida del termómetro y si algún umbral cruzó.
+5. **Estado de las carteras** — si algún hecho de la semana toca el criterio de una cartera; si no, «sin cambios».
 6. **Pendiente de verificar en local** — lo que el cloud no puede comprobar (catálogo MyInvestor, comisión de plataforma).
 
 ## Paso 8: Cierra y sube

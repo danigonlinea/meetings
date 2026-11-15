@@ -64,7 +64,11 @@ Ninguno de los dos documentos se ha tocado: el informe propone, la cartera la de
 
 ## 5. Señales de la cartera
 
-`python3 tools/termometro.py` (datos del 10/11/2026):
+> **Nota posterior (15/11/2026).** El termómetro se retiró del repositorio ese mismo día: el % de renta
+> variable es un criterio del dueño, no una puntuación de señales. Esta sección se conserva como registro de
+> lo que se informó en la pasada semanal; la tabla no se recalcula.
+
+Datos del 10/11/2026, con el script que ya no existe:
 
 | Señal | Dato | Puntos | Umbral de disparo |
 | --- | --- | ---: | --- |
@@ -87,4 +91,4 @@ Ninguno de los dos documentos se ha tocado: el informe propone, la cartera la de
 - **Comisión de compraventa de acciones en MyInvestor** para las seis posiciones de `cartera-ai` (§5.1): sigue sin publicarse en el MCP; el vídeo no la menciona.
 - **Catálogo de artículos y clases de acumulación**: no aplica esta semana, no hay vehículo nuevo que comprobar.
 - **Sin verificación pendiente del vídeo**: no da ningún dato de producto (ISIN, comisión, patrimonio, rentabilidad) que exija ficha pública. Los tickers de las cuatro empresas citadas sí se han verificado en Yahoo Finance y constan en §3.
-- **Cifras del termómetro**: siguen apoyadas en las fichas del 04/11/2026 y en la foto del 10/11/2026; la próxima revisión trimestral es la que decide si se refrescan.
+- **Cifras de esa tabla**: siguen apoyadas en las fichas del 04/11/2026 y en la foto del 10/11/2026; la próxima revisión trimestral es la que decide si se refrescan.

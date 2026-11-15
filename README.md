@@ -26,7 +26,7 @@ ai/                             IA
     catalogo.md                 catálogo generado de las charlas y su estado
   reports/                      se crea con el primer informe de IA
 reference/                      glosario de ponentes y nombres, glosario técnico
-tools/                          catálogo de webinars, generador de INDEX.md, verificación y termómetro
+tools/                          catálogo de webinars, generador de INDEX.md y verificación
 ytpipe/                         CLI que descarga la transcripción de YouTube
 .agents/skills/                 skills del agente
 AGENTS.md · INDEX.md            enrutado · índice generado de artefactos
@@ -120,11 +120,6 @@ python3 tools/build_index.py
 # definición de hecho: contenido (rápido) y además git
 python3 tools/verify.py
 python3 tools/verify.py --git     # exige árbol limpio y nada sin subir
-
-# termómetro de cartera (re-puntúa las señales del §2 y comprueba que dan el 55 %)
-python3 tools/termometro.py
-python3 tools/termometro.py --rv 45
-python3 tools/termometro.py --check     # solo coherencia; sale 1 si el % ya no cuadra
 ```
 
 No descargar en paralelo: YouTube responde con HTTP 429.

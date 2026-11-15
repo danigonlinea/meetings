@@ -55,11 +55,14 @@ propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva accione
 
 ## Revisión
 
-- `termometro-datos.json` guarda las medidas del día (inflación, €STR, TIR de la RF, spreads y PER).
-- `python3 tools/termometro.py` calcula los derivados, comprueba los umbrales del §10 y saca la tabla
-  de caída y retorno para cada nivel de RV. No decide.
+- Cada cartera se revisa **contra sus propios criterios**, no contra un medidor común: las carteras son
+  independientes entre sí y lo que las distingue es el criterio que siguen (horizonte, necesidad de
+  liquidez, tolerancia a la caída, coste, estilo).
+- El % de renta variable no se puntúa: es una decisión del dueño que se cambia con argumentos, no con una
+  suma de señales. El razonamiento con el que se fijó el 55 % de `cartera-myinvestor/` está en su §2, como
+  historia de esa decisión.
 - La revisión trimestral se escribe con la skill `revision-cartera` y se guarda como
-  `revision-YYYY-QN.md` en esta carpeta; el % de RV lo decide el dueño.
+  `revision-YYYY-QN.md` en esta carpeta.
 
 ## Estado a 15/11/2026
 
