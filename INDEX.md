@@ -5,6 +5,8 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/videos/la-pizarra-de-andres/2026-11-15-acciones-individuales/summary.md` | meeting-summary | finance | 2026-11-15 | Deja de comprar acciones individuales sin entender esto: quién debería y quién no | [acciones-individuales, diversificacion, fondos-indexados, beta, martingala, riesgo, cartera, chicharros, psicologia, la-pizarra-de-andres] |
+| `finance/reports/informe-semanal-2026-11-15.md` | synthesis | finance | 2026-11-15 | Informe semanal — 2026-11-15 | [informe-semanal, candidatos, cartera, acciones-individuales, la-pizarra-de-andres] |
 | `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-14 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `finance/portfolio/cartera-ai/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-14 | Cartera-ai: 150.000 € en nueve fondos indexados y seis acciones, 75/25 | [cartera, cartera-ai, 150k, indexados, acumulacion, myinvestor, acciones, diversificacion, 75-25] |
 | `finance/portfolio/cartera-ai/cartera-actual.md` | portfolio-snapshot | finance | 2026-11-14 | Cartera-ai: foto inicial — 150.000 € en liquidez, sin posiciones | [cartera, cartera-ai, 150k, liquidez, foto] |
@@ -110,6 +112,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/la-pizarra-de-andres/2026-05-14-la-estrategia-que-aplico-en-carteras-de-grandes-patrimonios-puedes/summary.md` | meeting-summary | finance | 2026-05-14 | La Estrategia que APLICO en Carteras de Grandes Patrimonios ¿Puedes copiarla? | [banca-privada, carteras, clases-limpias, fondos, renta-fija, renta-variable, alternativos, andbank] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 104
+**Total de artefactos indexados:** 106
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

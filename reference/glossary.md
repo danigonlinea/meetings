@@ -80,7 +80,7 @@ Fuera de esos casos: `no atribuible con certeza` si el turno es dudoso, `(inferi
 
 | Canal | Propietario / frecuente | Descripción |
 |---|---|---|
-| La Pizarra de Andrés | Andrés | Videos y charlas de inversión, con estilo de monólogo y "pizarra". 81 carpetas, de 2026-05-14 a 2026-11-13. |
+| La Pizarra de Andrés | Andrés | Videos y charlas de inversión, con estilo de monólogo y "pizarra". 82 carpetas, de 2026-05-14 a 2026-11-15. |
 | El Arte de Invertir | Presentador (sin nombre confirmado); invitado Comet | Episodios de inversiones con invitados. 2026-05-20. |
 | Dev Docs Explained | — | Canal de IA (agentes, Claude, LLMs). 2026-10-15: `summary.md` + `informe-agentes-autonomos.md`. |
 | MyInvestor | — | Webinars y entrevistas de gestoras; catálogo en `finance/videos/myinvestor-webinars/catalogo.md`. 2026-10-20. |
