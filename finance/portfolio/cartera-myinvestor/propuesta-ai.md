@@ -304,6 +304,38 @@ precio de venderlo en efectivo sería ≈**2.590 €** de impuestos. Por el puen
 | ETFs MSCI World ex-USA (XUSE, EXUS) | 0,15 % | Un ETF no admite traspaso: cada rebalanceo tributa al 19-23 % |
 | Mixtos baratos tipo Baelo | 0,64 % | Devuelve el control del riesgo a un tercero y duplica el coste del bloque indexado |
 
+### 7.4 ¿Y un fondo value?
+
+**No existe un indexado value en el catálogo.** El único marcado como pasivo, `Core Value Global`
+(ES0124101009), es en realidad un fondo español de gestión activa: **TER no publicado**, 8 % de
+comisión de éxito, nacido en **febrero de 2026** (9 meses de historial) y 15,3 % en liquidez. No hay
+nada que juzgar.
+
+Los value activos que sí existen, con la ficha delante:
+
+| Fondo | TER | 3A | 5A | 2022 | Vol 3A | La pega |
+| --- | --: | --: | --: | --: | --: | --- |
+| Magallanes European Equity R | 1,95 % | +16,0 % | +11,9 % | +5,2 % | 12,7 % | **70 % en industria, materiales y consumo**; 94 % RV, 6 % liquidez |
+| Cobas Palm Harbour Global Value F | 1,02 % | +15,4 % | +8,9 % | −2,6 % | 8,6 % | Global y barato para ser activo, pero **5A 2 pp por debajo del World** |
+| Incometric Equam Global Value A | 0,58 % + éxito 8 % | +11,4 % | +7,7 % | −3,7 % | 11,2 % | Small caps Europa, mínimo 1.000 €, **8 % de éxito** |
+| Value Tree European Equities | 2,45 % + éxito 5 % | +15,3 % | +6,9 % | −7,6 % | 10,3 % | **«Fondo no traspasable»** en la propia ficha |
+| Cobas International P | 2,33 % | +26,5 % | +17,1 % | — | 12,3 % | Soft close y ~40 posiciones: **el único alpha claro, y el más caro** |
+
+El test no es «¿es value?», es **«¿bate a su índice después de 1-2 % de comisión?»**. Magallanes gana
+2,1 pp a 5A y pierde 1,6 pp a 3A; Cobas Palm Harbour e Incometric pierden ≈2 pp a 5A; Value Tree ni se
+puede traspasar. **El único con alpha verificable es Cobas International** (+17,1 % a 5A frente a
++10,9 % del World), y por eso la propuesta anterior lo mantenía con 5.000 €: aquí se cae por **2,33 %
+de TER, soft close y 40 posiciones**.
+
+Lo que la cartera **sí** lleva es el sesgo value barato, sin pagar gestor: Europa al 13,6x con 25 % de
+financieros y 19 % de industria, emergentes al 10,2x, small caps con 18,5 % de industria y 13,8 % de
+financieros, y el 49 % de EE. UU. en vez del 64 % de un ACWI. Un 6 % en un fondo de 40 valores no
+diversifica: sustituye el índice por la opinión de una persona.
+
+Si aun así se quiere uno, el menos malo es **Cobas Palm Harbour Global Value** (1,02 %, global, 5A
++8,9 %, vol 8,6 %, 2022 −2,6 %): 5.000 € que salen del MSCI World, doce líneas y **+45 €/año** de
+coste. Es una apuesta declarada, no una mejora: el fondo lleva 2 pp por detrás del índice a 5 años.
+
 ---
 
 ## 8. Riesgos y límites
