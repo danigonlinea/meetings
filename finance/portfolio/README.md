@@ -1,14 +1,14 @@
 ---
-title: "Cartera: ocho carteras propias y una de referencia"
+title: "Cartera: nueve carteras propias y una de referencia"
 date: 2026-11-15
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-40-max-index, cartera-ai-100-index, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-40-max-index, cartera-ai-100-index, cartera-de-andres]
 status: living
 ---
-# Cartera: ocho carteras propias y una de referencia
+# Cartera: nueve carteras propias y una de referencia
 
-Ocho patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Nueve patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -22,10 +22,11 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-40-max-index/` | **Dos tallas con otras dos condiciones únicas**: máx. 40 % en indexados y nada que reparta dividendos (`100k.md`, 2 indexados + 7 activos, 40 % indexado exacto, 73,0 % RV, 0,79 %; `200k.md`, 2 + 8 con Iberia, 73,6 %, 0,80 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-100-index/` | **Dos tallas con otras dos condiciones únicas**: solo fondos indexados y nada que reparta dividendos (`100k.md`, 7 indexados, 79,9 % RV, 0,1065 %; `200k.md`, 8 indexados con Europa al 5 %, 79,9 %, 0,1085 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-2/` | **Dos tallas con tres condiciones únicas**: nada que reparta dividendos, nada indexado y **ningún fondo ya elegido en otra cartera** (`100k.md`, 9 + 3 fondos, 85 % RV, 1,70 %; `200k.md`, 11 + 3 con Mirabaud e India, 85 %, 1,70 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento, órdenes, 2.000 €/mes y señales) |
+| `cartera-ai-no-indexados-3/` | **Dos tallas con dos condiciones únicas, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 80 % RV, 1,5472 %; `200k.md`, mismos 7 + 3 más crédito corto, 80 %, 1,5268 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
-rebalancea y no compite con las siete anteriores. Se actualiza con la skill `cartera-andres` cuando se
+rebalancea y no compite con las ocho anteriores. Se actualiza con la skill `cartera-andres` cuando se
 ingiere un vídeo de resultados del canal.
 
 `cartera-ai/` y `cartera-ai-andres/` son dos diseños **independientes** del mismo agente con mandatos
@@ -63,6 +64,13 @@ las dos condiciones de `cartera-ai-no-indexados/` —nada indexado, nada que rep
 cartera está construida sobre el universo que queda (Kopernik, Sigma, Janus Henderson, Indépendance AM,
 Nomura, Japan Deep Value, Federated Hermes, AB, Generali CEE, Mirabaud, Jupiter, Twelve Capital, Man, Nordea
 EM Bond). Dos tallas (100k y 200k), 85 % de RV objetivo, 1,6958–1,7030 % de TER.
+
+`cartera-ai-no-indexados-3/` es un séptimo diseño del mismo agente, construido **desde cero** con **dos
+condiciones únicas del titular**: nada que reparta dividendos y ningún fondo indexado **ni ya elegido antes**
+(los 104 ISIN del repositorio como lista negra). No deriva de las otras carteras y no hereda sus reglas.
+Siete motores de RV —global calidad-crecimiento, Europa mid cap, España small/mid, Asia ex-Japón, emergentes,
+IA y Japón small/mid— más tres de renta fija (crédito euro IG, high yield y deuda emergente). Dos tallas:
+100k (10 fondos, 80 % de RV, 1,5472 %) y 200k (11 fondos con crédito euro a corto plazo, 1,5268 %).
 
 ## Reglas
 
@@ -116,6 +124,10 @@ EM Bond). Dos tallas (100k y 200k), 85 % de RV objetivo, 1,6958–1,7030 % de TE
   79,9 % de RV real, 0,1065 %) y 200k (8 indexados con Europa al 5 %, 79,9 %, 0,1085 %). Es la cartera más
   barata del repositorio. Pendientes: horizonte, colchón fuera de la cartera, qué talla se ejecuta y si se
   quiere la línea de Europa (que solo existe en la talla de 200k).
+- **cartera-ai-no-indexados-3:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (7 fondos de RV + 3 de
+  RF, 80 % de RV, 1,5472 %) y 200k (11 fondos con Pictet crédito corto, 1,5268 %). Ninguno de los once ISIN
+  aparece en otra cartera. Pendientes: horizonte, tolerancia a la caída (−32,6 %), comisión de éxito de
+  Okavango y qué talla se ejecuta.
 - **cartera-ai-no-indexados-2:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (9 fondos de RV + 3 de
   RF, 85 % de RV, 1,6958 %) y 200k (11 + 3 con Mirabaud e India, 85 %, 1,7030 %). Ninguno de los 14 fondos
   aparece en otra cartera del repositorio. Pendientes: horizonte, tolerancia a la caída (−38 %), coste real de
