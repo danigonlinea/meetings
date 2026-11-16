@@ -1,14 +1,14 @@
 ---
-title: "Cartera: once carteras propias y una de referencia"
+title: "Cartera: doce carteras propias y una de referencia"
 date: 2026-11-15
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-de-andres]
 status: living
 ---
-# Cartera: once carteras propias y una de referencia
+# Cartera: doce carteras propias y una de referencia
 
-Once patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Doce patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -21,6 +21,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-no-indexados/` | **Dos tallas con dos condiciones únicas**: ningún fondo indexado y ninguno que reparta dividendos (`100k.md`, 10 fondos activos, 80 % RV, 1,37 %; `200k.md`, 12 fondos, 80 %, 1,42 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, aportación mensual y señales) |
 | `cartera-ai-40-max-index/` | **Dos tallas con otras dos condiciones únicas**: máx. 40 % en indexados y nada que reparta dividendos (`100k.md`, 2 indexados + 7 activos, 40 % indexado exacto, 73,0 % RV, 0,79 %; `200k.md`, 2 + 8 con Iberia, 73,6 %, 0,80 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-100-index/` | **Dos tallas con otras dos condiciones únicas**: solo fondos indexados y nada que reparta dividendos (`100k.md`, 7 indexados, 79,9 % RV, 0,1065 %; `200k.md`, 8 indexados con Europa al 5 %, 79,9 %, 0,1085 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento, órdenes, 2.000 €/mes y señales) |
+| `cartera-ai-100-index-2/` | **Dos tallas con las mismas dos condiciones más una tercera**: solo indexados, nada que reparta dividendos y **ningún fondo ya elegido en otra cartera** (`100k.md`, 6 indexados regionales + 3 de RF, 79,8 % RV, 0,1113 %; `200k.md`, mismos 6 + 4 de RF con deuda emergente, 79,8 %, 0,1128 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, lista negra verificada, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-2/` | **Dos tallas con tres condiciones únicas**: nada que reparta dividendos, nada indexado y **ningún fondo ya elegido en otra cartera** (`100k.md`, 9 + 3 fondos, 85 % RV, 1,70 %; `200k.md`, 11 + 3 con Mirabaud e India, 85 %, 1,70 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-3/` | **Dos tallas con dos condiciones únicas, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 80 % RV, 1,5472 %; `200k.md`, mismos 7 + 3 más crédito corto, 80 %, 1,5268 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-4/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,5961 %; `200k.md`, 8 + 3 con small caps EE. UU., 70 %, 1,5851 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
@@ -28,7 +29,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-no-indexados-5/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,3543 %; `200k.md`, 8 + 3 con Valentum, 70 %, 1,3417 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
-rebalancea y no compite con las once anteriores. Se actualiza con la skill `cartera-andres` cuando se
+rebalancea y no compite con las doce anteriores. Se actualiza con la skill `cartera-andres` cuando se
 ingiere un vídeo de resultados del canal.
 
 `cartera-ai/` y `cartera-ai-andres/` son dos diseños **independientes** del mismo agente con mandatos
@@ -59,6 +60,16 @@ mandato son **dos condiciones únicas del titular** —solo fondos indexados y n
 monetarios. Todo indexado, 79,9 % de RV real y 0,1065–0,1085 % de TER: es la cartera más barata del
 repositorio porque el mandato no deja otra cosa que comprar. La talla de 200k añade MSCI Europe al 5 % y baja
 el núcleo al 50 %.
+
+`cartera-ai-100-index-2/` es un décimo diseño independiente del mismo agente, **desde cero**, con las dos
+condiciones anteriores más una tercera que cambia el resultado: **ningún fondo ya elegido en otra cartera**
+(los 136 ISIN del repositorio como lista negra, más comprobación por nombre, gestora y clase hermana). Con el
+núcleo global barato, el único pasivo de small caps, el inmobiliario barato y los tres bonos baratos
+prohibidos, el MSCI World se **replica con cinco indexados regionales a pesos de índice** (52 % Norteamérica,
+9 % Europa ex-UK, 3 % UK, 4 % Japón, 2 % Pacífico ex-Japón) y el bloque de RF se construye con Vanguard y
+otras clases: 79,8 % de RV real y 0,1113–0,1128 % de TER. Dos tallas (100k, 9 fondos; 200k, 10 con deuda
+emergente en divisa fuerte). Sin small caps y sin ligado a inflación: es lo que queda cuando se prohíben los
+fondos ya usados.
 
 `cartera-ai-no-indexados-2/` es un sexto diseño del mismo agente, hermano del anterior y no derivado de él:
 las dos condiciones de `cartera-ai-no-indexados/` —nada indexado, nada que reparta— más una tercera, que
@@ -162,3 +173,8 @@ con Valentum, 68,72 %, 1,3417 %).
   RF, 68,97 % de RV real, 1,3543 %) y 200k (8 + 3 con Valentum, 68,72 %, 1,3417 %). Ninguno de los once ISIN
   aparece en otra cartera. Pendientes: horizonte, tolerancia a la caída (−28,5 %), las comisiones de éxito de
   Polar y Valentum, el desfase semestral de Japón y qué talla se ejecuta.
+- **cartera-ai-100-index-2:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (6 indexados regionales +
+  3 de RF, 79,79 % de RV real, 0,1113 %) y 200k (mismos 6 + 4 de RF con deuda emergente, 79,79 %, 0,1128 %).
+  Ninguno de los diez ISIN aparece en otra cartera. Pendientes: horizonte, tolerancia a la caída (−32,5 %),
+  las tres concesiones de la condición 3 (núcleo en cinco regiones, EPRA al 0,34 %, cero small caps), la
+  relectura de `management_type` por MCP cuando el límite se reponga y qué talla se ejecuta.

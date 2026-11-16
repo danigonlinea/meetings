@@ -20,6 +20,8 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/portfolio/cartera-ai-40-max-index/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai 40 max index 100k: 100.000 €, 40 % indexado como techo y nada que reparta dividendos | [cartera, cartera-ai-40-max-index, 100k, max-40-indexados, sin-dividendos, acumulacion, myinvestor] |
 | `finance/portfolio/cartera-ai-100-index/200k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai 100 index 200k: 200.000 €, mismo mandato y una línea más (Europa) | [cartera, cartera-ai-100-index, 200k, solo-indexados, sin-dividendos, acumulacion, myinvestor] |
 | `finance/portfolio/cartera-ai-100-index/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai 100 index 100k: 100.000 €, solo fondos indexados de acumulación | [cartera, cartera-ai-100-index, 100k, solo-indexados, sin-dividendos, acumulacion, myinvestor] |
+| `finance/portfolio/cartera-ai-100-index-2/200k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai 100 index 2 · 200k: 200.000 €, solo indexados de acumulación y ningún fondo ya elegido | [cartera, cartera-ai-100-index-2, 200k, solo-indexados, sin-dividendos, acumulacion, sin-fondos-repetidos, myinvestor] |
+| `finance/portfolio/cartera-ai-100-index-2/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai 100 index 2 · 100k: 100.000 €, solo indexados de acumulación y ningún fondo ya elegido | [cartera, cartera-ai-100-index-2, 100k, solo-indexados, sin-dividendos, acumulacion, sin-fondos-repetidos, myinvestor] |
 | `finance/videos/la-pizarra-de-andres/2026-11-15-acciones-individuales/summary.md` | meeting-summary | finance | 2026-11-15 | Deja de comprar acciones individuales sin entender esto: quién debería y quién no | [acciones-individuales, diversificacion, fondos-indexados, beta, martingala, riesgo, cartera, chicharros, psicologia, la-pizarra-de-andres] |
 | `finance/reports/informe-semanal-2026-11-15.md` | synthesis | finance | 2026-11-15 | Informe semanal — 2026-11-15 | [informe-semanal, candidatos, cartera, acciones-individuales, la-pizarra-de-andres] |
 | `finance/portfolio/cartera-ai/200k.md` | portfolio-proposal | finance | 2026-11-15 | Cartera-ai 200k: 200.000 € en nueve fondos indexados y seis acciones, 75 % de RV | [cartera, cartera-ai, 200k, indexados, acciones, sin-dividendo, acumulacion, myinvestor] |
@@ -130,6 +132,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/la-pizarra-de-andres/2026-05-14-la-estrategia-que-aplico-en-carteras-de-grandes-patrimonios-puedes/summary.md` | meeting-summary | finance | 2026-05-14 | La Estrategia que APLICO en Carteras de Grandes Patrimonios ¿Puedes copiarla? | [banca-privada, carteras, clases-limpias, fondos, renta-fija, renta-variable, alternativos, andbank] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 124
+**Total de artefactos indexados:** 126
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
