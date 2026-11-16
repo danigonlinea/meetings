@@ -1,14 +1,14 @@
 ---
-title: "Cartera: cuatro carteras propias y una de referencia"
+title: "Cartera: cinco carteras propias y una de referencia"
 date: 2026-11-15
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-de-andres]
 status: living
 ---
-# Cartera: cuatro carteras propias y una de referencia
+# Cartera: cinco carteras propias y una de referencia
 
-Cuatro patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Cinco patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -18,6 +18,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 | `cartera-ai/` | **Tres tallas del mismo diseño** de coste mínimo: `100k.md` (7 fondos + 4 acciones, 74,9 % RV, 0,116 %), `150k.md` (9 + 6, 74,8 %, 0,113 %) y `200k.md` (9 + 6, 74,8 %, 0,113 %) | Un fichero por talla; cada uno es la cartera entera (ISIN/ticker, órdenes, coste, descartes) |
 | `cartera-ai-andres/` | **Dos tallas** con el criterio de Andrés, sin acciones: `100k.md` (11 fondos, 60,3 % RV, 0,46 %) y `200k.md` (14 fondos, 60,0 %, 0,51 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, órdenes, descartes y señales) |
+| `cartera-ai-no-indexados/` | **Dos tallas con dos condiciones únicas**: ningún fondo indexado y ninguno que reparta dividendos (`100k.md`, 10 fondos activos, 80 % RV, 1,37 %; `200k.md`, 12 fondos, 80 %, 1,42 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, aportación mensual y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
@@ -35,6 +36,10 @@ cartera aparte: cuatro acciones individuales sin dividendo mencionadas en el cor
 múltiplo y señal de invalidación, pensadas para convivir con la cartera una vez rebalanceada a 55/45.
 No se financia vendiendo ninguna de las dos carteras ni se consolida con ellas. La cartera con acciones
 propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva acciones a propósito.
+
+`cartera-ai-no-indexados/` es un tercer diseño independiente del mismo agente, con **dos condiciones únicas
+del titular** —ningún fondo indexado, ningún fondo que reparta dividendos— y **ninguna regla heredada** del
+resto del repositorio. Dos tallas (100k y 200k), sin acciones y sin ETF. No se suma ni compite con las otras.
 
 ## Reglas
 
@@ -64,7 +69,7 @@ propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva accione
 - La revisión trimestral se escribe con la skill `revision-cartera` y se guarda como
   `revision-YYYY-QN.md` en esta carpeta.
 
-## Estado a 15/11/2026
+## Estado a 16/11/2026
 
 - **MyInvestor:** propuesta cerrada al 55,0% de RV / 45,0% de RF, 0,438% de TER, 14 órdenes en dos
   sesiones. Pendientes: dimensionar los gastos mensuales del colchón y aguantar el −23,4% (−22.700 €).
@@ -77,3 +82,6 @@ propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva accione
 - **cartera-ai-andres:** dos tallas cerradas el 15/11/2026, sin ejecutar. 100k (11 fondos, 60,3 % de RV,
   0,46 %) y 200k (14 fondos, 60,0 %, 0,51 %), con dos fondos cuyo TER no publica el MCP. Pendientes:
   horizonte real, coste de Myinvestor Value y Kaizen, y si se quiere un bloque de tres acciones.
+- **cartera-ai-no-indexados:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (10 fondos activos,
+  80 % de RV, 1,37 %) y 200k (12 fondos, 80 %, 1,42 %). Pendientes: horizonte, colchón fuera de la cartera y
+  cuál de las dos tallas se ejecuta; el coste de Alken lleva comisión de éxito no estimable.
