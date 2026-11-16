@@ -1,14 +1,14 @@
 ---
-title: "Cartera: diez carteras propias y una de referencia"
+title: "Cartera: once carteras propias y una de referencia"
 date: 2026-11-15
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-40-max-index, cartera-ai-100-index, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-de-andres]
 status: living
 ---
-# Cartera: diez carteras propias y una de referencia
+# Cartera: once carteras propias y una de referencia
 
-Diez patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Once patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -25,9 +25,10 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-no-indexados-3/` | **Dos tallas con dos condiciones únicas, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 80 % RV, 1,5472 %; `200k.md`, mismos 7 + 3 más crédito corto, 80 %, 1,5268 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-4/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,5961 %; `200k.md`, 8 + 3 con small caps EE. UU., 70 %, 1,5851 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
+| `cartera-ai-no-indexados-5/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,3543 %; `200k.md`, 8 + 3 con Valentum, 70 %, 1,3417 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
-rebalancea y no compite con las diez anteriores. Se actualiza con la skill `cartera-andres` cuando se
+rebalancea y no compite con las once anteriores. Se actualiza con la skill `cartera-andres` cuando se
 ingiere un vídeo de resultados del canal.
 
 `cartera-ai/` y `cartera-ai-andres/` son dos diseños **independientes** del mismo agente con mandatos
@@ -81,6 +82,17 @@ small caps y un sector, y de ahí la única decisión que se separa de las demá
 renta variable baja al 70 %** porque el conjunto disponible tiene más riesgo idiosincrático por euro que un
 núcleo global. Dos tallas: 100k (10 fondos, 70 % de RV, 1,5961 %) y 200k (11 fondos con small caps de
 EE. UU., 1,5851 %). El diseño no hereda ninguna regla del repositorio.
+
+`cartera-ai-no-indexados-5/` es un noveno diseño del mismo agente, también **desde cero** y con las mismas
+dos condiciones —nada que reparta dividendos, nada indexado y **ningún fondo ya elegido antes**—, aplicadas
+sobre el mismo catálogo ya gastado por las cuatro propuestas hermanas (los **125 ISIN** del repositorio como
+lista negra). Comparte con la cartera 4 el 70 % de RV y la razón —lo que queda libre es nicho de país, small
+caps y sector—, pero no comparte ni un fondo: el núcleo global pasa a T. Rowe Price Global Value, Europa a
+Brandes, EE. UU. a Robeco BP Large Cap, Japón al CROCI de DWS, los emergentes a Ashoka WhiteOak, China a
+Schroders, el satélite a Polar Capital Healthcare y la renta fija a Rothschild, DWS y Candriam. **El sesgo
+value es deliberado y está escrito**: es lo que deja libre el catálogo cuando se excluyen los indexados y las
+casas de crecimiento ya usadas. Dos tallas: 100k (10 fondos, 68,97 % de RV real, 1,3543 %) y 200k (11 fondos
+con Valentum, 68,72 %, 1,3417 %).
 
 ## Reglas
 
@@ -146,3 +158,7 @@ EE. UU., 1,5851 %). El diseño no hereda ninguna regla del repositorio.
   RF, 70 % de RV, 1,5961 %) y 200k (8 + 3 con small caps de EE. UU., 1,5851 %). Ninguno de los once ISIN
   aparece en otra cartera. Pendientes: horizonte, tolerancia a la caída (−27,9 %), el 18,7 % de caja de
   PIMCO y qué talla se ejecuta.
+- **cartera-ai-no-indexados-5:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (7 fondos de RV + 3 de
+  RF, 68,97 % de RV real, 1,3543 %) y 200k (8 + 3 con Valentum, 68,72 %, 1,3417 %). Ninguno de los once ISIN
+  aparece en otra cartera. Pendientes: horizonte, tolerancia a la caída (−28,5 %), las comisiones de éxito de
+  Polar y Valentum, el desfase semestral de Japón y qué talla se ejecuta.
