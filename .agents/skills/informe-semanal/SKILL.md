@@ -86,8 +86,8 @@ Reglas:
 
 ## Paso 6: Encaje en la cartera
 
-Lee `finance/portfolio/cartera-myinvestor/cartera-actual.md` y `propuesta-actual.md` (§4, §5, §8,
-§10). Para cada candidato escribe:
+Lee `finance/portfolio/cartera-myinvestor/cartera-actual.md` (inventario de los 18 fondos, sin reglas) y
+`propuesta-actual.md` (§4, §5, §8, §10). Para cada candidato escribe:
 
 | Candidato | ISIN | Clase de activo | Solape con la cartera | Coste (TER + entrada/salida) | Encaje | Qué habría que quitar |
 | --- | --- | --- | --- | --- | --- | --- |
