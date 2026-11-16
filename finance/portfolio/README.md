@@ -1,14 +1,14 @@
 ---
-title: "Cartera: cinco carteras propias y una de referencia"
+title: "Cartera: seis carteras propias y una de referencia"
 date: 2026-11-15
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-40-max-index, cartera-de-andres]
 status: living
 ---
-# Cartera: cinco carteras propias y una de referencia
+# Cartera: seis carteras propias y una de referencia
 
-Cinco patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Seis patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -19,10 +19,11 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai/` | **Tres tallas del mismo diseño** de coste mínimo: `100k.md` (7 fondos + 4 acciones, 74,9 % RV, 0,116 %), `150k.md` (9 + 6, 74,8 %, 0,113 %) y `200k.md` (9 + 6, 74,8 %, 0,113 %) | Un fichero por talla; cada uno es la cartera entera (ISIN/ticker, órdenes, coste, descartes) |
 | `cartera-ai-andres/` | **Dos tallas** con el criterio de Andrés, sin acciones: `100k.md` (11 fondos, 60,3 % RV, 0,46 %) y `200k.md` (14 fondos, 60,0 %, 0,51 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, órdenes, descartes y señales) |
 | `cartera-ai-no-indexados/` | **Dos tallas con dos condiciones únicas**: ningún fondo indexado y ninguno que reparta dividendos (`100k.md`, 10 fondos activos, 80 % RV, 1,37 %; `200k.md`, 12 fondos, 80 %, 1,42 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, aportación mensual y señales) |
+| `cartera-ai-40-max-index/` | **Dos tallas con otras dos condiciones únicas**: máx. 40 % en indexados y nada que reparta dividendos (`100k.md`, 2 indexados + 7 activos, 40 % indexado exacto, 73,0 % RV, 0,79 %; `200k.md`, 2 + 8 con Iberia, 73,6 %, 0,80 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento, órdenes, 2.000 €/mes y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
-rebalancea y no compite con las cuatro anteriores. Se actualiza con la skill `cartera-andres` cuando se
+rebalancea y no compite con las cinco anteriores. Se actualiza con la skill `cartera-andres` cuando se
 ingiere un vídeo de resultados del canal.
 
 `cartera-ai/` y `cartera-ai-andres/` son dos diseños **independientes** del mismo agente con mandatos
@@ -40,6 +41,12 @@ propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva accione
 `cartera-ai-no-indexados/` es un tercer diseño independiente del mismo agente, con **dos condiciones únicas
 del titular** —ningún fondo indexado, ningún fondo que reparta dividendos— y **ninguna regla heredada** del
 resto del repositorio. Dos tallas (100k y 200k), sin acciones y sin ETF. No se suma ni compite con las otras.
+
+`cartera-ai-40-max-index/` es el cuarto diseño del mismo agente y no deriva de los anteriores: su mandato es
+**máximo 40 % en indexados** (usado al 40,0 % exacto: 28 % MSCI World + 12 % MSCI EM) y **nada que reparta
+dividendos**, también sin reglas heredadas. Dos tallas (100k y 200k), sin acciones ni ETF, 73,0–73,6 % de RV
+real y 0,79–0,80 % de TER. El techo del 40 % es una obligación viva: si el bloque indexado lo supera por
+revalorización, se corrige desviando aportaciones, no vendiendo.
 
 ## Reglas
 
@@ -85,3 +92,7 @@ resto del repositorio. Dos tallas (100k y 200k), sin acciones y sin ETF. No se s
 - **cartera-ai-no-indexados:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (10 fondos activos,
   80 % de RV, 1,37 %) y 200k (12 fondos, 80 %, 1,42 %). Pendientes: horizonte, colchón fuera de la cartera y
   cuál de las dos tallas se ejecuta; el coste de Alken lleva comisión de éxito no estimable.
+- **cartera-ai-40-max-index:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (2 indexados + 7
+  activos, 40,0 % indexado, 73,0 % de RV real, 0,79 %) y 200k (2 + 8 con Magallanes Iberia, 73,6 %, 0,80 %).
+  Pendientes: horizonte, si el techo del 40 % se queda como restricción permanente y cuál de las dos tallas
+  se ejecuta.
