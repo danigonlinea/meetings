@@ -6,6 +6,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
 | `finance/portfolio/cartera-myinvestor/propuesta-ai.md` | portfolio-proposal | finance | 2026-11-16 | Propuesta AI: 60/40 global indexado en once fondos (90.000 €) | [cartera, propuesta, 60-40, indexado, rock, traspaso, myinvestor, renta-fija, emergentes, reits, small-cap] |
+| `finance/portfolio/cartera-myinvestor/cartera-ai-manteniendo-rock-y-montario.md` | portfolio-proposal | finance | 2026-11-16 | Cartera AI manteniendo Rock y el monetario: 55/45 en diez fondos activos (90.000 €) | [cartera, propuesta, 55-45, activo, sin-indexados, rock, monetario, traspaso, myinvestor, renta-fija, valor, brandes, capital-group, croci, ashoka] |
 | `finance/portfolio/cartera-myinvestor/cartera-ai-final-sin-restricciones.md` | portfolio-proposal | finance | 2026-11-16 | Cartera definitiva sin restricciones: 60/40 en diez fondos (90.000 €) | [cartera, definitiva, sin-restricciones, myinvestor, rock, indexados, traspaso, cobas] |
 | `finance/portfolio/cartera-ai-no-indexados/200k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai no indexados 200k: 200.000 € en doce fondos activos que acumulan, 80 % de RV | [cartera, cartera-ai-no-indexados, 200k, gestion-activa, sin-indexados, acumulacion, myinvestor] |
 | `finance/portfolio/cartera-ai-no-indexados/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai no indexados 100k: 100.000 € en diez fondos activos que acumulan, 80 % de RV | [cartera, cartera-ai-no-indexados, 100k, gestion-activa, sin-indexados, acumulacion, myinvestor] |
@@ -139,6 +140,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/la-pizarra-de-andres/2026-05-14-la-estrategia-que-aplico-en-carteras-de-grandes-patrimonios-puedes/summary.md` | meeting-summary | finance | 2026-05-14 | La Estrategia que APLICO en Carteras de Grandes Patrimonios ¿Puedes copiarla? | [banca-privada, carteras, clases-limpias, fondos, renta-fija, renta-variable, alternativos, andbank] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 133
+**Total de artefactos indexados:** 134
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
