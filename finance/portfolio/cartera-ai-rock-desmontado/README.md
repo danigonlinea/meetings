@@ -39,7 +39,12 @@ ejecuta sobre el mismo dinero a la vez que ella.
 
 El fichero es la cartera entera: ISIN, pesos, razón fondo a fondo con su pega, métricas contra las tres
 carteras de referencia, el precio de cada decisión en euros al año, las 20 órdenes en dos fases (Rock por el
-monetario puente), descartes con número y señales de revisión.
+monetario puente), el **plan de aportaciones de 1.000 €/mes** con cadencias y mínimos, descartes con número y
+señales de revisión.
+
+**Mandato confirmado el 16/11/2026:** horizonte **> 10 años**, **1.000 €/mes** de aportación, el dinero
+invertido no se necesita y el colchón de 10.000 € cubre **12 meses de gastos** (833 €/mes). Con eso, el 55 %
+de RV y el tamaño del colchón dejan de ser supuestos: son decisiones cerradas.
 
 ## El diseño en una línea
 
