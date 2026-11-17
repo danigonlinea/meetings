@@ -174,8 +174,8 @@ ESG. Datos del buscador público de la plataforma (2.587 productos), porque el M
 - **MyInvestor:** propuesta cerrada al 55,0% de RV / 45,0% de RF, 0,438% de TER, 14 órdenes en dos
   sesiones. Pendientes: dimensionar los gastos mensuales del colchón y aguantar el −23,4% (−22.700 €).
   Dos alternativas fechadas el 16/11, sin ejecutar y sin sustituir a la vigente: `propuesta-ai.md` y
-  `cartera-ai-manteniendo-rock-y-montario.md` (esta última con mandato propio: Rock y el monetario no se
-  tocan y el bloque manual es de doce fondos, 0,632 % de coste total).
+  `cartera-ai-manteniendo-rock-y-montario.md` (esta última con mandato propio: Rock como pieza de
+  indexado, monetario de 14.000 € en dos peldaños y trece fondos activos, 0,615 % de coste total).
 - **Renta 4:** auditoría nueva. 15,3% de RV real, 0,83% de coste (287 €/año) y 65,7% del patrimonio en
   bonos corporativos. Recomendación: **Kaizen se queda** y se recorta al 25%, con 3.618 € a un indexado
   global (21,2% de RV, 0,76% de coste). Pendiente: confirmar el recorte y la clase del fondo de destino.
