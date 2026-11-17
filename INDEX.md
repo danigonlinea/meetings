@@ -7,6 +7,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | --- | --- | --- | --- | --- | --- |
 | `finance/portfolio/cartera-myinvestor/propuesta-ai.md` | portfolio-proposal | finance | 2026-11-16 | Propuesta AI: 60/40 global indexado en once fondos (90.000 €) | [cartera, propuesta, 60-40, indexado, rock, traspaso, myinvestor, renta-fija, emergentes, reits, small-cap] |
 | `finance/portfolio/cartera-ai-rock-index-value-todo/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai rock-index-value-todo: 55/45 con Rock, monetario escalonado y trece fondos no indexados (100.000 €) | [cartera, propuesta, 55-45, activo, rock, monetario, no-indexados, traspaso, myinvestor, renta-fija, cat-bonds, robeco, fundsmith, croci, ashoka] |
+| `finance/portfolio/cartera-ai-rock-desmontado/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai rock-desmontado: 55/45 con núcleo indexado y dos satélites activos (100.000 €) | [cartera, propuesta, 55-45, rock-desmontado, indexado, satelite-activo, monetario, traspaso, myinvestor, cat-bonds, small-caps, reits] |
 | `finance/portfolio/cartera-ai-no-indexados/200k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai no indexados 200k: 200.000 € en doce fondos activos que acumulan, 80 % de RV | [cartera, cartera-ai-no-indexados, 200k, gestion-activa, sin-indexados, acumulacion, myinvestor] |
 | `finance/portfolio/cartera-ai-no-indexados/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai no indexados 100k: 100.000 € en diez fondos activos que acumulan, 80 % de RV | [cartera, cartera-ai-no-indexados, 100k, gestion-activa, sin-indexados, acumulacion, myinvestor] |
 | `finance/portfolio/cartera-ai-no-indexados-5/200k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai no indexados 5 (200k): 200.000 € en once fondos activos, sin dividendos, sin indexados y sin repetir ninguno | [cartera, cartera-ai-no-indexados-5, 200k, gestion-activa, sin-indexados, sin-dividendos, sin-repetir-fondos, acumulacion, myinvestor] |
@@ -139,6 +140,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/la-pizarra-de-andres/2026-05-14-la-estrategia-que-aplico-en-carteras-de-grandes-patrimonios-puedes/summary.md` | meeting-summary | finance | 2026-05-14 | La Estrategia que APLICO en Carteras de Grandes Patrimonios ¿Puedes copiarla? | [banca-privada, carteras, clases-limpias, fondos, renta-fija, renta-variable, alternativos, andbank] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 133
+**Total de artefactos indexados:** 134
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

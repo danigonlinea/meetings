@@ -1,14 +1,14 @@
 ---
-title: "Cartera: dieciséis carteras propias y una de referencia"
+title: "Cartera: diecisiete carteras propias y una de referencia"
 date: 2026-11-15
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-de-andres]
 status: living
 ---
-# Cartera: dieciséis carteras propias y una de referencia
+# Cartera: diecisiete carteras propias y una de referencia
 
-Dieciséis patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Diecisiete patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -31,9 +31,10 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 | `cartera-ai-no-indexados-5/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,3543 %; `200k.md`, 8 + 3 con Valentum, 70 %, 1,3417 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-rock-index-value-todo/` | **Una talla, 100.000 €**, con **Rock como pieza de indexado** (30 %, intacta), **monetario escalonado de 14.000 €** (Groupama €STR + DWS Euro Ultra Short) y **trece fondos que no replican índices**: 55,5 % de RV real, 0,615 % de coste total, −23,54 % de caída de manual | Un fichero (`100k.md`): la cartera entera (ISIN, razón fondo a fondo, métricas, 17 traspasos, descartes con número y señales) |
+| `cartera-ai-rock-desmontado/` | **Una talla, 100.000 €**, **Rock desmontado por traspaso** y su cupo gastado en índice limpio: núcleo MSCI World al 0,06 %, emergentes, small caps y REITs indexados, RF corta indexada, monetario de 14.500 € y **dos satélites activos** (Europa low-vol y cat bonds). 55,31 % de RV real, **236,10 €/año (0,236 %)**, −23,46 % de caída | Un fichero (`100k.md`): la cartera entera (ISIN, métricas contra las otras propuestas, 20 traspasos en dos fases y descartes con número) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
-rebalancea y no compite con las quince anteriores. Se actualiza con la skill `cartera-andres` cuando se
+rebalancea y no compite con las dieciséis anteriores. Se actualiza con la skill `cartera-andres` cuando se
 ingiere un vídeo de resultados del canal.
 
 `cartera-ai/` y `cartera-ai-andres/` son dos diseños **independientes** del mismo agente con mandatos
@@ -218,6 +219,7 @@ ESG. Datos del buscador público de la plataforma (2.587 productos), porque el M
   las tres concesiones de la condición 3 (núcleo en cinco regiones, EPRA al 0,34 %, cero small caps), la
   relectura de `management_type` por MCP cuando el límite se reponga y qué talla se ejecuta.
 - **cartera-ai-rock-index-value-todo:** una talla cerrada el 16/11/2026, sin ejecutar. 100.000 € con Rock intacta al 30 %, monetario de 14.000 € en dos peldaños y trece fondos activos: 55,5 % de RV real, 0,615 % de coste total, −21.184 € de caída. Pendientes: que Rock se quede como decisión estable, dimensionar el colchón contra gastos reales y qué se hace con la aportación nueva.
+- **cartera-ai-rock-desmontado:** una talla cerrada el 16/11/2026, sin ejecutar. 90.000 € invertibles: núcleo indexado al 0,06 %, RF corta indexada, monetario de 14.500 € y dos satélites activos. 55,31 % de RV real y **236,10 €/año (0,236 %)**. Pendientes: confirmar que el desmontaje de Rock se registra como traspaso al monetario puente, dimensionar el colchón y si se quieren los dos satélites o la variante 100 % indexada (126 €/año).
 
 - **cartera-ai-100-index-3:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (5 indexados regionales + 2
   de RF, 79,57 % de RV real, 0,2086 %) y 200k (los mismos siete fondos y pesos, 0,2086 %). Ninguno de los siete
