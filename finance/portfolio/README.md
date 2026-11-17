@@ -14,7 +14,7 @@ se escribe en un documento aparte con su propia fecha.
 
 | Carpeta | Qué es | Documentos |
 | --- | --- | --- |
-| `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 04/11/2026**: 55/45 en diez fondos solo, 424,80 €/año de coste real, catorce órdenes en §7) + `propuesta-acciones.md` (complemento de acciones) + tres **alternativas fechadas del 16/11** que no sustituyen a la vigente: `propuesta-ai.md` (59,6 % RV, 0,224 %), `cartera-ai-final-sin-restricciones.md` (59,0 %, 0,298 %) y `cartera-ai-manteniendo-rock-y-montario.md` (55,5 %, 0,774 %, con Rock y el monetario intactos y el bloque manual 100 % activo) |
+| `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 04/11/2026**: 55/45 en diez fondos solo, 424,80 €/año de coste real, catorce órdenes en §7) + `propuesta-acciones.md` (complemento de acciones) + dos **alternativas fechadas del 16/11** que no sustituyen a la vigente: `propuesta-ai.md` (59,6 % RV, 0,224 %, Rock desmontado) y `cartera-ai-manteniendo-rock-y-montario.md` (55,5 %, 0,632 %, con Rock y el monetario intactos y los 60.000 € manuales decididos con libertad total) |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 | `cartera-ai/` | **Tres tallas del mismo diseño** de coste mínimo: `100k.md` (7 fondos + 4 acciones, 74,9 % RV, 0,116 %), `150k.md` (9 + 6, 74,8 %, 0,113 %) y `200k.md` (9 + 6, 74,8 %, 0,113 %) | Un fichero por talla; cada uno es la cartera entera (ISIN/ticker, órdenes, coste, descartes) |
 | `cartera-ai-andres/` | **Dos tallas** con el criterio de Andrés, sin acciones: `100k.md` (11 fondos, 60,3 % RV, 0,46 %) y `200k.md` (14 fondos, 60,0 %, 0,51 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, órdenes, descartes y señales) |
@@ -173,9 +173,9 @@ ESG. Datos del buscador público de la plataforma (2.587 productos), porque el M
 
 - **MyInvestor:** propuesta cerrada al 55,0% de RV / 45,0% de RF, 0,438% de TER, 14 órdenes en dos
   sesiones. Pendientes: dimensionar los gastos mensuales del colchón y aguantar el −23,4% (−22.700 €).
-  Tres alternativas fechadas el 16/11, sin ejecutar y sin sustituir a la vigente: `propuesta-ai.md`,
-  `cartera-ai-final-sin-restricciones.md` y `cartera-ai-manteniendo-rock-y-montario.md` (esta última con
-  mandato propio: Rock y el monetario no se tocan).
+  Dos alternativas fechadas el 16/11, sin ejecutar y sin sustituir a la vigente: `propuesta-ai.md` y
+  `cartera-ai-manteniendo-rock-y-montario.md` (esta última con mandato propio: Rock y el monetario no se
+  tocan y el bloque manual es de doce fondos, 0,632 % de coste total).
 - **Renta 4:** auditoría nueva. 15,3% de RV real, 0,83% de coste (287 €/año) y 65,7% del patrimonio en
   bonos corporativos. Recomendación: **Kaizen se queda** y se recorta al 25%, con 3.618 € a un indexado
   global (21,2% de RV, 0,76% de coste). Pendiente: confirmar el recorte y la clase del fondo de destino.
