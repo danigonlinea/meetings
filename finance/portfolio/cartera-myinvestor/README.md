@@ -20,7 +20,6 @@ material financiero (vídeos, webinars, informes) está en las otras subcarpetas
 | `cartera-actual.md` | **Fotografía congelada** del estado real a 30/10/2026: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad de las posiciones | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
 | `propuesta-actual.md` | **La cartera vigente y única** (04/11/2026): el razonamiento del 55 % con ocho hechos, diez fondos manuales **solo fondos, cero ETFs**, catorce órdenes, métricas, riesgos, descartes y revisión trimestral | **Sí**, es el documento de trabajo |
 | `propuesta-ai.md` | **Alternativa fechada de un agente** (16/11/2026): rediseño desde cero a 60/40 en once fondos indexados, con Rock desmontado por traspaso. **No sustituye a `propuesta-actual.md`**: es una propuesta para decidir, no la cartera vigente | Sí, mientras se debate; si se adopta, se resuelve en `propuesta-actual.md` |
-| `cartera-ai-manteniendo-rock-y-montario.md` | **Segunda alternativa fechada** (16/11/2026): mandato del titular — **Rock se queda** (30 %), **monetario escalonado de 14.000 €** (Groupama + ultra-corto) y el resto en **trece fondos que no replican índices**. 55,5 % de RV, **614,70 €/año** (0,615 %), diecisiete traspasos | Sí, mientras se debate; si se adopta, se resuelve en `propuesta-actual.md` |
 | `propuesta-acciones.md` | **Bloque de riesgo aparte**: cuatro acciones individuales sin dividendo. No forma parte de la cartera de fondos, no entra en su look-through y no se rebalancea contra ella | Sí, pero nunca se suma a la cartera de fondos |
 
 **Ya no hay anexos.** La carpeta llegó a tener cinco propuestas paralelas con cinco cifras distintas de
@@ -33,11 +32,10 @@ La única excepción es `propuesta-ai.md` (16/11/2026): un encargo explícito de
 contrastar con la vigente. Se mantiene como documento fechado y cerrado; cualquier idea que se adopte
 de ella pasa a `propuesta-actual.md`, no se convierte en una tercera propuesta.
 
-Con la misma naturaleza —documento fechado, no cartera vigente— convive `cartera-ai-manteniendo-rock-y-montario.md`
-(16/11/2026), construida sobre `cartera-actual.md` con **las reglas del titular y ninguna más**: Rock se
-queda como pieza de indexado, el monetario se amplía a dos peldaños y los 60.000 € manuales se deciden con
-libertad total (trece fondos, 0,615 % de coste total). Ninguna se ejecuta a la vez que otra: el titular
-elige una, y la que se adopte se resuelve en `propuesta-actual.md`.
+La variante con **Rock como pieza fija y monetario escalonado** se movió el 16/11 a su propia carpeta:
+`finance/portfolio/cartera-ai-rock-index-value-todo/` (13 fondos activos, 0,615 % de coste total).
+Ninguna se ejecuta a la vez que otra: el titular elige una, y la que se adopte se resuelve en
+`propuesta-actual.md`.
 
 El diagnóstico, el veredicto frente a las fuentes y las revisiones adversariales **no viven en ficheros
 aparte**: sus conclusiones están dentro de la propuesta (§2, §5, §8, §10) y el debate que las produjo, en
