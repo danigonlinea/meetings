@@ -4,7 +4,7 @@ date: 2026-11-16
 type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-ai-rock-desmontado, mapa, indexado, satelite-activo, rock, monetario, myinvestor]
-status: final
+status: propuesta
 related:
   - finance/portfolio/README.md
   - finance/portfolio/cartera-ai-rock-desmontado/100k.md
@@ -28,6 +28,10 @@ su cupo de indexado se libera para comprar el núcleo al precio real de un índi
 
 **Qué no es.** No es la cartera vigente del titular (esa es `cartera-myinvestor/propuesta-actual.md`) y no se
 ejecuta sobre el mismo dinero a la vez que ella.
+
+**Estado: cerrada y aparcada el 16/11/2026.** El diseño está completo y no se ejecuta: el titular no está
+convencido del **69,4 % de indexado** y la decisión queda para una discusión posterior. Los tres niveles —69,4 %
+(236,10 €/año), ~55 % (≈420 €) y ~38 % (≈495 €)— están tabulados con su alfa de empate en §14 de `100k.md`.
 
 **No es asesoramiento financiero.** La decisión es del titular.
 

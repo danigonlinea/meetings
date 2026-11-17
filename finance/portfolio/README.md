@@ -219,7 +219,11 @@ ESG. Datos del buscador público de la plataforma (2.587 productos), porque el M
   las tres concesiones de la condición 3 (núcleo en cinco regiones, EPRA al 0,34 %, cero small caps), la
   relectura de `management_type` por MCP cuando el límite se reponga y qué talla se ejecuta.
 - **cartera-ai-rock-index-value-todo:** una talla cerrada el 16/11/2026, sin ejecutar. 100.000 € con Rock intacta al 30 %, monetario de 14.000 € en dos peldaños y trece fondos activos: 55,5 % de RV real, 0,615 % de coste total, −21.184 € de caída. Pendientes: que Rock se quede como decisión estable, dimensionar el colchón contra gastos reales y qué se hace con la aportación nueva.
-- **cartera-ai-rock-desmontado:** una talla cerrada el 16/11/2026, sin ejecutar. 90.000 € invertibles y
+- **cartera-ai-rock-desmontado:** una talla cerrada el 16/11/2026 y **aparcada sin ejecutar**: 90.000 €
+  invertibles y 1.000 €/mes, núcleo indexado al 0,06 %, RF corta indexada, monetario de 14.500 € y dos satélites
+  activos. 55,31 % de RV real, **236,10 €/año (0,236 %)** y 69,4 % de indexado. **Bloqueo:** el titular no está
+  convencido de llevar tanto indexado; los tres niveles (69,4 %, ~55 % y ~38 %) están con su coste y su alfa de
+  empate en §14 del documento. Pendiente además confirmar el traspaso de Rock al monetario puente.
   **1.000 €/mes** de aportación: núcleo indexado al 0,06 %, RF corta indexada, monetario de 14.500 € y dos
   satélites activos. 55,31 % de RV real, **236,10 €/año (0,236 %)**, horizonte > 10 años y colchón de 10.000 €
   (= 12 meses de gastos, 833 €/mes). Pendientes: confirmar que el desmontaje de Rock se registra como traspaso
