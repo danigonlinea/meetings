@@ -4,7 +4,7 @@ date: 2026-11-18
 type: portfolio-proposal
 category: finance
 tags: [cartera, propuesta, pieza-no-edificio, 38-indexado, value, magallanes, horos, cobas-large-cap, renta-fija, rock-desmontado, traspaso, myinvestor, aportaciones]
-status: propuesta
+status: final
 related:
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
   - finance/portfolio/cartera-myinvestor/README.md
@@ -24,6 +24,11 @@ related:
 > pidió el 18/11/2026: el índice como **pieza**, no como edificio. Nada más del diseño cambia: el
 > desmontaje de Rock, el horizonte de más de 10 años, los 1.000 €/mes y el colchón de 12 meses siguen
 > igual.
+>
+> **Estado: cerrada y final el 18/11/2026.** No queda ninguna decisión de diseño abierta —vehículos, pesos,
+> coste, órdenes, aportaciones, bandas, escenarios y la prueba de 2029 están escritos—. Lo único que falta es
+> la ejecución, que es del titular. Sustituye como cartera vigente a `propuesta-actual.md` (04/11) y retira
+> `propuesta-ai.md` (16/11); las dos siguen en el historial de git.
 >
 > **Qué es y qué no.** Es la cartera que hay que ejecutar mañana, con las 23 órdenes contadas. No es
 > asesoramiento financiero: la decisión y la ejecución son del titular.
