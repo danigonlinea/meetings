@@ -18,7 +18,7 @@ subcarpetas de `finance/`.
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
 | `cartera-actual.md` | **Fotografía congelada** del estado real a 30/10/2026: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad de las posiciones | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
-| `propuesta-pieza.md` | **La cartera vigente y única** (18/11/2026): **38,3 % de indexado como pieza**, 61,7 % en tres convicciones value y cinco papeles de crédito, 54,6 % de RV, 529,90 €/año, Rock desmontado por traspaso, 23 órdenes, plan de 1.000 €/mes, seis escenarios preparados y la prueba que invalida el diseño en 2029 | **Sí**, es el documento de trabajo |
+| `propuesta-pieza.md` | **La cartera vigente y única** (18/11/2026, final): **38,3 % de indexado como pieza**, 61,7 % en tres convicciones value y cinco papeles de crédito, 54,6 % de RV, 529,90 €/año, Rock desmontado por traspaso, 23 órdenes, plan de 1.000 €/mes, seis escenarios preparados y la prueba que invalida el diseño en 2029. **⚠️ Pendiente de la revisión del titular** (pedida el 18/11): **no se ejecuta ninguna orden hasta esa revisión** | **Sí**, es el documento de trabajo |
 | `propuesta-actual.md` | **Superada** (04/11/2026, nivel 55/45 con Rock intacto). Se conserva por su **§2**, que es la fuente del criterio del 55 % citado por otras propuestas | **No.** Solo se corrige una errata de datos |
 | `propuesta-acciones.md` | **Bloque de riesgo aparte**: cuatro acciones individuales sin dividendo. No forma parte de la cartera de fondos, no entra en su look-through y no se rebalancea contra ella | Sí, pero nunca se suma a la cartera de fondos |
 
@@ -41,6 +41,9 @@ git. Un documento por rol evita las dos verdades.
 
 ## Estado a 18/11/2026
 
+- **⚠️ Revisión pendiente del titular.** La cartera está cerrada como documento, pero el titular pidió
+  revisarla otro día antes de ejecutarla: **las 23 órdenes de §9 no se lanzan hasta entonces**. Si alguien
+  pregunta por esta cartera, lo primero que hay que contestar es que está pendiente de revisión.
 - **Cartera:** 100.000 € totales = 10.000 € de colchón (Groupama, fuera de la cartera) + 90.000 €
   invertibles (60.000 € manuales + 30.000 € en Rock).
 - **Reparto:** **54,6 % de RV / 45,4 % de RF y caja** por look-through; **38,3 % del capital en cinco

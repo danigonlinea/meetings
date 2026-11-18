@@ -25,10 +25,14 @@ related:
 > desmontaje de Rock, el horizonte de más de 10 años, los 1.000 €/mes y el colchón de 12 meses siguen
 > igual.
 >
-> **Estado: cerrada y final el 18/11/2026.** No queda ninguna decisión de diseño abierta —vehículos, pesos,
-> coste, órdenes, aportaciones, bandas, escenarios y la prueba de 2029 están escritos—. Lo único que falta es
-> la ejecución, que es del titular. Sustituye como cartera vigente a `propuesta-actual.md` (04/11) y retira
-> `propuesta-ai.md` (16/11); las dos siguen en el historial de git.
+> **Estado: cerrada y final el 18/11/2026, con la revisión del titular pendiente.** No queda ninguna decisión
+> de diseño abierta —vehículos, pesos, coste, órdenes, aportaciones, bandas, escenarios y la prueba de 2029
+> están escritos—. Pero el titular pidió **revisarla otro día** antes de ejecutarla: **ninguna orden de §9 se
+> lanza hasta esa revisión**. Si alguien —persona o agente— abre esta cartera para actuar sobre ella, lo
+> primero que tiene que decir es justo eso: **está pendiente de revisión y no se ejecuta todavía**.
+>
+> Sustituye como cartera vigente a `propuesta-actual.md` (04/11) y retira `propuesta-ai.md` (16/11); las dos
+> siguen en el historial de git.
 >
 > **Qué es y qué no.** Es la cartera que hay que ejecutar mañana, con las 23 órdenes contadas. No es
 > asesoramiento financiero: la decisión y la ejecución son del titular.

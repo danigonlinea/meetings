@@ -14,7 +14,7 @@ se escribe en un documento aparte con su propia fecha.
 
 | Carpeta | Qué es | Documentos |
 | --- | --- | --- |
-| `cartera-myinvestor/` | 100.000 € = 90.000 € invertibles (60.000 € manuales + 30.000 € de Rock) + 10.000 € de colchón | `cartera-actual.md` (foto 30/10) + `propuesta-pieza.md` (**vigente desde el 18/11/2026**: 38,3 % de indexado como pieza, trece fondos, 54,6 % de RV, 529,90 €/año, 23 traspasos en dos fases y 1.000 €/mes) + `propuesta-actual.md` (superada el 18/11, se conserva por su §2: el criterio del 55 %) + `propuesta-acciones.md` (complemento de acciones) |
+| `cartera-myinvestor/` | 100.000 € = 90.000 € invertibles (60.000 € manuales + 30.000 € de Rock) + 10.000 € de colchón | `cartera-actual.md` (foto 30/10) + `propuesta-pieza.md` (**vigente desde el 18/11/2026, ⚠️ pendiente de la revisión del titular antes de ejecutar**: 38,3 % de indexado como pieza, trece fondos, 54,6 % de RV, 529,90 €/año, 23 traspasos en dos fases y 1.000 €/mes) + `propuesta-actual.md` (superada el 18/11, se conserva por su §2: el criterio del 55 %) + `propuesta-acciones.md` (complemento de acciones) |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 | `cartera-ai/` | **Tres tallas del mismo diseño** de coste mínimo: `100k.md` (7 fondos + 4 acciones, 74,9 % RV, 0,116 %), `150k.md` (9 + 6, 74,8 %, 0,113 %) y `200k.md` (9 + 6, 74,8 %, 0,113 %) | Un fichero por talla; cada uno es la cartera entera (ISIN/ticker, órdenes, coste, descartes) |
 | `cartera-ai-andres/` | **Dos tallas** con el criterio de Andrés, sin acciones: `100k.md` (11 fondos, 60,3 % RV, 0,46 %) y `200k.md` (14 fondos, 60,0 %, 0,51 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, órdenes, descartes y señales) |
@@ -173,7 +173,8 @@ ESG. Datos del buscador público de la plataforma (2.587 productos), porque el M
 
 ## Estado a 16/11/2026
 
-- **MyInvestor (vigente desde el 18/11/2026):** `propuesta-pieza.md`. 100.000 € en trece fondos:
+- **MyInvestor (vigente desde el 18/11/2026, ⚠️ pendiente de la revisión del titular):** `propuesta-pieza.md`.
+  100.000 € en trece fondos:
   **38,3 % de indexado como pieza** (34.500 € a 0,12 %), 61,7 % activo en tres convicciones value y cinco
   papeles de crédito, **54,6 % de RV**, **529,90 €/año (0,530 %)**, cero comisiones de éxito, duración 1,54
   y caída de manual −20.885 €. Rock se desmonta por el puente monetario (0 € de impuestos): 23 traspasos en
