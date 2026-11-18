@@ -488,6 +488,9 @@ nombres:
       sube; si es ilíquido, es riesgo que la fórmula de §4 no ve.
 - [ ] **Cobas Renta**: la línea con la tesis más fina. Si en dos años no repite la defensa de 2022, sale y su
       importe va al Agg 1-5Y.
+- [ ] **Magallanes contra MyInvestor Value**: cada uno neto de su comisión (1,81 % frente a 1,35 % + 9 % de
+      éxito), a tres años, contra el mismo índice. Si el de Andbank gana, sustituye al de Magallanes; si empata,
+      gana el que no cobra éxito.
 - [ ] Colchón contra gasto real, una vez al año.
 
 **Lo que no se revisa:** el rendimiento del núcleo contra «su» índice (es su propio índice), ni el % de RV con
@@ -537,7 +540,7 @@ simplicidad operativa, no de rentabilidad, y por eso no se toma sola: se toma en
 | **Robeco QI European Conservative** | 1,01 % | Beta con rebeca: benchmark como objetivo, `tracking error` bajo y 1A dentro de un punto del índice europeo. Es comisión de gestión por el índice, no una convicción |
 | **Magallanes clase P** | 1,25-1,30 % | **No está en el catálogo de la plataforma** (solo R 1,95 % y M 1,81 %). Importarla no es una opción: sería un traspaso entre comercializadores |
 | **Kaizen Global Income** | TER **no publicado** | Sin coste verificable no se defiende, por segunda vez |
-| **MyInvestor Value C** (ya en cartera) | TER no publicado + 9 % de éxito | Igual: no hay cifra que auditar |
+| **MyInvestor Value C** (ya en cartera) | 1,35 % + 9 % de éxito · RV 95,6 % · YTD 2026 +15,6 % · 1A +20,0 % | **Fuera como posición, no condenado.** Su 2026 es bueno (Magallanes +11,4 % y Horos +5,5 % en el mismo año) y el 9 % de éxito es de los bajos del catálogo —el estándar es 20 %—, así que el argumento no es el coste. Es que **no añade un riesgo nuevo** (value europeo small/mid, Alemania 29 % y Francia 23 %, justo entre Magallanes y Horos), **solo publica dos ejercicios** —2025 y 2026, los dos buenos del value— y no hay dato de 2022, y con 2.000 € sería una cuarta convicción decorativa: para tener peso tendría que desplazar a Magallanes, que tiene más historial y menos volatilidad (12,7 % frente a 17,9 %). Entra como candidato en la prueba de 2029 (§13) |
 | **Fundsmith · Comgest Growth Europe · Morgan Stanley Global Brands** | 1,09-1,84 % | Ceden al índice a 5 años (+2,9 %, −0,9 %, +1,0 % frente a +9,7 % del europeo y +10,9 % del mundial) |
 | **Azvalor Internacional** | mínimo 5.000 € + 3 % de salida bajo 12 meses | 150 € de penalización sobre una posición de 5 % del patrimonio |
 | **Cat bonds (Twelve)** | 1,30 % · liquida en 8 días | Su descorrelación es real, pero a 3.000-4.000 € el TER se come el efecto; candidata si la cartera crece a 200k |
