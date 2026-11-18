@@ -5,6 +5,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-19 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `finance/portfolio/cartera-myinvestor/propuesta-pieza.md` | portfolio-proposal | finance | 2026-11-18 | Cartera final: 100.000 €, 38,3 % de indexado como pieza y 23,3 % de convicción activa | [cartera, final, pieza-no-edificio, 38-indexado, value, magallanes, horos, cobas-large-cap, renta-fija, rock-desmontado, traspaso, myinvestor, aportaciones] |
 | `finance/portfolio/cartera-ai-rock-index-value-todo/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai rock-index-value-todo: 55/45 con Rock, monetario escalonado y trece fondos no indexados (100.000 €) | [cartera, propuesta, 55-45, activo, rock, monetario, no-indexados, traspaso, myinvestor, renta-fija, cat-bonds, robeco, fundsmith, croci, ashoka] |
 | `finance/portfolio/cartera-ai-rock-desmontado/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai rock-desmontado: 55/45 con núcleo indexado y dos satélites activos (100.000 €) | [cartera, propuesta, 55-45, rock-desmontado, indexado, satelite-activo, monetario, traspaso, myinvestor, cat-bonds, small-caps, reits] |
@@ -36,7 +37,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/portfolio/cartera-ai/100k.md` | portfolio-proposal | finance | 2026-11-15 | Cartera-ai 100k: 100.000 € en siete fondos indexados y cuatro acciones, 75 % de RV | [cartera, cartera-ai, 100k, indexados, acciones, sin-dividendo, acumulacion, myinvestor] |
 | `finance/portfolio/cartera-ai-andres/200k.md` | portfolio-proposal | finance | 2026-11-15 | Cartera-ai-andres: 200.000 € en catorce fondos, 60 % de renta variable por look-through | [cartera, cartera-ai-andres, 200k, fondos, indexados, value, mixtos, renta-fija, monetario, inmobiliario, acumulacion, myinvestor] |
 | `finance/portfolio/cartera-ai-andres/100k.md` | portfolio-proposal | finance | 2026-11-15 | Cartera-ai-andres 100k: 100.000 € en once fondos, 60 % de RV por look-through | [cartera, cartera-ai-andres, 100k, fondos, indexados, value, mixtos, renta-fija, monetario, acumulacion, myinvestor] |
-| `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-14 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `finance/portfolio/cartera-ai/150k.md` | portfolio-proposal | finance | 2026-11-14 | Cartera-ai: 150.000 € en nueve fondos indexados y seis acciones, 75/25 | [cartera, cartera-ai, 150k, indexados, acumulacion, myinvestor, acciones, diversificacion, 75-25] |
 | `ai/ai-engineer/catalogo.md` | reference | ai | 2026-11-14 | Catálogo de charlas de AI Engineer: NYC 2026 y Code Summit 2026 | [ai-engineer, youtube, charlas, catalogo, agentes, ia] |
 | `reference/glossary.md` | reference | cross | 2026-11-13 | Glosario | [glosario, terminologia] |
@@ -138,8 +138,9 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/la-pizarra-de-andres/2026-05-19-asi-invierten-bill-ackman-y-warren-buffett-puedes-replicarlo/summary.md` | meeting-summary | finance | 2026-05-19 | Así invierten Bill Ackman y Warren Buffett 🚀 ¿Puedes replicarlo? | [superinversores, bill-ackman, berkshire-hathaway, dataroma, google, microsoft, lennar, carteras-13f] |
 | `finance/videos/la-pizarra-de-andres/2026-05-17-invertir-tu-nomina-al-recibirla-puede-marcar-la-diferencia-myinvestor/summary.md` | meeting-summary | finance | 2026-05-17 | Invertir tu Nómina al Recibirla puede MARCAR la Diferencia (MyInvestor) | [nomina, ahorro, cuenta-remunerada, myinvestor, automatizacion, fondos-indexados, plan-de-pensiones, educacion-financiera] |
 | `finance/videos/la-pizarra-de-andres/2026-05-14-la-estrategia-que-aplico-en-carteras-de-grandes-patrimonios-puedes/summary.md` | meeting-summary | finance | 2026-05-14 | La Estrategia que APLICO en Carteras de Grandes Patrimonios ¿Puedes copiarla? | [banca-privada, carteras, clases-limpias, fondos, renta-fija, renta-variable, alternativos, andbank] |
+| `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 134
+**Total de artefactos indexados:** 135
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

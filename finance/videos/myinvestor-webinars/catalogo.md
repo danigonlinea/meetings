@@ -1,6 +1,6 @@
 ---
 title: "Catálogo de webinars de MyInvestor"
-date: 2026-11-14
+date: 2026-11-19
 type: reference
 category: finance
 tags: [myinvestor, webinars, catalogo, youtube]
@@ -12,7 +12,7 @@ status: living
 Fuente: <https://blog.myinvestor.es/escuelamyinvestor/webinars/>.
 Lo genera `python3 tools/myinvestor_webinars.py catalogo`; no editar a mano.
 
-**Webinars con vídeo publicado:** 142 · **ingeridos:** 2 · **pendientes:** 140
+**Webinars con vídeo publicado:** 142 · **ingeridos:** 3 · **pendientes:** 139
 
 | # | Título | Vídeo | Estado | Carpeta |
 | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ Lo genera `python3 tools/myinvestor_webinars.py catalogo`; no editar a mano.
 | 32 | [Webinar del ciclo ‘Aprende con las gestoras’. Entrevista César Muro (Xtrackers)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-cesar-muro-xtrackers/) | [4rgtxPuL2sg](https://www.youtube.com/watch?v=4rgtxPuL2sg) | pendiente | `—` |
 | 33 | [Webinar del ciclo ‘Aprende con las gestoras’. Entrevista Daniel Pingarrón (Natixis)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-daniel-pingarron-natixis/) | [vSV1iATRKpc](https://www.youtube.com/watch?v=vSV1iATRKpc) | pendiente | `—` |
 | 34 | [Webinar ‘Inversión en dividendos, cómo generar ingresos constantes’](https://blog.myinvestor.es/escuela-myinvestor/webinar-inversion-en-dividendos-como-generar-ingresos-constantes/) | [GiE9IWahvlc](https://www.youtube.com/watch?v=GiE9IWahvlc) | pendiente | `—` |
-| 35 | [Webinar del ciclo ‘Aprende con las gestoras’. Entrevista Carlos Val-Carreres (MyInvestor Value)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-carlos-val-carreres-myinvestor-value/) | [SbjYy-KNVYA](https://www.youtube.com/watch?v=SbjYy-KNVYA) | pendiente | `—` |
+| 35 | [Webinar del ciclo ‘Aprende con las gestoras’. Entrevista Carlos Val-Carreres (MyInvestor Value)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-carlos-val-carreres-myinvestor-value/) | [SbjYy-KNVYA](https://www.youtube.com/watch?v=SbjYy-KNVYA) | ingerido | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value` |
 | 36 | [Webinar del ciclo ‘Aprende con las gestoras’. Entrevista Nabil El-Asmar (Vontobel)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-nabil-el-asmar-vontobel/) | [wPufuSQ5IeY](https://www.youtube.com/watch?v=wPufuSQ5IeY) | pendiente | `—` |
 | 37 | [Webinar del ciclo ‘Aprende con las gestoras’. Entrevista Javier Ruiz (Flossbach von Storch)](https://blog.myinvestor.es/escuela-myinvestor/webinar-del-ciclo-aprende-con-las-gestoras-entrevista-javier-ruiz-villabrille-flossbach-von-storch/) | [IrumctNua6Q](https://www.youtube.com/watch?v=IrumctNua6Q) | pendiente | `—` |
 | 38 | [Consultorio Hello MyInvestor – Edición Especial Online 2024](https://blog.myinvestor.es/escuela-myinvestor/consultorio-hello-myinvestor-edicion-especial-online-2023/) | [dd3bEAnDY28](https://www.youtube.com/watch?v=dd3bEAnDY28) | pendiente | `—` |
