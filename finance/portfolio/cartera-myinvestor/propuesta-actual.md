@@ -4,15 +4,22 @@ date: 2026-11-04
 type: portfolio-proposal
 category: finance
 tags: [cartera, definitiva, 55-45, solo-fondos, renta-fija, abs, cobas-renta, reits, japon, pacifico, rock, myinvestor]
-status: final
+status: superseded
 related:
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
   - finance/portfolio/cartera-myinvestor/propuesta-acciones.md
+  - finance/portfolio/cartera-myinvestor/propuesta-pieza.md
 ---
 
 # Cartera definitiva, solo fondos — 04/11/2026
 
-> **Qué es.** La cartera vigente y única: **cero ETFs**, todo fondos de inversión (IIC) para que cada
+> **Superada el 18/11/2026 por `propuesta-pieza.md`.** Se conserva por una sola razón: su **§2 es la
+> fuente del criterio del 55 % de RV** (los ocho hechos del 04/11) que otras propuestas del repositorio
+> citan textualmente. **No es la cartera vigente y no se ejecuta.** Su premisa —Rock intacto y el índice
+> como mayoría del capital— es justo la que el titular descartó el 18/11.
+
+
+> **Qué era.** La cartera que estuvo vigente hasta el 18/11/2026: **cero ETFs**, todo fondos de inversión (IIC) para que cada
 > movimiento sea un traspaso y no tribute. Diez fondos manuales + Rock, **97.000 €**, **55,0 % de RV /
 > 45,0 % de RF** en look-through estricto y **424,80 €/año** (0,438 %).
 >

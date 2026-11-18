@@ -14,7 +14,7 @@ se escribe en un documento aparte con su propia fecha.
 
 | Carpeta | Qué es | Documentos |
 | --- | --- | --- |
-| `cartera-myinvestor/` | 97.000 € invertibles: 67.000 € manuales + 30.000 € de Rock, más 10.000 € de colchón | `cartera-actual.md` (foto) + `propuesta-actual.md` (**definitiva desde 04/11/2026**: 55/45 en diez fondos solo, 424,80 €/año de coste real, catorce órdenes en §7) + `propuesta-acciones.md` (complemento de acciones) + `propuesta-ai.md` (**alternativa fechada del 16/11**, 59,6 % RV, 0,224 %, Rock desmontado por traspaso) |
+| `cartera-myinvestor/` | 100.000 € = 90.000 € invertibles (60.000 € manuales + 30.000 € de Rock) + 10.000 € de colchón | `cartera-actual.md` (foto 30/10) + `propuesta-pieza.md` (**vigente desde el 18/11/2026**: 38,3 % de indexado como pieza, trece fondos, 54,6 % de RV, 529,90 €/año, 23 traspasos en dos fases y 1.000 €/mes) + `propuesta-actual.md` (superada el 18/11, se conserva por su §2: el criterio del 55 %) + `propuesta-acciones.md` (complemento de acciones) |
 | `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
 | `cartera-ai/` | **Tres tallas del mismo diseño** de coste mínimo: `100k.md` (7 fondos + 4 acciones, 74,9 % RV, 0,116 %), `150k.md` (9 + 6, 74,8 %, 0,113 %) y `200k.md` (9 + 6, 74,8 %, 0,113 %) | Un fichero por talla; cada uno es la cartera entera (ISIN/ticker, órdenes, coste, descartes) |
 | `cartera-ai-andres/` | **Dos tallas** con el criterio de Andrés, sin acciones: `100k.md` (11 fondos, 60,3 % RV, 0,46 %) y `200k.md` (14 fondos, 60,0 %, 0,51 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, órdenes, descartes y señales) |
@@ -173,10 +173,15 @@ ESG. Datos del buscador público de la plataforma (2.587 productos), porque el M
 
 ## Estado a 16/11/2026
 
-- **MyInvestor:** propuesta cerrada al 55,0% de RV / 45,0% de RF, 0,438% de TER, 14 órdenes en dos
-  sesiones. Pendientes: dimensionar los gastos mensuales del colchón y aguantar el −23,4% (−22.700 €).
-  Alternativa fechada el 16/11, sin ejecutar: `propuesta-ai.md` (Rock desmontado por traspaso). La variante con
-  Rock fija vive en su propia carpeta, `cartera-ai-rock-index-value-todo/`.
+- **MyInvestor (vigente desde el 18/11/2026):** `propuesta-pieza.md`. 100.000 € en trece fondos:
+  **38,3 % de indexado como pieza** (34.500 € a 0,12 %), 61,7 % activo en tres convicciones value y cinco
+  papeles de crédito, **54,6 % de RV**, **529,90 €/año (0,530 %)**, cero comisiones de éxito, duración 1,54
+  y caída de manual −20.885 €. Rock se desmonta por el puente monetario (0 € de impuestos): 23 traspasos en
+  dos fases y 1.000 €/mes. **El nivel C de `cartera-ai-rock-desmontado` §14 queda decidido**: el índice
+  deja de ser el edificio y paga 293,80 €/año frente al nivel A, con +0,53 pp/año de alfa de empate
+  escrito. Pendientes: gastos reales del colchón, comisión de suscripción en pantalla y si los 7.000 € de
+  aportación nueva están en la cuenta. Alternativas con su precio: nivel A (`cartera-ai-rock-desmontado/`)
+  y Rock fija (`cartera-ai-rock-index-value-todo/`).
 - **Renta 4:** auditoría nueva. 15,3% de RV real, 0,83% de coste (287 €/año) y 65,7% del patrimonio en
   bonos corporativos. Recomendación: **Kaizen se queda** y se recorta al 25%, con 3.618 € a un indexado
   global (21,2% de RV, 0,76% de coste). Pendiente: confirmar el recorte y la clase del fondo de destino.
@@ -219,15 +224,13 @@ ESG. Datos del buscador público de la plataforma (2.587 productos), porque el M
   las tres concesiones de la condición 3 (núcleo en cinco regiones, EPRA al 0,34 %, cero small caps), la
   relectura de `management_type` por MCP cuando el límite se reponga y qué talla se ejecuta.
 - **cartera-ai-rock-index-value-todo:** una talla cerrada el 16/11/2026, sin ejecutar. 100.000 € con Rock intacta al 30 %, monetario de 14.000 € en dos peldaños y trece fondos activos: 55,5 % de RV real, 0,615 % de coste total, −21.184 € de caída. Pendientes: que Rock se quede como decisión estable, dimensionar el colchón contra gastos reales y qué se hace con la aportación nueva.
-- **cartera-ai-rock-desmontado:** una talla cerrada el 16/11/2026 y **aparcada sin ejecutar**: 90.000 €
-  invertibles y 1.000 €/mes, núcleo indexado al 0,06 %, RF corta indexada, monetario de 14.500 € y dos satélites
-  activos. 55,31 % de RV real, **236,10 €/año (0,236 %)** y 69,4 % de indexado. **Bloqueo:** el titular no está
-  convencido de llevar tanto indexado; los tres niveles (69,4 %, ~55 % y ~38 %) están con su coste y su alfa de
-  empate en §14 del documento. Pendiente además confirmar el traspaso de Rock al monetario puente.
-  **1.000 €/mes** de aportación: núcleo indexado al 0,06 %, RF corta indexada, monetario de 14.500 € y dos
-  satélites activos. 55,31 % de RV real, **236,10 €/año (0,236 %)**, horizonte > 10 años y colchón de 10.000 €
-  (= 12 meses de gastos, 833 €/mes). Pendientes: confirmar que el desmontaje de Rock se registra como traspaso
-  al monetario puente y si se quieren los dos satélites o la variante 100 % indexada (126 €/año).
+- **cartera-ai-rock-desmontado:** una talla, 90.000 € invertibles y 1.000 €/mes, 55,31 % de RV real,
+  **236,10 €/año (0,236 %)** y **69,4 % de indexado** (nivel A). **Desbloqueada y no adoptada el 18/11/2026**:
+  el titular eligió el nivel C —«el indexado como pieza»— y vive en `cartera-myinvestor/propuesta-pieza.md`
+  (38,3 % de indexado, 529,90 €/año). Este documento queda como **la alternativa barata** con su número: son
+  293,80 €/año menos y +0,53 pp/año de alfa de empate a favor del activo. Parece muerta y está viva: es contra
+  la que se mide la cartera vigente en la revisión de octubre de 2029. Pendiente: confirmar que el desmontaje
+  de Rock se registra como traspaso al monetario puente.
 
 - **cartera-ai-100-index-3:** dos tallas cerradas el 16/11/2026, sin ejecutar. 100k (5 indexados regionales + 2
   de RF, 79,57 % de RV real, 0,2086 %) y 200k (los mismos siete fondos y pesos, 0,2086 %). Ninguno de los siete

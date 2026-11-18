@@ -26,12 +26,14 @@ su cupo de indexado se libera para comprar el núcleo al precio real de un índi
 - De las `cartera-ai-no-indexados*/`: nada de sesgo value obligado ni de trece líneas activas; el activo se
   limita a tres papeles donde un índice no llega.
 
-**Qué no es.** No es la cartera vigente del titular (esa es `cartera-myinvestor/propuesta-actual.md`) y no se
+**Qué no es.** No es la cartera vigente del titular (esa es `cartera-myinvestor/propuesta-pieza.md`) y no se
 ejecuta sobre el mismo dinero a la vez que ella.
 
-**Estado: cerrada y aparcada el 16/11/2026.** El diseño está completo y no se ejecuta: el titular no está
-convencido del **69,4 % de indexado** y la decisión queda para una discusión posterior. Los tres niveles —69,4 %
-(236,10 €/año), ~55 % (≈420 €) y ~38 % (≈495 €)— están tabulados con su alfa de empate en §14 de `100k.md`.
+**Estado: decidida el 18/11/2026 y no adoptada.** El titular eligió el **nivel C** —el indexado como pieza— y
+la cartera que se ejecuta es `cartera-myinvestor/propuesta-pieza.md` (38,3 % de indexado, 13 fondos,
+529,90 €/año). Este documento queda como **nivel A**, la alternativa barata: los tres niveles —69,4 %
+(236,10 €/año), ~55 % (≈420 €) y ~38 % (≈495 €)— siguen tabulados con su alfa de empate en §14 de `100k.md`,
+y el precio de la decisión son **293,80 €/año**.
 
 **No es asesoramiento financiero.** La decisión es del titular.
 
