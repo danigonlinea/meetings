@@ -6,6 +6,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
 | `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-19 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
+| `finance/portfolio/cartera-ai-final-conservadora/100k.md` | portfolio-proposal | finance | 2026-11-19 | Cartera-ai final conservadora: 12 fondos, 38,3 % de indexado y 4,8 % esperado (100.000 €) | [cartera, propuesta, final, conservadora, 55-45, myinvestor, traspaso, credito-corto, value, indexado, clase-institucional, rentabilidad-esperada] |
 | `finance/portfolio/cartera-myinvestor/propuesta-pieza.md` | portfolio-proposal | finance | 2026-11-18 | Cartera final: 100.000 €, 38,3 % de indexado como pieza y 23,3 % de convicción activa | [cartera, final, pieza-no-edificio, 38-indexado, value, magallanes, horos, cobas-large-cap, renta-fija, rock-desmontado, traspaso, myinvestor, aportaciones] |
 | `finance/portfolio/cartera-ai-rock-index-value-todo/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai rock-index-value-todo: 55/45 con Rock, monetario escalonado y trece fondos no indexados (100.000 €) | [cartera, propuesta, 55-45, activo, rock, monetario, no-indexados, traspaso, myinvestor, renta-fija, cat-bonds, robeco, fundsmith, croci, ashoka] |
 | `finance/portfolio/cartera-ai-rock-desmontado/100k.md` | portfolio-proposal | finance | 2026-11-16 | Cartera-ai rock-desmontado: 55/45 con núcleo indexado y dos satélites activos (100.000 €) | [cartera, propuesta, 55-45, rock-desmontado, indexado, satelite-activo, monetario, traspaso, myinvestor, cat-bonds, small-caps, reits] |
@@ -141,6 +142,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 135
+**Total de artefactos indexados:** 136
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

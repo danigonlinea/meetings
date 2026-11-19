@@ -1,14 +1,14 @@
 ---
-title: "Cartera: diecisiete carteras propias y una de referencia"
-date: 2026-11-15
+title: "Cartera: dieciocho carteras propias y una de referencia"
+date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-de-andres]
 status: living
 ---
-# Cartera: diecisiete carteras propias y una de referencia
+# Cartera: dieciocho carteras propias y una de referencia
 
-Diecisiete patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Dieciocho patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -29,6 +29,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-no-indexados-3/` | **Dos tallas con dos condiciones únicas, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 80 % RV, 1,5472 %; `200k.md`, mismos 7 + 3 más crédito corto, 80 %, 1,5268 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-4/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,5961 %; `200k.md`, 8 + 3 con small caps EE. UU., 70 %, 1,5851 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
+| `cartera-ai-final-conservadora/` | **Una talla, 100.000 €**: la cartera del 18/11 con el crédito consolidado en Neuberger (**12 fondos**, **54,6 % de RV**, **509,70 €/año (0,566 %)**, duración 1,61) y **≈4,8 % de rentabilidad esperada anual** con rango 2,3-6,8 % y supuestos escritos | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, coste, duración, rentabilidad esperada con su método, 22 órdenes en dos fases, 1.000 €/mes, descartes con número y señales) |
 | `cartera-ai-no-indexados-5/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,3543 %; `200k.md`, 8 + 3 con Valentum, 70 %, 1,3417 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-rock-index-value-todo/` | **Una talla, 100.000 €**, con **Rock como pieza de indexado** (30 %, intacta), **monetario escalonado de 14.000 €** (Groupama €STR + DWS Euro Ultra Short) y **trece fondos que no replican índices**: 55,5 % de RV real, 0,615 % de coste total, −23,54 % de caída de manual | Un fichero (`100k.md`): la cartera entera (ISIN, razón fondo a fondo, métricas, 17 traspasos, descartes con número y señales) |
 | `cartera-ai-rock-desmontado/` | **Una talla, 100.000 €**, **Rock desmontado por traspaso** y su cupo gastado en índice limpio: núcleo MSCI World al 0,06 %, emergentes, small caps y REITs indexados, RF corta indexada, monetario de 14.500 € y **dos satélites activos** (Europa low-vol y cat bonds). 55,31 % de RV real, **236,10 €/año (0,236 %)**, −23,46 % de caída | Un fichero (`100k.md`): la cartera entera (ISIN, métricas contra las otras propuestas, 20 traspasos en dos fases y descartes con número) |
@@ -143,6 +144,16 @@ tallas. Concesiones escritas: cero small caps, cero inmobiliario, cero ligado a 
 ESG. Datos del buscador público de la plataforma (2.587 productos), porque el MCP cortó por límite de uso.
 
 
+`cartera-ai-final-conservadora/` es la decimoctava y **la última en fecha**: no nace de cero, sino de
+`cartera-myinvestor/propuesta-pieza.md` con **un solo cambio** verificado contra el catálogo el 19/11 —el bloque
+de crédito corto se consolida en Neuberger (clase I al 0,25 % para el dinero nuevo) y sale M&G (0,47 %, mínimo
+1.000 €)—. Doce fondos en trece posiciones, 54,61 % de RV, 509,70 €/año (0,566 %), duración 1,61 y **≈4,8 % de
+rentabilidad esperada anual** (2,8 % real) con rango 2,3-6,8 % y sus supuestos escritos. **No es una cartera
+«mejor» que el nivel A**: su esperanza es ~0,3 pp inferior a la del indexado puro, y lo que compra con esa
+diferencia es la convicción value y la prueba de 2029. Descartados con cifra: Dodge & Cox (mínimo **50.000 €**,
+EE. UU. 54,7 %), el REITs institucional al 0,23 % (el que hay ya cuesta 0,17 %) y el ABS de Morgan Stanley al
+1,23 %.
+
 ## Reglas
 
 - **Un dato, un sitio.** En las carteras con dinero real los saldos viven en su `cartera-actual.md` y las
@@ -171,7 +182,16 @@ ESG. Datos del buscador público de la plataforma (2.587 productos), porque el M
 - La revisión trimestral se escribe con la skill `revision-cartera` y se guarda como
   `revision-YYYY-QN.md` en esta carpeta.
 
-## Estado a 16/11/2026
+## Estado a 19/11/2026
+
+- **`cartera-ai-final-conservadora` (19/11/2026, sin ejecutar):** `100k.md`. La cartera del 18/11 con el
+  bloque de crédito consolidado en Neuberger: M&G fuera, su dinero a la **clase I (0,25 %)** y **cero líneas
+  con mínimo de 1.000 €**. **12 fondos**, **54,61 % de RV**, **509,70 €/año (0,566 %)**, duración **1,61**
+  (−657 € por +100 pb), caída de manual −20.885 € y **≈4,8 % de rentabilidad esperada anual** (2,8 % real;
+  rango 2,3-6,8 %, con supuestos y σ ≈9 % escritos). **22 órdenes en dos fases** (16 + 6) y 1.000 €/mes en
+  diez líneas mensuales y dos trimestrales. Descartados con número: Dodge & Cox (mínimo 50.000 €), el REITs
+  institucional al 0,23 % (el que hay cuesta 0,17 %) y el ABS de Morgan Stanley al 1,23 %. **Pendiente:** sigue
+  sin ejecutarse hasta la revisión del titular de la matriz del 18/11.
 
 - **MyInvestor (vigente desde el 18/11/2026, ⚠️ pendiente de la revisión del titular):** `propuesta-pieza.md`.
   100.000 € en trece fondos:
