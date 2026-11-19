@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 INDEX = ROOT / "INDEX.md"
 
-SKIP_DIRS = {".git", ".venv", "ytpipe", "tools", "node_modules", ".pytest_cache", "__pycache__", ".opencode", ".agents"}
+SKIP_DIRS = {".git", ".venv", "ytpipe", "tools", "node_modules", ".pytest_cache", "__pycache__", ".opencode", ".agents", "fondos-myinvestor"}
 KEYS = ("title", "date", "type", "category", "tags", "status")
 FIELD = re.compile(r"^(\w+):\s*(.*)$")
 

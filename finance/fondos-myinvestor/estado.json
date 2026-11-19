@@ -1,0 +1,2970 @@
+{
+ "objetivo": 2197,
+ "creado": "2026-11-19T20:09:25+00:00",
+ "actualizado": "2026-11-19T20:16:01+00:00",
+ "dimensiones": {
+  "currency": [
+   "EUR",
+   "USD",
+   "GBP",
+   "CHF",
+   "JPY",
+   "AUD",
+   "NOK"
+  ],
+  "management_type": [
+   "Active",
+   "Index/Passive"
+  ],
+  "asset_type": [
+   "Renta Variable",
+   "Renta Fija",
+   "Mixto",
+   "Monetario"
+  ],
+  "market_cap": [
+   "Large Cap",
+   "Mid Cap",
+   "Small Cap"
+  ],
+  "credit_quality": [
+   "Alto rendimiento"
+  ],
+  "max_ter": [
+   0.1,
+   0.2,
+   0.3,
+   0.5,
+   0.75,
+   1.0,
+   1.5,
+   2.0,
+   3.0,
+   5.0
+  ],
+  "geography": [
+   "Global, USA",
+   "USA",
+   "Europa",
+   "Global",
+   "Global, Mercados emergentes",
+   "Japón",
+   "China, Mercados emergentes",
+   "España, Europa",
+   "Asia (ex. Japón)",
+   "Alemania, Europa",
+   "España, Global",
+   "Canadá",
+   "Reino Unido",
+   "Europa, Francia",
+   "India, Mercados emergentes",
+   "Asia (ex. Japón), Australia",
+   "España",
+   "Alemania, Global",
+   "Europa, USA",
+   "Europa, Reino Unido",
+   "Europa, Suiza",
+   "Asia (ex. Japón), China",
+   "China, Mercados emergentes, Taiwán",
+   "España, Global, USA",
+   "Europa, Italia",
+   "Europa, Mercados emergentes, Polonia, Rusia",
+   "Europa, Noruega",
+   "Asia (ex. Japón), Taiwán",
+   "Brasil",
+   "Japón, Pacífico",
+   "Asia, Mercados emergentes",
+   "Global, Mercados emergentes, Taiwán",
+   "Alemania",
+   "América Latina, Brasil",
+   "Europa, Francia, Italia",
+   "Francia",
+   "Global, Reino Unido",
+   "Alemania, Europa, Francia",
+   "Asia (ex. Japón), Singapur",
+   "Asia, China, Mercados emergentes",
+   "China",
+   "Europa, Suecia",
+   "Islas Bermudas, USA",
+   "Alemania, Europa, USA",
+   "Alemania, Global, USA",
+   "Alemania, USA",
+   "Australia, Global, Reino Unido",
+   "Australia, Nueva Zelanda",
+   "Europa, Italia, USA",
+   "Europa, Nórdico, Suecia",
+   "Global, Reino Unido, USA",
+   "Italia",
+   "Italia, USA",
+   "Noruega, Suecia",
+   "Turquía",
+   "África, Oriente Medio",
+   "Alemania, Australia, Global, USA",
+   "Alemania, Francia",
+   "Asia (ex. Japón), Corea del Sur",
+   "Asia (ex. Japón), Corea del Sur, Taiwán",
+   "Asia (ex. Japón), Indonesia",
+   "Canadá, Global",
+   "Canadá, Global, USA",
+   "Corea, Corea del Sur",
+   "España, USA",
+   "Europa, Mercados emergentes",
+   "Europa, Mercados emergentes, Polonia",
+   "Francia, Global",
+   "Global, Italia",
+   "Global, Mercados emergentes, USA",
+   "Irlanda",
+   "Mercados emergentes, Mercados fronterizos",
+   "Mercados emergentes, Mercados fronterizos, Vietnam",
+   "México",
+   "Noruega",
+   "Tailandia",
+   "Taiwán",
+   "África, Sudáfrica"
+  ],
+  "sector": [
+   "Tecnología",
+   "Industria",
+   "Servicios financieros",
+   "Salud",
+   "Inmobiliario",
+   "Industria, Tecnología",
+   "Materiales",
+   "Materiales, Oro",
+   "Energía, Industria",
+   "Consumo cíclico",
+   "Energía",
+   "Infraestructura, Servicios públicos",
+   "Finanzas, Servicios financieros",
+   "Biotecnología, Salud",
+   "Energía, Materiales",
+   "Bienes de consumo básico, Consumo cíclico",
+   "Industria, Materiales",
+   "Salud, Tecnología",
+   "Energía, Industria, Tecnología",
+   "Consumo cíclico, Salud",
+   "Consumo defensivo",
+   "Consumo defensivo, Energía, Salud",
+   "Consumo defensivo, Materiales",
+   "Defensa, Industria, Tecnología",
+   "Servicios financieros, Tecnología",
+   "Bienes de consumo básico, Tecnología",
+   "Energía, Industria, Servicios públicos",
+   "Industria, Infraestructura, Servicios públicos",
+   "Industria, Materiales, Tecnología",
+   "Servicios de comunicación, Tecnología",
+   "Bienes de consumo básico",
+   "Bienes de consumo básico, Consumo cíclico, Industria",
+   "Energía, Infraestructura, Servicios públicos",
+   "Energía, Tecnología",
+   "Fondo de capital de riesgo, Servicios financieros",
+   "Industria, Salud",
+   "Salud, Servicios de comunicación, Tecnología",
+   "Servicios de comunicación"
+  ],
+  "fixed_income_type": [
+   "Agregado, Corporativo",
+   "Corporativo",
+   "Gubernamental",
+   "Agregado, Gubernamental",
+   "Agregado, Corporativo, Gubernamental",
+   "Agregado",
+   "Corporativo, Gubernamental",
+   "Agregado, Gubernamental, Indexado a la inflación",
+   "Agregado, Indexado a la inflación"
+  ]
+ },
+ "frontera": [
+  {
+   "args": {
+    "query": "AQR Capital Management LLC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "AQR Capital Management LLC"
+  },
+  {
+   "args": {
+    "query": "Aegon Investment Management BV",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Aegon Investment Management BV"
+  },
+  {
+   "args": {
+    "query": "Afi Inversiones Globales, SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Afi Inversiones Globales, SGIIC"
+  },
+  {
+   "args": {
+    "query": "Algebris (UK) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Algebris (UK) Limited"
+  },
+  {
+   "args": {
+    "query": "Alger Management Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Alger Management Ltd"
+  },
+  {
+   "args": {
+    "query": "Allianz Global Investors GmbH, Luxembourg Branch",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Allianz Global Investors GmbH, Luxembourg Branch"
+  },
+  {
+   "args": {
+    "query": "Arcus Investment Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Arcus Investment Limited"
+  },
+  {
+   "args": {
+    "query": "Azvalor Asset Management SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Azvalor Asset Management SGIIC"
+  },
+  {
+   "args": {
+    "query": "BDL Capital Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BDL Capital Management"
+  },
+  {
+   "args": {
+    "query": "BLUEBAY ASSET MANAGEMENT PLC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLUEBAY ASSET MANAGEMENT PLC"
+  },
+  {
+   "args": {
+    "query": "BNP Paribas",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BNP Paribas"
+  },
+  {
+   "args": {
+    "query": "BNPP AM (PARVEST)",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BNPP AM (PARVEST)"
+  },
+  {
+   "args": {
+    "query": "BRIGHTGATE IAPETUS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BRIGHTGATE IAPETUS"
+  },
+  {
+   "args": {
+    "query": "Banque Palatine",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Banque Palatine"
+  },
+  {
+   "args": {
+    "query": "Bantleon Invest Kapitalverwaltungsgesellschaft mbH",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Bantleon Invest Kapitalverwaltungsgesellschaft mbH"
+  },
+  {
+   "args": {
+    "query": "Bestinver Gestión SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Bestinver Gestión SGIIC"
+  },
+  {
+   "args": {
+    "query": "Blue Whale Capital LLP",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Blue Whale Capital LLP"
+  },
+  {
+   "args": {
+    "query": "Bridge Fund Management Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Bridge Fund Management Limited"
+  },
+  {
+   "args": {
+    "query": "CAIXABANK ASSET MANAGEMENT SGIIC, S.A",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "CAIXABANK ASSET MANAGEMENT SGIIC, S.A"
+  },
+  {
+   "args": {
+    "query": "CBNK GESTION ACTIVOS, S.G.I.I.C., S.A.U.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "CBNK GESTION ACTIVOS, S.G.I.I.C., S.A.U."
+  },
+  {
+   "args": {
+    "query": "CMNE",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "CMNE"
+  },
+  {
+   "args": {
+    "query": "Carne Global Financial Services (Europe) – Empresa de Investimento, S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Carne Global Financial Services (Europe) – Empresa de Investimento, S.A."
+  },
+  {
+   "args": {
+    "query": "Columbia Threadneedle Management Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Columbia Threadneedle Management Limited"
+  },
+  {
+   "args": {
+    "query": "Credit Suisse AG",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Credit Suisse AG"
+  },
+  {
+   "args": {
+    "query": "Credit Suisse Securities (Japan) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Credit Suisse Securities (Japan) Limited"
+  },
+  {
+   "args": {
+    "query": "DNB AM LUX",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "DNB AM LUX"
+  },
+  {
+   "args": {
+    "query": "DUX INVERSORES",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "DUX INVERSORES"
+  },
+  {
+   "args": {
+    "query": "Eastspring Investments (Singapore) Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Eastspring Investments (Singapore) Ltd"
+  },
+  {
+   "args": {
+    "query": "Eleva Capital LLP",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Eleva Capital LLP"
+  },
+  {
+   "args": {
+    "query": "Eurizon Capital SGR SpA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Eurizon Capital SGR SpA"
+  },
+  {
+   "args": {
+    "query": "FIDELITY INTERNATIONAL",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "FIDELITY INTERNATIONAL"
+  },
+  {
+   "args": {
+    "query": "Fiera Capital (UK) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Fiera Capital (UK) Limited"
+  },
+  {
+   "args": {
+    "query": "GAM",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GAM"
+  },
+  {
+   "args": {
+    "query": "GESCOOPERATIVO, S.A., S.G.I.I.C.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GESCOOPERATIVO, S.A., S.G.I.I.C."
+  },
+  {
+   "args": {
+    "query": "GVC Gaesco Gestión SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GVC Gaesco Gestión SGIIC"
+  },
+  {
+   "args": {
+    "query": "Heptagon Capital Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Heptagon Capital Limited"
+  },
+  {
+   "args": {
+    "query": "INTERMONEY GESTION, S.G.I.I.C., S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "INTERMONEY GESTION, S.G.I.I.C., S.A."
+  },
+  {
+   "args": {
+    "query": "ISATIS INVESTMENT",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ISATIS INVESTMENT"
+  },
+  {
+   "args": {
+    "query": "Impax Asset Management Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Impax Asset Management Ltd"
+  },
+  {
+   "args": {
+    "query": "J O Hambro Capital Management Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "J O Hambro Capital Management Limited"
+  },
+  {
+   "args": {
+    "query": "LAZARD FRERES GESTION",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "LAZARD FRERES GESTION"
+  },
+  {
+   "args": {
+    "query": "Lazard Freres Gestion S.a.s.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Lazard Freres Gestion S.a.s."
+  },
+  {
+   "args": {
+    "query": "Lazard Frères Gestion",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Lazard Frères Gestion"
+  },
+  {
+   "args": {
+    "query": "Legal & General Investment Management Ltd.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Legal & General Investment Management Ltd."
+  },
+  {
+   "args": {
+    "query": "Liontrust Investment Partners LLP",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Liontrust Investment Partners LLP"
+  },
+  {
+   "args": {
+    "query": "M&G Luxembourg S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "M&G Luxembourg S.A."
+  },
+  {
+   "args": {
+    "query": "MAINFIRST AFFILIATED FUND MANAGERS S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "MAINFIRST AFFILIATED FUND MANAGERS S.A."
+  },
+  {
+   "args": {
+    "query": "MARCH AM",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "MARCH AM"
+  },
+  {
+   "args": {
+    "query": "MFS Investment Management Company (Lux)",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "MFS Investment Management Company (Lux)"
+  },
+  {
+   "args": {
+    "query": "Magallanes Value Investors SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Magallanes Value Investors SGIIC"
+  },
+  {
+   "args": {
+    "query": "Man Asset Management (Ireland) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Man Asset Management (Ireland) Limited"
+  },
+  {
+   "args": {
+    "query": "Mutuactivos Inversiones AV, S.A.U.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Mutuactivos Inversiones AV, S.A.U."
+  },
+  {
+   "args": {
+    "query": "Muzinich & Co Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Muzinich & Co Ltd"
+  },
+  {
+   "args": {
+    "query": "Natixis Investment Managers Internationa",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Natixis Investment Managers Internationa"
+  },
+  {
+   "args": {
+    "query": "Odey Asset Management LLP",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Odey Asset Management LLP"
+  },
+  {
+   "args": {
+    "query": "PICTET FUNDS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "PICTET FUNDS"
+  },
+  {
+   "args": {
+    "query": "PRISMA S.G.I.I.C. LUX",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "PRISMA S.G.I.I.C. LUX"
+  },
+  {
+   "args": {
+    "query": "PURE CAPITAL INVESTMENT´S FUNDS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "PURE CAPITAL INVESTMENT´S FUNDS"
+  },
+  {
+   "args": {
+    "query": "Polen Capital Management, LLC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Polen Capital Management, LLC"
+  },
+  {
+   "args": {
+    "query": "ROBECO ASSET MANAGEMENT",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ROBECO ASSET MANAGEMENT"
+  },
+  {
+   "args": {
+    "query": "Renta 4 Gestora",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Renta 4 Gestora"
+  },
+  {
+   "args": {
+    "query": "SANTANDER AM",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "SANTANDER AM"
+  },
+  {
+   "args": {
+    "query": "SCHRODER INVESTMENT MANAGEMENT",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "SCHRODER INVESTMENT MANAGEMENT"
+  },
+  {
+   "args": {
+    "query": "SILVER ALPHA ASSET MANAGEMENT SGIIC SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "SILVER ALPHA ASSET MANAGEMENT SGIIC SA"
+  },
+  {
+   "args": {
+    "query": "Santa Lucía Asset Management SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Santa Lucía Asset Management SGIIC"
+  },
+  {
+   "args": {
+    "query": "Schroder Investment Management (Europe)",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Schroder Investment Management (Europe)"
+  },
+  {
+   "args": {
+    "query": "Schroders",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Schroders"
+  },
+  {
+   "args": {
+    "query": "Sebroker Bolsa Agencia de Valores SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Sebroker Bolsa Agencia de Valores SA"
+  },
+  {
+   "args": {
+    "query": "State Street Global Advisors",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "State Street Global Advisors"
+  },
+  {
+   "args": {
+    "query": "Sunny Asset Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Sunny Asset Management"
+  },
+  {
+   "args": {
+    "query": "TESYS ACTIVOS FINANCIEROS S.G.I.I.C., S.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "TESYS ACTIVOS FINANCIEROS S.G.I.I.C., S."
+  },
+  {
+   "args": {
+    "query": "UBAM INTERNATIONAL SERVICES",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "UBAM INTERNATIONAL SERVICES"
+  },
+  {
+   "args": {
+    "query": "UBS WEALTH MANAGEMENT, S.G.I.I.C., S.A",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "UBS WEALTH MANAGEMENT, S.G.I.I.C., S.A"
+  },
+  {
+   "args": {
+    "query": "UTI International (Singapore) Pvt. Ltd.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "UTI International (Singapore) Pvt. Ltd."
+  },
+  {
+   "args": {
+    "query": "VALENTUM ASSET MANAGEMENT SGIIC SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "VALENTUM ASSET MANAGEMENT SGIIC SA"
+  },
+  {
+   "args": {
+    "query": "Vanguard Group (Ireland) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Vanguard Group (Ireland) Limited"
+  },
+  {
+   "args": {
+    "query": "Vulcan Value Partners, LLC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Vulcan Value Partners, LLC"
+  },
+  {
+   "args": {
+    "query": "WAYSTONE/ AZVALOR LUX SICAV SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "WAYSTONE/ AZVALOR LUX SICAV SA"
+  },
+  {
+   "args": {
+    "query": "santalucia Asset Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "santalucia Asset Management"
+  },
+  {
+   "args": {
+    "query": "Ábaco Capital SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Ábaco Capital SGIIC"
+  },
+  {
+   "args": {
+    "query": "ALKEN ASSET MANAGEMENT",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ALKEN ASSET MANAGEMENT"
+  },
+  {
+   "args": {
+    "query": "ALTEX PARTNERS LUXEMBOURG",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ALTEX PARTNERS LUXEMBOURG"
+  },
+  {
+   "args": {
+    "query": "AMIRAL GESTION SAS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMIRAL GESTION SAS"
+  },
+  {
+   "args": {
+    "query": "ASHOKA WHITEOAK PTE. LTD",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ASHOKA WHITEOAK PTE. LTD"
+  },
+  {
+   "args": {
+    "query": "ATTITUDE GESTION SGIIC SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ATTITUDE GESTION SGIIC SA"
+  },
+  {
+   "args": {
+    "query": "AXA Investment Managers Paris S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "AXA Investment Managers Paris S.A."
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein Japan Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein Japan Ltd"
+  },
+  {
+   "args": {
+    "query": "Arcano Capital SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Arcano Capital SGIIC"
+  },
+  {
+   "args": {
+    "query": "Aubrey Capital Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Aubrey Capital Management"
+  },
+  {
+   "args": {
+    "query": "BDO Auditores S L",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BDO Auditores S L"
+  },
+  {
+   "args": {
+    "query": "BLI - Banque de Luxembourg Investments S",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLI - Banque de Luxembourg Investments S"
+  },
+  {
+   "args": {
+    "query": "CACEIS (Switzerland) SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "CACEIS (Switzerland) SA"
+  },
+  {
+   "args": {
+    "query": "COBAS LUX SICAV",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "COBAS LUX SICAV"
+  },
+  {
+   "args": {
+    "query": "Cartesio Inversiones SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Cartesio Inversiones SGIIC"
+  },
+  {
+   "args": {
+    "query": "FIL Investment Management (Luxembourg) S",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "FIL Investment Management (Luxembourg) S"
+  },
+  {
+   "args": {
+    "query": "FundRock Distribution S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "FundRock Distribution S.A."
+  },
+  {
+   "args": {
+    "query": "Fundsmith LLP",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Fundsmith LLP"
+  },
+  {
+   "args": {
+    "query": "GAM Investment Management (Switzerland) AG",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GAM Investment Management (Switzerland) AG"
+  },
+  {
+   "args": {
+    "query": "GOLDMAN SACHS (NN)",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GOLDMAN SACHS (NN)"
+  },
+  {
+   "args": {
+    "query": "Groupama Assurances Mutuelles SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Groupama Assurances Mutuelles SA"
+  },
+  {
+   "args": {
+    "query": "HOROS ASSET MANAGEMENT SGIIC SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "HOROS ASSET MANAGEMENT SGIIC SA"
+  },
+  {
+   "args": {
+    "query": "INVESCO GLOBAL ASSET MANGEMENT LIMITED",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "INVESCO GLOBAL ASSET MANGEMENT LIMITED"
+  },
+  {
+   "args": {
+    "query": "Intermoney",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Intermoney"
+  },
+  {
+   "args": {
+    "query": "JPMORGAN AM",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "JPMORGAN AM"
+  },
+  {
+   "args": {
+    "query": "KREDIETRUST LUXEMBOURG SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "KREDIETRUST LUXEMBOURG SA"
+  },
+  {
+   "args": {
+    "query": "MAGALLANES VALUE INVESTORS, S.A. SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "MAGALLANES VALUE INVESTORS, S.A. SGIIC"
+  },
+  {
+   "args": {
+    "query": "Mitsubishi UFJ Morgan Stanley Securities Co Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Mitsubishi UFJ Morgan Stanley Securities Co Ltd"
+  },
+  {
+   "args": {
+    "query": "Ninety One Guernsey Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Ninety One Guernsey Limited"
+  },
+  {
+   "args": {
+    "query": "ODDO MERITEN ASSET MANAGEMENT S.A.,",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ODDO MERITEN ASSET MANAGEMENT S.A.,"
+  },
+  {
+   "args": {
+    "query": "Oddo BHF SCA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Oddo BHF SCA"
+  },
+  {
+   "args": {
+    "query": "PANZA CAPITAL SGIIC, SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "PANZA CAPITAL SGIIC, SA"
+  },
+  {
+   "args": {
+    "query": "Pareto Asset Management AS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Pareto Asset Management AS"
+  },
+  {
+   "args": {
+    "query": "Prisma Global Asset Management SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Prisma Global Asset Management SGIIC"
+  },
+  {
+   "args": {
+    "query": "Renta 4 Gestora SGIIC S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Renta 4 Gestora SGIIC S.A."
+  },
+  {
+   "args": {
+    "query": "SOLVENTIS GESTION S.G.C., S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "SOLVENTIS GESTION S.G.C., S.A."
+  },
+  {
+   "args": {
+    "query": "TRESSIS GESTION SGIIC SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "TRESSIS GESTION SGIIC SA"
+  },
+  {
+   "args": {
+    "query": "VERITAS ASSET MANAGEMENT LLP",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "VERITAS ASSET MANAGEMENT LLP"
+  },
+  {
+   "args": {
+    "query": "WELZIA SGIIC DEPOSITARIA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "WELZIA SGIIC DEPOSITARIA"
+  },
+  {
+   "args": {
+    "query": "ABANTE ASESORES GESTIÓN, SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ABANTE ASESORES GESTIÓN, SGIIC"
+  },
+  {
+   "args": {
+    "query": "ADEPA AM",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ADEPA AM"
+  },
+  {
+   "args": {
+    "query": "AZVALOR ASSET MANAGEMENT SGIIC, S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "AZVALOR ASSET MANAGEMENT SGIIC, S.A."
+  },
+  {
+   "args": {
+    "query": "BLACKROCK INSTITUTIONAL CASH",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLACKROCK INSTITUTIONAL CASH"
+  },
+  {
+   "args": {
+    "query": "BUY AND HOLD CAPITAL, SGIIC, S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BUY AND HOLD CAPITAL, SGIIC, S.A."
+  },
+  {
+   "args": {
+    "query": "Buy & Hold Capital SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Buy & Hold Capital SGIIC"
+  },
+  {
+   "args": {
+    "query": "DEGROOF CACEIS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "DEGROOF CACEIS"
+  },
+  {
+   "args": {
+    "query": "DNB Asset Management AS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "DNB Asset Management AS"
+  },
+  {
+   "args": {
+    "query": "Dunas Capital Asset Management SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Dunas Capital Asset Management SGIIC"
+  },
+  {
+   "args": {
+    "query": "Dux Inversores SGIIC S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Dux Inversores SGIIC S.A."
+  },
+  {
+   "args": {
+    "query": "Evli-Rahastoyhtiö Oy",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Evli-Rahastoyhtiö Oy"
+  },
+  {
+   "args": {
+    "query": "Flossbach von Storch Invest S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Flossbach von Storch Invest S.A."
+  },
+  {
+   "args": {
+    "query": "FundPartner Solutions (Europe) S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "FundPartner Solutions (Europe) S.A."
+  },
+  {
+   "args": {
+    "query": "GQG Partners LLC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GQG Partners LLC"
+  },
+  {
+   "args": {
+    "query": "Groupama Asset Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Groupama Asset Management"
+  },
+  {
+   "args": {
+    "query": "Jupiter Asset Management Bermuda Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Jupiter Asset Management Bermuda Ltd"
+  },
+  {
+   "args": {
+    "query": "LBP AM",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "LBP AM"
+  },
+  {
+   "args": {
+    "query": "METAGESTION, S.A., S.G.I.I.C.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "METAGESTION, S.A., S.G.I.I.C."
+  },
+  {
+   "args": {
+    "query": "NIM S.A",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "NIM S.A"
+  },
+  {
+   "args": {
+    "query": "Nomura Asset Management U.K. Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Nomura Asset Management U.K. Limited"
+  },
+  {
+   "args": {
+    "query": "ODDO BHF Asset Management SAS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ODDO BHF Asset Management SAS"
+  },
+  {
+   "args": {
+    "query": "SINGULAR ASSET MANAGEMENT, S.G.I.I.C.,",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "SINGULAR ASSET MANAGEMENT, S.G.I.I.C.,"
+  },
+  {
+   "args": {
+    "query": "Schroder Investment Management (Europe) S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Schroder Investment Management (Europe) S.A."
+  },
+  {
+   "args": {
+    "query": "Seilern Investment Management Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Seilern Investment Management Ltd"
+  },
+  {
+   "args": {
+    "query": "Standard Chartered International (USA)",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Standard Chartered International (USA)"
+  },
+  {
+   "args": {
+    "query": "TREA ASSET MANAGEMENT S.G.I.I.C., S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "TREA ASSET MANAGEMENT S.G.I.I.C., S.A."
+  },
+  {
+   "args": {
+    "query": "WELZIA MANAGEMENT, SGIIC, S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "WELZIA MANAGEMENT, SGIIC, S.A."
+  },
+  {
+   "args": {
+    "query": "Amiral Gestion",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Amiral Gestion"
+  },
+  {
+   "args": {
+    "query": "BLI  BANQUE DE LUXEMBOURG",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLI  BANQUE DE LUXEMBOURG"
+  },
+  {
+   "args": {
+    "query": "Bellevue Asset Management Ltd.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Bellevue Asset Management Ltd."
+  },
+  {
+   "args": {
+    "query": "CARMIGNAC GESTION LUXEMBOURG",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "CARMIGNAC GESTION LUXEMBOURG"
+  },
+  {
+   "args": {
+    "query": "DWS Investment GmbH",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS Investment GmbH"
+  },
+  {
+   "args": {
+    "query": "EFG Asset Management (UK) Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "EFG Asset Management (UK) Ltd"
+  },
+  {
+   "args": {
+    "query": "GVC GAESCO GESTIÓN, SGIIC, S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GVC GAESCO GESTIÓN, SGIIC, S.A."
+  },
+  {
+   "args": {
+    "query": "Jupiter Asset Management (Europe) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Jupiter Asset Management (Europe) Limited"
+  },
+  {
+   "args": {
+    "query": "Lombard Odier Funds (Europe) SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Lombard Odier Funds (Europe) SA"
+  },
+  {
+   "args": {
+    "query": "MUTUACTIVOS S.A.U. S.G.I.I.C.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "MUTUACTIVOS S.A.U. S.G.I.I.C."
+  },
+  {
+   "args": {
+    "query": "Mutuactivos SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Mutuactivos SGIIC"
+  },
+  {
+   "args": {
+    "query": "Neuberger Berman Europe Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Neuberger Berman Europe Ltd"
+  },
+  {
+   "args": {
+    "query": "SANTA LUCIA ASSET MANAGEMENT, SGIIC, S.A",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "SANTA LUCIA ASSET MANAGEMENT, SGIIC, S.A"
+  },
+  {
+   "args": {
+    "query": "THREADNEEDLE LUX",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "THREADNEEDLE LUX"
+  },
+  {
+   "args": {
+    "query": "Tikehau Investment Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Tikehau Investment Management"
+  },
+  {
+   "args": {
+    "query": "Tressis Sociedad de Valores SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Tressis Sociedad de Valores SA"
+  },
+  {
+   "args": {
+    "query": "WELCOME ASSET MANAGEMENT, SGIIC, S. A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "WELCOME ASSET MANAGEMENT, SGIIC, S. A."
+  },
+  {
+   "args": {
+    "query": "ACACIA INVERSION SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ACACIA INVERSION SGIIC"
+  },
+  {
+   "args": {
+    "query": "BELLEVUE ASSET MANAGEMENT AG",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BELLEVUE ASSET MANAGEMENT AG"
+  },
+  {
+   "args": {
+    "query": "CAJA INGENIEROS SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "CAJA INGENIEROS SGIIC"
+  },
+  {
+   "args": {
+    "query": "CANDRIAM NEW LUX",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "CANDRIAM NEW LUX"
+  },
+  {
+   "args": {
+    "query": "DWS INVESTMENTS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS INVESTMENTS"
+  },
+  {
+   "args": {
+    "query": "Edmond de Rothschild Asset Management (France)",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Edmond de Rothschild Asset Management (France)"
+  },
+  {
+   "args": {
+    "query": "GRUPO EDM",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GRUPO EDM"
+  },
+  {
+   "args": {
+    "query": "Generali Investments Luxembourg SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Generali Investments Luxembourg SA"
+  },
+  {
+   "args": {
+    "query": "Gesalcala",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Gesalcala"
+  },
+  {
+   "args": {
+    "query": "SWISSCANTO FUNDS",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "SWISSCANTO FUNDS"
+  },
+  {
+   "args": {
+    "query": "Triodos Investment Management B.V.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Triodos Investment Management B.V."
+  },
+  {
+   "args": {
+    "query": "VANGUARD INVESTMENT SERIES PLC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "VANGUARD INVESTMENT SERIES PLC"
+  },
+  {
+   "args": {
+    "query": "Wellington Global Administrator Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Wellington Global Administrator Ltd"
+  },
+  {
+   "args": {
+    "query": "BBVA ASSET MANAGEMENT SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BBVA ASSET MANAGEMENT SGIIC"
+  },
+  {
+   "args": {
+    "query": "BlueBay Funds Management Company S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlueBay Funds Management Company S.A."
+  },
+  {
+   "args": {
+    "query": "Capital International Management Company",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Capital International Management Company"
+  },
+  {
+   "args": {
+    "query": "Carmignac Gestion Luxembourg S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Carmignac Gestion Luxembourg S.A."
+  },
+  {
+   "args": {
+    "query": "Degroof Petercam Asset Management SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Degroof Petercam Asset Management SA"
+  },
+  {
+   "args": {
+    "query": "Fidelity Investments Distributors",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Fidelity Investments Distributors"
+  },
+  {
+   "args": {
+    "query": "Guinness Asset Management Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Guinness Asset Management Limited"
+  },
+  {
+   "args": {
+    "query": "Hermes Investment Management Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Hermes Investment Management Ltd"
+  },
+  {
+   "args": {
+    "query": "Janus Henderson Investors International Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Janus Henderson Investors International Limited"
+  },
+  {
+   "args": {
+    "query": "Baillie Gifford Investment Management (Europe) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Baillie Gifford Investment Management (Europe) Limited"
+  },
+  {
+   "args": {
+    "query": "Candriam",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Candriam"
+  },
+  {
+   "args": {
+    "query": "GESCONSULT,  S.A. SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GESCONSULT,  S.A. SGIIC"
+  },
+  {
+   "args": {
+    "query": "INVERSIS GESTION, S.A., S.G.I.I.C.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "INVERSIS GESTION, S.A., S.G.I.I.C."
+  },
+  {
+   "args": {
+    "query": "JPMorgan Funds (Asia) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "JPMorgan Funds (Asia) Limited"
+  },
+  {
+   "args": {
+    "query": "Legg Mason Investor Services, LLC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Legg Mason Investor Services, LLC"
+  },
+  {
+   "args": {
+    "query": "M&G Investment Management Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "M&G Investment Management Limited"
+  },
+  {
+   "args": {
+    "query": "SCHRODER INVESTMENT MANAGEMENT, SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "SCHRODER INVESTMENT MANAGEMENT, SA"
+  },
+  {
+   "args": {
+    "query": "Sycomore Asset Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Sycomore Asset Management"
+  },
+  {
+   "args": {
+    "query": "UBS Asset Management (Europe) S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "UBS Asset Management (Europe) S.A."
+  },
+  {
+   "args": {
+    "query": "UBS Asset Management Switzerland AG",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "UBS Asset Management Switzerland AG"
+  },
+  {
+   "args": {
+    "query": "Belfius Bank SA/NV",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Belfius Bank SA/NV"
+  },
+  {
+   "args": {
+    "query": "GESIURIS SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GESIURIS SGIIC"
+  },
+  {
+   "args": {
+    "query": "J.P. Morgan Asset Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "J.P. Morgan Asset Management"
+  },
+  {
+   "args": {
+    "query": "Rothschild & Co Asset Management",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Rothschild & Co Asset Management"
+  },
+  {
+   "args": {
+    "query": "State Street Global Advisors Europe Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "State Street Global Advisors Europe Limited"
+  },
+  {
+   "args": {
+    "query": "Threadneedle Management Luxembourg S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Threadneedle Management Luxembourg S.A."
+  },
+  {
+   "args": {
+    "query": "ADEPA Asset Management SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ADEPA Asset Management SA"
+  },
+  {
+   "args": {
+    "query": "BinckBank NV",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BinckBank NV"
+  },
+  {
+   "args": {
+    "query": "Comgest Asset Management Intl Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Comgest Asset Management Intl Ltd"
+  },
+  {
+   "args": {
+    "query": "First Independent Fund Services Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "First Independent Fund Services Ltd"
+  },
+  {
+   "args": {
+    "query": "Man Investments AG",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Man Investments AG"
+  },
+  {
+   "args": {
+    "query": "BNP Paribas Asset Management Luxembourg",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BNP Paribas Asset Management Luxembourg"
+  },
+  {
+   "args": {
+    "query": "Natixis Investment Managers International",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Natixis Investment Managers International"
+  },
+  {
+   "args": {
+    "query": "EDM Gestion, S.A.U., S.G.I.I.C.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "EDM Gestion, S.A.U., S.G.I.I.C."
+  },
+  {
+   "args": {
+    "query": "abrdn Investments Luxembourg S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "abrdn Investments Luxembourg S.A."
+  },
+  {
+   "args": {
+    "query": "Janus Henderson Investors UK Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Janus Henderson Investors UK Limited"
+  },
+  {
+   "args": {
+    "query": "Amundi Luxembourg S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Amundi Luxembourg S.A."
+  },
+  {
+   "args": {
+    "query": "La Financière de l'Echiquier",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "La Financière de l'Echiquier"
+  },
+  {
+   "args": {
+    "query": "MFS International Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "MFS International Ltd"
+  },
+  {
+   "args": {
+    "query": "Polar Capital LLP",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Polar Capital LLP"
+  },
+  {
+   "args": {
+    "query": "Vontobel Asset Management S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Vontobel Asset Management S.A."
+  },
+  {
+   "args": {
+    "query": "Goldman Sachs Asset Management Fund Services Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Goldman Sachs Asset Management Fund Services Ltd"
+  },
+  {
+   "args": {
+    "query": "Carmignac Gestion",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Carmignac Gestion"
+  },
+  {
+   "args": {
+    "query": "AXA Investment Managers SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "AXA Investment Managers SA"
+  },
+  {
+   "args": {
+    "query": "GESALCALA SGIIC S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GESALCALA SGIIC S.A."
+  },
+  {
+   "args": {
+    "query": "FundRock Management Company (Ireland) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "FundRock Management Company (Ireland) Limited"
+  },
+  {
+   "args": {
+    "query": "JP MORGAN FLEMING AM",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "JP MORGAN FLEMING AM"
+  },
+  {
+   "args": {
+    "query": "GAM Fund Management Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "GAM Fund Management Limited"
+  },
+  {
+   "args": {
+    "query": "Invesco Management S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Invesco Management S.A."
+  },
+  {
+   "args": {
+    "query": "Amundi",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Amundi"
+  },
+  {
+   "args": {
+    "query": "M&G International Investments Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "M&G International Investments Ltd"
+  },
+  {
+   "args": {
+    "query": "Swisscanto",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Swisscanto"
+  },
+  {
+   "args": {
+    "query": "BlackRock Investment Management (UK) Ltd.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock Investment Management (UK) Ltd."
+  },
+  {
+   "args": {
+    "query": "Franklin Templeton International Services S.à r.l.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Franklin Templeton International Services S.à r.l."
+  },
+  {
+   "args": {
+    "query": "Goldman Sachs Asset Management B.V.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Goldman Sachs Asset Management B.V."
+  },
+  {
+   "args": {
+    "query": "PIMCO Europe Ltd",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "PIMCO Europe Ltd"
+  },
+  {
+   "args": {
+    "query": "BNY Mellon Fund Management (Lux) S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BNY Mellon Fund Management (Lux) S.A."
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein Investments",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein Investments"
+  },
+  {
+   "args": {
+    "query": "AMUNDI ASSET MANAGEMENT",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMUNDI ASSET MANAGEMENT"
+  },
+  {
+   "args": {
+    "query": "RENTA 4 GESTORA, S.G.I.I.C, S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "RENTA 4 GESTORA, S.G.I.I.C, S.A."
+  },
+  {
+   "args": {
+    "query": "Union Bancaire Privée, UBP SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Union Bancaire Privée, UBP SA"
+  },
+  {
+   "args": {
+    "query": "Nordea Investment Funds SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Nordea Investment Funds SA"
+  },
+  {
+   "args": {
+    "query": "Allianz Global Investors GmbH",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Allianz Global Investors GmbH"
+  },
+  {
+   "args": {
+    "query": "MSIM Fund Management (Ireland) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "MSIM Fund Management (Ireland) Limited"
+  },
+  {
+   "args": {
+    "query": "Schroder Investment Management Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Schroder Investment Management Limited"
+  },
+  {
+   "args": {
+    "query": "Andbank Asset Management Luxembourg",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Andbank Asset Management Luxembourg"
+  },
+  {
+   "args": {
+    "query": "JPMorgan Asset Management (Europe) S.à r",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "JPMorgan Asset Management (Europe) S.à r"
+  },
+  {
+   "args": {
+    "query": "Robeco Institutional Asset Management BV",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Robeco Institutional Asset Management BV"
+  },
+  {
+   "args": {
+    "query": "DWS Investment S.A.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS Investment S.A."
+  },
+  {
+   "args": {
+    "query": "BlackRock Advisors (UK) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock Advisors (UK) Limited"
+  },
+  {
+   "args": {
+    "query": "BlackRock (Channel Islands) Limited",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock (Channel Islands) Limited"
+  },
+  {
+   "args": {
+    "query": "Pictet Asset Management (Europe) SA",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "Pictet Asset Management (Europe) SA"
+  },
+  {
+   "args": {
+    "query": "JPMorgan Asset Management (Europe) S.à r.l.",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "JPMorgan Asset Management (Europe) S.à r.l."
+  },
+  {
+   "args": {
+    "query": "VANGUARD ASSET MANAGEMENT",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "VANGUARD ASSET MANAGEMENT"
+  },
+  {
+   "args": {
+    "query": "FIL Distributors",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "FIL Distributors"
+  },
+  {
+   "args": {
+    "query": "ANDBANK WEALTH MANAGEMENT SGIIC",
+    "distributing": false
+   },
+   "dim_idx": 0,
+   "etiqueta": "ANDBANK WEALTH MANAGEMENT SGIIC"
+  },
+  {
+   "args": {
+    "query": "AMUNDI FUNDS",
+    "distributing": false,
+    "currency": "EUR"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMUNDI FUNDS · currency=EUR"
+  },
+  {
+   "args": {
+    "query": "AMUNDI FUNDS",
+    "distributing": false,
+    "currency": "USD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMUNDI FUNDS · currency=USD"
+  },
+  {
+   "args": {
+    "query": "AMUNDI FUNDS",
+    "distributing": false,
+    "currency": "GBP"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMUNDI FUNDS · currency=GBP"
+  },
+  {
+   "args": {
+    "query": "AMUNDI FUNDS",
+    "distributing": false,
+    "currency": "CHF"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMUNDI FUNDS · currency=CHF"
+  },
+  {
+   "args": {
+    "query": "AMUNDI FUNDS",
+    "distributing": false,
+    "currency": "JPY"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMUNDI FUNDS · currency=JPY"
+  },
+  {
+   "args": {
+    "query": "AMUNDI FUNDS",
+    "distributing": false,
+    "currency": "AUD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMUNDI FUNDS · currency=AUD"
+  },
+  {
+   "args": {
+    "query": "AMUNDI FUNDS",
+    "distributing": false,
+    "currency": "NOK"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AMUNDI FUNDS · currency=NOK"
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein",
+    "distributing": false,
+    "currency": "EUR"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein · currency=EUR"
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein",
+    "distributing": false,
+    "currency": "USD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein · currency=USD"
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein",
+    "distributing": false,
+    "currency": "GBP"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein · currency=GBP"
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein",
+    "distributing": false,
+    "currency": "CHF"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein · currency=CHF"
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein",
+    "distributing": false,
+    "currency": "JPY"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein · currency=JPY"
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein",
+    "distributing": false,
+    "currency": "AUD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein · currency=AUD"
+  },
+  {
+   "args": {
+    "query": "AllianceBernstein",
+    "distributing": false,
+    "currency": "NOK"
+   },
+   "dim_idx": 0,
+   "etiqueta": "AllianceBernstein · currency=NOK"
+  },
+  {
+   "args": {
+    "query": "Andbank Wealth Management SGIIC",
+    "distributing": false,
+    "currency": "EUR"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Andbank Wealth Management SGIIC · currency=EUR"
+  },
+  {
+   "args": {
+    "query": "Andbank Wealth Management SGIIC",
+    "distributing": false,
+    "currency": "USD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Andbank Wealth Management SGIIC · currency=USD"
+  },
+  {
+   "args": {
+    "query": "Andbank Wealth Management SGIIC",
+    "distributing": false,
+    "currency": "GBP"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Andbank Wealth Management SGIIC · currency=GBP"
+  },
+  {
+   "args": {
+    "query": "Andbank Wealth Management SGIIC",
+    "distributing": false,
+    "currency": "CHF"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Andbank Wealth Management SGIIC · currency=CHF"
+  },
+  {
+   "args": {
+    "query": "Andbank Wealth Management SGIIC",
+    "distributing": false,
+    "currency": "JPY"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Andbank Wealth Management SGIIC · currency=JPY"
+  },
+  {
+   "args": {
+    "query": "Andbank Wealth Management SGIIC",
+    "distributing": false,
+    "currency": "AUD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Andbank Wealth Management SGIIC · currency=AUD"
+  },
+  {
+   "args": {
+    "query": "Andbank Wealth Management SGIIC",
+    "distributing": false,
+    "currency": "NOK"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Andbank Wealth Management SGIIC · currency=NOK"
+  },
+  {
+   "args": {
+    "query": "BLACKROCK",
+    "distributing": false,
+    "currency": "EUR"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLACKROCK · currency=EUR"
+  },
+  {
+   "args": {
+    "query": "BLACKROCK",
+    "distributing": false,
+    "currency": "USD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLACKROCK · currency=USD"
+  },
+  {
+   "args": {
+    "query": "BLACKROCK",
+    "distributing": false,
+    "currency": "GBP"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLACKROCK · currency=GBP"
+  },
+  {
+   "args": {
+    "query": "BLACKROCK",
+    "distributing": false,
+    "currency": "CHF"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLACKROCK · currency=CHF"
+  },
+  {
+   "args": {
+    "query": "BLACKROCK",
+    "distributing": false,
+    "currency": "JPY"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLACKROCK · currency=JPY"
+  },
+  {
+   "args": {
+    "query": "BLACKROCK",
+    "distributing": false,
+    "currency": "AUD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLACKROCK · currency=AUD"
+  },
+  {
+   "args": {
+    "query": "BLACKROCK",
+    "distributing": false,
+    "currency": "NOK"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BLACKROCK · currency=NOK"
+  },
+  {
+   "args": {
+    "query": "BlackRock",
+    "distributing": false,
+    "currency": "EUR"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock · currency=EUR"
+  },
+  {
+   "args": {
+    "query": "BlackRock",
+    "distributing": false,
+    "currency": "USD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock · currency=USD"
+  },
+  {
+   "args": {
+    "query": "BlackRock",
+    "distributing": false,
+    "currency": "GBP"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock · currency=GBP"
+  },
+  {
+   "args": {
+    "query": "BlackRock",
+    "distributing": false,
+    "currency": "CHF"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock · currency=CHF"
+  },
+  {
+   "args": {
+    "query": "BlackRock",
+    "distributing": false,
+    "currency": "JPY"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock · currency=JPY"
+  },
+  {
+   "args": {
+    "query": "BlackRock",
+    "distributing": false,
+    "currency": "AUD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock · currency=AUD"
+  },
+  {
+   "args": {
+    "query": "BlackRock",
+    "distributing": false,
+    "currency": "NOK"
+   },
+   "dim_idx": 0,
+   "etiqueta": "BlackRock · currency=NOK"
+  },
+  {
+   "args": {
+    "query": "DWS",
+    "distributing": false,
+    "currency": "EUR"
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS · currency=EUR"
+  },
+  {
+   "args": {
+    "query": "DWS",
+    "distributing": false,
+    "currency": "USD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS · currency=USD"
+  },
+  {
+   "args": {
+    "query": "DWS",
+    "distributing": false,
+    "currency": "GBP"
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS · currency=GBP"
+  },
+  {
+   "args": {
+    "query": "DWS",
+    "distributing": false,
+    "currency": "CHF"
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS · currency=CHF"
+  },
+  {
+   "args": {
+    "query": "DWS",
+    "distributing": false,
+    "currency": "JPY"
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS · currency=JPY"
+  },
+  {
+   "args": {
+    "query": "DWS",
+    "distributing": false,
+    "currency": "AUD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS · currency=AUD"
+  },
+  {
+   "args": {
+    "query": "DWS",
+    "distributing": false,
+    "currency": "NOK"
+   },
+   "dim_idx": 0,
+   "etiqueta": "DWS · currency=NOK"
+  },
+  {
+   "args": {
+    "query": "Franklin Templeton International Service",
+    "distributing": false,
+    "currency": "EUR"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Franklin Templeton International Service · currency=EUR"
+  },
+  {
+   "args": {
+    "query": "Franklin Templeton International Service",
+    "distributing": false,
+    "currency": "USD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Franklin Templeton International Service · currency=USD"
+  },
+  {
+   "args": {
+    "query": "Franklin Templeton International Service",
+    "distributing": false,
+    "currency": "GBP"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Franklin Templeton International Service · currency=GBP"
+  },
+  {
+   "args": {
+    "query": "Franklin Templeton International Service",
+    "distributing": false,
+    "currency": "CHF"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Franklin Templeton International Service · currency=CHF"
+  },
+  {
+   "args": {
+    "query": "Franklin Templeton International Service",
+    "distributing": false,
+    "currency": "JPY"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Franklin Templeton International Service · currency=JPY"
+  },
+  {
+   "args": {
+    "query": "Franklin Templeton International Service",
+    "distributing": false,
+    "currency": "AUD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Franklin Templeton International Service · currency=AUD"
+  },
+  {
+   "args": {
+    "query": "Franklin Templeton International Service",
+    "distributing": false,
+    "currency": "NOK"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Franklin Templeton International Service · currency=NOK"
+  },
+  {
+   "args": {
+    "query": "Gesalcalá SGIIC",
+    "distributing": false,
+    "currency": "EUR"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Gesalcalá SGIIC · currency=EUR"
+  },
+  {
+   "args": {
+    "query": "Gesalcalá SGIIC",
+    "distributing": false,
+    "currency": "USD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Gesalcalá SGIIC · currency=USD"
+  },
+  {
+   "args": {
+    "query": "Gesalcalá SGIIC",
+    "distributing": false,
+    "currency": "GBP"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Gesalcalá SGIIC · currency=GBP"
+  },
+  {
+   "args": {
+    "query": "Gesalcalá SGIIC",
+    "distributing": false,
+    "currency": "CHF"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Gesalcalá SGIIC · currency=CHF"
+  },
+  {
+   "args": {
+    "query": "Gesalcalá SGIIC",
+    "distributing": false,
+    "currency": "JPY"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Gesalcalá SGIIC · currency=JPY"
+  },
+  {
+   "args": {
+    "query": "Gesalcalá SGIIC",
+    "distributing": false,
+    "currency": "AUD"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Gesalcalá SGIIC · currency=AUD"
+  },
+  {
+   "args": {
+    "query": "Gesalcalá SGIIC",
+    "distributing": false,
+    "currency": "NOK"
+   },
+   "dim_idx": 0,
+   "etiqueta": "Gesalcalá SGIIC · currency=NOK"
+  }
+ ],
+ "hechos": [
+  "AT0000A03N37",
+  "AT0000A0WLX3",
+  "DE0008474024",
+  "DE000DWS29E6",
+  "ES0105011037",
+  "ES0106949037",
+  "ES0107696017",
+  "ES0107696066",
+  "ES0107696074",
+  "ES0107696082",
+  "ES0107696090",
+  "ES0107696108",
+  "ES0110407063",
+  "ES0110407113",
+  "ES0111171106",
+  "ES0116567035",
+  "ES0118591009",
+  "ES0119207001",
+  "ES0121776035",
+  "ES0124526015",
+  "ES0131445027",
+  "ES0137333029",
+  "ES0137381036",
+  "ES0138217031",
+  "ES0138233038",
+  "ES0138494028",
+  "ES0138911039",
+  "ES0138922002",
+  "ES0138922036",
+  "ES0138984036",
+  "ES0140072028",
+  "ES0140074032",
+  "ES0140986011",
+  "ES0142537002",
+  "ES0142537010",
+  "ES0142537036",
+  "ES0143559005",
+  "ES0143562595",
+  "ES0147897005",
+  "ES0157638000",
+  "ES0160741007",
+  "ES0162332037",
+  "ES0162946034",
+  "ES0162948006",
+  "ES0164282008",
+  "ES0165265002",
+  "ES0167211004",
+  "ES0167211038",
+  "ES0168797092",
+  "ES0168798041",
+  "ES0168799056",
+  "ES0174115016",
+  "ES0174115024",
+  "ES0174115057",
+  "ES0174115065",
+  "ES0175604034",
+  "ES0179692001",
+  "ES0182527038",
+  "ES0184894006",
+  "FI0008801188",
+  "FR0000172041",
+  "FR0007390174",
+  "FR0010738229",
+  "FR0010996736",
+  "GB00B60SM090",
+  "IE0004766014",
+  "IE0004766675",
+  "IE000DDQNQO2",
+  "IE000ON4Z2S8",
+  "IE0033116579",
+  "IE0033535075",
+  "IE0033535182",
+  "IE00B2NN6563",
+  "IE00B3CCJ740",
+  "IE00B3CCJB88",
+  "IE00B3M4GP73",
+  "IE00B4TVJL59",
+  "IE00B4ZJ4188",
+  "IE00B55JMJ98",
+  "IE00B65D2871",
+  "IE00BB7N4393",
+  "IE00BD1DJ122",
+  "IE00BD2B9710",
+  "IE00BD4GTQ32",
+  "IE00BD5HXJ66",
+  "IE00BD5HXK71",
+  "IE00BDGV0290",
+  "IE00BDZS0L05",
+  "IE00BF2SJC17",
+  "IE00BGDW0489",
+  "IE00BGHQF417",
+  "IE00BGHQF631",
+  "IE00BGHQF748",
+  "IE00BGK1Q390",
+  "IE00BQXX3D17",
+  "IE00BTC1N590",
+  "IE00BTFQZL13",
+  "IE00BWGC5V93",
+  "IE00BWY57036",
+  "IE00BYQ67K80",
+  "IE00BYSJTY39",
+  "IE00BYT35X57",
+  "IE00BYX5MD61",
+  "IE00BYX8VR20",
+  "LU0048293368",
+  "LU0049014870",
+  "LU0049015760",
+  "LU0056508442",
+  "LU0078277505",
+  "LU0087412390",
+  "LU0090865873",
+  "LU0095024591",
+  "LU0109392836",
+  "LU0122613655",
+  "LU0124675678",
+  "LU0132412106",
+  "LU0140363697",
+  "LU0145481650",
+  "LU0171305526",
+  "LU0171306680",
+  "LU0171310443",
+  "LU0171310955",
+  "LU0211340665",
+  "LU0229940001",
+  "LU0232524495",
+  "LU0232525203",
+  "LU0232528306",
+  "LU0248185190",
+  "LU0252218267",
+  "LU0252219315",
+  "LU0260870158",
+  "LU0261948904",
+  "LU0271483876",
+  "LU0273148055",
+  "LU0273159177",
+  "LU0289132655",
+  "LU0300736062",
+  "LU0309191657",
+  "LU0326422689",
+  "LU0326423224",
+  "LU0390137031",
+  "LU0397155978",
+  "LU0423950210",
+  "LU0474346029",
+  "LU0496367763",
+  "LU0501220429",
+  "LU0528228074",
+  "LU0553169458",
+  "LU0557872479",
+  "LU0568620560",
+  "LU0568621618",
+  "LU0568622186",
+  "LU0592505589",
+  "LU0633140644",
+  "LU0633142186",
+  "LU0638558717",
+  "LU0683600646",
+  "LU0687943661",
+  "LU0697197597",
+  "LU0709028343",
+  "LU0787776565",
+  "LU0826452848",
+  "LU0925041153",
+  "LU1021288268",
+  "LU1048657123",
+  "LU1103303167",
+  "LU1127386651",
+  "LU1305479153",
+  "LU1372006947",
+  "LU1433245245",
+  "LU1483615412",
+  "LU1530899142",
+  "LU1569896738",
+  "LU1637618742",
+  "LU1637619120",
+  "LU1662495974",
+  "LU1662496279",
+  "LU1662506093",
+  "LU1704830576",
+  "LU1769942233",
+  "LU1793346823",
+  "LU1822773716",
+  "LU1822851884",
+  "LU1861215975",
+  "LU1863263346",
+  "LU1883329432",
+  "LU1883342377",
+  "LU1883848977",
+  "LU1883854199",
+  "LU1901908894",
+  "LU1914383960",
+  "LU1923361049",
+  "LU1941681014",
+  "LU1966822527",
+  "LU1966822956",
+  "LU2092176515",
+  "LU2146179192",
+  "LU2400291972",
+  "LU2468423889",
+  "LU2794620331",
+  "LU3046617042",
+  "LU3105996113",
+  "LU3105996899",
+  "LU3178693639",
+  "LU3231124366"
+ ],
+ "sin_resolver": [],
+ "gestoras_sin_match": [
+  "BARING ASSET MANAGEMENT",
+  "Baring International Fund Mgrs (Ireland)",
+  "Baring International Fund Mgrs (Ireland) Limited",
+  "Gesiuris",
+  "HSBC Investment Funds (Luxembourg) S.A.",
+  "INDEPENDANCE AM S.A.S.",
+  "Indépendance AM",
+  "JANUS HENDERSON CAPITAL",
+  "JANUS HENDERSON HORIZON FUND",
+  "JULIUS BAER GESTION, SGIIC, S.A.",
+  "Janus Henderson Investors",
+  "LCL – Le Crédit Lyonnais",
+  "La Banque Postale SA",
+  "Lazard Asset Management",
+  "Lazard Asset Management Ltd",
+  "MAN INVESTMENTS AG",
+  "MAPFRE ASSET MANAGEMENT, S.G.I.I.C., S.A",
+  "MATTHEWS INTERNATIONAL CAPITAL MANAGEMEN",
+  "MDO MANAG. COMP. MAN UMBRELLA",
+  "MDO VARIANZA",
+  "MIRABAUD ASSET MANAGEMENT (EUROPE) S.A.",
+  "MIRALTA ASSET MANAGEMENT SGIIC SAU",
+  "ML Capital Asset Management Limited",
+  "MORGAN STANLEY INVESTMENT MANAGEMENT",
+  "MUZA GESTION DE ACTIVOS, SGIIC, S.A.",
+  "MUZINICH FUNDS",
+  "Mirae Asset Global Investments (HK) Ltd",
+  "Mutuactivos",
+  "NATIXIS BBH",
+  "NEVASTAR",
+  "NINETY ONE LUXEMBOURG S.A.",
+  "NORDEA INVESTMENT FUNDS S.A.",
+  "Neuberger Berman",
+  "OFI Invest Asset Management",
+  "OLEA INVESTMENT FUND",
+  "Olea Gestión de Activos SGIIC",
+  "Pacific Asset Management",
+  "PineBridge Investments Ireland Ltd",
+  "Polar Capital",
+  "Principal Investment & Retirement Services Limited",
+  "Quaero Capital SA",
+  "Raiffeisen Kapitalanlage GmbH",
+  "Renta 4 Banco S.A.",
+  "SEILERN INVESTMENT MANAGEMENT IRELAND",
+  "SYCOMORE FR ASSET MANAGEMENT",
+  "SYQUANT CAPITAL",
+  "Santander Asset Management SGIIC",
+  "Singular Asset Management",
+  "Singular Bank SA",
+  "Storm Capital Management Ltd",
+  "Swisscanto Asset Management International S.A.",
+  "Tesys Activos Financieros",
+  "Thames River Capital LLP",
+  "Trea AM",
+  "Troy Asset Management Limited",
+  "UBS GLOBAL ASSET MANAGEMENT",
+  "UBS Wealth Management SGIIC SA",
+  "VARIANZA GESTION, SGIIC, S.A.",
+  "Value Tree AV S.A.",
+  "Vanguard",
+  "Wealtheon S.A",
+  "iM Global Partner Asset Management S.A.",
+  "ACATIS Investment Kapitalverwaltungsgesellschaft mbH",
+  "ACCI CAPITAL INVESTMENTS SGIIC S.A.",
+  "AFFM SA",
+  "ALPHA FIXED INCOME UCITS",
+  "ANTA ASSET MANAGEMENT SGIIC SA"
+ ],
+ "llamadas": 150,
+ "completo": false
+}

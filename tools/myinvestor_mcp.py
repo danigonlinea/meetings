@@ -60,8 +60,13 @@ class MCP:
 
     @staticmethod
     def _read_sse(response, want_id: int) -> dict | None:
-        for raw in response.iter_lines(decode_unicode=True):
-            if not raw or not raw.strip().startswith("data:"):
+        # SSE sin charset: requests decodifica como latin-1 y rompe los acentos.
+        # Se leen bytes y se decodifican como UTF-8 explícitamente.
+        for raw_bytes in response.iter_lines():
+            if not raw_bytes:
+                continue
+            raw = raw_bytes.decode("utf-8", errors="replace")
+            if not raw.strip().startswith("data:"):
                 continue
             try:
                 message = json.loads(raw.split(":", 1)[1].strip())
@@ -82,7 +87,7 @@ class MCP:
         if notify:
             return None
         if response.headers.get("content-type", "").startswith("application/json"):
-            return response.json()
+            return json.loads(response.content.decode("utf-8"))
         return self._read_sse(response, self._id)
 
     def init(self) -> dict:

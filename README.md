@@ -19,6 +19,8 @@ finance/                        inversión y finanzas
     README.md                   mapa de las dos carpetas y reglas
     cartera-myinvestor/         MyInvestor: 97.000 € (manual + Rock)
     cartera-renta4/             Renta 4 Banco: 34.769 €
+  fondos-myinvestor/            BD parcial de fondos de acumulación del MCP (205 fichas; volcado
+                                detenido por los términos del servicio; ver su README.md)
   reports/                      informes de canal, síntesis y auditorías (el `type` los distingue)
 ai/                             IA
   dev-docs-explained/           Dev Docs Explained (agentes, Claude, LLMs)

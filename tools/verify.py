@@ -28,7 +28,7 @@ import build_index as bi  # noqa: E402
 
 ROOT = bi.ROOT
 FOLDER = re.compile(r"^\d{4}-\d{2}-\d{2}-[a-z0-9]+(?:-[a-z0-9]+)*$")
-NO_EVENT = {"portfolio", "reports", "archivo"}
+NO_EVENT = {"portfolio", "reports", "archivo", "fondos-myinvestor"}
 # Carpetas que agrupan vídeos de una misma fuente: se recorre un nivel más.
 CONTAINERS = {"videos"}
 KEYS = ("title", "date", "type", "category", "tags", "status")
