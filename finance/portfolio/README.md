@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veintitrés carteras propias y una de referencia"
+title: "Cartera: veinticuatro carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres]
 status: living
 ---
-# Cartera: veintitrés carteras propias y una de referencia
+# Cartera: veinticuatro carteras propias y una de referencia
 
-Veintitrés patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veinticuatro patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -34,6 +34,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-final-conservadora/` | **Una talla, 100.000 €**: la cartera del 18/11 con el crédito consolidado en Neuberger (**12 fondos**, **54,6 % de RV**, **509,70 €/año (0,566 %)**, duración 1,61) y **≈4,8 % de rentabilidad esperada anual** con rango 2,3-6,8 % y supuestos escritos | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, coste, duración, rentabilidad esperada con su método, 22 órdenes en dos fases, 1.000 €/mes, descartes con número y señales) |
 | `cartera-ai-no-indexados-5/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,3543 %; `200k.md`, 8 + 3 con Valentum, 70 %, 1,3417 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-final-atrevida/` | **Una talla, 110.000 €**: desde cero, con **10.000 € en el monetario** por mandato y 12 fondos sin ETF (**82,15 % de RV real**, **877,80 €/año (0,798 %)**, caída −33,4 %, **≈6,1 % esperado** con rango 4,0-7,4 %) | Un fichero (`110k.md`): la cartera entera (ISIN, bloques, geografía, tilts, rentabilidad esperada con supuestos, 13 órdenes y descartes con número) |
+| `cartera-ai-final-qwen4max/` | **Una talla, 110.000 €**: mismo mandato que la atrevida (10.000 € en Groupama, sin ETF ni reparto) con otro criterio: **el índice es el edificio** (65 % de lo invertible) y la convicción activa la pieza (29 %). 10 fondos, **84,15 % de RV real**, **598,50 €/año (0,544 %)**, caída −34,1 %, **≈6,2 % esperado** con rango 4,1-7,5 % | Un fichero (`110k.md`): la cartera entera (ISIN, dos bases, bloques, geografía, tilts, esperanza con supuestos y escenario sin prima, comparador indexado con alfa de empate, 11 órdenes y descartes con número) |
 | `cartera-ai-rock-index-value-todo/` | **Una talla, 100.000 €**, con **Rock como pieza de indexado** (30 %, intacta), **monetario escalonado de 14.000 €** (Groupama €STR + DWS Euro Ultra Short) y **trece fondos que no replican índices**: 55,5 % de RV real, 0,615 % de coste total, −23,54 % de caída de manual | Un fichero (`100k.md`): la cartera entera (ISIN, razón fondo a fondo, métricas, 17 traspasos, descartes con número y señales) |
 | `cartera-cobas/` | **Una talla, 100.000 €**, con **solo fondos de Cobas** y ninguna otra condición: 30 % Cobas Renta, 40 % Cobas Large Cap y 30 % Cobas Selection. **50,52 % de RV declarada (≈74 % cauta)**, **1.278 €/año (1,28 %)** y **≈5,7 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, los tres bloques, la lectura declarada frente a la cauta del cajón «otros», métricas, 3 órdenes, descartes con número y señales) |
 | `cartera-horos/` | **Una talla, 100.000 €**, con **solo fondos de Horos**: 55 % Horos Value Internacional, 20 % Horos Value Iberia y 25 % Horos Patrimonio. **70,53 % de RV**, **1.626,50 €/año fijo (1,63 %)** + éxito, **≈6,0 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía ibérica al 28,8 % de la RV, 3 órdenes, descartes y señales) |
@@ -180,7 +181,7 @@ tallas. Concesiones escritas: cero small caps, cero inmobiliario, cero ligado a 
 ESG. Datos del buscador público de la plataforma (2.587 productos), porque el MCP cortó por límite de uso.
 
 
-`cartera-ai-final-conservadora/` es la decimoctava y **la última en fecha**: no nace de cero, sino de
+`cartera-ai-final-conservadora/` es la decimoctava: no nace de cero, sino de
 `cartera-myinvestor/propuesta-pieza.md` con **un solo cambio** verificado contra el catálogo el 19/11 —el bloque
 de crédito corto se consolida en Neuberger (clase I al 0,25 % para el dinero nuevo) y sale M&G (0,47 %, mínimo
 1.000 €)—. Doce fondos en trece posiciones, 54,61 % de RV, 509,70 €/año (0,566 %), duración 1,61 y **≈4,8 % de
@@ -189,7 +190,18 @@ rentabilidad esperada anual** (2,8 % real) con rango 2,3-6,8 % y sus supuestos e
 diferencia es la convicción value y la prueba de 2029. Descartados con cifra: Dodge & Cox (mínimo **50.000 €**,
 EE. UU. 54,7 %), el REITs institucional al 0,23 % (el que hay ya cuesta 0,17 %) y el ABS de Morgan Stanley al
 1,23 %.
-`cartera-ai-final-atrevida/` es la decimonovena y **la última en fecha (19/11/2026)**: nace **desde cero** con solo las condiciones del titular —nada que reparta dividendos, nada de ETF, 110.000 € y 10.000 € en Groupama Trésorerie— y **ninguna regla heredada** (ni 55/45, ni techo de indexado, ni mínimo por línea). Doce fondos al **82,15 % de RV real**, con núcleo indexado al 0,06 % y seis convicciones activas (Brandes, Horos, Fundsmith, Robeco, Hermes Asia, Nomura Japón cubierto), **877,80 €/año (0,798 %)** y **≈6,1 % de esperanza central** (4,0-7,4 %). Su documento escribe en la primera línea que **7-8 % es el escenario favorable y no la mediana**: con las valoraciones de 2026 ninguna cartera diversificada de fondos lo tiene como base, y subir la RV al 100 % solo añadiría +0,18 pp.
+`cartera-ai-final-atrevida/` es la decimonovena (19/11/2026): nace **desde cero** con solo las condiciones del titular —nada que reparta dividendos, nada de ETF, 110.000 € y 10.000 € en Groupama Trésorerie— y **ninguna regla heredada** (ni 55/45, ni techo de indexado, ni mínimo por línea). Doce fondos al **82,15 % de RV real**, con núcleo indexado al 0,06 % y seis convicciones activas (Brandes, Horos, Fundsmith, Robeco, Hermes Asia, Nomura Japón cubierto), **877,80 €/año (0,798 %)** y **≈6,1 % de esperanza central** (4,0-7,4 %). Su documento escribe en la primera línea que **7-8 % es el escenario favorable y no la mediana**: con las valoraciones de 2026 ninguna cartera diversificada de fondos lo tiene como base, y subir la RV al 100 % solo añadiría +0,18 pp.
+
+`cartera-ai-final-qwen4max/` es un diseño independiente del mismo encargo que la atrevida —110.000 €,
+10.000 en Groupama, nada que reparta, nada de ETF, objetivo 7-8 %— y **no hereda ninguna regla** del
+repositorio. Su criterio invierte el reparto índice/activo: **65 % de lo invertible en cuatro índices
+(0,1069 %) y 29 % en cuatro convicciones** (Brandes Europa value, Horos global value, Nomura Japón cubierto y
+Hermes Asia ex-Japón), con la evidencia SPIVA (94-97,65 % de los activos no baten su índice a 10 años) como
+razón del techo activo. **84,15 % de RV real**, **598,50 €/año (0,544 %)** —279,30 € menos que la atrevida—,
+caída −34,1 % (−37.548 €) y **≈6,2 % de esperanza central** (4,1-7,5 %). El 7-8 % queda escrito como
+escenario favorable: sin la prima value la cartera da 5,8 % y el comparador 100 % indexado (121,20 €/año,
+6,05 %) gana; el alfa de empate del bloque activo es 1,60 pp netos con prueba el 30/11/2029. No compite con
+la atrevida: son dos criterios sobre el mismo mandato y el titular elige.
 
 
 ## Reglas
@@ -222,6 +234,16 @@ EE. UU. 54,7 %), el REITs institucional al 0,23 % (el que hay ya cuesta 0,17 %) 
 
 ## Estado a 19/11/2026
 
+- **`cartera-ai-final-qwen4max` (19/11/2026, sin ejecutar):** `110k.md`. Desde cero, 110.000 € con 10.000 en
+  Groupama: **10 fondos + monetario**, **84,15 % de RV real**, **598,50 €/año (0,544 %)**, caída de manual
+  −34,1 % (−37.548 €), duración del crédito 1,73 (−103,50 € por +100 pb) y **≈6,2 % esperado** (4,2 % real;
+  rango 4,1-7,5 %; sin prima value, 5,8 %). **11 órdenes en una sesión** (cuatro cortes), con Brandes atado a
+  su mínimo de 10.000 € y plan B de clase para el núcleo (Fidelity MSCI World P, +26,40 €/año). Comparador
+  100 % indexado: 121,20 €/año y 6,05 %; alfa de empate del bloque activo 1,60 pp con prueba el 30/11/2029.
+  Descartados con número: Fundsmith y Robeco (duplican el núcleo), Magallanes (peor que Brandes), T. Rowe
+  (solapa), Cobas Large Cap (30,7 % en «otros»), Ashoka EM (USD sin cubrir), CROCI Japón (yen sin cubrir),
+  Agg 1-5Y (duración ≈2,8), bono emergente (vol 6,7 %) y cat bond (10 días de reembolso). Pendientes:
+  horizonte del titular, si el monetario es permanente, si habrá aportaciones y la fecha de ejecución.
 - **`cartera-ai-final-atrevida` (19/11/2026, sin ejecutar):** `110k.md`. Desde cero, 110.000 € con 10.000 en Groupama: **12 fondos**, **82,15 % de RV real**, **877,80 €/año (0,798 %)**, caída de manual −33,4 % (−36.733 €) y **≈6,1 % esperado** (4,1 % real; rango 4,0-7,4 %). **13 órdenes en una sesión**, con Brandes atado a su mínimo de 10.000 €. Descartados con número: Magallanes (peor que Brandes en 3A y 5A), T. Rowe (solapa), Cobas Large Cap (69,3 % de RV), Ashoka EM (USD sin cubrir), CROCI Japón (yen sin cubrir), el Agg 1-5Y (TIR 2,6 %), el bono emergente (6,7 % de vol) y el cat bond (8 días). Pendientes: horizonte del titular, si el monetario es permanente y si habrá aportaciones.
 
 - **`cartera-ai-final-conservadora` (19/11/2026, sin ejecutar):** `100k.md`. La cartera del 18/11 con el
