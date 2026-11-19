@@ -48,7 +48,8 @@ en una caída: **−34.250 €** es la cifra que hay que poder mirar sin vender.
 | --- | --- | --: | --: | --: | --: | --: |
 | 100.000 € | `100k.md` | 4 | **84,46 %** | **96,00 €/año (0,096 %)** | **−34,25 % (−34.250 €)** | **≈6,16 %** (4,05-8,27 %) |
 
-El fichero es la cartera entera: ISIN, pesos, los tres bloques, geografía y sectores por *look-through*, las tres
+El fichero es la cartera entera: ISIN, pesos, los tres bloques, geografía y sectores por *look-through*, el
+**backtest real de cinco años** de la estructura (+7,9 % anualizado, −12,9 % de máxima caída, 2022 −12,1 %), las tres
 variantes de edad, la **rentabilidad esperada con sus supuestos y la tabla de aportaciones**, el **plan completo**
 (colchón, aportación, rebandeo, glide desde los 55), las 4 órdenes en dos cortes, los vehículos descartados con su
 número y las pruebas de §9.

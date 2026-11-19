@@ -342,7 +342,9 @@ EE. UU. 54,7 %), el REITs institucional al 0,23 % (el que hay ya cuesta 0,17 %) 
   fondos** (iShares Developed World S 65 % al **0,06 %**, iShares Emerging Markets S 10 %, Vanguard Global
   Small-Cap 10 %, iShares Global Aggregate 1-5Y EUR H 15 %), **84,46 % de RV real**, **96,00 €/año (0,096 %)**,
   caída **−34,25 % (−34.250 €)**, **cero comisiones de éxito** y **≈6,16 % esperado** (4,05-8,27 %). **4 órdenes
-  en dos cortes** (09:00 y 16:00), liquidación de 4 días en el núcleo. Variantes escritas: 70/30 (99,30 €,
+  en dos cortes** (09:00 y 16:00), liquidación de 4 días en el núcleo. **Backtest de la estructura en cinco años
+  reales** (`backtest_portfolio`, 2021-2026, con las clases antiguas de los mismos índices): **+7,9 % anualizado,
+  10,2 % de volatilidad, −12,9 % de máxima caída y 2022 en −12,1 %**. Variantes escritas: 70/30 (99,30 €,
   −28,74 %, 5,61 %) y 100/0 (93,00 €, −39,74 %, 6,70 %). Plan completo: colchón fuera, aportación automática
   (1.000 €/mes → ≈1,31 M € a los 67), rebalanceo por bandas y glide de edad desde los 55. Descartados con número:
   Vanguard World (78 €/año más), Fidelity World (26 € más), REITs (5 % que solo añadían volatilidad), Euro IG

@@ -114,6 +114,12 @@ python3 tools/aie_talks.py catalogo              # reescribe ai/ai-engineer/cata
 python3 tools/nuevos.py
 python3 tools/nuevos.py --json
 
+# catálogo de fondos de MyInvestor por MCP (fichas, TER, allocations, backtest)
+python3 tools/myinvestor_mcp.py tools                       # herramientas disponibles
+python3 tools/myinvestor_mcp.py ficha IE00B03HD191          # ficha completa por ISIN
+python3 tools/myinvestor_mcp.py buscar "vanguard" --max-ter 0.2
+python3 tools/myinvestor_mcp.py backtest 65:IE00B03HD191 10:IE0031786696 10:IE00B42W4L06 15:IE00BH65QP47
+
 # índice del repositorio
 python3 tools/build_index.py
 
