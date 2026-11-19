@@ -1,14 +1,14 @@
 ---
-title: "Cartera: diecinueve carteras propias y una de referencia"
+title: "Cartera: veintiuna carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-cobas, cartera-horos, cartera-de-andres]
 status: living
 ---
-# Cartera: diecinueve carteras propias y una de referencia
+# Cartera: veintiuna carteras propias y una de referencia
 
-Diecinueve patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintiún patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -33,6 +33,8 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-no-indexados-5/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,3543 %; `200k.md`, 8 + 3 con Valentum, 70 %, 1,3417 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-final-atrevida/` | **Una talla, 110.000 €**: desde cero, con **10.000 € en el monetario** por mandato y 12 fondos sin ETF (**82,15 % de RV real**, **877,80 €/año (0,798 %)**, caída −33,4 %, **≈6,1 % esperado** con rango 4,0-7,4 %) | Un fichero (`110k.md`): la cartera entera (ISIN, bloques, geografía, tilts, rentabilidad esperada con supuestos, 13 órdenes y descartes con número) |
 | `cartera-ai-rock-index-value-todo/` | **Una talla, 100.000 €**, con **Rock como pieza de indexado** (30 %, intacta), **monetario escalonado de 14.000 €** (Groupama €STR + DWS Euro Ultra Short) y **trece fondos que no replican índices**: 55,5 % de RV real, 0,615 % de coste total, −23,54 % de caída de manual | Un fichero (`100k.md`): la cartera entera (ISIN, razón fondo a fondo, métricas, 17 traspasos, descartes con número y señales) |
+| `cartera-cobas/` | **Una talla, 100.000 €**, con **solo fondos de Cobas** y ninguna otra condición: 30 % Cobas Renta, 40 % Cobas Large Cap y 30 % Cobas Selection. **50,52 % de RV declarada (≈74 % cauta)**, **1.278 €/año (1,28 %)** y **≈5,7 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, los tres bloques, la lectura declarada frente a la cauta del cajón «otros», métricas, 3 órdenes, descartes con número y señales) |
+| `cartera-horos/` | **Una talla, 100.000 €**, con **solo fondos de Horos**: 55 % Horos Value Internacional, 20 % Horos Value Iberia y 25 % Horos Patrimonio. **70,53 % de RV**, **1.626,50 €/año fijo (1,63 %)** + éxito, **≈6,0 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía ibérica al 28,8 % de la RV, 3 órdenes, descartes y señales) |
 | `cartera-ai-rock-desmontado/` | **Una talla, 100.000 €**, **Rock desmontado por traspaso** y su cupo gastado en índice limpio: núcleo MSCI World al 0,06 %, emergentes, small caps y REITs indexados, RF corta indexada, monetario de 14.500 € y **dos satélites activos** (Europa low-vol y cat bonds). 55,31 % de RV real, **236,10 €/año (0,236 %)**, −23,46 % de caída | Un fichero (`100k.md`): la cartera entera (ISIN, métricas contra las otras propuestas, 20 traspasos en dos fases y descartes con número) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
@@ -50,6 +52,16 @@ cartera aparte: cuatro acciones individuales sin dividendo mencionadas en el cor
 múltiplo y señal de invalidación, pensadas para convivir con la cartera una vez rebalanceada a 55/45.
 No se financia vendiendo ninguna de las dos carteras ni se consolida con ellas. La cartera con acciones
 propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva acciones a propósito.
+
+`cartera-cobas/` y `cartera-horos/` son **dos diseños desde cero con una sola condición de gestora** cada uno
+—100.000 € y solo fondos de esa casa—, pedidos el 19/11/2026 y **sin ninguna regla heredada** del repositorio.
+No derivan de las otras carteras y no se suman entre sí: cada una responde a su mandato. Lo que el mandato
+impone está escrito en cada documento y no se disimula: en Cobas, los tres fondos de RV son el mismo libro (y los
+cuatro fondos españoles de la gestora no están en la plataforma), así que el único contrapeso es Cobas Renta; en
+Horos, la casa solo tiene dos fondos de RV y un fondo de renta fija nacido el 17/10/2025, de modo que la cartera
+es una apuesta value small/mid con **28,8 % de la RV en España y Portugal**. Cobas se documenta con **dos
+lecturas de riesgo** —RV declarada 50,52 % frente a 74,12 % si el cajón «otros» es renta variable, que es la que
+gobierna la caída de −30,4 %— porque un tercio de esas fichas no desglosa su exposición.
 
 `cartera-ai-no-indexados/` es un tercer diseño independiente del mismo agente, con **dos condiciones únicas
 del titular** —ningún fondo indexado, ningún fondo que reparta dividendos— y **ninguna regla heredada** del
@@ -277,3 +289,18 @@ EE. UU. 54,7 %), el REITs institucional al 0,23 % (el que hay ya cuesta 0,17 %) 
   (asumido 15+ años), tolerancia a la caída (−35,5 %), las concesiones (cero small caps, cero inmobiliario, cero
   ligado a inflación y emergentes con filtro ESG), la relectura por MCP cuando el límite se reponga y qué talla
   se ejecuta.
+- **cartera-cobas (19/11/2026, sin ejecutar):** `100k.md`. Solo fondos de Cobas y ninguna otra condición: **3
+  fondos** (Cobas Renta 30 %, Large Cap 40 %, Selection 30 %), RV declarada **50,52 %** frente a **74,12 %** en la
+  lectura cauta, caída **−30,4 %**, coste **1.278 €/año (1,278 %)** —1.098 € si Large Cap cobra los 0,96 % de la
+  ficha— y **≈5,7 % esperado** (4,5-6,5 %). **3 órdenes** en una sesión (12:00 y 14:00). Descartados con número:
+  Cobas International (mismo libro, 0,28 pp más caro, 84 €/año), los dos planes de pensiones Cobas (no son
+  fondos) y los cuatro fondos españoles de la gestora (**no están en el catálogo**). Pendientes: horizonte
+  (asumido 10+ años), tolerancia a −30,4 %, el TER real de Large Cap y **el soft close inminente de los dos
+  fondos de RV**, que obliga a abrir el 70 % ahora o nunca.
+- **cartera-horos (19/11/2026, sin ejecutar):** `100k.md`. Solo fondos de Horos: **3 fondos** (Value
+  Internacional 55 %, Value Iberia 20 %, Patrimonio 25 %), **70,53 % de RV**, caída **−29,1 % (−29.095 €)**,
+  **1.626,50 €/año de coste fijo (1,63 %)** más ≈37,50 € de comisión de éxito, **≈6,0 % esperado** (4,3-7,1 %).
+  **3 órdenes** a las 12:00. Descartados: los dos planes de pensiones de la casa (no son fondos) y un segundo
+  fondo de renta fija que **no existe**. Pendientes: horizonte (asumido 10+ años), tolerancia a la caída, el TER
+  real de Patrimonio (no publicado) y si se acepta que el 25 % del dinero esté en un fondo de 11 meses con 5 % de
+  éxito.
