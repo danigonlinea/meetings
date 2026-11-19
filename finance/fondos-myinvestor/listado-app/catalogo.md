@@ -1,6 +1,6 @@
 ---
 title: "Listado de fondos MyInvestor — snapshot de la app"
-date: 2026-11-19
+date: 2026-11-20
 type: reference
 category: finance
 tags: [fondos, myinvestor, catalogo, listado]
@@ -10,11 +10,11 @@ status: living
 # Listado de fondos MyInvestor — snapshot de la app
 
 Índice generado por `python3 tools/parsear_listado_myinvestor.py`. No editar a mano.
-Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-19).
+Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 333
+**Fondos: 1980** · con ficha previa: 346
 
 | Clase | Fondos |
 | --- | --- |
@@ -151,7 +151,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0352158918 | UBAM - Dynamic US Dollar Bond AHC EUR | Activa | EUR | US Fixed Income | 0,32 | 3,64 | 2 | — |
 | ES0141580003 | SIGMA INVESTMENT HOUSE AHORRO, | Activa | EUR | Europe Fixed Income | 0,34 | 3,49 | 2 | 4 |
 | [LU1050470373](../renta-fija/LU1050470373.md) | Amundi IS JP Morgan EMU Govies AE-C | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
-| LU1050470456 | Amundi IS JP Morgan EMU Govies AE-D | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
+| [LU1050470456](../renta-fija/LU1050470456.md) | Amundi IS JP Morgan EMU Govies AE-D | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
 | [LU0389812933](../renta-fija/LU0389812933.md) | Amundi IS JP Morgan GBI Glbl Gvs AHE-C | Indexada | EUR | Global Fixed Income | 0,35 | 0,60 | 2 | 3 |
 | [LU0389813071](../renta-fija/LU0389813071.md) | Amundi IS JP Morgan GBI Glbl Gvs AHE-D | Indexada | EUR | Global Fixed Income | 0,35 | 0,60 | 2 | 3 |
 | [LU1525412281](../renta-fija/LU1525412281.md) | Amundi Index Barclays Euro Corporate BBB 1-5 | Indexada | EUR | Europe Fixed Income | 0,35 | 3,28 | 2 | 4 |
@@ -896,7 +896,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00B03HD084](../rv-global/IE00B03HD084.md) | Vanguard Global Stock Index Inv USD Acc | Indexada | USD | Global Equity Large Cap | 0,18 | 17,44 | 4 | 4 |
 | [LU2349459045](../rv-global/LU2349459045.md) | Goldman Sachs Global Enhanced Index Sustainable Equity - I Cap EUR | Indexada | EUR | Global Equity Large Cap | 0,19 | 17,19 | 4 | 4 |
 | LU0996181599 | Amundi Index Solutions - Amundi Index MSCI World IE-C | Indexada | EUR | Global Equity Large Cap | 0,20 | 17,47 | 4 | 4 |
-| IE00BYX5P602 | Fidelity MSCI World Index Fund P-ACC-EUR (hedged) | Indexada | EUR | Global Equity Large Cap | 0,20 | 16,03 | 4 | — |
+| [IE00BYX5P602](../rv-global/IE00BYX5P602.md) | Fidelity MSCI World Index Fund P-ACC-EUR (hedged) | Indexada | EUR | Global Equity Large Cap | 0,20 | 16,03 | 4 | — |
 | [LU1861133145](../rv-global/LU1861133145.md) | INDEX MSCI WORLD SRI IE ACC EU | Indexada | EUR | Global Equity Large Cap | 0,20 | 12,76 | 4 | 3 |
 | [IE00B5456744](../rv-global/IE00B5456744.md) | Vanguard ESG Developed World All Cap Equity Index Fund EUR Acc | Indexada | EUR | Global Equity Large Cap | 0,20 | 17,40 | 4 | 4 |
 | [IE00B76VTN11](../rv-global/IE00B76VTN11.md) | Vanguard ESG Developed World All Cap Equity Index Fund GBP Acc | Indexada | GBP | Global Equity Large Cap | 0,20 | 17,40 | 4 | 4 |
@@ -1189,9 +1189,9 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [IE000N4ZYX28](../rv-usa/IE000N4ZYX28.md) | iShares US Equity Index Fund clase S | Indexada | EUR | US Equity Large Cap Blend | 0,05 | — | 5 | — |
 | [IE00BD575G75](../rv-usa/IE00BD575G75.md) | iShares North America Index Fund (IE) D Acc EUR | Indexada | EUR | US Equity Large Cap Blend | 0,08 | 18,34 | 5 | 4 |
-| IE00BDZS0987 | iShares US Equity Index Fund | Indexada | EUR | US Equity Large Cap Blend | 0,08 | 17,80 | 5 | 4 |
-| IE0032620787 | Vanguard U.S. 500 Stock Index Fund Investor EUR Accumulation | Indexada | EUR | US Equity Large Cap Blend | 0,10 | 18,17 | 4 | 4 |
-| IE0002639775 | Vanguard U.S. 500 Stock Index Fund USD Acc | Indexada | USD | US Equity Large Cap Blend | 0,10 | 18,17 | 4 | 4 |
+| [IE00BDZS0987](../rv-usa/IE00BDZS0987.md) | iShares US Equity Index Fund | Indexada | EUR | US Equity Large Cap Blend | 0,08 | 17,80 | 5 | 4 |
+| [IE0032620787](../rv-usa/IE0032620787.md) | Vanguard U.S. 500 Stock Index Fund Investor EUR Accumulation | Indexada | EUR | US Equity Large Cap Blend | 0,10 | 18,17 | 4 | 4 |
+| [IE0002639775](../rv-usa/IE0002639775.md) | Vanguard U.S. 500 Stock Index Fund USD Acc | Indexada | USD | US Equity Large Cap Blend | 0,10 | 18,17 | 4 | 4 |
 | [IE00BL6KD459](../rv-usa/IE00BL6KD459.md) | iShares North America Index Fund (IE) EUR Hedged | Indexada | EUR | US Equity Large Cap Blend | 0,10 | 16,57 | 5 | — |
 | [LU0996177720](../rv-usa/LU0996177720.md) | Amundi Index Solutions - Amundi S&P 500 ESG IE-C | Indexada | EUR | US Equity Large Cap Blend | 0,15 | 16,92 | 4 | 4 |
 | [LU0996178371](../rv-usa/LU0996178371.md) | Amundi S&P 500 ESG IHE-C | Indexada | EUR | US Equity Large Cap Blend | 0,15 | 14,80 | 4 | — |
@@ -1509,15 +1509,15 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [IE00BYX5N771](../rv-japon/IE00BYX5N771.md) | Fidelity MSCI Japan Index Fund P-ACC-EUR | Indexada | EUR | Japan Equity | 0,10 | 15,84 | 5 | 3 |
-| IE0007286036 | Vanguard Japan Stock Index Fund EUR Acc | Indexada | EUR | Japan Equity | 0,16 | 15,81 | 5 | 4 |
+| [IE0007286036](../rv-japon/IE0007286036.md) | Vanguard Japan Stock Index Fund EUR Acc | Indexada | EUR | Japan Equity | 0,16 | 15,81 | 5 | 4 |
 | IE00B50MZ948 | Vanguard Japan Stock Index Fund GBP Acc | Indexada | GBP | Japan Equity | 0,16 | 15,81 | 4 | 4 |
 | IE0033862917 | Vanguard Japan Stock Index Fund JPY Acc | Indexada | JPY | Japan Equity | 0,16 | 15,81 | 4 | 4 |
 | IE0007292422 | Vanguard Japan Stock Index Fund USD Acc | Indexada | USD | Japan Equity | 0,16 | 15,81 | 5 | 4 |
-| IE0007292083 | Vanguard Japan Stock Index Inv USD Acc | Indexada | USD | Japan Equity | 0,16 | 15,81 | 5 | 4 |
+| [IE0007292083](../rv-japon/IE0007292083.md) | Vanguard Japan Stock Index Inv USD Acc | Indexada | USD | Japan Equity | 0,16 | 15,81 | 5 | 4 |
 | IE00B6RVWW34 | iShares Japan Index (IE) Instl Acc EUR | Indexada | EUR | Japan Equity | 0,17 | 15,84 | 5 | 4 |
 | IE00B1W56M32 | iShares Japan Index (IE) Instl Acc USD | Indexada | USD | Japan Equity | 0,17 | 15,84 | 5 | 4 |
-| IE00BYX5NH74 | Fidelity MSCI Japan Index Fund P-ACC-EUR (hedged) | Indexada | EUR | Japan Equity | 0,20 | 20,14 | 5 | — |
-| LU0474966834 | Pictet-Japan Index-R EUR | Indexada | EUR | Japan Equity | 0,75 | 14,95 | 4 | 3 |
+| [IE00BYX5NH74](../rv-japon/IE00BYX5NH74.md) | Fidelity MSCI Japan Index Fund P-ACC-EUR (hedged) | Indexada | EUR | Japan Equity | 0,20 | 20,14 | 5 | — |
+| [LU0474966834](../rv-japon/LU0474966834.md) | Pictet-Japan Index-R EUR | Indexada | EUR | Japan Equity | 0,75 | 14,95 | 4 | 3 |
 | LU1797817605 | M&G (Lux) Japan Smaller Companies Fund USD C-H Acc | Activa | USD | Japan Equity | 1,00 | 21,36 | 4 | — |
 | [LU1769942233](../rv-japon/LU1769942233.md) | DWS CROCI JAPAN LCH ACC EUR | Activa | EUR | Japan Equity | 1,48 | 18,23 | 4 | — |
 | LU0255975830 | Pictet-Japanese Equity Selection-P EUR | Activa | EUR | Japan Equity | 1,49 | 12,94 | 4 | 2 |
@@ -1551,10 +1551,10 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | IE0031786696 | Vanguard Emerging Markets Stock Index Fund EUR Acc | Indexada | EUR | Global Emerging Markets Equity | 0,23 | 17,14 | 4 | 4 |
 | IE0031786142 | Vanguard Emerging Markets Stock Index Fund Investor EUR Accumulation | Indexada | EUR | Global Emerging Markets Equity | 0,23 | 17,14 | 4 | 3 |
 | IE0031787223 | Vanguard Emerging Markets Stock Index Fund USD Acc | Indexada | USD | Global Emerging Markets Equity | 0,23 | 17,14 | 4 | 4 |
-| LU1861137724 | IDX MSCI EME MKTS IE ACC EUR | Indexada | EUR | Global Emerging Markets Equity | 0,25 | 11,15 | 4 | 2 |
+| [LU1861137724](../rv-emergentes/LU1861137724.md) | IDX MSCI EME MKTS IE ACC EUR | Indexada | EUR | Global Emerging Markets Equity | 0,25 | 11,15 | 4 | 2 |
 | LU0303706948 | Goldman Sachs Emerging Markets Enhanced Index Sustainable Equity - I Cap USD | Indexada | USD | Global Emerging Markets Equity | 0,26 | 18,12 | 4 | 4 |
-| IE00BKV0W243 | Vanguard ESG Emerging Markets All Cap Equity Index Fund EUR Acc | Indexada | EUR | Global Emerging Markets Equity | 0,26 | 14,49 | 4 | 3 |
-| IE00BKV0W359 | Vanguard ESG Emerging Markets All Cap Equity Index Fund USD Acc | Indexada | USD | Global Emerging Markets Equity | 0,26 | 14,49 | 4 | 3 |
+| [IE00BKV0W243](../rv-emergentes/IE00BKV0W243.md) | Vanguard ESG Emerging Markets All Cap Equity Index Fund EUR Acc | Indexada | EUR | Global Emerging Markets Equity | 0,26 | 14,49 | 4 | 3 |
+| [IE00BKV0W359](../rv-emergentes/IE00BKV0W359.md) | Vanguard ESG Emerging Markets All Cap Equity Index Fund USD Acc | Indexada | USD | Global Emerging Markets Equity | 0,26 | 14,49 | 4 | 3 |
 | LU1815002040 | UBS MSCI China All Shares Universal Index Fund EUR A acc | Activa | EUR | Greater China Equity | 0,30 | 8,11 | 5 | 4 |
 | IE00B3D07G23 | iShares Emerging Markets Index (IE) Instl Acc USD | Indexada | USD | Global Emerging Markets Equity | 0,32 | 17,17 | 5 | 3 |
 | IE00B3D07F16 | iShares Emerging Marktes Index (IE) Instl Acc EUR | Indexada | EUR | Global Emerging Markets Equity | 0,32 | 17,17 | 5 | 3 |
@@ -1635,7 +1635,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0040507039 | EMERGING MARKETS EQ B ACC USD | Activa | USD | Global Emerging Markets Equity | 2,11 | 9,46 | 4 | 1 |
 | LU0040506734 | Vontobel Emerging Markets Eq A USD | Activa | USD | Global Emerging Markets Equity | 2,11 | 9,46 | 4 | 1 |
 | [LU0213961765](../rv-emergentes/LU0213961765.md) | HSBC Global Investment Funds - Turkey Equity AD | Activa | EUR | Equity Miscellaneous | 2,15 | -0,38 | 6 | — |
-| LU1883867761 | Amundi Funds - Russian Equity A EUR (C) | Indexada | EUR | Europe Emerging Markets Equity | 2,18 | -4,03 | 6 | — |
+| [LU1883867761](../rv-emergentes/LU1883867761.md) | Amundi Funds - Russian Equity A EUR (C) | Indexada | EUR | Europe Emerging Markets Equity | 2,18 | -4,03 | 6 | — |
 | LU0332315638 | EASTERN EUROPEAN FUND A AC EUR | Activa | EUR | Europe Emerging Markets Equity | 2,20 | — | 6 | — |
 | IE00B68FF474 | MAGNA NEW FRONTIERS R EUR ACC | Activa | EUR | Global Emerging Markets Equity | 2,20 | 12,85 | 4 | 2 |
 | LU0823425839 | BNP Paribas China Eq Cl EUR C | Activa | EUR | Greater China Equity | 2,21 | 5,64 | 5 | 4 |

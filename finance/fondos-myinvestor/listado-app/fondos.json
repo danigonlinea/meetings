@@ -2,7 +2,7 @@
  "fuente": {
   "url": "https://newapp.myinvestor.es/app/explore/investments/funds/search",
   "fichero": "MyInvestor.html",
-  "snapshot": "2026-11-19",
+  "snapshot": "2026-11-20",
   "nota": "Página guardada manualmente por el titular; parseada sin acceso automatizado a MyInvestor."
  },
  "campos_no_publicados": [
@@ -9958,7 +9958,7 @@
    "srri": 4,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-usa/IE0002639775.md"
   },
   {
    "isin": "IE000267N380",
@@ -10295,7 +10295,7 @@
    "srri": 5,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-japon/IE0007286036.md"
   },
   {
    "isin": "IE0007292083",
@@ -10314,7 +10314,7 @@
    "srri": 5,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-japon/IE0007292083.md"
   },
   {
    "isin": "IE0007292422",
@@ -11214,7 +11214,7 @@
    "srri": 4,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-usa/IE0032620787.md"
   },
   {
    "isin": "IE0032722260",
@@ -14555,7 +14555,7 @@
    "srri": 5,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-usa/IE00BDZS0987.md"
   },
   {
    "isin": "IE00BDZS0L05",
@@ -15483,7 +15483,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-emergentes/IE00BKV0W243.md"
   },
   {
    "isin": "IE00BKV0W359",
@@ -15502,7 +15502,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-emergentes/IE00BKV0W359.md"
   },
   {
    "isin": "IE00BKYBHV81",
@@ -16287,7 +16287,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-japon/IE00BYX5NH74.md"
   },
   {
    "isin": "IE00BYX5P602",
@@ -16308,7 +16308,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-global/IE00BYX5P602.md"
   },
   {
    "isin": "IE00BYX8VR20",
@@ -25758,7 +25758,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-japon/LU0474966834.md"
   },
   {
    "isin": "LU0474967055",
@@ -30359,7 +30359,7 @@
    "srri": 3,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "renta-fija/LU1050470456.md"
   },
   {
    "isin": "LU1059379971",
@@ -35080,7 +35080,7 @@
    "srri": 4,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-emergentes/LU1861137724.md"
   },
   {
    "isin": "LU1861138375",
@@ -35765,7 +35765,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-emergentes/LU1883867761.md"
   },
   {
    "isin": "LU1889097959",
