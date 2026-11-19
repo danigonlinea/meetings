@@ -214,7 +214,7 @@ def generar_catalogo(fondos: list[dict], fecha: str, fichas: dict[str, str]) -> 
         f"Fuente: `MyInvestor.html` (página guardada de la app, snapshot {fecha}).",
         "Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.",
         "",
-        f"**Fondos: {len(fondos)}** · con ficha MCP previa: {sum(1 for f in fondos if f['isin'] in fichas)}",
+        f"**Fondos: {len(fondos)}** · con ficha previa: {sum(1 for f in fondos if f['isin'] in fichas)}",
         "",
         "| Clase | Fondos |",
         "| --- | --- |",
@@ -269,7 +269,7 @@ def main() -> int:
     fondos = parsear(html_path)
     fichas = fichas_mcp_existentes()
     for f in fondos:
-        f["ficha_mcp"] = fichas.get(f["isin"])
+        f["ficha"] = fichas.get(f["isin"])
 
     fecha = date.today().isoformat()
     por_clase = Counter(f["clase"] for f in fondos)
@@ -285,7 +285,7 @@ def main() -> int:
     for clase in ORDEN_CLASES:
         if por_clase.get(clase):
             print(f"  {clase:15s} {por_clase[clase]}")
-    print(f"Con ficha MCP previa: {sum(1 for f in fondos if f['ficha_mcp'])}")
+    print(f"Con ficha previa: {sum(1 for f in fondos if f['ficha'])}")
     print(f"Campos pendientes (fondos afectados): {dict(faltantes)}")
 
     if args.dry_run:

@@ -1,6 +1,13 @@
-# Base de datos de fondos MyInvestor (solo acumulación)
+# Base de datos de fondos MyInvestor
 
-> **Estado: PARCIAL Y DETENIDO (2026-11-19).** 205 fichas de 2.197. El volcado se detuvo al
+Dos capas sobre las mismas carpetas de clase (`<clase>/<ISIN>.md`):
+
+- **Fichas MCP:** del catálogo MCP, solo acumulación. Volcado **detenido** (ver abajo).
+- **Fichas del listado de la app:** los 1.980 fondos de `listado-app/`, con datos web
+  (quefondos, Finect) y política de dividendos investigada por fondo. En construcción
+  por lotes con `tools/fichas_listado.py`.
+
+> **Estado del volcado MCP: PARCIAL Y DETENIDO (2026-11-19).** 205 fichas de 2.197. El volcado se detuvo al
 > alcanzar el límite de uso del MCP: sus [términos](https://mcp.myinvestor.es/terms) prohíben
 > el acceso automatizado, la extracción sistemática del catálogo y la construcción de bases de
 > datos derivadas, y eludir los límites (p. ej. repartiendo lotes en el tiempo) también está
@@ -25,11 +32,13 @@ Los que distribuyen cupones o dividendos quedan excluidos por regla del titular.
 
 ## Listado de la app (snapshot)
 
-[`listado-app/`](listado-app/README.md) es una capa aparte: los **1.980 fondos** del listado
-de búsqueda de la app, guardado manualmente por el titular el 2026-11-19 y parseado con
-`tools/parsear_listado_myinvestor.py` (`fondos.json` + catálogo por clase). Incluye fondos
-sin ficha MCP y de política de dividendos desconocida; los campos que el listado no publica
-quedan pendientes. No reanuda ni sustituye al volcado MCP detenido.
+[`listado-app/`](listado-app/README.md) es la capa del listado de búsqueda de la app,
+guardado manualmente por el titular el 2026-11-19 y parseado con
+`tools/parsear_listado_myinvestor.py` (`fondos.json` + catálogo por clase). Cada fondo
+tendrá su ficha web en la carpeta de clase correspondiente (plantilla y reglas en
+`listado-app/plantilla-ficha.md`; progreso con `python3 tools/fichas_listado.py estado`).
+Incluye fondos de cualquier política de dividendos; lo que no se encuentre queda
+`Pendiente`. No reanuda ni sustituye al volcado MCP detenido.
 
 ## Clases
 

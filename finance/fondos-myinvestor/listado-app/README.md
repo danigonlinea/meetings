@@ -70,7 +70,12 @@ Matices del mapa:
 
 178 de los 1.980 fondos ya tienen ficha MCP en el directorio padre (de las 205 escritas);
 el catálogo enlaza a ella desde el ISIN. Las 27 fichas MCP restantes no aparecen en este
-listado de la app. El campo `ficha_mcp` del JSON guarda la ruta relativa cuando existe.
+listado de la app. El campo `ficha` del JSON guarda la ruta relativa de la ficha cuando existe.
+
+Las fichas web del resto de fondos se escriben en las carpetas de clase del directorio padre
+siguiendo [`plantilla-ficha.md`](plantilla-ficha.md), con datos de quefondos.com y Finect
+más el contexto de [`contexto-macro.md`](contexto-macro.md). Progreso y lotes:
+`python3 tools/fichas_listado.py estado|siguientes N`.
 
 *Datos de referencia a fecha del snapshot; rentabilidades pasadas no garantizan futuras.
 No es consejo de inversión.*
