@@ -93,8 +93,8 @@ CATEGORIA_A_CLASE = {c: clase for clase, cats in MAPA_CLASE.items() for c in cat
 
 ORDEN_CLASES = [
     "monetarios", "renta-fija", "mixtos", "rv-global", "rv-usa", "rv-europa",
-    "rv-japon", "rv-emergentes", "rv-otros", "sectoriales", "alternativos",
-    "pendiente",
+    "rv-españa", "rv-japon", "rv-emergentes", "rv-otros", "sectoriales",
+    "alternativos", "pendiente",
 ]
 NOMBRE_CLASE = {
     "monetarios": "Monetarios (liquidez)",
@@ -103,6 +103,7 @@ NOMBRE_CLASE = {
     "rv-global": "Renta variable global",
     "rv-usa": "Renta variable EE. UU.",
     "rv-europa": "Renta variable Europa",
+    "rv-españa": "Renta variable España",
     "rv-japon": "Renta variable Japón",
     "rv-emergentes": "Renta variable emergentes",
     "rv-otros": "Renta variable otras regiones",
@@ -196,8 +197,12 @@ def fmt(v: float | None, dec: int = 2) -> str:
     return s
 
 
-def generar_catalogo(fondos: list[dict], fecha: str, fichas: dict[str, str]) -> str:
-    por_clase = Counter(f["clase"] for f in fondos)
+def generar_catalogo(fondos: list[dict], fecha: str, fichas: dict[str, str],
+                     clases: dict[str, str]) -> str:
+    def ce(f: dict) -> str:
+        return clases.get(f["isin"], f["clase"])
+
+    por_clase = Counter(ce(f) for f in fondos)
     lineas = [
         "---",
         'title: "Listado de fondos MyInvestor — snapshot de la app"',
@@ -213,6 +218,7 @@ def generar_catalogo(fondos: list[dict], fecha: str, fichas: dict[str, str]) -> 
         f"Índice generado por `python3 tools/parsear_listado_myinvestor.py`. No editar a mano.",
         f"Fuente: `MyInvestor.html` (página guardada de la app, snapshot {fecha}).",
         "Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.",
+        "Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.",
         "",
         f"**Fondos: {len(fondos)}** · con ficha previa: {sum(1 for f in fondos if f['isin'] in fichas)}",
         "",
@@ -223,7 +229,7 @@ def generar_catalogo(fondos: list[dict], fecha: str, fichas: dict[str, str]) -> 
         if por_clase.get(clase):
             lineas.append(f"| [{NOMBRE_CLASE[clase]}](#{clase}) | {por_clase[clase]} |")
     for clase in ORDEN_CLASES:
-        grupo = [f for f in fondos if f["clase"] == clase]
+        grupo = [f for f in fondos if ce(f) == clase]
         if not grupo:
             continue
         grupo.sort(key=lambda f: (f["ter"] is None, f["ter"] or 0, f["nombre"] or ""))
@@ -268,6 +274,11 @@ def main() -> int:
         return 1
     fondos = parsear(html_path)
     fichas = fichas_mcp_existentes()
+    clases_efectivas = {}
+    for isin, rel in fichas.items():
+        m = re.search(r"^clase:\s*(\S+)", (DB_DIR / rel).read_text(encoding="utf-8"), re.M)
+        if m:
+            clases_efectivas[isin] = m.group(1)
     for f in fondos:
         f["ficha"] = fichas.get(f["isin"])
 
@@ -310,7 +321,9 @@ def main() -> int:
     (DEST / "fondos.json").write_text(
         json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8"
     )
-    (DEST / "catalogo.md").write_text(generar_catalogo(fondos, fecha, fichas), encoding="utf-8")
+    (DEST / "catalogo.md").write_text(
+        generar_catalogo(fondos, fecha, fichas, clases_efectivas), encoding="utf-8"
+    )
     print(f"Escrito: {DEST / 'fondos.json'} y {DEST / 'catalogo.md'}")
     return 0
 

@@ -50,6 +50,7 @@ Incluye fondos de cualquier política de dividendos; lo que no se encuentre qued
 | `rv-global/` | Bolsa mundial (núcleo típico) |
 | `rv-usa/` | Bolsa de EE. UU. |
 | `rv-europa/` | Bolsa europea |
+| `rv-españa/` | Bolsa española (IBEX/nacional); detectada por política, no por categoría |
 | `rv-japon/` | Bolsa japonesa |
 | `rv-emergentes/` | Bolsa emergente |
 | `rv-otros/` | Otras regiones (Asia-Pacífico, Canadá, …) |

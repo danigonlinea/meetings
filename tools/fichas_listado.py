@@ -27,8 +27,8 @@ LISTADO = DB / "listado-app" / "fondos.json"
 
 ORDEN = [
     "monetarios", "renta-fija", "mixtos", "rv-global", "rv-usa", "rv-europa",
-    "rv-japon", "rv-emergentes", "rv-otros", "sectoriales", "alternativos",
-    "pendiente",
+    "rv-españa", "rv-japon", "rv-emergentes", "rv-otros", "sectoriales",
+    "alternativos", "pendiente",
 ]
 
 

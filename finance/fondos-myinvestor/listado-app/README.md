@@ -63,6 +63,9 @@ Matices del mapa:
 - `Convertibles` va a renta fija (categoría de renta fija en Morningstar); `Guaranteed` y
   `Target Date` a mixtos; `Property-Direct` a sectoriales (inmobiliario).
 - `Europe Emerging Markets Equity` va a emergentes, no a Europa, siguiendo la regla de la base.
+- `rv-españa` no tiene categoría Morningstar propia: son fondos de bolsa española (IBEX/nacional)
+  detectados por su política de inversión dentro de «Europe Equity Large Cap» (caso inicial:
+  BBVA Bolsa Índice, ES0110182039). El catálogo agrupa por la clase efectiva de la ficha.
 - Los 31 fondos de `pendiente` tienen tipo de activo conocido pero no región/sector; figuran
   al final del catálogo con sus datos para clasificación manual. No se infiere nada del nombre.
 
