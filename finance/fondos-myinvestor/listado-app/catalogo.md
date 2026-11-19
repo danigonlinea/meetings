@@ -13,7 +13,7 @@ status: living
 Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-19).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 
-**Fondos: 1980** · con ficha MCP previa: 178
+**Fondos: 1980** · con ficha previa: 258
 
 | Clase | Fondos |
 | --- | --- |
@@ -79,82 +79,82 @@ Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LU2339731064 | Amundi Index Solutions - Amundi Prime Euro Government Bond IE (C) | Activa | EUR | Europe Fixed Income | 0,05 | 1,56 | 3 | 3 |
-| IE0004ZP1ND3 | iShares Global Aggregate 1-5 Year bond Index Fund EUR Hedged | Indexada | EUR | Global Fixed Income | 0,08 | — | 2 | — |
+| [IE0004ZP1ND3](../renta-fija/IE0004ZP1ND3.md) | iShares Global Aggregate 1-5 Year bond Index Fund EUR Hedged | Indexada | EUR | Global Fixed Income | 0,08 | — | 2 | — |
 | IE00BD0NC037 | iShares Euro Government Bond Index Fund (IE) D Acc EUR | Activa | EUR | Europe Fixed Income | 0,10 | 1,50 | 3 | 3 |
-| IE00BD0NC144 | iShares Euro Government Inflation-Linked Bond Index Fund (IE) D Acc EUR | Indexada | EUR | Europe Fixed Income | 0,10 | 1,44 | 3 | 3 |
-| IE0007472115 | Vanguard Euro Government Bond Index Inv EUR Acc | Indexada | EUR | Europe Fixed Income | 0,12 | 1,64 | 3 | 3 |
-| IE0009591805 | Vanguard Euro Investment Grade Bond Index Inv EUR Acc | Indexada | EUR | Europe Fixed Income | 0,12 | 3,08 | 2 | 2 |
-| IE00B04GQQ17 | Vanguard Eurozone Inflation-Linked Bond Idx Inv EUR Acc | Indexada | EUR | Europe Fixed Income | 0,12 | 1,63 | 3 | 4 |
-| IE00B04GQR24 | Vanguard Eurozone Inflation-Linked Bond Index Fund EUR Acc | Indexada | EUR | Europe Fixed Income | 0,12 | 1,63 | 3 | 4 |
+| [IE00BD0NC144](../renta-fija/IE00BD0NC144.md) | iShares Euro Government Inflation-Linked Bond Index Fund (IE) D Acc EUR | Indexada | EUR | Europe Fixed Income | 0,10 | 1,44 | 3 | 3 |
+| [IE0007472115](../renta-fija/IE0007472115.md) | Vanguard Euro Government Bond Index Inv EUR Acc | Indexada | EUR | Europe Fixed Income | 0,12 | 1,64 | 3 | 3 |
+| [IE0009591805](../renta-fija/IE0009591805.md) | Vanguard Euro Investment Grade Bond Index Inv EUR Acc | Indexada | EUR | Europe Fixed Income | 0,12 | 3,08 | 2 | 2 |
+| [IE00B04GQQ17](../renta-fija/IE00B04GQQ17.md) | Vanguard Eurozone Inflation-Linked Bond Idx Inv EUR Acc | Indexada | EUR | Europe Fixed Income | 0,12 | 1,63 | 3 | 4 |
+| [IE00B04GQR24](../renta-fija/IE00B04GQR24.md) | Vanguard Eurozone Inflation-Linked Bond Index Fund EUR Acc | Indexada | EUR | Europe Fixed Income | 0,12 | 1,63 | 3 | 4 |
 | IE0033005699 | Vanguard Japan Government Bond Index Fund JPY Acc | Activa | JPY | Japan Fixed Income | 0,12 | -7,64 | 2 | 3 |
-| IE00BLPJRG31 | Vanguard U.K. Government Bond Index Fund EUR Hedged Acc | Indexada | EUR | Sterling Fixed Income | 0,12 | -0,37 | 3 | — |
-| IE00B1S75820 | Vanguard U.K. Government Bond Index Fund GBP Dist | Indexada | GBP | Sterling Fixed Income | 0,12 | 2,98 | 3 | 2 |
-| IE00B1S74Q32 | Vanguard U.K. Investment Grade Bond Index Fund GBP Acc | Indexada | GBP | Sterling Fixed Income | 0,12 | 5,97 | 3 | 3 |
-| IE00B04GQT48 | Vanguard U.S. Investment Grade Credit Index Fund EUR Acc | Indexada | EUR | US Fixed Income | 0,12 | 4,49 | 3 | 4 |
-| IE00B04GQX83 | Vanguard US Investment Grade Credit Index USD | Indexada | USD | US Fixed Income | 0,12 | 4,49 | 3 | 4 |
+| [IE00BLPJRG31](../renta-fija/IE00BLPJRG31.md) | Vanguard U.K. Government Bond Index Fund EUR Hedged Acc | Indexada | EUR | Sterling Fixed Income | 0,12 | -0,37 | 3 | — |
+| [IE00B1S75820](../renta-fija/IE00B1S75820.md) | Vanguard U.K. Government Bond Index Fund GBP Dist | Indexada | GBP | Sterling Fixed Income | 0,12 | 2,98 | 3 | 2 |
+| [IE00B1S74Q32](../renta-fija/IE00B1S74Q32.md) | Vanguard U.K. Investment Grade Bond Index Fund GBP Acc | Indexada | GBP | Sterling Fixed Income | 0,12 | 5,97 | 3 | 3 |
+| [IE00B04GQT48](../renta-fija/IE00B04GQT48.md) | Vanguard U.S. Investment Grade Credit Index Fund EUR Acc | Indexada | EUR | US Fixed Income | 0,12 | 4,49 | 3 | 4 |
+| [IE00B04GQX83](../renta-fija/IE00B04GQX83.md) | Vanguard US Investment Grade Credit Index USD | Indexada | USD | US Fixed Income | 0,12 | 4,49 | 3 | 4 |
 | IE00BD0NC698 | iShares Euro Credit Bond Index Fund (IE) D Acc EUR | Activa | EUR | Europe Fixed Income | 0,12 | 2,87 | 2 | 1 |
 | IE00BDRK7J14 | iShares Euro Investment Grade Corporate Bond Index Fund (IE) D Acc EUR | Activa | EUR | Europe Fixed Income | 0,12 | 3,65 | 2 | 4 |
 | IE00BDZRPS94 | iShares US Corporate Bond Index Fund (IE) D Acc EUR | Activa | EUR | US Fixed Income | 0,12 | 4,25 | 3 | 4 |
 | ES0170156048 | Santalucía Renta Fija Corto Plazo Euro MY | Activa | EUR | Europe Fixed Income | 0,13 | 3,28 | 2 | 4 |
-| IE0031080868 | iShares Eur GovtBdIdx (IE) Instl Acc EUR | Indexada | EUR | Europe Fixed Income | 0,13 | 1,47 | 3 | 3 |
-| IE00B1N7ZB00 | iShares Eur GovtBdIdx (IE) Instl Dis EUR | Indexada | EUR | Europe Fixed Income | 0,13 | 1,47 | 3 | 3 |
-| IE00B4WXT857 | iShares Euro Government Inflation-Linked Bond Index Fund (IE) Institutional Acc EUR | Indexada | EUR | Europe Fixed Income | 0,13 | 1,41 | 3 | 4 |
+| [IE0031080868](../renta-fija/IE0031080868.md) | iShares Eur GovtBdIdx (IE) Instl Acc EUR | Indexada | EUR | Europe Fixed Income | 0,13 | 1,47 | 3 | 3 |
+| [IE00B1N7ZB00](../renta-fija/IE00B1N7ZB00.md) | iShares Eur GovtBdIdx (IE) Instl Dis EUR | Indexada | EUR | Europe Fixed Income | 0,13 | 1,47 | 3 | 3 |
+| [IE00B4WXT857](../renta-fija/IE00B4WXT857.md) | iShares Euro Government Inflation-Linked Bond Index Fund (IE) Institutional Acc EUR | Indexada | EUR | Europe Fixed Income | 0,13 | 1,41 | 3 | 4 |
 | ES0165142003 | MUTUAFONDO CP D | Activa | EUR | Europe Fixed Income | 0,14 | 2,85 | 2 | 3 |
-| IE00BJN4RG66 | iShares ESG Screened Global Corporate Bond Index Fund EUR Hedged | Indexada | EUR | Global Fixed Income | 0,14 | 3,01 | 3 | 3 |
-| LU1050469870 | AMUNDI INDEX JP MORGAN EMU GOVIESIES IE EUR | Indexada | EUR | Europe Fixed Income | 0,15 | 1,45 | 3 | 3 |
+| [IE00BJN4RG66](../renta-fija/IE00BJN4RG66.md) | iShares ESG Screened Global Corporate Bond Index Fund EUR Hedged | Indexada | EUR | Global Fixed Income | 0,14 | 3,01 | 3 | 3 |
+| [LU1050469870](../renta-fija/LU1050469870.md) | AMUNDI INDEX JP MORGAN EMU GOVIESIES IE EUR | Indexada | EUR | Europe Fixed Income | 0,15 | 1,45 | 3 | 3 |
 | LU0080237943 | DWS Euro Ultra Short Fixed Inc NC | Activa | EUR | Europe Fixed Income | 0,15 | 3,38 | 1 | 4 |
-| IE00B2RHVR18 | Vanguard Global Bond Index Fund CHF Hedged Acc | Indexada | CHF | Global Fixed Income | 0,15 | 0,75 | 2 | 2 |
-| IE00B18GCB14 | Vanguard Global Bond Index Fund USD Hedged Acc | Indexada | USD | Global Fixed Income | 0,15 | 3,53 | 2 | 3 |
-| IE00BN6QDF87 | Vanguard Global Bond Index Fund USD Hedged Distribution | Indexada | USD | Global Fixed Income | 0,15 | 3,53 | 2 | 3 |
-| IE00BH65QK91 | Vanguard Global Short Term Bond Ix Inv EURH Acc | Indexada | EUR | Global Fixed Income | 0,15 | 2,49 | 2 | 3 |
-| IE00BH65QQ53 | Vanguard Global Short-Term Bond Index Fund CHF Hedged Acc | Indexada | CHF | Global Fixed Income | 0,15 | 1,41 | 2 | 3 |
-| IE00BH65QP47 | Vanguard Global Short-Term Bond Index Fund EUR Hedged Acc | Indexada | EUR | Global Fixed Income | 0,15 | 2,48 | 2 | 3 |
-| IE00BH65QG55 | Vanguard Global Short-Term Bond Index Fund GBP Hedged Acc | Indexada | GBP | Global Fixed Income | 0,15 | 5,89 | 2 | 3 |
-| IE00BH65QN23 | Vanguard Global Short-Term Bond Index Fund USD Hedged Acc | Indexada | USD | Global Fixed Income | 0,15 | 4,11 | 2 | 3 |
-| IE00BN71SS04 | Vanguard Global Short-Term Bond Index Fund USD Hedged Dist | Indexada | USD | Global Fixed Income | 0,15 | 4,10 | 2 | 2 |
-| IE000KDUZ5O6 | iShares Euro Corporate Bond ESG SRI Index Ins EUR A | Indexada | EUR | Europe Fixed Income | 0,15 | 3,46 | 2 | 3 |
-| IE00B1N7Z987 | iShares Euro Credit Bond Index (IE) Inst Dist EUR | Indexada | EUR | Europe Fixed Income | 0,15 | 2,84 | 2 | 2 |
-| IE00B3XPCW80 | iShares Euro Investment Grade Corporate Bond Index (IE) Inst Dis EUR | Indexada | EUR | Europe Fixed Income | 0,15 | 3,62 | 2 | 4 |
-| IE00B67T5G21 | iShares Euro Investment Grade Corporate Bond Index Fund (IE) Institutional Acc EUR | Indexada | EUR | Europe Fixed Income | 0,15 | 3,62 | 2 | 4 |
-| IE00BJN4RH73 | iShares Screened Global Corporate Bond Index Fund (IE) Institutional USD Acc | Indexada | USD | Global Fixed Income | 0,15 | 4,14 | 3 | 3 |
-| IE00B246KL88 | Vanguard 20+ Year Euro Treasury Index Fund | Indexada | EUR | Europe Fixed Income | 0,16 | -4,29 | 4 | 1 |
+| [IE00B2RHVR18](../renta-fija/IE00B2RHVR18.md) | Vanguard Global Bond Index Fund CHF Hedged Acc | Indexada | CHF | Global Fixed Income | 0,15 | 0,75 | 2 | 2 |
+| [IE00B18GCB14](../renta-fija/IE00B18GCB14.md) | Vanguard Global Bond Index Fund USD Hedged Acc | Indexada | USD | Global Fixed Income | 0,15 | 3,53 | 2 | 3 |
+| [IE00BN6QDF87](../renta-fija/IE00BN6QDF87.md) | Vanguard Global Bond Index Fund USD Hedged Distribution | Indexada | USD | Global Fixed Income | 0,15 | 3,53 | 2 | 3 |
+| [IE00BH65QK91](../renta-fija/IE00BH65QK91.md) | Vanguard Global Short Term Bond Ix Inv EURH Acc | Indexada | EUR | Global Fixed Income | 0,15 | 2,49 | 2 | 3 |
+| [IE00BH65QQ53](../renta-fija/IE00BH65QQ53.md) | Vanguard Global Short-Term Bond Index Fund CHF Hedged Acc | Indexada | CHF | Global Fixed Income | 0,15 | 1,41 | 2 | 3 |
+| [IE00BH65QP47](../renta-fija/IE00BH65QP47.md) | Vanguard Global Short-Term Bond Index Fund EUR Hedged Acc | Indexada | EUR | Global Fixed Income | 0,15 | 2,48 | 2 | 3 |
+| [IE00BH65QG55](../renta-fija/IE00BH65QG55.md) | Vanguard Global Short-Term Bond Index Fund GBP Hedged Acc | Indexada | GBP | Global Fixed Income | 0,15 | 5,89 | 2 | 3 |
+| [IE00BH65QN23](../renta-fija/IE00BH65QN23.md) | Vanguard Global Short-Term Bond Index Fund USD Hedged Acc | Indexada | USD | Global Fixed Income | 0,15 | 4,11 | 2 | 3 |
+| [IE00BN71SS04](../renta-fija/IE00BN71SS04.md) | Vanguard Global Short-Term Bond Index Fund USD Hedged Dist | Indexada | USD | Global Fixed Income | 0,15 | 4,10 | 2 | 2 |
+| [IE000KDUZ5O6](../renta-fija/IE000KDUZ5O6.md) | iShares Euro Corporate Bond ESG SRI Index Ins EUR A | Indexada | EUR | Europe Fixed Income | 0,15 | 3,46 | 2 | 3 |
+| [IE00B1N7Z987](../renta-fija/IE00B1N7Z987.md) | iShares Euro Credit Bond Index (IE) Inst Dist EUR | Indexada | EUR | Europe Fixed Income | 0,15 | 2,84 | 2 | 2 |
+| [IE00B3XPCW80](../renta-fija/IE00B3XPCW80.md) | iShares Euro Investment Grade Corporate Bond Index (IE) Inst Dis EUR | Indexada | EUR | Europe Fixed Income | 0,15 | 3,62 | 2 | 4 |
+| [IE00B67T5G21](../renta-fija/IE00B67T5G21.md) | iShares Euro Investment Grade Corporate Bond Index Fund (IE) Institutional Acc EUR | Indexada | EUR | Europe Fixed Income | 0,15 | 3,62 | 2 | 4 |
+| [IE00BJN4RH73](../renta-fija/IE00BJN4RH73.md) | iShares Screened Global Corporate Bond Index Fund (IE) Institutional USD Acc | Indexada | USD | Global Fixed Income | 0,15 | 4,14 | 3 | 3 |
+| [IE00B246KL88](../renta-fija/IE00B246KL88.md) | Vanguard 20+ Year Euro Treasury Index Fund | Indexada | EUR | Europe Fixed Income | 0,16 | -4,29 | 4 | 1 |
 | IE00BMZ3NN11 | iShares Global Aggregate 1-5 Year Bond Index Fund D Acc EUR Hedged | Activa | EUR | Global Fixed Income | 0,17 | 2,21 | 2 | 2 |
 | IE00BF2MW684 | iShares Global Aggregate 1-5 Year Bond Index Fund D Dist EUR Hedged  | Activa | EUR | Global Fixed Income | 0,17 | 2,24 | 2 | 2 |
-| IE00BL6VHD58 | iShares US Corporate Bond Index (IE) Instl Acc EUR Hedged | Indexada | EUR | US Fixed Income | 0,17 | 2,60 | 3 | — |
-| IE00BDFB5N63 | Vanguard Global Corporate Bond Index Fund EUR Hedged Accumulation | Indexada | EUR | Global Fixed Income | 0,18 | 2,97 | 3 | 3 |
-| IE00BDFB5M56 | Vanguard Global Corporate Bond Index Fund GBP Hedged Acc | Indexada | GBP | Global Fixed Income | 0,18 | 6,37 | 3 | 3 |
-| IE00BDFB5T26 | Vanguard Global Corporate Bond Index Fund USD Hedged Acc | Indexada | USD | Global Fixed Income | 0,18 | 4,64 | 3 | 3 |
-| IE00BDFB7639 | Vanguard Global Short-Term Corporate Bond Index Fund GBP Hedged Acc | Indexada | GBP | Global Fixed Income | 0,18 | 6,76 | 2 | 3 |
-| IE00BDFB7308 | Vanguard Global Short-Term Corporate Bond Index Fund USD Hedged Acc | Indexada | USD | Global Fixed Income | 0,18 | 4,98 | 2 | 3 |
-| IE00BF2N5T53 | iShares Emerging Markets Government Bond Index Fund (IE) D Acc USD | Indexada | USD | Emerging Markets Fixed Income | 0,18 | 8,49 | 3 | 3 |
+| [IE00BL6VHD58](../renta-fija/IE00BL6VHD58.md) | iShares US Corporate Bond Index (IE) Instl Acc EUR Hedged | Indexada | EUR | US Fixed Income | 0,17 | 2,60 | 3 | — |
+| [IE00BDFB5N63](../renta-fija/IE00BDFB5N63.md) | Vanguard Global Corporate Bond Index Fund EUR Hedged Accumulation | Indexada | EUR | Global Fixed Income | 0,18 | 2,97 | 3 | 3 |
+| [IE00BDFB5M56](../renta-fija/IE00BDFB5M56.md) | Vanguard Global Corporate Bond Index Fund GBP Hedged Acc | Indexada | GBP | Global Fixed Income | 0,18 | 6,37 | 3 | 3 |
+| [IE00BDFB5T26](../renta-fija/IE00BDFB5T26.md) | Vanguard Global Corporate Bond Index Fund USD Hedged Acc | Indexada | USD | Global Fixed Income | 0,18 | 4,64 | 3 | 3 |
+| [IE00BDFB7639](../renta-fija/IE00BDFB7639.md) | Vanguard Global Short-Term Corporate Bond Index Fund GBP Hedged Acc | Indexada | GBP | Global Fixed Income | 0,18 | 6,76 | 2 | 3 |
+| [IE00BDFB7308](../renta-fija/IE00BDFB7308.md) | Vanguard Global Short-Term Corporate Bond Index Fund USD Hedged Acc | Indexada | USD | Global Fixed Income | 0,18 | 4,98 | 2 | 3 |
+| [IE00BF2N5T53](../renta-fija/IE00BF2N5T53.md) | iShares Emerging Markets Government Bond Index Fund (IE) D Acc USD | Indexada | USD | Emerging Markets Fixed Income | 0,18 | 8,49 | 3 | 3 |
 | IE000RIFQ564 | iShares Green Bond Index Fund (IE) D Acc EUR | Activa | EUR | Global Fixed Income | 0,18 | 2,70 | 3 | 4 |
-| LU0389812693 | AMUNDI INDEX JPM GBI GLOBAL GOV IHE EURH | Indexada | EUR | Global Fixed Income | 0,20 | 0,75 | 2 | 3 |
+| [LU0389812693](../renta-fija/LU0389812693.md) | AMUNDI INDEX JPM GBI GLOBAL GOV IHE EURH | Indexada | EUR | Global Fixed Income | 0,20 | 0,75 | 2 | 3 |
 | ES0126551037 | CBNK Renta Fija CP Base FI | Activa | EUR | Europe Fixed Income | 0,20 | 3,00 | 2 | 3 |
-| IE0000J01ZR0 | iShares Emerging Markets Government Bond Index Fund (IE) D Acc Hedged EUR | Indexada | EUR | Emerging Markets Fixed Income | 0,20 | — | 3 | — |
-| IE00BL6VHF72 | iShares Global Aggregate 1-5 Year Bond Index Fund Institutional Acc USD | Indexada | USD | Global Fixed Income | 0,20 | 3,22 | 1 | 3 |
-| IE00BD0DT578 | iShares Green Bond Index Fund Acc EUR Hedged | Indexada | EUR | Global Fixed Income | 0,20 | 2,29 | 3 | 2 |
-| IE00BD0DT792 | iShares Green Bond Index Fund (IE) Institutional Acc EUR | Indexada | EUR | Global Fixed Income | 0,21 | 2,28 | 3 | 2 |
-| IE00BZ1NTF08 | iShares Em Mkts GovBd Idx(IE) Ins $ A | Indexada | USD | Emerging Markets Fixed Income | 0,23 | 8,43 | 3 | 3 |
+| [IE0000J01ZR0](../renta-fija/IE0000J01ZR0.md) | iShares Emerging Markets Government Bond Index Fund (IE) D Acc Hedged EUR | Indexada | EUR | Emerging Markets Fixed Income | 0,20 | — | 3 | — |
+| [IE00BL6VHF72](../renta-fija/IE00BL6VHF72.md) | iShares Global Aggregate 1-5 Year Bond Index Fund Institutional Acc USD | Indexada | USD | Global Fixed Income | 0,20 | 3,22 | 1 | 3 |
+| [IE00BD0DT578](../renta-fija/IE00BD0DT578.md) | iShares Green Bond Index Fund Acc EUR Hedged | Indexada | EUR | Global Fixed Income | 0,20 | 2,29 | 3 | 2 |
+| [IE00BD0DT792](../renta-fija/IE00BD0DT792.md) | iShares Green Bond Index Fund (IE) Institutional Acc EUR | Indexada | EUR | Global Fixed Income | 0,21 | 2,28 | 3 | 2 |
+| [IE00BZ1NTF08](../renta-fija/IE00BZ1NTF08.md) | iShares Em Mkts GovBd Idx(IE) Ins $ A | Indexada | USD | Emerging Markets Fixed Income | 0,23 | 8,43 | 3 | 3 |
 | LU0034353002 | DWS Floating Rate Notes LC | Activa | EUR | Europe Fixed Income | 0,25 | 3,32 | 1 | 4 |
 | IE00BFZMJT78 | Neuberger Berman Short Duration Euro Bond Fund Class EUR I Accumulating | Activa | EUR | Europe Fixed Income | 0,25 | 4,34 | 2 | 5 |
-| IE00BJ9MTQ85 | iShares Em Mkts GovBd Idx(IE) Ins €H A | Indexada | EUR | Emerging Markets Fixed Income | 0,25 | 6,71 | 3 | 3 |
-| IE00BF2N5W82 | iShares Em Mkts LclGovBd Idx(IE) D $ A | Indexada | USD | Emerging Markets Fixed Income | 0,25 | 5,63 | 3 | 2 |
+| [IE00BJ9MTQ85](../renta-fija/IE00BJ9MTQ85.md) | iShares Em Mkts GovBd Idx(IE) Ins €H A | Indexada | EUR | Emerging Markets Fixed Income | 0,25 | 6,71 | 3 | 3 |
+| [IE00BF2N5W82](../renta-fija/IE00BF2N5W82.md) | iShares Em Mkts LclGovBd Idx(IE) D $ A | Indexada | USD | Emerging Markets Fixed Income | 0,25 | 5,63 | 3 | 2 |
 | IE000HDKMJN5 | iShares Emerging Markets Local Government Bond Index Fund (IE) D Acc EUR | Activa | EUR | Emerging Markets Fixed Income | 0,25 | 5,63 | 3 | 3 |
-| LU1811365292 | iShares EM Government Bond Index Fund | Indexada | EUR | Emerging Markets Fixed Income | 0,28 | 8,35 | 3 | 3 |
+| [LU1811365292](../renta-fija/LU1811365292.md) | iShares EM Government Bond Index Fund | Indexada | EUR | Emerging Markets Fixed Income | 0,28 | 8,35 | 3 | 3 |
 | ES0127795005 | EDM Renta R FI | Activa | EUR | Europe Fixed Income | 0,30 | 2,94 | 1 | 3 |
-| IE000OZZKBN3 | iShares Em Mkts LclGovBd Idx(IE) Ins $ AEM LCL GVMT BOND INST | Indexada | USD | Emerging Markets Fixed Income | 0,30 | 5,57 | 3 | 3 |
+| [IE000OZZKBN3](../renta-fija/IE000OZZKBN3.md) | iShares Em Mkts LclGovBd Idx(IE) Ins $ AEM LCL GVMT BOND INST | Indexada | USD | Emerging Markets Fixed Income | 0,30 | 5,57 | 3 | 3 |
 | ES0165182009 | MUTUAFONDO DEUDA ESPAÑOLA A FI | Activa | EUR | Fixed Income Miscellaneous | 0,31 | — | 2 | — |
 | LU0029761706 | UBAM - Dynamic Euro Bond AC EUR | Activa | EUR | Europe Fixed Income | 0,31 | 3,39 | 2 | 3 |
 | [AT0000A0WLX3](../renta-fija/AT0000A0WLX3.md) | ERSTE Responsible ReserveVT | Activa | EUR | Europe Fixed Income | 0,32 | 2,95 | 2 | 3 |
 | FR0000027609 | LAZARD EUR SHORT DUR SRI IC | Activa | EUR | Europe Fixed Income | 0,32 | 3,68 | 2 | 4 |
 | LU0352158918 | UBAM - Dynamic US Dollar Bond AHC EUR | Activa | EUR | US Fixed Income | 0,32 | 3,64 | 2 | — |
 | ES0141580003 | SIGMA INVESTMENT HOUSE AHORRO, | Activa | EUR | Europe Fixed Income | 0,34 | 3,49 | 2 | 4 |
-| LU1050470373 | Amundi IS JP Morgan EMU Govies AE-C | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
+| [LU1050470373](../renta-fija/LU1050470373.md) | Amundi IS JP Morgan EMU Govies AE-C | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
 | LU1050470456 | Amundi IS JP Morgan EMU Govies AE-D | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
-| LU0389812933 | Amundi IS JP Morgan GBI Glbl Gvs AHE-C | Indexada | EUR | Global Fixed Income | 0,35 | 0,60 | 2 | 3 |
-| LU0389813071 | Amundi IS JP Morgan GBI Glbl Gvs AHE-D | Indexada | EUR | Global Fixed Income | 0,35 | 0,60 | 2 | 3 |
+| [LU0389812933](../renta-fija/LU0389812933.md) | Amundi IS JP Morgan GBI Glbl Gvs AHE-C | Indexada | EUR | Global Fixed Income | 0,35 | 0,60 | 2 | 3 |
+| [LU0389813071](../renta-fija/LU0389813071.md) | Amundi IS JP Morgan GBI Glbl Gvs AHE-D | Indexada | EUR | Global Fixed Income | 0,35 | 0,60 | 2 | 3 |
 | LU1525412281 | Amundi Index Barclays Euro Corporate BBB 1-5 | Indexada | EUR | Europe Fixed Income | 0,35 | 3,28 | 2 | 4 |
-| LU1050469441 | Amundi Index Euro AGG Corporate SRI AE-D | Indexada | EUR | Europe Fixed Income | 0,35 | 3,24 | 3 | 3 |
+| [LU1050469441](../renta-fija/LU1050469441.md) | Amundi Index Euro AGG Corporate SRI AE-D | Indexada | EUR | Europe Fixed Income | 0,35 | 3,24 | 3 | 3 |
 | LU0041580167 | DWS USD Floating Rate Notes LD | Activa | USD | US Fixed Income | 0,35 | 4,82 | 1 | 5 |
 | IE00BL1GVT98 | Neuberger Berman Ultra Short Term Euro Bond Fund Class EUR U Accumulating | Activa | EUR | Europe Fixed Income | 0,35 | 4,24 | 2 | 5 |
 | ES0170156030 | Santalucía RF Corto Plazo Euro B FI | Activa | EUR | Europe Fixed Income | 0,35 | 3,05 | 2 | 3 |
@@ -2062,37 +2062,37 @@ Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` 
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NO0013670588 | DNB Nuclear Energy S EUR Acc | Activa | EUR | Equity Miscellaneous | 0,40 | — | 4 | — |
-| LU0128488383 | Pictet-USD Government Bonds-P | Activa | USD | Otros | 0,58 | — | 3 | — |
-| LU0146923718 | UBAM - Medium Term US Corporate Bond AC USD | Activa | USD | Otros | 0,94 | — | 2 | — |
-| ES0175404013 | Dunas Selección USA ESG Cubierto R FI | Indexada | EUR | Equity Miscellaneous | 0,96 | 13,64 | 5 | — |
+| [NO0013670588](../sectoriales/NO0013670588.md) | DNB Nuclear Energy S EUR Acc | Activa | EUR | Equity Miscellaneous | 0,40 | — | 4 | — |
+| [LU0128488383](../renta-fija/LU0128488383.md) | Pictet-USD Government Bonds-P | Activa | USD | Otros | 0,58 | — | 3 | — |
+| [LU0146923718](../renta-fija/LU0146923718.md) | UBAM - Medium Term US Corporate Bond AC USD | Activa | USD | Otros | 0,94 | — | 2 | — |
+| [ES0175404013](../rv-usa/ES0175404013.md) | Dunas Selección USA ESG Cubierto R FI | Indexada | EUR | Equity Miscellaneous | 0,96 | 13,64 | 5 | — |
 | [FR0010996736](../mixtos/FR0010996736.md) | La Française Protectaux R | Activa | EUR | Miscellaneous | 1,23 | 3,55 | 3 | — |
-| ES0173130008 | Renta 4 Megatendencias Ariema Hidrogeno Y Energias Sostenibles FI | Activa | EUR | Equity Miscellaneous | 1,25 | 6,29 | 5 | — |
-| ES0116831027 | Gestión Boutique Castañar Investment Fund FI | Activa | EUR | Equity Miscellaneous | 1,62 | 13,83 | 4 | — |
+| [ES0173130008](../sectoriales/ES0173130008.md) | Renta 4 Megatendencias Ariema Hidrogeno Y Energias Sostenibles FI | Activa | EUR | Equity Miscellaneous | 1,25 | 6,29 | 5 | — |
+| [ES0116831027](../rv-global/ES0116831027.md) | Gestión Boutique Castañar Investment Fund FI | Activa | EUR | Equity Miscellaneous | 1,62 | 13,83 | 4 | — |
 | [ES0168797092](../rv-otros/ES0168797092.md) | Gestión Boutique II JPB Growth FI | Activa | EUR | Equity Miscellaneous | 1,66 | 18,47 | 5 | — |
-| LU0273158872 | DWS Invest Global Agribusiness LC | Activa | EUR | Equity Miscellaneous | 1,69 | 1,49 | 4 | 3 |
-| ES0184676031 | Welzia World Equity FI | Activa | EUR | Equity Miscellaneous | 1,70 | 10,23 | 4 | — |
-| LU2145463613 | Robeco Smart Materials D EUR | Activa | EUR | Equity Miscellaneous | 1,71 | 10,69 | 5 | — |
-| LU2145463704 | RobecoSAM Smart Materials Equities D USD | Activa | USD | Equity Miscellaneous | 1,71 | 10,69 | 5 | — |
-| LU2306921490 | DWS Concept ESG Blue Economy LC EUR Accumulation | Activa | EUR | Equity Miscellaneous | 1,77 | 9,15 | 4 | 2 |
-| ES0131462188 | Gestion Boutique V Comet Value Fund R FI  | Activa | EUR | Otros | 1,87 | — | 3 | — |
-| BE0947763737 | DPAM INVEST B - Equities Sustainable Food Trends - A | Activa | EUR | Equity Miscellaneous | 1,93 | 6,80 | 4 | 3 |
-| BE0947764743 | DPAM INVEST B Equities Sustainable Food Trends B Cap | Activa | EUR | Equity Miscellaneous | 1,94 | 6,79 | 4 | 3 |
-| LU0822419148 | PRISMA CUBE | Activa | EUR | Equity Miscellaneous | 1,96 | 15,97 | 5 | — |
-| LU0204063720 | BlackRock BGF - Sustainable Energy Fund - A4 | Activa | GBP | - | 1,97 | 11,16 | 5 | 4 |
-| LU1931535931 | ALLIANZ PET AND ANIMAL WELLBE AT ACC EUR | Activa | EUR | Equity Miscellaneous | 2,10 | 0,66 | 4 | — |
-| LU0213961765 | HSBC Global Investment Funds - Turkey Equity AD | Activa | EUR | Equity Miscellaneous | 2,15 | -0,38 | 6 | — |
-| LU1165135440 | BNP Paribas Funds Aqua Classic Capitalisation | Activa | EUR | Equity Miscellaneous | 2,21 | 8,59 | 4 | 3 |
-| LU1620156130 | BNP Paribas Funds Aqua Classic USD Capitalisation | Activa | USD | Equity Miscellaneous | 2,21 | 8,59 | 4 | 3 |
-| LU0265293521 | BNP Paribas Funds Turkey Equity | Activa | EUR | Equity Miscellaneous | 2,21 | 2,24 | 6 | — |
+| [LU0273158872](../sectoriales/LU0273158872.md) | DWS Invest Global Agribusiness LC | Activa | EUR | Equity Miscellaneous | 1,69 | 1,49 | 4 | 3 |
+| [ES0184676031](../rv-global/ES0184676031.md) | Welzia World Equity FI | Activa | EUR | Equity Miscellaneous | 1,70 | 10,23 | 4 | — |
+| [LU2145463613](../sectoriales/LU2145463613.md) | Robeco Smart Materials D EUR | Activa | EUR | Equity Miscellaneous | 1,71 | 10,69 | 5 | — |
+| [LU2145463704](../sectoriales/LU2145463704.md) | RobecoSAM Smart Materials Equities D USD | Activa | USD | Equity Miscellaneous | 1,71 | 10,69 | 5 | — |
+| [LU2306921490](../sectoriales/LU2306921490.md) | DWS Concept ESG Blue Economy LC EUR Accumulation | Activa | EUR | Equity Miscellaneous | 1,77 | 9,15 | 4 | 2 |
+| [ES0131462188](../rv-global/ES0131462188.md) | Gestion Boutique V Comet Value Fund R FI  | Activa | EUR | Otros | 1,87 | — | 3 | — |
+| [BE0947763737](../sectoriales/BE0947763737.md) | DPAM INVEST B - Equities Sustainable Food Trends - A | Activa | EUR | Equity Miscellaneous | 1,93 | 6,80 | 4 | 3 |
+| [BE0947764743](../sectoriales/BE0947764743.md) | DPAM INVEST B Equities Sustainable Food Trends B Cap | Activa | EUR | Equity Miscellaneous | 1,94 | 6,79 | 4 | 3 |
+| [LU0822419148](../mixtos/LU0822419148.md) | PRISMA CUBE | Activa | EUR | Equity Miscellaneous | 1,96 | 15,97 | 5 | — |
+| [LU0204063720](../sectoriales/LU0204063720.md) | BlackRock BGF - Sustainable Energy Fund - A4 | Activa | GBP | - | 1,97 | 11,16 | 5 | 4 |
+| [LU1931535931](../sectoriales/LU1931535931.md) | ALLIANZ PET AND ANIMAL WELLBE AT ACC EUR | Activa | EUR | Equity Miscellaneous | 2,10 | 0,66 | 4 | — |
+| [LU0213961765](../rv-emergentes/LU0213961765.md) | HSBC Global Investment Funds - Turkey Equity AD | Activa | EUR | Equity Miscellaneous | 2,15 | -0,38 | 6 | — |
+| [LU1165135440](../sectoriales/LU1165135440.md) | BNP Paribas Funds Aqua Classic Capitalisation | Activa | EUR | Equity Miscellaneous | 2,21 | 8,59 | 4 | 3 |
+| [LU1620156130](../sectoriales/LU1620156130.md) | BNP Paribas Funds Aqua Classic USD Capitalisation | Activa | USD | Equity Miscellaneous | 2,21 | 8,59 | 4 | 3 |
+| [LU0265293521](../rv-emergentes/LU0265293521.md) | BNP Paribas Funds Turkey Equity | Activa | EUR | Equity Miscellaneous | 2,21 | 2,24 | 6 | — |
 | [ES0138984036](../sectoriales/ES0138984036.md) | GVC Gaesco T.F.T. FI | Activa | EUR | Otros | 2,40 | — | 4 | — |
-| LU2146192617 | RobecoSAM Sustainable Water Equities M2 EUR | Activa | EUR | Equity Miscellaneous | 2,46 | 8,37 | 4 | 3 |
-| LU0196152788 | LISTED PRIVATE EQUITY P AC EUR | Activa | EUR | Equity Miscellaneous | 2,50 | 7,46 | 5 | 3 |
-| ES0183161001 | Vcapital Long Term Selection FI | Activa | EUR | Equity Miscellaneous | 2,52 | 7,62 | 5 | — |
-| LU0104885248 | Pictet-Water-R EUR | Activa | EUR | Equity Miscellaneous | 2,69 | 3,57 | 4 | 1 |
-| LU0366534773 | Pictet-Nutrition-R EUR | Activa | EUR | Equity Miscellaneous | 2,70 | 1,30 | 4 | 2 |
-| LU1165135796 | BNP Paribas Funds Aqua N Capitalisation | Activa | EUR | Equity Miscellaneous | 2,96 | 7,77 | 4 | 3 |
-| LU2466569832 | Schroders Capital Semi-Liquid Global Private Equity A2 Accumulation EUR | Activa | EUR | Equity Miscellaneous | 4,99 | 5,35 | 3 | — |
+| [LU2146192617](../sectoriales/LU2146192617.md) | RobecoSAM Sustainable Water Equities M2 EUR | Activa | EUR | Equity Miscellaneous | 2,46 | 8,37 | 4 | 3 |
+| [LU0196152788](../sectoriales/LU0196152788.md) | LISTED PRIVATE EQUITY P AC EUR | Activa | EUR | Equity Miscellaneous | 2,50 | 7,46 | 5 | 3 |
+| [ES0183161001](../rv-global/ES0183161001.md) | Vcapital Long Term Selection FI | Activa | EUR | Equity Miscellaneous | 2,52 | 7,62 | 5 | — |
+| [LU0104885248](../sectoriales/LU0104885248.md) | Pictet-Water-R EUR | Activa | EUR | Equity Miscellaneous | 2,69 | 3,57 | 4 | 1 |
+| [LU0366534773](../sectoriales/LU0366534773.md) | Pictet-Nutrition-R EUR | Activa | EUR | Equity Miscellaneous | 2,70 | 1,30 | 4 | 2 |
+| [LU1165135796](../sectoriales/LU1165135796.md) | BNP Paribas Funds Aqua N Capitalisation | Activa | EUR | Equity Miscellaneous | 2,96 | 7,77 | 4 | 3 |
+| [LU2466569832](../alternativos/LU2466569832.md) | Schroders Capital Semi-Liquid Global Private Equity A2 Accumulation EUR | Activa | EUR | Equity Miscellaneous | 4,99 | 5,35 | 3 | — |
 
 ## Notas
 
