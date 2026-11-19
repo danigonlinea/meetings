@@ -122,6 +122,22 @@ la operativa específica de MyInvestor (hora de corte, días) no está en la web
 *Rentabilidades pasadas no garantizan futuras. Datos de referencia, no consejo de inversión.*
 ```
 
+## Avisos sobre las fuentes (aprendidos en las primeras olas)
+
+- **quefondos sirve a veces caché antigua**: si la fecha de los datos es vieja, repetir
+  la extracción; usar la versión más cercana al snapshot y anotar la fecha empleada.
+- **quefondos convierte las series de clases USD/GBP/CHF a EUR**: los rankings/quintiles
+  incluyen efecto divisa y no son comparables con el snapshot de la clase; anotarlo.
+- **quefondos parece excluir cupones en clases de distribución**: sus rentabilidades y
+  quintiles quedan por debajo de la realidad; anotarlo como pega, no como mal fondo.
+- **Finect suele no renderizar la composición** (carga JS): usar el snippet de búsqueda
+  de ESA MISMA URL (anotándolo), factsheets oficiales de la gestora, o la ficha de una
+  clase hermana del mismo fondo (cartera común). Si no hay nada → `Pendiente`.
+- **Finect redirige a veces a otra clase o al ETF**: verificar que el ISIN de la página
+  coincide con el del lote antes de usar sus datos.
+- **SRRI y comisiones discrepan a menudo** entre snapshot, quefondos y Finect: manda el
+  snapshot; anotar ambas cifras en Pegas.
+
 ## Reglas
 
 1. **Ninguna cifra sin respaldo**: solo números vistos en las páginas extraídas o en el
