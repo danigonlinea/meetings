@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veintidós carteras propias y una de referencia"
+title: "Cartera: veintitrés carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-cobas, cartera-horos, cartera-vanguard, cartera-de-andres]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres]
 status: living
 ---
-# Cartera: veintidós carteras propias y una de referencia
+# Cartera: veintitrés carteras propias y una de referencia
 
-Veintidós patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintitrés patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -29,6 +29,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-no-indexados-3/` | **Dos tallas con dos condiciones únicas, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 80 % RV, 1,5472 %; `200k.md`, mismos 7 + 3 más crédito corto, 80 %, 1,5268 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-4/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,5961 %; `200k.md`, 8 + 3 con small caps EE. UU., 70 %, 1,5851 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-vanguard/` | **Una talla, 100.000 €**, con **solo fondos de Vanguard** y ninguna otra condición: 40 % MSCI World, 10 % Europa, 10 % emergentes, 10 % small caps, 5 % Japón y 25 % de renta fija en cuatro tramos. **74,95 % de RV real**, **178,50 €/año (0,1785 %)**, caída **−30,73 %** y **≈5,89 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, los tres bloques, geografía por *look-through*, tilts con precio, métricas, dos variantes, 9 órdenes en tres cortes, descartes con número y señales) |
+| `cartera-definitiva-40/` | **Una talla, 100.000 €, a los 40 años**: la cartera más barata del repositorio con cuatro indexados —65 % MSCI World al 0,06 %, 10 % emergentes, 10 % small caps y 15 % RF global 1-5 años cubierta—, **84,46 % de RV real**, **96,00 €/año (0,096 %)**, caída **−34,25 %** y **≈6,16 % esperado**, con plan de aportación y glide de edad | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía y sectores, tres variantes de edad, esperanza con supuestos, tabla de aportaciones, plan completo, 4 órdenes, descartes con número y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 | `cartera-ai-final-conservadora/` | **Una talla, 100.000 €**: la cartera del 18/11 con el crédito consolidado en Neuberger (**12 fondos**, **54,6 % de RV**, **509,70 €/año (0,566 %)**, duración 1,61) y **≈4,8 % de rentabilidad esperada anual** con rango 2,3-6,8 % y supuestos escritos | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, coste, duración, rentabilidad esperada con su método, 22 órdenes en dos fases, 1.000 €/mes, descartes con número y señales) |
 | `cartera-ai-no-indexados-5/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,3543 %; `200k.md`, 8 + 3 con Valentum, 70 %, 1,3417 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
@@ -75,6 +76,15 @@ caída de manual **−30,73 %** y **≈5,89 % de rentabilidad esperada**. Lo que
 América sigue ganando) y **no hay diversificación de gestora**, solo de índice, región, tamaño, tipo de bono y
 duración. La descripción del índice del fondo soberano euro venía cruzada en la ficha del catálogo y se verificó
 con su **KID oficial de Vanguard** antes de dejarlo en la cartera.
+
+`cartera-definitiva-40/` es **la cartera de referencia del titular a su edad** (40 años, 19/11/2026) y no nace de
+ninguna otra: cuatro indexados, **96,00 €/año (0,096 %)** —la más barata del repositorio—, **84,46 % de RV real**,
+caída **−34,25 %** y **≈6,16 % esperado**. La decisión de diseño es una sola: **cuánta bolsa a los 40**, y la
+respuesta es 85/15 con el colchón fuera. No hay tilt de país (el 62 % de EE. UU. es el peso del mundo, a diferencia
+de `cartera-vanguard/`), no hay estilo, ni sector, ni comisión de éxito. Lo demás está escrito como plan: colchón de
+6-12 meses fuera, aportación automática mensual —**con 1.000 €/mes el capital a los 67 pasa de ≈502.000 € a
+≈1.308.000 €**—, rebalanceo por bandas de ±5 pp con aportaciones y **glide de edad desde los 55** (1 pp/año de RV a
+renta fija). Su variante 70/30, para horizontes de 5-7 años, es 99,30 €/año y −28,74 % de caída.
 
 `cartera-ai-no-indexados/` es un tercer diseño independiente del mismo agente, con **dos condiciones únicas
 del titular** —ningún fondo indexado, ningún fondo que reparta dividendos— y **ninguna regla heredada** del
@@ -328,3 +338,15 @@ EE. UU. 54,7 %), el REITs institucional al 0,23 % (el que hay ya cuesta 0,17 %) 
   riesgo) y U.S. Opportunities (**mínimo 100.000 €**). Pendientes: horizonte (asumido 10+ años), tolerancia a
   −30,7 %, si se acepta el tilt de 27 pp contra EE. UU., la duración real de los cuatro fondos de RF y la fecha de
   ejecución.
+- **cartera-definitiva-40 (19/11/2026, sin ejecutar):** `100k.md`. **La cartera de referencia a los 40**: **4
+  fondos** (iShares Developed World S 65 % al **0,06 %**, iShares Emerging Markets S 10 %, Vanguard Global
+  Small-Cap 10 %, iShares Global Aggregate 1-5Y EUR H 15 %), **84,46 % de RV real**, **96,00 €/año (0,096 %)**,
+  caída **−34,25 % (−34.250 €)**, **cero comisiones de éxito** y **≈6,16 % esperado** (4,05-8,27 %). **4 órdenes
+  en dos cortes** (09:00 y 16:00), liquidación de 4 días en el núcleo. Variantes escritas: 70/30 (99,30 €,
+  −28,74 %, 5,61 %) y 100/0 (93,00 €, −39,74 %, 6,70 %). Plan completo: colchón fuera, aportación automática
+  (1.000 €/mes → ≈1,31 M € a los 67), rebalanceo por bandas y glide de edad desde los 55. Descartados con número:
+  Vanguard World (78 €/año más), Fidelity World (26 € más), REITs (5 % que solo añadían volatilidad), Euro IG
+  (crédito en la línea que es colchón), agregado global completo (duración 6-7, cayó en 2022), ligado a inflación
+  (0,08 pp de esperanza por 5 % de peso) y las líneas de país (tilt, no diversificación). Pendientes: confirmar
+  horizonte 15+ años, colchón fuera y aportación mensual; el TER real de la clase S en pantalla (KID 0,06 % frente
+  a `management_fee` 0,09 % de la ficha) y la fecha de ejecución.
