@@ -59,4 +59,6 @@ Es **4,1 pp sobre el monetario**: el exceso de riesgo se cobra, y esa es la úni
 suba 1,3 pp frente a la cartera conservadora. En real son **4,1 % anual**: a 20 años, 110.000 € se convierten en
 ≈359.500 € frente a ≈241.000 € del escenario pesimista. **No llega al 7 % de mediana** y ese es el dato que
 importa: para más rentabilidad que esta, con este mandato, no hay fondo que lo dé — hay que aceptar más caída o
-más años.
+más años. Con la historia reciente a favor —el MSCI World en euros dio **12,69 % anual** entre 2009 y
+2026— este mismo diseño daría ≈10,8 %; con la década de 2000-2009 (−1,3 % anual en la bolsa), ≈−0,7 % nominal. El 6,1 % es el punto
+central entre las dos, no un techo (110k.md §4.1).
