@@ -23,6 +23,14 @@ Los que distribuyen cupones o dividendos quedan excluidos por regla del titular.
 - **Progreso:** `estado.json` guarda la frontera de búsqueda y los ISIN ya escritos;
   el trabajo se hace por lotes reanudables.
 
+## Listado de la app (snapshot)
+
+[`listado-app/`](listado-app/README.md) es una capa aparte: los **1.980 fondos** del listado
+de búsqueda de la app, guardado manualmente por el titular el 2026-11-19 y parseado con
+`tools/parsear_listado_myinvestor.py` (`fondos.json` + catálogo por clase). Incluye fondos
+sin ficha MCP y de política de dividendos desconocida; los campos que el listado no publica
+quedan pendientes. No reanuda ni sustituye al volcado MCP detenido.
+
 ## Clases
 
 | Carpeta | Contenido |

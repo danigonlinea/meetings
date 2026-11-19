@@ -22,3 +22,7 @@ __pycache__/
 
 # Local meeting data (transcript.json contains source of truth for summaries)
 # meeting-*.json
+
+# Fuente HTML del listado de fondos MyInvestor (34 MB, guardada manualmente).
+# Los datos parseados se versionan en finance/fondos-myinvestor/listado-app/.
+/MyInvestor.html
