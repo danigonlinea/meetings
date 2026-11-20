@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1598
+**Fondos: 1980** · con ficha previa: 1604
 
 | Clase | Fondos |
 | --- | --- |
@@ -1526,7 +1526,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU2778908793](../rv-japon/LU2778908793.md) | Arcus Japan C Acc EUR Hedged | Activa | EUR | Japan Equity | 1,70 | — | 4 | — |
 | [IE00B5648R31](../rv-japon/IE00B5648R31.md) | Man GLG Japan CoreAlpha Equity Class D H EUR | Activa | EUR | Japan Equity | 1,71 | 24,22 | 4 | — |
 | [IE00BBT38246](../rv-japon/IE00BBT38246.md) | NOMURA JAPAN HIGH CONVICTION A ACC EUR | Activa | EUR | Japan Equity | 1,75 | 4,65 | 4 | 1 |
-| IE0003012535 | GAM Star Fund plc - GAM Star Japan Leaders EUR Acc | Activa | EUR | Japan Equity | 1,76 | 3,90 | 4 | 1 |
+| [IE0003012535](../rv-japon/IE0003012535.md) | GAM Star Fund plc - GAM Star Japan Leaders EUR Acc | Activa | EUR | Japan Equity | 1,76 | 3,90 | 4 | 1 |
 | [IE00BD1DJ122](../rv-japon/IE00BD1DJ122.md) | COMGEST GROWTH JAPAN R ACC EUR | Activa | EUR | Japan Equity | 1,77 | 13,50 | 4 | 2 |
 | LU0011890265 | HORIZON JAPANESE SM COMP A2 US | Activa | USD | Japan Equity | 1,89 | 13,77 | 4 | 3 |
 | [LU0644935313](../rv-japon/LU0644935313.md) | Swisscanto (LU) EF Small & Mid Caps Jpn AT EUR | Activa | EUR | Japan Equity | 2,05 | 17,54 | 4 | 3 |
@@ -1543,7 +1543,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LU0338482267 | Pictet-Russian Equities-P USD | Activa | USD | Europe Emerging Markets Equity | 0,19 | -5,97 | 6 | — |
+| [LU0338482267](../rv-emergentes/LU0338482267.md) | Pictet-Russian Equities-P USD | Activa | USD | Europe Emerging Markets Equity | 0,19 | -5,97 | 6 | — |
 | [IE00BYX5M476](../rv-emergentes/IE00BYX5M476.md) | Fidelity MSCI Emerging Markets Index Fund P-ACC-EUR | Indexada | EUR | Global Emerging Markets Equity | 0,20 | 16,95 | 4 | 3 |
 | [IE00BYX5M039](../rv-emergentes/IE00BYX5M039.md) | Fidelity MSCI Emerging Markets Index Fund P-ACC-USD | Indexada | USD | Global Emerging Markets Equity | 0,20 | 16,95 | 4 | 3 |
 | [LU0338483158](../rv-emergentes/LU0338483158.md) | Pictet-Russian Equities-R EUR | Activa | EUR | Europe Emerging Markets Equity | 0,20 | -6,47 | 6 | — |
@@ -1573,13 +1573,13 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU2217675276](../rv-emergentes/LU2217675276.md) | LO FND CHNA HIGH CONV P AC EUR | Activa | EUR | Global Emerging Markets Equity | 0,90 | — | 5 | — |
 | [LU0625738058](../rv-emergentes/LU0625738058.md) | Pictet-China Index-R EUR | Indexada | EUR | Greater China Equity | 0,94 | 6,26 | 5 | 3 |
 | [LU2659281534](../rv-emergentes/LU2659281534.md) | JPMorgan Funds - Middle East, Africa & Emerging Europe Opportunities Fund C (acc) EUR (H) | Activa | EUR | Africa Equity | 0,95 | — | 4 | — |
-| IE00BDR0JY05 | Ashoka WhiteOak India Opportunities Fund Class D EUR Accumulation | Activa | EUR | India Equity | 1,08 | 7,96 | 4 | 4 |
+| [IE00BDR0JY05](../rv-emergentes/IE00BDR0JY05.md) | Ashoka WhiteOak India Opportunities Fund Class D EUR Accumulation | Activa | EUR | India Equity | 1,08 | 7,96 | 4 | 4 |
 | [IE00BH3N4915](../rv-emergentes/IE00BH3N4915.md) | Ashoka WhiteOak India Opportunities Fund Class D USD Accumulation | Activa | USD | India Equity | 1,08 | 8,05 | 4 | 4 |
 | [LU1177490023](../rv-emergentes/LU1177490023.md) | Aubrey Global Emerging Markets Opportunities Fund IC1 USD | Activa | USD | Global Emerging Markets Equity | 1,09 | 13,87 | 4 | 3 |
 | [LU0709028343](../rv-emergentes/LU0709028343.md) | GBM Asset Management SICAV Mexico D EUR | Activa | EUR | Mexico Equity | 1,10 | 12,58 | 6 | — |
-| ES0109221038 | CI EMERGENTES FI | Activa | EUR | Global Emerging Markets Equity | 1,48 | 13,38 | 4 | 2 |
-| LU0329355670 | Robeco QI EM Active Equities D EUR | Activa | EUR | Global Emerging Markets Equity | 1,52 | 18,89 | 4 | 5 |
-| LU1554455995 | Goldman Sachs Emerging Markets CORE Equity Portfolio Other Currency Acc EUR Close | Activa | EUR | Global Emerging Markets Equity | 1,54 | 16,69 | 4 | 3 |
+| [ES0109221038](../rv-emergentes/ES0109221038.md) | CI EMERGENTES FI | Activa | EUR | Global Emerging Markets Equity | 1,48 | 13,38 | 4 | 2 |
+| [LU0329355670](../rv-emergentes/LU0329355670.md) | Robeco QI EM Active Equities D EUR | Activa | EUR | Global Emerging Markets Equity | 1,52 | 18,89 | 4 | 5 |
+| [LU1554455995](../rv-emergentes/LU1554455995.md) | Goldman Sachs Emerging Markets CORE Equity Portfolio Other Currency Acc EUR Close | Activa | EUR | Global Emerging Markets Equity | 1,54 | 16,69 | 4 | 3 |
 | IE00B240WN62 | COMGEST GROWTH EMERGING MARKETS DIS EUR | Activa | EUR | Global Emerging Markets Equity | 1,56 | 7,57 | 4 | 1 |
 | ES0173320039 | RENTA 4 LATINOAMERICA FIM | Activa | EUR | Latin America Equity | 1,56 | 9,70 | 4 | 5 |
 | IE00BK5TW610 | BAILLIE GIF WORLDWIDE EME MRKT | Activa | EUR | Global Emerging Markets Equity | 1,60 | 16,41 | 5 | 2 |
