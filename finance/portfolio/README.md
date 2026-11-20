@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veintinueve carteras propias y una de referencia"
+title: "Cartera: treinta carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek, cartera-ai-letter-keinesei-twitter]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek, cartera-ai-letter-keinesei-twitter, cartera-ai-azvalor-consejo]
 status: living
 ---
-# Cartera: veintinueve carteras propias y una de referencia
+# Cartera: treinta carteras propias y una de referencia
 
-Veintinueve patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Treinta patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -43,7 +43,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-fondos-2000-lista/` | **Dos carteras de 100.000 € con un criterio cada una**, tras retirar el 20/11 las tres que no aportaban frente a lo ya existente: C2 convicción activa (1,2486 %) y C4 defensiva con alternativos (0,7661 %). La condición del titular de **ningún fondo repetido entre ellas** se cumple con 21 fondos distintos | `README.md` de mapa + `C2-conviccion-activa.md` y `C4-defensiva-alternativos.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-fondos-2000-lista-glm/` | **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1098 %, convicción activa 1,1801 %, equilibrada 55/45 0,4250 %, defensiva con alternativos 0,7277 % y crecimiento con satélites 0,9423 %), de 34,91 % a 87,64 % de RV. La condición del titular de **ningún fondo repetido entre las cinco** se cumple con 50 fondos distintos, verificados en el MCP | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-fondos-2000-lista-deepseek/` | ⚠️ **C5 elegida, pendiente de la revisión del titular** (99,48 % de RV, 764,60 €/año, 618.617 € a 15 años; 15 años y 1.500 €/mes). **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1292 %, convicción activa 1,4344 %, equilibrada con crédito activo 0,4929 %, defensiva con alternativos 0,6076 % y crecimiento con satélites 0,7646 %), de 34,06 % a 99,48 % de RV, con **37 fondos sin repetir** entre ellas y **diez de los trece fondos que nombró el titular** dentro. Sin lista negra heredada | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
-| `cartera-ai-letter-keinesei-twitter/` | **Una talla, 100.000 €**, traducida de un artículo de The Kobeissi Letter que sostiene que la caída de la IA es una corrección y no una burbuja: 28 % núcleo de calidad, 22 % IA pura en la clase institucional al 0,86 %, 20 % automatización e infraestructura eléctrica, y **30 % de colchón en tres tramos** que se despliegan si el S&P 500 cae otro 10/20/30 %. 66,72 % de RV real, 1.024,20 €/año (1,0242 %) y caída −27,0 %; desplegada, 95,35 % de RV y 1.347,40 €/año | `README.md` de mapa + `100k.md` (la cartera entera: tesis comprable vs no comprable, ISIN, bloques, geografía, razón fondo a fondo, los tres tramos, descartes y disparadores) |
+| `cartera-ai-azvalor-consejo/` | **Una talla, 100.000 €**, traducida de una entrevista a **Beltrán Parages** (Azvalor, *La Pizarra de Andrés*, 11/2026): todo en equity, beneficio de la duda para el índice y cuatro filtros para la excepción. **60 % indexado** (45 % MSCI World desarrollado al 0,06 % y 15 % Europa al 0,10 %) y **40 % en tres value** (20 % Azvalor Internacional, 10 % Magallanes European, 10 % Cobas Large Cap al 0,96 % en vez de la internacional al 2,33 % y en *soft close*). **93,17 % de RV real, 709 €/año (0,709 %), caída −37,27 % y ≈6,83 % esperado**; cero renta fija, cero monetario y cero comisiones de éxito. Cinco órdenes, una antes de las 09:00 (precio del 0,06 %), y el 20 % de Azvalor cautivo 12 meses por su comisión de reembolso del 3 % | `README.md` de mapa + `100k.md` (la cartera entera: mandato con su precio, ISIN, bloques, geografía y sectores, tilts, variantes, backtest en dos pasadas, esperanza, comparador, órdenes, descartes con número y disparadores) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
 rebalancea y no compite con las anteriores del dueño. Se actualiza con la skill `cartera-andres` cuando se
@@ -251,6 +251,17 @@ los tres tramos desplegados, 95,35 % de RV y 1.347,40 €/año. Lleva escrito su
 si al cierre de Q2 2027 la IA no ha recuperado, el bloque temático se recorta a la mitad. El precio de la
 escalera está declarado: 1.050 €/año de coste de oportunidad mientras el colchón espera.
 
+`cartera-ai-azvalor-consejo/` nace igual de una fuente ajena, pero de una **entrevista de gestor** y no de un
+artículo: Beltrán Parages (Azvalor) en *La Pizarra de Andrés* (11/2026), resumida por el titular con la cita
+«yo me lo sé porque tengo todo mi dinero aquí». Su primera regla es **todo en equity** y su segunda, que solo un
+5 % de los gestores activos bate al índice, así que la cartera pone **60 % en dos indexados** (MSCI World
+desarrollado al 0,06 % y Europa al 0,10 %) y **40 % en tres value** que pasan los cuatro filtros del
+entrevistado: Azvalor Internacional (39,56 % energía y 20,46 % materiales), Magallanes European y Cobas Large
+Cap. **93,17 % de RV real, 709 €/año (0,709 %), caída −37,27 % y ≈6,83 % esperado**, sin renta fija, sin
+monetario y sin comisiones de éxito. Lo que la fuente no puede dar está escrito: no compra oro —el fondo de
+mineras se descarta—, no entra en China —cero emergentes— y no convierte al índice en enemigo: el 60 % paga el
+precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo que el entrevistado llama caro.
+
 ## Reglas
 
 - **Un dato, un sitio.** En las carteras con dinero real los saldos viven en su `cartera-actual.md` y las
@@ -280,6 +291,8 @@ escalera está declarado: 1.050 €/año de coste de oportunidad mientras el col
   `revision-YYYY-QN.md` en esta carpeta.
 
 ## Estado a 20/11/2026
+
+- **`cartera-ai-azvalor-consejo` (20/11/2026, sin ejecutar):** una cartera de 100.000 € traducida de la entrevista a Beltrán Parages (Azvalor, *La Pizarra de Andrés*, 11/2026). **60 % indexado** (45 % iShares Developed World al 0,06 % + 15 % Fidelity MSCI Europe al 0,10 %) y **40 % en tres value** (20 % Azvalor Internacional al 1,88 %, 10 % Magallanes European al 1,95 % y 10 % Cobas Large Cap al 0,96 %). **93,17 % de RV real**, **709,00 €/año (0,709 %)**, caída de manual −37,27 % (−37.268 €), **≈6,83 % esperado** (sin prima 6,58 %; activos −1 pp 6,18 %) y 374.856 € a 20 años. **Cero renta fija, cero monetario, cero emergentes, cero comisiones de éxito**, 5/5 clases de acumulación verificadas en el MCP. Descartados con número: Cobas Internacional (2,33 % y soft close), Cobas Selección (2,05 %), Azvalor Managers (2,32 %), Azvalor Iberia (1,91 %), Magallanes Iberian (1,80 %), Vanguard Global Stock (0,18 %), BGF World Mining (2,06 % y reparte) y Allianz Metals (1,85 %). Prueba de alfa del bloque activo fechada el 30/11/2031 con umbral de 1 pp/año. Pendientes: si los 100.000 € son invertibles, tolerancia al −37 %, aportaciones y fecha de ejecución.
 
 - **`cartera-ai-fondos-2000-lista` (20/11/2026, sin ejecutar):** dos ficheros de criterio tras retirar C1, C3 y C5 por no aportar frente a carteras ya existentes, **21 fondos sin repetir**, RV de 35,49 % (C4) y 78,65 % (C2), coste de 766,10 € y 1.248,60 €/año. Sin lista negra heredada; 21/21 clases de acumulación; mínimos verificados y una comprobación web puntual. Pendientes: horizonte, colchón, aportaciones y fecha de ejecución.
 
