@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1748
+**Fondos: 1980** · con ficha previa: 1750
 
 | Clase | Fondos |
 | --- | --- |
@@ -1784,7 +1784,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0512092221](../sectoriales/LU0512092221.md) | Morgan Stanley Investment Funds - Global Infrastructure Fund AH (EUR) | Activa | EUR | Infrastructure Sector Equity | 1,53 | 9,89 | 4 | — |
 | [LU0302296149](../sectoriales/LU0302296149.md) | DNB Fund Renewable Energy retail A | Activa | EUR | Energy Sector Equity | 1,55 | 5,85 | 5 | 3 |
 | [LU0302296495](../sectoriales/LU0302296495.md) | DNB Technology A Acc Eur | Activa | EUR | Technology Sector Equity | 1,55 | 28,76 | 4 | 4 |
-| DE0009769851 | DWS Health Care Typ O NC | Activa | EUR | Healthcare Sector Equity | 1,57 | 3,77 | 4 | 2 |
+| [DE0009769851](../sectoriales/DE0009769851.md) | DWS Health Care Typ O NC | Activa | EUR | Healthcare Sector Equity | 1,57 | 3,77 | 4 | 2 |
 | [IE0033535075](../sectoriales/IE0033535075.md) | COMGEST GROWTH WORLD ACC USD | Activa | USD | Global Equity Large Cap | 1,58 | 6,66 | 4 | 3 |
 | [IE00BZ4D7648](../sectoriales/IE00BZ4D7648.md) | POLAR CAPITAL GLOBAL TECHNOLOGY R EUR | Activa | EUR | Technology Sector Equity | 1,58 | 34,11 | 5 | — |
 | IE00B433M743 | POLAR CAPITAL GLOBAL TECHNOLOGY R USD | Activa | USD | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
@@ -1802,7 +1802,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [FI0008801188](../sectoriales/FI0008801188.md) | EVLI GLOBAL B ACC EUR | Activa | EUR | Global Equity Mid/Small Cap | 1,61 | 11,63 | 4 | 4 |
 | [LU0187079180](../sectoriales/LU0187079180.md) | Robeco Sustainable Property Equities D EUR | Activa | EUR | Real Estate Sector Equity | 1,61 | 6,99 | 4 | 3 |
 | [LU0271483876](../sectoriales/LU0271483876.md) | Schroder ISF US Large Capitalisation A Accumulation EUR Hedged | Activa | EUR | US Equity Large Cap Blend | 1,61 | 14,17 | 4 | — |
-| LU0329630130 | Variopartner SICAV - MIV Global Medtech Fund P2 EUR | Activa | EUR | Healthcare Sector Equity | 1,61 | 3,61 | 4 | 2 |
+| [LU0329630130](../sectoriales/LU0329630130.md) | Variopartner SICAV - MIV Global Medtech Fund P2 EUR | Activa | EUR | Healthcare Sector Equity | 1,61 | 3,61 | 4 | 2 |
 | [IE0033535182](../sectoriales/IE0033535182.md) | COMGEST GROWTH EM MKT ACC USD | Activa | USD | Global Emerging Markets Equity | 1,62 | 7,56 | 4 | 1 |
 | ES0110407055 | Gestión Boutique VI Impassive Growth R FI | Activa | EUR | Technology Sector Equity | 1,63 | — | 5 | — |
 | ES0141222036 | MUTUAFONDO TECNOLÓGICO A FI | Activa | EUR | Technology Sector Equity | 1,63 | 21,67 | 5 | 3 |
