@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1698
+**Fondos: 1980** · con ficha previa: 1704
 
 | Clase | Fondos |
 | --- | --- |
@@ -1655,7 +1655,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0106819104](../rv-emergentes/LU0106819104.md) | Schroder ISF Emerging Europe B Accumulation EUR | Activa | EUR | Europe Emerging Markets Equity | 2,48 | 25,90 | 6 | 3 |
 | [LU0169248142](../rv-emergentes/LU0169248142.md) | GIS CENTRAL EASTERN EUROPEAN EQ EX EUR | Activa | EUR | Europe Emerging Markets Equity | 2,50 | 26,76 | 4 | 3 |
 | [LU0072913022](../rv-emergentes/LU0072913022.md) | UBS (Lux) EF Greater China (USD) P | Activa | USD | Greater China Equity | 2,50 | 3,49 | 5 | 2 |
-| LU0763739140 | UBS LUX EQTY GREATER CHINA P ACC EURH | Activa | EUR | Greater China Equity | 2,50 | 1,68 | 5 | — |
+| [LU0763739140](../rv-emergentes/LU0763739140.md) | UBS LUX EQTY GREATER CHINA P ACC EURH | Activa | EUR | Greater China Equity | 2,50 | 1,68 | 5 | — |
 | LU0217576833 | JPMorgan Funds - Emerging Markets Equity Fund D (acc) - EUR | Activa | EUR | Global Emerging Markets Equity | 2,51 | 14,18 | 4 | 3 |
 | FR0011147446 | Carmignac Emergents E EUR Acc | Activa | EUR | Global Emerging Markets Equity | 2,55 | 11,88 | 4 | 2 |
 | [LU0117895366](../rv-emergentes/LU0117895366.md) | JPMorgan Funds - Emerging Markets Equity Fund D (acc) USD | Activa | USD | Global Emerging Markets Equity | 2,55 | 14,24 | 4 | 3 |
@@ -1664,7 +1664,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0616857313](../rv-emergentes/LU0616857313.md) | DWS Invest Brazilian Equities NC | Activa | EUR | Latin America Equity | 2,59 | -0,86 | 5 | 4 |
 | [LU0231205856](../rv-emergentes/LU0231205856.md) | Franklin India Fund N(acc)EUR | Activa | EUR | India Equity | 2,59 | 2,96 | 4 | 3 |
 | [LU0090830497](../rv-emergentes/LU0090830497.md) | BlackRock Global Funds - Emerging Europe Fund E2 | Activa | EUR | Europe Emerging Markets Equity | 2,60 | -19,21 | 6 | — |
-| LU0522352516 | JPMorgan Funds - India Fund D (acc) EUR | Activa | EUR | India Equity | 2,61 | 0,99 | 4 | 1 |
+| [LU0522352516](../rv-emergentes/LU0522352516.md) | JPMorgan Funds - India Fund D (acc) EUR | Activa | EUR | India Equity | 2,61 | 0,99 | 4 | 1 |
 | [LU0117881739](../rv-emergentes/LU0117881739.md) | JPMorgan Funds - India Fund D (acc) USD | Activa | USD | India Equity | 2,61 | 1,08 | 4 | 1 |
 | [LU0982190216](../rv-emergentes/LU0982190216.md) | GAM Multistock - China Evolution Equity USD E | Activa | USD | Greater China Equity | 2,65 | 3,97 | 5 | 3 |
 | [LU0766124126](../rv-emergentes/LU0766124126.md) | Fidelity China Consumer Fund E ACC EUR | Activa | EUR | Greater China Equity | 2,70 | -3,67 | 5 | 1 |
@@ -1676,11 +1676,11 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0522352946 | JPMorgan Funds - Greater China Fund D (acc) - EUR | Activa | EUR | Greater China Equity | 2,76 | 9,69 | 5 | 3 |
 | [LU0117841949](../rv-emergentes/LU0117841949.md) | JPMorgan Funds - Greater China Fund D (acc) - USD | Activa | USD | Greater China Equity | 2,78 | 9,75 | 5 | 3 |
 | [LU2659281880](../rv-emergentes/LU2659281880.md) | JPMorgan Funds - Middle East, Africa & Emerging Europe Opportunities Fund D (acc) EUR (H)  | Activa | EUR | Africa Equity | 2,79 | — | 4 | — |
-| LU2539337043 | JPMorgan Funds - Middle East, Africa & Emerging Europe Opportunities Fund D (acc) EUR | Activa | EUR | Africa Equity | 2,80 | 14,02 | 4 | 5 |
+| [LU2539337043](../rv-emergentes/LU2539337043.md) | JPMorgan Funds - Middle East, Africa & Emerging Europe Opportunities Fund D (acc) EUR | Activa | EUR | Africa Equity | 2,80 | 14,02 | 4 | 5 |
 | [LU0117843721](../rv-emergentes/LU0117843721.md) | JPMorgan Funds - Taiwan Fund D (acc) USD | Activa | USD | Greater China Equity | 2,80 | 29,86 | 5 | 2 |
 | [LU0522352862](../rv-emergentes/LU0522352862.md) | JPMorgan Funds - Latin America Equity Fund D (acc) EUR | Activa | EUR | Latin America Equity | 2,81 | 4,34 | 5 | 3 |
 | LU0117896174 | JPMorgan Funds - Latin America Equity Fund D (acc) USD | Activa | USD | Latin America Equity | 2,81 | 4,43 | 5 | 3 |
-| LU0995383683 | LATAM AMERICAN EQUITY R EUR | Activa | EUR | Latin America Equity | 2,82 | 6,80 | 5 | 2 |
+| [LU0995383683](../rv-emergentes/LU0995383683.md) | LATAM AMERICAN EQUITY R EUR | Activa | EUR | Latin America Equity | 2,82 | 6,80 | 5 | 2 |
 | LU0995386355 | LATAM AMERICAN EQUITY R USD | Activa | USD | Latin America Equity | 2,82 | 6,80 | 5 | 2 |
 | [LU0577510026](../rv-emergentes/LU0577510026.md) | UBS Equities Greater China Nacc Usd | Activa | EUR | Greater China Equity | 2,90 | 2,93 | 5 | 2 |
 
@@ -1701,7 +1701,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0836512961](../rv-otros/LU0836512961.md) | iShares Pacific ex Japan Equity Index Fund (LU) A2 USD | Indexada | USD | Asia ex-Japan Equity | 0,55 | 13,49 | 5 | 3 |
 | [LU0148539108](../rv-otros/LU0148539108.md) | Pictet-Pacific Ex Japan Index-R USD | Indexada | USD | Asia ex-Japan Equity | 0,76 | 13,54 | 4 | 2 |
 | [IE00B8H6X308](../rv-otros/IE00B8H6X308.md) | Federated Hermes Asia ex-Japan Equity Fund Class F Acc | Activa | USD | Asia ex-Japan Equity | 0,83 | 19,28 | 4 | 5 |
-| IE00BBL4VS26 | Federated Hermes Asia ex-Japan Equity Fund Class F Acc H | Activa | EUR | Asia ex-Japan Equity | 0,87 | — | 4 | — |
+| [IE00BBL4VS26](../rv-otros/IE00BBL4VS26.md) | Federated Hermes Asia ex-Japan Equity Fund Class F Acc H | Activa | EUR | Asia ex-Japan Equity | 0,87 | — | 4 | — |
 | IE0003852575 | BNY Mellon Asian Opportunities Fund EUR C Acc | Activa | EUR | Asia ex-Japan Equity | 1,26 | 12,90 | 4 | 3 |
 | IE00BG43QC08 | ASIAN STARS FUND R ACC EUR | Activa | EUR | Asia ex-Japan Equity | 1,34 | 14,17 | 5 | 2 |
 | LU0591059224 | Robeco Asian Stars Equities D € | Activa | EUR | Asia ex-Japan Equity | 1,50 | 15,02 | 4 | 4 |
@@ -1709,7 +1709,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | IE00B88WFS66 | Federated Hermes Asia ex-Japan Equity Fund Class R Acc | Activa | EUR | Asia ex-Japan Equity | 1,58 | 18,31 | 4 | 5 |
 | IE00BBL4VW61 | Federated Hermes Asia ex-Japan Equity Fund Class R Acc | Activa | USD | Asia ex-Japan Equity | 1,58 | 18,39 | 4 | 5 |
 | [IE00B0WFLG51](../rv-otros/IE00B0WFLG51.md) | VERITAS ASIAN FUND B ACC EUR | Activa | EUR | Asia ex-Japan Equity | 1,59 | 16,00 | 4 | 2 |
-| IE00BLCHG522 | VERITAS ASIAN FUND B ACC USD  | Activa | USD | Asia ex-Japan Equity | 1,59 | 16,07 | 4 | 1 |
+| [IE00BLCHG522](../rv-otros/IE00BLCHG522.md) | VERITAS ASIAN FUND B ACC USD  | Activa | USD | Asia ex-Japan Equity | 1,59 | 16,07 | 4 | 1 |
 | [ES0168797092](../rv-otros/ES0168797092.md) | Gestión Boutique II JPB Growth FI | Activa | EUR | Equity Miscellaneous | 1,66 | 18,47 | 5 | — |
 | IE0004868604 | BARING ASIA GROWTH A DIS EUR | Activa | EUR | Asia ex-Japan Equity | 1,71 | 17,43 | 4 | 3 |
 | IE000QYL1XE8 | MAN GLG ASIA EXJAP EQT EUR ACC | Activa | EUR | Asia ex-Japan Equity | 1,71 | — | 4 | — |
