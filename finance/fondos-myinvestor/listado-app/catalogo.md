@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1756
+**Fondos: 1980** · con ficha previa: 1758
 
 | Clase | Fondos |
 | --- | --- |
@@ -1757,7 +1757,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0184894006](../sectoriales/ES0184894006.md) | MyInvestor Mundo Desarrollado y Emergente | Indexada | EUR | Global Equity Large Cap | 0,43 | 17,22 | 4 | 3 |
 | [ES0110407063](../sectoriales/ES0110407063.md) | Gestión Boutique VI Opportunity FI | Activa | EUR | Global Equity Large Cap | 0,49 | 19,93 | 4 | 2 |
 | [LU1303370156](../sectoriales/LU1303370156.md) | JPMorgan Funds - US Technology Fund C (acc) - EUR | Activa | EUR | Technology Sector Equity | 0,84 | 16,69 | 5 | 3 |
-| NO0013620781 | DNB Defensa Europea A EUR | Activa | EUR | Industrials Sector Equity | 0,86 | — | 5 | — |
+| [NO0013620781](../sectoriales/NO0013620781.md) | DNB Defensa Europea A EUR | Activa | EUR | Industrials Sector Equity | 0,86 | — | 5 | — |
 | [IE00BWY57036](../sectoriales/IE00BWY57036.md) | Algebris UCITS Funds plc - Algebris Financial Equity Fund I GBP Acc | Activa | GBP | Financials Sector Equity | 0,90 | 30,76 | 4 | — |
 | IE00B51PLJ46 | GLOBAL LIST INF EQ A AC EURH | Activa | EUR | Infrastructure Sector Equity | 0,92 | 13,26 | 3 | — |
 | [LU2053353079](../sectoriales/LU2053353079.md) | JPMorgan Funds - Thematics - Genetic Therapies A (acc) - EUR Hedged | Activa | EUR | Healthcare Sector Equity | 0,99 | 9,78 | 5 | — |
@@ -1826,7 +1826,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00BGHQF417](../sectoriales/IE00BGHQF417.md) | Guinness Sustainable Energy C EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,74 | 6,27 | 4 | 3 |
 | LU0175576296 | Multipartner SICAV - Konwave Gold Equity Fund B USD | Activa | USD | Precious Metals Sector Equity | 1,74 | 55,94 | 6 | 4 |
 | LU2145465402 | RobecoSAM Smart Mobility Equities D EUR | Activa | EUR | Technology Sector Equity | 1,74 | 10,28 | 5 | 2 |
-| ES0175812009 | TRANSI ENERGETICA FI A ACC EUR | Activa | EUR | Energy Sector Equity | 1,74 | 10,98 | 4 | 3 |
+| [ES0175812009](../sectoriales/ES0175812009.md) | TRANSI ENERGETICA FI A ACC EUR | Activa | EUR | Energy Sector Equity | 1,74 | 10,98 | 4 | 3 |
 | IE00B00LSD17 | Wellington Global Health Care Equity Fund USD D Acc | Activa | USD | Healthcare Sector Equity | 1,74 | 10,97 | 4 | 3 |
 | LU1536921650 | AXA World Funds - Framlington Robotech A Capitalisation EUR | Activa | EUR | Technology Sector Equity | 1,75 | 10,48 | 5 | 2 |
 | LU1819480192 | Echiquier Artificial Intelligence B EUR Artificial Intelligence B EUR | Activa | EUR | Technology Sector Equity | 1,75 | 21,81 | 6 | 2 |

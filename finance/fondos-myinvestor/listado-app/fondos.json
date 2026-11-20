@@ -7495,7 +7495,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "sectoriales/ES0175812009.md"
   },
   {
    "isin": "ES0175902008",
@@ -39100,7 +39100,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "sectoriales/NO0013620781.md"
   },
   {
    "isin": "NO0013670588",
