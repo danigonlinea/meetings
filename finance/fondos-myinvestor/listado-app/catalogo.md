@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1501
+**Fondos: 1980** · con ficha previa: 1507
 
 | Clase | Fondos |
 | --- | --- |
@@ -23,8 +23,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [Mixtos](#mixtos) | 312 |
 | [Renta variable global](#rv-global) | 296 |
 | [Renta variable EE. UU.](#rv-usa) | 109 |
-| [Renta variable Europa](#rv-europa) | 186 |
-| [Renta variable España](#rv-españa) | 5 |
+| [Renta variable Europa](#rv-europa) | 185 |
+| [Renta variable España](#rv-españa) | 6 |
 | [Renta variable Japón](#rv-japon) | 28 |
 | [Renta variable emergentes](#rv-emergentes) | 140 |
 | [Renta variable otras regiones](#rv-otros) | 48 |
@@ -1299,7 +1299,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 
 ## rv-europa
 
-### Renta variable Europa (186)
+### Renta variable Europa (185)
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1397,11 +1397,10 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0171293177](../rv-europa/LU0171293177.md) | BGF UNITED KINGDOM A2 ACC EUR | Activa | EUR | UK Equity Large Cap | 1,81 | 11,62 | 4 | 2 |
 | [LU0072462186](../rv-europa/LU0072462186.md) | BlackRock Global Funds - European Value Fund A2 | Activa | EUR | Europe Equity Large Cap | 1,81 | 16,28 | 4 | 3 |
 | [LU0011847091](../rv-europa/LU0011847091.md) | BlackRock Global Funds - United Kingdom Fund A2 | Activa | GBP | UK Equity Large Cap | 1,81 | 11,62 | 4 | 2 |
-| LU1475748437 | CT (Lux) - UK Equity Income Class AE (EUR Accumulation Shares) | Activa | EUR | UK Equity Large Cap | 1,81 | 13,36 | 4 | 3 |
+| [LU1475748437](../rv-europa/LU1475748437.md) | CT (Lux) - UK Equity Income Class AE (EUR Accumulation Shares) | Activa | EUR | UK Equity Large Cap | 1,81 | 13,36 | 4 | 3 |
 | [LU0278527428](../rv-europa/LU0278527428.md) | NORDEA NORDIC EQ SMCAP BP EUR  | Activa | EUR | Europe Equity Mid/Small Cap | 1,81 | 14,49 | 4 | 4 |
 | [LU0124675678](../rv-europa/LU0124675678.md) | AB EUROPEAN EQUITY PORTFOLIO A | Activa | EUR | Europe Equity Large Cap | 1,82 | 12,20 | 4 | 3 |
-| LU0093502762 | BlackRock Global Funds - Euro-Markets Fund A2 | Activa | EUR | Europe Equity Large Cap | 1,82 | 11,58 | 4 | 3 |
-| ES0162735031 | Metavalor FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,84 | 17,94 | 4 | 2 |
+| [LU0093502762](../rv-europa/LU0093502762.md) | BlackRock Global Funds - Euro-Markets Fund A2 | Activa | EUR | Europe Equity Large Cap | 1,82 | 11,58 | 4 | 3 |
 | [LU0235308482](../rv-europa/LU0235308482.md) | Alken European Opportunities R | Activa | EUR | Europe Equity Large Cap | 1,85 | 23,84 | 4 | 5 |
 | [LU0256839191](../rv-europa/LU0256839191.md) | EUROPE EQ GROWTH A DIS EUR | Activa | EUR | Europe Equity Large Cap | 1,85 | 0,88 | 5 | 1 |
 | [ES0165241037](../rv-europa/ES0165241037.md) | MUTUAFONDO VAL SMLMD CPS A FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,85 | 13,74 | 4 | 4 |
@@ -1415,12 +1414,12 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0997586861 | Fidelity Funds - Nordic Fund A-Acc-USD (hedged) | Activa | USD | Europe Equity Mid/Small Cap | 1,90 | 21,29 | 4 | — |
 | LU0675297237 | G FUND AVENIR EUROPE NC ACC EUR | Activa | EUR | Europe Equity Mid/Small Cap | 1,90 | 2,13 | 5 | 1 |
 | ES0112616000 | Azvalor Iberia FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,91 | 16,95 | 4 | 2 |
-| LU1313771856 | Candriam Sustainable Equity Europe C Acc EUR | Activa | EUR | Europe Equity Large Cap | 1,91 | 7,02 | 4 | 2 |
+| [LU1313771856](../rv-europa/LU1313771856.md) | Candriam Sustainable Equity Europe C Acc EUR | Activa | EUR | Europe Equity Large Cap | 1,91 | 7,02 | 4 | 2 |
 | IE00B87MS887 | LIONTRUST SPECIAL SITUATIONS A1 AC EUR | Activa | EUR | UK Equity Large Cap | 1,92 | 5,07 | 4 | 2 |
 | LU0125951151 | MFS EUROPEAN VALUE A1 ACC EUR | Activa | EUR | Europe Equity Large Cap | 1,92 | 9,89 | 4 | 3 |
 | LU0219440764 | MFS EUROPEAN VALUE FUND A1 ACC USD | Activa | USD | Europe Equity Large Cap | 1,92 | 9,87 | 4 | 3 |
 | FR0000974149 | Oddo BHF Avenir Europe CR-EUR | Activa | EUR | Europe Equity Mid/Small Cap | 1,92 | 7,73 | 4 | 3 |
-| LU1330191542 | Magallanes Value Investors UCITS European Equity R EUR | Activa | EUR | Europe Equity Large Cap | 1,95 | 13,75 | 4 | 4 |
+| [LU1330191542](../rv-europa/LU1330191542.md) | Magallanes Value Investors UCITS European Equity R EUR | Activa | EUR | Europe Equity Large Cap | 1,95 | 13,75 | 4 | 4 |
 | LU0321371998 | Schroder ISF European Dividend Maximiser A Distribution EUR QF | Activa | EUR | Europe Equity Large Cap | 1,95 | 12,98 | 4 | 2 |
 | LU1183791794 | Sycomore Fund SICAV - Eco Solutions R EUR | Activa | EUR | Europe Equity Large Cap | 1,95 | 6,75 | 4 | 2 |
 | LU1301026388 | Sycomore Fund SICAV - Happy @ Work R | Activa | EUR | Europe Equity Mid/Small Cap | 1,95 | 12,47 | 4 | 3 |
@@ -1435,7 +1434,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | ES0170141008 | Santalucía Quality Acciones Europeas B FI | Activa | EUR | Europe Equity Large Cap | 2,07 | 4,24 | 4 | 2 |
 | LU0131510165 | Indépendance et Expansion SICAV - France Small A (C) | Activa | EUR | Europe Equity Mid/Small Cap | 2,08 | 11,17 | 4 | 5 |
 | ES0108642010 | Santalucía Iberico Acciones B FI | Activa | EUR | Europe Equity Mid/Small Cap | 2,08 | 16,64 | 4 | 2 |
-| LU0476876080 | Aberdeen Standard SICAV I - European Sustainable Equity Fund S Acc EUR | Activa | EUR | Europe Equity Large Cap | 2,09 | 3,09 | 4 | 3 |
+| [LU0476876080](../rv-europa/LU0476876080.md) | Aberdeen Standard SICAV I - European Sustainable Equity Fund S Acc EUR | Activa | EUR | Europe Equity Large Cap | 2,09 | 3,09 | 4 | 3 |
 | [LU1477743899](../rv-europa/LU1477743899.md) | Bellevue Funds (Lux) – Bellevue Entrepreneur Swiss Small & Mid B EUR | Activa | EUR | Europe Equity Mid/Small Cap | 2,10 | 10,21 | 4 | 2 |
 | [LU1033775955](../rv-europa/LU1033775955.md) | EUROPEAN EQUITIES A EUR | Activa | EUR | Europe Equity Large Cap | 2,10 | 18,92 | 4 | 4 |
 | [LU1111642820](../rv-europa/LU1111642820.md) | Eleva European Selection A2 EUR acc | Activa | EUR | Europe Equity Large Cap | 2,10 | 14,15 | 4 | 4 |
@@ -1492,7 +1491,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 
 ## rv-españa
 
-### Renta variable España (5)
+### Renta variable España (6)
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1500,6 +1499,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0110182039](../rv-españa/ES0110182039.md) | BBVA BOLSA ÍNDICE FI | Indexada | EUR | Europe Equity Large Cap | 1,49 | 29,40 | 4 | 4 |
 | [ES0122708037](../rv-españa/ES0122708037.md) | CI IBERIAN EQUITY FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,49 | 20,10 | 4 | 3 |
 | [ES0173394034](../rv-españa/ES0173394034.md) | RENTA 4 BOLSA FIM | Activa | EUR | Europe Equity Mid/Small Cap | 1,51 | 16,55 | 4 | 2 |
+| [ES0162735031](../rv-españa/ES0162735031.md) | Metavalor FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,84 | 17,94 | 4 | 2 |
 | [ES0175224031](../rv-españa/ES0175224031.md) | SANTANDER SMALL CAPS ESPAÑA FI | Activa | EUR | Europe Equity Mid/Small Cap | 2,12 | 26,74 | 4 | 3 |
 
 ## rv-japon
