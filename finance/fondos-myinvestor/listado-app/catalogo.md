@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1473
+**Fondos: 1980** · con ficha previa: 1476
 
 | Clase | Fondos |
 | --- | --- |
@@ -1371,7 +1371,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1670707527](../rv-europa/LU1670707527.md) | M&G (Lux) European Strategic Value Fund A EUR Acc | Activa | EUR | Europe Equity Large Cap | 1,65 | 22,43 | 4 | 5 |
 | [LU0201078713](../rv-europa/LU0201078713.md) | HG PAN EUROP SM COMP R ACC EUR | Activa | EUR | Europe Equity Mid/Small Cap | 1,67 | 12,23 | 4 | 4 |
 | [LU1366712435](../rv-europa/LU1366712435.md) | DNCA Invest Archer Mid-Cap Europe A EUR | Activa | EUR | Europe Equity Mid/Small Cap | 1,68 | 12,56 | 4 | 5 |
-| IE0031574647 | BRANDES EUROPEAN VALUE FUND A ACC EUR | Activa | EUR | Europe Equity Large Cap | 1,70 | 21,34 | 4 | 4 |
+| [IE0031574647](../rv-europa/IE0031574647.md) | BRANDES EUROPEAN VALUE FUND A ACC EUR | Activa | EUR | Europe Equity Large Cap | 1,70 | 21,34 | 4 | 4 |
 | LU0038279179 | GAM Multistock - Swiss Small & Mid Cap Equity CHF B | Activa | CHF | Europe Equity Mid/Small Cap | 1,70 | 7,38 | 4 | 2 |
 | [ES0113607008](../rv-europa/ES0113607008.md) | Santander Sostenible Acciones A FI | Activa | EUR | Europe Equity Large Cap | 1,70 | 9,43 | 4 | 2 |
 | LU0079556006 | JPMorgan Investment Funds - Europe Select Equity Fund A (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 1,71 | 12,32 | 4 | 3 |
@@ -1398,13 +1398,13 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0072462186](../rv-europa/LU0072462186.md) | BlackRock Global Funds - European Value Fund A2 | Activa | EUR | Europe Equity Large Cap | 1,81 | 16,28 | 4 | 3 |
 | [LU0011847091](../rv-europa/LU0011847091.md) | BlackRock Global Funds - United Kingdom Fund A2 | Activa | GBP | UK Equity Large Cap | 1,81 | 11,62 | 4 | 2 |
 | LU1475748437 | CT (Lux) - UK Equity Income Class AE (EUR Accumulation Shares) | Activa | EUR | UK Equity Large Cap | 1,81 | 13,36 | 4 | 3 |
-| LU0278527428 | NORDEA NORDIC EQ SMCAP BP EUR  | Activa | EUR | Europe Equity Mid/Small Cap | 1,81 | 14,49 | 4 | 4 |
+| [LU0278527428](../rv-europa/LU0278527428.md) | NORDEA NORDIC EQ SMCAP BP EUR  | Activa | EUR | Europe Equity Mid/Small Cap | 1,81 | 14,49 | 4 | 4 |
 | [LU0124675678](../rv-europa/LU0124675678.md) | AB EUROPEAN EQUITY PORTFOLIO A | Activa | EUR | Europe Equity Large Cap | 1,82 | 12,20 | 4 | 3 |
 | LU0093502762 | BlackRock Global Funds - Euro-Markets Fund A2 | Activa | EUR | Europe Equity Large Cap | 1,82 | 11,58 | 4 | 3 |
 | ES0162735031 | Metavalor FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,84 | 17,94 | 4 | 2 |
 | LU0235308482 | Alken European Opportunities R | Activa | EUR | Europe Equity Large Cap | 1,85 | 23,84 | 4 | 5 |
 | LU0256839191 | EUROPE EQ GROWTH A DIS EUR | Activa | EUR | Europe Equity Large Cap | 1,85 | 0,88 | 5 | 1 |
-| ES0165241037 | MUTUAFONDO VAL SMLMD CPS A FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,85 | 13,74 | 4 | 4 |
+| [ES0165241037](../rv-europa/ES0165241037.md) | MUTUAFONDO VAL SMLMD CPS A FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,85 | 13,74 | 4 | 4 |
 | LU0282719219 | PANEUROP SMALCAP OPP AE AC EUR | Activa | EUR | Europe Equity Mid/Small Cap | 1,85 | 6,90 | 5 | 3 |
 | ES0167974007 | Panza Valor FI | Activa | EUR | Europe Equity Large Cap | 1,85 | 8,26 | 4 | 2 |
 | LU0011889846 | HORIZON EUROLAND A2 ACC EUR  | Activa | EUR | Europe Equity Large Cap | 1,87 | 17,81 | 4 | 4 |
