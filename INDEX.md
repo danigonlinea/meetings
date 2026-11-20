@@ -5,6 +5,13 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/portfolio/cartera-ai-fondos-2000-lista/validacion.md` | reference | finance | 2026-11-20 | Validación del diseño cartera-ai-fondos-2000-lista | [validacion, myinvestor, fondos, no-repeticion, auditoria] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista/fondos-revisados.md` | reference | finance | 2026-11-20 | Revisión en profundidad de los 52 fondos de cartera-ai-fondos-2000-lista | [fondos, revision, myinvestor, comisiones, evidencia, due-diligence] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista/C5-crecimiento-satelites.md` | portfolio-proposal | finance | 2026-11-20 | C5 — Crecimiento con satélites | [crecimiento, satelites, tecnologia, salud, infraestructura, small-caps, emergentes] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista/C4-defensiva-alternativos.md` | portfolio-proposal | finance | 2026-11-20 | C4 — Defensiva con alternativos | [defensiva, alternativos, cat-bonds, market-neutral, managed-futures, baja-volatilidad] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista/C3-equilibrada-55-45.md` | portfolio-proposal | finance | 2026-11-20 | C3 — Equilibrada 55/45 | [equilibrada, 55-45, mixto-indexado-activo, credito, monetario] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista/C2-conviccion-activa.md` | portfolio-proposal | finance | 2026-11-20 | C2 — Convicción activa | [gestion-activa, conviccion, value, calidad, global, japon, emergentes] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista/C1-indexado-coste-minimo.md` | portfolio-proposal | finance | 2026-11-20 | C1 — Índice de coste mínimo | [indice, coste-minimo, rv-global, regional, renta-fija-indexada] |
 | `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-19 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `finance/portfolio/cartera-vanguard/100k.md` | portfolio-proposal | finance | 2026-11-19 | Cartera solo Vanguard: nueve indexados, 74,95 % de RV y 178,50 €/año (100.000 €) | [cartera, propuesta, vanguard, indexado, gestora-unica, diversificacion, myinvestor, fondos, renta-fija, renta-variable, emergentes, small-caps, rentabilidad-esperada] |
 | `finance/portfolio/cartera-horos/100k.md` | portfolio-proposal | finance | 2026-11-19 | Cartera solo Horos: los 3 fondos de la casa, 70,5 % de RV y ≈6,0 % esperado (100.000 €) | [cartera, propuesta, horos, value, myinvestor, fondos, renta-fija, iberia, small-caps, rentabilidad-esperada, gestora-unica] |
@@ -149,6 +156,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 143
+**Total de artefactos indexados:** 150
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.

@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veinticinco carteras propias y una de referencia"
+title: "Cartera: veintiséis carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista]
 status: living
 ---
-# Cartera: veinticinco carteras propias y una de referencia
+# Cartera: veintiséis carteras propias y una de referencia
 
-Veinticinco patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintiséis patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -40,6 +40,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-cobas/` | **Una talla, 100.000 €**, con **solo fondos de Cobas** y ninguna otra condición: 30 % Cobas Renta, 40 % Cobas Large Cap y 30 % Cobas Selection. **50,52 % de RV declarada (≈74 % cauta)**, **1.278 €/año (1,28 %)** y **≈5,7 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, los tres bloques, la lectura declarada frente a la cauta del cajón «otros», métricas, 3 órdenes, descartes con número y señales) |
 | `cartera-horos/` | **Una talla, 100.000 €**, con **solo fondos de Horos**: 55 % Horos Value Internacional, 20 % Horos Value Iberia y 25 % Horos Patrimonio. **70,53 % de RV**, **1.626,50 €/año fijo (1,63 %)** + éxito, **≈6,0 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía ibérica al 28,8 % de la RV, 3 órdenes, descartes y señales) |
 | `cartera-ai-rock-desmontado/` | **Una talla, 100.000 €**, **Rock desmontado por traspaso** y su cupo gastado en índice limpio: núcleo MSCI World al 0,06 %, emergentes, small caps y REITs indexados, RF corta indexada, monetario de 14.500 € y **dos satélites activos** (Europa low-vol y cat bonds). 55,31 % de RV real, **236,10 €/año (0,236 %)**, −23,46 % de caída | Un fichero (`100k.md`): la cartera entera (ISIN, métricas contra las otras propuestas, 20 traspasos en dos fases y descartes con número) |
+| `cartera-ai-fondos-2000-lista/` | **Cinco carteras de 100.000 € con un criterio cada una** y la condición del titular de **ningún fondo repetido entre ellas**: C1 índice de coste mínimo (0,1322 %), C2 convicción activa (1,2486 %), C3 equilibrada 55/45 (0,5577 %), C4 defensiva con alternativos (0,7661 %) y C5 crecimiento con satélites (0,9528 %). 52 fondos distintos | `README.md` de mapa + un fichero por criterio (`C1-…` a `C5-…`) + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
 rebalancea y no compite con las anteriores del dueño. Se actualiza con la skill `cartera-andres` cuando se
@@ -207,6 +208,8 @@ la atrevida: son dos criterios sobre el mismo mandato y el titular elige.
 `cartera-ai-final-hy3/` es del 19/11/2026: **desde cero**, con las mismas cuatro condiciones del titular y **ninguna regla heredada, incluida la lista negra** (el mandato da libertad total de elección). Diez posiciones en ocho gestoras, **84,16 % de RV real**, **527,60 €/año (0,4796 %)**, caída **−34,14 %** y **≈6,21 % de esperanza central** (3,71 % real con el 2,5 % tendencia de Eurostat; rango 4,10-7,47 %). Tras la revisión del 19/11 salen Robeco y Hermes: −212,10 €/año, −0,04 pp de esperanza y value del 34,6 % al 25,9 % de la RV. Se distingue de la atrevida por una decisión verificada: **sin Fundsmith** (1,09 %, 3A +7,4 %, 5A +2,6 %) y 109 €/año menos, con más núcleo MSCI World y más emergentes. Su §4 publica un comparador indexado y deja escrito que la convicción activa añade **0,187 pp** de esperanza y cuesta **423,30 €/año**: es una apuesta de alfa con listón de 1,62 pp y juicio el 30/11/2029. El 7-8 % es su escenario favorable (7,47 %), no su mediana.
 
 
+`cartera-ai-fondos-2000-lista/` es un encargo del 20/11/2026 con **cinco criterios independientes** sobre el mismo universo de 2.007 fichas de `finance/fondos-myinvestor/`: índice de coste mínimo, convicción activa, equilibrada 55/45, defensiva con alternativos y crecimiento con satélites. La condición que pide el titular es que **ningún fondo se repita entre las cinco**, y se cumple con 52 ISIN distintos comprobados también por nombre normalizado y por clase hermana. **No aplica la lista negra de las otras carteras**: el mandato solo prohíbe repetir dentro de este conjunto. Las cinco están sin ejecutar y no se suman ni se comparan entre sí. La revisión fondo a fondo de los 52 está en su `fondos-revisados.md` y la comprobación en `validacion.md`.
+
 ## Reglas
 
 - **Un dato, un sitio.** En las carteras con dinero real los saldos viven en su `cartera-actual.md` y las
@@ -235,7 +238,9 @@ la atrevida: son dos criterios sobre el mismo mandato y el titular elige.
 - La revisión trimestral se escribe con la skill `revision-cartera` y se guarda como
   `revision-YYYY-QN.md` en esta carpeta.
 
-## Estado a 19/11/2026
+## Estado a 20/11/2026
+
+- **`cartera-ai-fondos-2000-lista` (20/11/2026, sin ejecutar):** cinco ficheros de criterio, **52 fondos sin repetir**, RV de 35,49 % a 82,95 % y coste de 132,20 € a 1.248,60 €/año. Sin lista negra heredada; 52/52 clases de acumulación; mínimos verificados y cuatro comprobaciones web puntuales. Pendientes: horizonte, colchón, aportaciones y fecha de ejecución.
 
 - **`cartera-ai-final-qwen4max` (19/11/2026, sin ejecutar):** `110k.md`. Desde cero, 110.000 € con 10.000 en
   Groupama: **10 fondos + monetario**, **84,15 % de RV real**, **598,50 €/año (0,544 %)**, caída de manual
