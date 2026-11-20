@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1091
+**Fondos: 1980** · con ficha previa: 1112
 
 | Clase | Fondos |
 | --- | --- |
@@ -863,7 +863,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0133627002](../mixtos/ES0133627002.md) | EVOLUTION BALANCED ACC EUR | Activa | EUR | Moderate Allocation | 2,95 | — | 3 | — |
 | [LU1697018817](../mixtos/LU1697018817.md) | BEST CARMIGNAC A ACC EUR | Activa | EUR | Flexible Allocation | 2,97 | 8,19 | 3 | 3 |
 | [ES0131462097](../mixtos/ES0131462097.md) | Esfera Seasonal Quant Multistrategy R FI | Activa | EUR | Flexible Allocation | 3,01 | — | 4 | — |
-| LU1913291552 | ACCI SYSTEMIC ALLOCATION A2 AC | Activa | USD | Flexible Allocation | 3,10 | 11,82 | 4 | 2 |
+| [LU1913291552](../mixtos/LU1913291552.md) | ACCI SYSTEMIC ALLOCATION A2 AC | Activa | USD | Flexible Allocation | 3,10 | 11,82 | 4 | 2 |
 | [LU1913291719](../mixtos/LU1913291719.md) | ACCI SYSTEMIC ALLOCATION B2 AC | Activa | EUR | Flexible Allocation | 3,10 | 10,01 | 4 | 2 |
 | [ES0168798082](../mixtos/ES0168798082.md) | GB III Sapphire Capital Fund | Activa | EUR | Flexible Allocation | 3,11 | -1,15 | 5 | 1 |
 | [LU1953238794](../mixtos/LU1953238794.md) | EVERCAPITAL INVESTMN I ACC EUR | Activa | EUR | Flexible Allocation | 3,16 | 6,50 | 3 | 4 |
@@ -911,14 +911,14 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0836512615](../rv-global/LU0836512615.md) | iShares World Equity Index Fund (LU) A2 US | Indexada | USD | Global Equity Large Cap | 0,52 | 17,26 | 5 | 4 |
 | [LU1159235289](../rv-global/LU1159235289.md) | State Street World Screened Index Equity Fund P EUR (Hedged) | Indexada | EUR | Global Equity Large Cap | 0,53 | 15,84 | 4 | — |
 | [ES0165185002](../rv-global/ES0165185002.md) | MyInvestor Dividendos, 100% JPMorgan AM Acumulación | Activa | EUR | Global Equity Large Cap | 0,54 | — | 4 | — |
-| ES0165185010 | MyInvestor Dividendos, 100% JPMorgan AM Distribución | Activa | EUR | Global Equity Large Cap | 0,54 | — | 4 | — |
+| [ES0165185010](../rv-global/ES0165185010.md) | MyInvestor Dividendos, 100% JPMorgan AM Distribución | Activa | EUR | Global Equity Large Cap | 0,54 | — | 4 | — |
 | [LU1159235875](../rv-global/LU1159235875.md) | State Street World Universal Index Equity Fund P EUR | Indexada | EUR | Global Equity Large Cap | 0,60 | — | 5 | — |
-| ES0148019005 | Indexa RV internacional FI | Activa | EUR | Global Equity Large Cap | 0,62 | — | 4 | — |
+| [ES0148019005](../rv-global/ES0148019005.md) | Indexa RV internacional FI | Activa | EUR | Global Equity Large Cap | 0,62 | — | 4 | — |
 | [IE00B55JMJ98](../rv-global/IE00B55JMJ98.md) | DODGE-COX WW GLB STOCK ACC EUR | Activa | EUR | Global Equity Large Cap | 0,63 | 15,10 | 4 | 3 |
 | [LU2749782103](../rv-global/LU2749782103.md) | Pictet - Quest AI-Driven Global Equities - P EUR | Activa | EUR | Global Equity Large Cap | 0,63 | — | 4 | — |
 | [ES0131462170](../rv-global/ES0131462170.md) | Gestión Boutique V - Comet Value Fund | Activa | EUR | Global Equity Mid/Small Cap | 0,70 | — | 3 | — |
-| LU3229104016 | Schroder ISF QEP Global Core A Accumulation EUR | Activa | EUR | Global Equity Large Cap | 0,73 | — | 4 | — |
-| ES0107696033 | ALCALA AHORRO FI | Activa | EUR | Global Equity Large Cap | 0,74 | 8,44 | 4 | 2 |
+| [LU3229104016](../rv-global/LU3229104016.md) | Schroder ISF QEP Global Core A Accumulation EUR | Activa | EUR | Global Equity Large Cap | 0,73 | — | 4 | — |
+| [ES0107696033](../rv-global/ES0107696033.md) | ALCALA AHORRO FI | Activa | EUR | Global Equity Large Cap | 0,74 | 8,44 | 4 | 2 |
 | LU3038482231 | Hamco SICAV - Global Value I EUR Acc | Activa | EUR | Global Equity Mid/Small Cap | 0,86 | 11,29 | 3 | 4 |
 | IE00BF0GL329 | Polar Capital Funds PLC - Artificial Intelligence Fund I Acc | Activa | USD | Global Equity Large Cap | 0,87 | 27,33 | 5 | 5 |
 | LU2596603436 | Goldman Sachs Global Future Economic Security Equity Portfolio R USD Inc | Activa | USD | Global Equity Large Cap | 0,88 | 21,43 | 4 | 5 |
@@ -927,16 +927,16 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0107696108](../rv-global/ES0107696108.md) | Alcalá Multigestión Smart Bolsa Mundial B FI | Activa | EUR | Global Equity Large Cap | 0,93 | 13,03 | 3 | 1 |
 | [ES0112101003](../rv-global/ES0112101003.md) | AVANTAGE PURE EQUITY FI CLA A | Activa | EUR | Global Equity Mid/Small Cap | 0,94 | 14,66 | 4 | 4 |
 | [ES0167238015](../rv-global/ES0167238015.md) | Estela Global Equities I FI | Activa | EUR | Global Equity Mid/Small Cap | 1,01 | 16,21 | 4 | 3 |
-| LU0705780269 | Robeco QI Global Conservative Equities B € | Activa | EUR | Global Equity Large Cap | 1,01 | 14,26 | 3 | 3 |
-| LU0705782398 | Robeco QI Global Conservative Equities D EUR | Activa | EUR | Global Equity Large Cap | 1,01 | 14,26 | 3 | 3 |
-| LU1935059029 | Palm Harbour Global Value F EUR Acc | Activa | EUR | Global Equity Mid/Small Cap | 1,02 | 14,54 | 4 | 4 |
+| [LU0705780269](../rv-global/LU0705780269.md) | Robeco QI Global Conservative Equities B € | Activa | EUR | Global Equity Large Cap | 1,01 | 14,26 | 3 | 3 |
+| [LU0705782398](../rv-global/LU0705782398.md) | Robeco QI Global Conservative Equities D EUR | Activa | EUR | Global Equity Large Cap | 1,01 | 14,26 | 3 | 3 |
+| [LU1935059029](../rv-global/LU1935059029.md) | Palm Harbour Global Value F EUR Acc | Activa | EUR | Global Equity Mid/Small Cap | 1,02 | 14,54 | 4 | 4 |
 | LU1988110760 | B&H Equity LU Class 1 | Activa | EUR | Global Equity Large Cap | 1,03 | 8,90 | 4 | 2 |
 | ES0112617016 | B&H Acciones FI | Activa | EUR | Global Equity Large Cap | 1,04 | 8,56 | 4 | 2 |
 | [ES0137768000](../rv-global/ES0137768000.md) | Baelo Dividendo Creciente A FI | Activa | EUR | Global Equity Large Cap | 1,04 | 12,71 | 3 | 2 |
 | [ES0137768018](../rv-global/ES0137768018.md) | Baelo Dividendo Creciente D FI | Activa | EUR | Global Equity Large Cap | 1,04 | 9,35 | 3 | 2 |
 | [ES0107696090](../rv-global/ES0107696090.md) | Alcalá Multigestión Smart Bolsa Mundial A FI | Activa | EUR | Global Equity Large Cap | 1,08 | 12,86 | 3 | 1 |
-| LU0690375422 | FUNDSMITH EQUITY FEEDER T EUR DIS | Activa | EUR | Global Equity Large Cap | 1,08 | 7,00 | 4 | 3 |
-| LU0690375182 | Fundsmith Equity Fund T EUR Acc | Activa | EUR | Global Equity Large Cap | 1,08 | 7,00 | 4 | 3 |
+| [LU0690375422](../rv-global/LU0690375422.md) | FUNDSMITH EQUITY FEEDER T EUR DIS | Activa | EUR | Global Equity Large Cap | 1,08 | 7,00 | 4 | 3 |
+| [LU0690375182](../rv-global/LU0690375182.md) | Fundsmith Equity Fund T EUR Acc | Activa | EUR | Global Equity Large Cap | 1,08 | 7,00 | 4 | 3 |
 | ES0178573020 | TESYS INTERNACIONAL I EUR ACC | Activa | EUR | Global Equity Large Cap | 1,09 | — | 4 | — |
 | [ES0174115024](../rv-global/ES0174115024.md) | Cinvest Long Run FI | Activa | EUR | Global Equity Large Cap | 1,11 | 11,69 | 3 | 2 |
 | ES0110407105 | Gestión Boutique VI Gestivalue Cap A FI | Activa | EUR | Global Equity Large Cap | 1,11 | 16,32 | 4 | 3 |
@@ -945,23 +945,23 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0845340131](../rv-global/LU0845340131.md) | Pictet-Quest Global Sustainable Equities-P EUR | Activa | EUR | Global Equity Large Cap | 1,17 | 15,30 | 4 | 4 |
 | [ES0114289004](../rv-global/ES0114289004.md) | Beka Optima Global FI | Activa | EUR | Global Equity Large Cap | 1,18 | 14,65 | 3 | 3 |
 | [ES0131444145](../rv-global/ES0131444145.md) | Gestion Boutique Vii Top Quality Opportunities FI | Activa | EUR | Global Equity Large Cap | 1,20 | — | 4 | — |
-| ES0118873019 | CLARIZON CAPITAL, FI-F-EUR | Activa | EUR | Global Equity Large Cap | 1,21 | — | 4 | — |
-| ES0182719007 | VALENTUM MAGNO FI | Activa | EUR | Global Equity Large Cap | 1,21 | 18,40 | 4 | 3 |
-| ES0174115107 | Cinvest Bauma Capital Value FI | Activa | EUR | Global Equity Large Cap | 1,24 | — | 3 | — |
-| ES0124101009 | Core Value Global FI | Activa | EUR | Global Equity Large Cap | 1,26 | — | 3 | — |
-| ES0158707002 | Luceiro Capital Value Fund FI | Activa | EUR | Global Equity Large Cap | 1,26 | — | 4 | — |
+| [ES0118873019](../rv-global/ES0118873019.md) | CLARIZON CAPITAL, FI-F-EUR | Activa | EUR | Global Equity Large Cap | 1,21 | — | 4 | — |
+| [ES0182719007](../rv-global/ES0182719007.md) | VALENTUM MAGNO FI | Activa | EUR | Global Equity Large Cap | 1,21 | 18,40 | 4 | 3 |
+| [ES0174115107](../rv-global/ES0174115107.md) | Cinvest Bauma Capital Value FI | Activa | EUR | Global Equity Large Cap | 1,24 | — | 3 | — |
+| [ES0124101009](../rv-global/ES0124101009.md) | Core Value Global FI | Activa | EUR | Global Equity Large Cap | 1,26 | — | 3 | — |
+| [ES0158707002](../rv-global/ES0158707002.md) | Luceiro Capital Value Fund FI | Activa | EUR | Global Equity Large Cap | 1,26 | — | 4 | — |
 | [IE00BDGV0290](../rv-global/IE00BDGV0290.md) | Guinness Global Equity Income D EUR Accumulation | Activa | EUR | Global Equity Large Cap | 1,27 | 13,49 | 3 | 3 |
 | [IE00B66B5L40](../rv-global/IE00B66B5L40.md) | Guinness Global Equity Income D EUR Distribution | Activa | EUR | Global Equity Large Cap | 1,27 | 13,49 | 3 | 3 |
 | [ES0110407162](../rv-global/ES0110407162.md) | Gestion Boutique VI Opportunity B FI | Activa | EUR | Global Equity Large Cap | 1,29 | — | 4 | — |
-| LU2724449785 | INC FD NARTEX EQUIT IU ACC USD | Activa | USD | Global Equity Large Cap | 1,30 | — | 4 | — |
-| LU2357235493 | INCOMETRIC FUND - Nartex Equity Fund A, EUR | Activa | EUR | Global Equity Large Cap | 1,30 | 9,41 | 4 | 2 |
-| ES0178487007 | Temperantia A FI | Activa | EUR | Global Equity Large Cap | 1,31 | 11,65 | 4 | 2 |
+| [LU2724449785](../rv-global/LU2724449785.md) | INC FD NARTEX EQUIT IU ACC USD | Activa | USD | Global Equity Large Cap | 1,30 | — | 4 | — |
+| [LU2357235493](../rv-global/LU2357235493.md) | INCOMETRIC FUND - Nartex Equity Fund A, EUR | Activa | EUR | Global Equity Large Cap | 1,30 | 9,41 | 4 | 2 |
+| [ES0178487007](../rv-global/ES0178487007.md) | Temperantia A FI | Activa | EUR | Global Equity Large Cap | 1,31 | 11,65 | 4 | 2 |
 | ES0180783013 | True Value Compounders B FI | Activa | EUR | Global Equity Mid/Small Cap | 1,32 | 9,30 | 4 | 2 |
 | ES0110592005 | ETS Goodway Renta Variable Global A FI | Activa | EUR | Global Equity Large Cap | 1,33 | — | 4 | — |
-| IE00BH481053 | GQG Partners Global Equity Fund Class A Euro Acc | Activa | EUR | Global Equity Large Cap | 1,34 | 2,69 | 4 | 2 |
-| IE00BH480Z36 | GQG Partners Global Equity Fund Class A US Dollar Accumulating | Activa | USD | Global Equity Large Cap | 1,34 | 2,63 | 4 | 2 |
+| [IE00BH481053](../rv-global/IE00BH481053.md) | GQG Partners Global Equity Fund Class A Euro Acc | Activa | EUR | Global Equity Large Cap | 1,34 | 2,69 | 4 | 2 |
+| [IE00BH480Z36](../rv-global/IE00BH480Z36.md) | GQG Partners Global Equity Fund Class A US Dollar Accumulating | Activa | USD | Global Equity Large Cap | 1,34 | 2,63 | 4 | 2 |
 | ES0178573004 | Tesys Internacional FI | Activa | EUR | Global Equity Large Cap | 1,34 | 17,06 | 4 | 3 |
-| LU1322973477 | Allianz Global Investors Fund - Allianz Best Styles Global Equity AT (H-EUR) | Activa | EUR | Global Equity Large Cap | 1,36 | 15,88 | 4 | — |
+| [LU1322973477](../rv-global/LU1322973477.md) | Allianz Global Investors Fund - Allianz Best Styles Global Equity AT (H-EUR) | Activa | EUR | Global Equity Large Cap | 1,36 | 15,88 | 4 | — |
 | IE00BF0GL212 | Polar Capital Automation & Artificial Intelligence R Acc | Activa | EUR | Global Equity Large Cap | 1,37 | 26,16 | 5 | 5 |
 | LU1599216113 | Goldman Sachs Global Small CORE Equity - Class Other Currency Acc EUR | Activa | EUR | Global Equity Mid/Small Cap | 1,39 | 18,30 | 4 | 4 |
 | LU1598720172 | Cobas Large Cap Fund-P Acc EUR | Activa | EUR | Global Equity Mid/Small Cap | 1,41 | 28,15 | 4 | 5 |

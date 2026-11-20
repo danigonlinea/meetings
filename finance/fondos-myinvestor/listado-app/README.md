@@ -35,6 +35,16 @@ la **divisa**, no los dividendos.
 Pendientes por fondo (nº de fondos afectados): rating 426 · 5A 269 · 3A 152 · 1A 36 ·
 YTD 32 · NAV 8 · SRRI 2 · TER 1 · clase 31.
 
+## Calidad del snapshot
+
+La app lista también productos **muertos o moribundos**: fondos liquidados o disueltos
+(con hecho relevante en CNMV), ISIN cancelados, NAV congelados con un solo partícipe o
+patrimonios residuales tras reembolsos masivos. Se concentran sobre todo en la cola de
+TER alto de cada clase (p. ej. varios «mixtos» de TER > 2,5 %). Sus rentabilidades del
+listado son residuales de liquidación, no operativas. Las fichas web los marcan como
+**no invertibles** con la evidencia CNMV; algunos nombres del snapshot están además
+obsoletos (fondos renombrados o absorbidos por otro compartimento).
+
 ## Clasificación
 
 Misma regla que la base MCP: tipo de activo declarado; dentro de la bolsa,
