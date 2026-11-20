@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1543
+**Fondos: 1980** · con ficha previa: 1545
 
 | Clase | Fondos |
 | --- | --- |
@@ -23,8 +23,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [Mixtos](#mixtos) | 312 |
 | [Renta variable global](#rv-global) | 296 |
 | [Renta variable EE. UU.](#rv-usa) | 109 |
-| [Renta variable Europa](#rv-europa) | 182 |
-| [Renta variable España](#rv-españa) | 9 |
+| [Renta variable Europa](#rv-europa) | 181 |
+| [Renta variable España](#rv-españa) | 10 |
 | [Renta variable Japón](#rv-japon) | 28 |
 | [Renta variable emergentes](#rv-emergentes) | 140 |
 | [Renta variable otras regiones](#rv-otros) | 48 |
@@ -1299,7 +1299,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 
 ## rv-europa
 
-### Renta variable Europa (182)
+### Renta variable Europa (181)
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1413,7 +1413,6 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1817472001](../rv-europa/LU1817472001.md) | Schroder ISF European Equity Impact A Distribution EUR | Activa | EUR | Europe Equity Large Cap | 1,89 | 4,02 | 4 | 1 |
 | [LU0997586861](../rv-europa/LU0997586861.md) | Fidelity Funds - Nordic Fund A-Acc-USD (hedged) | Activa | USD | Europe Equity Mid/Small Cap | 1,90 | 21,29 | 4 | — |
 | [LU0675297237](../rv-europa/LU0675297237.md) | G FUND AVENIR EUROPE NC ACC EUR | Activa | EUR | Europe Equity Mid/Small Cap | 1,90 | 2,13 | 5 | 1 |
-| ES0112616000 | Azvalor Iberia FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,91 | 16,95 | 4 | 2 |
 | [LU1313771856](../rv-europa/LU1313771856.md) | Candriam Sustainable Equity Europe C Acc EUR | Activa | EUR | Europe Equity Large Cap | 1,91 | 7,02 | 4 | 2 |
 | [IE00B87MS887](../rv-europa/IE00B87MS887.md) | LIONTRUST SPECIAL SITUATIONS A1 AC EUR | Activa | EUR | UK Equity Large Cap | 1,92 | 5,07 | 4 | 2 |
 | [LU0125951151](../rv-europa/LU0125951151.md) | MFS EUROPEAN VALUE A1 ACC EUR | Activa | EUR | Europe Equity Large Cap | 1,92 | 9,89 | 4 | 3 |
@@ -1454,7 +1453,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0154235443](../rv-europa/LU0154235443.md) | BGF EUROP SPECIAL SIT E2 EUR | Activa | EUR | Europe Equity Large Cap | 2,32 | 2,97 | 4 | 1 |
 | [LU1904671556](../rv-europa/LU1904671556.md) | NAO SUSTAINABLE EUROPE R AC EU | Activa | EUR | Europe Equity Large Cap | 2,33 | 10,53 | 4 | 3 |
 | [FR0011558246](../rv-europa/FR0011558246.md) | Echiquier Entrepreneurs A A | Activa | EUR | Europe Equity Mid/Small Cap | 2,34 | 8,77 | 4 | 3 |
-| FR0010321810 | Echiquier Agenor SRI Mid Cap Europe A Agenor SRI Mid Cap Europe A | Activa | EUR | Europe Equity Mid/Small Cap | 2,35 | 7,07 | 4 | 3 |
+| [FR0010321810](../rv-europa/FR0010321810.md) | Echiquier Agenor SRI Mid Cap Europe A Agenor SRI Mid Cap Europe A | Activa | EUR | Europe Equity Mid/Small Cap | 2,35 | 7,07 | 4 | 3 |
 | ES0155142005 | Intermoney Variable Euro A FI | Activa | EUR | Europe Equity Large Cap | 2,40 | 13,74 | 4 | 4 |
 | LU0870261327 | MFS European Value N1 Acc Eur | Activa | EUR | Europe Equity Large Cap | 2,42 | 9,35 | 4 | 3 |
 | LU0986194024 | SIGMA INVESTMENT HOUSE EQ EUROPE A AC EU | Activa | EUR | Europe Equity Large Cap | 2,44 | — | 3 | — |
@@ -1488,7 +1487,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 
 ## rv-españa
 
-### Renta variable España (9)
+### Renta variable España (10)
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1497,6 +1496,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0122708037](../rv-españa/ES0122708037.md) | CI IBERIAN EQUITY FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,49 | 20,10 | 4 | 3 |
 | [ES0173394034](../rv-españa/ES0173394034.md) | RENTA 4 BOLSA FIM | Activa | EUR | Europe Equity Mid/Small Cap | 1,51 | 16,55 | 4 | 2 |
 | [ES0162735031](../rv-españa/ES0162735031.md) | Metavalor FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,84 | 17,94 | 4 | 2 |
+| [ES0112616000](../rv-españa/ES0112616000.md) | Azvalor Iberia FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,91 | 16,95 | 4 | 2 |
 | [ES0108642010](../rv-españa/ES0108642010.md) | Santalucía Iberico Acciones B FI | Activa | EUR | Europe Equity Mid/Small Cap | 2,08 | 16,64 | 4 | 2 |
 | [ES0175224031](../rv-españa/ES0175224031.md) | SANTANDER SMALL CAPS ESPAÑA FI | Activa | EUR | Europe Equity Mid/Small Cap | 2,12 | 26,74 | 4 | 3 |
 | [LU1330191898](../rv-españa/LU1330191898.md) | Magallanes V.I. UCITS Iberian Equity R | Activa | EUR | Europe Equity Mid/Small Cap | 2,22 | 24,11 | 4 | 3 |
