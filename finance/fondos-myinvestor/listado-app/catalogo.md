@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1732
+**Fondos: 1980** · con ficha previa: 1738
 
 | Clase | Fondos |
 | --- | --- |
@@ -1707,7 +1707,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0591059224](../rv-otros/LU0591059224.md) | Robeco Asian Stars Equities D € | Activa | EUR | Asia ex-Japan Equity | 1,50 | 15,02 | 4 | 4 |
 | [IE000ON4Z2S8](../rv-otros/IE000ON4Z2S8.md) | Goehring & Rozencwajg Resources Fund Class A EUR Accumulating | Activa | EUR | Natural Resources Sector Equity | 1,55 | — | 6 | — |
 | [IE00B88WFS66](../rv-otros/IE00B88WFS66.md) | Federated Hermes Asia ex-Japan Equity Fund Class R Acc | Activa | EUR | Asia ex-Japan Equity | 1,58 | 18,31 | 4 | 5 |
-| IE00BBL4VW61 | Federated Hermes Asia ex-Japan Equity Fund Class R Acc | Activa | USD | Asia ex-Japan Equity | 1,58 | 18,39 | 4 | 5 |
+| [IE00BBL4VW61](../rv-otros/IE00BBL4VW61.md) | Federated Hermes Asia ex-Japan Equity Fund Class R Acc | Activa | USD | Asia ex-Japan Equity | 1,58 | 18,39 | 4 | 5 |
 | [IE00B0WFLG51](../rv-otros/IE00B0WFLG51.md) | VERITAS ASIAN FUND B ACC EUR | Activa | EUR | Asia ex-Japan Equity | 1,59 | 16,00 | 4 | 2 |
 | [IE00BLCHG522](../rv-otros/IE00BLCHG522.md) | VERITAS ASIAN FUND B ACC USD  | Activa | USD | Asia ex-Japan Equity | 1,59 | 16,07 | 4 | 1 |
 | [ES0168797092](../rv-otros/ES0168797092.md) | Gestión Boutique II JPB Growth FI | Activa | EUR | Equity Miscellaneous | 1,66 | 18,47 | 5 | — |
@@ -1716,7 +1716,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0217390573](../rv-otros/LU0217390573.md) | JPMorgan Funds - Pacific Equity Fund A (acc) - EUR | Activa | EUR | Asia Equity | 1,73 | 13,60 | 4 | 3 |
 | [LU0593848723](../rv-otros/LU0593848723.md) | Mirae Asset Asia Great Consumer EQ A EUR | Activa | EUR | Asia ex-Japan Equity | 1,75 | 1,87 | 5 | 1 |
 | [LU0169518387](../rv-otros/LU0169518387.md) | JPMorgan Funds - Asia Growth Fund A (acc) - USD | Activa | USD | Asia ex-Japan Equity | 1,79 | 14,81 | 5 | 3 |
-| LU0173782102 | NORDEA ASIAN FOCUS EQ BP EUR | Activa | EUR | Asia ex-Japan Equity | 1,84 | 18,16 | 4 | 4 |
+| [LU0173782102](../rv-otros/LU0173782102.md) | NORDEA ASIAN FOCUS EQ BP EUR | Activa | EUR | Asia ex-Japan Equity | 1,84 | 18,16 | 4 | 4 |
 | [LU0248184466](../rv-otros/LU0248184466.md) | Schroder ISF Asian Opportunities A Accumulation EUR | Activa | EUR | Asia ex-Japan Equity | 1,84 | 16,19 | 4 | 3 |
 | [LU0348784041](../rv-otros/LU0348784041.md) | ALLIANZ ORIENTAL INCOME AT ACC EUR | Activa | EUR | Asia Equity | 1,86 | 12,91 | 5 | 4 |
 | [LU1378878430](../rv-otros/LU1378878430.md) | Morgan Stanley Asia Opportunity A ACC USD | Activa | USD | Asia ex-Japan Equity | 1,88 | 7,35 | 5 | 2 |
@@ -1736,7 +1736,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0441853263](../rv-otros/LU0441853263.md) | JPMorgan Funds - ASEAN Equity Fund D (acc) EUR | Activa | EUR | Asia ex-Japan Equity | 2,55 | 6,64 | 4 | 3 |
 | [LU0441851994](../rv-otros/LU0441851994.md) | JPMorgan Funds - ASEAN Equity Fund D (acc) USD | Activa | USD | Asia ex-Japan Equity | 2,55 | 6,73 | 4 | 3 |
 | [LU0217390656](../rv-otros/LU0217390656.md) | JPMorgan Funds - Pacific Equity Fund D (acc) EUR | Activa | EUR | Asia Equity | 2,55 | 12,69 | 4 | 3 |
-| LU0345362106 | Fidelity Asia Pacific Opportunities Fund E-Acc-EUR | Activa | EUR | Asia ex-Japan Equity | 2,70 | 3,27 | 4 | 2 |
+| [LU0345362106](../rv-otros/LU0345362106.md) | Fidelity Asia Pacific Opportunities Fund E-Acc-EUR | Activa | EUR | Asia ex-Japan Equity | 2,70 | 3,27 | 4 | 2 |
 | LU1116432292 | Fidelity Asian Smaller Coms E-Acc-EUR | Activa | EUR | Asia ex-Japan Equity | 2,70 | 5,93 | 4 | 3 |
 
 ## sectoriales
@@ -1764,7 +1764,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0174115016](../sectoriales/ES0174115016.md) | Cinvest Nogal Capital A FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,05 | 13,86 | 4 | 5 |
 | [ES0110407170](../sectoriales/ES0110407170.md) | Gestión Boutique VI Impassive Growth F FI | Activa | EUR | Technology Sector Equity | 1,13 | — | 5 | — |
 | [LU1793346823](../sectoriales/LU1793346823.md) | BlueBox Global Technology Fund Class I EUR Acc | Activa | EUR | Technology Sector Equity | 1,20 | 21,41 | 5 | 4 |
-| LU0252964944 | BlackRock Global Funds - Sustainable Energy Fund D2 (EUR) | Activa | EUR | Energy Sector Equity | 1,22 | 12,00 | 5 | 4 |
+| [LU0252964944](../sectoriales/LU0252964944.md) | BlackRock Global Funds - Sustainable Energy Fund D2 (EUR) | Activa | EUR | Energy Sector Equity | 1,22 | 12,00 | 5 | 4 |
 | [IE00B3CCJ740](../sectoriales/IE00B3CCJ740.md) | Guinness Sustainable Energy D EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,24 | 6,80 | 4 | 3 |
 | [ES0173130008](../sectoriales/ES0173130008.md) | Renta 4 Megatendencias Ariema Hidrogeno Y Energias Sostenibles FI | Activa | EUR | Equity Miscellaneous | 1,25 | 6,29 | 5 | — |
 | [IE00B3CCJB88](../sectoriales/IE00B3CCJB88.md) | Guinness Global Energy D EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,27 | 16,26 | 5 | 2 |
@@ -1781,12 +1781,12 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | DE0005152482 | DWS Smart Industrial Technologies LD | Activa | EUR | Industrials Sector Equity | 1,46 | 16,53 | 4 | 3 |
 | [ES0168799056](../sectoriales/ES0168799056.md) | GESTION BOUTIQUE IV ALCLAM US  | Activa | EUR | US Equity Large Cap Blend | 1,51 | 33,07 | 5 | 5 |
 | [ES0131369003](../sectoriales/ES0131369003.md) |  MUTUAFONDO SALUD, FI-A | Activa | EUR | Healthcare Sector Equity | 1,53 | — | 4 | — |
-| LU0512092221 | Morgan Stanley Investment Funds - Global Infrastructure Fund AH (EUR) | Activa | EUR | Infrastructure Sector Equity | 1,53 | 9,89 | 4 | — |
+| [LU0512092221](../sectoriales/LU0512092221.md) | Morgan Stanley Investment Funds - Global Infrastructure Fund AH (EUR) | Activa | EUR | Infrastructure Sector Equity | 1,53 | 9,89 | 4 | — |
 | LU0302296149 | DNB Fund Renewable Energy retail A | Activa | EUR | Energy Sector Equity | 1,55 | 5,85 | 5 | 3 |
 | LU0302296495 | DNB Technology A Acc Eur | Activa | EUR | Technology Sector Equity | 1,55 | 28,76 | 4 | 4 |
 | DE0009769851 | DWS Health Care Typ O NC | Activa | EUR | Healthcare Sector Equity | 1,57 | 3,77 | 4 | 2 |
 | [IE0033535075](../sectoriales/IE0033535075.md) | COMGEST GROWTH WORLD ACC USD | Activa | USD | Global Equity Large Cap | 1,58 | 6,66 | 4 | 3 |
-| IE00BZ4D7648 | POLAR CAPITAL GLOBAL TECHNOLOGY R EUR | Activa | EUR | Technology Sector Equity | 1,58 | 34,11 | 5 | — |
+| [IE00BZ4D7648](../sectoriales/IE00BZ4D7648.md) | POLAR CAPITAL GLOBAL TECHNOLOGY R EUR | Activa | EUR | Technology Sector Equity | 1,58 | 34,11 | 5 | — |
 | IE00B433M743 | POLAR CAPITAL GLOBAL TECHNOLOGY R USD | Activa | USD | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
 | IE00BM95B621 | Polar Capital Global Technology Fund R | Activa | EUR | Technology Sector Equity | 1,58 | 36,43 | 5 | 4 |
 | IE00B4468526 | Polar GLOBAL TECHNOLOGY R EUR | Activa | EUR | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
