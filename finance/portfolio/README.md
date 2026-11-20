@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veintiocho carteras propias y una de referencia"
+title: "Cartera: veintinueve carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek, cartera-ai-letter-keinesei-twitter]
 status: living
 ---
-# Cartera: veintiocho carteras propias y una de referencia
+# Cartera: veintinueve carteras propias y una de referencia
 
-Veintiocho patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintinueve patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -43,6 +43,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-fondos-2000-lista/` | **Dos carteras de 100.000 € con un criterio cada una**, tras retirar el 20/11 las tres que no aportaban frente a lo ya existente: C2 convicción activa (1,2486 %) y C4 defensiva con alternativos (0,7661 %). La condición del titular de **ningún fondo repetido entre ellas** se cumple con 21 fondos distintos | `README.md` de mapa + `C2-conviccion-activa.md` y `C4-defensiva-alternativos.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-fondos-2000-lista-glm/` | **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1098 %, convicción activa 1,1801 %, equilibrada 55/45 0,4250 %, defensiva con alternativos 0,7277 % y crecimiento con satélites 0,9423 %), de 34,91 % a 87,64 % de RV. La condición del titular de **ningún fondo repetido entre las cinco** se cumple con 50 fondos distintos, verificados en el MCP | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-fondos-2000-lista-deepseek/` | ⚠️ **C5 elegida, pendiente de la revisión del titular** (99,48 % de RV, 764,60 €/año, 618.617 € a 15 años; 15 años y 1.500 €/mes). **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1292 %, convicción activa 1,4344 %, equilibrada con crédito activo 0,4929 %, defensiva con alternativos 0,6076 % y crecimiento con satélites 0,7646 %), de 34,06 % a 99,48 % de RV, con **37 fondos sin repetir** entre ellas y **diez de los trece fondos que nombró el titular** dentro. Sin lista negra heredada | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
+| `cartera-ai-letter-keinesei-twitter/` | **Una talla, 100.000 €**, traducida de un artículo de The Kobeissi Letter que sostiene que la caída de la IA es una corrección y no una burbuja: 28 % núcleo de calidad, 22 % IA pura en la clase institucional al 0,86 %, 20 % automatización e infraestructura eléctrica, y **30 % de colchón en tres tramos** que se despliegan si el S&P 500 cae otro 10/20/30 %. 66,72 % de RV real, 1.024,20 €/año (1,0242 %) y caída −27,0 %; desplegada, 95,35 % de RV y 1.347,40 €/año | `README.md` de mapa + `100k.md` (la cartera entera: tesis comprable vs no comprable, ISIN, bloques, geografía, razón fondo a fondo, los tres tramos, descartes y disparadores) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
 rebalancea y no compite con las anteriores del dueño. Se actualiza con la skill `cartera-andres` cuando se
@@ -238,6 +239,18 @@ en 8 llamadas** y cambió seis decisiones: dos soft close (Vanguard US 500 Inves
 mínimos inalcanzables (Dodge & Cox 50.000 €, BlueBox I 150.000 €, Algebris Financial Equity I 500.000 €,
 M&G Japan Smaller 500.000 €).
 
+`cartera-ai-letter-keinesei-twitter/` no nace de un encargo de cartera sino de un **artículo ajeno**: la tesis
+de The Kobeissi Letter (20/11/2026) de que la caída del 22 % en tecnología es una corrección y no el
+estallido de una burbuja de IA. El documento separa lo que se puede comprar de lo que no —la compra de Nvidia
+por nombre no tiene vehículo, y el track record del autor no es un activo—, y traduce la tesis a seis fondos:
+28 % de núcleo de calidad con sesgo tecnológico, 22 % de IA pura en la **clase institucional al 0,86 %** (la
+mitad que la clase retail del mismo fondo), 20 % de automatización e infraestructura eléctrica, y **30 % de
+colchón en tres tramos** que se despliegan si el S&P 500 cae otro 10 %, 20 % o 30 %, o por calendario a los
+doce meses. **66,72 % de RV real, 1.024,20 €/año (1,0242 %), caída −27,0 % y cero comisiones de éxito**; con
+los tres tramos desplegados, 95,35 % de RV y 1.347,40 €/año. Lleva escrito su propio disparador de refutación:
+si al cierre de Q2 2027 la IA no ha recuperado, el bloque temático se recorta a la mitad. El precio de la
+escalera está declarado: 1.050 €/año de coste de oportunidad mientras el colchón espera.
+
 ## Reglas
 
 - **Un dato, un sitio.** En las carteras con dinero real los saldos viven en su `cartera-actual.md` y las
@@ -272,6 +285,7 @@ M&G Japan Smaller 500.000 €).
 
 - **`cartera-ai-fondos-2000-lista-glm` (20/11/2026, sin ejecutar):** las cinco carteras completas del mismo encargo, **50 fondos sin repetir entre ellas** (50 líneas, 50 ISIN, comprobados por código), RV de 34,91 % (C4) a 87,64 % (C5), coste de 109,80 € a 1.180,10 €/año. Sin lista negra heredada; 50/50 clases de acumulación; 60 ISIN verificados en el MCP con cuatro correcciones de diseño (TER real, fondo cerrado, soft close y dos mínimos). Solape con la cartera hermana: 1 de 50. Pendientes: horizonte, colchón, aportaciones y fecha de ejecución.
 - **`cartera-ai-fondos-2000-lista-deepseek` (20/11/2026, sin ejecutar):** cinco carteras de 100.000 € con un criterio cada una, **37 fondos sin repetir entre ellas** (37 líneas, 37 ISIN, comprobados por código por ISIN, nombre normalizado y clase hermana), RV de 34,06 % (C4) a 99,48 % (C5), coste de 129,20 € a 1.434,40 €/año. Diez de los trece fondos que nombró el titular entran. Sin lista negra heredada; 37/37 clases de acumulación; 54 ISIN verificados en el MCP con seis correcciones de diseño (dos soft close y cuatro mínimos inalcanzables). Solape con las hermanas: 6 de 37, con el precio de la alternativa escrito. Parámetros fijados el 20/11: horizonte 15 años, 1.500 €/mes y comisiones de éxito admitidas; **C5 es la ganadora y queda marcada ⚠️ pendiente de la revisión del titular, sin órdenes** (99,48 % de RV, 764,60 €/año, 618.617 € a 15 años en el escenario base, con plan de aportaciones en su §8). Pendiente: colchón y tolerancia a la caída.
+- **`cartera-ai-letter-keinesei-twitter` (20/11/2026, sin ejecutar):** una cartera de 100.000 € traducida de un artículo de The Kobeissi Letter que sostiene que la caída de la IA es una corrección. Seis fondos: núcleo de calidad 28 %, IA pura 22 % en la clase institucional al 0,86 %, automatización e infraestructura 20 % y **30 % de colchón en tres tramos** condicionados a caídas del 10/20/30 % (o a los doce meses). **66,72 % de RV real**, 1.024,20 €/año (1,0242 %), caída −27,0 %, sin comisiones de éxito; desplegada, 95,35 % de RV y 1.347,40 €/año. Sin ETF ni acciones: la compra de Nvidia que la tesis sugiere no se ejecuta y se explica. Pendientes: si los 100.000 € son invertibles, tolerancia al −38 % desplegado y aportaciones.
 
 - **`cartera-ai-final-qwen4max` (19/11/2026, sin ejecutar):** `110k.md`. Desde cero, 110.000 € con 10.000 en
   Groupama: **10 fondos + monetario**, **84,15 % de RV real**, **598,50 €/año (0,544 %)**, caída de manual
