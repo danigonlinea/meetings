@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1324
+**Fondos: 1980** · con ficha previa: 1327
 
 | Clase | Fondos |
 | --- | --- |
@@ -1151,7 +1151,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1762221155](../rv-global/LU1762221155.md) | Invesco Global Founders & Owners Fund E Accumulation EUR | Activa | EUR | Global Equity Large Cap | 2,31 | 15,69 | 4 | 5 |
 | [LU1278917536](../rv-global/LU1278917536.md) | DWS Invest CROCI Sectors Plus NC | Activa | EUR | Global Equity Large Cap | 2,34 | 8,75 | 4 | 2 |
 | [ES0131444178](../rv-global/ES0131444178.md) | GB INTERNATIONAL ALPHA A ACC | Activa | EUR | Global Equity Large Cap | 2,35 | — | 4 | — |
-| LU2451274307 | Athenee FCP Global Equity Fund Class B EUR Accumulation | Activa | EUR | Global Equity Large Cap | 2,39 | — | 4 | — |
+| [LU2451274307](../rv-global/LU2451274307.md) | Athenee FCP Global Equity Fund Class B EUR Accumulation | Activa | EUR | Global Equity Large Cap | 2,39 | — | 4 | — |
 | [FR0007073119](../rv-global/FR0007073119.md) | SYCOMORE EUROPEAN GROWTH A ACC | Activa | EUR | Global Equity Large Cap | 2,39 | — | 4 | — |
 | [ES0127796003](../rv-global/ES0127796003.md) | EDM International Equities R FI | Activa | EUR | Global Equity Large Cap | 2,40 | 1,75 | 3 | 1 |
 | [ES0125323008](../rv-global/ES0125323008.md) | Gestión Value A FI | Activa | EUR | Global Equity Mid/Small Cap | 2,41 | 16,28 | 4 | 4 |
@@ -1169,10 +1169,10 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1651854041](../rv-global/LU1651854041.md) | Azvalor Lux SICAV Azvalor Blue Chips R | Activa | EUR | Global Equity Mid/Small Cap | 2,63 | 12,43 | 4 | 3 |
 | [LU2114785194](../rv-global/LU2114785194.md) | WELLINGTON CLIMATE STRATEGY DL | Activa | EUR | Global Equity Large Cap | 2,64 | 9,83 | 4 | 3 |
 | [LU0168343274](../rv-global/LU0168343274.md) | JPMorgan Funds - Global Focus Fund D (acc) EUR | Activa | EUR | Global Equity Large Cap | 2,67 | 10,37 | 4 | 3 |
-| LU0503634734 | Pictet-SmartCity-R EUR | Activa | EUR | Global Equity Large Cap | 2,67 | 5,37 | 4 | 1 |
+| [LU0503634734](../rv-global/LU0503634734.md) | Pictet-SmartCity-R EUR | Activa | EUR | Global Equity Large Cap | 2,67 | 5,37 | 4 | 1 |
 | [LU0270905242](../rv-global/LU0270905242.md) | Pictet-Security-R EUR | Activa | EUR | Global Equity Large Cap | 2,69 | 14,42 | 5 | 3 |
 | [LU0289216169](../rv-global/LU0289216169.md) | JPMorgan Funds - Global Focus Fund D (acc) EUR (hedged)  | Activa | EUR | Global Equity Large Cap | 2,70 | 9,31 | 4 | — |
-| LU0503631987 | Pictet-Global Environmental Opportunities-R EUR | Activa | EUR | Global Equity Large Cap | 2,70 | 6,34 | 4 | 3 |
+| [LU0503631987](../rv-global/LU0503631987.md) | Pictet-Global Environmental Opportunities-R EUR | Activa | EUR | Global Equity Large Cap | 2,70 | 6,34 | 4 | 3 |
 | LU0117882547 | JPMorgan Funds - Global Sustainable Equity Fund D (acc) USD | Activa | USD | Global Equity Large Cap | 2,74 | 9,01 | 4 | 2 |
 | LU2451274059 | Athenee FCP Global Equity Fund Class A USD Accumulation | Activa | USD | Global Equity Large Cap | 2,84 | — | 4 | — |
 | LU2375689580 | SIH GLOBAL EQUITY A ACC EUR | Activa | EUR | Global Equity Large Cap | 2,85 | 11,56 | 4 | 3 |
