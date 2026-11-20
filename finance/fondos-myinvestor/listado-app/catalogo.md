@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 425
+**Fondos: 1980** · con ficha previa: 432
 
 | Clase | Fondos |
 | --- | --- |
@@ -130,7 +130,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00BF2N5T53](../renta-fija/IE00BF2N5T53.md) | iShares Emerging Markets Government Bond Index Fund (IE) D Acc USD | Indexada | USD | Emerging Markets Fixed Income | 0,18 | 8,49 | 3 | 3 |
 | [IE000RIFQ564](../renta-fija/IE000RIFQ564.md) | iShares Green Bond Index Fund (IE) D Acc EUR | Activa | EUR | Global Fixed Income | 0,18 | 2,70 | 3 | 4 |
 | [LU0389812693](../renta-fija/LU0389812693.md) | AMUNDI INDEX JPM GBI GLOBAL GOV IHE EURH | Indexada | EUR | Global Fixed Income | 0,20 | 0,75 | 2 | 3 |
-| ES0126551037 | CBNK Renta Fija CP Base FI | Activa | EUR | Europe Fixed Income | 0,20 | 3,00 | 2 | 3 |
+| [ES0126551037](../renta-fija/ES0126551037.md) | CBNK Renta Fija CP Base FI | Activa | EUR | Europe Fixed Income | 0,20 | 3,00 | 2 | 3 |
 | [IE0000J01ZR0](../renta-fija/IE0000J01ZR0.md) | iShares Emerging Markets Government Bond Index Fund (IE) D Acc Hedged EUR | Indexada | EUR | Emerging Markets Fixed Income | 0,20 | — | 3 | — |
 | [IE00BL6VHF72](../renta-fija/IE00BL6VHF72.md) | iShares Global Aggregate 1-5 Year Bond Index Fund Institutional Acc USD | Indexada | USD | Global Fixed Income | 0,20 | 3,22 | 1 | 3 |
 | [IE00BD0DT578](../renta-fija/IE00BD0DT578.md) | iShares Green Bond Index Fund Acc EUR Hedged | Indexada | EUR | Global Fixed Income | 0,20 | 2,29 | 3 | 2 |
@@ -140,7 +140,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | IE00BFZMJT78 | Neuberger Berman Short Duration Euro Bond Fund Class EUR I Accumulating | Activa | EUR | Europe Fixed Income | 0,25 | 4,34 | 2 | 5 |
 | [IE00BJ9MTQ85](../renta-fija/IE00BJ9MTQ85.md) | iShares Em Mkts GovBd Idx(IE) Ins €H A | Indexada | EUR | Emerging Markets Fixed Income | 0,25 | 6,71 | 3 | 3 |
 | [IE00BF2N5W82](../renta-fija/IE00BF2N5W82.md) | iShares Em Mkts LclGovBd Idx(IE) D $ A | Indexada | USD | Emerging Markets Fixed Income | 0,25 | 5,63 | 3 | 2 |
-| IE000HDKMJN5 | iShares Emerging Markets Local Government Bond Index Fund (IE) D Acc EUR | Activa | EUR | Emerging Markets Fixed Income | 0,25 | 5,63 | 3 | 3 |
+| [IE000HDKMJN5](../renta-fija/IE000HDKMJN5.md) | iShares Emerging Markets Local Government Bond Index Fund (IE) D Acc EUR | Activa | EUR | Emerging Markets Fixed Income | 0,25 | 5,63 | 3 | 3 |
 | [LU1811365292](../renta-fija/LU1811365292.md) | iShares EM Government Bond Index Fund | Indexada | EUR | Emerging Markets Fixed Income | 0,28 | 8,35 | 3 | 3 |
 | ES0127795005 | EDM Renta R FI | Activa | EUR | Europe Fixed Income | 0,30 | 2,94 | 1 | 3 |
 | [IE000OZZKBN3](../renta-fija/IE000OZZKBN3.md) | iShares Em Mkts LclGovBd Idx(IE) Ins $ AEM LCL GVMT BOND INST | Indexada | USD | Emerging Markets Fixed Income | 0,30 | 5,57 | 3 | 3 |
@@ -148,7 +148,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0029761706 | UBAM - Dynamic Euro Bond AC EUR | Activa | EUR | Europe Fixed Income | 0,31 | 3,39 | 2 | 3 |
 | [AT0000A0WLX3](../renta-fija/AT0000A0WLX3.md) | ERSTE Responsible ReserveVT | Activa | EUR | Europe Fixed Income | 0,32 | 2,95 | 2 | 3 |
 | FR0000027609 | LAZARD EUR SHORT DUR SRI IC | Activa | EUR | Europe Fixed Income | 0,32 | 3,68 | 2 | 4 |
-| LU0352158918 | UBAM - Dynamic US Dollar Bond AHC EUR | Activa | EUR | US Fixed Income | 0,32 | 3,64 | 2 | — |
+| [LU0352158918](../renta-fija/LU0352158918.md) | UBAM - Dynamic US Dollar Bond AHC EUR | Activa | EUR | US Fixed Income | 0,32 | 3,64 | 2 | — |
 | ES0141580003 | SIGMA INVESTMENT HOUSE AHORRO, | Activa | EUR | Europe Fixed Income | 0,34 | 3,49 | 2 | 4 |
 | [LU1050470373](../renta-fija/LU1050470373.md) | Amundi IS JP Morgan EMU Govies AE-C | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
 | [LU1050470456](../renta-fija/LU1050470456.md) | Amundi IS JP Morgan EMU Govies AE-D | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
@@ -174,14 +174,14 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | FR0013346079 | Groupama Ultra Short Term NC | Activa | EUR | Europe Fixed Income | 0,40 | 2,98 | 1 | 4 |
 | [LU0956454531](../renta-fija/LU0956454531.md) | State Street Euro Inflation Linked Bond Index Fund | Indexada | EUR | Europe Fixed Income | 0,40 | — | 3 | — |
 | ES0155598032 | UBS Corto Plazo B FI | Activa | EUR | Europe Fixed Income | 0,40 | 2,63 | 2 | 3 |
-| LU0097116601 | Eurizon Fund - Bond USD Short Term LTE Class Unit R EUR Accumulation | Activa | EUR | US Fixed Income | 0,45 | 3,27 | 3 | 1 |
-| LU1230566553 | LO Funds - Ultra Low Duration (EUR) PA | Activa | EUR | Europe Fixed Income | 0,45 | 3,09 | 2 | 3 |
+| [LU0097116601](../renta-fija/LU0097116601.md) | Eurizon Fund - Bond USD Short Term LTE Class Unit R EUR Accumulation | Activa | EUR | US Fixed Income | 0,45 | 3,27 | 3 | 1 |
+| [LU1230566553](../renta-fija/LU1230566553.md) | LO Funds - Ultra Low Duration (EUR) PA | Activa | EUR | Europe Fixed Income | 0,45 | 3,09 | 2 | 3 |
 | LU1670718219 | M&G (Lux) Short Dated Corporate Bond Fund A EUR Acc | Activa | EUR | Europe Fixed Income | 0,47 | 3,19 | 2 | 4 |
 | ES0114887039 | Caja Ingenieros Fondtesoro Corto Plazo A FI | Activa | EUR | Europe Fixed Income | 0,49 | 2,38 | 1 | 2 |
 | LU0145655824 | DWS Invest ESG Euro Bonds (Short) LC | Activa | EUR | Europe Fixed Income | 0,49 | 2,52 | 2 | 3 |
 | LU0090978643 | EURIZON FND BD JPY LTE R AC EU | Activa | EUR | Japan Fixed Income | 0,49 | -6,88 | 3 | 4 |
 | LU2482630162 | European Specialist Investment Funds - M&G European Credit Investment Fund Class P EUR Acc | Activa | EUR | Europe Fixed Income | 0,49 | 3,64 | 2 | 4 |
-| FR0010760694 | CANDRIAM LONG SH CREDIT C EUR | Activa | EUR | Global Fixed Income | 0,50 | 3,21 | 3 | 4 |
+| [FR0010760694](../renta-fija/FR0010760694.md) | CANDRIAM LONG SH CREDIT C EUR | Activa | EUR | Global Fixed Income | 0,50 | 3,21 | 3 | 4 |
 | ES0138712007 | GESTIFONSA RF EURO, FI CARTERA | Activa | EUR | Europe Fixed Income | 0,50 | 3,23 | 2 | 4 |
 | LU0408877412 | JPMorgan Funds - Euro Government Short Duration Bond Fund A (acc) - EUR | Activa | EUR | Europe Fixed Income | 0,50 | 2,08 | 2 | 3 |
 | LU1361553693 | Pictet-USD Short Mid-Term Bonds-P EUR | Activa | EUR | US Fixed Income | 0,50 | 3,70 | 3 | 3 |
@@ -1696,7 +1696,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00B523L313](../rv-otros/IE00B523L313.md) | Vanguard Pacific ex-Japan Stock Index Fund GBP Acc | Indexada | GBP | Asia ex-Japan Equity | 0,16 | 13,85 | 4 | 3 |
 | [IE00B56H2V49](../rv-otros/IE00B56H2V49.md) | iShares Pacific Index (IE) Instl Acc EUR | Indexada | EUR | Asia ex-Japan Equity | 0,19 | 14,06 | 5 | 4 |
 | [IE00B1W56S93](../rv-otros/IE00B1W56S93.md) | iShares Pacific Index (IE) Instl Acc USD | Indexada | USD | Asia ex-Japan Equity | 0,19 | 14,06 | 5 | 4 |
-| LU0390717543 | Amundi IS MSCI Pacific ex Japan AE-C EUR | Indexada | EUR | Asia ex-Japan Equity | 0,30 | 9,06 | 4 | 1 |
+| [LU0390717543](../rv-otros/LU0390717543.md) | Amundi IS MSCI Pacific ex Japan AE-C EUR | Indexada | EUR | Asia ex-Japan Equity | 0,30 | 9,06 | 4 | 1 |
 | [LU0474967055](../rv-otros/LU0474967055.md) | Pictet-Pacific Ex Japan Index-P EUR | Indexada | EUR | Asia ex-Japan Equity | 0,45 | 13,76 | 4 | 3 |
 | [LU0836512961](../rv-otros/LU0836512961.md) | iShares Pacific ex Japan Equity Index Fund (LU) A2 USD | Indexada | USD | Asia ex-Japan Equity | 0,55 | 13,49 | 5 | 3 |
 | [LU0148539108](../rv-otros/LU0148539108.md) | Pictet-Pacific Ex Japan Index-R USD | Indexada | USD | Asia ex-Japan Equity | 0,76 | 13,54 | 4 | 2 |

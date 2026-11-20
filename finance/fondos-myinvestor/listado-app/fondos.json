@@ -2548,7 +2548,7 @@
    "srri": 2,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "renta-fija/ES0126551037.md"
   },
   {
    "isin": "ES0126813007",
@@ -8935,7 +8935,7 @@
    "srri": 3,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "renta-fija/FR0010760694.md"
   },
   {
    "isin": "FR0010794792",
@@ -10572,7 +10572,7 @@
    "pendientes": [
     "r5a"
    ],
-   "ficha": null
+   "ficha": "renta-fija/IE000HDKMJN5.md"
   },
   {
    "isin": "IE000JM1MJ59",
@@ -17762,7 +17762,7 @@
    "srri": 3,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "renta-fija/LU0097116601.md"
   },
   {
    "isin": "LU0104885248",
@@ -24280,7 +24280,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "renta-fija/LU0352158918.md"
   },
   {
    "isin": "LU0352160062",
@@ -24813,7 +24813,7 @@
    "srri": 4,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0390717543.md"
   },
   {
    "isin": "LU0395794307",
@@ -31202,7 +31202,7 @@
    "srri": 2,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "renta-fija/LU1230566553.md"
   },
   {
    "isin": "LU1232088200",
