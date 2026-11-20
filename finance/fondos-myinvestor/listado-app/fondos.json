@@ -11404,7 +11404,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "sectoriales/IE00B00LSD17.md"
   },
   {
    "isin": "IE00B01FHS02",
@@ -12832,7 +12832,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "sectoriales/IE00B51PLJ46.md"
   },
   {
    "isin": "IE00B523L313",
