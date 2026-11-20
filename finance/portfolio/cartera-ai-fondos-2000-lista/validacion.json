@@ -1,49 +1,26 @@
 {
  "fecha": "2026-11-20",
- "fondos_distintos": 52,
- "lineas": 52,
- "identidades_distintas": 52,
+ "fondos_distintos": 21,
+ "lineas": 21,
+ "identidades_distintas": 21,
  "errores": [],
  "avisos": [],
  "comprobaciones": [
-  "ISIN único en las 5 carteras",
-  "nombre de fondo normalizado único (52/52)",
+  "ISIN único en las 2 carteras",
+  "nombre de fondo normalizado único (21/21)",
   "clases hermanas conocidas: ninguna cruzada entre carteras",
-  "100.000 € exactos por cartera y 52 líneas",
-  "TER del diseño = TER del snapshot de la ficha en los 52 fondos",
-  "52/52 con política de acumulación y ficha presente en el repo",
+  "100.000 € exactos por cartera y 21 líneas",
+  "TER del diseño = TER del snapshot de la ficha en los 21 fondos",
+  "21/21 con política de acumulación y ficha presente en el repo",
   "importe de cada línea >= mínimo inicial verificado (MCP 20/11 o ficha web 19/11)"
  ],
  "verificacion_web": [
-  {
-   "isin": "LU1769942233",
-   "tema": "cobertura de divisa y coste de la clase LCH",
-   "hallazgo": "Factsheet oficial DWS a 30/10/2026: clase LCH (EUR), acumulación, gestión 1,30 %, TER 1,48 %, carga inicial hasta 2 %. La clase LCH es la variante cubierta del yen: su rentabilidad acumulada a 3 años es 81,1 % frente al 55,7 % de la clase LC(EUR) sin cubrir. Queda verificada la cobertura que la ficha MCP no declaraba.",
-   "url": "https://download.dws.com/download/asset/6f69b6a8-359f-4a36-bb75-4ef2c26b9fda?tenant=ActiveEmea"
-  },
-  {
-   "isin": "LU0171307068",
-   "tema": "mínimo y política de dividendos",
-   "hallazgo": "Ficha oficial BlackRock: «Class A2 (EUR) (Accumulating)», Minimum Initial Investment USD 5.000,00, Ongoing Charges 1,81 %, Management Fee 1,50 %, Performance Fee 0,00 %, desviación 3A 14,20 %, 2022 +0,6 %, 2025 +0,1 %. La línea de 6.000 € cubre el mínimo; el cargo inicial del 5 % del folleto se verifica en pantalla en la plataforma.",
-   "url": "https://www.blackrock.com/se/professionals/products/229337/blackrock-world-healthscience-a2-eur-fund"
-  },
   {
    "isin": "LU0080237943",
    "tema": "comisión de reembolso discrepante",
    "hallazgo": "KID oficial DWS de 16/02/2026: «No fees or penalties will be charged by the company for any such transaction», periodo recomendado 183 días, riesgo 1/7 y beneficios reinvertidos. El 2,50 % que publicaban Finect y FT no aparece en el KID; se conserva como discrepancia a verificar en pantalla, no como coste modelado.",
    "url": "https://download.dws.com/download/asset/4b9b6e74-8baa-46ae-971a-c9895905b477?tenant=ActiveEmea"
-  },
-  {
-   "isin": "IE00BG226Z29",
-   "tema": "anomalía de comisiones y cambio de gestora",
-   "hallazgo": "Aegon AM anuncia que a partir del 23/11/2026 la gestora del ICAV pasa a Carne Global Fund Managers (Ireland) Limited. La página oficial solo lista las clases USD G/D/X, no la clase EUR A del catálogo; la anomalía TER 0,66 % frente a gestión 1,50 % queda sin resolver y se mantiene el TER del snapshot como coste modelado, con aviso.",
-   "url": "https://www.aegonam.com/funds-resources/fixed-income/european-abs-fund/"
-  },
-  {
-   "isin": "IE000ZYRH0Q7",
-   "tema": "mínimo institucional de la clase S",
-   "hallazgo": "Las fichas web publican 200.000.000 (USD en quefondos, EUR en Finect) para la clase S, mientras el dato MCP del 20/11/2026 da 0,00 EUR. Se conserva la clase S por ser la operable en la plataforma y se escribe el mínimo publicado como condición a comprobar en pantalla antes de la primera orden.",
-   "url": null
   }
- ]
+ ],
+ "nota": "C1, C3 y C5 retiradas el 2026-11-20: sus 31 fondos salen de la validación (LU1769942233 y LU0171307068 estaban verificados en web y ya no forman parte del diseño)."
 }

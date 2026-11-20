@@ -27,12 +27,12 @@ related:
 | Lo que pide el encargo | Cómo se cumple | Qué cuesta |
 | --- | --- | --- |
 | 100.000 € | 11 líneas que suman exactamente 100.000 € | Nada |
-| Cinco carteras sin repetir fondo | 52 ISIN distintos, comprobados por ISIN, nombre y clase hermana | Ninguna línea se abarata con un fondo ya usado |
+| Dos carteras sin repetir fondo | 21 ISIN distintos, comprobados por ISIN, nombre y clase hermana | Ninguna línea se abarata con un fondo ya usado |
 | Cartera diversificada | 35,49 % de RV, 43,88 % de renta fija y liquidez, y tres alternativos descorrelacionados (cat bonds, market neutral, managed futures), con dos fondos de baja volatilidad y dos mixtos defensivos. | Ver §4 |
 | Solo fondos del listado | Todos los ISIN están en `finance/fondos-myinvestor/` | Sin ETF ni acciones: traspaso sin peaje fiscal |
 | Sin distribución de dividendos | 11/11 clases de acumulación | Nada |
 
-**Supuestos escritos, no reglas heredadas:** horizonte de 15 años o más, colchón de 6-12 meses fuera de la cartera, sin aportaciones modeladas y sin lista negra de carteras anteriores (el mandato solo prohíbe repetir dentro de estas cinco). Si el horizonte es de 5 años, bajar la RV a 40-50 %.
+**Supuestos escritos, no reglas heredadas:** horizonte de 15 años o más, colchón de 6-12 meses fuera de la cartera, sin aportaciones modeladas y sin lista negra de carteras anteriores (el mandato solo prohíbe repetir dentro de estas dos). Si el horizonte es de 5 años, bajar la RV a 40-50 %.
 
 ## 2. Cartera
 
