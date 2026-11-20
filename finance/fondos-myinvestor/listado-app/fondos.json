@@ -1344,7 +1344,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "sectoriales/ES0110407170.md"
   },
   {
    "isin": "ES0110485010",
@@ -2754,7 +2754,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "sectoriales/ES0131369003.md"
   },
   {
    "isin": "ES0131385017",
@@ -13605,7 +13605,7 @@
    "srri": 4,
    "rating": 5,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/IE00B88WFS66.md"
   },
   {
    "isin": "IE00B89M2V73",
@@ -20213,7 +20213,7 @@
    "srri": 5,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0169518387.md"
   },
   {
    "isin": "LU0169528261",
@@ -21332,7 +21332,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0217390656.md"
   },
   {
    "isin": "LU0217390813",
@@ -21699,7 +21699,7 @@
    "srri": 4,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0231459107.md"
   },
   {
    "isin": "LU0231490524",
@@ -25450,7 +25450,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0441851994.md"
   },
   {
    "isin": "LU0441853263",
@@ -25469,7 +25469,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0441853263.md"
   },
   {
    "isin": "LU0442406889",
@@ -27073,7 +27073,7 @@
    "srri": 4,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0572940194.md"
   },
   {
    "isin": "LU0573559563",
@@ -27168,7 +27168,7 @@
    "srri": 4,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0591059224.md"
   },
   {
    "isin": "LU0592505589",
@@ -27227,7 +27227,7 @@
    "srri": 5,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0593848723.md"
   },
   {
    "isin": "LU0594695172",
@@ -28079,7 +28079,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-otros/LU0702159772.md"
   },
   {
    "isin": "LU0705260189",
@@ -32250,7 +32250,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-otros/LU1378879248.md"
   },
   {
    "isin": "LU1380459518",
@@ -36658,7 +36658,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "sectoriales/LU2053353079.md"
   },
   {
    "isin": "LU2066004206",
