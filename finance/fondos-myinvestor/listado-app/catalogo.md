@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1754
+**Fondos: 1980** · con ficha previa: 1756
 
 | Clase | Fondos |
 | --- | --- |
@@ -1819,9 +1819,9 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU2145463704](../sectoriales/LU2145463704.md) | RobecoSAM Smart Materials Equities D USD | Activa | USD | Equity Miscellaneous | 1,71 | 10,69 | 5 | — |
 | [LU0232524495](../sectoriales/LU0232524495.md) | AB AMERICAN GROWTH PORTFOLIO A ACC EUR | Activa | EUR | US Equity Large Cap Growth | 1,72 | 12,92 | 5 | 3 |
 | [LU1700710939](../sectoriales/LU1700710939.md) | Robeco Global FinTech Equities D € | Activa | EUR | Technology Sector Equity | 1,72 | 5,16 | 5 | 2 |
-| LU2145461757 | Robeco Smart Energy D EUR | Activa | EUR | Energy Sector Equity | 1,72 | 19,65 | 5 | 5 |
+| [LU2145461757](../sectoriales/LU2145461757.md) | Robeco Smart Energy D EUR | Activa | EUR | Energy Sector Equity | 1,72 | 19,65 | 5 | 5 |
 | [AT0000A03N37](../sectoriales/AT0000A03N37.md) | ERSTE WWF Stock Environment EUR R01 VT | Activa | EUR | Global Equity Mid/Small Cap | 1,73 | -1,10 | 5 | 1 |
-| LU0262307720 | Jupiter Financial Innovt L Eur Acc | Activa | USD | Financials Sector Equity | 1,73 | 29,69 | 5 | 2 |
+| [LU0262307720](../sectoriales/LU0262307720.md) | Jupiter Financial Innovt L Eur Acc | Activa | USD | Financials Sector Equity | 1,73 | 29,69 | 5 | 2 |
 | [IE00BGHQF748](../sectoriales/IE00BGHQF748.md) | GUINNSS GLB MNY MNGS FND C EUR | Activa | EUR | Financials Sector Equity | 1,74 | 18,35 | 5 | 2 |
 | [IE00BGHQF417](../sectoriales/IE00BGHQF417.md) | Guinness Sustainable Energy C EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,74 | 6,27 | 4 | 3 |
 | LU0175576296 | Multipartner SICAV - Konwave Gold Equity Fund B USD | Activa | USD | Precious Metals Sector Equity | 1,74 | 55,94 | 6 | 4 |
