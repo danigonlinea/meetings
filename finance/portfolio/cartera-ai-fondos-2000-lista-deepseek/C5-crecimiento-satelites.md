@@ -4,7 +4,7 @@ date: 2026-11-20
 type: reference
 category: finance
 tags: [cartera, fondos, myinvestor, cartera-ai-fondos-2000-lista-deepseek, c5]
-status: living
+status: final
 ---
 
 # C5 — Crecimiento con satélites · 100.000 €
@@ -12,6 +12,10 @@ status: living
 Cartera **independiente de 100.000 €**, construida solo con fondos del listado `finance/fondos-myinvestor/`. **Ningún fondo de esta carpeta se repite en las otras cuatro**: el conjunto de las cinco son 37 líneas y 37 ISIN distintos, comprobados por código también por nombre normalizado y por clase hermana ([`validacion.md`](validacion.md)). No se suma ni se compara con las demás.
 
 > **Sin ejecutar.** Ninguna orden lanzada y ninguna decisión tomada: la cartera es del titular y la ejecución también. Los importes mínimos, los TER y las políticas de distribución están verificados en el catálogo MCP de MyInvestor el 20/11/2026; las rentabilidades son las del mismo snapshot y no son una promesa.
+
+> ⚠️ **Cartera elegida, pendiente de la revisión del titular.** Es la ganadora de las cinco de esta
+> carpeta con los parámetros fijados el 20/11/2026 —15 años de horizonte, 1.500 €/mes y comisiones de
+> éxito admitidas—. **Ninguna orden se lanza hasta que el titular la revise.**
 
 ## 1. Decisión
 

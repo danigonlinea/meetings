@@ -20,7 +20,10 @@ Cinco carteras **independientes de 100.000 € cada una**, construidas solo con 
 | [`C2-conviccion-activa.md`](C2-conviccion-activa.md) | ningún indexado: cada línea es un proceso de gestión con evidencia en la ficha | 8 | 97,60 % | 1.434,40 € (1,4344 %) | 2 de 8 | −39,04 % |
 | [`C3-equilibrada-credito-activo.md`](C3-equilibrada-credito-activo.md) | 55 % de RV indexada y 45 % en cinco fondos de crédito con gestión activa | 7 | 55,05 % | 492,90 € (0,4929 %) | 1 de 7 | −23,28 % |
 | [`C4-defensiva-alternativos.md`](C4-defensiva-alternativos.md) | 34 % de RV real y tres alternativos descorrelacionados, con colchón de deuda pública | 8 | 34,06 % | 607,60 € (0,6076 %) | 4 de 8 | −15,07 % |
-| [`C5-crecimiento-satelites.md`](C5-crecimiento-satelites.md) | 90 % de RV: núcleo global all-cap barato y cinco satélites con nombre y apellidos | 6 | 99,48 % | 764,60 € (0,7646 %) | 1 de 6 | −39,79 % |
+| ⚠️ **ganadora** — [`C5-crecimiento-satelites.md`](C5-crecimiento-satelites.md) | cerca del 100 % de RV: núcleo global all-cap barato y cinco satélites con nombre y apellidos | 6 | 99,48 % | 764,60 € (0,7646 %) | 1 de 6 | −39,79 % |
+
+⚠️ **La ganadora es C5** (`C5-crecimiento-satelites.md`, `status: final`): elegida el 20/11/2026 con
+horizonte de 15 años y 1.500 €/mes, **pendiente de la revisión del titular y sin órdenes lanzadas**.
 
 Las cinco cubren el espectro completo de riesgo (15 % → 40 % de caída de manual) **sin compartir un
 solo fondo**. Y el orden de coste no sigue el orden de riesgo: la cartera más agresiva (C5, 99,48 % de RV)
@@ -112,7 +115,7 @@ Lo que C1 compra con su sobrecoste no es retorno: es que las otras cuatro carter
 núcleos indexados sin repetir el mismo vehículo. Si el titular prefiere una sola cartera de índice, la
 respuesta del repositorio ya está escrita y es `cartera-definitiva-40/`.
 
-## Valoración: cuál es la ganadora
+## Valoración: por qué C5 es la ganadora
 
 Parámetros del titular (20/11/2026): **horizonte 15 años, aportación de 1.500 €/mes y las comisiones de
 éxito no son un veto**. Con esas tres piezas los 100.000 € iniciales son el 27 % del dinero que entra
@@ -130,7 +133,8 @@ Misma vara para las cinco (RV *look-through* y caída de la casa), y valor final
 | C3 equilibrada | 55,05 % | 492,90 € | −23,28 % | 555.037 € | −63.580 € |
 | C4 defensiva | 34,06 % | 607,60 € | −15,07 % | 511.446 € | −107.171 € |
 
-**Gana C5.** Razones, en orden de peso:
+**Gana C5, y así queda marcada en la carpeta y en el mapa de carteras** (`status: final`, ⚠️ pendiente de
+la revisión del titular, ninguna orden lanzada). Razones, en orden de peso:
 
 1. **Es la única con renta variable alta y coste bajo.** C2 compra el mismo 97,6 % de bolsa por 669,80 €/año
    más, y esa diferencia son 44.349 € a quince años: no es una opinión sobre gestores, es una resta.
@@ -180,7 +184,8 @@ entradas— está en su §8, y la aritmética de los tres escenarios en su §9.
 
 ## Estado
 
-Sin ejecutar, a la espera de la revisión del titular. **Parámetros ya fijados el 20/11/2026:** horizonte
+⚠️ **Sin ejecutar y pendiente de la revisión del titular: C5 es la ganadora y no se lanza ninguna orden
+hasta esa revisión.** **Parámetros ya fijados el 20/11/2026:** horizonte
 de 15 años, aportación de 1.500 €/mes y comisiones de éxito admitidas; con ellos la ganadora es **C5**, que
 lleva su plan de aportaciones en el §8. Pendiente de confirmar: colchón fuera de cartera y tolerancia real a
 una caída del 40 % (si no se aguanta, la cartera correcta es C4).
