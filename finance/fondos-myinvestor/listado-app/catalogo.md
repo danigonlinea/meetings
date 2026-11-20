@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1740
+**Fondos: 1980** · con ficha previa: 1744
 
 | Clase | Fondos |
 | --- | --- |
@@ -1756,7 +1756,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0165265002](../sectoriales/ES0165265002.md) | MyInvestor Nasdaq 100 | Indexada | EUR | Technology Sector Equity | 0,40 | 18,78 | 4 | 3 |
 | [ES0184894006](../sectoriales/ES0184894006.md) | MyInvestor Mundo Desarrollado y Emergente | Indexada | EUR | Global Equity Large Cap | 0,43 | 17,22 | 4 | 3 |
 | [ES0110407063](../sectoriales/ES0110407063.md) | Gestión Boutique VI Opportunity FI | Activa | EUR | Global Equity Large Cap | 0,49 | 19,93 | 4 | 2 |
-| LU1303370156 | JPMorgan Funds - US Technology Fund C (acc) - EUR | Activa | EUR | Technology Sector Equity | 0,84 | 16,69 | 5 | 3 |
+| [LU1303370156](../sectoriales/LU1303370156.md) | JPMorgan Funds - US Technology Fund C (acc) - EUR | Activa | EUR | Technology Sector Equity | 0,84 | 16,69 | 5 | 3 |
 | NO0013620781 | DNB Defensa Europea A EUR | Activa | EUR | Industrials Sector Equity | 0,86 | — | 5 | — |
 | [IE00BWY57036](../sectoriales/IE00BWY57036.md) | Algebris UCITS Funds plc - Algebris Financial Equity Fund I GBP Acc | Activa | GBP | Financials Sector Equity | 0,90 | 30,76 | 4 | — |
 | IE00B51PLJ46 | GLOBAL LIST INF EQ A AC EURH | Activa | EUR | Infrastructure Sector Equity | 0,92 | 13,26 | 3 | — |
@@ -1782,7 +1782,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0168799056](../sectoriales/ES0168799056.md) | GESTION BOUTIQUE IV ALCLAM US  | Activa | EUR | US Equity Large Cap Blend | 1,51 | 33,07 | 5 | 5 |
 | [ES0131369003](../sectoriales/ES0131369003.md) |  MUTUAFONDO SALUD, FI-A | Activa | EUR | Healthcare Sector Equity | 1,53 | — | 4 | — |
 | [LU0512092221](../sectoriales/LU0512092221.md) | Morgan Stanley Investment Funds - Global Infrastructure Fund AH (EUR) | Activa | EUR | Infrastructure Sector Equity | 1,53 | 9,89 | 4 | — |
-| LU0302296149 | DNB Fund Renewable Energy retail A | Activa | EUR | Energy Sector Equity | 1,55 | 5,85 | 5 | 3 |
+| [LU0302296149](../sectoriales/LU0302296149.md) | DNB Fund Renewable Energy retail A | Activa | EUR | Energy Sector Equity | 1,55 | 5,85 | 5 | 3 |
 | LU0302296495 | DNB Technology A Acc Eur | Activa | EUR | Technology Sector Equity | 1,55 | 28,76 | 4 | 4 |
 | DE0009769851 | DWS Health Care Typ O NC | Activa | EUR | Healthcare Sector Equity | 1,57 | 3,77 | 4 | 2 |
 | [IE0033535075](../sectoriales/IE0033535075.md) | COMGEST GROWTH WORLD ACC USD | Activa | USD | Global Equity Large Cap | 1,58 | 6,66 | 4 | 3 |
@@ -1795,8 +1795,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1863263346](../sectoriales/LU1863263346.md) | DWS Invest Artificial Intelligence LC | Activa | EUR | Technology Sector Equity | 1,60 | 18,02 | 5 | 3 |
 | IE00B3XLHR60 | POLAR CAPITAL BIOTECHNOLOGY R USD | Activa | USD | Healthcare Sector Equity | 1,60 | 25,29 | 5 | 5 |
 | IE00B3VXGD32 | Polar Capital Biotech R Inc | Activa | EUR | Healthcare Sector Equity | 1,60 | 25,29 | 5 | 5 |
-| IE00B3NLTK32 | Polar Capital Funds PLC - Polar Capital Healthcare Opportunities Fund R Inc | Activa | USD | Healthcare Sector Equity | 1,60 | 15,55 | 4 | 4 |
-| IE00B3NLSS43 | Polar Capital Funds PLC - Polar Capital Healthcare Opportunities Fund R Inc (EUR) | Activa | EUR | Healthcare Sector Equity | 1,60 | 15,55 | 4 | 4 |
+| [IE00B3NLTK32](../sectoriales/IE00B3NLTK32.md) | Polar Capital Funds PLC - Polar Capital Healthcare Opportunities Fund R Inc | Activa | USD | Healthcare Sector Equity | 1,60 | 15,55 | 4 | 4 |
+| [IE00B3NLSS43](../sectoriales/IE00B3NLSS43.md) | Polar Capital Funds PLC - Polar Capital Healthcare Opportunities Fund R Inc (EUR) | Activa | EUR | Healthcare Sector Equity | 1,60 | 15,55 | 4 | 4 |
 | [IE0004766014](../sectoriales/IE0004766014.md) | Comgest Growth Europe Smaller Companies EUR Acc | Activa | EUR | Europe Equity Mid/Small Cap | 1,61 | 0,52 | 4 | 1 |
 | [LU0273159177](../sectoriales/LU0273159177.md) | DWS Invest Gold and Precious Metals Equities LC | Activa | EUR | Precious Metals Sector Equity | 1,61 | 43,70 | 6 | 4 |
 | [FI0008801188](../sectoriales/FI0008801188.md) | EVLI GLOBAL B ACC EUR | Activa | EUR | Global Equity Mid/Small Cap | 1,61 | 11,63 | 4 | 4 |
