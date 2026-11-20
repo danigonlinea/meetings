@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 739
+**Fondos: 1980** · con ficha previa: 741
 
 | Clase | Fondos |
 | --- | --- |
@@ -416,7 +416,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [FR001400BM80](../renta-fija/FR001400BM80.md) | SEXTANT 2027 AD EUR DIS | Activa | EUR | Fixed Income Miscellaneous | 1,25 | 3,92 | 2 | — |
 | [LU2295320142](../renta-fija/LU2295320142.md) | Morgan Stanley Investment Funds - Global Fixed Income Opportunities Fund A (EUR) | Activa | EUR | Global Fixed Income | 1,26 | 4,85 | 3 | 3 |
 | LU0243957825 | Invesco Euro Corporate Bond A EUR Acc | Activa | EUR | Europe Fixed Income | 1,27 | 2,80 | 2 | 3 |
-| ES0162333035 | MERCHRENTA  FI | Activa | EUR | Global Fixed Income | 1,27 | 1,66 | 2 | — |
+| [ES0162333035](../renta-fija/ES0162333035.md) | MERCHRENTA  FI | Activa | EUR | Global Fixed Income | 1,27 | 1,66 | 2 | — |
 | LU0712123511 | Morgan Stanley Investment Funds - Global Fixed Income Opportunities Fund AH (EUR) | Activa | EUR | Global Fixed Income | 1,27 | 3,18 | 2 | 3 |
 | [LU1697013008](../renta-fija/LU1697013008.md) | Sigma Flexible Fixed Income USD | Activa | USD | US Fixed Income | 1,27 | 4,05 | 2 | 4 |
 | [LU0151324422](../renta-fija/LU0151324422.md) | Candriam Bonds Credit Opportunities C EUR Cap | Activa | EUR | Global Fixed Income | 1,28 | 3,15 | 2 | 4 |
@@ -488,7 +488,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE000MI53C66](../renta-fija/IE000MI53C66.md) | GLG GBL INVST GRDE OPPOR-D-EUR | Activa | EUR | Global Fixed Income | 1,45 | 7,53 | 3 | 5 |
 | LU0853555380 | Jupiter Dynamic Bond L Acc Eur | Activa | EUR | Global Fixed Income | 1,45 | 2,77 | 3 | 2 |
 | [IE000JM1MJ59](../renta-fija/IE000JM1MJ59.md) | Man Funds plc - Man Euro Corporate Bond D EUR | Activa | EUR | Europe Fixed Income | 1,45 | 9,03 | 3 | 5 |
-| IE00B11XZ327 | PIMCO GIS Global High Yield Bond Fund E Class EUR (Hedged) Accumulation | Activa | EUR | Global Fixed Income | 1,45 | 4,07 | 2 | 2 |
+| [IE00B11XZ327](../renta-fija/IE00B11XZ327.md) | PIMCO GIS Global High Yield Bond Fund E Class EUR (Hedged) Accumulation | Activa | EUR | Global Fixed Income | 1,45 | 4,07 | 2 | 2 |
 | IE00B8N0MW85 | PIMCO GIS Income E EUR Hedged Inc | Activa | EUR | Global Fixed Income | 1,45 | 3,14 | 2 | 3 |
 | IE00B84J9L26 | PIMCO INCOME FUND E ACC EURH | Activa | EUR | Global Fixed Income | 1,45 | 3,14 | 2 | 3 |
 | LU3296370003 | Swisscanto (LU) Bond Fund - Swisscanto (LU) Bond Fund Committed EmMa Opportunities ATH EUR | Activa | EUR | Emerging Markets Fixed Income | 1,46 | — | 3 | — |
