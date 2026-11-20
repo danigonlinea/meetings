@@ -1,0 +1,185 @@
+---
+title: "C4 — Defensiva con alternativos · 100.000 €"
+date: 2026-11-20
+type: reference
+category: finance
+tags: [cartera, fondos, myinvestor, cartera-ai-fondos-2000-lista-deepseek, c4]
+status: living
+---
+
+# C4 — Defensiva con alternativos · 100.000 €
+
+Cartera **independiente de 100.000 €**, construida solo con fondos del listado `finance/fondos-myinvestor/`. **Ningún fondo de esta carpeta se repite en las otras cuatro**: el conjunto de las cinco son 37 líneas y 37 ISIN distintos, comprobados por código también por nombre normalizado y por clase hermana ([`validacion.md`](validacion.md)). No se suma ni se compara con las demás.
+
+> **Sin ejecutar.** Ninguna orden lanzada y ninguna decisión tomada: la cartera es del titular y la ejecución también. Los importes mínimos, los TER y las políticas de distribución están verificados en el catálogo MCP de MyInvestor el 20/11/2026; las rentabilidades son las del mismo snapshot y no son una promesa.
+
+## 1. Decisión
+
+34,1 % de renta variable efectiva y una caída de manual de −15,07 % (15.072 €), la mitad que la cartera de índice (−28,68 %). Cuesta 607,60 €/año (0,61 %), menos de la mitad que la cartera de convicción, porque el motor es un indexado; y cuatro de sus ocho líneas llevan comisión de éxito, que es el precio de los alternativos.
+
+| Métrica | Valor |
+| --- | --- |
+| Importe | 100.000 € |
+| Líneas | 8 |
+| Coste anual (TER) | 607,60 € (0,6076 %) |
+| Renta variable real (*look-through*) | 34,06 % |
+| Renta fija | 48,28 % |
+| Caída en el escenario de la casa −(40 % × RV + 3 % × RF) | −15,07 % (−15.072 €) |
+| Comisiones de éxito | 4 de 8 líneas |
+
+**El criterio:** 34 % de renta variable real, tres alternativos descorrelacionados (market neutral, retorno absoluto multiactivo y bonos catastróficos) y un colchón de deuda pública. El objetivo no es rentabilidad máxima, es no vender en la caída.
+
+## 2. Composición
+
+| # | Fondo | ISIN | Rol en la cartera | € | % base | TER | €/año |
+| --: | --- | --- | --- | --: | --: | --: | --: |
+| 1 | Jupiter Merian Global Equity Absolute Return Fund L (EUR) Hedged Acc | `IE00BLP5S460` | Market neutral | 8.000 | 8,00 % | 1,55 % | 124,00 |
+| 2 | Cartesio X FI | `ES0116567035` | Mixto defensivo | 12.000 | 12,00 % | 0,63 % | 75,60 |
+| 3 | Dunas Valor Equilibrado R FI | `ES0175414012` | Retorno absoluto | 12.000 | 12,00 % | 1,19 % | 142,80 |
+| 4 | Sissener SICAV - Sissener Corporate Bond Fund R EUR | `LU2262944817` | Crédito corporativo nórdico | 12.000 | 12,00 % | 0,90 % | 108,00 |
+| 5 | Twelve Capital UCITS ICAV - Twelve Cat Bond Fund P EUR Acc | `IE00BD2B9710` | Bonos catastróficos | 6.000 | 6,00 % | 1,28 % | 76,80 |
+| 6 | Pictet-Sovereign Short-Term Money Market EUR P | `LU0366536711` | Liquidez | 6.000 | 6,00 % | 0,18 % | 10,80 |
+| 7 | iShares Euro Government Bond Index Fund (IE) D Acc EUR | `IE00BD0NC037` | Deuda pública euro | 12.000 | 12,00 % | 0,10 % | 12,00 |
+| 8 | Vanguard Global Stock Index Fund EUR Acc | `IE00B03HD191` | Núcleo de renta variable | 32.000 | 32,00 % | 0,18 % | 57,60 |
+| | **Total** | | | **100.000** | **100,00 %** | | **607,60** |
+
+El market neutral se cuenta como 0 % de renta variable en el look-through: su beta declarada es 0,09 y su 44 % de RV en el MCP es exposición bruta larga/corta, no dirección. Contarlo como 44 % convertiría esta cartera en otra cosa.
+
+## 3. Bloques, roles y coste
+
+Los bloques se etiquetan por **rol**, no por vehículo: un fondo de crédito al 0,47 % y un indexado al 0,10 % no son la misma cosa aunque los dos sean «renta fija».
+
+| Bloque | € | % base | TER medio del bloque | €/año |
+| --- | --: | --: | --: | --: |
+| Alternativos y mixtos | 32.000 | 32,00 % | 1,070 % | 342,40 |
+| Crédito y liquidez | 24.000 | 24,00 % | 0,815 % | 195,60 |
+| Deuda pública y renta variable | 44.000 | 44,00 % | 0,158 % | 69,60 |
+
+## 4. Métricas de riesgo
+
+- **Renta variable real:** 34,06 %. Suma Σ importe × `alloc_equity` de cada ficha verificada en el MCP, no la etiqueta del catálogo.
+- **Excepción declarada:** Jupiter Merian GEAR cuenta como 0 % de renta variable. Su `alloc_equity` en el MCP es 44,1 %, pero es exposición **bruta** de una cartera larga/corta con beta declarada 0,09: contarla como direccional convertiría una cartera del 34 % en una del 37,5 % y describiría mal el riesgo.
+- **Caída de manual:** −15,07 %, es decir −15.072 €. Es la fórmula de la casa −(40 % × RV + 3 % × RF): supone que la bolsa cae un 40 % y la renta fija un 3 % a la vez. No es una previsión, es la vara con la que se comparan las cinco carteras.
+- **Renta fija:** 48,28 %. La duración no está publicada para todas las líneas; sí lo está para las que importan: Pareto 0,4 años de duración de tipos, Storm y M&G Short Dated en el tramo corto, Twelve en flotante. El único bloque con duración larga es la deuda pública y es explícito en el diseño.
+
+## 5. Geografía (look-through de la renta variable)
+
+Base: 33.841 € de renta variable (las líneas de renta fija y el market neutral no entran). Pesos aproximados a partir de los `top_regions` de cada ficha del MCP.
+
+| Región | % de la RV | € equivalentes |
+| --- | --: | --: |
+| Estados Unidos | 70,13 % | 23.732 |
+| Europa | 18,53 % | 6.270 |
+| Japón | 5,67 % | 1.919 |
+| Mercados emergentes | 0,00 % | 0 |
+| Otras (Canadá, Asia-Pacífico desarrollada, otros) | 5,67 % | 1.919 |
+
+## 6. Razón fondo a fondo
+
+### Jupiter Merian Global Equity Absolute Return Fund L (EUR) Hedged Acc — 8.000 € (8,00 %) · Market neutral
+
+`IE00BLP5S460` · Jupiter AM · TER 1,55 % · éxito 20,00 % · mínimo 1,00 € · corte 12:00 · SRRI 2
+
+8 % en market neutral: beta declarada 0,09, volatilidad 3A 3,88 %, máxima caída 3A −2,5 % y **cinco años naturales positivos consecutivos** (+7,6 %, +7,7 %, +8,7 %, +13,7 %, +10,6 %). Es el único vehículo del catálogo con ese historial y esa descorrelación. Su 44 % de «renta variable» en el MCP es exposición bruta larga/corta, no dirección: en el look-through de esta cartera cuenta como 0 % de RV direccional, y así se declara.
+
+**Pega:** TER 1,55 % **más 20 % de comisión de éxito** sobre máximos históricos: en un año del +15 % el coste real se va a ≈4,5 %. Es la línea más cara del conjunto y la que más se tiene que ganar el sitio.
+
+### Cartesio X FI — 12.000 € (12,00 %) · Mixto defensivo
+
+`ES0116567035` · Cartesio Inversiones · TER 0,63 % · éxito 7,50 % · mínimo 6.000,00 € · corte 10:00 · SRRI 3
+
+12 % en un mixto defensivo español con 9 % de RV y 81 % de RF corporativa (71 % del total en bonos corporativos): 3A +7,5 %, 5A +4,9 % y un 2022 de solo −2,9 %. Es el fondo que mejor ha resuelto el binomio «poca bolsa, retorno real» del universo español.
+
+**Pega:** Comisión de éxito del 7,5 % y un mínimo inicial de 6.000 € — el más alto de las cinco carteras, y el que fija el suelo de esta línea: no puede bajar de 6.000 € si se quiere aportar más adelante. 25 % en Francia y 21 % en España: riesgo país concentrado en dos emisores soberanos y su banca.
+
+### Dunas Valor Equilibrado R FI — 12.000 € (12,00 %) · Retorno absoluto
+
+`ES0175414012` · Dunas Capital AM · TER 1,19 % · éxito 11,00 % · mínimo 1,00 € · corte 14:00 · SRRI 2
+
+12 % en retorno absoluto multiestrategia con exposición neta a bolsa entre −15 % y +40 %: 3A +4,7 %, 5A +4,2 % y volatilidad 3A 2,05 %, la más baja del bloque después del monetario. Aporta algo que ninguna otra línea de la cartera aporta: la capacidad de ponerse corto de bolsa.
+
+**Pega:** Comisión de éxito del 11 % sobre Euríbor + 200 pb y un 25 % en liquidez, que es dinero parado pagando 1,19 %. Sin 3A en el snapshot original: el dato viene de Finect.
+
+### Sissener SICAV - Sissener Corporate Bond Fund R EUR — 12.000 € (12,00 %) · Crédito corporativo nórdico
+
+`LU2262944817` · Sissener · TER 0,90 % · éxito 20,00 % · mínimo 0,001 participaciones · corte 10:00 · SRRI 2
+
+12 % en crédito corporativo nórdico: 87 % bonos corporativos, 3A +6,7 %, 5A +5,5 % y volatilidad 3A de 2,06 %. Es el sustituto directo del «Sissener Canopus» que pedía el listado —ese fondo no está en el catálogo de MyInvestor—, con el mismo equipo y una política de crédito corporativo en lugar de multiactivo.
+
+**Pega:** Comisión de éxito del 20 % sobre Euríbor 3M + 1 % con high water mark (KID): el MCP no la publica y el coste real estimado por el propio KID es 1,7 % anual. 42 % en Noruega.
+
+### Twelve Capital UCITS ICAV - Twelve Cat Bond Fund P EUR Acc — 6.000 € (6,00 %) · Bonos catastróficos
+
+`IE00BD2B9710` · Twelve Capital · TER 1,28 % · sin comisión de éxito · mínimo 1,00 € · corte 14:00 · SRRI 2
+
+6 % en bonos catastróficos: 3A +9,3 %, 5A +6,9 % y volatilidad 3A de 2,26 %, con correlación estructuralmente baja con bolsa y tipos porque el riesgo es un huracán, no un ciclo económico. Es el activo con mejor ratio retorno/volatilidad de toda la cartera.
+
+**Pega:** TER 1,28 % para el bloque más pequeño, 8 días de suscripción y 10 de reembolso (no es liquidez diaria), y un evento catastrófico grande puede llevarse varios puntos en una sola semana. El 4A de −4,8 % es la muestra.
+
+### Pictet-Sovereign Short-Term Money Market EUR P — 6.000 € (6,00 %) · Liquidez
+
+`LU0366536711` · Pictet AM · TER 0,18 % · sin comisión de éxito · mínimo 0,00 participaciones · corte 10:00 · SRRI 1
+
+6 % de liquidez remunerada al 0,18 %: 96 % en efectivo y deuda pública de muy corta duración, SRRI 1, 3A +2,67 %. Es el colchón de la cartera y lo primero que se vende si hace falta dinero sin tocar bolsa.
+
+**Pega:** Paga poco más que la inflación y su 4A fue −0,3 %: no es una inversión, es un aparcamiento con coste casi nulo.
+
+### iShares Euro Government Bond Index Fund (IE) D Acc EUR — 12.000 € (12,00 %) · Deuda pública euro
+
+`IE00BD0NC037` · BlackRock · TER 0,10 % · sin comisión de éxito · mínimo 1,00 € · corte 09:00 · SRRI 3
+
+12 % en deuda pública de la eurozona al 0,10 %: Francia 25 %, Italia 22 %, Alemania 20 %, España 14 %. Es el bloque de duración de la cartera — el único activo que sube cuando los tipos bajan — y se compra al coste mínimo del catálogo.
+
+**Pega:** 3A +1,50 % y 5A −2,89 %: es el bloque que peor ha pagado el ciclo de tipos y su única razón de estar es la cobertura de recesión. 22 % en Italia.
+
+### Vanguard Global Stock Index Fund EUR Acc — 32.000 € (32,00 %) · Núcleo de renta variable
+
+`IE00B03HD191` · Vanguard · TER 0,18 % · sin comisión de éxito · mínimo 1,00 € · corte 10:00 · SRRI 4
+
+32 % —el motor de la cartera—: MSCI World al 0,18 %, 3A +17,4 % y 5A +10,0 %. Es el único bloque que da retorno real; sin él, los 68.000 € restantes rinden entre el 2 % y el 7 % y la cartera no bate a la inflación.
+
+**Pega:** Es exactamente el mismo índice que el núcleo de C1 y el de C3 en otro vehículo: cuatro carteras del conjunto compran el MSCI World con cuatro ISIN distintos. Se dice aquí porque un crítico lo va a encontrar.
+
+## 7. Órdenes
+
+Una sola sesión, todas por importe. **La primera orden de cada fondo tiene que despejar su mínimo inicial**, así que el importe de la tabla es el de la primera y única orden de esa línea: no hay fraccionamiento que pueda ser rechazado.
+
+| # | Fondo | Importe | Hora de corte (destino) | Mínimo inicial |
+| --: | --- | --: | :--: | --: |
+| 1 | Jupiter Merian GEAR L EURH | 8.000 € | 12:00 | 1,00 € |
+| 2 | Cartesio X FI | 12.000 € | 10:00 | 6.000,00 € |
+| 3 | Dunas Valor Equilibrado R | 12.000 € | 14:00 | 1,00 € |
+| 4 | Sissener Corporate Bond R | 12.000 € | 10:00 | 0,001 participaciones |
+| 5 | Twelve Cat Bond P EUR | 6.000 € | 14:00 | 1,00 € |
+| 6 | Pictet Sovereign ST MM EUR P | 6.000 € | 10:00 | 0,00 participaciones |
+| 7 | iShares Euro Government Bond D | 12.000 € | 09:00 | 1,00 € |
+| 8 | Vanguard Global Stock EUR Acc | 32.000 € | 10:00 | 1,00 € |
+
+Sin coste de entrada ni de salida en ninguna de las líneas. La liquidación tarda entre 2 y 4 días según el fondo (Pictet monetario y los fondos españoles liquidan antes; los luxemburgueses con suscripción T+3/T+4, los últimos). Twelve Capital es la excepción: 8 días de suscripción y 10 de reembolso, no es liquidez diaria.
+
+## 8. Qué se descarta
+
+Descartes del universo con el número que los descarta. Los trece fondos que pidió el titular se evalúan uno a uno en el `README.md` de la carpeta.
+
+- **Algebris Global Credit Opportunities R EUR (IE00BYT35X57)** — es el único Algebris de crédito del catálogo y no es el «Algebris Financial Credit» del listado. TER 1,60 % + 15 % de éxito, mínimo 10.000 €, 3A +3,57 % y YTD −2,16 %. Frente a Pareto (0,84 %, 3A +2,90 %, duración 0,4) paga el doble por 0,7 pp más de retorno con riesgo de financieras subordinadas. Su ficha del catálogo es genérica («RF Agregado, Corporativo, Gubernamental») y no permite sostener la compra.
+- **Algebris Financial Equity I GBP (IE00BWY57036)** — 3A +28,6 % con TER 0,91 %, el mejor fondo de financieras del catálogo. **No es comprable**: mínimo inicial de 500.000 €.
+- **BlueBox Global Technology Fund Class I (LU1793346823)** — TER 1,20 % y 3A +21,4 %, mejor que el satélite elegido. **No es comprable**: mínimo inicial de 150.000 €. Se toma DNB Technology (1,56 %) como sustituto y el precio del acceso es 0,36 pp sobre 10.000 € = 36 €/año.
+- **Dodge & Cox Worldwide Global Stock EUR (IE00B55JMJ98)** — TER 0,63 % y 3A +15,1 % con 4A −0,4 %: el mejor fondo global barato del catálogo. **No es comprable en una cartera de cinco**: mínimo inicial de 50.000 €, la mitad de la cartera, y la primera orden tiene que despejarlo.
+- **Ábaco Renta Fija Mixta Global C FI (ES0140072028)** — el fondo del listado con peor perfil del bloque: SRRI 4 con solo 22 % de RV, TER 1,51 % y 3A +4,01 %. Dunas Valor Equilibrado da 3A +4,68 % con 6,4 % de RV y SRRI 2. Es dominado en las tres columnas.
+- **M&G (Lux) Emerging Markets Bond Fund (LU1670631107)** — en el catálogo solo existe la clase **de distribución** (A EUR Inc): la regla de la casa es acumulación, y la clase de acumulación no está en la plataforma. Además duración 6,08 años y rating medio BBB−, que en una cartera con 45 % de renta fija mete riesgo de tipos donde el diseño pide carry.
+- **Sissener Canopus** — no está en el catálogo de MyInvestor. El sustituto es el mismo equipo con política de crédito corporativo (Sissener Corporate Bond R, 0,90 %, 3A +6,7 %), que es la parte de la estrategia que encaja en una cartera defensiva.
+- **Okavango Delta A FI (ES0167211038)** — 3A +28,0 % y TER 1,51 %, un historial excelente. **Descartado por soft close**: el aviso del MCP dice «Fondo en Soft Close» y solo admite partícipes existentes.
+- **Vanguard U.S. 500 Stock Index Investor EUR (IE0032620787)** — la clase barata del S&P 500 que aparecía en el catálogo está **en soft close**; el propio aviso del MCP remite a la clase Institutional (IE0032126645), que es la que se compra.
+- **Morgan Stanley US Growth A (LU0073232471)** — 3A +21,9 % con TER 1,63 %, pero SRRI 6, volatilidad 3A 29,4 %, 4A −60,6 % y 1A −4,2 %. En una cartera de convicción con ocho líneas, una posición del 10 % con esa caída se come el año.
+- **Ábaco, Merchbanc, Pareto, Storm, Cartesio, Dunas y Sissener como bloque entero de renta fija** — se evalúan individualmente: cinco de los siete entran en C3 y C4 (Pareto, Storm, Merchbanc, Cartesio, Dunas, Sissener). Los dos que sobran —Ábaco y Algebris— se descartan por número, no por categoría.
+
+## 9. Revisión y disparadores
+
+- **Revisión anual, no trimestral.** Esta cartera no tiene un mecanismo que medir cada trimestre: se revisa una vez al año, o antes si cambia el horizonte, el colchón fuera de cartera o la tolerancia a la caída.
+- **Disparador de riesgo:** si la caída real supera el −18,1 % (el escenario de manual con un 20 % de margen), la cartera no se toca: se revisa si el horizonte sigue siendo el mismo. Vender en la caída es la única decisión que la fórmula no contempla.
+- **Disparador de coste:** si una línea sube su TER más de 0,25 pp o introduce una comisión de éxito, se compara con la alternativa del catálogo y se traspasa solo si el ahorro supera el coste fiscal de un traspaso (que en fondos es 0 %).
+- **Disparador de soft close:** cualquier aviso nuevo de soft close en una línea obliga a buscar sustituto antes de la siguiente aportación, no después de que la app rechace la orden.
+
+---
+
+*Datos de fichas y MCP a 20/11/2026. Rentabilidades pasadas no garantizan futuras. Este documento no es una recomendación de inversión: es el resultado de un encargo con un criterio declarado.*

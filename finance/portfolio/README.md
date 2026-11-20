@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veintisiete carteras propias y una de referencia"
+title: "Cartera: veintiocho carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek]
 status: living
 ---
-# Cartera: veintisiete carteras propias y una de referencia
+# Cartera: veintiocho carteras propias y una de referencia
 
-Veintisiete patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintiocho patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -42,6 +42,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-rock-desmontado/` | **Una talla, 100.000 €**, **Rock desmontado por traspaso** y su cupo gastado en índice limpio: núcleo MSCI World al 0,06 %, emergentes, small caps y REITs indexados, RF corta indexada, monetario de 14.500 € y **dos satélites activos** (Europa low-vol y cat bonds). 55,31 % de RV real, **236,10 €/año (0,236 %)**, −23,46 % de caída | Un fichero (`100k.md`): la cartera entera (ISIN, métricas contra las otras propuestas, 20 traspasos en dos fases y descartes con número) |
 | `cartera-ai-fondos-2000-lista/` | **Dos carteras de 100.000 € con un criterio cada una**, tras retirar el 20/11 las tres que no aportaban frente a lo ya existente: C2 convicción activa (1,2486 %) y C4 defensiva con alternativos (0,7661 %). La condición del titular de **ningún fondo repetido entre ellas** se cumple con 21 fondos distintos | `README.md` de mapa + `C2-conviccion-activa.md` y `C4-defensiva-alternativos.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-fondos-2000-lista-glm/` | **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1098 %, convicción activa 1,1801 %, equilibrada 55/45 0,4250 %, defensiva con alternativos 0,7277 % y crecimiento con satélites 0,9423 %), de 34,91 % a 87,64 % de RV. La condición del titular de **ningún fondo repetido entre las cinco** se cumple con 50 fondos distintos, verificados en el MCP | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
+| `cartera-ai-fondos-2000-lista-deepseek/` | **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1292 %, convicción activa 1,4344 %, equilibrada con crédito activo 0,4929 %, defensiva con alternativos 0,6076 % y crecimiento con satélites 0,7646 %), de 34,06 % a 99,48 % de RV, con **37 fondos sin repetir** entre ellas y **diez de los trece fondos que nombró el titular** dentro. Sin lista negra heredada | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
 rebalancea y no compite con las anteriores del dueño. Se actualiza con la skill `cartera-andres` cuando se
@@ -222,6 +223,21 @@ clase nueva) y dos clases exigían mínimos de 100.000-500.000 €. La no-repeti
 por código sobre el markdown escrito: 50 líneas, 50 ISIN, 50 fondos. Con la cartera hermana
 `cartera-ai-fondos-2000-lista/` el solape es 1 de 50 (Hermes Asia ex-Japan R), documentado en su `validacion.md`.
 
+`cartera-ai-fondos-2000-lista-deepseek/` es el **tercer diseño del mismo encargo**, con una diferencia de
+método: parte de los **trece fondos que el titular puso sobre la mesa** y los evalúa uno a uno antes de
+diseñar. Diez entran y tres se caen por número (Algebris Financial Credit no existe en el catálogo en su
+versión de crédito, el M&G EM Bond solo tiene clase de reparto y el Ábaco RF Mixta Global está dominado por
+Dunas en las tres columnas). Las cinco carteras van de **34,06 % a 99,48 % de RV** y de **129,20 € a
+1.434,40 €/año**: índice de coste mínimo (69,47 % de RV por 129,20 €), convicción activa (97,60 % por
+1.434,40 €), equilibrada con crédito activo (55,05 % por 492,90 €), defensiva con alternativos (34,06 % por
+607,60 €) y crecimiento con satélites (99,48 % por 764,60 €). **37 fondos sin repetir**, comprobados por
+ISIN, por nombre normalizado y por clase hermana; el test cazó un duplicado real (dos clases del mismo
+iShares Emerging Markets) que obligó a rehacer la última cartera. Solape con las hermanas: **6 de 37**,
+publicado con el precio de la alternativa en su `README.md`. La verificación de plataforma fue de **54 ISIN
+en 8 llamadas** y cambió seis decisiones: dos soft close (Vanguard US 500 Investor y Okavango Delta) y cuatro
+mínimos inalcanzables (Dodge & Cox 50.000 €, BlueBox I 150.000 €, Algebris Financial Equity I 500.000 €,
+M&G Japan Smaller 500.000 €).
+
 ## Reglas
 
 - **Un dato, un sitio.** En las carteras con dinero real los saldos viven en su `cartera-actual.md` y las
@@ -255,6 +271,7 @@ por código sobre el markdown escrito: 50 líneas, 50 ISIN, 50 fondos. Con la ca
 - **`cartera-ai-fondos-2000-lista` (20/11/2026, sin ejecutar):** dos ficheros de criterio tras retirar C1, C3 y C5 por no aportar frente a carteras ya existentes, **21 fondos sin repetir**, RV de 35,49 % (C4) y 78,65 % (C2), coste de 766,10 € y 1.248,60 €/año. Sin lista negra heredada; 21/21 clases de acumulación; mínimos verificados y una comprobación web puntual. Pendientes: horizonte, colchón, aportaciones y fecha de ejecución.
 
 - **`cartera-ai-fondos-2000-lista-glm` (20/11/2026, sin ejecutar):** las cinco carteras completas del mismo encargo, **50 fondos sin repetir entre ellas** (50 líneas, 50 ISIN, comprobados por código), RV de 34,91 % (C4) a 87,64 % (C5), coste de 109,80 € a 1.180,10 €/año. Sin lista negra heredada; 50/50 clases de acumulación; 60 ISIN verificados en el MCP con cuatro correcciones de diseño (TER real, fondo cerrado, soft close y dos mínimos). Solape con la cartera hermana: 1 de 50. Pendientes: horizonte, colchón, aportaciones y fecha de ejecución.
+- **`cartera-ai-fondos-2000-lista-deepseek` (20/11/2026, sin ejecutar):** cinco carteras de 100.000 € con un criterio cada una, **37 fondos sin repetir entre ellas** (37 líneas, 37 ISIN, comprobados por código por ISIN, nombre normalizado y clase hermana), RV de 34,06 % (C4) a 99,48 % (C5), coste de 129,20 € a 1.434,40 €/año. Diez de los trece fondos que nombró el titular entran. Sin lista negra heredada; 37/37 clases de acumulación; 54 ISIN verificados en el MCP con seis correcciones de diseño (dos soft close y cuatro mínimos inalcanzables). Solape con las hermanas: 6 de 37, con el precio de la alternativa escrito. Pendientes: horizonte, colchón, aportaciones y política sobre comisiones de éxito.
 
 - **`cartera-ai-final-qwen4max` (19/11/2026, sin ejecutar):** `110k.md`. Desde cero, 110.000 € con 10.000 en
   Groupama: **10 fondos + monetario**, **84,15 % de RV real**, **598,50 €/año (0,544 %)**, caída de manual

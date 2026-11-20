@@ -16,6 +16,13 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/portfolio/cartera-ai-fondos-2000-lista-glm/C3-equilibrada-55-45.md` | portfolio-proposal | finance | 2026-11-20 | C3 — Equilibrada 55/45 (100.000 €) | [equilibrada, mixto, 55-45, fondo-de-fondos, renta-fija] |
 | `finance/portfolio/cartera-ai-fondos-2000-lista-glm/C2-conviccion-activa.md` | portfolio-proposal | finance | 2026-11-20 | C2 — Convicción activa (100.000 €) | [gestion-activa, value, conviccion, japon, asia, latinoamerica, india] |
 | `finance/portfolio/cartera-ai-fondos-2000-lista-glm/C1-indice-coste-minimo.md` | portfolio-proposal | finance | 2026-11-20 | C1 — Índice de coste mínimo (100.000 €) | [indexado, coste-minimo, msci-world, emergentes, small-cap, renta-fija-indexada] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista-deepseek/validacion.md` | reference | finance | 2026-11-20 | Validación — cartera-ai-fondos-2000-lista-deepseek | [cartera, validacion, cartera-ai-fondos-2000-lista-deepseek] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista-deepseek/fondos-revisados.md` | reference | finance | 2026-11-20 | Fondos revisados — cartera-ai-fondos-2000-lista-deepseek | [fondos, myinvestor, revision, cartera-ai-fondos-2000-lista-deepseek] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista-deepseek/C5-crecimiento-satelites.md` | reference | finance | 2026-11-20 | C5 — Crecimiento con satélites · 100.000 € | [cartera, fondos, myinvestor, cartera-ai-fondos-2000-lista-deepseek, c5] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista-deepseek/C4-defensiva-alternativos.md` | reference | finance | 2026-11-20 | C4 — Defensiva con alternativos · 100.000 € | [cartera, fondos, myinvestor, cartera-ai-fondos-2000-lista-deepseek, c4] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista-deepseek/C3-equilibrada-credito-activo.md` | reference | finance | 2026-11-20 | C3 — Equilibrada con crédito activo · 100.000 € | [cartera, fondos, myinvestor, cartera-ai-fondos-2000-lista-deepseek, c3] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista-deepseek/C2-conviccion-activa.md` | reference | finance | 2026-11-20 | C2 — Convicción activa · 100.000 € | [cartera, fondos, myinvestor, cartera-ai-fondos-2000-lista-deepseek, c2] |
+| `finance/portfolio/cartera-ai-fondos-2000-lista-deepseek/C1-indice-coste-minimo.md` | reference | finance | 2026-11-20 | C1 — Índice de coste mínimo · 100.000 € | [cartera, fondos, myinvestor, cartera-ai-fondos-2000-lista-deepseek, c1] |
 | `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-19 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
 | `finance/portfolio/cartera-vanguard/100k.md` | portfolio-proposal | finance | 2026-11-19 | Cartera solo Vanguard: nueve indexados, 74,95 % de RV y 178,50 €/año (100.000 €) | [cartera, propuesta, vanguard, indexado, gestora-unica, diversificacion, myinvestor, fondos, renta-fija, renta-variable, emergentes, small-caps, rentabilidad-esperada] |
 | `finance/portfolio/cartera-horos/100k.md` | portfolio-proposal | finance | 2026-11-19 | Cartera solo Horos: los 3 fondos de la casa, 70,5 % de RV y ≈6,0 % esperado (100.000 €) | [cartera, propuesta, horos, value, myinvestor, fondos, renta-fija, iberia, small-caps, rentabilidad-esperada, gestora-unica] |
@@ -160,6 +167,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 154
+**Total de artefactos indexados:** 161
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
