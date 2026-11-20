@@ -48,8 +48,8 @@ cero monetario y cero comisiones de éxito**, y **≈6,83 % de rentabilidad espe
 - **`cartera-ai-no-indexados/`** es lo contrario en la primera condición: allí **nada** es indexado y el coste
   es del 1,37 %. Aquí el 60 % es índice al 0,070 %, porque la fuente dice que el beneficio de la duda es del
   índice. Comparten la escuela value y tres gestoras, pero no la proporción.
-- **`cartera-cobas/`** es una apuesta de gestora única; esta usa Cobas solo como una décima parte y en su clase
-  barata (0,96 %), no en la internacional (2,33 % y en *soft close*).
+- **Una cartera de gestora única** sería una apuesta a un solo proceso; esta usa Cobas solo como una décima parte
+  y en su clase barata (0,96 %), no en la internacional (2,33 % y en *soft close*).
 - **`cartera-definitiva-40/`** es la alternativa si el titular no firma el 100 % en bolsa: cuesta 96 €/año y cae
   −34,25 %, pero lleva 15 % de renta fija. La diferencia de esperanza (6,83 % frente a 6,16 %) es,
   literalmente, el precio de la primera frase de la entrevista.

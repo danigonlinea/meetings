@@ -1,14 +1,14 @@
 ---
-title: "Cartera: treinta carteras propias y una de referencia"
+title: "Cartera: veintisiete carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek, cartera-ai-letter-keinesei-twitter, cartera-ai-azvalor-consejo]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek, cartera-ai-letter-keinesei-twitter, cartera-ai-azvalor-consejo]
 status: living
 ---
-# Cartera: treinta carteras propias y una de referencia
+# Cartera: veintisiete carteras propias y una de referencia
 
-Treinta patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintisiete patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -28,7 +28,6 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-100-index-5/` | **Dos tallas, desde cero, con las tres cláusulas**: solo indexados, nada que reparta dividendos y **ningún fondo ya elegido en otra cartera**, esta vez pedido por el titular (`100k.md`, núcleo MSCI World + Europa + emergentes + agregado global cubierto, **84,95 % RV**, **0,1930 %**; `200k.md`, los mismos 4 fondos y pesos, 0,1930 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, lista negra verificada por ISIN y por fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-3/` | **Dos tallas con dos condiciones únicas, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 80 % RV, 1,5472 %; `200k.md`, mismos 7 + 3 más crédito corto, 80 %, 1,5268 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-4/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,5961 %; `200k.md`, 8 + 3 con small caps EE. UU., 70 %, 1,5851 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
-| `cartera-vanguard/` | **Una talla, 100.000 €**, con **solo fondos de Vanguard** y ninguna otra condición: 40 % MSCI World, 10 % Europa, 10 % emergentes, 10 % small caps, 5 % Japón y 25 % de renta fija en cuatro tramos. **74,95 % de RV real**, **178,50 €/año (0,1785 %)**, caída **−30,73 %** y **≈5,89 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, los tres bloques, geografía por *look-through*, tilts con precio, métricas, dos variantes, 9 órdenes en tres cortes, descartes con número y señales) |
 | `cartera-definitiva-40/` | **Una talla, 100.000 €, a los 40 años**: la cartera más barata del repositorio con cuatro indexados —65 % MSCI World al 0,06 %, 10 % emergentes, 10 % small caps y 15 % RF global 1-5 años cubierta—, **84,46 % de RV real**, **96,00 €/año (0,096 %)**, caída **−34,25 %** y **≈6,16 % esperado**, con plan de aportación y glide de edad | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía y sectores, tres variantes de edad, esperanza con supuestos, tabla de aportaciones, plan completo, 4 órdenes, descartes con número y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 | `cartera-ai-final-conservadora/` | **Una talla, 100.000 €**: la cartera del 18/11 con el crédito consolidado en Neuberger (**12 fondos**, **54,6 % de RV**, **509,70 €/año (0,566 %)**, duración 1,61) y **≈4,8 % de rentabilidad esperada anual** con rango 2,3-6,8 % y supuestos escritos | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, coste, duración, rentabilidad esperada con su método, 22 órdenes en dos fases, 1.000 €/mes, descartes con número y señales) |
@@ -37,8 +36,6 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-final-qwen4max/` | **Una talla, 110.000 €**: mismo mandato que la atrevida (10.000 € en Groupama, sin ETF ni reparto) con otro criterio: **el índice es el edificio** (65 % de lo invertible) y la convicción activa la pieza (29 %). 10 fondos, **84,15 % de RV real**, **598,50 €/año (0,544 %)**, caída −34,1 %, **≈6,2 % esperado** con rango 4,1-7,5 % | Un fichero (`110k.md`): la cartera entera (ISIN, dos bases, bloques, geografía, tilts, esperanza con supuestos y escenario sin prima, comparador indexado con alfa de empate, 11 órdenes y descartes con número) |
 | `cartera-ai-final-hy3/` | **Una talla, 110.000 €**: versión final revisada el 19/11 tras crítica externa, con **10.000 € en el monetario** por mandato y 9 fondos sin ETF (**84,16 % de RV real**, **527,60 €/año (0,4796 %)**, caída −34,14 %, **≈6,21 % esperado** con rango 4,10-7,47 %). Sin Fundsmith, Robeco ni Hermes | Un fichero (`110k.md`): la cartera entera (ISIN, bloques, geografía, tilts, auditoría de la crítica en §0, comparador indexado, 10 órdenes y descartes con número) |
 | `cartera-ai-rock-index-value-todo/` | **Una talla, 100.000 €**, con **Rock como pieza de indexado** (30 %, intacta), **monetario escalonado de 14.000 €** (Groupama €STR + DWS Euro Ultra Short) y **trece fondos que no replican índices**: 55,5 % de RV real, 0,615 % de coste total, −23,54 % de caída de manual | Un fichero (`100k.md`): la cartera entera (ISIN, razón fondo a fondo, métricas, 17 traspasos, descartes con número y señales) |
-| `cartera-cobas/` | **Una talla, 100.000 €**, con **solo fondos de Cobas** y ninguna otra condición: 30 % Cobas Renta, 40 % Cobas Large Cap y 30 % Cobas Selection. **50,52 % de RV declarada (≈74 % cauta)**, **1.278 €/año (1,28 %)** y **≈5,7 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, los tres bloques, la lectura declarada frente a la cauta del cajón «otros», métricas, 3 órdenes, descartes con número y señales) |
-| `cartera-horos/` | **Una talla, 100.000 €**, con **solo fondos de Horos**: 55 % Horos Value Internacional, 20 % Horos Value Iberia y 25 % Horos Patrimonio. **70,53 % de RV**, **1.626,50 €/año fijo (1,63 %)** + éxito, **≈6,0 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía ibérica al 28,8 % de la RV, 3 órdenes, descartes y señales) |
 | `cartera-ai-rock-desmontado/` | **Una talla, 100.000 €**, **Rock desmontado por traspaso** y su cupo gastado en índice limpio: núcleo MSCI World al 0,06 %, emergentes, small caps y REITs indexados, RF corta indexada, monetario de 14.500 € y **dos satélites activos** (Europa low-vol y cat bonds). 55,31 % de RV real, **236,10 €/año (0,236 %)**, −23,46 % de caída | Un fichero (`100k.md`): la cartera entera (ISIN, métricas contra las otras propuestas, 20 traspasos en dos fases y descartes con número) |
 | `cartera-ai-fondos-2000-lista/` | **Dos carteras de 100.000 € con un criterio cada una**, tras retirar el 20/11 las tres que no aportaban frente a lo ya existente: C2 convicción activa (1,2486 %) y C4 defensiva con alternativos (0,7661 %). La condición del titular de **ningún fondo repetido entre ellas** se cumple con 21 fondos distintos | `README.md` de mapa + `C2-conviccion-activa.md` y `C4-defensiva-alternativos.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-fondos-2000-lista-glm/` | **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1098 %, convicción activa 1,1801 %, equilibrada 55/45 0,4250 %, defensiva con alternativos 0,7277 % y crecimiento con satélites 0,9423 %), de 34,91 % a 87,64 % de RV. La condición del titular de **ningún fondo repetido entre las cinco** se cumple con 50 fondos distintos, verificados en el MCP | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
@@ -61,33 +58,17 @@ múltiplo y señal de invalidación, pensadas para convivir con la cartera una v
 No se financia vendiendo ninguna de las dos carteras ni se consolida con ellas. La cartera con acciones
 propias y separada es la de `cartera-ai/`; `cartera-ai-andres/` no lleva acciones a propósito.
 
-`cartera-cobas/` y `cartera-horos/` son **dos diseños desde cero con una sola condición de gestora** cada uno
-—100.000 € y solo fondos de esa casa—, pedidos el 19/11/2026 y **sin ninguna regla heredada** del repositorio.
-No derivan de las otras carteras y no se suman entre sí: cada una responde a su mandato. Lo que el mandato
-impone está escrito en cada documento y no se disimula: en Cobas, los tres fondos de RV son el mismo libro (y los
-cuatro fondos españoles de la gestora no están en la plataforma), así que el único contrapeso es Cobas Renta; en
-Horos, la casa solo tiene dos fondos de RV y un fondo de renta fija nacido el 17/10/2025, de modo que la cartera
-es una apuesta value small/mid con **28,8 % de la RV en España y Portugal**. Cobas se documenta con **dos
-lecturas de riesgo** —RV declarada 50,52 % frente a 74,12 % si el cajón «otros» es renta variable, que es la que
-gobierna la caída de −30,4 %— porque un tercio de esas fichas no desglosa su exposición.
-
-`cartera-vanguard/` es **la tercera respuesta a un mandato de gestora única** y la única de las tres que es
-diversificada: **100.000 € y solo fondos de Vanguard**, pedidos el 19/11/2026 con la condición explícita de
-diversificar. Donde Cobas y Horos se quedan en tres fondos y un sesgo porque la casa no tiene más, Vanguard tiene
-**91 fondos en catálogo** y el diseño usa **nueve**: MSCI World al 40 %, Europa al 10 %, emergentes al 10 %, small
-caps globales al 10 % y Japón al 5 %, más **25 % de renta fija en cuatro tramos** (agregado global cubierto,
-soberana euro, ligada a inflación y corta global). Coste **178,50 €/año (0,1785 %)**, **74,95 % de RV real**,
-caída de manual **−30,73 %** y **≈5,89 % de rentabilidad esperada**. Lo que el mandato sí impone y está escrito:
-**el 46,9 % de la RV sigue siendo EE. UU.** (frente al 72,7 % del MSCI World, y ese tilt cuesta ≈0,55 pp/año si
-América sigue ganando) y **no hay diversificación de gestora**, solo de índice, región, tamaño, tipo de bono y
-duración. La descripción del índice del fondo soberano euro venía cruzada en la ficha del catálogo y se verificó
-con su **KID oficial de Vanguard** antes de dejarlo en la cartera.
+El 20/11/2026 el titular retiró `cartera-cobas/`, `cartera-horos/` y `cartera-vanguard/`: las tres eran la
+respuesta a un mandato de **gestora única** y su criterio —«no tiene sentido una única gestora para una única
+cartera»— deja esos diseños fuera del árbol. Los tres documentos siguen en el historial de git. Las cifras que
+otras carteras citaban contra ellas (1.278 €/año de Cobas, 1.626,50 € de Horos, 178,50 € de Vanguard y el tilt
+de 46,9 % en EE. UU. que costaba ≈0,55 pp/año) se mantienen donde hacían falta, sin enlace: el número no cambia
+porque el fichero se haya ido.
 
 `cartera-definitiva-40/` es **la cartera de referencia del titular a su edad** (40 años, 19/11/2026) y no nace de
 ninguna otra: cuatro indexados, **96,00 €/año (0,096 %)** —la más barata del repositorio—, **84,46 % de RV real**,
 caída **−34,25 %** y **≈6,16 % esperado**. La decisión de diseño es una sola: **cuánta bolsa a los 40**, y la
-respuesta es 85/15 con el colchón fuera. No hay tilt de país (el 62 % de EE. UU. es el peso del mundo, a diferencia
-de `cartera-vanguard/`), no hay estilo, ni sector, ni comisión de éxito. Lo demás está escrito como plan: colchón de
+respuesta es 85/15 con el colchón fuera. No hay tilt de país (el 62 % de EE. UU. es el peso del mundo), no hay estilo, ni sector, ni comisión de éxito. Lo demás está escrito como plan: colchón de
 6-12 meses fuera, aportación automática mensual —**con 1.000 €/mes el capital a los 67 pasa de ≈502.000 € a
 ≈1.308.000 €**—, rebalanceo por bandas de ±5 pp con aportaciones y **glide de edad desde los 55** (1 pp/año de RV a
 renta fija). Su variante 70/30, para horizontes de 5-7 años, es 99,30 €/año y −28,74 % de caída.
@@ -402,32 +383,6 @@ precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo qu
   (asumido 15+ años), tolerancia a la caída (−35,5 %), las concesiones (cero small caps, cero inmobiliario, cero
   ligado a inflación y emergentes con filtro ESG), la relectura por MCP cuando el límite se reponga y qué talla
   se ejecuta.
-- **cartera-cobas (19/11/2026, sin ejecutar):** `100k.md`. Solo fondos de Cobas y ninguna otra condición: **3
-  fondos** (Cobas Renta 30 %, Large Cap 40 %, Selection 30 %), RV declarada **50,52 %** frente a **74,12 %** en la
-  lectura cauta, caída **−30,4 %**, coste **1.278 €/año (1,278 %)** —1.098 € si Large Cap cobra los 0,96 % de la
-  ficha— y **≈5,7 % esperado** (4,5-6,5 %). **3 órdenes** en una sesión (12:00 y 14:00). Descartados con número:
-  Cobas International (mismo libro, 0,28 pp más caro, 84 €/año), los dos planes de pensiones Cobas (no son
-  fondos) y los cuatro fondos españoles de la gestora (**no están en el catálogo**). Pendientes: horizonte
-  (asumido 10+ años), tolerancia a −30,4 %, el TER real de Large Cap y **el soft close inminente de los dos
-  fondos de RV**, que obliga a abrir el 70 % ahora o nunca.
-- **cartera-horos (19/11/2026, sin ejecutar):** `100k.md`. Solo fondos de Horos: **3 fondos** (Value
-  Internacional 55 %, Value Iberia 20 %, Patrimonio 25 %), **70,53 % de RV**, caída **−29,1 % (−29.095 €)**,
-  **1.626,50 €/año de coste fijo (1,63 %)** más ≈37,50 € de comisión de éxito, **≈6,0 % esperado** (4,3-7,1 %).
-  **3 órdenes** a las 12:00. Descartados: los dos planes de pensiones de la casa (no son fondos) y un segundo
-  fondo de renta fija que **no existe**. Pendientes: horizonte (asumido 10+ años), tolerancia a la caída, el TER
-  real de Patrimonio (no publicado) y si se acepta que el 25 % del dinero esté en un fondo de 11 meses con 5 % de
-  éxito.
-- **cartera-vanguard (19/11/2026, sin ejecutar):** `100k.md`. Solo fondos de Vanguard y **diversificar** como
-  condición: **9 fondos** (World 40 %, Europa 10 %, emergentes 10 %, small caps 10 %, Japón 5 %, agregado global
-  cubierto 11 %, soberana euro 6 %, ligada a inflación 4 %, corta global 4 %), **74,95 % de RV real**, caída
-  **−30,73 % (−30.733 €)**, **178,50 €/año (0,1785 %)**, **cero comisiones de éxito** y **≈5,89 % esperado**
-  (4,02-7,76 %). **9 órdenes en tres cortes** (10:00, 12:00 y 16:00), todas con mínimo de 1 €. Dos variantes
-  escritas: 60/40 (170,40 €, −25,19 % de caída, 5,33 %) y seis líneas (187,50 €, 5,74 %). Descartados con número:
-  U.S. 500 (8 pb más barato y 20 pp más de EE. UU.), Pacífico ex-Japón (2 % del dinero), ESG All Cap (9 €/año más y
-  exclusiones ajenas), Euro IG (+1,45 pp de 3A por riesgo de crédito), bonos 20+ (convierten el colchón en el
-  riesgo) y U.S. Opportunities (**mínimo 100.000 €**). Pendientes: horizonte (asumido 10+ años), tolerancia a
-  −30,7 %, si se acepta el tilt de 27 pp contra EE. UU., la duración real de los cuatro fondos de RF y la fecha de
-  ejecución.
 - **cartera-definitiva-40 (19/11/2026, sin ejecutar):** `100k.md`. **La cartera de referencia a los 40**: **4
   fondos** (iShares Developed World S 65 % al **0,06 %**, iShares Emerging Markets S 10 %, Vanguard Global
   Small-Cap 10 %, iShares Global Aggregate 1-5Y EUR H 15 %), **84,46 % de RV real**, **96,00 €/año (0,096 %)**,

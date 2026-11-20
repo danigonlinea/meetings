@@ -9,7 +9,6 @@ related:
   - finance/portfolio/README.md
   - finance/portfolio/cartera-definitiva-40/100k.md
   - finance/portfolio/cartera-ai-100-index/100k.md
-  - finance/portfolio/cartera-vanguard/100k.md
 ---
 
 # Cartera definitiva a los 40 — mapa
@@ -20,18 +19,18 @@ repositorio: **65 % MSCI World** (iShares Developed World clase S, 0,06 %), **10
 (iShares S, 0,08 %). **84,46 % de RV real**, caída de manual **−34,25 %** y **≈6,16 % esperado**.
 
 **Por qué esta es «la definitiva».** No gana en ninguna categoría suelta: `cartera-ai-100-index/` tiene más
-líquidez, `cartera-vanguard/` más diversificación geográfica y `cartera-ai-final-atrevida/` más esperanza. Gana en
-la combinación que importa a los 40: **27 años de horizonte, coste mínimo, aportación automática y una única
+líquidez, una cartera con tilt de país tiene más diversificación geográfica y `cartera-ai-final-atrevida/` más
+esperanza. Gana en la combinación que importa a los 40: **27 años de horizonte, coste mínimo, aportación automática y una única
 decisión que pueda salir mal (cuánta bolsa llevar)**. No hay estilo, ni gestor, ni país, ni sector que apostar.
 
 **Qué la distingue de sus hermanas:**
 
 - De `cartera-ai-100-index/`: mismo núcleo al 0,06 %, pero **85/15 en vez de 80/20**, sin el 5 % de REITs, con
   **96 € frente a 106,50 €** y con un plan de aportación y un glide de edad escritos.
-- De `cartera-vanguard/`: allí el 46,9 % de EE. UU. es una apuesta deliberada contra el índice; aquí el 62 % es el
-  peso del mundo y **no hay tilt de país**. Cuesta 82,50 €/año menos.
-- De `cartera-cobas/` y `cartera-horos/`: esas compran una convicción activa por 1,3-1,6 %, que a 27 años son
-  **≈268.000 € y ≈341.000 €** de capital final con 1.000 €/mes.
+- De una cartera con tilt de país: allí el 46,9 % de EE. UU. sería una apuesta deliberada contra el índice; aquí
+  el 62 % es el peso del mundo y **no hay tilt de país**. Cuesta 82,50 €/año menos.
+- De una cartera de gestora única: comprar una convicción activa por 1,3-1,6 % cuesta, a 27 años y con
+  1.000 €/mes, **≈268.000 € y ≈341.000 €** de capital final.
 
 **Qué condiciones asume y hay que confirmar.** Horizonte de 15+ años, **colchón de 6-12 meses fuera** de la
 cartera y aportación mensual. Sin las tres, el diseño correcto es la variante 70/30 (99,30 €, 69,57 % de RV,
@@ -65,6 +64,6 @@ gestoras, cuatro índices, **96 €/año** y ninguna decisión discrecional que 
 1. **La cifra a aguantar es −34.250 €.** Con 84,46 % de bolsa, una caída tipo 2008 se mira así. Si eso no se
    aguanta sin vender, la variante 70/30 está en el documento con su número.
 2. **El 62 % de la RV es Estados Unidos y el 31 % es tecnología.** No es un error de diseño: es el peso del mundo
-   en 2026. Quien quiera corregirlo tiene `cartera-vanguard/`, y su precio (≈0,55 pp/año) está escrito allí.
+   en 2026. Quien quiera corregirlo, que sepa el precio: ≈0,55 pp/año.
 3. **La aportación mensual vale más que la cartera.** Con 1.000 €/mes a 27 años, el capital final es ≈1,31 M €
    frente a ≈0,50 M € sin aportar. La primera prueba de §9 es si la aportación se ejecutó.
