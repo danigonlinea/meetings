@@ -28,6 +28,9 @@ gestor tenga su dinero dentro, historia auditable, comportamiento en los malos m
 
 ## Qué sale de aquí
 
+**El índice no es una línea más: es el edificio.** El 60 % —45 % mundo desarrollado y 15 % Europa— es la
+estructura de la cartera; la pieza es el 40 % value, y su tamaño es la única decisión de diseño.
+
 | Bloque | € | % | Fondo | TER |
 | --- | --: | --: | --- | --: |
 | Núcleo indexado al mundo desarrollado | 45.000 | 45 % | iShares Developed World Index S Acc | 0,06 % |
@@ -65,7 +68,9 @@ cero monetario y cero comisiones de éxito**, y **≈6,83 % de rentabilidad espe
 
 1. **−37.268 € es la cifra del mandato.** Si no se puede mirar sin vender, esta cartera no es la suya.
 2. **El 40 % activo se lleva el 94 % del coste** (667 € de 709 €) y solo se justifica si esas tres gestoras
-   están en el 5 % que bate al índice. La prueba está fechada: **30/11/2031**, cinco años, umbral 1 pp/año.
+   están en el 5 % que bate al índice: el listón es **1,42 pp/año de alfa bruto** sobre la pieza. Si no lo
+   sacan, la cartera pierde **36.487 € a 20 años** frente a la misma cartera sin pieza. La prueba está fechada:
+   **30/11/2031**, cinco años, umbral 1 pp/año.
 3. **Cobas Large Cap tiene 30,72 % en «otros»**: su RV real es 69,28 %, no 100 %. Está en el *look-through* y en
    los disparadores (si pasa del 35 %, se recorta a la mitad).
 
