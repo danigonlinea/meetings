@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1398
+**Fondos: 1980** · con ficha previa: 1399
 
 | Clase | Fondos |
 | --- | --- |
@@ -1287,7 +1287,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0119065240](../rv-usa/LU0119065240.md) | JPMorgan Funds - US Growth Fund D (acc) - USD | Activa | USD | US Equity Large Cap Growth | 2,45 | 12,64 | 5 | 4 |
 | [LU0119066727](../rv-usa/LU0119066727.md) | JPMorgan Funds - US Value Fund D (acc) - USD | Activa | USD | US Equity Large Cap Value | 2,45 | 14,38 | 4 | 3 |
 | LU0244270723 | JPM US JPMorgan Funds - US Value Fund D (acc) - EUR (hedged)  D ACC EURH | Activa | EUR | US Equity Large Cap Value | 2,47 | 12,49 | 4 | — |
-| LU0217390490 | JPMorgan Funds - America Equity Fund D (acc) EUR | Activa | EUR | US Equity Large Cap Blend | 2,47 | 13,81 | 4 | 3 |
+| [LU0217390490](../rv-usa/LU0217390490.md) | JPMorgan Funds - America Equity Fund D (acc) EUR | Activa | EUR | US Equity Large Cap Blend | 2,47 | 13,81 | 4 | 3 |
 | LU0281485184 | JPMorgan Funds - US Select Equity Plus Fund D (acc) - EUR (hedged)  | Activa | EUR | US Equity Large Cap Blend | 2,47 | 12,38 | 4 | — |
 | LU0117881226 | JPMorgan Funds - US Small Cap Growth Fund D (acc) - USD | Activa | USD | US Equity Small Cap | 2,53 | 11,10 | 5 | 1 |
 | LU0823435127 | BNP Paribas US Growth N R | Activa | USD | US Equity Large Cap Growth | 2,59 | 14,56 | 5 | 3 |
