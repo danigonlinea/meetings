@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1786
+**Fondos: 1980** · con ficha previa: 1980
 
 | Clase | Fondos |
 | --- | --- |
@@ -1769,7 +1769,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0173130008](../sectoriales/ES0173130008.md) | Renta 4 Megatendencias Ariema Hidrogeno Y Energias Sostenibles FI | Activa | EUR | Equity Miscellaneous | 1,25 | 6,29 | 5 | — |
 | [IE00B3CCJB88](../sectoriales/IE00B3CCJB88.md) | Guinness Global Energy D EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,27 | 16,26 | 5 | 2 |
 | [IE00B52VLZ70](../sectoriales/IE00B52VLZ70.md) | Polar Capital Global Insurance Fund R Acc (EUR) | Activa | EUR | Financials Sector Equity | 1,31 | 15,66 | 4 | 4 |
-| IE00B547TM68 | Polar Capital Global Insurance Fund R Inc (EUR) | Activa | EUR | Financials Sector Equity | 1,31 | 14,87 | 4 | 4 |
+| [IE00B547TM68](../sectoriales/IE00B547TM68.md) | Polar Capital Global Insurance Fund R Inc (EUR) | Activa | EUR | Financials Sector Equity | 1,31 | 14,87 | 4 | 4 |
 | [IE00B4X9QT28](../sectoriales/IE00B4X9QT28.md) | Polar Capital Global Insurance Fund R Inc (USD) | Activa | USD | Financials Sector Equity | 1,31 | 14,87 | 4 | 4 |
 | [IE000DDQNQO2](../sectoriales/IE000DDQNQO2.md) | Ashoka WhiteOak Emerging Markets Equity Fund Class C USD Accumulation | Activa | USD | Global Emerging Markets Equity | 1,34 | 20,50 | 4 | 5 |
 | [ES0110407113](../sectoriales/ES0110407113.md) | Gestión Boutique VI Fundamental Approach FI | Activa | EUR | Global Equity Large Cap | 1,35 | 22,85 | 5 | 5 |
@@ -1836,190 +1836,190 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0208853274](../sectoriales/LU0208853274.md) | JPMorgan Funds - Global Natural Resources Fund A (acc) - EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 17,45 | 5 | 5 |
 | [LU1022033648](../sectoriales/LU1022033648.md) | KONWAVE TRANSITION METAL-B-EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 24,34 | 5 | 2 |
 | [LU2306921490](../sectoriales/LU2306921490.md) | DWS Concept ESG Blue Economy LC EUR Accumulation | Activa | EUR | Equity Miscellaneous | 1,77 | 9,15 | 4 | 2 |
-| LU2560836129 | JPMorgan Funds - US Technology Fund A (acc) - EUR (hedged) | Activa | EUR | Technology Sector Equity | 1,77 | 13,74 | 5 | — |
-| FR0010909531 | R-co Thematic Silver Plus C | Activa | EUR | Healthcare Sector Equity | 1,77 | 6,13 | 4 | 2 |
-| LU1684369710 | AXA World Funds - Framlington Digital Economy A Capitalisation EUR (Hedged) | Activa | EUR | Technology Sector Equity | 1,78 | 4,99 | 5 | — |
+| [LU2560836129](../sectoriales/LU2560836129.md) | JPMorgan Funds - US Technology Fund A (acc) - EUR (hedged) | Activa | EUR | Technology Sector Equity | 1,77 | 13,74 | 5 | — |
+| [FR0010909531](../sectoriales/FR0010909531.md) | R-co Thematic Silver Plus C | Activa | EUR | Healthcare Sector Equity | 1,77 | 6,13 | 4 | 2 |
+| [LU1684369710](../sectoriales/LU1684369710.md) | AXA World Funds - Framlington Digital Economy A Capitalisation EUR (Hedged) | Activa | EUR | Technology Sector Equity | 1,78 | 4,99 | 5 | — |
 | [LU1822773716](../sectoriales/LU1822773716.md) | BlackRock Global Funds - World Technology Fund A2 EUR Hedged | Activa | EUR | Technology Sector Equity | 1,78 | 19,56 | 5 | — |
-| LU1822774284 | Blackrock World HealthScience | Activa | EUR | Healthcare Sector Equity | 1,78 | 8,65 | 4 | — |
+| [LU1822774284](../sectoriales/LU1822774284.md) | Blackrock World HealthScience | Activa | EUR | Healthcare Sector Equity | 1,78 | 8,65 | 4 | — |
 | [LU1883854199](../sectoriales/LU1883854199.md) | PIONEER US EQ FND GRW A ACC EU | Activa | EUR | US Equity Large Cap Growth | 1,78 | 11,78 | 4 | 3 |
 | [LU1637618742](../sectoriales/LU1637618742.md) | BEREN EUR MICRO R ACC EUR | Activa | EUR | Europe Equity Mid/Small Cap | 1,80 | 7,89 | 4 | 2 |
-| LU2809794220 | Carmignac Portfolio Tech Solutions A EUR Acc | Activa | EUR | Technology Sector Equity | 1,80 | — | 5 | — |
+| [LU2809794220](../sectoriales/LU2809794220.md) | Carmignac Portfolio Tech Solutions A EUR Acc | Activa | EUR | Technology Sector Equity | 1,80 | — | 5 | — |
 | [ES0118591009](../sectoriales/ES0118591009.md) | Lierde Equities FI | Activa | EUR | Europe Equity Large Cap | 1,80 | 9,18 | 4 | 2 |
 | [IE00BGDW0489](../sectoriales/IE00BGDW0489.md) | New Capital Asia Future Leaders Fund Class EUR Ord Accumulation | Activa | EUR | Asia ex-Japan Equity | 1,80 | 10,71 | 4 | — |
 | [IE00BF2SJC17](../sectoriales/IE00BF2SJC17.md) | New Capital US Future Leaders Fund EUR Ord Acc | Activa | EUR | US Equity Large Cap Growth | 1,80 | 16,28 | 5 | — |
 | [LU2400291972](../sectoriales/LU2400291972.md) | BGF NEXT GENERAT TECHN A2 EUR | Activa | EUR | Technology Sector Equity | 1,81 | 17,65 | 5 | 2 |
-| LU1861217088 | BlackRock Global Funds - FinTech Fund A2 | Activa | USD | Technology Sector Equity | 1,81 | 8,45 | 5 | 1 |
-| LU1861215389 | BlackRock Global Funds - Future of Transport Fund A2 EUR Hedged | Activa | EUR | Technology Sector Equity | 1,81 | -2,00 | 5 | — |
+| [LU1861217088](../sectoriales/LU1861217088.md) | BlackRock Global Funds - FinTech Fund A2 | Activa | USD | Technology Sector Equity | 1,81 | 8,45 | 5 | 1 |
+| [LU1861215389](../sectoriales/LU1861215389.md) | BlackRock Global Funds - Future of Transport Fund A2 EUR Hedged | Activa | EUR | Technology Sector Equity | 1,81 | -2,00 | 5 | — |
 | [LU1861215975](../sectoriales/LU1861215975.md) | BlackRock Global Funds - Next Generation Technology Fund A2 | Activa | USD | Technology Sector Equity | 1,81 | 17,75 | 5 | 2 |
-| LU1861216510 | BlackRock Global Funds - Next Generation Technology Fund A2 EUR Hedged | Activa | EUR | Technology Sector Equity | 1,81 | 15,76 | 5 | — |
-| LU0122379950 | BlackRock Global Funds - World Healthscience Fund A2 | Activa | USD | Healthcare Sector Equity | 1,81 | 10,59 | 4 | 4 |
-| LU0171307068 | BlackRock Global Funds - World Healthscience Fund A2 (EUR) | Activa | EUR | Healthcare Sector Equity | 1,81 | 10,50 | 4 | 4 |
+| [LU1861216510](../sectoriales/LU1861216510.md) | BlackRock Global Funds - Next Generation Technology Fund A2 EUR Hedged | Activa | EUR | Technology Sector Equity | 1,81 | 15,76 | 5 | — |
+| [LU0122379950](../sectoriales/LU0122379950.md) | BlackRock Global Funds - World Healthscience Fund A2 | Activa | USD | Healthcare Sector Equity | 1,81 | 10,59 | 4 | 4 |
+| [LU0171307068](../sectoriales/LU0171307068.md) | BlackRock Global Funds - World Healthscience Fund A2 (EUR) | Activa | EUR | Healthcare Sector Equity | 1,81 | 10,50 | 4 | 4 |
 | [LU0056508442](../sectoriales/LU0056508442.md) | BlackRock Global Funds - World Technology Fund A2 | Activa | USD | Technology Sector Equity | 1,81 | 21,63 | 5 | 4 |
 | [LU0171310443](../sectoriales/LU0171310443.md) | BlackRock Global Funds - World Technology Fund A2 (EUR) | Activa | EUR | Technology Sector Equity | 1,81 | 21,52 | 5 | 4 |
 | [IE00BQXX3D17](../sectoriales/IE00BQXX3D17.md) | Guinness Global Innovators C EUR ACC | Activa | EUR | Global Equity Large Cap | 1,83 | 15,84 | 4 | 5 |
-| FR0000989923 | Oddo BHF Immobilier DR-EUR | Activa | EUR | Real Estate Sector Equity | 1,83 | 1,92 | 5 | 3 |
-| LU1223082196 | Schroder ISF Global Gold A Accumulation USD | Activa | USD | Precious Metals Sector Equity | 1,83 | 49,54 | 6 | 4 |
+| [FR0000989923](../sectoriales/FR0000989923.md) | Oddo BHF Immobilier DR-EUR | Activa | EUR | Real Estate Sector Equity | 1,83 | 1,92 | 5 | 3 |
+| [LU1223082196](../sectoriales/LU1223082196.md) | Schroder ISF Global Gold A Accumulation USD | Activa | USD | Precious Metals Sector Equity | 1,83 | 49,54 | 6 | 4 |
 | [LU1941681014](../sectoriales/LU1941681014.md) | Amundi Funds - New Silk Road AE EUR (C) | Activa | EUR | Global Emerging Markets Equity | 1,84 | 16,14 | 4 | 3 |
-| LU2466448532 | Echiquier Space B | Activa | EUR | Technology Sector Equity | 1,84 | 29,69 | 4 | 3 |
-| LU0300741732 | Franklin Natural Resources Fund A(acc)EUR | Activa | EUR | Natural Resources Sector Equity | 1,84 | 14,22 | 5 | 3 |
+| [LU2466448532](../sectoriales/LU2466448532.md) | Echiquier Space B | Activa | EUR | Technology Sector Equity | 1,84 | 29,69 | 4 | 3 |
+| [LU0300741732](../sectoriales/LU0300741732.md) | Franklin Natural Resources Fund A(acc)EUR | Activa | EUR | Natural Resources Sector Equity | 1,84 | 14,22 | 5 | 3 |
 | [LU0300736062](../sectoriales/LU0300736062.md) | Franklin Natural Resources Fund A(acc)USD | Activa | USD | Natural Resources Sector Equity | 1,84 | 14,20 | 5 | 3 |
-| LU0374901568 | Schroder ISF Global Energy A Accumulation EUR | Activa | EUR | Energy Sector Equity | 1,84 | 17,28 | 5 | 2 |
-| LU1983299162 | Schroder ISF Global Energy Transition A Accumulation USD | Activa | USD | Energy Sector Equity | 1,84 | 0,61 | 5 | 2 |
-| LU2390151582 | Schroder ISF Global Energy Transition A Distribution EUR | Activa | EUR | Energy Sector Equity | 1,84 | 0,56 | 5 | 2 |
-| LU0604766674 | Allianz Global Metals and Mining AT EUR | Activa | EUR | Natural Resources Sector Equity | 1,85 | 18,48 | 5 | 3 |
-| LU0705260189 | NORDEA GLOBAL REAL ESTATE FUND BP AC USD | Activa | USD | Real Estate Sector Equity | 1,85 | 9,00 | 4 | 4 |
-| IE00BMPRXN33 | Neuberger Berman 5G Connectivity Fund USD A Accumulating Class | Activa | USD | Technology Sector Equity | 1,85 | 30,26 | 5 | 3 |
-| BE6213829094 | RE ESTATE EUROPE DIV B AC EUR | Activa | EUR | Real Estate Sector Equity | 1,85 | 3,26 | 4 | 4 |
-| LU0671501558 | Schroder ISF Global Energy A Accumulation EUR Hedged | Activa | EUR | Energy Sector Equity | 1,87 | 15,30 | 5 | — |
-| LU2016064201 | Schroder ISF Global Energy Transition A Accumulation EUR Hedged | Activa | EUR | Energy Sector Equity | 1,87 | -1,57 | 5 | — |
-| LU0052864419 | Invesco Global Consumer Trends A USD Acc | Activa | USD | Consumer Goods & Services Sector Equity | 1,89 | 9,03 | 5 | 2 |
-| LU2168317308 | Invesco Global Consumer Trends Fund A Accumulation EUR | Activa | EUR | Consumer Goods & Services Sector Equity | 1,89 | 8,97 | 5 | 2 |
-| LU0264738294 | Janus Henderson Horizon Global Property Equities A2 Eur | Activa | EUR | Real Estate Sector Equity | 1,89 | 7,97 | 4 | 3 |
-| LU1877633989 | Credit Suisse Digital Health Equity Fund A EUR | Activa | EUR | Healthcare Sector Equity | 1,90 | 9,28 | 5 | 2 |
-| LU1683285321 | Credit Suisse Digital Health Equity Fund BH EUR | Activa | EUR | Healthcare Sector Equity | 1,90 | 7,18 | 5 | — |
-| LU0116932533 | Fidelity Global Industrials A (GBP) INC | Activa | GBP | Industrials Sector Equity | 1,90 | 15,75 | 4 | 4 |
-| LU2441282899 | Janus Henderson Horizon Biotechnology Fund A2 EUR | Activa | EUR | Healthcare Sector Equity | 1,90 | 28,01 | 5 | 5 |
+| [LU0374901568](../sectoriales/LU0374901568.md) | Schroder ISF Global Energy A Accumulation EUR | Activa | EUR | Energy Sector Equity | 1,84 | 17,28 | 5 | 2 |
+| [LU1983299162](../sectoriales/LU1983299162.md) | Schroder ISF Global Energy Transition A Accumulation USD | Activa | USD | Energy Sector Equity | 1,84 | 0,61 | 5 | 2 |
+| [LU2390151582](../sectoriales/LU2390151582.md) | Schroder ISF Global Energy Transition A Distribution EUR | Activa | EUR | Energy Sector Equity | 1,84 | 0,56 | 5 | 2 |
+| [LU0604766674](../sectoriales/LU0604766674.md) | Allianz Global Metals and Mining AT EUR | Activa | EUR | Natural Resources Sector Equity | 1,85 | 18,48 | 5 | 3 |
+| [LU0705260189](../sectoriales/LU0705260189.md) | NORDEA GLOBAL REAL ESTATE FUND BP AC USD | Activa | USD | Real Estate Sector Equity | 1,85 | 9,00 | 4 | 4 |
+| [IE00BMPRXN33](../sectoriales/IE00BMPRXN33.md) | Neuberger Berman 5G Connectivity Fund USD A Accumulating Class | Activa | USD | Technology Sector Equity | 1,85 | 30,26 | 5 | 3 |
+| [BE6213829094](../sectoriales/BE6213829094.md) | RE ESTATE EUROPE DIV B AC EUR | Activa | EUR | Real Estate Sector Equity | 1,85 | 3,26 | 4 | 4 |
+| [LU0671501558](../sectoriales/LU0671501558.md) | Schroder ISF Global Energy A Accumulation EUR Hedged | Activa | EUR | Energy Sector Equity | 1,87 | 15,30 | 5 | — |
+| [LU2016064201](../sectoriales/LU2016064201.md) | Schroder ISF Global Energy Transition A Accumulation EUR Hedged | Activa | EUR | Energy Sector Equity | 1,87 | -1,57 | 5 | — |
+| [LU0052864419](../sectoriales/LU0052864419.md) | Invesco Global Consumer Trends A USD Acc | Activa | USD | Consumer Goods & Services Sector Equity | 1,89 | 9,03 | 5 | 2 |
+| [LU2168317308](../sectoriales/LU2168317308.md) | Invesco Global Consumer Trends Fund A Accumulation EUR | Activa | EUR | Consumer Goods & Services Sector Equity | 1,89 | 8,97 | 5 | 2 |
+| [LU0264738294](../sectoriales/LU0264738294.md) | Janus Henderson Horizon Global Property Equities A2 Eur | Activa | EUR | Real Estate Sector Equity | 1,89 | 7,97 | 4 | 3 |
+| [LU1877633989](../sectoriales/LU1877633989.md) | Credit Suisse Digital Health Equity Fund A EUR | Activa | EUR | Healthcare Sector Equity | 1,90 | 9,28 | 5 | 2 |
+| [LU1683285321](../sectoriales/LU1683285321.md) | Credit Suisse Digital Health Equity Fund BH EUR | Activa | EUR | Healthcare Sector Equity | 1,90 | 7,18 | 5 | — |
+| [LU0116932533](../sectoriales/LU0116932533.md) | Fidelity Global Industrials A (GBP) INC | Activa | GBP | Industrials Sector Equity | 1,90 | 15,75 | 4 | 4 |
+| [LU2441282899](../sectoriales/LU2441282899.md) | Janus Henderson Horizon Biotechnology Fund A2 EUR | Activa | EUR | Healthcare Sector Equity | 1,90 | 28,01 | 5 | 5 |
 | [IE00BTC1N590](../sectoriales/IE00BTC1N590.md) | NUMERIC EMER MKTS EQ D AC EUR | Activa | EUR | Global Emerging Markets Equity | 1,90 | 20,87 | 4 | 4 |
-| LU0345780281 | Ninety One Global Strategy Fund - Global Gold Fund A Acc USD | Activa | USD | Precious Metals Sector Equity | 1,90 | 42,99 | 6 | 3 |
+| [LU0345780281](../sectoriales/LU0345780281.md) | Ninety One Global Strategy Fund - Global Gold Fund A Acc USD | Activa | USD | Precious Metals Sector Equity | 1,90 | 42,99 | 6 | 3 |
 | [LU0252218267](../sectoriales/LU0252218267.md) | AB SICAV I-Sustainable Global Thematic Portfolio A (EUR) | Activa | EUR | Global Equity Large Cap | 1,91 | 4,44 | 4 | 2 |
-| LU0384406160 | FUTURE RESOURCES B ACC EUR | Activa | EUR | Natural Resources Sector Equity | 1,92 | — | 4 | — |
+| [LU0384406160](../sectoriales/LU0384406160.md) | FUTURE RESOURCES B ACC EUR | Activa | EUR | Natural Resources Sector Equity | 1,92 | — | 4 | — |
 | [BE0947763737](../sectoriales/BE0947763737.md) | DPAM INVEST B - Equities Sustainable Food Trends - A | Activa | EUR | Equity Miscellaneous | 1,93 | 6,80 | 4 | 3 |
 | [LU1883342377](../sectoriales/LU1883342377.md) | PIONEER GLB EQUITY A ACC EUR | Activa | EUR | Global Equity Large Cap | 1,93 | 19,54 | 4 | 5 |
-| LU0058720904 | AB - International Health Care Portfolio A Acc | Activa | USD | Healthcare Sector Equity | 1,94 | 8,16 | 4 | 4 |
-| LU1834054899 | AB International HC A EUR Acc | Activa | EUR | Healthcare Sector Equity | 1,94 | 6,25 | 4 | — |
-| LU0251853072 | AB SICAV I-International Health Care Portfolio Class A EUR Acc | Activa | EUR | Healthcare Sector Equity | 1,94 | 8,20 | 4 | 4 |
-| LU1502282558 | Candriam Equities L Robotics & Innovative Technology Class C USD Cap | Activa | USD | Technology Sector Equity | 1,94 | 20,44 | 5 | 3 |
-| LU1502282632 | Candriam Equities L Robotics and Innovative Technology C EUR Cap | Activa | EUR | Technology Sector Equity | 1,94 | 20,44 | 5 | 3 |
+| [LU0058720904](../sectoriales/LU0058720904.md) | AB - International Health Care Portfolio A Acc | Activa | USD | Healthcare Sector Equity | 1,94 | 8,16 | 4 | 4 |
+| [LU1834054899](../sectoriales/LU1834054899.md) | AB International HC A EUR Acc | Activa | EUR | Healthcare Sector Equity | 1,94 | 6,25 | 4 | — |
+| [LU0251853072](../sectoriales/LU0251853072.md) | AB SICAV I-International Health Care Portfolio Class A EUR Acc | Activa | EUR | Healthcare Sector Equity | 1,94 | 8,20 | 4 | 4 |
+| [LU1502282558](../sectoriales/LU1502282558.md) | Candriam Equities L Robotics & Innovative Technology Class C USD Cap | Activa | USD | Technology Sector Equity | 1,94 | 20,44 | 5 | 3 |
+| [LU1502282632](../sectoriales/LU1502282632.md) | Candriam Equities L Robotics and Innovative Technology C EUR Cap | Activa | EUR | Technology Sector Equity | 1,94 | 20,44 | 5 | 3 |
 | [BE0947764743](../sectoriales/BE0947764743.md) | DPAM INVEST B Equities Sustainable Food Trends B Cap | Activa | EUR | Equity Miscellaneous | 1,94 | 6,79 | 4 | 3 |
-| LU0444971666 | GLOBAL TECHNOLOGY AU USD | Activa | USD | Technology Sector Equity | 1,94 | 33,16 | 5 | 5 |
-| LU1864481624 | Candriam Equities L Oncology Impact C AC EU | Activa | EUR | Healthcare Sector Equity | 1,95 | 10,22 | 4 | — |
-| LU1864484214 | Candriam Equities L Oncology Impact C EUR Cap | Activa | EUR | Healthcare Sector Equity | 1,95 | 12,36 | 4 | 3 |
-| LU1864481467 | Candriam Equities L Oncology Impact C USD Cap | Activa | USD | Healthcare Sector Equity | 1,95 | 12,36 | 4 | 3 |
+| [LU0444971666](../sectoriales/LU0444971666.md) | GLOBAL TECHNOLOGY AU USD | Activa | USD | Technology Sector Equity | 1,94 | 33,16 | 5 | 5 |
+| [LU1864481624](../sectoriales/LU1864481624.md) | Candriam Equities L Oncology Impact C AC EU | Activa | EUR | Healthcare Sector Equity | 1,95 | 10,22 | 4 | — |
+| [LU1864484214](../sectoriales/LU1864484214.md) | Candriam Equities L Oncology Impact C EUR Cap | Activa | EUR | Healthcare Sector Equity | 1,95 | 12,36 | 4 | 3 |
+| [LU1864481467](../sectoriales/LU1864481467.md) | Candriam Equities L Oncology Impact C USD Cap | Activa | USD | Healthcare Sector Equity | 1,95 | 12,36 | 4 | 3 |
 | [LU0132412106](../sectoriales/LU0132412106.md) | EMERGING MARKETS EQ A2 USD | Activa | USD | Global Emerging Markets Equity | 1,95 | 16,24 | 4 | 2 |
 | [ES0106949037](../sectoriales/ES0106949037.md) | Imantia Futuro FI | Activa | EUR | Global Equity Large Cap | 1,95 | 13,04 | 4 | 2 |
-| LU2181906426 | Sycomore Sustainable Tech R EUR | Activa | EUR | Technology Sector Equity | 1,95 | 23,82 | 5 | 3 |
-| LU0823421689 | BNP Paribas Disruptive Technology Cl C | Activa | EUR | Technology Sector Equity | 1,96 | 20,85 | 5 | 4 |
-| LU1822773807 | BlackRock Global Funds - Sustainable Energy Fund A2 EUR Hedged | Activa | EUR | Energy Sector Equity | 1,96 | 8,90 | 5 | — |
-| LU0408221868 | BlackRock Global Funds - Sustainable Energy Fund A4 | Activa | EUR | Energy Sector Equity | 1,96 | 8,91 | 4 | 4 |
-| ES0168799007 | Gestión Boutique IV Gesem W-Health & Sports Fund FI | Activa | EUR | Consumer Goods & Services Sector Equity | 1,96 | 9,34 | 4 | 3 |
-| LU0444972557 | Global Technology Class AEH (EUR Accumulation Hedged Shares) | Activa | EUR | Technology Sector Equity | 1,96 | 30,92 | 5 | — |
+| [LU2181906426](../sectoriales/LU2181906426.md) | Sycomore Sustainable Tech R EUR | Activa | EUR | Technology Sector Equity | 1,95 | 23,82 | 5 | 3 |
+| [LU0823421689](../sectoriales/LU0823421689.md) | BNP Paribas Disruptive Technology Cl C | Activa | EUR | Technology Sector Equity | 1,96 | 20,85 | 5 | 4 |
+| [LU1822773807](../sectoriales/LU1822773807.md) | BlackRock Global Funds - Sustainable Energy Fund A2 EUR Hedged | Activa | EUR | Energy Sector Equity | 1,96 | 8,90 | 5 | — |
+| [LU0408221868](../sectoriales/LU0408221868.md) | BlackRock Global Funds - Sustainable Energy Fund A4 | Activa | EUR | Energy Sector Equity | 1,96 | 8,91 | 4 | 4 |
+| [ES0168799007](../sectoriales/ES0168799007.md) | Gestión Boutique IV Gesem W-Health & Sports Fund FI | Activa | EUR | Consumer Goods & Services Sector Equity | 1,96 | 9,34 | 4 | 3 |
+| [LU0444972557](../sectoriales/LU0444972557.md) | Global Technology Class AEH (EUR Accumulation Hedged Shares) | Activa | EUR | Technology Sector Equity | 1,96 | 30,92 | 5 | — |
 | [LU0787776565](../sectoriales/LU0787776565.md) | AB - Select US Equity Portfolio A EUR Acc | Activa | EUR | US Equity Large Cap Blend | 1,97 | 17,48 | 4 | 3 |
 | [LU0683600646](../sectoriales/LU0683600646.md) | AB SELECT US EQUITY A ACC EURH | Activa | EUR | US Equity Large Cap Blend | 1,97 | 15,45 | 4 | — |
-| LU0823414718 | BNP Paribas Funds Energy TransitionClassic Distribution | Activa | EUR | Energy Sector Equity | 1,97 | 1,69 | 6 | 1 |
-| IE00BZ199N67 | BNYM MOBILITY INNOVAT H ACC EU | Activa | EUR | Technology Sector Equity | 1,97 | 12,17 | 5 | — |
+| [LU0823414718](../sectoriales/LU0823414718.md) | BNP Paribas Funds Energy TransitionClassic Distribution | Activa | EUR | Energy Sector Equity | 1,97 | 1,69 | 6 | 1 |
+| [IE00BZ199N67](../sectoriales/IE00BZ199N67.md) | BNYM MOBILITY INNOVAT H ACC EU | Activa | EUR | Technology Sector Equity | 1,97 | 12,17 | 5 | — |
 | [LU0204063720](../sectoriales/LU0204063720.md) | BlackRock BGF - Sustainable Energy Fund - A4 | Activa | GBP | - | 1,97 | 11,16 | 5 | 4 |
-| LU0124384867 | BlackRock Global Funds - Sustainable Energy Fund A2 | Activa | USD | Energy Sector Equity | 1,97 | 11,26 | 5 | 4 |
-| LU0171289902 | BlackRock Global Funds -Sustainable Energy Fund A2 EUR Acc | Activa | EUR | Energy Sector Equity | 1,97 | 11,15 | 5 | 4 |
-| LU1120766206 | Candriam EQ L Biotech C EURH | Activa | EUR | Healthcare Sector Equity | 1,97 | 20,70 | 5 | — |
-| IE00BZ18VV55 | GLB INFRA INCOME FD AAC USD | Activa | USD | Infrastructure Sector Equity | 1,97 | 18,34 | 4 | 5 |
-| LU0088927925 | HORIZON PAN EUR PROP EQ A2 EUR | Activa | EUR | Real Estate Sector Equity | 1,97 | 2,80 | 5 | 4 |
-| LU1059379971 | HORIZON PANEUR PROP EQ A2 USD | Activa | USD | Real Estate Sector Equity | 1,97 | 4,63 | 5 | — |
-| LU0280435388 | Pictet-Clean Energy Transition-P EUR | Activa | EUR | Energy Sector Equity | 1,98 | 16,23 | 5 | 4 |
+| [LU0124384867](../sectoriales/LU0124384867.md) | BlackRock Global Funds - Sustainable Energy Fund A2 | Activa | USD | Energy Sector Equity | 1,97 | 11,26 | 5 | 4 |
+| [LU0171289902](../sectoriales/LU0171289902.md) | BlackRock Global Funds -Sustainable Energy Fund A2 EUR Acc | Activa | EUR | Energy Sector Equity | 1,97 | 11,15 | 5 | 4 |
+| [LU1120766206](../sectoriales/LU1120766206.md) | Candriam EQ L Biotech C EURH | Activa | EUR | Healthcare Sector Equity | 1,97 | 20,70 | 5 | — |
+| [IE00BZ18VV55](../sectoriales/IE00BZ18VV55.md) | GLB INFRA INCOME FD AAC USD | Activa | USD | Infrastructure Sector Equity | 1,97 | 18,34 | 4 | 5 |
+| [LU0088927925](../sectoriales/LU0088927925.md) | HORIZON PAN EUR PROP EQ A2 EUR | Activa | EUR | Real Estate Sector Equity | 1,97 | 2,80 | 5 | 4 |
+| [LU1059379971](../sectoriales/LU1059379971.md) | HORIZON PANEUR PROP EQ A2 USD | Activa | USD | Real Estate Sector Equity | 1,97 | 4,63 | 5 | — |
+| [LU0280435388](../sectoriales/LU0280435388.md) | Pictet-Clean Energy Transition-P EUR | Activa | EUR | Energy Sector Equity | 1,98 | 16,23 | 5 | 4 |
 | [LU0252219315](../sectoriales/LU0252219315.md) | AB INTL TECHNOLOGY A ACC EUR | Activa | EUR | Technology Sector Equity | 1,99 | 27,67 | 5 | 4 |
-| LU2091933452 | JPMorgan Funds - Thematics - Genetic Therapies D (acc) - EUR Hedged | Activa | EUR | Healthcare Sector Equity | 1,99 | 8,67 | 5 | — |
-| LU0340554913 | Pictet-Digital-P EUR | Activa | EUR | Technology Sector Equity | 1,99 | 17,87 | 5 | 3 |
-| LU0217139020 | Pictet-Premium Brands-P EUR | Activa | EUR | Consumer Goods & Services Sector Equity | 1,99 | 4,82 | 4 | 3 |
+| [LU2091933452](../sectoriales/LU2091933452.md) | JPMorgan Funds - Thematics - Genetic Therapies D (acc) - EUR Hedged | Activa | EUR | Healthcare Sector Equity | 1,99 | 8,67 | 5 | — |
+| [LU0340554913](../sectoriales/LU0340554913.md) | Pictet-Digital-P EUR | Activa | EUR | Technology Sector Equity | 1,99 | 17,87 | 5 | 3 |
+| [LU0217139020](../sectoriales/LU0217139020.md) | Pictet-Premium Brands-P EUR | Activa | EUR | Consumer Goods & Services Sector Equity | 1,99 | 4,82 | 4 | 3 |
 | [LU0232528306](../sectoriales/LU0232528306.md) | AB EMERG MKTS GROWTH A ACC EUR | Activa | EUR | Global Emerging Markets Equity | 2,00 | 15,97 | 4 | 2 |
-| LU1578889864 | NINETY GLOBAL GOLD A ACC EUR | Activa | EUR | Precious Metals Sector Equity | 2,00 | 38,67 | 6 | — |
-| LU0108459040 | Candriam Equities L Biotechnology C USD Cap | Activa | USD | Healthcare Sector Equity | 2,01 | 22,94 | 5 | 5 |
-| LU1279334996 | Pictet-Robotics-HP EUR | Activa | EUR | Technology Sector Equity | 2,03 | 17,60 | 5 | — |
-| LU0482497442 | INVESCO ASIA CONSUMER DEMAND A ACC EURH | Activa | EUR | Consumer Goods & Services Sector Equity | 2,04 | 8,92 | 4 | — |
-| LU0190161025 | Pictet-Biotech-HP EUR | Activa | EUR | Healthcare Sector Equity | 2,04 | 23,81 | 5 | — |
-| LU0474967303 | Pictet-Digital-HP EUR | Activa | EUR | Technology Sector Equity | 2,04 | 15,77 | 5 | — |
-| LU0329429384 | GAM Luxury Brands Equity A Dist EUR | Activa | EUR | Consumer Goods & Services Sector Equity | 2,05 | 4,78 | 4 | 3 |
-| LU0329429897 | GAM Multistock - Luxury Brands Equity EUR B | Activa | EUR | Consumer Goods & Services Sector Equity | 2,05 | 4,78 | 4 | 3 |
-| LU0329430127 | GAM Multistock - Luxury Brands Equity USD B | Activa | USD | Consumer Goods & Services Sector Equity | 2,05 | 4,78 | 4 | 3 |
-| LU2305833233 | Invesco China Health Care Equity A EUR H Acc | Activa | EUR | Healthcare Sector Equity | 2,05 | -4,20 | 5 | — |
-| LU0326422176 | BlackRock Global Funds - World Energy Fund A2 EUR Hedged | Activa | EUR | Energy Sector Equity | 2,06 | 13,23 | 5 | — |
-| LU0408222247 | BlackRock Global Funds - World Energy Fund A4 EUR Inc | Activa | EUR | Energy Sector Equity | 2,06 | 14,88 | 5 | 3 |
+| [LU1578889864](../sectoriales/LU1578889864.md) | NINETY GLOBAL GOLD A ACC EUR | Activa | EUR | Precious Metals Sector Equity | 2,00 | 38,67 | 6 | — |
+| [LU0108459040](../sectoriales/LU0108459040.md) | Candriam Equities L Biotechnology C USD Cap | Activa | USD | Healthcare Sector Equity | 2,01 | 22,94 | 5 | 5 |
+| [LU1279334996](../sectoriales/LU1279334996.md) | Pictet-Robotics-HP EUR | Activa | EUR | Technology Sector Equity | 2,03 | 17,60 | 5 | — |
+| [LU0482497442](../sectoriales/LU0482497442.md) | INVESCO ASIA CONSUMER DEMAND A ACC EURH | Activa | EUR | Consumer Goods & Services Sector Equity | 2,04 | 8,92 | 4 | — |
+| [LU0190161025](../sectoriales/LU0190161025.md) | Pictet-Biotech-HP EUR | Activa | EUR | Healthcare Sector Equity | 2,04 | 23,81 | 5 | — |
+| [LU0474967303](../sectoriales/LU0474967303.md) | Pictet-Digital-HP EUR | Activa | EUR | Technology Sector Equity | 2,04 | 15,77 | 5 | — |
+| [LU0329429384](../sectoriales/LU0329429384.md) | GAM Luxury Brands Equity A Dist EUR | Activa | EUR | Consumer Goods & Services Sector Equity | 2,05 | 4,78 | 4 | 3 |
+| [LU0329429897](../sectoriales/LU0329429897.md) | GAM Multistock - Luxury Brands Equity EUR B | Activa | EUR | Consumer Goods & Services Sector Equity | 2,05 | 4,78 | 4 | 3 |
+| [LU0329430127](../sectoriales/LU0329430127.md) | GAM Multistock - Luxury Brands Equity USD B | Activa | USD | Consumer Goods & Services Sector Equity | 2,05 | 4,78 | 4 | 3 |
+| [LU2305833233](../sectoriales/LU2305833233.md) | Invesco China Health Care Equity A EUR H Acc | Activa | EUR | Healthcare Sector Equity | 2,05 | -4,20 | 5 | — |
+| [LU0326422176](../sectoriales/LU0326422176.md) | BlackRock Global Funds - World Energy Fund A2 EUR Hedged | Activa | EUR | Energy Sector Equity | 2,06 | 13,23 | 5 | — |
+| [LU0408222247](../sectoriales/LU0408222247.md) | BlackRock Global Funds - World Energy Fund A4 EUR Inc | Activa | EUR | Energy Sector Equity | 2,06 | 14,88 | 5 | 3 |
 | [LU0326422689](../sectoriales/LU0326422689.md) | BlackRock Global Funds - World Gold Fund A2 EUR Hedged | Activa | EUR | Precious Metals Sector Equity | 2,06 | 37,33 | 6 | — |
-| LU0248320664 | Pictet - Longevity-HP EUR | Activa | EUR | Healthcare Sector Equity | 2,06 | -2,17 | 4 | — |
-| LU0326424115 | BlackRock Global Funds - World Mining Fund A2 EUR Hedged | Activa | EUR | Natural Resources Sector Equity | 2,07 | 13,03 | 5 | — |
-| LU0408222593 | BlackRock Global Funds - World Mining Fund A4 | Activa | EUR | Natural Resources Sector Equity | 2,07 | 15,73 | 5 | 3 |
+| [LU0248320664](../sectoriales/LU0248320664.md) | Pictet - Longevity-HP EUR | Activa | EUR | Healthcare Sector Equity | 2,06 | -2,17 | 4 | — |
+| [LU0326424115](../sectoriales/LU0326424115.md) | BlackRock Global Funds - World Mining Fund A2 EUR Hedged | Activa | EUR | Natural Resources Sector Equity | 2,07 | 13,03 | 5 | — |
+| [LU0408222593](../sectoriales/LU0408222593.md) | BlackRock Global Funds - World Mining Fund A4 | Activa | EUR | Natural Resources Sector Equity | 2,07 | 15,73 | 5 | 3 |
 | [IE00B65D2871](../sectoriales/IE00B65D2871.md) | Comgest Growth Emerging Markets R Ac Eur | Activa | EUR | Global Emerging Markets Equity | 2,07 | 7,07 | 4 | 1 |
 | [LU1103303167](../sectoriales/LU1103303167.md) | EDR US VALUE A ACC EUR | Activa | EUR | US Equity Large Cap Value | 2,07 | 6,52 | 4 | 1 |
 | [LU0171305526](../sectoriales/LU0171305526.md) | BlackRock Global Funds - World Gold Fund A2 EUR Acc | Activa | EUR | Precious Metals Sector Equity | 2,08 | 40,82 | 6 | 3 |
 | [IE00BD5HXK71](../sectoriales/IE00BD5HXK71.md) | Comgest Growth World R Acc Eur | Activa | EUR | Global Equity Large Cap | 2,08 | 6,13 | 4 | 3 |
-| LU1665237704 | M&G (Lux) Global Listed Infrastructure Fund A EUR Acc | Activa | EUR | Infrastructure Sector Equity | 2,08 | 9,69 | 4 | 2 |
-| LU1244893696 | Edmond de Rothschild Fund - Big Data A EUR | Activa | EUR | Technology Sector Equity | 2,09 | 16,37 | 4 | 3 |
+| [LU1665237704](../sectoriales/LU1665237704.md) | M&G (Lux) Global Listed Infrastructure Fund A EUR Acc | Activa | EUR | Infrastructure Sector Equity | 2,08 | 9,69 | 4 | 2 |
+| [LU1244893696](../sectoriales/LU1244893696.md) | Edmond de Rothschild Fund - Big Data A EUR | Activa | EUR | Technology Sector Equity | 2,09 | 16,37 | 4 | 3 |
 | [LU1931535931](../sectoriales/LU1931535931.md) | ALLIANZ PET AND ANIMAL WELLBE AT ACC EUR | Activa | EUR | Equity Miscellaneous | 2,10 | 0,66 | 4 | — |
 | [LU1914383960](../sectoriales/LU1914383960.md) | DWS Invest - Artificial Intelligence – NC | Activa | EUR | Technology Sector Equity | 2,10 | 17,44 | 5 | 3 |
-| LU1244893852 | Edmond de Rothschild Fund - Big Data A CHF | Activa | CHF | Technology Sector Equity | 2,10 | 16,38 | 4 | 3 |
-| LU1244893779 | Edmond de Rothschild Fund - Big Data A USD | Activa | USD | Technology Sector Equity | 2,10 | 16,38 | 4 | 3 |
-| LU0069152568 | UBS EQUITY BIOTECH PACC USD | Activa | USD | Healthcare Sector Equity | 2,10 | 20,73 | 5 | 3 |
-| LU1548497426 | ALLIANZ ARTFC INTELLIG AT ACC | Activa | USD | Technology Sector Equity | 2,11 | 14,57 | 5 | 2 |
-| LU1548497772 | Allianz Global Artificial Intelligence AT (H2-EUR) | Activa | EUR | Technology Sector Equity | 2,11 | 12,66 | 5 | — |
-| LU1548497699 | Allianz Global Investors Fund - Allianz Global Artificial Intelligence AT EUR | Activa | EUR | Technology Sector Equity | 2,11 | 14,42 | 5 | 2 |
+| [LU1244893852](../sectoriales/LU1244893852.md) | Edmond de Rothschild Fund - Big Data A CHF | Activa | CHF | Technology Sector Equity | 2,10 | 16,38 | 4 | 3 |
+| [LU1244893779](../sectoriales/LU1244893779.md) | Edmond de Rothschild Fund - Big Data A USD | Activa | USD | Technology Sector Equity | 2,10 | 16,38 | 4 | 3 |
+| [LU0069152568](../sectoriales/LU0069152568.md) | UBS EQUITY BIOTECH PACC USD | Activa | USD | Healthcare Sector Equity | 2,10 | 20,73 | 5 | 3 |
+| [LU1548497426](../sectoriales/LU1548497426.md) | ALLIANZ ARTFC INTELLIG AT ACC | Activa | USD | Technology Sector Equity | 2,11 | 14,57 | 5 | 2 |
+| [LU1548497772](../sectoriales/LU1548497772.md) | Allianz Global Artificial Intelligence AT (H2-EUR) | Activa | EUR | Technology Sector Equity | 2,11 | 12,66 | 5 | — |
+| [LU1548497699](../sectoriales/LU1548497699.md) | Allianz Global Investors Fund - Allianz Global Artificial Intelligence AT EUR | Activa | EUR | Technology Sector Equity | 2,11 | 14,42 | 5 | 2 |
 | [LU0474346029](../sectoriales/LU0474346029.md) | EME MRKTS VALUE PORT A ACC EUR | Activa | EUR | Global Emerging Markets Equity | 2,12 | 16,71 | 4 | 3 |
 | [LU1569896738](../sectoriales/LU1569896738.md) | Pareturn GVC Gaesco Columbus Eurpean Mid-Cap Equity Fund R-B (EUR) | Activa | EUR | Europe Equity Mid/Small Cap | 2,12 | 14,31 | 4 | 4 |
-| LU1751454437 | WELLINGTON ASIA TECHNOLOGY D A | Activa | USD | Technology Sector Equity | 2,13 | 21,88 | 5 | 3 |
-| LU1710457893 | Quaero Capital Funds (Lux) - Accessible Clean Energy A-EUR | Activa | EUR | Energy Sector Equity | 2,14 | 5,03 | 5 | — |
-| LU0415392249 | BB BIOTECH B ACC EUR | Activa | EUR | Healthcare Sector Equity | 2,20 | — | 4 | — |
-| LU1477743386 | Bellevue (Lux) BB Adamant Health Care Index B EUR | Activa | EUR | Healthcare Sector Equity | 2,20 | 5,17 | 4 | 3 |
-| LU1811048138 | Bellevue Digital Health B EUR | Activa | EUR | Healthcare Sector Equity | 2,20 | 9,63 | 5 | 2 |
-| LU0804734787 | UBS EQ GLB MULTI TECH PAC EURH | Activa | EUR | Technology Sector Equity | 2,20 | 15,31 | 5 | — |
+| [LU1751454437](../sectoriales/LU1751454437.md) | WELLINGTON ASIA TECHNOLOGY D A | Activa | USD | Technology Sector Equity | 2,13 | 21,88 | 5 | 3 |
+| [LU1710457893](../sectoriales/LU1710457893.md) | Quaero Capital Funds (Lux) - Accessible Clean Energy A-EUR | Activa | EUR | Energy Sector Equity | 2,14 | 5,03 | 5 | — |
+| [LU0415392249](../sectoriales/LU0415392249.md) | BB BIOTECH B ACC EUR | Activa | EUR | Healthcare Sector Equity | 2,20 | — | 4 | — |
+| [LU1477743386](../sectoriales/LU1477743386.md) | Bellevue (Lux) BB Adamant Health Care Index B EUR | Activa | EUR | Healthcare Sector Equity | 2,20 | 5,17 | 4 | 3 |
+| [LU1811048138](../sectoriales/LU1811048138.md) | Bellevue Digital Health B EUR | Activa | EUR | Healthcare Sector Equity | 2,20 | 9,63 | 5 | 2 |
+| [LU0804734787](../sectoriales/LU0804734787.md) | UBS EQ GLB MULTI TECH PAC EURH | Activa | EUR | Technology Sector Equity | 2,20 | 15,31 | 5 | — |
 | [LU1165135440](../sectoriales/LU1165135440.md) | BNP Paribas Funds Aqua Classic Capitalisation | Activa | EUR | Equity Miscellaneous | 2,21 | 8,59 | 4 | 3 |
 | [LU1620156130](../sectoriales/LU1620156130.md) | BNP Paribas Funds Aqua Classic USD Capitalisation | Activa | USD | Equity Miscellaneous | 2,21 | 8,59 | 4 | 3 |
-| LU1165137149 | BNP Paribas Funds Smart Food Classic Capitalisation | Activa | EUR | Consumer Goods & Services Sector Equity | 2,21 | 4,58 | 3 | 2 |
-| LU1809976522 | LO Funds - World Brands Fund (EUR) P A | Activa | EUR | Consumer Goods & Services Sector Equity | 2,22 | 6,26 | 4 | 4 |
+| [LU1165137149](../sectoriales/LU1165137149.md) | BNP Paribas Funds Smart Food Classic Capitalisation | Activa | EUR | Consumer Goods & Services Sector Equity | 2,21 | 4,58 | 3 | 2 |
+| [LU1809976522](../sectoriales/LU1809976522.md) | LO Funds - World Brands Fund (EUR) P A | Activa | EUR | Consumer Goods & Services Sector Equity | 2,22 | 6,26 | 4 | 4 |
 | [ES0157638000](../sectoriales/ES0157638000.md) | GVC Gaesco 300 Places Worldwide A FI | Activa | EUR | Consumer Goods & Services Sector Equity | 2,26 | 14,17 | 5 | 3 |
-| LU0444973449 | Threadneedle (Lux) - Global Technology Class DU (USD Accumulation Shares) | Activa | USD | Technology Sector Equity | 2,29 | 32,70 | 5 | 5 |
-| LU1585229187 | Bellevue Emerging Markets Healthcare B EUR | Activa | EUR | Healthcare Sector Equity | 2,30 | 0,99 | 5 | 1 |
+| [LU0444973449](../sectoriales/LU0444973449.md) | Threadneedle (Lux) - Global Technology Class DU (USD Accumulation Shares) | Activa | USD | Technology Sector Equity | 2,29 | 32,70 | 5 | 5 |
+| [LU1585229187](../sectoriales/LU1585229187.md) | Bellevue Emerging Markets Healthcare B EUR | Activa | EUR | Healthcare Sector Equity | 2,30 | 0,99 | 5 | 1 |
 | [LU1530899142](../sectoriales/LU1530899142.md) | CPR Invest Global Disruptive Opportunities A EUR Acc | Activa | EUR | Global Equity Large Cap | 2,30 | 13,93 | 5 | 2 |
-| LU0757431738 | Threadneedle (Lux) - Global Technology Class DU (USD Accumulation Shares) (EUR) | Activa | EUR | Technology Sector Equity | 2,30 | 12,72 | 5 | 4 |
+| [LU0757431738](../sectoriales/LU0757431738.md) | Threadneedle (Lux) - Global Technology Class DU (USD Accumulation Shares) (EUR) | Activa | EUR | Technology Sector Equity | 2,30 | 12,72 | 5 | 4 |
 | [LU0171310955](../sectoriales/LU0171310955.md) | BGF World Technology E2 Ac Eur | Activa | EUR | Technology Sector Equity | 2,31 | 20,91 | 5 | 3 |
-| LU1917164342 | BlackRock Global Funds - Future of Transport Fund E2 EUR | Activa | EUR | Technology Sector Equity | 2,31 | -0,47 | 4 | 2 |
-| LU1861215546 | BlackRock Global Funds - Future of Transport Fund E2 EUR Hedged | Activa | EUR | Technology Sector Equity | 2,31 | -2,48 | 5 | — |
+| [LU1917164342](../sectoriales/LU1917164342.md) | BlackRock Global Funds - Future of Transport Fund E2 EUR | Activa | EUR | Technology Sector Equity | 2,31 | -0,47 | 4 | 2 |
+| [LU1861215546](../sectoriales/LU1861215546.md) | BlackRock Global Funds - Future of Transport Fund E2 EUR Hedged | Activa | EUR | Technology Sector Equity | 2,31 | -2,48 | 5 | — |
 | [LU0273148055](../sectoriales/LU0273148055.md) | DWS Invest Gold and Precious Metals Equities NC | Activa | EUR | Precious Metals Sector Equity | 2,31 | 42,70 | 6 | 4 |
-| LU2523339914 | Schroders Capital Semi-Liquid Global Real Estate Total Return A3 Accumulation USD | Activa | USD | Property-Direct | 2,32 | 4,48 | 3 | — |
-| ES0175738030 | Rural Tecnológico Renta Variable Estándar FI | Activa | EUR | Technology Sector Equity | 2,36 | 21,40 | 5 | 3 |
-| LU0133359157 | Candriam Equities L Biotechnology N USD Cap | Activa | USD | Healthcare Sector Equity | 2,37 | 22,50 | 5 | 5 |
-| IE0009355771 | Janus Henderson Capital Funds plc - Global Life Sciences Fund Class A2 USD | Activa | USD | Healthcare Sector Equity | 2,37 | 15,05 | 4 | 5 |
-| IE0002122038 | Janus Henderson Global Life Sciences  | Activa | EUR | Healthcare Sector Equity | 2,38 | 13,04 | 4 | — |
-| IE0002167009 | GLOBAL TECHNOLOGY A ACC EURH | Activa | EUR | Technology Sector Equity | 2,40 | 20,68 | 5 | — |
+| [LU2523339914](../sectoriales/LU2523339914.md) | Schroders Capital Semi-Liquid Global Real Estate Total Return A3 Accumulation USD | Activa | USD | Property-Direct | 2,32 | 4,48 | 3 | — |
+| [ES0175738030](../sectoriales/ES0175738030.md) | Rural Tecnológico Renta Variable Estándar FI | Activa | EUR | Technology Sector Equity | 2,36 | 21,40 | 5 | 3 |
+| [LU0133359157](../sectoriales/LU0133359157.md) | Candriam Equities L Biotechnology N USD Cap | Activa | USD | Healthcare Sector Equity | 2,37 | 22,50 | 5 | 5 |
+| [IE0009355771](../sectoriales/IE0009355771.md) | Janus Henderson Capital Funds plc - Global Life Sciences Fund Class A2 USD | Activa | USD | Healthcare Sector Equity | 2,37 | 15,05 | 4 | 5 |
+| [IE0002122038](../sectoriales/IE0002122038.md) | Janus Henderson Global Life Sciences  | Activa | EUR | Healthcare Sector Equity | 2,38 | 13,04 | 4 | — |
+| [IE0002167009](../sectoriales/IE0002167009.md) | GLOBAL TECHNOLOGY A ACC EURH | Activa | EUR | Technology Sector Equity | 2,40 | 20,68 | 5 | — |
 | [ES0138984036](../sectoriales/ES0138984036.md) | GVC Gaesco T.F.T. FI | Activa | EUR | Otros | 2,40 | — | 4 | — |
 | [IE00B4TVJL59](../sectoriales/IE00B4TVJL59.md) | Brown Advisory US Equity Growth € P Hdg | Activa | EUR | US Equity Large Cap Growth | 2,41 | 7,32 | 5 | — |
-| IE0009356076 | JANUS GLOBAL TECHNOLOGY A ACC USD | Activa | USD | Technology Sector Equity | 2,43 | 22,75 | 5 | 4 |
-| ES0147711032 | BBVA Bolsa Tecnología y Telecomunicaciones FI | Activa | EUR | Technology Sector Equity | 2,44 | 16,38 | 4 | 3 |
+| [IE0009356076](../sectoriales/IE0009356076.md) | JANUS GLOBAL TECHNOLOGY A ACC USD | Activa | USD | Technology Sector Equity | 2,43 | 22,75 | 5 | 4 |
+| [ES0147711032](../sectoriales/ES0147711032.md) | BBVA Bolsa Tecnología y Telecomunicaciones FI | Activa | EUR | Technology Sector Equity | 2,44 | 16,38 | 4 | 3 |
 | [LU2092176515](../sectoriales/LU2092176515.md) | BLUEBOX GLB TECH FND C ACC EUR | Activa | EUR | Technology Sector Equity | 2,44 | 19,92 | 5 | 3 |
-| LU0256331561 | Schroder ISF Global Energy B Accumulation USD | Activa | USD | Energy Sector Equity | 2,44 | 16,64 | 5 | 2 |
+| [LU0256331561](../sectoriales/LU0256331561.md) | Schroder ISF Global Energy B Accumulation USD | Activa | USD | Energy Sector Equity | 2,44 | 16,64 | 5 | 2 |
 | [LU2146192617](../sectoriales/LU2146192617.md) | RobecoSAM Sustainable Water Equities M2 EUR | Activa | EUR | Equity Miscellaneous | 2,46 | 8,37 | 4 | 3 |
 | [LU0925041153](../sectoriales/LU0925041153.md) | Abante European Quality  Clase B | Activa | EUR | Europe Equity Large Cap | 2,47 | 14,03 | 5 | 2 |
-| LU0124386052 | BlackRock BGF - Sustainable Energy Fund - E2 | Activa | USD | Energy Sector Equity | 2,47 | 10,69 | 5 | 4 |
-| LU0171290074 | BlackRock Global Funds - Sustainable Energy Fund E2 (EUR) | Activa | EUR | Energy Sector Equity | 2,47 | 10,61 | 5 | 4 |
+| [LU0124386052](../sectoriales/LU0124386052.md) | BlackRock BGF - Sustainable Energy Fund - E2 | Activa | USD | Energy Sector Equity | 2,47 | 10,69 | 5 | 4 |
+| [LU0171290074](../sectoriales/LU0171290074.md) | BlackRock Global Funds - Sustainable Energy Fund E2 (EUR) | Activa | EUR | Energy Sector Equity | 2,47 | 10,61 | 5 | 4 |
 | [ES0111171106](../sectoriales/ES0111171106.md) | Atl Capital Best Managers Renta Variable FI | Activa | EUR | Global Equity Large Cap | 2,49 | 24,11 | 3 | 5 |
 | [LU0196152788](../sectoriales/LU0196152788.md) | LISTED PRIVATE EQUITY P AC EUR | Activa | EUR | Equity Miscellaneous | 2,50 | 7,46 | 5 | 3 |
-| LU0216736503 | AXA World Funds - Framlington Europe Real Estate Securities E Capitalisation EUR | Activa | EUR | Real Estate Sector Equity | 2,51 | 0,99 | 5 | 2 |
+| [LU0216736503](../sectoriales/LU0216736503.md) | AXA World Funds - Framlington Europe Real Estate Securities E Capitalisation EUR | Activa | EUR | Real Estate Sector Equity | 2,51 | 0,99 | 5 | 2 |
 | [LU0078277505](../sectoriales/LU0078277505.md) | Templeton Eastern Europe Fund A(acc)EUR | Activa | EUR | Europe Emerging Markets Equity | 2,52 | 25,98 | 5 | 3 |
 | [LU0122613655](../sectoriales/LU0122613655.md) | FRANKLIN TECHNOLOGY N ACC USD | Activa | USD | Technology Sector Equity | 2,55 | 19,85 | 5 | 3 |
 | [LU0140363697](../sectoriales/LU0140363697.md) | Franklin Technology Fund N (Acc) EUR | Activa | EUR | Technology Sector Equity | 2,55 | 19,89 | 5 | 3 |
 | [LU0326423224](../sectoriales/LU0326423224.md) | BlackRock Global Funds - World Gold Fund E2 EUR Hedged | Activa | EUR | Precious Metals Sector Equity | 2,56 | 36,60 | 6 | — |
 | [LU0171306680](../sectoriales/LU0171306680.md) | BGF World Gold E2 | Activa | EUR | Precious Metals Sector Equity | 2,58 | 40,11 | 6 | 3 |
 | [LU0390137031](../sectoriales/LU0390137031.md) | TEMPLETON FRONT MKTS A ACC EUR | Activa | EUR | Global Emerging Markets Equity | 2,58 | 16,58 | 3 | 3 |
-| LU0300742037 | FRANKLIN NATURAL RES N ACC EUR | Activa | EUR | Natural Resources Sector Equity | 2,59 | 13,37 | 5 | 3 |
-| LU1244895394 | Edmond de Rothschild Fund - Big Data R EUR | Activa | EUR | Technology Sector Equity | 2,60 | 15,81 | 4 | 3 |
-| LU0115773425 | Fidelity Funds - Global Technology Fund E-Acc-EUR | Activa | EUR | Technology Sector Equity | 2,60 | 18,77 | 4 | 4 |
-| LU0705260262 | Nordea Global R-Estate E Eur | Activa | EUR | Real Estate Sector Equity | 2,60 | 8,11 | 4 | 3 |
-| IE00B5N9RL80 | BMO REAL ESTATE SECURITIES A E | Activa | EUR | Real Estate Sector Equity | 2,62 | 2,86 | 5 | 3 |
-| LU0115139569 | Invesco Global Consumer Trends Fund E Accumulation EUR | Activa | EUR | Consumer Goods & Services Sector Equity | 2,64 | 8,15 | 5 | 2 |
-| LU0159053015 | JPMorgan Funds - US Technology Fund D (acc) - EUR | Activa | EUR | Technology Sector Equity | 2,68 | 14,54 | 5 | 3 |
-| LU0117885052 | JPMorgan Funds - US Technology Fund D (acc) - USD | Activa | USD | Technology Sector Equity | 2,68 | 14,64 | 6 | 3 |
-| LU1279333832 | Pictet-Robotics-R USD | Activa | USD | Technology Sector Equity | 2,68 | 19,09 | 5 | 3 |
-| LU0340555134 | Pictet-Digital-R EUR | Activa | EUR | Technology Sector Equity | 2,69 | 17,04 | 5 | 3 |
+| [LU0300742037](../sectoriales/LU0300742037.md) | FRANKLIN NATURAL RES N ACC EUR | Activa | EUR | Natural Resources Sector Equity | 2,59 | 13,37 | 5 | 3 |
+| [LU1244895394](../sectoriales/LU1244895394.md) | Edmond de Rothschild Fund - Big Data R EUR | Activa | EUR | Technology Sector Equity | 2,60 | 15,81 | 4 | 3 |
+| [LU0115773425](../sectoriales/LU0115773425.md) | Fidelity Funds - Global Technology Fund E-Acc-EUR | Activa | EUR | Technology Sector Equity | 2,60 | 18,77 | 4 | 4 |
+| [LU0705260262](../sectoriales/LU0705260262.md) | Nordea Global R-Estate E Eur | Activa | EUR | Real Estate Sector Equity | 2,60 | 8,11 | 4 | 3 |
+| [IE00B5N9RL80](../sectoriales/IE00B5N9RL80.md) | BMO REAL ESTATE SECURITIES A E | Activa | EUR | Real Estate Sector Equity | 2,62 | 2,86 | 5 | 3 |
+| [LU0115139569](../sectoriales/LU0115139569.md) | Invesco Global Consumer Trends Fund E Accumulation EUR | Activa | EUR | Consumer Goods & Services Sector Equity | 2,64 | 8,15 | 5 | 2 |
+| [LU0159053015](../sectoriales/LU0159053015.md) | JPMorgan Funds - US Technology Fund D (acc) - EUR | Activa | EUR | Technology Sector Equity | 2,68 | 14,54 | 5 | 3 |
+| [LU0117885052](../sectoriales/LU0117885052.md) | JPMorgan Funds - US Technology Fund D (acc) - USD | Activa | USD | Technology Sector Equity | 2,68 | 14,64 | 6 | 3 |
+| [LU1279333832](../sectoriales/LU1279333832.md) | Pictet-Robotics-R USD | Activa | USD | Technology Sector Equity | 2,68 | 19,09 | 5 | 3 |
+| [LU0340555134](../sectoriales/LU0340555134.md) | Pictet-Digital-R EUR | Activa | EUR | Technology Sector Equity | 2,69 | 17,04 | 5 | 3 |
 | [LU0104885248](../sectoriales/LU0104885248.md) | Pictet-Water-R EUR | Activa | EUR | Equity Miscellaneous | 2,69 | 3,57 | 4 | 1 |
-| LU0114723033 | Fidelity Funds - Global Industrials Fund E-Acc-EUR | Activa | EUR | Industrials Sector Equity | 2,70 | 14,89 | 4 | 3 |
-| LU0840140957 | Fidelity Global Consumer Industries E Ac Eur | Activa | EUR | Consumer Goods & Services Sector Equity | 2,70 | 6,44 | 4 | 3 |
-| LU0114722738 | Fidelity Global Financial Svcs E-Acc-EUR | Activa | EUR | Financials Sector Equity | 2,70 | 17,02 | 4 | 3 |
-| LU0114721177 | Fidelity Global Health Care E-Acc-EUR | Activa | EUR | Healthcare Sector Equity | 2,70 | 3,97 | 4 | 2 |
+| [LU0114723033](../sectoriales/LU0114723033.md) | Fidelity Funds - Global Industrials Fund E-Acc-EUR | Activa | EUR | Industrials Sector Equity | 2,70 | 14,89 | 4 | 3 |
+| [LU0840140957](../sectoriales/LU0840140957.md) | Fidelity Global Consumer Industries E Ac Eur | Activa | EUR | Consumer Goods & Services Sector Equity | 2,70 | 6,44 | 4 | 3 |
+| [LU0114722738](../sectoriales/LU0114722738.md) | Fidelity Global Financial Svcs E-Acc-EUR | Activa | EUR | Financials Sector Equity | 2,70 | 17,02 | 4 | 3 |
+| [LU0114721177](../sectoriales/LU0114721177.md) | Fidelity Global Health Care E-Acc-EUR | Activa | EUR | Healthcare Sector Equity | 2,70 | 3,97 | 4 | 2 |
 | [LU0366534773](../sectoriales/LU0366534773.md) | Pictet-Nutrition-R EUR | Activa | EUR | Equity Miscellaneous | 2,70 | 1,30 | 4 | 2 |
-| LU1021349151 | JPMorgan Global Healthcare Fund D ACC EUR | Activa | EUR | Healthcare Sector Equity | 2,71 | 9,00 | 4 | 3 |
-| LU0340559805 | Pictet-Timber-R EUR | Activa | EUR | Natural Resources Sector Equity | 2,71 | -5,09 | 4 | 2 |
-| LU1279335027 | Pictet-Robotics-HR EUR | Activa | EUR | Technology Sector Equity | 2,73 | 16,77 | 5 | — |
-| LU0190162189 | Pictet-Biotech-HR EUR | Activa | EUR | Healthcare Sector Equity | 2,74 | 22,94 | 5 | — |
-| LU0117884675 | JPMorgan Funds - Europe Dynamic Technologies Fund D (acc) - EUR | Activa | EUR | Technology Sector Equity | 2,76 | 7,07 | 5 | 2 |
-| LU0208853944 | JPMorgan Funds - Global Natural Resources Fund D (acc) EUR | Activa | EUR | Natural Resources Sector Equity | 2,76 | 16,28 | 5 | 4 |
-| LU0266512630 | JPMorgan Funds - Global Natural Resources Fund D (acc) USD | Activa | USD | Natural Resources Sector Equity | 2,81 | 16,32 | 5 | 4 |
-| LU1602091867 | Allianz Global Investors Fund - Allianz Global Artificial Intelligence CT EUR  | Activa | EUR | Technology Sector Equity | 2,86 | 13,57 | 5 | 2 |
+| [LU1021349151](../sectoriales/LU1021349151.md) | JPMorgan Global Healthcare Fund D ACC EUR | Activa | EUR | Healthcare Sector Equity | 2,71 | 9,00 | 4 | 3 |
+| [LU0340559805](../sectoriales/LU0340559805.md) | Pictet-Timber-R EUR | Activa | EUR | Natural Resources Sector Equity | 2,71 | -5,09 | 4 | 2 |
+| [LU1279335027](../sectoriales/LU1279335027.md) | Pictet-Robotics-HR EUR | Activa | EUR | Technology Sector Equity | 2,73 | 16,77 | 5 | — |
+| [LU0190162189](../sectoriales/LU0190162189.md) | Pictet-Biotech-HR EUR | Activa | EUR | Healthcare Sector Equity | 2,74 | 22,94 | 5 | — |
+| [LU0117884675](../sectoriales/LU0117884675.md) | JPMorgan Funds - Europe Dynamic Technologies Fund D (acc) - EUR | Activa | EUR | Technology Sector Equity | 2,76 | 7,07 | 5 | 2 |
+| [LU0208853944](../sectoriales/LU0208853944.md) | JPMorgan Funds - Global Natural Resources Fund D (acc) EUR | Activa | EUR | Natural Resources Sector Equity | 2,76 | 16,28 | 5 | 4 |
+| [LU0266512630](../sectoriales/LU0266512630.md) | JPMorgan Funds - Global Natural Resources Fund D (acc) USD | Activa | USD | Natural Resources Sector Equity | 2,81 | 16,32 | 5 | 4 |
+| [LU1602091867](../sectoriales/LU1602091867.md) | Allianz Global Investors Fund - Allianz Global Artificial Intelligence CT EUR  | Activa | EUR | Technology Sector Equity | 2,86 | 13,57 | 5 | 2 |
 | [LU1165135796](../sectoriales/LU1165135796.md) | BNP Paribas Funds Aqua N Capitalisation | Activa | EUR | Equity Miscellaneous | 2,96 | 7,77 | 4 | 3 |
 | [ES0143559005](../sectoriales/ES0143559005.md) | GVC Gaesco Columbus Europ Eq A FI | Activa | EUR | Europe Equity Mid/Small Cap | 3,27 | 13,60 | 4 | 4 |
 
@@ -2029,70 +2029,70 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FR0010016477 | Candriam Index Arbitrage Classique en EUR | Activa | EUR | Market Neutral | 0,40 | 1,85 | 2 | — |
-| ES0128522002 | VALOR RELATIVO RENTA FIJA FI | Activa | EUR | Global Macro | 0,95 | 3,14 | 2 | 3 |
-| ES0173321003 | RENTA 4 PEGASUS CLASE R FI | Activa | EUR | Global Macro | 0,96 | 3,41 | 2 | 3 |
-| ES0158577017 | CREAND GESTION FLEXIBLE SOSTEN | Activa | EUR | Global Macro | 1,00 | 3,68 | 3 | 3 |
-| LU2098772366 | Candriam Bonds Credit Alpha C EUR | Activa | EUR | Long/Short Credit | 1,28 | 3,23 | 4 | — |
-| IE00BWVFLK42 | MontLake DUNN WMA Institutional UCITS Fund EUR Retail Class Pooled Shares | Activa | EUR | Alternative Miscellaneous | 1,34 | 4,51 | 3 | 4 |
-| ES0111192003 | ATTITUDE OPPORTUNITIES FI | Activa | EUR | Global Macro | 1,35 | 4,56 | 3 | 3 |
-| LU1881477043 | DWS Invest Enhanced Commodity Strategy LC | Activa | EUR | Commodities Broad Basket | 1,35 | 12,65 | 4 | — |
-| LU0370038167 | Goldman Sachs Alternative Beta - Class P Acc EUR | Activa | EUR | Multialternative | 1,35 | 7,58 | 3 | 4 |
-| LU0095938881 | JPMorgan Investment Funds - Global Macro Opportunities Fund A (acc) - EUR | Activa | EUR | Global Macro | 1,45 | -0,76 | 3 | 2 |
-| ES0131445043 | ESFERA III MUSTALLAR | Activa | EUR | Alternative Miscellaneous | 1,46 | — | 4 | — |
-| LU0442406889 | Amundi Funds - Volatility World A EUR Hgd (C) | Activa | EUR | Options Trading | 1,49 | 1,91 | 5 | — |
-| ES0108582018 | Alos Retorno Absoluto Gobiernos FI | Activa | EUR | Market Neutral | 1,52 | — | 3 | — |
-| FR0011170182 | Ofi Financial Investment - Precious Metals R | Activa | EUR | Commodities Specified | 1,52 | 16,64 | 5 | — |
-| LU0272941971 | Amundi Funds - Volatility Euro A EUR (C) | Activa | EUR | Options Trading | 1,54 | 2,31 | 5 | — |
-| IE00BLP5S460 | JupiterMerian Global Equity Absolute Return Fund L (EUR) Hedged Acc | Activa | EUR | Market Neutral | 1,55 | 10,12 | 2 | 4 |
-| LU1352905993 | BlackRock Strategic Funds - BLK Systematic Style Factor Absolute Return Fund Class A2 USD | Activa | USD | Multialternative | 1,56 | 13,27 | 3 | 4 |
-| IE00B50VLK46 | VERITAS GLB REAL R FND B AC EU | Activa | EUR | Long/Short Equity | 1,57 | 1,84 | 3 | — |
-| LU0490786174 | Janus Henderson Absolute Return Fund A2 HEUR | Activa | EUR | Long/Short Equity | 1,63 | 4,39 | 2 | — |
-| IE00B79S1F56 | PIMCO GIS Commodity Real Return Fund E Class EUR (Hedged) Accumulation | Activa | EUR | Commodities Broad Basket | 1,64 | 9,50 | 4 | — |
-| IE00BRJT7T44 | ARGETRISK  EQUITIES DN H EUR | Activa | EUR | Long/Short Equity | 1,66 | — | 4 | — |
-| LU1819523264 | Candriam Absolute Return Equity Market Neutral C EUR | Activa | EUR | Market Neutral | 1,68 | 1,85 | 5 | 4 |
-| FR0010794792 | Candriam Diversified Futures Classique | Activa | EUR | Alternative Miscellaneous | 1,70 | -1,72 | 5 | 3 |
-| IE00B59GB660 | GAM Star Fund plc - GAM Star Global Rates Class A USD Accumulation | Activa | USD | Global Macro | 1,75 | 4,21 | 3 | 4 |
-| LU0230918368 | UBS (Lux) Commodity Index Plus USD Fund B | Activa | USD | Commodities Broad Basket | 1,80 | 10,95 | 4 | — |
-| LU1376384878 | BSF GLB EVENT DRVN A2RF AC EUR | Activa | EUR | Market Neutral | 1,85 | 4,52 | 3 | — |
-| IE00B5ZNKR51 | Man GLG Alpha Select Alternative Class DL H EUR | Activa | EUR | Market Neutral | 1,87 | -0,82 | 3 | 3 |
-| LU0411704413 | BlackRock Strategic Funds - European Absolute Return Fund A2 EUR | Activa | EUR | Market Neutral | 1,88 | 0,50 | 3 | 3 |
-| IE00BKYBHV81 | U Access (IRL) Campbell Absolute Return UCITS E EUR Acc | Activa | EUR | Multialternative | 1,88 | 1,82 | 3 | 2 |
-| LU2653877139 | Volatility Blocks Fund | Activa | EUR | Options Trading | 1,90 | — | 2 | — |
-| LU1508158430 | BlackRock Strategic Fds - BlackRock Systematic Asia Pacific Equity Absolute Return Fd A2 EUR Hedged | Activa | EUR | Market Neutral | 1,91 | 11,79 | 3 | 5 |
-| LU1807426207 | Nordea 1 - Alpha 7 MA Fund BP EUR | Activa | EUR | Multialternative | 1,92 | -1,29 | 3 | 1 |
-| LU1433232854 | Pictet TR-Atlas-P EUR | Activa | EUR | Long/Short Equity | 1,93 | 5,92 | 2 | 3 |
-| ES0142630005 | GPM GESTION ACTIVA, FI | Activa | EUR | Global Macro | 1,94 | 6,20 | 4 | 2 |
-| LU0496443531 | Pictet TR-Mandarin-P USD | Activa | USD | Long/Short Equity | 1,94 | 9,82 | 4 | — |
-| LU2399670780 | Schroder ISF Commodity A Accumulation EUR Hedged | Activa | EUR | Commodities Broad Basket | 1,94 | 10,49 | 4 | — |
-| LU0984246958 | GAM Star (Lux) - Galena Commodities B EUR | Activa | EUR | Commodities Broad Basket | 1,95 | 8,66 | 6 | — |
-| LU2206556016 | Pictet TR-Atlas Titan-P EUR | Activa | EUR | Long/Short Equity | 1,95 | 10,40 | 3 | 4 |
-| LU0496443887 | Pictet TR-Mandarin-HP EUR | Activa | EUR | Long/Short Equity | 1,99 | 8,10 | 4 | — |
-| LU1071462615 | Pictet TR - Agora - P EUR | Activa | EUR | Market Neutral | 2,03 | -1,58 | 3 | 2 |
-| IE00B7V30396 | BMO REAL EST EQ LNG SHRT A EUR | Activa | EUR | Market Neutral | 2,05 | 2,70 | 2 | 3 |
-| LU0736559278 | AB SELECT ABS ALPHA A AC EURH | Activa | EUR | Long/Short Equity | 2,06 | 6,91 | 3 | — |
-| IE00BDRKST89 | GLG INNOV EQ ALTERN DN ACC EUR | Activa | EUR | Long/Short Equity | 2,08 | 3,36 | 3 | — |
-| LU1293073232 | Schroder GAIA BlueTrend A Accumulation USD | Activa | USD | Alternative Miscellaneous | 2,09 | 1,12 | 4 | 2 |
-| ES0116831092 | Gestión Boutique B4A Cartera Equilibrada FI | Activa | EUR | Multialternative | 2,11 | 5,65 | 2 | 4 |
-| LU1293073745 | Schroder GAIA BlueTrend A Accumulation EUR Hedged | Activa | EUR | Alternative Miscellaneous | 2,12 | -0,41 | 4 | 2 |
-| FR0010149179 | Carmignac Absolute Return Europe A Eur Acc | Activa | EUR | Long/Short Equity | 2,15 | 0,90 | 2 | 2 |
-| LU0115098948 | JPMorgan Investment Funds - Global Macro Opportunities Fund D (acc) EUR | Activa | EUR | Global Macro | 2,15 | -1,45 | 3 | 2 |
-| IE00B5TN9J68 | GAM Star Fund plc - GAM Star Emerging Market Rates Class Ordinary EUR Accumulation Hedged | Activa | EUR | Global Macro | 2,23 | 1,39 | 3 | 2 |
-| IE00B5V4MS78 | GAM Star Fund plc - GAM Star Emerging Market Rates Class USD Accumulation | Activa | USD | Global Macro | 2,24 | 3,07 | 3 | 2 |
-| FR0010174144 | BDL REMPART - C | Activa | EUR | Long/Short Equity | 2,30 | 8,71 | 3 | 4 |
-| LU0607983896 | NORDEA ALPHA 15 MA BP ACC EUR | Activa | EUR | Multialternative | 2,30 | -5,54 | 5 | 2 |
-| LU1232088200 | Alger Dynamic Opportunities Fund Class A EU | Activa | EUR | Long/Short Equity | 2,34 | 8,14 | 4 | — |
-| LU0414665884 | BlackRock Strategic Funds - European Absolute Return Fund E2 EUR | Activa | EUR | Market Neutral | 2,38 | 0,03 | 3 | 2 |
-| LU1266592614 | BlackRock Strategic Funds - Systematic US Equity Absolute Return Fund E2 EUR Hedged | Activa | EUR | Market Neutral | 2,40 | 4,57 | 3 | 4 |
-| LU1725200650 | Schroder GAIA Contour Technology Equity A Accumulation EUR Hedged | Activa | EUR | Long/Short Equity | 2,45 | 20,55 | 4 | — |
-| LU1176912761 | JPMorgan Funds - Europe Equity Absolute Alpha Fund D (perf) (acc) EUR | Activa | EUR | Market Neutral | 2,48 | 9,11 | 3 | 5 |
-| IE000Y2SVZD4 | U Access (IRL) Bain Capital Global Equity LS Sustainable UCITS E EUR Acc | Activa | EUR | Long/Short Equity | 2,53 | — | 3 | — |
-| IE000VI1O6T8 | U Access (IRL) Bain Capital Global Equity LS Sustainable UCITS E USD Acc | Activa | USD | Long/Short Equity | 2,53 | -1,46 | 3 | — |
-| IE00BKDRXH52 |  SHANN RIV E EURH | Activa | EUR | Long/Short Equity | 2,59 | 6,22 | 4 | — |
-| IE00BKDRXG46 | U Access (IRL) Shannon River UCITS E USD | Activa | USD | Long/Short Equity | 2,59 | 8,20 | 4 | — |
-| LU0424370004 | Man AHL Trend Alternative DNY H EUR Acc | Activa | EUR | Alternative Miscellaneous | 2,75 | 3,19 | 4 | 3 |
-| LU0428380397 | Man AHL Trend Alternative DNY USD Acc | Activa | USD | Alternative Miscellaneous | 2,75 | 4,48 | 4 | 3 |
-| ES0116831100 | G BOUTIQUE B4A CARTERA DECIDID | Activa | EUR | Multialternative | 2,94 | 6,87 | 3 | 4 |
+| [FR0010016477](../alternativos/FR0010016477.md) | Candriam Index Arbitrage Classique en EUR | Activa | EUR | Market Neutral | 0,40 | 1,85 | 2 | — |
+| [ES0128522002](../alternativos/ES0128522002.md) | VALOR RELATIVO RENTA FIJA FI | Activa | EUR | Global Macro | 0,95 | 3,14 | 2 | 3 |
+| [ES0173321003](../alternativos/ES0173321003.md) | RENTA 4 PEGASUS CLASE R FI | Activa | EUR | Global Macro | 0,96 | 3,41 | 2 | 3 |
+| [ES0158577017](../alternativos/ES0158577017.md) | CREAND GESTION FLEXIBLE SOSTEN | Activa | EUR | Global Macro | 1,00 | 3,68 | 3 | 3 |
+| [LU2098772366](../alternativos/LU2098772366.md) | Candriam Bonds Credit Alpha C EUR | Activa | EUR | Long/Short Credit | 1,28 | 3,23 | 4 | — |
+| [IE00BWVFLK42](../alternativos/IE00BWVFLK42.md) | MontLake DUNN WMA Institutional UCITS Fund EUR Retail Class Pooled Shares | Activa | EUR | Alternative Miscellaneous | 1,34 | 4,51 | 3 | 4 |
+| [ES0111192003](../alternativos/ES0111192003.md) | ATTITUDE OPPORTUNITIES FI | Activa | EUR | Global Macro | 1,35 | 4,56 | 3 | 3 |
+| [LU1881477043](../alternativos/LU1881477043.md) | DWS Invest Enhanced Commodity Strategy LC | Activa | EUR | Commodities Broad Basket | 1,35 | 12,65 | 4 | — |
+| [LU0370038167](../alternativos/LU0370038167.md) | Goldman Sachs Alternative Beta - Class P Acc EUR | Activa | EUR | Multialternative | 1,35 | 7,58 | 3 | 4 |
+| [LU0095938881](../alternativos/LU0095938881.md) | JPMorgan Investment Funds - Global Macro Opportunities Fund A (acc) - EUR | Activa | EUR | Global Macro | 1,45 | -0,76 | 3 | 2 |
+| [ES0131445043](../alternativos/ES0131445043.md) | ESFERA III MUSTALLAR | Activa | EUR | Alternative Miscellaneous | 1,46 | — | 4 | — |
+| [LU0442406889](../alternativos/LU0442406889.md) | Amundi Funds - Volatility World A EUR Hgd (C) | Activa | EUR | Options Trading | 1,49 | 1,91 | 5 | — |
+| [ES0108582018](../alternativos/ES0108582018.md) | Alos Retorno Absoluto Gobiernos FI | Activa | EUR | Market Neutral | 1,52 | — | 3 | — |
+| [FR0011170182](../alternativos/FR0011170182.md) | Ofi Financial Investment - Precious Metals R | Activa | EUR | Commodities Specified | 1,52 | 16,64 | 5 | — |
+| [LU0272941971](../alternativos/LU0272941971.md) | Amundi Funds - Volatility Euro A EUR (C) | Activa | EUR | Options Trading | 1,54 | 2,31 | 5 | — |
+| [IE00BLP5S460](../alternativos/IE00BLP5S460.md) | JupiterMerian Global Equity Absolute Return Fund L (EUR) Hedged Acc | Activa | EUR | Market Neutral | 1,55 | 10,12 | 2 | 4 |
+| [LU1352905993](../alternativos/LU1352905993.md) | BlackRock Strategic Funds - BLK Systematic Style Factor Absolute Return Fund Class A2 USD | Activa | USD | Multialternative | 1,56 | 13,27 | 3 | 4 |
+| [IE00B50VLK46](../alternativos/IE00B50VLK46.md) | VERITAS GLB REAL R FND B AC EU | Activa | EUR | Long/Short Equity | 1,57 | 1,84 | 3 | — |
+| [LU0490786174](../alternativos/LU0490786174.md) | Janus Henderson Absolute Return Fund A2 HEUR | Activa | EUR | Long/Short Equity | 1,63 | 4,39 | 2 | — |
+| [IE00B79S1F56](../alternativos/IE00B79S1F56.md) | PIMCO GIS Commodity Real Return Fund E Class EUR (Hedged) Accumulation | Activa | EUR | Commodities Broad Basket | 1,64 | 9,50 | 4 | — |
+| [IE00BRJT7T44](../alternativos/IE00BRJT7T44.md) | ARGETRISK  EQUITIES DN H EUR | Activa | EUR | Long/Short Equity | 1,66 | — | 4 | — |
+| [LU1819523264](../alternativos/LU1819523264.md) | Candriam Absolute Return Equity Market Neutral C EUR | Activa | EUR | Market Neutral | 1,68 | 1,85 | 5 | 4 |
+| [FR0010794792](../alternativos/FR0010794792.md) | Candriam Diversified Futures Classique | Activa | EUR | Alternative Miscellaneous | 1,70 | -1,72 | 5 | 3 |
+| [IE00B59GB660](../alternativos/IE00B59GB660.md) | GAM Star Fund plc - GAM Star Global Rates Class A USD Accumulation | Activa | USD | Global Macro | 1,75 | 4,21 | 3 | 4 |
+| [LU0230918368](../alternativos/LU0230918368.md) | UBS (Lux) Commodity Index Plus USD Fund B | Activa | USD | Commodities Broad Basket | 1,80 | 10,95 | 4 | — |
+| [LU1376384878](../alternativos/LU1376384878.md) | BSF GLB EVENT DRVN A2RF AC EUR | Activa | EUR | Market Neutral | 1,85 | 4,52 | 3 | — |
+| [IE00B5ZNKR51](../alternativos/IE00B5ZNKR51.md) | Man GLG Alpha Select Alternative Class DL H EUR | Activa | EUR | Market Neutral | 1,87 | -0,82 | 3 | 3 |
+| [LU0411704413](../alternativos/LU0411704413.md) | BlackRock Strategic Funds - European Absolute Return Fund A2 EUR | Activa | EUR | Market Neutral | 1,88 | 0,50 | 3 | 3 |
+| [IE00BKYBHV81](../alternativos/IE00BKYBHV81.md) | U Access (IRL) Campbell Absolute Return UCITS E EUR Acc | Activa | EUR | Multialternative | 1,88 | 1,82 | 3 | 2 |
+| [LU2653877139](../alternativos/LU2653877139.md) | Volatility Blocks Fund | Activa | EUR | Options Trading | 1,90 | — | 2 | — |
+| [LU1508158430](../alternativos/LU1508158430.md) | BlackRock Strategic Fds - BlackRock Systematic Asia Pacific Equity Absolute Return Fd A2 EUR Hedged | Activa | EUR | Market Neutral | 1,91 | 11,79 | 3 | 5 |
+| [LU1807426207](../alternativos/LU1807426207.md) | Nordea 1 - Alpha 7 MA Fund BP EUR | Activa | EUR | Multialternative | 1,92 | -1,29 | 3 | 1 |
+| [LU1433232854](../alternativos/LU1433232854.md) | Pictet TR-Atlas-P EUR | Activa | EUR | Long/Short Equity | 1,93 | 5,92 | 2 | 3 |
+| [ES0142630005](../alternativos/ES0142630005.md) | GPM GESTION ACTIVA, FI | Activa | EUR | Global Macro | 1,94 | 6,20 | 4 | 2 |
+| [LU0496443531](../alternativos/LU0496443531.md) | Pictet TR-Mandarin-P USD | Activa | USD | Long/Short Equity | 1,94 | 9,82 | 4 | — |
+| [LU2399670780](../alternativos/LU2399670780.md) | Schroder ISF Commodity A Accumulation EUR Hedged | Activa | EUR | Commodities Broad Basket | 1,94 | 10,49 | 4 | — |
+| [LU0984246958](../alternativos/LU0984246958.md) | GAM Star (Lux) - Galena Commodities B EUR | Activa | EUR | Commodities Broad Basket | 1,95 | 8,66 | 6 | — |
+| [LU2206556016](../alternativos/LU2206556016.md) | Pictet TR-Atlas Titan-P EUR | Activa | EUR | Long/Short Equity | 1,95 | 10,40 | 3 | 4 |
+| [LU0496443887](../alternativos/LU0496443887.md) | Pictet TR-Mandarin-HP EUR | Activa | EUR | Long/Short Equity | 1,99 | 8,10 | 4 | — |
+| [LU1071462615](../alternativos/LU1071462615.md) | Pictet TR - Agora - P EUR | Activa | EUR | Market Neutral | 2,03 | -1,58 | 3 | 2 |
+| [IE00B7V30396](../alternativos/IE00B7V30396.md) | BMO REAL EST EQ LNG SHRT A EUR | Activa | EUR | Market Neutral | 2,05 | 2,70 | 2 | 3 |
+| [LU0736559278](../alternativos/LU0736559278.md) | AB SELECT ABS ALPHA A AC EURH | Activa | EUR | Long/Short Equity | 2,06 | 6,91 | 3 | — |
+| [IE00BDRKST89](../alternativos/IE00BDRKST89.md) | GLG INNOV EQ ALTERN DN ACC EUR | Activa | EUR | Long/Short Equity | 2,08 | 3,36 | 3 | — |
+| [LU1293073232](../alternativos/LU1293073232.md) | Schroder GAIA BlueTrend A Accumulation USD | Activa | USD | Alternative Miscellaneous | 2,09 | 1,12 | 4 | 2 |
+| [ES0116831092](../alternativos/ES0116831092.md) | Gestión Boutique B4A Cartera Equilibrada FI | Activa | EUR | Multialternative | 2,11 | 5,65 | 2 | 4 |
+| [LU1293073745](../alternativos/LU1293073745.md) | Schroder GAIA BlueTrend A Accumulation EUR Hedged | Activa | EUR | Alternative Miscellaneous | 2,12 | -0,41 | 4 | 2 |
+| [FR0010149179](../alternativos/FR0010149179.md) | Carmignac Absolute Return Europe A Eur Acc | Activa | EUR | Long/Short Equity | 2,15 | 0,90 | 2 | 2 |
+| [LU0115098948](../alternativos/LU0115098948.md) | JPMorgan Investment Funds - Global Macro Opportunities Fund D (acc) EUR | Activa | EUR | Global Macro | 2,15 | -1,45 | 3 | 2 |
+| [IE00B5TN9J68](../alternativos/IE00B5TN9J68.md) | GAM Star Fund plc - GAM Star Emerging Market Rates Class Ordinary EUR Accumulation Hedged | Activa | EUR | Global Macro | 2,23 | 1,39 | 3 | 2 |
+| [IE00B5V4MS78](../alternativos/IE00B5V4MS78.md) | GAM Star Fund plc - GAM Star Emerging Market Rates Class USD Accumulation | Activa | USD | Global Macro | 2,24 | 3,07 | 3 | 2 |
+| [FR0010174144](../alternativos/FR0010174144.md) | BDL REMPART - C | Activa | EUR | Long/Short Equity | 2,30 | 8,71 | 3 | 4 |
+| [LU0607983896](../alternativos/LU0607983896.md) | NORDEA ALPHA 15 MA BP ACC EUR | Activa | EUR | Multialternative | 2,30 | -5,54 | 5 | 2 |
+| [LU1232088200](../alternativos/LU1232088200.md) | Alger Dynamic Opportunities Fund Class A EU | Activa | EUR | Long/Short Equity | 2,34 | 8,14 | 4 | — |
+| [LU0414665884](../alternativos/LU0414665884.md) | BlackRock Strategic Funds - European Absolute Return Fund E2 EUR | Activa | EUR | Market Neutral | 2,38 | 0,03 | 3 | 2 |
+| [LU1266592614](../alternativos/LU1266592614.md) | BlackRock Strategic Funds - Systematic US Equity Absolute Return Fund E2 EUR Hedged | Activa | EUR | Market Neutral | 2,40 | 4,57 | 3 | 4 |
+| [LU1725200650](../alternativos/LU1725200650.md) | Schroder GAIA Contour Technology Equity A Accumulation EUR Hedged | Activa | EUR | Long/Short Equity | 2,45 | 20,55 | 4 | — |
+| [LU1176912761](../alternativos/LU1176912761.md) | JPMorgan Funds - Europe Equity Absolute Alpha Fund D (perf) (acc) EUR | Activa | EUR | Market Neutral | 2,48 | 9,11 | 3 | 5 |
+| [IE000Y2SVZD4](../alternativos/IE000Y2SVZD4.md) | U Access (IRL) Bain Capital Global Equity LS Sustainable UCITS E EUR Acc | Activa | EUR | Long/Short Equity | 2,53 | — | 3 | — |
+| [IE000VI1O6T8](../alternativos/IE000VI1O6T8.md) | U Access (IRL) Bain Capital Global Equity LS Sustainable UCITS E USD Acc | Activa | USD | Long/Short Equity | 2,53 | -1,46 | 3 | — |
+| [IE00BKDRXH52](../alternativos/IE00BKDRXH52.md) |  SHANN RIV E EURH | Activa | EUR | Long/Short Equity | 2,59 | 6,22 | 4 | — |
+| [IE00BKDRXG46](../alternativos/IE00BKDRXG46.md) | U Access (IRL) Shannon River UCITS E USD | Activa | USD | Long/Short Equity | 2,59 | 8,20 | 4 | — |
+| [LU0424370004](../alternativos/LU0424370004.md) | Man AHL Trend Alternative DNY H EUR Acc | Activa | EUR | Alternative Miscellaneous | 2,75 | 3,19 | 4 | 3 |
+| [LU0428380397](../alternativos/LU0428380397.md) | Man AHL Trend Alternative DNY USD Acc | Activa | USD | Alternative Miscellaneous | 2,75 | 4,48 | 4 | 3 |
+| [ES0116831100](../alternativos/ES0116831100.md) | G BOUTIQUE B4A CARTERA DECIDID | Activa | EUR | Multialternative | 2,94 | 6,87 | 3 | 4 |
 | [LU2466569832](../alternativos/LU2466569832.md) | Schroders Capital Semi-Liquid Global Private Equity A2 Accumulation EUR | Activa | EUR | Equity Miscellaneous | 4,99 | 5,35 | 3 | — |
 
 ## Notas
