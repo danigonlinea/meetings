@@ -401,7 +401,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/DE0009781740.md"
   },
   {
    "isin": "DE0009848119",
@@ -1298,7 +1298,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-global/ES0110407154.md"
   },
   {
    "isin": "ES0110407162",
@@ -2293,7 +2293,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-global/ES0118873035.md"
   },
   {
    "isin": "ES0119207001",
@@ -7514,7 +7514,7 @@
    "srri": 4,
    "rating": 5,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/ES0175902008.md"
   },
   {
    "isin": "ES0176408013",
@@ -7712,7 +7712,7 @@
    "srri": 4,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/ES0180792006.md"
   },
   {
    "isin": "ES0180819015",
@@ -15118,7 +15118,7 @@
    "srri": 4,
    "rating": 5,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/IE00BH6XSF26.md"
   },
   {
    "isin": "IE00BJ5JS224",
@@ -20909,7 +20909,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/LU0203975197.md"
   },
   {
    "isin": "LU0203975437",
@@ -31472,7 +31472,7 @@
    "srri": 4,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/LU1278917452.md"
   },
   {
    "isin": "LU1278917536",
@@ -33368,7 +33368,7 @@
    "srri": 3,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/LU1616932866.md"
   },
   {
    "isin": "LU1620156130",
@@ -38225,7 +38225,7 @@
    "pendientes": [
     "r5a"
    ],
-   "ficha": null
+   "ficha": "rv-global/LU2596603519.md"
   },
   {
    "isin": "LU2596604087",
