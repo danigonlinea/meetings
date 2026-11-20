@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1784
+**Fondos: 1980** · con ficha previa: 1786
 
 | Clase | Fondos |
 | --- | --- |
@@ -1768,7 +1768,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00B3CCJ740](../sectoriales/IE00B3CCJ740.md) | Guinness Sustainable Energy D EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,24 | 6,80 | 4 | 3 |
 | [ES0173130008](../sectoriales/ES0173130008.md) | Renta 4 Megatendencias Ariema Hidrogeno Y Energias Sostenibles FI | Activa | EUR | Equity Miscellaneous | 1,25 | 6,29 | 5 | — |
 | [IE00B3CCJB88](../sectoriales/IE00B3CCJB88.md) | Guinness Global Energy D EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,27 | 16,26 | 5 | 2 |
-| IE00B52VLZ70 | Polar Capital Global Insurance Fund R Acc (EUR) | Activa | EUR | Financials Sector Equity | 1,31 | 15,66 | 4 | 4 |
+| [IE00B52VLZ70](../sectoriales/IE00B52VLZ70.md) | Polar Capital Global Insurance Fund R Acc (EUR) | Activa | EUR | Financials Sector Equity | 1,31 | 15,66 | 4 | 4 |
 | IE00B547TM68 | Polar Capital Global Insurance Fund R Inc (EUR) | Activa | EUR | Financials Sector Equity | 1,31 | 14,87 | 4 | 4 |
 | [IE00B4X9QT28](../sectoriales/IE00B4X9QT28.md) | Polar Capital Global Insurance Fund R Inc (USD) | Activa | USD | Financials Sector Equity | 1,31 | 14,87 | 4 | 4 |
 | [IE000DDQNQO2](../sectoriales/IE000DDQNQO2.md) | Ashoka WhiteOak Emerging Markets Equity Fund Class C USD Accumulation | Activa | USD | Global Emerging Markets Equity | 1,34 | 20,50 | 4 | 5 |
@@ -1834,7 +1834,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [FR0007457890](../sectoriales/FR0007457890.md) | R-co Thematic Real Estate C | Activa | EUR | Real Estate Sector Equity | 1,75 | 1,33 | 5 | 3 |
 | [LU0216734805](../sectoriales/LU0216734805.md) | AXA World Funds - Framlington Europe Real Estate Securities A Distribution EUR | Activa | EUR | Real Estate Sector Equity | 1,76 | 1,75 | 5 | 3 |
 | [LU0208853274](../sectoriales/LU0208853274.md) | JPMorgan Funds - Global Natural Resources Fund A (acc) - EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 17,45 | 5 | 5 |
-| LU1022033648 | KONWAVE TRANSITION METAL-B-EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 24,34 | 5 | 2 |
+| [LU1022033648](../sectoriales/LU1022033648.md) | KONWAVE TRANSITION METAL-B-EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 24,34 | 5 | 2 |
 | [LU2306921490](../sectoriales/LU2306921490.md) | DWS Concept ESG Blue Economy LC EUR Accumulation | Activa | EUR | Equity Miscellaneous | 1,77 | 9,15 | 4 | 2 |
 | LU2560836129 | JPMorgan Funds - US Technology Fund A (acc) - EUR (hedged) | Activa | EUR | Technology Sector Equity | 1,77 | 13,74 | 5 | — |
 | FR0010909531 | R-co Thematic Silver Plus C | Activa | EUR | Healthcare Sector Equity | 1,77 | 6,13 | 4 | 2 |
