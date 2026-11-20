@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1472
+**Fondos: 1980** · con ficha previa: 1473
 
 | Clase | Fondos |
 | --- | --- |
@@ -1328,7 +1328,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1159238036](../rv-europa/LU1159238036.md) | State Street EMU ESG Screened Index Equity Fund P EUR | Indexada | EUR | Europe Equity Large Cap | 0,50 | 15,96 | 4 | 4 |
 | [LU3232938996](../rv-europa/LU3232938996.md) | Alinea European Equities D | Activa | EUR | Europe Equity Large Cap | 0,70 | — | 4 | — |
 | [LU3232939028](../rv-europa/LU3232939028.md) | ALINEA EUROPEAN EQUITIES M EUR | Activa | EUR | Europe Equity Large Cap | 1,00 | — | 4 | — |
-| ES0184893008 | Muza FI | Activa | EUR | Europe Equity Large Cap | 1,00 | 18,26 | 4 | 5 |
+| [ES0184893008](../rv-europa/ES0184893008.md) | Muza FI | Activa | EUR | Europe Equity Large Cap | 1,00 | 18,26 | 4 | 5 |
 | [LU0339661307](../rv-europa/LU0339661307.md) | Robeco QI European Conservative Equities D EUR | Activa | EUR | Europe Equity Large Cap | 1,01 | 15,77 | 3 | 4 |
 | [IE00BYVQ5433](../rv-europa/IE00BYVQ5433.md) | PANEUROPEAN EQ GRTH IC ACC EUR | Activa | EUR | Europe Equity Large Cap | 1,05 | 0,91 | 4 | 2 |
 | [ES0126813015](../rv-europa/ES0126813015.md) | DLTV EUROPE, FI | Activa | EUR | Europe Equity Large Cap | 1,13 | 12,32 | 4 | 3 |
