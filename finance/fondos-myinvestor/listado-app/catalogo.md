@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 952
+**Fondos: 1980** · con ficha previa: 986
 
 | Clase | Fondos |
 | --- | --- |
@@ -706,14 +706,14 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0638558717](../mixtos/LU0638558717.md) | Ruffer Total Return International O EUR Capitalisation | Activa | EUR | Flexible Allocation | 1,55 | 2,00 | 3 | 2 |
 | [LU0352312853](../mixtos/LU0352312853.md) | STRATEGY 75 CT ACC EUR | Activa | EUR | Aggressive Allocation | 1,55 | 10,52 | 3 | 3 |
 | [FR0010738120](../mixtos/FR0010738120.md) | SYCOMORE PARTNERS FUND P EUR | Activa | EUR | Flexible Allocation | 1,55 | 3,57 | 3 | 2 |
-| LU0766462104 | ALLIANZ INCOME AND GROWTH A DIS EURH2 | Activa | EUR | Moderate Allocation | 1,56 | 7,08 | 3 | 3 |
-| LU1006075227 | CG GLOBAL ALLOCATION B USD | Activa | USD | Moderate Allocation | 1,56 | 8,53 | 3 | 3 |
+| [LU0766462104](../mixtos/LU0766462104.md) | ALLIANZ INCOME AND GROWTH A DIS EURH2 | Activa | EUR | Moderate Allocation | 1,56 | 7,08 | 3 | 3 |
+| [LU1006075227](../mixtos/LU1006075227.md) | CG GLOBAL ALLOCATION B USD | Activa | USD | Moderate Allocation | 1,56 | 8,53 | 3 | 3 |
 | [LU1006075656](../mixtos/LU1006075656.md) | Capital Group Global Allocation B Eur | Activa | EUR | Moderate Allocation | 1,56 | 8,55 | 3 | 3 |
 | [ES0131444111](../mixtos/ES0131444111.md) | Gestión Boutique VII Azagala FI | Activa | EUR | Flexible Allocation | 1,56 | 11,57 | 5 | 2 |
 | [LU1070113664](../mixtos/LU1070113664.md) | INCOME AND GROWTH AT ACC EURH2 | Activa | EUR | Moderate Allocation | 1,56 | 7,06 | 3 | 3 |
 | [ES0114907035](../mixtos/ES0114907035.md) | WAM Global Allocation FI | Activa | EUR | Moderate Allocation | 1,56 | 5,54 | 3 | 3 |
-| ES0174115115 | Cinvest Future Mundi A FI | Activa | EUR | Moderate Allocation | 1,57 | — | 4 | — |
-| ES0174115099 | Cinvest Octagon FI | Activa | EUR | Flexible Allocation | 1,57 | 3,60 | 3 | 2 |
+| [ES0174115115](../mixtos/ES0174115115.md) | Cinvest Future Mundi A FI | Activa | EUR | Moderate Allocation | 1,57 | — | 4 | — |
+| [ES0174115099](../mixtos/ES0174115099.md) | Cinvest Octagon FI | Activa | EUR | Flexible Allocation | 1,57 | 3,60 | 3 | 2 |
 | [ES0110407139](../mixtos/ES0110407139.md) | ESFERA I / KALDI, FI | Activa | EUR | Flexible Allocation | 1,57 | 9,53 | 4 | 2 |
 | [ES0131445001](../mixtos/ES0131445001.md) | ESFERA III JORES, FI | Activa | EUR | Flexible Allocation | 1,57 | 6,96 | 5 | 2 |
 | [ES0168798041](../mixtos/ES0168798041.md) | Gestión Boutique III Meridion Patrimonio Global FI | Activa | EUR | Flexible Allocation | 1,57 | — | 4 | — |
@@ -722,69 +722,69 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1883329432](../mixtos/LU1883329432.md) | Amundi Funds - Global Multi-Asset Conservative A EUR (C) | Activa | EUR | Cautious Allocation | 1,58 | 5,27 | 3 | 3 |
 | [LU0599946893](../mixtos/LU0599946893.md) | DWS Concept Kaldemorgen EUR LC | Activa | EUR | Flexible Allocation | 1,58 | 5,42 | 3 | 3 |
 | [LU1353746792](../mixtos/LU1353746792.md) | FLAB CORE C EUR CAP | Activa | EUR | Flexible Allocation | 1,59 | 6,38 | 3 | 2 |
-| LU0578147729 | BLI GLOBAL FLEXIBLE B ACC USD | Activa | USD | Flexible Allocation | 1,60 | 5,97 | 3 | 3 |
-| LU1499202692 | DPAM L Balanced Conservative Sust A | Activa | EUR | Moderate Allocation | 1,60 | 4,99 | 3 | 1 |
+| [LU0578147729](../mixtos/LU0578147729.md) | BLI GLOBAL FLEXIBLE B ACC USD | Activa | USD | Flexible Allocation | 1,60 | 5,97 | 3 | 3 |
+| [LU1499202692](../mixtos/LU1499202692.md) | DPAM L Balanced Conservative Sust A | Activa | EUR | Moderate Allocation | 1,60 | 4,99 | 3 | 1 |
 | [ES0168798017](../mixtos/ES0168798017.md) | GEST BOUTIQUE III PULSAR 303 R | Activa | EUR | Cautious Allocation | 1,60 | 4,52 | 3 | 4 |
 | [LU1570387610](../mixtos/LU1570387610.md) | INVESTEC GLOBAL MULTIASST INC A ACC EURH | Activa | EUR | Cautious Allocation | 1,60 | 3,28 | 2 | 2 |
 | [ES0182105033](../mixtos/ES0182105033.md) | MERCH UNIVERSAL  FI | Activa | EUR | Moderate Allocation | 1,60 | 14,53 | 3 | 5 |
 | [ES0164107007](../mixtos/ES0164107007.md) | MM GLOBAL FI | Activa | EUR | Flexible Allocation | 1,60 | 10,23 | 3 | 4 |
-| FR0011253624 | R VALOR C EUR | Activa | EUR | Flexible Allocation | 1,60 | 10,44 | 4 | 5 |
+| [FR0011253624](../mixtos/FR0011253624.md) | R VALOR C EUR | Activa | EUR | Flexible Allocation | 1,60 | 10,44 | 4 | 5 |
 | [LU1956011511](../mixtos/LU1956011511.md) | Triodos Impact Mixed Fund Offensive R EUR Acc | Activa | EUR | Aggressive Allocation | 1,60 | 8,59 | 3 | 2 |
 | [LU1075211430](../mixtos/LU1075211430.md) | INVESCO PAN EUROP HIGH INCOME A AC USDH | Activa | USD | Cautious Allocation | 1,61 | 7,57 | 2 | 4 |
 | [LU0243957239](../mixtos/LU0243957239.md) | Invesco Pan European High Income Fund A Accumulation EUR | Activa | EUR | Cautious Allocation | 1,61 | 5,92 | 2 | 5 |
 | [ES0138914033](../mixtos/ES0138914033.md) | MERCH FONTEMAR FI | Activa | EUR | Cautious Allocation | 1,61 | 6,15 | 2 | 4 |
-| ES0168799080 | ASP OPPORTUNITIES FUND | Activa | EUR | Flexible Allocation | 1,62 | 8,15 | 3 | 3 |
-| ES0168797050 | G BOUTIQUE II ACCION GLOBAL | Activa | EUR | Flexible Allocation | 1,62 | 10,86 | 5 | 1 |
+| [ES0168799080](../mixtos/ES0168799080.md) | ASP OPPORTUNITIES FUND | Activa | EUR | Flexible Allocation | 1,62 | 8,15 | 3 | 3 |
+| [ES0168797050](../mixtos/ES0168797050.md) | G BOUTIQUE II ACCION GLOBAL | Activa | EUR | Flexible Allocation | 1,62 | 10,86 | 5 | 1 |
 | [ES0168798009](../mixtos/ES0168798009.md) | GEST BOUTIQUE III PFA GLOBAL | Activa | EUR | Flexible Allocation | 1,63 | 13,52 | 4 | 3 |
-| ES0112221017 | INTERMONEY AVANCE MULTIACTIV A | Activa | EUR | Flexible Allocation | 1,63 | 5,47 | 4 | 3 |
+| [ES0112221017](../mixtos/ES0112221017.md) | INTERMONEY AVANCE MULTIACTIV A | Activa | EUR | Flexible Allocation | 1,63 | 5,47 | 4 | 3 |
 | [FR0012355139](../mixtos/FR0012355139.md) | LAZARD PATRIMOINE RC EUR | Activa | EUR | Cautious Allocation | 1,63 | 1,94 | 2 | 3 |
 | [ES0134751025](../mixtos/ES0134751025.md) | WAM HIGH CONVICTION FI, C | Activa | EUR | Moderate Allocation | 1,63 | 12,74 | 4 | 5 |
 | [ES0112340007](../mixtos/ES0112340007.md) | AVANCE GLOBAL FI B ACC EUR | Activa | EUR | Flexible Allocation | 1,64 | 7,99 | 5 | 3 |
-| LU0432616737 | Invesco Balanced-Risk Allocation A EUR Acc | Activa | EUR | Flexible Allocation | 1,64 | 6,97 | 3 | 2 |
-| ES0168797001 | G BOUTIQUE ASPAIN 11 EQUILIBRA | Activa | EUR | Moderate Allocation | 1,65 | 7,41 | 4 | 3 |
-| ES0164691067 | MULTIGESTION/ULISES | Activa | EUR | Aggressive Allocation | 1,65 | 10,23 | 3 | 2 |
-| ES0161621018 | Maverick Fund A FI | Activa | EUR | Flexible Allocation | 1,65 | -3,07 | 3 | 1 |
+| [LU0432616737](../mixtos/LU0432616737.md) | Invesco Balanced-Risk Allocation A EUR Acc | Activa | EUR | Flexible Allocation | 1,64 | 6,97 | 3 | 2 |
+| [ES0168797001](../mixtos/ES0168797001.md) | G BOUTIQUE ASPAIN 11 EQUILIBRA | Activa | EUR | Moderate Allocation | 1,65 | 7,41 | 4 | 3 |
+| [ES0164691067](../mixtos/ES0164691067.md) | MULTIGESTION/ULISES | Activa | EUR | Aggressive Allocation | 1,65 | 10,23 | 3 | 2 |
+| [ES0161621018](../mixtos/ES0161621018.md) | Maverick Fund A FI | Activa | EUR | Flexible Allocation | 1,65 | -3,07 | 3 | 1 |
 | [IE00BDZS0L05](../mixtos/IE00BDZS0L05.md) | PYRFORD GL TOT RETUR W AC EURH | Activa | EUR | Cautious Allocation | 1,65 | 4,08 | 2 | 4 |
 | [ES0172242002](../mixtos/ES0172242002.md) | QUALITY CARTERA MODERADA BP FI | Activa | EUR | Moderate Allocation | 1,65 | 6,91 | 3 | 3 |
 | [LU0553169458](../mixtos/LU0553169458.md) | ZINS & DIVIDENDE I ACC EUR | Activa | EUR | Moderate Allocation | 1,65 | 8,16 | 3 | 4 |
-| ES0168797019 | G BOUTIQUE ASPAIN 11 PATRIMONI | Activa | EUR | Cautious Allocation | 1,67 | 6,45 | 3 | 4 |
-| LU1849528234 | ODDO BHF Polaris Dynamic CR EUR | Activa | EUR | Aggressive Allocation | 1,67 | 5,22 | 4 | 2 |
-| ES0173295017 | INVERGLOBAL FI B ACC EUR | Activa | EUR | Flexible Allocation | 1,68 | — | 3 | — |
-| LU2147879543 | Tikehau International Cross Assets R EUR Acc | Activa | EUR | Flexible Allocation | 1,68 | 5,13 | 3 | 3 |
+| [ES0168797019](../mixtos/ES0168797019.md) | G BOUTIQUE ASPAIN 11 PATRIMONI | Activa | EUR | Cautious Allocation | 1,67 | 6,45 | 3 | 4 |
+| [LU1849528234](../mixtos/LU1849528234.md) | ODDO BHF Polaris Dynamic CR EUR | Activa | EUR | Aggressive Allocation | 1,67 | 5,22 | 4 | 2 |
+| [ES0173295017](../mixtos/ES0173295017.md) | INVERGLOBAL FI B ACC EUR | Activa | EUR | Flexible Allocation | 1,68 | — | 3 | — |
+| [LU2147879543](../mixtos/LU2147879543.md) | Tikehau International Cross Assets R EUR Acc | Activa | EUR | Flexible Allocation | 1,68 | 5,13 | 3 | 3 |
 | LU2051394604 | BMO SUST M-A INC FND A ACC EUR | Activa | EUR | Cautious Allocation | 1,69 | 5,11 | 3 | 3 |
 | ES0138930005 | Fonvalcem B FI | Activa | EUR | Aggressive Allocation | 1,69 | 15,59 | 3 | 3 |
-| IE00BRJT7613 | AHL TARGETRISK DH ACC EUR | Activa | EUR | Moderate Allocation | 1,70 | 4,85 | 3 | 3 |
-| LU1877826195 | Altex Prudent Growth A EUR | Activa | EUR | Flexible Allocation | 1,70 | 9,43 | 5 | 2 |
+| [IE00BRJT7613](../mixtos/IE00BRJT7613.md) | AHL TARGETRISK DH ACC EUR | Activa | EUR | Moderate Allocation | 1,70 | 4,85 | 3 | 3 |
+| [LU1877826195](../mixtos/LU1877826195.md) | Altex Prudent Growth A EUR | Activa | EUR | Flexible Allocation | 1,70 | 9,43 | 5 | 2 |
 | ES0105234001 | Bowcapital Global Fund FI | Activa | EUR | Allocation Miscellaneous | 1,70 | 6,67 | 3 | — |
-| LU1481479811 | Olea Investment fund clase A | Activa | EUR | Moderate Allocation | 1,70 | 6,32 | 3 | 3 |
+| [LU1481479811](../mixtos/LU1481479811.md) | Olea Investment fund clase A | Activa | EUR | Moderate Allocation | 1,70 | 6,32 | 3 | 3 |
 | [ES0183161019](../mixtos/ES0183161019.md) | Vcapital Moderado Flexible FI | Activa | EUR | Moderate Allocation | 1,70 | 2,66 | 3 | 1 |
-| ES0118537002 | OLEA NEUTRAL FI | Activa | EUR | Moderate Allocation | 1,71 | 6,14 | 3 | 3 |
-| ES0131445084 | Esfera III España Opción Activa FI | Activa | EUR | Flexible Allocation | 1,72 | 4,07 | 3 | 2 |
+| [ES0118537002](../mixtos/ES0118537002.md) | OLEA NEUTRAL FI | Activa | EUR | Moderate Allocation | 1,71 | 6,14 | 3 | 3 |
+| [ES0131445084](../mixtos/ES0131445084.md) | Esfera III España Opción Activa FI | Activa | EUR | Flexible Allocation | 1,72 | 4,07 | 3 | 2 |
 | ES0168798090 | GESTION BOUTIQUE III R3 GLOBAL BALANCED | Activa | EUR | Flexible Allocation | 1,72 | 13,41 | 4 | 3 |
 | [ES0140074032](../mixtos/ES0140074032.md) | Abaco Global Value Opportunities C FI | Activa | EUR | Flexible Allocation | 1,73 | 6,64 | 4 | 3 |
 | ES0110407089 | GESTION BOUT VI FLEXIGLOBAL FI | Activa | EUR | Flexible Allocation | 1,73 | 5,54 | 5 | 1 |
 | [ES0116831050](../mixtos/ES0116831050.md) | GESTION BOUTIQUE GCAPITAL TOTAL MARKET | Activa | EUR | Moderate Allocation | 1,73 | 10,54 | 3 | 4 |
 | [LU1453542349](../mixtos/LU1453542349.md) | VALUE TREE DEFENSIVE CAP EUR | Activa | EUR | Cautious Allocation | 1,74 | 6,40 | 2 | 3 |
-| LU0740858492 | JPMorgan Investment Funds - Global Income Fund D (acc) EUR | Activa | EUR | Moderate Allocation | 1,75 | 7,11 | 3 | 2 |
-| LU0404220724 | JPMorgan Investment Funds - Global Income Fund D (div) EURGlobal Income D (div) EUR | Activa | EUR | Moderate Allocation | 1,75 | 7,12 | 3 | 2 |
-| LU2135297146 | Morgan Stanley Investment Funds - Global Balanced Sustainable Fund A EUR Acc | Activa | EUR | Flexible Allocation | 1,75 | 1,19 | 3 | — |
-| LU0908524779 | Halley Alinea Global A | Activa | EUR | Moderate Allocation | 1,76 | 8,38 | 3 | 3 |
+| [LU0740858492](../mixtos/LU0740858492.md) | JPMorgan Investment Funds - Global Income Fund D (acc) EUR | Activa | EUR | Moderate Allocation | 1,75 | 7,11 | 3 | 2 |
+| [LU0404220724](../mixtos/LU0404220724.md) | JPMorgan Investment Funds - Global Income Fund D (div) EURGlobal Income D (div) EUR | Activa | EUR | Moderate Allocation | 1,75 | 7,12 | 3 | 2 |
+| [LU2135297146](../mixtos/LU2135297146.md) | Morgan Stanley Investment Funds - Global Balanced Sustainable Fund A EUR Acc | Activa | EUR | Flexible Allocation | 1,75 | 1,19 | 3 | — |
+| [LU0908524779](../mixtos/LU0908524779.md) | Halley Alinea Global A | Activa | EUR | Moderate Allocation | 1,76 | 8,38 | 3 | 3 |
 | [LU1127386651](../mixtos/LU1127386651.md) | ALL MRKT INCOM PORT A ACC EURH | Activa | EUR | Moderate Allocation | 1,77 | 7,84 | 3 | 2 |
 | ES0162741005 | Metavalor Global FI | Activa | EUR | Flexible Allocation | 1,77 | 13,75 | 3 | 3 |
-| LU0319577374 | ODDO BHF Polaris Dynamic DRW-EUR | Activa | EUR | Aggressive Allocation | 1,77 | 5,13 | 4 | 2 |
+| [LU0319577374](../mixtos/LU0319577374.md) | ODDO BHF Polaris Dynamic DRW-EUR | Activa | EUR | Aggressive Allocation | 1,77 | 5,13 | 4 | 2 |
 | FR0010120931 | SYCOMORE LS OPPORTUNITIS A ACC | Activa | EUR | Flexible Allocation | 1,77 | 4,10 | 3 | 2 |
-| LU0072462426 | BlackRock Global Funds - Global Allocation Fund A2 | Activa | USD | Moderate Allocation | 1,78 | 10,51 | 3 | 4 |
-| LU0212925753 | BlackRock Global Funds - Global Allocation Fund A2 EUR Hedged | Activa | EUR | Moderate Allocation | 1,78 | 8,51 | 3 | 3 |
-| ES0131445118 | Gestión Boutique VIII Global Dynamic Allocation | Activa | EUR | Moderate Allocation | 1,78 | — | 3 | — |
+| [LU0072462426](../mixtos/LU0072462426.md) | BlackRock Global Funds - Global Allocation Fund A2 | Activa | USD | Moderate Allocation | 1,78 | 10,51 | 3 | 4 |
+| [LU0212925753](../mixtos/LU0212925753.md) | BlackRock Global Funds - Global Allocation Fund A2 EUR Hedged | Activa | EUR | Moderate Allocation | 1,78 | 8,51 | 3 | 3 |
+| [ES0131445118](../mixtos/ES0131445118.md) | Gestión Boutique VIII Global Dynamic Allocation | Activa | EUR | Moderate Allocation | 1,78 | — | 3 | — |
 | DE000A0X7541 | ACATIS GANE VALUE EVENT FONDS CL A | Activa | EUR | Flexible Allocation | 1,80 | 2,86 | 3 | 3 |
 | FR0010135103 | Carmignac Patrimoine A EUR Acc | Activa | EUR | Moderate Allocation | 1,80 | 9,98 | 3 | 3 |
 | LU1458464804 | JPMorgan Investment Funds - Global Income Conservative Fund D (div) - EUR | Activa | EUR | Cautious Allocation | 1,80 | 4,45 | 3 | 2 |
 | LU2705726771 | PROTEA NAO PATRIMGLB B ACC EUR | Activa | EUR | Moderate Allocation | 1,81 | — | 3 | — |
-| LU1093406186 | DYNMC MULTI STRAT 50 AT AC EUR | Activa | EUR | Aggressive Allocation | 1,82 | 10,04 | 3 | 5 |
-| LU2279691211 | JPMorgan Investment Funds - Global Income ESG Fund D (div) EUR | Activa | EUR | Moderate Allocation | 1,82 | 7,11 | 3 | 2 |
+| [LU1093406186](../mixtos/LU1093406186.md) | DYNMC MULTI STRAT 50 AT AC EUR | Activa | EUR | Aggressive Allocation | 1,82 | 10,04 | 3 | 5 |
+| [LU2279691211](../mixtos/LU2279691211.md) | JPMorgan Investment Funds - Global Income ESG Fund D (div) EUR | Activa | EUR | Moderate Allocation | 1,82 | 7,11 | 3 | 2 |
 | LU1860979399 | CERVINO WORLD INVESTMENTS RB E | Activa | EUR | Flexible Allocation | 1,83 | 10,07 | 3 | 4 |
 | LU1594335520 | DYNM MLTASST STRT 75 AT AC EUR | Activa | EUR | Aggressive Allocation | 1,83 | 14,13 | 4 | 5 |
-| ES0116831035 | Gestión Boutique Ginvest Smart FI | Activa | EUR | Moderate Allocation | 1,83 | 7,56 | 3 | 3 |
+| [ES0116831035](../mixtos/ES0116831035.md) | Gestión Boutique Ginvest Smart FI | Activa | EUR | Moderate Allocation | 1,83 | 7,56 | 3 | 3 |
 | FR0010286013 | Sextant Grand Large A | Activa | EUR | Moderate Allocation | 1,83 | 2,29 | 2 | 1 |
 | [LU1966822527](../mixtos/LU1966822527.md) | CARTESIO FUNDS EQUITY R ACC E | Activa | EUR | Flexible Allocation | 1,84 | 16,73 | 3 | 5 |
 | [ES0138233038](../mixtos/ES0138233038.md) | GVC GAESCO RETORNO ABSOLUTO FI | Activa | EUR | Multialternative | 1,84 | 9,09 | 4 | 4 |
