@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1431
+**Fondos: 1980** · con ficha previa: 1433
 
 | Clase | Fondos |
 | --- | --- |
@@ -1331,7 +1331,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | ES0184893008 | Muza FI | Activa | EUR | Europe Equity Large Cap | 1,00 | 18,26 | 4 | 5 |
 | [LU0339661307](../rv-europa/LU0339661307.md) | Robeco QI European Conservative Equities D EUR | Activa | EUR | Europe Equity Large Cap | 1,01 | 15,77 | 3 | 4 |
 | [IE00BYVQ5433](../rv-europa/IE00BYVQ5433.md) | PANEUROPEAN EQ GRTH IC ACC EUR | Activa | EUR | Europe Equity Large Cap | 1,05 | 0,91 | 4 | 2 |
-| ES0126813015 | DLTV EUROPE, FI | Activa | EUR | Europe Equity Large Cap | 1,13 | 12,32 | 4 | 3 |
+| [ES0126813015](../rv-europa/ES0126813015.md) | DLTV EUROPE, FI | Activa | EUR | Europe Equity Large Cap | 1,13 | 12,32 | 4 | 3 |
 | IE000267N380 | Ardtur European Focus Fund - EUR A ACC | Activa | EUR | Europe Equity Large Cap | 1,14 | 23,20 | 4 | 5 |
 | LU1769938041 | DWS Invest CROCI Euro LC | Activa | EUR | Europe Equity Large Cap | 1,15 | 14,03 | 4 | 3 |
 | LU0866420937 | LO EUROP HIGH CONVICTION M EUR | Activa | EUR | Europe Equity Large Cap | 1,18 | 9,39 | 4 | 3 |
@@ -1339,7 +1339,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1476746869](../rv-europa/LU1476746869.md) | Kersio Lux - Kersio Equity A EUR Acc | Activa | EUR | Europe Equity Large Cap | 1,30 | 13,41 | 3 | — |
 | [IE000GBN91O8](../rv-europa/IE000GBN91O8.md) | Ardtur European Focus Fund - EUR R | Activa | EUR | Europe Equity Large Cap | 1,34 | 21,42 | 4 | 5 |
 | [IE0031005436](../rv-europa/IE0031005436.md) | CONTINENTAL EUROPEAN B DIS GBP | Activa | GBP | Europe Equity Large Cap | 1,35 | 6,64 | 4 | 2 |
-| IE0033009014 | J O Hambro Capital Management Continental European EUR B Inc | Activa | EUR | Europe Equity Large Cap | 1,35 | 6,63 | 4 | 2 |
+| [IE0033009014](../rv-europa/IE0033009014.md) | J O Hambro Capital Management Continental European EUR B Inc | Activa | EUR | Europe Equity Large Cap | 1,35 | 6,63 | 4 | 2 |
 | LU3105996469 | MUTUAFONDO SPAIN LUX A EUR | Activa | EUR | Europe Equity Large Cap | 1,35 | 21,49 | — | — |
 | ES0182769002 | Valentum FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,36 | 17,52 | 4 | 5 |
 | LU1019963369 | Allianz Global Investors Fund - Allianz Best Styles Europe Equity AT EUR | Activa | EUR | Europe Equity Large Cap | 1,37 | 15,57 | 4 | 4 |
