@@ -1586,7 +1586,7 @@
    "srri": 5,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0112340007.md"
   },
   {
    "isin": "ES0112602000",
@@ -1892,7 +1892,7 @@
    "srri": 3,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0114907035.md"
   },
   {
    "isin": "ES0114988035",
@@ -2031,7 +2031,7 @@
    "srri": 3,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0116831050.md"
   },
   {
    "isin": "ES0116831092",
@@ -2887,7 +2887,7 @@
    "srri": 5,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0131444111.md"
   },
   {
    "isin": "ES0131444129",
@@ -4676,7 +4676,7 @@
    "srri": 2,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0145821031.md"
   },
   {
    "isin": "ES0146149002",
@@ -5236,7 +5236,7 @@
    "srri": 3,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0161992005.md"
   },
   {
    "isin": "ES0162211033",
@@ -6495,7 +6495,7 @@
    "srri": 3,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0168798017.md"
   },
   {
    "isin": "ES0168798033",
@@ -6853,7 +6853,7 @@
    "srri": 3,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0172242002.md"
   },
   {
    "isin": "ES0173128002",
@@ -7754,7 +7754,7 @@
    "srri": 3,
    "rating": 5,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0182105033.md"
   },
   {
    "isin": "ES0182527038",
@@ -7874,7 +7874,7 @@
    "pendientes": [
     "r5a"
    ],
-   "ficha": null
+   "ficha": "mixtos/ES0183161019.md"
   },
   {
    "isin": "ES0183798000",
@@ -26133,7 +26133,7 @@
    "srri": 3,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/LU0504302356.md"
   },
   {
    "isin": "LU0507265923",
@@ -30496,7 +30496,7 @@
    "srri": 2,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/LU1075211430.md"
   },
   {
    "isin": "LU1088683765",
@@ -32600,7 +32600,7 @@
    "srri": 2,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/LU1453542349.md"
   },
   {
    "isin": "LU1453542851",
