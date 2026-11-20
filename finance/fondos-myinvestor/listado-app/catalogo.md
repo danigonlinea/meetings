@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1738
+**Fondos: 1980** · con ficha previa: 1740
 
 | Clase | Fondos |
 | --- | --- |
@@ -1737,7 +1737,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0441851994](../rv-otros/LU0441851994.md) | JPMorgan Funds - ASEAN Equity Fund D (acc) USD | Activa | USD | Asia ex-Japan Equity | 2,55 | 6,73 | 4 | 3 |
 | [LU0217390656](../rv-otros/LU0217390656.md) | JPMorgan Funds - Pacific Equity Fund D (acc) EUR | Activa | EUR | Asia Equity | 2,55 | 12,69 | 4 | 3 |
 | [LU0345362106](../rv-otros/LU0345362106.md) | Fidelity Asia Pacific Opportunities Fund E-Acc-EUR | Activa | EUR | Asia ex-Japan Equity | 2,70 | 3,27 | 4 | 2 |
-| LU1116432292 | Fidelity Asian Smaller Coms E-Acc-EUR | Activa | EUR | Asia ex-Japan Equity | 2,70 | 5,93 | 4 | 3 |
+| [LU1116432292](../rv-otros/LU1116432292.md) | Fidelity Asian Smaller Coms E-Acc-EUR | Activa | EUR | Asia ex-Japan Equity | 2,70 | 5,93 | 4 | 3 |
 
 ## sectoriales
 
@@ -1790,7 +1790,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | IE00B433M743 | POLAR CAPITAL GLOBAL TECHNOLOGY R USD | Activa | USD | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
 | IE00BM95B621 | Polar Capital Global Technology Fund R | Activa | EUR | Technology Sector Equity | 1,58 | 36,43 | 5 | 4 |
 | IE00B4468526 | Polar GLOBAL TECHNOLOGY R EUR | Activa | EUR | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
-| LU0507268513 | DWS Invest Global Real Estate Securities LD | Activa | EUR | Real Estate Sector Equity | 1,59 | 7,90 | 4 | 3 |
+| [LU0507268513](../sectoriales/LU0507268513.md) | DWS Invest Global Real Estate Securities LD | Activa | EUR | Real Estate Sector Equity | 1,59 | 7,90 | 4 | 3 |
 | [IE00BYSJTY39](../sectoriales/IE00BYSJTY39.md) | First Sentier Global Listed Infrastructure Fund Class I (Accumulation) EUR | Activa | EUR | Infrastructure Sector Equity | 1,59 | 12,99 | 4 | 3 |
 | [LU1863263346](../sectoriales/LU1863263346.md) | DWS Invest Artificial Intelligence LC | Activa | EUR | Technology Sector Equity | 1,60 | 18,02 | 5 | 3 |
 | IE00B3XLHR60 | POLAR CAPITAL BIOTECHNOLOGY R USD | Activa | USD | Healthcare Sector Equity | 1,60 | 25,29 | 5 | 5 |
