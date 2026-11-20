@@ -4737,7 +4737,7 @@
    "srri": 4,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/ES0146309002.md"
   },
   {
    "isin": "ES0147411005",
@@ -32944,7 +32944,7 @@
    "srri": 4,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/LU1508476725.md"
   },
   {
    "isin": "LU1514167722",
@@ -33722,7 +33722,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/LU1670710075.md"
   },
   {
    "isin": "LU1670710158",
@@ -35023,7 +35023,7 @@
    "srri": 4,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-global/LU1854107221.md"
   },
   {
    "isin": "LU1860979399",
@@ -36272,7 +36272,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-global/LU1983259885.md"
   },
   {
    "isin": "LU1983299162",

@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1242
+**Fondos: 1980** · con ficha previa: 1247
 
 | Clase | Fondos |
 | --- | --- |
@@ -1084,8 +1084,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0914730030](../rv-global/LU0914730030.md) | Mirova Global Sustainable Equity R/D EUR | Activa | EUR | Global Equity Large Cap | 1,85 | 10,47 | 4 | 3 |
 | [LU0671501129](../rv-global/LU0671501129.md) | Schroder ISF Global Dividend Maximiser A Distribution EUR Hedged | Activa | EUR | Global Equity Large Cap | 1,85 | 12,67 | 4 | — |
 | [LU0278272843](../rv-global/LU0278272843.md) | Triodos SICAV I - Triodos Pioneer Impact Fund EUR R Capitalisation | Activa | EUR | Global Equity Mid/Small Cap | 1,85 | 7,80 | 4 | 2 |
-| ES0146309002 | Horos Value Internacional FI | Activa | EUR | Global Equity Mid/Small Cap | 1,86 | 16,04 | 4 | 4 |
-| LU1983259885 | Janus Henderson Horizon Global Sustainable Equity Fund A2 HEUR Acc | Activa | EUR | Global Equity Large Cap | 1,86 | 10,66 | 4 | — |
+| [ES0146309002](../rv-global/ES0146309002.md) | Horos Value Internacional FI | Activa | EUR | Global Equity Mid/Small Cap | 1,86 | 16,04 | 4 | 4 |
+| [LU1983259885](../rv-global/LU1983259885.md) | Janus Henderson Horizon Global Sustainable Equity Fund A2 HEUR Acc | Activa | EUR | Global Equity Large Cap | 1,86 | 10,66 | 4 | — |
 | [LU0868754382](../rv-global/LU0868754382.md) | Morgan Stanley Investment Funds - Global Advantage Fund AH | Activa | EUR | Global Equity Large Cap | 1,86 | 18,80 | 6 | — |
 | [LU0335216932](../rv-global/LU0335216932.md) | Morgan Stanley Investment Funds - Global Brands Fund AH (EUR) | Activa | EUR | Global Equity Large Cap | 1,86 | 0,07 | 4 | — |
 | [LU0552385618](../rv-global/LU0552385618.md) | Morgan Stanley Investment Funds - Global Opportunity Fund AH (EUR) | Activa | EUR | Global Equity Large Cap | 1,86 | 10,34 | 5 | — |
@@ -1105,14 +1105,14 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU2665173949 | Schroder ISF Global Sustainable Value A Accumulation EUR Hedged | Activa | EUR | Global Equity Large Cap | 1,91 | 16,33 | 4 | — |
 | LU0094560744 | MFS GLOBAL EQUITY FUND A1 ACC EUR | Activa | EUR | Global Equity Large Cap | 1,92 | 8,18 | 4 | 2 |
 | LU0219441069 | MFS Meridian Funds - Global Equity Fund A1 USD | Activa | USD | Global Equity Large Cap | 1,92 | 8,19 | 4 | 2 |
-| LU1670710075 | M&G (Lux) Global Dividend Fund A EUR Acc | Activa | EUR | Global Equity Large Cap | 1,93 | 17,03 | 4 | 3 |
+| [LU1670710075](../rv-global/LU1670710075.md) | M&G (Lux) Global Dividend Fund A EUR Acc | Activa | EUR | Global Equity Large Cap | 1,93 | 17,03 | 4 | 3 |
 | LU1670710158 | M&G (Lux) Global Dividend Fund A EUR Inc | Activa | EUR | Global Equity Large Cap | 1,93 | 17,05 | 4 | 3 |
 | LU1981791327 | ALLIANZ THEMATICA AT ACC EUR | Activa | EUR | Global Equity Large Cap | 1,95 | 7,15 | 4 | 2 |
 | LU3038482157 | Hamco Global Value Fund Lux clase F | Activa | EUR | Global Equity Mid/Small Cap | 1,95 | 11,24 | 3 | 4 |
 | LU0161535835 | Swisscanto EF Sustainable AA | Activa | EUR | Global Equity Large Cap | 1,95 | 16,17 | 4 | 4 |
 | LU2169560872 | WCM Select Global Growth Equity R/AH-EUR | Activa | EUR | Global Equity Large Cap | 1,95 | — | 5 | — |
 | LU1670715207 | M&G (Lux) Global Sustain Paris Aligned Fund EUR A Acc | Activa | EUR | Global Equity Large Cap | 1,98 | 9,40 | 4 | 3 |
-| LU1854107221 | M&G (Lux) Positive Impact Fund A EUR Acc | Activa | EUR | Global Equity Large Cap | 1,98 | 9,85 | 4 | 2 |
+| [LU1854107221](../rv-global/LU1854107221.md) | M&G (Lux) Positive Impact Fund A EUR Acc | Activa | EUR | Global Equity Large Cap | 1,98 | 9,85 | 4 | 2 |
 | LU0270904781 | Pictet-Security-P EUR | Activa | EUR | Global Equity Large Cap | 1,98 | 15,24 | 5 | 3 |
 | LU0218910536 | GLOBAL EQUITY B ACC USD | Activa | USD | Global Equity Large Cap | 1,99 | 3,81 | 4 | 2 |
 | ES0142630088 | GPM TENDENCIAS INTERNACIONAL  | Activa | EUR | Global Equity Large Cap | 1,99 | -8,87 | 4 | — |
@@ -1129,7 +1129,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU2257592431 | Nordea 1 - Global Social Empowerment Fund BP EUR | Activa | EUR | Global Equity Large Cap | 2,07 | 11,02 | 4 | 3 |
 | ES0162701009 | Metavalor Dividendo FI | Activa | EUR | Global Equity Large Cap | 2,08 | 13,71 | 3 | 2 |
 | ES0108612013 | Santalucía Quality Acciones B | Activa | EUR | Global Equity Large Cap | 2,08 | 9,65 | 4 | 2 |
-| LU1508476725 | GLBL EQUITY INSIGHTS A DIS EUR | Activa | EUR | Global Equity Large Cap | 2,10 | 10,92 | 4 | 2 |
+| [LU1508476725](../rv-global/LU1508476725.md) | GLBL EQUITY INSIGHTS A DIS EUR | Activa | EUR | Global Equity Large Cap | 2,10 | 10,92 | 4 | 2 |
 | ES0184949008 | Andbank Megatrends A FI | Activa | EUR | Global Equity Large Cap | 2,11 | 15,39 | 4 | 3 |
 | IE00B3V93F27 | BNY Mellon Global Equity Income Fund EUR A Acc | Activa | EUR | Global Equity Large Cap | 2,11 | 15,75 | 3 | 3 |
 | IE00B89ZWR21 | BNYM GLOBAL EQ INCOME H AC EUR | Activa | EUR | Global Equity Large Cap | 2,11 | 13,74 | 4 | — |
