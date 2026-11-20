@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 585
+**Fondos: 1980** · con ficha previa: 586
 
 | Clase | Fondos |
 | --- | --- |
@@ -310,7 +310,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0124143019](../renta-fija/ES0124143019.md) | MUTUAFONDO BONOS FINANC D FI | Activa | EUR | Europe Fixed Income | 0,97 | 4,55 | 2 | 3 |
 | [IE00B90VC092](../renta-fija/IE00B90VC092.md) | PIMCO European Short-Term Opportunities | Activa | EUR | Europe Fixed Income | 0,97 | 3,27 | 2 | 4 |
 | [LU1088683765](../renta-fija/LU1088683765.md) | UBAM - Absolute Return Fixed Income APC EUR Acc | Activa | EUR | Global Fixed Income | 0,97 | 2,25 | 2 | 3 |
-| LU1088685117 | UBAM - Absolute Return Fixed Income APHC USD Acc | Activa | USD | Global Fixed Income | 0,97 | 3,75 | 2 | 2 |
+| [LU1088685117](../renta-fija/LU1088685117.md) | UBAM - Absolute Return Fixed Income APHC USD Acc | Activa | USD | Global Fixed Income | 0,97 | 3,75 | 2 | 2 |
 | [LU0297942863](../renta-fija/LU0297942863.md) | BlackRock Global Funds - Global Government Bond Fund A2 EUR Hedged | Activa | EUR | Global Fixed Income | 0,98 | 0,91 | 2 | 2 |
 | [LU0189453128](../renta-fija/LU0189453128.md) | GAM Star (Lux) - ABS B EUR Acc | Activa | EUR | Fixed Income Miscellaneous | 0,98 | 3,10 | 2 | — |
 | [FR0000098683](../renta-fija/FR0000098683.md) | Lazard Convertible Global PC EUR | Activa | EUR | Convertibles | 0,98 | 4,66 | 3 | 3 |
