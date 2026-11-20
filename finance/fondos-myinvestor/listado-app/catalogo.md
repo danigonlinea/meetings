@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1744
+**Fondos: 1980** · con ficha previa: 1745
 
 | Clase | Fondos |
 | --- | --- |
@@ -1794,7 +1794,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00BYSJTY39](../sectoriales/IE00BYSJTY39.md) | First Sentier Global Listed Infrastructure Fund Class I (Accumulation) EUR | Activa | EUR | Infrastructure Sector Equity | 1,59 | 12,99 | 4 | 3 |
 | [LU1863263346](../sectoriales/LU1863263346.md) | DWS Invest Artificial Intelligence LC | Activa | EUR | Technology Sector Equity | 1,60 | 18,02 | 5 | 3 |
 | IE00B3XLHR60 | POLAR CAPITAL BIOTECHNOLOGY R USD | Activa | USD | Healthcare Sector Equity | 1,60 | 25,29 | 5 | 5 |
-| IE00B3VXGD32 | Polar Capital Biotech R Inc | Activa | EUR | Healthcare Sector Equity | 1,60 | 25,29 | 5 | 5 |
+| [IE00B3VXGD32](../sectoriales/IE00B3VXGD32.md) | Polar Capital Biotech R Inc | Activa | EUR | Healthcare Sector Equity | 1,60 | 25,29 | 5 | 5 |
 | [IE00B3NLTK32](../sectoriales/IE00B3NLTK32.md) | Polar Capital Funds PLC - Polar Capital Healthcare Opportunities Fund R Inc | Activa | USD | Healthcare Sector Equity | 1,60 | 15,55 | 4 | 4 |
 | [IE00B3NLSS43](../sectoriales/IE00B3NLSS43.md) | Polar Capital Funds PLC - Polar Capital Healthcare Opportunities Fund R Inc (EUR) | Activa | EUR | Healthcare Sector Equity | 1,60 | 15,55 | 4 | 4 |
 | [IE0004766014](../sectoriales/IE0004766014.md) | Comgest Growth Europe Smaller Companies EUR Acc | Activa | EUR | Europe Equity Mid/Small Cap | 1,61 | 0,52 | 4 | 1 |
