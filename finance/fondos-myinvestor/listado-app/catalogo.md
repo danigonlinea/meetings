@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1112
+**Fondos: 1980** · con ficha previa: 1114
 
 | Clase | Fondos |
 | --- | --- |
@@ -930,14 +930,14 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0705780269](../rv-global/LU0705780269.md) | Robeco QI Global Conservative Equities B € | Activa | EUR | Global Equity Large Cap | 1,01 | 14,26 | 3 | 3 |
 | [LU0705782398](../rv-global/LU0705782398.md) | Robeco QI Global Conservative Equities D EUR | Activa | EUR | Global Equity Large Cap | 1,01 | 14,26 | 3 | 3 |
 | [LU1935059029](../rv-global/LU1935059029.md) | Palm Harbour Global Value F EUR Acc | Activa | EUR | Global Equity Mid/Small Cap | 1,02 | 14,54 | 4 | 4 |
-| LU1988110760 | B&H Equity LU Class 1 | Activa | EUR | Global Equity Large Cap | 1,03 | 8,90 | 4 | 2 |
+| [LU1988110760](../rv-global/LU1988110760.md) | B&H Equity LU Class 1 | Activa | EUR | Global Equity Large Cap | 1,03 | 8,90 | 4 | 2 |
 | ES0112617016 | B&H Acciones FI | Activa | EUR | Global Equity Large Cap | 1,04 | 8,56 | 4 | 2 |
 | [ES0137768000](../rv-global/ES0137768000.md) | Baelo Dividendo Creciente A FI | Activa | EUR | Global Equity Large Cap | 1,04 | 12,71 | 3 | 2 |
 | [ES0137768018](../rv-global/ES0137768018.md) | Baelo Dividendo Creciente D FI | Activa | EUR | Global Equity Large Cap | 1,04 | 9,35 | 3 | 2 |
 | [ES0107696090](../rv-global/ES0107696090.md) | Alcalá Multigestión Smart Bolsa Mundial A FI | Activa | EUR | Global Equity Large Cap | 1,08 | 12,86 | 3 | 1 |
 | [LU0690375422](../rv-global/LU0690375422.md) | FUNDSMITH EQUITY FEEDER T EUR DIS | Activa | EUR | Global Equity Large Cap | 1,08 | 7,00 | 4 | 3 |
 | [LU0690375182](../rv-global/LU0690375182.md) | Fundsmith Equity Fund T EUR Acc | Activa | EUR | Global Equity Large Cap | 1,08 | 7,00 | 4 | 3 |
-| ES0178573020 | TESYS INTERNACIONAL I EUR ACC | Activa | EUR | Global Equity Large Cap | 1,09 | — | 4 | — |
+| [ES0178573020](../rv-global/ES0178573020.md) | TESYS INTERNACIONAL I EUR ACC | Activa | EUR | Global Equity Large Cap | 1,09 | — | 4 | — |
 | [ES0174115024](../rv-global/ES0174115024.md) | Cinvest Long Run FI | Activa | EUR | Global Equity Large Cap | 1,11 | 11,69 | 3 | 2 |
 | ES0110407105 | Gestión Boutique VI Gestivalue Cap A FI | Activa | EUR | Global Equity Large Cap | 1,11 | 16,32 | 4 | 3 |
 | ES0168799031 | TAIL RENT VAR GLB GEN ACC EUR | Activa | EUR | Global Equity Large Cap | 1,15 | 14,58 | 4 | 3 |
