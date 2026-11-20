@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1480
+**Fondos: 1980** · con ficha previa: 1483
 
 | Clase | Fondos |
 | --- | --- |
@@ -1335,7 +1335,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE000267N380](../rv-europa/IE000267N380.md) | Ardtur European Focus Fund - EUR A ACC | Activa | EUR | Europe Equity Large Cap | 1,14 | 23,20 | 4 | 5 |
 | [LU1769938041](../rv-europa/LU1769938041.md) | DWS Invest CROCI Euro LC | Activa | EUR | Europe Equity Large Cap | 1,15 | 14,03 | 4 | 3 |
 | [LU0866420937](../rv-europa/LU0866420937.md) | LO EUROP HIGH CONVICTION M EUR | Activa | EUR | Europe Equity Large Cap | 1,18 | 9,39 | 4 | 3 |
-| LU0933684101 | Incometric Equam Global Value A | Activa | EUR | Europe Equity Mid/Small Cap | 1,30 | 10,06 | 4 | 4 |
+| [LU0933684101](../rv-europa/LU0933684101.md) | Incometric Equam Global Value A | Activa | EUR | Europe Equity Mid/Small Cap | 1,30 | 10,06 | 4 | 4 |
 | [LU1476746869](../rv-europa/LU1476746869.md) | Kersio Lux - Kersio Equity A EUR Acc | Activa | EUR | Europe Equity Large Cap | 1,30 | 13,41 | 3 | — |
 | [IE000GBN91O8](../rv-europa/IE000GBN91O8.md) | Ardtur European Focus Fund - EUR R | Activa | EUR | Europe Equity Large Cap | 1,34 | 21,42 | 4 | 5 |
 | [IE0031005436](../rv-europa/IE0031005436.md) | CONTINENTAL EUROPEAN B DIS GBP | Activa | GBP | Europe Equity Large Cap | 1,35 | 6,64 | 4 | 2 |
@@ -1403,7 +1403,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0093502762 | BlackRock Global Funds - Euro-Markets Fund A2 | Activa | EUR | Europe Equity Large Cap | 1,82 | 11,58 | 4 | 3 |
 | ES0162735031 | Metavalor FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,84 | 17,94 | 4 | 2 |
 | [LU0235308482](../rv-europa/LU0235308482.md) | Alken European Opportunities R | Activa | EUR | Europe Equity Large Cap | 1,85 | 23,84 | 4 | 5 |
-| LU0256839191 | EUROPE EQ GROWTH A DIS EUR | Activa | EUR | Europe Equity Large Cap | 1,85 | 0,88 | 5 | 1 |
+| [LU0256839191](../rv-europa/LU0256839191.md) | EUROPE EQ GROWTH A DIS EUR | Activa | EUR | Europe Equity Large Cap | 1,85 | 0,88 | 5 | 1 |
 | [ES0165241037](../rv-europa/ES0165241037.md) | MUTUAFONDO VAL SMLMD CPS A FI | Activa | EUR | Europe Equity Mid/Small Cap | 1,85 | 13,74 | 4 | 4 |
 | LU0282719219 | PANEUROP SMALCAP OPP AE AC EUR | Activa | EUR | Europe Equity Mid/Small Cap | 1,85 | 6,90 | 5 | 3 |
 | [ES0167974007](../rv-europa/ES0167974007.md) | Panza Valor FI | Activa | EUR | Europe Equity Large Cap | 1,85 | 8,26 | 4 | 2 |
@@ -1429,7 +1429,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0138911039](../rv-europa/ES0138911039.md) | Gesconsult Renta Variable Eurozona | Activa | EUR | Europe Equity Large Cap | 2,00 | 15,91 | 4 | 2 |
 | [LU0316218527](../rv-europa/LU0316218527.md) | AXA World Funds - ACT Framlington Human Capital A Capitalisation EUR | Activa | EUR | Europe Equity Mid/Small Cap | 2,02 | 7,60 | 4 | 2 |
 | LU0219440681 | MFS EUROPEAN SMALLER COMPANIES A1 AC USD | Activa | USD | Europe Equity Mid/Small Cap | 2,04 | 8,53 | 4 | 3 |
-| LU0125944966 | MFS European Small Comp A1 Eur | Activa | EUR | Europe Equity Mid/Small Cap | 2,04 | 8,54 | 4 | 3 |
+| [LU0125944966](../rv-europa/LU0125944966.md) | MFS European Small Comp A1 Eur | Activa | EUR | Europe Equity Mid/Small Cap | 2,04 | 8,54 | 4 | 3 |
 | FR0010651224 | BDL CONVICTIONS - C | Activa | EUR | Europe Equity Large Cap | 2,05 | 14,21 | 4 | 3 |
 | [ES0137333029](../rv-europa/ES0137333029.md) | Finaccess Compromiso Soc Europa RV R FI | Activa | EUR | Europe Equity Large Cap | 2,05 | 8,48 | 3 | 2 |
 | ES0170141008 | Santalucía Quality Acciones Europeas B FI | Activa | EUR | Europe Equity Large Cap | 2,07 | 4,24 | 4 | 2 |
