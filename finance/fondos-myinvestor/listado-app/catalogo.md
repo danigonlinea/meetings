@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 807
+**Fondos: 1980** · con ficha previa: 821
 
 | Clase | Fondos |
 | --- | --- |
@@ -504,7 +504,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1720111365](../renta-fija/LU1720111365.md) | LSF-Arcano Lw Vol Eurp Inc-ESG Sel RC-A | Activa | CHF | Europe Fixed Income | 1,50 | 3,86 | 2 | — |
 | [LU1720111282](../renta-fija/LU1720111282.md) | LSF-Arcano Lw Vol Eurp Inc-ESG Sel RE-A | Activa | EUR | Europe Fixed Income | 1,50 | 4,87 | 2 | 4 |
 | [LU1720111795](../renta-fija/LU1720111795.md) | LSF-Arcano Lw Vol Eurp Inc-ESG Sel RE-D | Activa | EUR | Europe Fixed Income | 1,50 | 4,65 | 2 | 4 |
-| LU2215411468 | OPTIMIZE SICAV Global Bond A EUR Acc | Activa | EUR | Global Fixed Income | 1,50 | 4,17 | 2 | 4 |
+| [LU2215411468](../renta-fija/LU2215411468.md) | OPTIMIZE SICAV Global Bond A EUR Acc | Activa | EUR | Global Fixed Income | 1,50 | 4,17 | 2 | 4 |
 | [LU1694789535](../renta-fija/LU1694789535.md) | DNCA Invest Alpha Bonds B EUR | Activa | EUR | Global Fixed Income | 1,51 | 3,67 | 2 | 4 |
 | [LU1670719886](../renta-fija/LU1670719886.md) | M&G (Lux) Global Macro Bond Fund A H EUR Acc | Activa | EUR | Global Fixed Income | 1,51 | -0,40 | 3 | 1 |
 | [LU0658026512](../renta-fija/LU0658026512.md) | AXA IM Fixed Income Investment Strategies - Europe Short Duration High Yield E Cap EUR | Activa | EUR | Europe Fixed Income | 1,53 | 3,27 | 2 | 2 |
@@ -528,33 +528,33 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1646897196](../renta-fija/LU1646897196.md) | JPMorgan Funds - Income Fund D (acc) EUR (hedged) | Activa | EUR | US Fixed Income | 1,68 | 2,87 | 2 | — |
 | [IE00BD2ZKT29](../renta-fija/IE00BD2ZKT29.md) | Principal Finisterre Unc EMFI A H Acc EUR | Activa | EUR | Emerging Markets Fixed Income | 1,68 | 6,15 | 3 | 4 |
 | [IE00B11XYW43](../renta-fija/IE00B11XYW43.md) | PIMCO EMERGING MARKETS BOND E ACC EURH | Activa | EUR | Emerging Markets Fixed Income | 1,69 | 7,43 | 3 | 3 |
-| IE00BFRSV973 | PIMCO GIS Capital Securities Fund E Class EUR (Hedged) Accumulation | Activa | EUR | Fixed Income Miscellaneous | 1,69 | 6,05 | 3 | — |
-| LU0629658435 | Trea Emerging Markets Credit Opportunities C | Activa | USD | Emerging Markets Fixed Income | 1,70 | 6,02 | 3 | 3 |
+| [IE00BFRSV973](../renta-fija/IE00BFRSV973.md) | PIMCO GIS Capital Securities Fund E Class EUR (Hedged) Accumulation | Activa | EUR | Fixed Income Miscellaneous | 1,69 | 6,05 | 3 | — |
+| [LU0629658435](../renta-fija/LU0629658435.md) | Trea Emerging Markets Credit Opportunities C | Activa | USD | Emerging Markets Fixed Income | 1,70 | 6,02 | 3 | 3 |
 | LU0028445590 | EDM International Credit Portfolio R (EUR) | Activa | EUR | Europe Fixed Income | 1,76 | 3,85 | 2 | 2 |
 | [LU0144751095](../renta-fija/LU0144751095.md) | Candriam Bonds Euro High Yield N Acc Eur | Activa | EUR | Europe Fixed Income | 1,77 | 4,58 | 2 | 3 |
 | [LU0761040426](../renta-fija/LU0761040426.md) | EDM International Credit Portfolio R (USD) | Activa | USD | Europe Fixed Income | 1,77 | 4,99 | 2 | — |
 | [LU0146855530](../renta-fija/LU0146855530.md) | EDM International High Yield Short Duration R EUR | Activa | EUR | Europe Fixed Income | 1,79 | 3,04 | 2 | 1 |
 | [LU0304100257](../renta-fija/LU0304100257.md) | Goldman Sachs Global High Yield - Class E Acc EUR | Activa | EUR | Global Fixed Income | 1,79 | 4,29 | 2 | 1 |
 | [LU0618658370](../renta-fija/LU0618658370.md) | Goldman Sachs Global High Yield Portfolio E EUR-Hedged QDist | Activa | EUR | Global Fixed Income | 1,79 | 4,28 | 2 | 1 |
-| IE00BD3B9479 | GLB EM DEBT TTL RT DH ACC EUR | Activa | EUR | Emerging Markets Fixed Income | 1,81 | -4,49 | 3 | 1 |
-| IE00BVRZB456 | GLOBAL CONVERT DH ACC EUR | Activa | EUR | Convertibles | 1,81 | 5,69 | 3 | 3 |
+| [IE00BD3B9479](../renta-fija/IE00BD3B9479.md) | GLB EM DEBT TTL RT DH ACC EUR | Activa | EUR | Emerging Markets Fixed Income | 1,81 | -4,49 | 3 | 1 |
+| [IE00BVRZB456](../renta-fija/IE00BVRZB456.md) | GLOBAL CONVERT DH ACC EUR | Activa | EUR | Convertibles | 1,81 | 5,69 | 3 | 3 |
 | LU0548664886 | Goldman Sachs Global High Yield (Former NN) - X Cap EUR (hedged iii) | Activa | EUR | Global Fixed Income | 1,82 | 3,67 | 2 | 1 |
 | [LU0170293632](../renta-fija/LU0170293632.md) | Candriam Bonds Global High Yield Class N EUR Cap | Activa | EUR | Global Fixed Income | 1,87 | 4,11 | 2 | 4 |
 | [LU0106253197](../renta-fija/LU0106253197.md) | Schroder ISF Emerging Markets Debt Total Return A Accumulation | Activa | USD | Emerging Markets Fixed Income | 1,87 | 5,08 | 3 | 3 |
 | [IE00B5ZW6Z28](../renta-fija/IE00B5ZW6Z28.md) | PIMCO EMERGING LOCAL BOND E ACC EURUNH | Activa | EUR | Emerging Markets Fixed Income | 1,89 | 6,92 | 3 | 4 |
 | [IE0034004030](../renta-fija/IE0034004030.md) | EMERGING MARKET DEBT ACC A USD | Activa | USD | Emerging Markets Fixed Income | 1,95 | 5,44 | 3 | 3 |
-| LU0256064774 | GAM Star (Lux) - Gramercy Emerging Markets Bond Opportunities EUR B Hedged | Activa | EUR | Emerging Markets Fixed Income | 1,95 | 0,60 | 3 | — |
+| [LU0256064774](../renta-fija/LU0256064774.md) | GAM Star (Lux) - Gramercy Emerging Markets Bond Opportunities EUR B Hedged | Activa | EUR | Emerging Markets Fixed Income | 1,95 | 0,60 | 3 | — |
 | [LU0107852195](../renta-fija/LU0107852195.md) | GAM Star (Lux) - Gramercy Emerging Markets Bond Opportunities USD B | Activa | USD | Emerging Markets Fixed Income | 1,95 | 2,33 | 3 | 2 |
-| IE00BH47R156 | U Access (IRL) GCA Credit Long/Short UCITS E EUR Acc | Activa | EUR | Global Fixed Income | 1,98 | 2,23 | 2 | 2 |
-| IE00BH47R040 | U Access (IRL) GCA Credit Long/Short UCITS E USD Acc | Activa | USD | Global Fixed Income | 1,98 | 2,57 | 2 | 3 |
+| [IE00BH47R156](../renta-fija/IE00BH47R156.md) | U Access (IRL) GCA Credit Long/Short UCITS E EUR Acc | Activa | EUR | Global Fixed Income | 1,98 | 2,23 | 2 | 2 |
+| [IE00BH47R040](../renta-fija/IE00BH47R040.md) | U Access (IRL) GCA Credit Long/Short UCITS E USD Acc | Activa | USD | Global Fixed Income | 1,98 | 2,57 | 2 | 3 |
 | [LU0859970500](../renta-fija/LU0859970500.md) | Fidelity Funds - Sustainable Strategic Bond Fund E-GMDIST-EUR (hedged) | Activa | EUR | Global Fixed Income | 2,00 | 1,35 | 2 | 1 |
 | [IE0006SZI3X0](../renta-fija/IE0006SZI3X0.md) | EMER MKT CORP CREDIT ALTER | Activa | EUR | Emerging Markets Fixed Income | 2,05 | — | 3 | — |
 | [LU0501220429](../renta-fija/LU0501220429.md) | GBL EVOL FRONTIER MKT R AC EUR | Activa | EUR | Emerging Markets Fixed Income | 2,05 | 12,16 | 2 | 5 |
 | [LU0366773256](../renta-fija/LU0366773256.md) | TEMPLETON GLOBAL TOTAL RETURN N DIS EUR | Activa | EUR | Global Fixed Income | 2,07 | 3,63 | 3 | 2 |
 | [LU0260870745](../renta-fija/LU0260870745.md) | Templeton Global Total Return Fund N(acc)EUR | Activa | EUR | Global Fixed Income | 2,07 | 5,59 | 3 | 2 |
 | [LU0117898204](../renta-fija/LU0117898204.md) | JPMorgan Funds - Emerging Markets Debt Fund D (acc) EUR (hedged) | Activa | EUR | Emerging Markets Fixed Income | 2,15 | 6,01 | 3 | 1 |
-| LU0514680072 | JPMorgan Funds - Global Strategic Bond Fund D (perf) (acc) EUR (hedged) | Activa | EUR | Global Fixed Income | 2,21 | 2,08 | 2 | 2 |
-| LU0514680155 | JPMorgan Funds - Global Strategic Bond Fund D (perf) (div) EUR (hedged) | Activa | EUR | Global Fixed Income | 2,21 | 2,07 | 2 | 2 |
+| [LU0514680072](../renta-fija/LU0514680072.md) | JPMorgan Funds - Global Strategic Bond Fund D (perf) (acc) EUR (hedged) | Activa | EUR | Global Fixed Income | 2,21 | 2,08 | 2 | 2 |
+| [LU0514680155](../renta-fija/LU0514680155.md) | JPMorgan Funds - Global Strategic Bond Fund D (perf) (div) EUR (hedged) | Activa | EUR | Global Fixed Income | 2,21 | 2,07 | 2 | 2 |
 | LU0599213989 | JPMorgan Funds - Emerging Markets Strategic Bond Fund D (perf) (acc) USD | Activa | USD | Emerging Markets Fixed Income | 2,31 | 7,54 | 3 | 3 |
 | [LU0697197597](../renta-fija/LU0697197597.md) |  GLOBAL EVOLUTION FRONTIER MAR | Activa | EUR | Emerging Markets Fixed Income | 2,80 | 11,48 | 2 | 5 |
 | [LU1677026194](../renta-fija/LU1677026194.md) | EDM International European Flexible Bond Fund Retail EUR | Activa | EUR | Europe Fixed Income | 3,89 | -2,27 | 2 | 1 |
@@ -572,16 +572,16 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0110407097](../mixtos/ES0110407097.md) | Gestión Boutique VI Baelo Patrimonio FI | Activa | EUR | Moderate Allocation | 0,58 | 10,31 | 3 | 5 |
 | [ES0147411005](../mixtos/ES0147411005.md) | IGVF FI | Activa | EUR | Flexible Allocation | 0,59 | 3,72 | 4 | 2 |
 | [ES0156572002](../mixtos/ES0156572002.md) | MyInvestor Cartera Permanente | Activa | EUR | Cautious Allocation | 0,59 | 10,33 | 3 | 5 |
-| LU0251131792 | Fidelity Funds - Fidelity Target™ 2025 (Euro) Fund A-Acc-EUR | Activa | EUR | Target Date | 0,60 | 2,14 | 3 | 2 |
-| LU0215158840 | Fidelity Funds - Fidelity Target™ 2025 (Euro) Fund A-Dist-EUR | Activa | EUR | Target Date | 0,60 | 2,16 | 3 | 2 |
+| [LU0251131792](../mixtos/LU0251131792.md) | Fidelity Funds - Fidelity Target™ 2025 (Euro) Fund A-Acc-EUR | Activa | EUR | Target Date | 0,60 | 2,14 | 3 | 2 |
+| [LU0215158840](../mixtos/LU0215158840.md) | Fidelity Funds - Fidelity Target™ 2025 (Euro) Fund A-Dist-EUR | Activa | EUR | Target Date | 0,60 | 2,16 | 3 | 2 |
 | [ES0123541007](../mixtos/ES0123541007.md) | March Cartera Conservadora FI | Activa | EUR | Cautious Allocation | 0,65 | 4,38 | 2 | 3 |
 | [ES0142046020](../mixtos/ES0142046020.md) | GESEM CONSERVADOR FLEXIBLE | Activa | EUR | Cautious Allocation | 0,67 | 4,47 | 2 | 3 |
 | [ES0157935026](../mixtos/ES0157935026.md) | ACACIA RENTA DINAMICA FI I ACC | Activa | EUR | Flexible Allocation | 0,70 | 4,26 | 2 | 2 |
 | [ES0131462063](../mixtos/ES0131462063.md) | Esfera Renta Fija Mixta Global FI | Activa | EUR | Cautious Allocation | 0,72 | 6,50 | 3 | 3 |
 | [ES0147897005](../mixtos/ES0147897005.md) | Impassive Wealth FI | Activa | EUR | Flexible Allocation | 0,72 | 13,47 | 4 | 5 |
 | [ES0116567035](../mixtos/ES0116567035.md) | Cartesio X , Fi | Activa | EUR | Cautious Allocation | 0,74 | 7,47 | 2 | 5 |
-| ES0157935000 | ACACIA RENTA DINÁMICA FI | Activa | EUR | Flexible Allocation | 0,78 | 4,26 | 3 | 3 |
-| FR0010459693 | EDR START A ACC EUR | Activa | EUR | Cautious Allocation | 0,82 | 0,00 | 2 | 2 |
+| [ES0157935000](../mixtos/ES0157935000.md) | ACACIA RENTA DINÁMICA FI | Activa | EUR | Flexible Allocation | 0,78 | 4,26 | 3 | 3 |
+| [FR0010459693](../mixtos/FR0010459693.md) | EDR START A ACC EUR | Activa | EUR | Cautious Allocation | 0,82 | 0,00 | 2 | 2 |
 | LU0251131289 | Fidelity Funds - Fidelity Target™ 2020 (Euro) Fund A-Acc-EUR | Activa | EUR | Target Date | 0,84 | 2,32 | 2 | — |
 | LU0172516865 | Fidelity Funds - Fidelity Target™ 2020 (Euro) Fund A-Dist-EUR | Activa | EUR | Target Date | 0,84 | 2,31 | 2 | — |
 | ES0131462204 | Gestion Boutique V Pentainvest Mixta FI | Activa | EUR | Moderate Allocation | 0,85 | — | 2 | — |
