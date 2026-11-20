@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veintiséis carteras propias y una de referencia"
+title: "Cartera: veintisiete carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-ai-final-qwen4max, cartera-cobas, cartera-horos, cartera-vanguard, cartera-definitiva-40, cartera-de-andres, cartera-ai-final-hy3, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm]
 status: living
 ---
-# Cartera: veintiséis carteras propias y una de referencia
+# Cartera: veintisiete carteras propias y una de referencia
 
-Veintiséis patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintisiete patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -41,6 +41,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-horos/` | **Una talla, 100.000 €**, con **solo fondos de Horos**: 55 % Horos Value Internacional, 20 % Horos Value Iberia y 25 % Horos Patrimonio. **70,53 % de RV**, **1.626,50 €/año fijo (1,63 %)** + éxito, **≈6,0 % esperado** | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía ibérica al 28,8 % de la RV, 3 órdenes, descartes y señales) |
 | `cartera-ai-rock-desmontado/` | **Una talla, 100.000 €**, **Rock desmontado por traspaso** y su cupo gastado en índice limpio: núcleo MSCI World al 0,06 %, emergentes, small caps y REITs indexados, RF corta indexada, monetario de 14.500 € y **dos satélites activos** (Europa low-vol y cat bonds). 55,31 % de RV real, **236,10 €/año (0,236 %)**, −23,46 % de caída | Un fichero (`100k.md`): la cartera entera (ISIN, métricas contra las otras propuestas, 20 traspasos en dos fases y descartes con número) |
 | `cartera-ai-fondos-2000-lista/` | **Dos carteras de 100.000 € con un criterio cada una**, tras retirar el 20/11 las tres que no aportaban frente a lo ya existente: C2 convicción activa (1,2486 %) y C4 defensiva con alternativos (0,7661 %). La condición del titular de **ningún fondo repetido entre ellas** se cumple con 21 fondos distintos | `README.md` de mapa + `C2-conviccion-activa.md` y `C4-defensiva-alternativos.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
+| `cartera-ai-fondos-2000-lista-glm/` | **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1098 %, convicción activa 1,1801 %, equilibrada 55/45 0,4250 %, defensiva con alternativos 0,7277 % y crecimiento con satélites 0,9423 %), de 34,91 % a 87,64 % de RV. La condición del titular de **ningún fondo repetido entre las cinco** se cumple con 50 fondos distintos, verificados en el MCP | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
 rebalancea y no compite con las anteriores del dueño. Se actualiza con la skill `cartera-andres` cuando se
@@ -210,6 +211,17 @@ la atrevida: son dos criterios sobre el mismo mandato y el titular elige.
 
 `cartera-ai-fondos-2000-lista/` es un encargo del 20/11/2026 con **cinco criterios independientes** sobre el mismo universo de 2.007 fichas de `finance/fondos-myinvestor/`: índice de coste mínimo, convicción activa, equilibrada 55/45, defensiva con alternativos y crecimiento con satélites. La condición del titular era que **ningún fondo se repitiera entre las cinco**, y se cumplió con 52 ISIN distintos comprobados también por nombre y clase hermana. **El mismo 20/11 se retiraron C1, C3 y C5** al cruzarlas ISIN a ISIN contra las otras carteras del repositorio: C1 pagaba 132,20 €/año por 77,52 % de RV cuando `cartera-ai-100-index/` da 79,79 % por 106,50 € y `cartera-definitiva-40/` da 84,46 % por 96,00 €; C3 repetía el perfil de 55/45 de `propuesta-pieza.md` (54,6 % por 529,90 €) y de `cartera-ai-final-conservadora/` (54,61 % por 509,70 €) con más coste; y C5 costaba 952,80 €/año para el mismo ≈6,2 % esperado que `hy3` (527,60 €, 84,16 % de RV) y `qwen4max` (598,50 €). Quedan **C2, la cartera 100 % activa más barata del repositorio, y C4, la única de 35 % de RV con alternativos**: 21 fondos sin repetir. Sus documentos retirados siguen en el historial de git. La revisión fondo a fondo de los 21 está en su `fondos-revisados.md` y la comprobación en `validacion.md`.
 
+`cartera-ai-fondos-2000-lista-glm/` es el mismo encargo del 20/11/2026 repetido —mismo universo de 1.980 fichas,
+misma condición de no-repetición, esta vez con las cinco carteras entregadas completas—: índice de coste mínimo
+(66,54 % de RV por 109,80 €/año), convicción activa (79,81 % por 1.180,10 €), equilibrada 55/45 (54,38 % por
+425,00 €), defensiva con alternativos (34,91 % por 727,70 €) y crecimiento con satélites (87,64 % por 942,30 €).
+Los 60 ISIN candidatos se verificaron en el catálogo MCP el 20/11/2026 y esa verificación cambió el diseño
+cuatro veces: GS US Enhanced cobraba 1,60 % y no el 0,70 % del snapshot (beta mejorada, fuera), Avantage
+Pure Equity estaba cerrado a dinero nuevo, el Vanguard Euro Government Investor estaba en soft close (se usa la
+clase nueva) y dos clases exigían mínimos de 100.000-500.000 €. La no-repetición entre las cinco se comprobó
+por código sobre el markdown escrito: 50 líneas, 50 ISIN, 50 fondos. Con la cartera hermana
+`cartera-ai-fondos-2000-lista/` el solape es 1 de 50 (Hermes Asia ex-Japan R), documentado en su `validacion.md`.
+
 ## Reglas
 
 - **Un dato, un sitio.** En las carteras con dinero real los saldos viven en su `cartera-actual.md` y las
@@ -241,6 +253,8 @@ la atrevida: son dos criterios sobre el mismo mandato y el titular elige.
 ## Estado a 20/11/2026
 
 - **`cartera-ai-fondos-2000-lista` (20/11/2026, sin ejecutar):** dos ficheros de criterio tras retirar C1, C3 y C5 por no aportar frente a carteras ya existentes, **21 fondos sin repetir**, RV de 35,49 % (C4) y 78,65 % (C2), coste de 766,10 € y 1.248,60 €/año. Sin lista negra heredada; 21/21 clases de acumulación; mínimos verificados y una comprobación web puntual. Pendientes: horizonte, colchón, aportaciones y fecha de ejecución.
+
+- **`cartera-ai-fondos-2000-lista-glm` (20/11/2026, sin ejecutar):** las cinco carteras completas del mismo encargo, **50 fondos sin repetir entre ellas** (50 líneas, 50 ISIN, comprobados por código), RV de 34,91 % (C4) a 87,64 % (C5), coste de 109,80 € a 1.180,10 €/año. Sin lista negra heredada; 50/50 clases de acumulación; 60 ISIN verificados en el MCP con cuatro correcciones de diseño (TER real, fondo cerrado, soft close y dos mínimos). Solape con la cartera hermana: 1 de 50. Pendientes: horizonte, colchón, aportaciones y fecha de ejecución.
 
 - **`cartera-ai-final-qwen4max` (19/11/2026, sin ejecutar):** `110k.md`. Desde cero, 110.000 € con 10.000 en
   Groupama: **10 fondos + monetario**, **84,15 % de RV real**, **598,50 €/año (0,544 %)**, caída de manual
