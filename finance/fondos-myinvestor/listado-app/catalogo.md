@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1546
+**Fondos: 1980** · con ficha previa: 1569
 
 | Clase | Fondos |
 | --- | --- |
@@ -23,8 +23,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [Mixtos](#mixtos) | 312 |
 | [Renta variable global](#rv-global) | 296 |
 | [Renta variable EE. UU.](#rv-usa) | 109 |
-| [Renta variable Europa](#rv-europa) | 181 |
-| [Renta variable España](#rv-españa) | 10 |
+| [Renta variable Europa](#rv-europa) | 179 |
+| [Renta variable España](#rv-españa) | 12 |
 | [Renta variable Japón](#rv-japon) | 28 |
 | [Renta variable emergentes](#rv-emergentes) | 140 |
 | [Renta variable otras regiones](#rv-otros) | 48 |
@@ -1299,7 +1299,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 
 ## rv-europa
 
-### Renta variable Europa (181)
+### Renta variable Europa (179)
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1454,40 +1454,38 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1904671556](../rv-europa/LU1904671556.md) | NAO SUSTAINABLE EUROPE R AC EU | Activa | EUR | Europe Equity Large Cap | 2,33 | 10,53 | 4 | 3 |
 | [FR0011558246](../rv-europa/FR0011558246.md) | Echiquier Entrepreneurs A A | Activa | EUR | Europe Equity Mid/Small Cap | 2,34 | 8,77 | 4 | 3 |
 | [FR0010321810](../rv-europa/FR0010321810.md) | Echiquier Agenor SRI Mid Cap Europe A Agenor SRI Mid Cap Europe A | Activa | EUR | Europe Equity Mid/Small Cap | 2,35 | 7,07 | 4 | 3 |
-| ES0155142005 | Intermoney Variable Euro A FI | Activa | EUR | Europe Equity Large Cap | 2,40 | 13,74 | 4 | 4 |
-| LU0870261327 | MFS European Value N1 Acc Eur | Activa | EUR | Europe Equity Large Cap | 2,42 | 9,35 | 4 | 3 |
-| LU0986194024 | SIGMA INVESTMENT HOUSE EQ EUROPE A AC EU | Activa | EUR | Europe Equity Large Cap | 2,44 | — | 3 | — |
-| LU0106235376 | Schroder ISF Euro Equity B Accumulation EUR | Activa | EUR | Europe Equity Large Cap | 2,44 | 14,99 | 4 | 2 |
+| [ES0155142005](../rv-europa/ES0155142005.md) | Intermoney Variable Euro A FI | Activa | EUR | Europe Equity Large Cap | 2,40 | 13,74 | 4 | 4 |
+| [LU0870261327](../rv-europa/LU0870261327.md) | MFS European Value N1 Acc Eur | Activa | EUR | Europe Equity Large Cap | 2,42 | 9,35 | 4 | 3 |
+| [LU0986194024](../rv-europa/LU0986194024.md) | SIGMA INVESTMENT HOUSE EQ EUROPE A AC EU | Activa | EUR | Europe Equity Large Cap | 2,44 | — | 3 | — |
+| [LU0106235376](../rv-europa/LU0106235376.md) | Schroder ISF Euro Equity B Accumulation EUR | Activa | EUR | Europe Equity Large Cap | 2,44 | 14,99 | 4 | 2 |
 | ES0159031030 | BANKIA EURO TOP IDEAS FI | Activa | EUR | Europe Equity Large Cap | 2,45 | 15,20 | 4 | 3 |
 | LU2240056015 | Lonvia Avenir Mid-Cap Europe Retail | Activa | EUR | Europe Equity Mid/Small Cap | 2,45 | 0,09 | 5 | 1 |
 | LU2240056445 | Lonvia Avenir Mid-Cap Euro Retail | Activa | EUR | Europe Equity Mid/Small Cap | 2,46 | -0,04 | 5 | 1 |
 | [LU0115141201](../rv-europa/LU0115141201.md) | Invesco Pan European Equity E EUR Acc | Activa | EUR | Europe Equity Large Cap | 2,48 | 12,97 | 4 | 2 |
-| LU0117858166 | JPMorgan Funds - Euroland Equity Fund D (acc) EUR | Activa | EUR | Europe Equity Large Cap | 2,48 | 15,31 | 4 | 3 |
-| LU0117858679 | JPMorgan Funds - Europe Strategic Growth Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,49 | 11,60 | 4 | 4 |
-| LU1529809144 | JPMorgan Funds - Europe Sustainable Equity Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,49 | 12,63 | 4 | 3 |
-| LU0119753308 | Invesco Sustainable Pan European Systematic Equity E € Acc | Activa | EUR | Europe Equity Large Cap | 2,51 | 14,86 | 4 | 3 |
-| LU0714182606 | JPMorgan Investment Funds - Europe Strategic Dividend Fund D (div) - EUR | Activa | EUR | Europe Equity Large Cap | 2,51 | 19,79 | 4 | 4 |
+| [LU0117858166](../rv-europa/LU0117858166.md) | JPMorgan Funds - Euroland Equity Fund D (acc) EUR | Activa | EUR | Europe Equity Large Cap | 2,48 | 15,31 | 4 | 3 |
+| [LU0117858679](../rv-europa/LU0117858679.md) | JPMorgan Funds - Europe Strategic Growth Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,49 | 11,60 | 4 | 4 |
+| [LU1529809144](../rv-europa/LU1529809144.md) | JPMorgan Funds - Europe Sustainable Equity Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,49 | 12,63 | 4 | 3 |
+| [LU0119753308](../rv-europa/LU0119753308.md) | Invesco Sustainable Pan European Systematic Equity E € Acc | Activa | EUR | Europe Equity Large Cap | 2,51 | 14,86 | 4 | 3 |
+| [LU0714182606](../rv-europa/LU0714182606.md) | JPMorgan Investment Funds - Europe Strategic Dividend Fund D (div) - EUR | Activa | EUR | Europe Equity Large Cap | 2,51 | 19,79 | 4 | 4 |
 | LU0119063039 | JPMorgan Funds - Europe Dynamic Fund D (acc) EUR | Activa | EUR | Europe Equity Large Cap | 2,52 | 15,33 | 4 | 4 |
-| LU0117858752 | JPMorgan Funds - Europe Strategic Value Fund D (acc) EUR | Activa | EUR | Europe Equity Large Cap | 2,52 | 21,64 | 4 | 4 |
-| LU0159405223 | JPMorgan Investment Funds - Europe Select Equity Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,54 | 11,39 | 4 | 3 |
-| LU0169528261 | JPMorgan Investment Funds - Europe Strategic Dividend Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,55 | 19,75 | 4 | 4 |
-| LU0294249692 | Carmignac Portfolio Grande Europe E EUR Acc | Activa | EUR | Europe Equity Large Cap | 2,56 | 6,12 | 4 | 3 |
-| LU0995386439 | EDM International Spanish Equity R EUR | Activa | EUR | Europe Equity Mid/Small Cap | 2,59 | 16,94 | 4 | 1 |
+| [LU0117858752](../rv-europa/LU0117858752.md) | JPMorgan Funds - Europe Strategic Value Fund D (acc) EUR | Activa | EUR | Europe Equity Large Cap | 2,52 | 21,64 | 4 | 4 |
+| [LU0159405223](../rv-europa/LU0159405223.md) | JPMorgan Investment Funds - Europe Select Equity Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,54 | 11,39 | 4 | 3 |
+| [LU0169528261](../rv-europa/LU0169528261.md) | JPMorgan Investment Funds - Europe Strategic Dividend Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,55 | 19,75 | 4 | 4 |
+| [LU0294249692](../rv-europa/LU0294249692.md) | Carmignac Portfolio Grande Europe E EUR Acc | Activa | EUR | Europe Equity Large Cap | 2,56 | 6,12 | 4 | 3 |
 | LU0256839860 | EUROPE EQ GROWTH CT ACC EUR | Activa | EUR | Europe Equity Large Cap | 2,60 | 0,12 | 5 | 1 |
 | LU0115764192 | Fidelity European Growth E-Acc-EUR | Activa | EUR | Europe Equity Large Cap | 2,60 | 12,33 | 4 | 2 |
 | LU1270768390 | EDM International Spanish Equity R USD | Activa | USD | Europe Equity Mid/Small Cap | 2,62 | 18,59 | 4 | — |
 | LU1066281574 | ANDBANK IBERIAN EQUITIES EUR | Activa | EUR | Europe Equity Large Cap | 2,66 | 6,19 | 3 | 1 |
-| LU0119124864 | Fidelity European Dynamic Growth E Ac Eur | Activa | EUR | Europe Equity Large Cap | 2,70 | 1,90 | 4 | 2 |
-| LU0115765678 | Fidelity Iberia E-Acc-EUR | Activa | EUR | Europe Equity Large Cap | 2,70 | 25,61 | 4 | 4 |
-| LU0289214628 | JPMorgan Funds - Europe Equity Plus Fund D (perf) (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,72 | 19,20 | 4 | 5 |
-| LU0117859560 | JPMorgan Funds - Europe Small Cap Fund D (acc) EUR | Activa | EUR | Europe Equity Mid/Small Cap | 2,80 | 15,99 | 4 | 4 |
-| LU2092756274 | JPMorgan Funds - Europe Sustainable Small Cap Equity Fund D (acc) - EUR | Activa | EUR | Europe Equity Mid/Small Cap | 2,80 | 11,33 | 4 | 3 |
+| [LU0119124864](../rv-europa/LU0119124864.md) | Fidelity European Dynamic Growth E Ac Eur | Activa | EUR | Europe Equity Large Cap | 2,70 | 1,90 | 4 | 2 |
+| [LU0289214628](../rv-europa/LU0289214628.md) | JPMorgan Funds - Europe Equity Plus Fund D (perf) (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,72 | 19,20 | 4 | 5 |
+| [LU0117859560](../rv-europa/LU0117859560.md) | JPMorgan Funds - Europe Small Cap Fund D (acc) EUR | Activa | EUR | Europe Equity Mid/Small Cap | 2,80 | 15,99 | 4 | 4 |
+| [LU2092756274](../rv-europa/LU2092756274.md) | JPMorgan Funds - Europe Sustainable Small Cap Equity Fund D (acc) - EUR | Activa | EUR | Europe Equity Mid/Small Cap | 2,80 | 11,33 | 4 | 3 |
 | LU0028445327 | EDM International Strategy R EUR | Activa | EUR | Europe Equity Large Cap | 2,81 | 7,69 | 4 | 3 |
 | LU1070113581 | EDM International Strategy R USD | Activa | USD | Europe Equity Large Cap | 2,81 | 9,12 | 4 | — |
 
 ## rv-españa
 
-### Renta variable España (10)
+### Renta variable España (12)
 
 | ISIN | Nombre | Gestión | Divisa | Categoría | TER | 3A anual. | SRRI | ★ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1501,6 +1499,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0175224031](../rv-españa/ES0175224031.md) | SANTANDER SMALL CAPS ESPAÑA FI | Activa | EUR | Europe Equity Mid/Small Cap | 2,12 | 26,74 | 4 | 3 |
 | [LU1330191898](../rv-españa/LU1330191898.md) | Magallanes V.I. UCITS Iberian Equity R | Activa | EUR | Europe Equity Mid/Small Cap | 2,22 | 24,11 | 4 | 3 |
 | [ES0138800034](../rv-españa/ES0138800034.md) | BANKIA SMALL MID CAPS ESPAÑA | Activa | EUR | Europe Equity Mid/Small Cap | 2,35 | 18,60 | 4 | 3 |
+| [LU0995386439](../rv-españa/LU0995386439.md) | EDM International Spanish Equity R EUR | Activa | EUR | Europe Equity Mid/Small Cap | 2,59 | 16,94 | 4 | 1 |
+| [LU0115765678](../rv-españa/LU0115765678.md) | Fidelity Iberia E-Acc-EUR | Activa | EUR | Europe Equity Large Cap | 2,70 | 25,61 | 4 | 4 |
 
 ## rv-japon
 
@@ -1520,8 +1520,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0474966834](../rv-japon/LU0474966834.md) | Pictet-Japan Index-R EUR | Indexada | EUR | Japan Equity | 0,75 | 14,95 | 4 | 3 |
 | LU1797817605 | M&G (Lux) Japan Smaller Companies Fund USD C-H Acc | Activa | USD | Japan Equity | 1,00 | 21,36 | 4 | — |
 | [LU1769942233](../rv-japon/LU1769942233.md) | DWS CROCI JAPAN LCH ACC EUR | Activa | EUR | Japan Equity | 1,48 | 18,23 | 4 | — |
-| LU0255975830 | Pictet-Japanese Equity Selection-P EUR | Activa | EUR | Japan Equity | 1,49 | 12,94 | 4 | 2 |
-| IE00B3XFBR64 | JAPAN STRAT VAL FUND A ACC EUR | Activa | EUR | Japan Equity | 1,55 | 14,69 | 4 | 1 |
+| [LU0255975830](../rv-japon/LU0255975830.md) | Pictet-Japanese Equity Selection-P EUR | Activa | EUR | Japan Equity | 1,49 | 12,94 | 4 | 2 |
+| [IE00B3XFBR64](../rv-japon/IE00B3XFBR64.md) | JAPAN STRAT VAL FUND A ACC EUR | Activa | EUR | Japan Equity | 1,55 | 14,69 | 4 | 1 |
 | IE00B4NF1620 | JAPAN STRAT VAL FUND AH EUR | Activa | EUR | Japan Equity | 1,57 | 19,64 | 4 | — |
 | LU2778908793 | Arcus Japan C Acc EUR Hedged | Activa | EUR | Japan Equity | 1,70 | — | 4 | — |
 | IE00B5648R31 | Man GLG Japan CoreAlpha Equity Class D H EUR | Activa | EUR | Japan Equity | 1,71 | 24,22 | 4 | — |
@@ -1529,8 +1529,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | IE0003012535 | GAM Star Fund plc - GAM Star Japan Leaders EUR Acc | Activa | EUR | Japan Equity | 1,76 | 3,90 | 4 | 1 |
 | [IE00BD1DJ122](../rv-japon/IE00BD1DJ122.md) | COMGEST GROWTH JAPAN R ACC EUR | Activa | EUR | Japan Equity | 1,77 | 13,50 | 4 | 2 |
 | LU0011890265 | HORIZON JAPANESE SM COMP A2 US | Activa | USD | Japan Equity | 1,89 | 13,77 | 4 | 3 |
-| LU0644935313 | Swisscanto (LU) EF Small & Mid Caps Jpn AT EUR | Activa | EUR | Japan Equity | 2,05 | 17,54 | 4 | 3 |
-| LU0194438841 | BNP Paribas Japan Small Cap EUR | Activa | EUR | Japan Equity | 2,22 | 25,37 | 4 | — |
+| [LU0644935313](../rv-japon/LU0644935313.md) | Swisscanto (LU) EF Small & Mid Caps Jpn AT EUR | Activa | EUR | Japan Equity | 2,05 | 17,54 | 4 | 3 |
+| [LU0194438841](../rv-japon/LU0194438841.md) | BNP Paribas Japan Small Cap EUR | Activa | EUR | Japan Equity | 2,22 | 25,37 | 4 | — |
 | LU0117866185 | JPMorgan Funds - Japan Equity Fund D (acc) USD | Activa | USD | Japan Equity | 2,51 | 14,45 | 5 | 3 |
 | LU1438161504 | JPMorgan Funds - Japan Equity Fund D (acc) EUR (hedged) | Activa | EUR | Japan Equity | 2,55 | 19,44 | 5 | — |
 | LU1438161686 | JPMorgan Funds - Japan Equity Fund D (acc) JPY  | Activa | JPY | Japan Equity | 2,55 | 14,40 | 5 | 3 |
