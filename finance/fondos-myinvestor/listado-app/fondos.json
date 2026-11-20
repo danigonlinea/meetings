@@ -5137,7 +5137,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/ES0159031030.md"
   },
   {
    "isin": "ES0159202011",
@@ -12988,7 +12988,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-japon/IE00B5648R31.md"
   },
   {
    "isin": "IE00B56H2V49",
@@ -13787,7 +13787,7 @@
    "srri": 4,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-japon/IE00BBT38246.md"
   },
   {
    "isin": "IE00BC7GWF39",
@@ -14928,7 +14928,7 @@
    "srri": 4,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-emergentes/IE00BH3N4915.md"
   },
   {
    "isin": "IE00BH47R040",
@@ -16582,7 +16582,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/LU0028445327.md"
   },
   {
    "isin": "LU0028445590",
@@ -18089,7 +18089,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-emergentes/LU0113302664.md"
   },
   {
    "isin": "LU0113304017",
@@ -18222,7 +18222,7 @@
    "srri": 5,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-japon/LU0115096736.md"
   },
   {
    "isin": "LU0115097544",
@@ -21351,7 +21351,7 @@
    "srri": 5,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-japon/LU0217390813.md"
   },
   {
    "isin": "LU0217576759",
@@ -22543,7 +22543,7 @@
    "srri": 5,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/LU0256839860.md"
   },
   {
    "isin": "LU0260085492",
@@ -22955,7 +22955,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-emergentes/LU0273689645.md"
   },
   {
    "isin": "LU0277301916",
@@ -24069,7 +24069,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-emergentes/LU0338483158.md"
   },
   {
    "isin": "LU0339661307",
@@ -28820,7 +28820,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-emergentes/LU0823431720.md"
   },
   {
    "isin": "LU0823435127",
@@ -30399,7 +30399,7 @@
    "srri": 3,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/LU1066281574.md"
   },
   {
    "isin": "LU1070113581",
@@ -30420,7 +30420,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-europa/LU1070113581.md"
   },
   {
    "isin": "LU1070113664",
@@ -31086,7 +31086,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-emergentes/LU1177490023.md"
   },
   {
    "isin": "LU1183791794",
@@ -31434,7 +31434,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-españa/LU1270768390.md"
   },
   {
    "isin": "LU1278659575",
@@ -32486,7 +32486,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-japon/LU1438161504.md"
   },
   {
    "isin": "LU1438161686",
@@ -32505,7 +32505,7 @@
    "srri": 5,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-japon/LU1438161686.md"
   },
   {
    "isin": "LU1438969195",
@@ -34630,7 +34630,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-japon/LU1797817605.md"
   },
   {
    "isin": "LU1807426207",
@@ -34744,7 +34744,7 @@
    "srri": 5,
    "rating": 4,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-emergentes/LU1815002040.md"
   },
   {
    "isin": "LU1817472001",
@@ -37207,7 +37207,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-emergentes/LU2217675276.md"
   },
   {
    "isin": "LU2222027877",
@@ -37283,7 +37283,7 @@
    "srri": 5,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/LU2240056015.md"
   },
   {
    "isin": "LU2240056445",
@@ -37302,7 +37302,7 @@
    "srri": 5,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/LU2240056445.md"
   },
   {
    "isin": "LU2257592431",
@@ -38312,7 +38312,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-emergentes/LU2659281534.md"
   },
   {
    "isin": "LU2659281880",
@@ -38518,7 +38518,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-japon/LU2778908793.md"
   },
   {
    "isin": "LU2790323492",
