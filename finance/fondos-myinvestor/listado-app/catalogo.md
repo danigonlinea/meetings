@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 669
+**Fondos: 1980** · con ficha previa: 674
 
 | Clase | Fondos |
 | --- | --- |
@@ -347,7 +347,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0210532957](../renta-fija/LU0210532957.md) | JPMorgan Funds - US Aggregate Bond Fund A (acc) - USD | Activa | USD | US Fixed Income | 1,09 | 3,15 | 2 | 2 |
 | [FR0013417524](../renta-fija/FR0013417524.md) | R-co Valor Bond Opportunities C EUR | Activa | EUR | Europe Fixed Income | 1,09 | 4,08 | 2 | 3 |
 | [LU0562248079](../renta-fija/LU0562248079.md) |  JPMorgan Funds - US Short Duration Bond Fund D (acc) - USD | Activa | USD | US Fixed Income | 1,10 | 3,56 | 2 | 2 |
-| LU0251661590 | AXA World Funds - Euro 10 + LT E Capitalisation EUR | Activa | EUR | Europe Fixed Income | 1,10 | 0,67 | 3 | 4 |
+| [LU0251661590](../renta-fija/LU0251661590.md) | AXA World Funds - Euro 10 + LT E Capitalisation EUR | Activa | EUR | Europe Fixed Income | 1,10 | 0,67 | 3 | 4 |
 | [LU0251660279](../renta-fija/LU0251660279.md) | AXA World Funds - Euro Strategic Bonds E Capitalisation EUR | Activa | EUR | Europe Fixed Income | 1,10 | 3,54 | 2 | 5 |
 | [FR0013193679](../renta-fija/FR0013193679.md) | Echiquier High Yield SRI Europe A High Yield SRI Europe A | Activa | EUR | Europe Fixed Income | 1,10 | 5,23 | 2 | 3 |
 | [LU0605512192](../renta-fija/LU0605512192.md) | Fidelity Funds - Asian Bond Fund A-DIST-EUR (hedged) | Activa | EUR | Asia Fixed Income | 1,10 | 2,30 | 3 | — |
@@ -411,7 +411,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0336083497 | Carmignac Portfolio Global Bond A EUR Acc | Activa | EUR | Global Fixed Income | 1,24 | 3,82 | 2 | 3 |
 | ES0142167032 | DP RENTA FIJA A ACC EUR | Activa | EUR | Europe Fixed Income | 1,24 | 3,43 | 2 | 5 |
 | [LU0942882589](../renta-fija/LU0942882589.md) | Sigma Investment House FCP - BrightGate Global Income Fund A I | Activa | EUR | Global Fixed Income | 1,24 | 6,18 | 2 | 5 |
-| ES0164644025 | MUSAAT RF VALOR ARRIESGADO-C | Activa | EUR | Europe Fixed Income | 1,25 | — | 2 | — |
+| [ES0164644025](../renta-fija/ES0164644025.md) | MUSAAT RF VALOR ARRIESGADO-C | Activa | EUR | Europe Fixed Income | 1,25 | — | 2 | — |
 | ES0164644058 | MUSAAT RF VALOR CONSERVADOR-C | Activa | EUR | Europe Fixed Income | 1,25 | — | 2 | — |
 | FR001400BM80 | SEXTANT 2027 AD EUR DIS | Activa | EUR | Fixed Income Miscellaneous | 1,25 | 3,92 | 2 | — |
 | LU2295320142 | Morgan Stanley Investment Funds - Global Fixed Income Opportunities Fund A (EUR) | Activa | EUR | Global Fixed Income | 1,26 | 4,85 | 3 | 3 |
@@ -425,13 +425,13 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0438336264 | BlackRock ESG Fixed Income Strategies Fund A2 EUR | Activa | EUR | Global Fixed Income | 1,29 | 3,30 | 2 | 4 |
 | FR0013277571 | Echiquier Hybrid Bonds A HYBRID BDS A ACC EUR | Activa | EUR | Europe Fixed Income | 1,29 | 4,43 | 2 | 2 |
 | LU1365048435 | Schroder ISF Global High Yield A Accumulation EUR | Activa | EUR | Global Fixed Income | 1,29 | 6,93 | 3 | 3 |
-| LU0654560878 | AB SH DUR HIGH YIELD A2 AC EUR | Activa | EUR | Global Fixed Income | 1,30 | 4,03 | 2 | 3 |
+| [LU0654560878](../renta-fija/LU0654560878.md) | AB SH DUR HIGH YIELD A2 AC EUR | Activa | EUR | Global Fixed Income | 1,30 | 4,03 | 2 | 3 |
 | LU2305237625 | DIP HIGH INCOME BOND A ACC EUR | Activa | EUR | Global Fixed Income | 1,30 | 3,82 | 3 | 3 |
 | LU0893310481 | Fidelity Global Income A-QInc(G)-EUR H | Activa | EUR | Global Fixed Income | 1,30 | 4,12 | 2 | 3 |
 | [IE00B3MB7B14](../renta-fija/IE00B3MB7B14.md) | Muzinich Short Duration High Yield Fund Hedged Euro Accumulation R | Activa | EUR | US Fixed Income | 1,30 | 3,68 | 2 | — |
 | FR0010460493 | Tikehau Credit Plus R Acc EUR | Activa | EUR | Europe Fixed Income | 1,30 | 6,23 | 3 | — |
 | [IE00BD2B9710](../renta-fija/IE00BD2B9710.md) | Twelve Capital UCITS ICAV - Twelve Cat Bond Fund P EUR Hedged Acc | Activa | EUR | Fixed Income Miscellaneous | 1,30 | 9,27 | 2 | — |
-| LU0086177085 | UBS BOND EURO HYIELD PACC EUR | Activa | EUR | Europe Fixed Income | 1,30 | 5,91 | 2 | 4 |
+| [LU0086177085](../renta-fija/LU0086177085.md) | UBS BOND EURO HYIELD PACC EUR | Activa | EUR | Europe Fixed Income | 1,30 | 5,91 | 2 | 4 |
 | [LU1021288268](../renta-fija/LU1021288268.md) | AB - Mortgage Income Portfolio A2 Acc (EUR) | Activa | EUR | US Fixed Income | 1,31 | 6,32 | 3 | 4 |
 | [LU0232525203](../renta-fija/LU0232525203.md) | AB AMERICAN INCOME A2 ACC EUR | Activa | EUR | US Fixed Income | 1,31 | 4,06 | 3 | 2 |
 | [LU0592505589](../renta-fija/LU0592505589.md) | AB AMERICAN INCOME A2 ACC EURH | Activa | EUR | US Fixed Income | 1,31 | 2,30 | 3 | — |
@@ -458,7 +458,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU1380459518 | Vontobel Fund - TwentyFour Strategic Income Fund AH (hedged) EUR | Activa | EUR | Global Fixed Income | 1,38 | 4,65 | 2 | 4 |
 | LU0093504115 | BlackRock Global Funds - Euro Short Duration Bond Fund E2 | Activa | EUR | Europe Fixed Income | 1,39 | 1,96 | 2 | 1 |
 | LU0408846961 | JPMorgan Funds - Global Corporate Bond Fund D (acc) EUR (hedged) | Activa | EUR | Global Fixed Income | 1,39 | 2,28 | 3 | 2 |
-| LU0408846706 | JPMorgan Funds - Global Corporate Bond Fund D (acc) USD | Activa | USD | Global Fixed Income | 1,39 | 3,96 | 3 | 2 |
+| [LU0408846706](../renta-fija/LU0408846706.md) | JPMorgan Funds - Global Corporate Bond Fund D (acc) USD | Activa | USD | Global Fixed Income | 1,39 | 3,96 | 3 | 2 |
 | IE00B3QDMK77 | PIMCO EURO INCOME BOND E ACC EUR | Activa | EUR | Europe Fixed Income | 1,39 | 3,55 | 2 | 3 |
 | IE00B11XZ434 | PIMCO GIS Global Investment Grade Credit Fund E Class EUR (Hedged) Accumulation | Activa | EUR | Global Fixed Income | 1,39 | 2,51 | 2 | 2 |
 | IE00B11XZ657 | PIMCO GLB REAL RET E ACC USD | Activa | USD | Global Fixed Income | 1,39 | 2,04 | 3 | 2 |
