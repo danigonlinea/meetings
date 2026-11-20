@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1545
+**Fondos: 1980** · con ficha previa: 1546
 
 | Clase | Fondos |
 | --- | --- |
@@ -1461,7 +1461,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | ES0159031030 | BANKIA EURO TOP IDEAS FI | Activa | EUR | Europe Equity Large Cap | 2,45 | 15,20 | 4 | 3 |
 | LU2240056015 | Lonvia Avenir Mid-Cap Europe Retail | Activa | EUR | Europe Equity Mid/Small Cap | 2,45 | 0,09 | 5 | 1 |
 | LU2240056445 | Lonvia Avenir Mid-Cap Euro Retail | Activa | EUR | Europe Equity Mid/Small Cap | 2,46 | -0,04 | 5 | 1 |
-| LU0115141201 | Invesco Pan European Equity E EUR Acc | Activa | EUR | Europe Equity Large Cap | 2,48 | 12,97 | 4 | 2 |
+| [LU0115141201](../rv-europa/LU0115141201.md) | Invesco Pan European Equity E EUR Acc | Activa | EUR | Europe Equity Large Cap | 2,48 | 12,97 | 4 | 2 |
 | LU0117858166 | JPMorgan Funds - Euroland Equity Fund D (acc) EUR | Activa | EUR | Europe Equity Large Cap | 2,48 | 15,31 | 4 | 3 |
 | LU0117858679 | JPMorgan Funds - Europe Strategic Growth Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,49 | 11,60 | 4 | 4 |
 | LU1529809144 | JPMorgan Funds - Europe Sustainable Equity Fund D (acc) - EUR | Activa | EUR | Europe Equity Large Cap | 2,49 | 12,63 | 4 | 3 |
