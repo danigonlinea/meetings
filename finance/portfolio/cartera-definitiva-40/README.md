@@ -17,7 +17,7 @@ related:
 repositorio con diversificación real: **58 % MSCI World** (iShares Developed World clase S, 0,06 %), **10 %
 emergentes** (iShares S, 0,16 %), **10 % Europa** (iShares D, 0,10 %), **6 % small caps globales** (Vanguard,
 0,29 %), **11 % renta fija global 1-5 años cubierta a euros** (iShares S, 0,08 %) y **5 % deuda pública euro
-ligada a la inflación** (iShares D, 0,10 %). **83,39 % de RV real**, caída de manual **−33,83 %** y **≈6,06 %
+ligada a la inflación** (iShares D, 0,10 %). **83,39 % de RV real**, caída de manual **−33,85 %** y **≈6,06 %
 esperado**.
 
 **Qué cambió el 20/11/2026.** La versión anterior tenía cuatro fondos, 84,46 % de RV, 96 €/año y el 52,6 % del
@@ -26,6 +26,14 @@ apilaban sobre un núcleo que ya los lleva (Japón quedaba al doble del peso mun
 (−20,1 % en 2022) y media renta fija no amortiguaba (la deuda emergente cayó −12,0 % en 2022). **La cartera
 resultante es más diversificada y más barata, y renuncia a 0,10 pp de esperanza.** La auditoría punto por punto,
 con lo aceptado y lo rechazado, está en §0 del documento.
+
+**Qué se barrió para confirmarlo (21/11/2026).** Las **2.009 fichas** del catálogo, no una lista corta: 195
+indexadas y solo 10 por debajo del 0,10 %. **Ninguna de las seis líneas tiene una alternativa más barata**, y las
+dos que existen por diseño pierden en los datos del MCP: el núcleo cubierto a euros (0,14 %, +46,40 €/año) dio
+1,33 pp menos a 3 años con la misma volatilidad, y Europa en Fidelity (mismo 0,10 %) replica 0,2-0,5 pp peor que
+iShares. Las primas (value 0,70 %, dividendo 0,54 %, high yield 0,73 %, mínima volatilidad 1,50 %) no entran por
+magnitud, no por coste: una línea del 5 % mueve la cartera ±0,1 pp/año. **Lo único que mueve la aguja es el peso
+de Europa**: 15 % baja EE. UU. del 54,3 % al 50,2 % de la RV por 2 €/año más. §8 bis del documento.
 
 **Por qué esta es «la definitiva».** No gana en ninguna categoría suelta: `cartera-ai-100-index/` tiene menos
 bolsa y `cartera-ai-final-atrevida/` más esperanza. Gana en la combinación que importa a los 40: **27 años de
@@ -44,7 +52,7 @@ cartera y aportación mensual. Sin las tres, el diseño correcto es la variante 
 −28,69 %, 5,52 %).
 
 **Lo que este diseño no da.** Diversificación de gestora (dos: iShares y Vanguard, cinco de seis fondos en la
-primera; el mismo índice en Vanguard cuesta 120 €/año más) y protección en una caída: **−33.834 €** es la cifra
+primera; el mismo índice en Vanguard cuesta 120 €/año más) y protección en una caída: **−33.854 €** es la cifra
 que hay que poder mirar sin vender.
 
 **No es asesoramiento financiero.** La decisión es del titular.
@@ -53,7 +61,7 @@ que hay que poder mirar sin vender.
 
 | Talla | Fichero | Fondos | RV real | Coste total | Caída de manual | Rentabilidad esperada |
 | --- | --- | --: | --: | --: | --: | --: |
-| 100.000 € | `100k.md` | 6 | **83,39 %** | **92,00 €/año (0,092 %)** | **−33,83 % (−33.834 €)** | **≈6,06 %** (3,97-8,15 %) |
+| 100.000 € | `100k.md` | 6 | **83,39 %** | **92,00 €/año (0,092 %)** | **−33,85 % (−33.854 €)** | **≈6,06 %** (3,97-8,15 %) |
 
 El fichero es la cartera entera: ISIN, pesos, los tres bloques, geografía y sectores por *look-through*, el
 **backtest real de cinco años** de la estructura (+7,84 % anualizado, −12,84 % de máxima caída, 2022 −11,79 %), las
@@ -71,7 +79,7 @@ defender: el peso de Europa.
 
 ## Los tres avisos que el titular tiene que leer
 
-1. **La cifra a aguantar es −33.834 €.** Con 83,39 % de bolsa, una caída tipo 2008 se mira así; con un estrés de
+1. **La cifra a aguantar es −33.854 €.** Con 83,39 % de bolsa, una caída tipo 2008 se mira así; con un estrés de
    cola (bolsa −45 %) son −37.527 €. Si eso no se aguanta sin vender, la variante 70/30 está en el documento.
 2. **El 54,3 % de la RV es Estados Unidos y el 29,5 % es tecnología.** La primera cifra ya no es el peso del
    mundo: es un sesgo de 10 pp contra EE. UU. que se decidió a conciencia y cuesta ≈0,1 pp/año si el mercado

@@ -171,7 +171,7 @@ related:
   Lo primero es un hecho verificable en coste; lo segundo es una decisión de riesgo.
 - **Frente a la definitiva-40, esta se queda 14 pp corta de bolsa y paga 10,85 €/año más**, pero baja la caída en
   **4.946 €**. Es exactamente el escalón intermedio: el que se puede firmar hoy sin reescribir el suelo de −22.700 €
-  a −33.834 €.
+  a −33.854 €.
 - **Si el titular quiere el salto completo**, la ruta es: esta cartera ahora, y a los 85/15 dentro de 12-24 meses
   —o después de vivir una caída del 20 % sin vender—, cambiando solo los pesos de las mismas siete líneas.
 
