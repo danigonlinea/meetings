@@ -1795,7 +1795,7 @@
    "srri": 3,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0114353032.md"
   },
   {
    "isin": "ES0114598008",
@@ -3246,7 +3246,7 @@
    "pendientes": [
     "r5a"
    ],
-   "ficha": null
+   "ficha": "mixtos/ES0131445142.md"
   },
   {
    "isin": "ES0131445159",

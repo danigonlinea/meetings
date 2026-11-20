@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 895
+**Fondos: 1980** · con ficha previa: 897
 
 | Clase | Fondos |
 | --- | --- |
@@ -613,7 +613,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0162858031](../mixtos/ES0162858031.md) | PENTATHLON FI | Activa | EUR | Allocation Miscellaneous | 1,12 | -0,41 | 3 | — |
 | [ES0142046004](../mixtos/ES0142046004.md) | GESEM GESTION FLEXIBLE | Activa | EUR | Flexible Allocation | 1,13 | 5,67 | 4 | 3 |
 | [ES0131445076](../mixtos/ES0131445076.md) | Gestión Boutique VIII Adarve Altea FI | Activa | EUR | Flexible Allocation | 1,13 | 16,06 | 3 | 5 |
-| ES0131445142 | GB VIII INVER VALUE GBL FN | Activa | EUR | Flexible Allocation | 1,14 | 12,96 | 4 | 5 |
+| [ES0131445142](../mixtos/ES0131445142.md) | GB VIII INVER VALUE GBL FN | Activa | EUR | Flexible Allocation | 1,14 | 12,96 | 4 | 5 |
 | [LU0397155978](../mixtos/LU0397155978.md) | GSQuartix Modified Strategy on the Bloomberg Commodity IndexTotal Return Portfolio A EUR | Activa | EUR | Commodities Broad Basket | 1,15 | 10,60 | 4 | — |
 | ES0184694034 | Welzia Ahorro 5 FI | Activa | EUR | Cautious Allocation | 1,15 | 4,57 | 2 | 4 |
 | [ES0105243002](../mixtos/ES0105243002.md) | Acacia Bonomix Plata FI | Activa | EUR | Cautious Allocation | 1,16 | 6,62 | 2 | 4 |
@@ -641,7 +641,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0173311103](../mixtos/ES0173311103.md) | Renta 4 Multigestión Numantia Patrimonio Global FI | Activa | EUR | Flexible Allocation | 1,37 | 20,67 | 4 | 5 |
 | [ES0112231016](../mixtos/ES0112231016.md) | Avantage Fund B FI | Activa | EUR | Flexible Allocation | 1,38 | 12,99 | 3 | 5 |
 | [LU2867338167](../mixtos/LU2867338167.md) | Multi Solutions - Pictet Road To Megatrends 2028 II-P EUR | Activa | EUR | Allocation Miscellaneous | 1,38 | — | 3 | — |
-| ES0114353032 | BELGRAVIA EPSILON FI | Activa | EUR | Flexible Allocation | 1,39 | 1,57 | 3 | 1 |
+| [ES0114353032](../mixtos/ES0114353032.md) | BELGRAVIA EPSILON FI | Activa | EUR | Flexible Allocation | 1,39 | 1,57 | 3 | 1 |
 | [LU0048292808](../mixtos/LU0048292808.md) | BLI GLOBAL 50 B ACC EUR | Activa | EUR | Moderate Allocation | 1,40 | 9,55 | 3 | 4 |
 | [LU0048293285](../mixtos/LU0048293285.md) | BLI GLOBAL 75 A DIS EUR | Activa | EUR | Aggressive Allocation | 1,40 | 11,55 | 3 | 3 |
 | [LU0048293368](../mixtos/LU0048293368.md) | BLI GLOBAL 75 B ACC EUR | Activa | EUR | Aggressive Allocation | 1,40 | 11,54 | 3 | 3 |
