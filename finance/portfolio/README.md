@@ -186,7 +186,12 @@ a 520,60 € por cada 100.000 € invertidos** y 6,16 % frente a 6,21 % de esper
 Con ellas se va el único representante del perfil «84 % de RV con gestión activa de convicción»: ese perfil queda
 servido por `cartera-definitiva-40/` (84,46 %, 96,00 €) y `cartera-ai-100-index-5/` (84,95 %, 193,00 €), y a 6 % bruto de
 bolsa la primera es la cartera con **mejor retorno neto esperado de todo el árbol** (5,44 % frente al 5,22 % de
-la C5 de `cartera-ai-fondos-2000-lista-deepseek`, que solo gana por encima del 7,47 % bruto). Los dos
+la C5 de `cartera-ai-fondos-2000-lista-deepseek`, que solo gana por encima del 7,47 % bruto). Ese primer puesto
+se mide en retorno y coste, **no en diversificación**: `cartera-definitiva-40` tiene el **52,6 % del dinero y el
+62,2 % de la renta variable en Estados Unidos** y **diez valores que suman el 17,2 % de la cartera**, porque su
+núcleo replica un índice que ya está así; la C5 de deepseek, con 99,5 % de RV, está **peor** en las dos columnas
+(62,0 % del dinero en EE. UU. y 33,0 % en tecnología). Reducir la concentración es un tilt con precio, no una
+mejora gratuita. Los dos
 documentos, con toda su auditoría, siguen en el historial de git.
 
 `cartera-ai-fondos-2000-lista/` es un encargo del 20/11/2026 con **cinco criterios independientes** sobre el mismo universo de 2.007 fichas de `finance/fondos-myinvestor/`: índice de coste mínimo, convicción activa, equilibrada 55/45, defensiva con alternativos y crecimiento con satélites. La condición del titular era que **ningún fondo se repitiera entre las cinco**, y se cumplió con 52 ISIN distintos comprobados también por nombre y clase hermana. **El mismo 20/11 se retiraron C1, C3 y C5** al cruzarlas ISIN a ISIN contra las otras carteras del repositorio: C1 pagaba 132,20 €/año por 77,52 % de RV cuando `cartera-ai-100-index/` da 79,79 % por 106,50 € y `cartera-definitiva-40/` da 84,46 % por 96,00 €; C3 repetía el perfil de 55/45 de `propuesta-pieza.md` (54,6 % por 529,90 €) y de `cartera-ai-final-conservadora/` (54,61 % por 509,70 €) con más coste; y C5 costaba 952,80 €/año para el mismo ≈6,2 % esperado que `hy3` (527,60 €, 84,16 % de RV) y `qwen4max` (598,50 €). Quedan **C2, la cartera 100 % activa más barata del repositorio, y C4, la única de 35 % de RV con alternativos**: 21 fondos sin repetir. Sus documentos retirados siguen en el historial de git. La revisión fondo a fondo de los 21 está en su `fondos-revisados.md` y la comprobación en `validacion.md`.
