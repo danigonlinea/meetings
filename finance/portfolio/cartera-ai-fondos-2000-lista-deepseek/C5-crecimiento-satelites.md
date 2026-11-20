@@ -135,7 +135,57 @@ Una sola sesión, todas por importe. **La primera orden de cada fondo tiene que 
 
 Sin coste de entrada ni de salida en ninguna de las líneas. La liquidación tarda entre 2 y 4 días según el fondo (Pictet monetario y los fondos españoles liquidan antes; los luxemburgueses con suscripción T+3/T+4, los últimos).
 
-## 8. Qué se descarta
+## 8. Aportación de 1.500 €/mes y horizonte de 15 años
+
+Mandato del titular (20/11/2026): **15 años de horizonte y 1.500 €/mes de aportación**. Con esas dos
+cifras los 100.000 € iniciales son el 27 % del dinero que entra —370.000 € aportados en total— y el 73 %
+restante entra a precio de mercado durante quince años. La cartera se juzga por coste y por permanencia,
+no por el punto de entrada.
+
+| Fondo | Peso | €/mes | Mínimo de aportación posterior |
+| --- | --: | --: | --: |
+| Vanguard ESG Developed World All Cap | 60 % | 900 € | 1,00 € |
+| DNB Technology A EUR | 10 % | 150 € | 1.000,00 € |
+| Ashoka WhiteOak EM Equity C | 8 % | 120 € | 0,00 € |
+| T. Rowe US Smaller Companies A EUR | 8 % | 120 € | 3.000,00 € |
+| Fidelity Iberia A-Acc-EUR | 6 % | 90 € | 1,00 € |
+| First Sentier Global Listed Infrastructure I | 8 % | 120 € | 1,00 € |
+| **Total** | **100 %** | **1.500 €** | |
+
+- **Seis órdenes al mes**, todas por importe. Ninguna toca el mínimo de aportación posterior: el mayor
+  de la cartera es 1,00 € y el fondo con mínimo inicial de 1.000 € (DNB Technology) ya queda cubierto por
+  su primera orden de 10.000 €. T. Rowe pide 3.000 € y también los despeja.
+- **El reparto mensual replica los pesos del §2**, así que la cartera se rebalancea sola con el dinero
+  nuevo: no hace falta vender nada para mantener los pesos mientras las desviaciones sean pequeñas.
+- **Regla de rebalanceo por entradas:** cada mes, el importe va a la línea que esté más lejos por debajo
+  de su peso objetivo; se vende solo si un bloque se desvía más de 5 pp y no vuelve en dos trimestres con
+  aportaciones. Un traspaso entre fondos no tributa, pero deja el dinero fuera del mercado unos días y no
+  compensa por menos de 5 pp.
+- **Coste de la cartera a lo largo del plan:** el 0,76 % se mantiene aunque los satélites doblen su tamaño,
+  porque el núcleo indexado sigue siendo el 60 % del dinero que entra cada mes.
+
+## 9. Qué se espera a 15 años (supuestos declarados)
+
+No es una previsión, es la aritmética del plan con tres supuestos de rentabilidad bruta anual: **bolsa
+6 %, renta fija 3 %, liquidez 2,5 %**. La cartera tiene 99,5 % de bolsa, así que su retorno bruto es
+≈5,98 % y el neto de coste 5,22 %.
+
+| Escenario | Bolsa bruta | Neto de la cartera | Valor a 15 años (100.000 € + 1.500 €/mes) |
+| --- | --: | --: | --: |
+| Favorable | 7,0 % | 6,21 % | 684.735 € |
+| Base | 6,0 % | 5,22 % | 618.617 € |
+| Desfavorable | 4,5 % | 3,73 % | 532.219 € |
+
+**El rival es C1, no C2.** Con 15 años y aportaciones, la cartera de índice (69,47 % de RV, 0,13 % de
+coste) da 602.175 € en el escenario base: 16.442 € menos que esta, pero **gana si la bolsa renta menos
+del 5,2 % bruto anual**, que es el punto de cruce entre las dos. C2 queda 44.349 € por detrás de C5 con
+la misma renta variable, y esa diferencia es solo comisión.
+
+**Lo que hay que poder mirar:** con 1.500 €/mes durante 15 años el saldo hacia el año 10 ronda los
+400.000 €, y una caída del 40 % son −160.000 € en el peor momento. Si eso no se aguanta sin vender, la
+cartera correcta no es esta: es C4, con la mitad de caída y 107.171 € menos en el escenario base.
+
+## 10. Qué se descarta
 
 Descartes del universo con el número que los descarta. Los trece fondos que pidió el titular se evalúan uno a uno en el `README.md` de la carpeta.
 
@@ -149,9 +199,9 @@ Descartes del universo con el número que los descarta. Los trece fondos que pid
 - **Okavango Delta A FI (ES0167211038)** — 3A +28,0 % y TER 1,51 %, un historial excelente. **Descartado por soft close**: el aviso del MCP dice «Fondo en Soft Close» y solo admite partícipes existentes.
 - **Vanguard U.S. 500 Stock Index Investor EUR (IE0032620787)** — la clase barata del S&P 500 que aparecía en el catálogo está **en soft close**; el propio aviso del MCP remite a la clase Institutional (IE0032126645), que es la que se compra.
 - **Morgan Stanley US Growth A (LU0073232471)** — 3A +21,9 % con TER 1,63 %, pero SRRI 6, volatilidad 3A 29,4 %, 4A −60,6 % y 1A −4,2 %. En una cartera de convicción con ocho líneas, una posición del 10 % con esa caída se come el año.
-- **Ábaco, Merchbanc, Pareto, Storm, Cartesio, Dunas y Sissener como bloque entero de renta fija** — se evalúan individualmente: cinco de los siete entran en C3 y C4 (Pareto, Storm, Merchbanc, Cartesio, Dunas, Sissener). Los dos que sobran —Ábaco y Algebris— se descartan por número, no por categoría.
+- **El resto del bloque de renta fija del listado** — Merchbanc, Pareto, Storm y Sissener entran en C3 y C4, y Cartesio y Dunas entran como mixtos defensivos. Ábaco y Algebris se quedan fuera por las cifras de sus propias filas, no por categoría. El bloque no se compra entero porque en una cartera de 100.000 € siete fondos de renta fija serían siete líneas de 7.000 € pagando entre 0,63 % y 1,51 % por hacer el mismo trabajo.
 
-## 9. Revisión y disparadores
+## 11. Revisión y disparadores
 
 - **Revisión anual, no trimestral.** Esta cartera no tiene un mecanismo que medir cada trimestre: se revisa una vez al año, o antes si cambia el horizonte, el colchón fuera de cartera o la tolerancia a la caída.
 - **Disparador de riesgo:** si la caída real supera el −47,7 % (el escenario de manual con un 20 % de margen), la cartera no se toca: se revisa si el horizonte sigue siendo el mismo. Vender en la caída es la única decisión que la fórmula no contempla.

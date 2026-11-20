@@ -145,7 +145,6 @@ Una sola sesión, todas por importe. **La primera orden de cada fondo tiene que 
 
 Sin coste de entrada ni de salida en ninguna de las líneas. La liquidación tarda entre 2 y 4 días según el fondo (Pictet monetario y los fondos españoles liquidan antes; los luxemburgueses con suscripción T+3/T+4, los últimos).
 
-## 8. Qué se descarta
 
 Descartes del universo con el número que los descarta. Los trece fondos que pidió el titular se evalúan uno a uno en el `README.md` de la carpeta.
 
@@ -159,7 +158,7 @@ Descartes del universo con el número que los descarta. Los trece fondos que pid
 - **Okavango Delta A FI (ES0167211038)** — 3A +28,0 % y TER 1,51 %, un historial excelente. **Descartado por soft close**: el aviso del MCP dice «Fondo en Soft Close» y solo admite partícipes existentes.
 - **Vanguard U.S. 500 Stock Index Investor EUR (IE0032620787)** — la clase barata del S&P 500 que aparecía en el catálogo está **en soft close**; el propio aviso del MCP remite a la clase Institutional (IE0032126645), que es la que se compra.
 - **Morgan Stanley US Growth A (LU0073232471)** — 3A +21,9 % con TER 1,63 %, pero SRRI 6, volatilidad 3A 29,4 %, 4A −60,6 % y 1A −4,2 %. En una cartera de convicción con ocho líneas, una posición del 10 % con esa caída se come el año.
-- **Ábaco, Merchbanc, Pareto, Storm, Cartesio, Dunas y Sissener como bloque entero de renta fija** — se evalúan individualmente: cinco de los siete entran en C3 y C4 (Pareto, Storm, Merchbanc, Cartesio, Dunas, Sissener). Los dos que sobran —Ábaco y Algebris— se descartan por número, no por categoría.
+- **El resto del bloque de renta fija del listado** — Merchbanc, Pareto, Storm y Sissener entran en C3 y C4, y Cartesio y Dunas entran como mixtos defensivos. Ábaco y Algebris se quedan fuera por las cifras de sus propias filas, no por categoría. El bloque no se compra entero porque en una cartera de 100.000 € siete fondos de renta fija serían siete líneas de 7.000 € pagando entre 0,63 % y 1,51 % por hacer el mismo trabajo.
 
 ## 9. Revisión y disparadores
 

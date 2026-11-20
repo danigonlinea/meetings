@@ -112,6 +112,44 @@ Lo que C1 compra con su sobrecoste no es retorno: es que las otras cuatro carter
 núcleos indexados sin repetir el mismo vehículo. Si el titular prefiere una sola cartera de índice, la
 respuesta del repositorio ya está escrita y es `cartera-definitiva-40/`.
 
+## Valoración: cuál es la ganadora
+
+Parámetros del titular (20/11/2026): **horizonte 15 años, aportación de 1.500 €/mes y las comisiones de
+éxito no son un veto**. Con esas tres piezas los 100.000 € iniciales son el 27 % del dinero que entra
+(370.000 € aportados en 15 años) y el 73 % restante entra a precio de mercado: manda el coste y la
+permanencia, no el punto de entrada.
+
+Misma vara para las cinco (RV *look-through* y caída de la casa), y valor final con supuestos declarados
+—bolsa 6 %, renta fija 3 %, liquidez 2,5 % brutos anuales—, 100.000 € iniciales + 1.500 €/mes:
+
+| Cartera | RV real | Coste/año | Caída de manual | Valor a 15 años | Diferencia con la ganadora |
+| --- | --: | --: | --: | --: | --: |
+| **C5 crecimiento** | **99,48 %** | **764,60 €** | **−39,79 %** | **618.617 €** | — |
+| C1 índice mínimo | 69,47 % | 129,20 € | −28,68 % | 602.175 € | −16.442 € |
+| C2 convicción | 97,60 % | 1.434,40 € | −39,04 % | 574.267 € | −44.349 € |
+| C3 equilibrada | 55,05 % | 492,90 € | −23,28 % | 555.037 € | −63.580 € |
+| C4 defensiva | 34,06 % | 607,60 € | −15,07 % | 511.446 € | −107.171 € |
+
+**Gana C5.** Razones, en orden de peso:
+
+1. **Es la única con renta variable alta y coste bajo.** C2 compra el mismo 97,6 % de bolsa por 669,80 €/año
+   más, y esa diferencia son 44.349 € a quince años: no es una opinión sobre gestores, es una resta.
+2. **El horizonte absuelve a C3 y C4, no las hace ganar.** Con 15 años y aportaciones, un 34 % o un 55 % de
+   bolsa deja demasiado dinero sin crecer: 107.171 € y 63.580 € por detrás.
+3. **El único rival es C1, y es un rival de escenario.** La cartera de índice gana **si la bolsa renta menos
+   del 5,2 % bruto anual** (a 4,5 %: C1 542.147 € frente a C5 532.219 €; a 5,0 %: 561.386 frente a 559.436).
+   Por encima de ese punto de cruce, C5 gana y la diferencia crece. Con el histórico largo de la bolsa
+   mundial (≈7 % nominal) el escenario base está por encima del cruce.
+4. **Las comisiones de éxito ya no descartan nada**, pero siguen contando: C5 solo tiene una línea con éxito
+   (DNB, 10 %) frente a las cuatro de C4.
+
+**Lo que hay que poder mirar antes de firmar:** hacia el año 10 el saldo ronda los 400.000 € y una caída del
+40 % son −160.000 € en el peor momento. Si eso no se aguanta sin vender, la respuesta no es C5 sino C4, y se
+paga con 107.171 € del escenario base.
+
+El plan de aportaciones de C5 —reparto de los 1.500 €/mes por fondo, cadencias y regla de rebalanceo por
+entradas— está en su §8, y la aritmética de los tres escenarios en su §9.
+
 ## Cómo se ha hecho
 
 1. **Extracción determinista de las 2.007 fichas** (TER, éxito, mínimos, RV/RF/caja, 3A/5A, SRRI,
@@ -142,7 +180,7 @@ respuesta del repositorio ya está escrita y es `cartera-definitiva-40/`.
 
 ## Estado
 
-Sin ejecutar, a la espera de la revisión del titular. Pendiente de confirmar antes de lanzar una orden:
-horizonte real, colchón fuera de cartera, si habrá aportaciones periódicas (cambiaría las cadencias y
-los mínimos de aportación posterior) y la política personal sobre comisiones de éxito, que en C4 afectan
-a cuatro de ocho líneas.
+Sin ejecutar, a la espera de la revisión del titular. **Parámetros ya fijados el 20/11/2026:** horizonte
+de 15 años, aportación de 1.500 €/mes y comisiones de éxito admitidas; con ellos la ganadora es **C5**, que
+lleva su plan de aportaciones en el §8. Pendiente de confirmar: colchón fuera de cartera y tolerancia real a
+una caída del 40 % (si no se aguanta, la cartera correcta es C4).
