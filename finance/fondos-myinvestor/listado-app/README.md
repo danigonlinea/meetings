@@ -90,5 +90,9 @@ siguiendo [`plantilla-ficha.md`](plantilla-ficha.md), con datos de quefondos.com
 más el contexto de [`contexto-macro.md`](contexto-macro.md). Progreso y lotes:
 `python3 tools/fichas_listado.py estado|siguientes N`.
 
+**A 2026-11-20: 1.802 fichas web escritas y 0 pendientes** (las 178 MCP se conservan, ninguna
+se sobrescribió). QA (`fichas_listado.py comprobar`): 0 problemas de frontmatter, secciones,
+ISIN o fuentes.
+
 *Datos de referencia a fecha del snapshot; rentabilidades pasadas no garantizan futuras.
 No es consejo de inversión.*
