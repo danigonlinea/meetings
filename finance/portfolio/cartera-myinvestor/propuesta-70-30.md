@@ -159,19 +159,19 @@ related:
 
 | | `propuesta-pieza` (18/11) | **Esta 70/30** | `cartera-definitiva-40` |
 | --- | --: | --: | --: |
-| RV real | 54,61 % | **69,61 %** | 84,46 % |
-| Coste del ahorro | 529,90 € (0,530 %) | **102,85 € (0,1029 %)** | 96,00 € (0,096 %) |
+| RV real | 54,61 % | **69,61 %** | 83,39 % |
+| Coste del ahorro | 529,90 € (0,530 %) | **102,85 € (0,1029 %)** | 92,00 € (0,092 %) |
 | Caída de manual | −20.885 € | **−25.879 €** | −30.825 € (sobre 90.000 €) |
-| Fondos / gestoras | 13 / 7 | **7 / 2** | 4 / 2 |
+| Fondos / gestoras | 13 / 7 | **7 / 2** | 6 / 2 |
 | Convicción activa | 21.000 € con prueba en 2029 | **ninguna** | ninguna |
-| Traspasos | 23 | **12** | 4 |
+| Traspasos | 23 | **12** | 6 |
 
 - **Frente a la pieza, esta cartera cambia dos cosas a la vez y hay que decirlo:** quita el bloque activo (que
   cuesta **482 €/año** en fondos y promete **1,49 pp/año de alfa de empate** sobre 21.000 €) y sube la RV 15 pp.
   Lo primero es un hecho verificable en coste; lo segundo es una decisión de riesgo.
-- **Frente a la definitiva-40, esta se queda 15 pp corta de bolsa y paga 6,85 €/año más**, pero baja la caída en
+- **Frente a la definitiva-40, esta se queda 14 pp corta de bolsa y paga 10,85 €/año más**, pero baja la caída en
   **4.946 €**. Es exactamente el escalón intermedio: el que se puede firmar hoy sin reescribir el suelo de −22.700 €
-  a −34.250 €.
+  a −33.834 €.
 - **Si el titular quiere el salto completo**, la ruta es: esta cartera ahora, y a los 85/15 dentro de 12-24 meses
   —o después de vivir una caída del 20 % sin vender—, cambiando solo los pesos de las mismas siete líneas.
 

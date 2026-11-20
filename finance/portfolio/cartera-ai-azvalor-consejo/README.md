@@ -50,8 +50,8 @@ cero monetario y cero comisiones de éxito**, y **≈6,83 % de rentabilidad espe
   índice. Comparten la escuela value y tres gestoras, pero no la proporción.
 - **Una cartera de gestora única** sería una apuesta a un solo proceso; esta usa Cobas solo como una décima parte
   y en su clase barata (0,96 %), no en la internacional (2,33 % y en *soft close*).
-- **`cartera-definitiva-40/`** es la alternativa si el titular no firma el 100 % en bolsa: cuesta 96 €/año y cae
-  −34,25 %, pero lleva 15 % de renta fija. La diferencia de esperanza (6,83 % frente a 6,16 %) es,
+- **`cartera-definitiva-40/`** es la alternativa si el titular no firma el 100 % en bolsa: cuesta 92 €/año y cae
+  −33,83 %, pero lleva 16 % de renta fija en dos tramos. La diferencia de esperanza (6,83 % frente a 6,06 %) es,
   literalmente, el precio de la primera frase de la entrevista.
 - **`cartera-myinvestor/`** es dinero real con foto; esta nace de cero y no se consolida con ella.
 

@@ -28,7 +28,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-100-index-5/` | **Dos tallas, desde cero, con las tres cláusulas**: solo indexados, nada que reparta dividendos y **ningún fondo ya elegido en otra cartera**, esta vez pedido por el titular (`100k.md`, núcleo MSCI World + Europa + emergentes + agregado global cubierto, **84,95 % RV**, **0,1930 %**; `200k.md`, los mismos 4 fondos y pesos, 0,1930 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, lista negra verificada por ISIN y por fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-3/` | **Dos tallas con dos condiciones únicas, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 80 % RV, 1,5472 %; `200k.md`, mismos 7 + 3 más crédito corto, 80 %, 1,5268 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
 | `cartera-ai-no-indexados-4/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,5961 %; `200k.md`, 8 + 3 con small caps EE. UU., 70 %, 1,5851 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
-| `cartera-definitiva-40/` | **Una talla, 100.000 €, a los 40 años**: la cartera más barata del repositorio con cuatro indexados —65 % MSCI World al 0,06 %, 10 % emergentes, 10 % small caps y 15 % RF global 1-5 años cubierta—, **84,46 % de RV real**, **96,00 €/año (0,096 %)**, caída **−34,25 %** y **≈6,16 % esperado**, con plan de aportación y glide de edad | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía y sectores, tres variantes de edad, esperanza con supuestos, tabla de aportaciones, plan completo, 4 órdenes, descartes con número y señales) |
+| `cartera-definitiva-40/` | **Una talla, 100.000 €, a los 40 años**: la cartera más barata del repositorio con seis indexados y un sesgo europeo declarado —58 % MSCI World al 0,06 %, 10 % emergentes, **10 % Europa**, 6 % small caps, 11 % RF global 1-5 años cubierta y **5 % deuda ligada a inflación**—, **83,39 % de RV real**, **92,00 €/año (0,092 %)**, caída **−33,83 %** y **≈6,06 % esperado**, con plan de aportación y glide de edad | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, geografía y sectores, tres variantes de edad, esperanza con supuestos, tabla de aportaciones, plan completo, 4 órdenes, descartes con número y señales) |
 | `cartera-de-andres/` | **Cartera de un tercero**, no del dueño: la cuenta personal de Andrés (La Pizarra) publicada cada mes | `cartera-actual.md` (foto vigente) + `anteriores/` (fotos mensuales congeladas) |
 | `cartera-ai-final-conservadora/` | **Una talla, 100.000 €**: la cartera del 18/11 con el crédito consolidado en Neuberger (**12 fondos**, **54,6 % de RV**, **509,70 €/año (0,566 %)**, duración 1,61) y **≈4,8 % de rentabilidad esperada anual** con rango 2,3-6,8 % y supuestos escritos | Un fichero (`100k.md`): la cartera entera (ISIN, bloques, coste, duración, rentabilidad esperada con su método, 22 órdenes en dos fases, 1.000 €/mes, descartes con número y señales) |
 | `cartera-ai-no-indexados-5/` | **Dos tallas con las mismas dos condiciones, desde cero**: nada que reparta dividendos y **ningún fondo indexado ni ya elegido antes** (`100k.md`, 7 + 3 fondos, 70 % RV, 1,3543 %; `200k.md`, 8 + 3 con Valentum, 70 %, 1,3417 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, 2.000 €/mes y señales) |
@@ -64,9 +64,9 @@ de 46,9 % en EE. UU. que costaba ≈0,55 pp/año) se mantienen donde hacían fal
 porque el fichero se haya ido.
 
 `cartera-definitiva-40/` es **la cartera de referencia del titular a su edad** (40 años, 19/11/2026) y no nace de
-ninguna otra: cuatro indexados, **96,00 €/año (0,096 %)** —la más barata del repositorio—, **84,46 % de RV real**,
-caída **−34,25 %** y **≈6,16 % esperado**. La decisión de diseño es una sola: **cuánta bolsa a los 40**, y la
-respuesta es 85/15 con el colchón fuera. No hay tilt de país (el 62 % de EE. UU. es el peso del mundo), no hay estilo, ni sector, ni comisión de éxito. Lo demás está escrito como plan: colchón de
+ninguna otra: seis indexados, **92,00 €/año (0,092 %)** —la más barata del repositorio—, **83,39 % de RV real**,
+caída **−33,83 %** y **≈6,06 % esperado**. La decisión de diseño es una sola: **cuánta bolsa a los 40**, y la
+respuesta es 83/17 con el colchón fuera. **Actualizada el 20/11/2026** tras una crítica externa: fuera el Japón que duplicaba peso, fuera los REITs y fuera la deuda emergente del colchón; dentro Europa al 10 % como único sesgo declarado y un 5 % de ligado a inflación. No hay estilo, ni sector, ni comisión de éxito. Lo demás está escrito como plan: colchón de
 6-12 meses fuera, aportación automática mensual —**con 1.000 €/mes el capital a los 67 pasa de ≈502.000 € a
 ≈1.308.000 €**—, rebalanceo por bandas de ±5 pp con aportaciones y **glide de edad desde los 55** (1 pp/año de RV a
 renta fija). Su variante 70/30, para horizontes de 5-7 años, es 99,30 €/año y −28,74 % de caída.
@@ -179,22 +179,22 @@ EE. UU. 54,7 %), el REITs institucional al 0,23 % (el que hay ya cuesta 0,17 %) 
 `cartera-ai-final-qwen4max/` y `cartera-ai-final-hy3/` se retiraron el **20/11/2026**: las dos ocupaban el mismo
 perfil (84,15 % y 84,16 % de RV real), declaraban la misma esperanza (≈6,20 % y ≈6,21 %) y la segunda costaba
 **70,90 €/año menos**, así que qwen4max estaba dominada por su propia hermana. Y hy3, la superviviente, está
-dominada a su vez por `cartera-definitiva-40/`: **misma renta variable (84,46 % frente a 84,16 %), 96,00 € frente
-a 520,60 € por cada 100.000 € invertidos** y 6,16 % frente a 6,21 % de esperanza. El premio entero de hy3 eran
-**3.128 € netos a 20 años** —unos 156 €/año— a cambio de que sus tres fondos activos (Brandes, Horos y Nomura,
+dominada a su vez por `cartera-definitiva-40/`: **misma renta variable (83,39 % frente a 84,16 %), 92,00 € frente
+a 520,60 € por cada 100.000 € invertidos** y 6,06 % frente a 6,21 % de esperanza. El premio entero de hy3 eran
+**9.299 € netos a 20 años** —unos 156 €/año— a cambio de que sus tres fondos activos (Brandes, Horos y Nomura,
 24.000 €) dieran **≈2,1 pp brutos de alfa** sobre el índice, de los que 1,62 pp se van en pagar su comisión.
 Con ellas se va el único representante del perfil «84 % de RV con gestión activa de convicción»: ese perfil queda
-servido por `cartera-definitiva-40/` (84,46 %, 96,00 €) y `cartera-ai-100-index-5/` (84,95 %, 193,00 €), y a 6 % bruto de
-bolsa la primera es la cartera con **mejor retorno neto esperado de todo el árbol** (5,44 % frente al 5,22 % de
-la C5 de `cartera-ai-fondos-2000-lista-deepseek`, que solo gana por encima del 7,47 % bruto). Ese primer puesto
-se mide en retorno y coste, **no en diversificación**: `cartera-definitiva-40` tiene el **52,6 % del dinero y el
-62,2 % de la renta variable en Estados Unidos** y **diez valores que suman el 17,2 % de la cartera**, porque su
+servido por `cartera-definitiva-40/` (83,39 %, 92,00 €) y `cartera-ai-100-index-5/` (84,95 %, 193,00 €), y a 6 % bruto de
+bolsa la primera es la cartera con **mejor retorno neto esperado de todo el árbol** (5,37 % frente al 5,22 % de
+la C5 de `cartera-ai-fondos-2000-lista-deepseek`, que solo gana por encima del 6,93 % bruto). Ese primer puesto
+se mide en retorno y coste, **no en diversificación**: `cartera-definitiva-40` tiene el **45,3 % del dinero y el
+54,3 % de la renta variable en Estados Unidos** y **diez valores que suman el 15,3 % de la cartera**, porque su
 núcleo replica un índice que ya está así; la C5 de deepseek, con 99,5 % de RV, está **peor** en las dos columnas
 (62,0 % del dinero en EE. UU. y 33,0 % en tecnología). Reducir la concentración es un tilt con precio, no una
 mejora gratuita. Los dos
 documentos, con toda su auditoría, siguen en el historial de git.
 
-`cartera-ai-fondos-2000-lista/` es un encargo del 20/11/2026 con **cinco criterios independientes** sobre el mismo universo de 2.007 fichas de `finance/fondos-myinvestor/`: índice de coste mínimo, convicción activa, equilibrada 55/45, defensiva con alternativos y crecimiento con satélites. La condición del titular era que **ningún fondo se repitiera entre las cinco**, y se cumplió con 52 ISIN distintos comprobados también por nombre y clase hermana. **El mismo 20/11 se retiraron C1, C3 y C5** al cruzarlas ISIN a ISIN contra las otras carteras del repositorio: C1 pagaba 132,20 €/año por 77,52 % de RV cuando `cartera-ai-100-index/` da 79,79 % por 106,50 € y `cartera-definitiva-40/` da 84,46 % por 96,00 €; C3 repetía el perfil de 55/45 de `propuesta-pieza.md` (54,6 % por 529,90 €) y de `cartera-ai-final-conservadora/` (54,61 % por 509,70 €) con más coste; y C5 costaba 952,80 €/año para el mismo ≈6,2 % esperado que `hy3` (527,60 €, 84,16 % de RV) y `qwen4max` (598,50 €). Quedan **C2, la cartera 100 % activa más barata del repositorio, y C4, la única de 35 % de RV con alternativos**: 21 fondos sin repetir. Sus documentos retirados siguen en el historial de git. La revisión fondo a fondo de los 21 está en su `fondos-revisados.md` y la comprobación en `validacion.md`.
+`cartera-ai-fondos-2000-lista/` es un encargo del 20/11/2026 con **cinco criterios independientes** sobre el mismo universo de 2.007 fichas de `finance/fondos-myinvestor/`: índice de coste mínimo, convicción activa, equilibrada 55/45, defensiva con alternativos y crecimiento con satélites. La condición del titular era que **ningún fondo se repitiera entre las cinco**, y se cumplió con 52 ISIN distintos comprobados también por nombre y clase hermana. **El mismo 20/11 se retiraron C1, C3 y C5** al cruzarlas ISIN a ISIN contra las otras carteras del repositorio: C1 pagaba 132,20 €/año por 77,52 % de RV cuando `cartera-ai-100-index/` da 79,79 % por 106,50 € y `cartera-definitiva-40/` da 83,39 % por 92,00 €; C3 repetía el perfil de 55/45 de `propuesta-pieza.md` (54,6 % por 529,90 €) y de `cartera-ai-final-conservadora/` (54,61 % por 509,70 €) con más coste; y C5 costaba 952,80 €/año para el mismo ≈6,2 % esperado que `hy3` (527,60 €, 84,16 % de RV) y `qwen4max` (598,50 €). Quedan **C2, la cartera 100 % activa más barata del repositorio, y C4, la única de 35 % de RV con alternativos**: 21 fondos sin repetir. Sus documentos retirados siguen en el historial de git. La revisión fondo a fondo de los 21 está en su `fondos-revisados.md` y la comprobación en `validacion.md`.
 
 `cartera-ai-fondos-2000-lista-glm/` es el mismo encargo del 20/11/2026 repetido —mismo universo de 1.980 fichas,
 misma condición de no-repetición, esta vez con las cinco carteras entregadas completas—: índice de coste mínimo
@@ -375,11 +375,11 @@ precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo qu
   se ejecuta.
 - **cartera-definitiva-40 (19/11/2026, sin ejecutar):** `100k.md`. **La cartera de referencia a los 40**: **4
   fondos** (iShares Developed World S 65 % al **0,06 %**, iShares Emerging Markets S 10 %, Vanguard Global
-  Small-Cap 10 %, iShares Global Aggregate 1-5Y EUR H 15 %), **84,46 % de RV real**, **96,00 €/año (0,096 %)**,
-  caída **−34,25 % (−34.250 €)**, **cero comisiones de éxito** y **≈6,16 % esperado** (4,05-8,27 %). **4 órdenes
+  Small-Cap 6 %, iShares Global Aggregate 1-5Y EUR H 11 % e iShares Euro Gov Inflation-Linked 5 %), **83,39 % de RV real**, **92,00 €/año (0,092 %)**,
+  caída **−33,83 % (−33.834 €)**, **cero comisiones de éxito** y **≈6,06 % esperado** (3,97-8,15 %). **6 órdenes
   en dos cortes** (09:00 y 16:00), liquidación de 4 días en el núcleo. **Backtest de la estructura en cinco años
-  reales** (`backtest_portfolio`, 2021-2026, con las clases antiguas de los mismos índices): **+7,9 % anualizado,
-  10,2 % de volatilidad, −12,9 % de máxima caída y 2022 en −12,1 %**. Variantes escritas: 70/30 (99,30 €,
+  reales** (`backtest_portfolio`, 2021-2026, con las clases antiguas de los mismos índices): **+7,84 % anualizado,
+  9,88 % de volatilidad, −12,84 % de máxima caída y 2022 en −11,79 %**. Variantes escritas: 70/30 (99,30 €,
   −28,74 %, 5,61 %) y 100/0 (93,00 €, −39,74 %, 6,70 %). Plan completo: colchón fuera, aportación automática
   (1.000 €/mes → ≈1,31 M € a los 67), rebalanceo por bandas y glide de edad desde los 55. Descartados con número:
   Vanguard World (78 €/año más), Fidelity World (26 € más), REITs (5 % que solo añadían volatilidad), Euro IG

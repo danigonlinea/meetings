@@ -18,7 +18,7 @@ ya resuelto, y en dos casos a peor precio.
 
 | Retirada | Con qué se comparó | El número |
 | --- | --- | --- |
-| **C1 — Índice de coste mínimo** | `cartera-ai-100-index/` (mismo mandato: solo indexado, solo acumulación) y `cartera-definitiva-40/` | C1: 77,52 % de RV por 132,20 €/año. `100-index`: 79,79 % por 106,50 €/año. `definitiva-40`: 84,46 % por 96,00 €/año y ≈6,16 % esperado. Pagaba 25,70 €/año más por 2,3 pp menos de bolsa. |
+| **C1 — Índice de coste mínimo** | `cartera-ai-100-index/` (mismo mandato: solo indexado, solo acumulación) y `cartera-definitiva-40/` | C1: 77,52 % de RV por 132,20 €/año. `100-index`: 79,79 % por 106,50 €/año. `definitiva-40`: 83,39 % por 92,00 €/año y ≈6,06 % esperado. Pagaba 25,70 €/año más por 2,3 pp menos de bolsa. |
 | **C3 — Equilibrada 55/45** | `cartera-ai-final-conservadora/` y `cartera-myinvestor/propuesta-pieza.md` | C3: 54,75 % de RV por 557,70 €/año. Conservadora: 54,61 % por 509,70 €/año. Pieza vigente: 54,6 % por 529,90 €/año. Mismo perfil de riesgo, más caro y sin decisión nueva. |
 | **C5 — Crecimiento con satélites** | `cartera-ai-final-hy3/` y `cartera-ai-final-qwen4max/` (ambas retiradas el 20/11/2026) y `cartera-ai-final-atrevida/` | C5: 82,95 % de RV por 952,80 €/año y ≈6,25 % esperado. hy3: 84,16 % por 527,60 €/año y ≈6,21 %. qwen4max: 84,15 % por 598,50 €/año y ≈6,2 %. El doble de coste para el mismo resultado esperado. |
 
