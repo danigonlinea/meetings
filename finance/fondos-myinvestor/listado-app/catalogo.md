@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1760
+**Fondos: 1980** · con ficha previa: 1762
 
 | Clase | Fondos |
 | --- | --- |
@@ -1824,8 +1824,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0262307720](../sectoriales/LU0262307720.md) | Jupiter Financial Innovt L Eur Acc | Activa | USD | Financials Sector Equity | 1,73 | 29,69 | 5 | 2 |
 | [IE00BGHQF748](../sectoriales/IE00BGHQF748.md) | GUINNSS GLB MNY MNGS FND C EUR | Activa | EUR | Financials Sector Equity | 1,74 | 18,35 | 5 | 2 |
 | [IE00BGHQF417](../sectoriales/IE00BGHQF417.md) | Guinness Sustainable Energy C EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,74 | 6,27 | 4 | 3 |
-| LU0175576296 | Multipartner SICAV - Konwave Gold Equity Fund B USD | Activa | USD | Precious Metals Sector Equity | 1,74 | 55,94 | 6 | 4 |
-| LU2145465402 | RobecoSAM Smart Mobility Equities D EUR | Activa | EUR | Technology Sector Equity | 1,74 | 10,28 | 5 | 2 |
+| [LU0175576296](../sectoriales/LU0175576296.md) | Multipartner SICAV - Konwave Gold Equity Fund B USD | Activa | USD | Precious Metals Sector Equity | 1,74 | 55,94 | 6 | 4 |
+| [LU2145465402](../sectoriales/LU2145465402.md) | RobecoSAM Smart Mobility Equities D EUR | Activa | EUR | Technology Sector Equity | 1,74 | 10,28 | 5 | 2 |
 | [ES0175812009](../sectoriales/ES0175812009.md) | TRANSI ENERGETICA FI A ACC EUR | Activa | EUR | Energy Sector Equity | 1,74 | 10,98 | 4 | 3 |
 | [IE00B00LSD17](../sectoriales/IE00B00LSD17.md) | Wellington Global Health Care Equity Fund USD D Acc | Activa | USD | Healthcare Sector Equity | 1,74 | 10,97 | 4 | 3 |
 | LU1536921650 | AXA World Funds - Framlington Robotech A Capitalisation EUR | Activa | EUR | Technology Sector Equity | 1,75 | 10,48 | 5 | 2 |
