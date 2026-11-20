@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1716
+**Fondos: 1980** · con ficha previa: 1718
 
 | Clase | Fondos |
 | --- | --- |
@@ -1713,14 +1713,14 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0168797092](../rv-otros/ES0168797092.md) | Gestión Boutique II JPB Growth FI | Activa | EUR | Equity Miscellaneous | 1,66 | 18,47 | 5 | — |
 | [IE0004868604](../rv-otros/IE0004868604.md) | BARING ASIA GROWTH A DIS EUR | Activa | EUR | Asia ex-Japan Equity | 1,71 | 17,43 | 4 | 3 |
 | [IE000QYL1XE8](../rv-otros/IE000QYL1XE8.md) | MAN GLG ASIA EXJAP EQT EUR ACC | Activa | EUR | Asia ex-Japan Equity | 1,71 | — | 4 | — |
-| LU0217390573 | JPMorgan Funds - Pacific Equity Fund A (acc) - EUR | Activa | EUR | Asia Equity | 1,73 | 13,60 | 4 | 3 |
+| [LU0217390573](../rv-otros/LU0217390573.md) | JPMorgan Funds - Pacific Equity Fund A (acc) - EUR | Activa | EUR | Asia Equity | 1,73 | 13,60 | 4 | 3 |
 | LU0593848723 | Mirae Asset Asia Great Consumer EQ A EUR | Activa | EUR | Asia ex-Japan Equity | 1,75 | 1,87 | 5 | 1 |
 | LU0169518387 | JPMorgan Funds - Asia Growth Fund A (acc) - USD | Activa | USD | Asia ex-Japan Equity | 1,79 | 14,81 | 5 | 3 |
 | LU0173782102 | NORDEA ASIAN FOCUS EQ BP EUR | Activa | EUR | Asia ex-Japan Equity | 1,84 | 18,16 | 4 | 4 |
 | [LU0248184466](../rv-otros/LU0248184466.md) | Schroder ISF Asian Opportunities A Accumulation EUR | Activa | EUR | Asia ex-Japan Equity | 1,84 | 16,19 | 4 | 3 |
 | [LU0348784041](../rv-otros/LU0348784041.md) | ALLIANZ ORIENTAL INCOME AT ACC EUR | Activa | EUR | Asia Equity | 1,86 | 12,91 | 5 | 4 |
 | [LU1378878430](../rv-otros/LU1378878430.md) | Morgan Stanley Asia Opportunity A ACC USD | Activa | USD | Asia ex-Japan Equity | 1,88 | 7,35 | 5 | 2 |
-| LU2295319219 | Morgan Stanley Investment Funds - Asia Opportunity Fund A (EUR) | Activa | EUR | Asia ex-Japan Equity | 1,88 | 7,26 | 5 | 1 |
+| [LU2295319219](../rv-otros/LU2295319219.md) | Morgan Stanley Investment Funds - Asia Opportunity Fund A (EUR) | Activa | EUR | Asia ex-Japan Equity | 1,88 | 7,26 | 5 | 1 |
 | LU0702159772 | Fidelity Funds - Asian Smaller Companies Fund A-Acc-EUR | Activa | EUR | Asia ex-Japan Equity | 1,90 | 6,74 | 4 | 3 |
 | LU1378879248 | Morgan Stanley Investment Funds - Asia Opportunity Fund AH (EUR) | Activa | EUR | Asia ex-Japan Equity | 1,91 | 5,19 | 5 | — |
 | LU0231459107 | ASIAN SMALLER COMPAN A2 USD | Activa | USD | Asia ex-Japan Equity | 1,93 | 13,27 | 4 | 4 |
