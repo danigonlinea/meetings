@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1750
+**Fondos: 1980** · con ficha previa: 1751
 
 | Clase | Fondos |
 | --- | --- |
@@ -1725,7 +1725,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1378879248](../rv-otros/LU1378879248.md) | Morgan Stanley Investment Funds - Asia Opportunity Fund AH (EUR) | Activa | EUR | Asia ex-Japan Equity | 1,91 | 5,19 | 5 | — |
 | [LU0231459107](../rv-otros/LU0231459107.md) | ASIAN SMALLER COMPAN A2 USD | Activa | USD | Asia ex-Japan Equity | 1,93 | 13,27 | 4 | 4 |
 | [LU0572940194](../rv-otros/LU0572940194.md) | Janus Henderson Horizon Asian Dividend Income Fund A3q EUR | Activa | EUR | Asia ex-Japan Equity | 1,97 | 16,88 | 4 | 2 |
-| LU0746413003 | UBS EQ ASIAN SMALLER COMPANIES PACC USD | Activa | USD | Asia ex-Japan Equity | 2,00 | -3,92 | 4 | 2 |
+| [LU0746413003](../rv-otros/LU0746413003.md) | UBS EQ ASIAN SMALLER COMPANIES PACC USD | Activa | USD | Asia ex-Japan Equity | 2,00 | -3,92 | 4 | 2 |
 | LU0529499989 | GAM Multistock - Asia Focus Equity USD B | Activa | USD | Asia ex-Japan Equity | 2,01 | 16,42 | 5 | 3 |
 | IE00B12V2V27 | Pinebridge Asia EX Japan Small Cap EQ A AC USD | Activa | USD | Asia ex-Japan Equity | 2,08 | 9,12 | 4 | 3 |
 | LU0390135415 | TEMPLETON ASIAN SMCO A ACC EUR | Activa | EUR | Asia ex-Japan Equity | 2,15 | 7,11 | 4 | 3 |
