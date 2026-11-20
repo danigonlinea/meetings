@@ -3915,7 +3915,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-españa/ES0138800034.md"
   },
   {
    "isin": "ES0138806031",
@@ -9206,7 +9206,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/FR0011558246.md"
   },
   {
    "isin": "FR0012355139",
@@ -19437,7 +19437,7 @@
    "srri": 4,
    "rating": 5,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/LU0131510165.md"
   },
   {
    "isin": "LU0132412106",
@@ -30028,7 +30028,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "rv-europa/LU0997586861.md"
   },
   {
    "isin": "LU1005243255",
@@ -31687,7 +31687,7 @@
    "srri": 4,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "rv-europa/LU1301026388.md"
   },
   {
    "isin": "LU1303370156",
