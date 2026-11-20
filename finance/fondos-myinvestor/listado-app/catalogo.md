@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 825
+**Fondos: 1980** · con ficha previa: 833
 
 | Clase | Fondos |
 | --- | --- |
@@ -582,11 +582,11 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0116567035](../mixtos/ES0116567035.md) | Cartesio X , Fi | Activa | EUR | Cautious Allocation | 0,74 | 7,47 | 2 | 5 |
 | [ES0157935000](../mixtos/ES0157935000.md) | ACACIA RENTA DINÁMICA FI | Activa | EUR | Flexible Allocation | 0,78 | 4,26 | 3 | 3 |
 | [FR0010459693](../mixtos/FR0010459693.md) | EDR START A ACC EUR | Activa | EUR | Cautious Allocation | 0,82 | 0,00 | 2 | 2 |
-| LU0251131289 | Fidelity Funds - Fidelity Target™ 2020 (Euro) Fund A-Acc-EUR | Activa | EUR | Target Date | 0,84 | 2,32 | 2 | — |
-| LU0172516865 | Fidelity Funds - Fidelity Target™ 2020 (Euro) Fund A-Dist-EUR | Activa | EUR | Target Date | 0,84 | 2,31 | 2 | — |
-| ES0131462204 | Gestion Boutique V Pentainvest Mixta FI | Activa | EUR | Moderate Allocation | 0,85 | — | 2 | — |
+| [LU0251131289](../mixtos/LU0251131289.md) | Fidelity Funds - Fidelity Target™ 2020 (Euro) Fund A-Acc-EUR | Activa | EUR | Target Date | 0,84 | 2,32 | 2 | — |
+| [LU0172516865](../mixtos/LU0172516865.md) | Fidelity Funds - Fidelity Target™ 2020 (Euro) Fund A-Dist-EUR | Activa | EUR | Target Date | 0,84 | 2,31 | 2 | — |
+| [ES0131462204](../mixtos/ES0131462204.md) | Gestion Boutique V Pentainvest Mixta FI | Activa | EUR | Moderate Allocation | 0,85 | — | 2 | — |
 | [ES0123549000](../mixtos/ES0123549000.md) | MARCH CARTERA MODERADA, FI | Activa | EUR | Moderate Allocation | 0,85 | 6,30 | 3 | 2 |
-| ES0140794001 | Gamma Global FI | Activa | EUR | Cautious Allocation | 0,86 | 8,56 | 3 | 5 |
+| [ES0140794001](../mixtos/ES0140794001.md) | Gamma Global FI | Activa | EUR | Cautious Allocation | 0,86 | 8,56 | 3 | 5 |
 | ES0157935042 | ACACIA RENTA DINAMICA FI R ACC | Activa | EUR | Flexible Allocation | 0,88 | 4,08 | 2 | 2 |
 | ES0112612017 | B&H Flexible FI | Activa | EUR | Flexible Allocation | 0,88 | 6,20 | 3 | 3 |
 | [ES0131445027](../mixtos/ES0131445027.md) | Gestión Boutique VIII River Global FI | Activa | EUR | Aggressive Allocation | 0,88 | 17,58 | 4 | 5 |
@@ -595,8 +595,8 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | ES0175437005 | Dunas Valor Prudente R FI | Activa | EUR | Flexible Allocation | 0,91 | — | 2 | — |
 | [ES0107696066](../mixtos/ES0107696066.md) | Alcalá Multigestión Cornamusa FI | Activa | EUR | Flexible Allocation | 0,96 | 21,77 | 4 | 5 |
 | ES0156674006 | Kaizen Global Income FI | Activa | EUR | Flexible Allocation | 0,96 | — | 3 | — |
-| LU1775789594 | Swisscanto (LU) Portfolio Fund Committed Relax (EUR) | Activa | EUR | Cautious Allocation | 0,97 | 3,76 | 2 | 2 |
-| LU1775789677 | Swisscanto (LU) Portfolio Fund Committed Relax (EUR) | Activa | EUR | Cautious Allocation | 0,97 | 3,76 | 2 | 2 |
+| [LU1775789594](../mixtos/LU1775789594.md) | Swisscanto (LU) Portfolio Fund Committed Relax (EUR) | Activa | EUR | Cautious Allocation | 0,97 | 3,76 | 2 | 2 |
+| [LU1775789677](../mixtos/LU1775789677.md) | Swisscanto (LU) Portfolio Fund Committed Relax (EUR) | Activa | EUR | Cautious Allocation | 0,97 | 3,76 | 2 | 2 |
 | ES0174115032 | Cinvest Azero Global FI | Activa | EUR | Flexible Allocation | 0,98 | -0,12 | 4 | 1 |
 | ES0173985005 | River Patrimonio FI | Activa | EUR | Moderate Allocation | 0,99 | 12,18 | 4 | 5 |
 | [ES0182527038](../mixtos/ES0182527038.md) | Cartesio Y, Fi | Activa | EUR | Flexible Allocation | 1,00 | 16,01 | 3 | 5 |
@@ -605,7 +605,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0107696082](../mixtos/ES0107696082.md) | CINVEST MULTIGEST INFAL PATRIM  | Activa | EUR | Flexible Allocation | 1,09 | 10,29 | 3 | 4 |
 | ES0109298002 | Annualcycles Strategies FI | Activa | EUR | Flexible Allocation | 1,10 | 8,97 | 3 | 4 |
 | ES0118628009 | Cima Global Patrimonio I FI | Activa | EUR | Flexible Allocation | 1,10 | — | 3 | — |
-| ES0131462154 | GB V PENTAINVEST MODERADO | Activa | EUR | Flexible Allocation | 1,10 | — | 3 | — |
+| [ES0131462154](../mixtos/ES0131462154.md) | GB V PENTAINVEST MODERADO | Activa | EUR | Flexible Allocation | 1,10 | — | 3 | — |
 | ES0131462196 | Gestion Boutique V Pentainvest Global FI | Activa | EUR | Flexible Allocation | 1,10 | — | 3 | — |
 | [ES0107696074](../mixtos/ES0107696074.md) | MULTIGESTION/ SELECCION ORICAL | Activa | EUR | Flexible Allocation | 1,11 | 26,50 | 5 | 2 |
 | ES0173268006 | RENTA 4 NEXUS, FI | Activa | EUR | Flexible Allocation | 1,11 | 4,50 | 2 | 2 |
@@ -627,7 +627,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | ES0139146015 | Finaccess Estrategia Dividendo Mixto R FI | Activa | EUR | Moderate Allocation | 1,29 | 6,94 | 3 | 2 |
 | DE000A0D95Q0 | Oddo BHF Polaris Moderate DRW EUR | Activa | EUR | Cautious Allocation | 1,29 | 3,78 | 2 | 3 |
 | LU1254136416 | ALLIANZ CAPITAL PLUS AT ACC EUR | Activa | EUR | Cautious Allocation | 1,30 | 2,55 | 3 | 2 |
-| LU0804746799 | DIP - Paradigma Conservative Multi Asset A EUR | Activa | EUR | Cautious Allocation | 1,30 | 2,97 | 2 | 3 |
+| [LU0804746799](../mixtos/LU0804746799.md) | DIP - Paradigma Conservative Multi Asset A EUR | Activa | EUR | Cautious Allocation | 1,30 | 2,97 | 2 | 3 |
 | LU1089088071 | DYNAMIC MASSET STRAT A DI EUR | Activa | EUR | Cautious Allocation | 1,31 | 5,54 | 3 | 4 |
 | LU1548496022 | DYNMC MULTI STRAT 15 AT AC EUR | Activa | EUR | Cautious Allocation | 1,31 | 5,54 | 3 | 4 |
 | ES0173311079 | Andromeda Value Capital FI | Activa | EUR | Flexible Allocation | 1,33 | 2,94 | 6 | 1 |

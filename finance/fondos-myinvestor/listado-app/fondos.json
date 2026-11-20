@@ -3420,7 +3420,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "mixtos/ES0131462154.md"
   },
   {
    "isin": "ES0131462170",
@@ -3520,7 +3520,7 @@
     "r5a",
     "rating"
    ],
-   "ficha": null
+   "ficha": "mixtos/ES0131462204.md"
   },
   {
    "isin": "ES0133627002",
@@ -4159,7 +4159,7 @@
    "srri": 3,
    "rating": 5,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0140794001.md"
   },
   {
    "isin": "ES0140963002",
@@ -20462,7 +20462,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "mixtos/LU0172516865.md"
   },
   {
    "isin": "LU0173614495",
@@ -22180,7 +22180,7 @@
    "pendientes": [
     "rating"
    ],
-   "ficha": null
+   "ficha": "mixtos/LU0251131289.md"
   },
   {
    "isin": "LU0251131362",
@@ -28680,7 +28680,7 @@
    "srri": 2,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/LU0804746799.md"
   },
   {
    "isin": "LU0808562614",
@@ -34552,7 +34552,7 @@
    "srri": 2,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/LU1775789594.md"
   },
   {
    "isin": "LU1775789677",
@@ -34571,7 +34571,7 @@
    "srri": 2,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/LU1775789677.md"
   },
   {
    "isin": "LU1775980201",
