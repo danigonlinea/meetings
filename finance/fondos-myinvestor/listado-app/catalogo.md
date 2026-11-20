@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1704
+**Fondos: 1980** · con ficha previa: 1709
 
 | Clase | Fondos |
 | --- | --- |
@@ -1656,7 +1656,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0169248142](../rv-emergentes/LU0169248142.md) | GIS CENTRAL EASTERN EUROPEAN EQ EX EUR | Activa | EUR | Europe Emerging Markets Equity | 2,50 | 26,76 | 4 | 3 |
 | [LU0072913022](../rv-emergentes/LU0072913022.md) | UBS (Lux) EF Greater China (USD) P | Activa | USD | Greater China Equity | 2,50 | 3,49 | 5 | 2 |
 | [LU0763739140](../rv-emergentes/LU0763739140.md) | UBS LUX EQTY GREATER CHINA P ACC EURH | Activa | EUR | Greater China Equity | 2,50 | 1,68 | 5 | — |
-| LU0217576833 | JPMorgan Funds - Emerging Markets Equity Fund D (acc) - EUR | Activa | EUR | Global Emerging Markets Equity | 2,51 | 14,18 | 4 | 3 |
+| [LU0217576833](../rv-emergentes/LU0217576833.md) | JPMorgan Funds - Emerging Markets Equity Fund D (acc) - EUR | Activa | EUR | Global Emerging Markets Equity | 2,51 | 14,18 | 4 | 3 |
 | FR0011147446 | Carmignac Emergents E EUR Acc | Activa | EUR | Global Emerging Markets Equity | 2,55 | 11,88 | 4 | 2 |
 | [LU0117895366](../rv-emergentes/LU0117895366.md) | JPMorgan Funds - Emerging Markets Equity Fund D (acc) USD | Activa | USD | Global Emerging Markets Equity | 2,55 | 14,24 | 4 | 3 |
 | [LU0846585023](../rv-emergentes/LU0846585023.md) | JPMorgan Funds - Emerging Markets Opportunities Fund D (acc) EUR | Activa | EUR | Global Emerging Markets Equity | 2,55 | 15,77 | 4 | 3 |
@@ -1673,13 +1673,13 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0115765595](../rv-emergentes/LU0115765595.md) | Fidelity Greater China E-Acc-EUR | Activa | EUR | Greater China Equity | 2,70 | 9,67 | 5 | 3 |
 | [LU0522352607](../rv-emergentes/LU0522352607.md) | JPMorgan Funds - China Fund D (acc) - EUR | Activa | EUR | Greater China Equity | 2,73 | 2,22 | 5 | 2 |
 | [LU0117867159](../rv-emergentes/LU0117867159.md) | JPMorgan Funds - China Fund D (acc) USD | Activa | USD | Greater China Equity | 2,75 | 2,28 | 5 | 2 |
-| LU0522352946 | JPMorgan Funds - Greater China Fund D (acc) - EUR | Activa | EUR | Greater China Equity | 2,76 | 9,69 | 5 | 3 |
+| [LU0522352946](../rv-emergentes/LU0522352946.md) | JPMorgan Funds - Greater China Fund D (acc) - EUR | Activa | EUR | Greater China Equity | 2,76 | 9,69 | 5 | 3 |
 | [LU0117841949](../rv-emergentes/LU0117841949.md) | JPMorgan Funds - Greater China Fund D (acc) - USD | Activa | USD | Greater China Equity | 2,78 | 9,75 | 5 | 3 |
 | [LU2659281880](../rv-emergentes/LU2659281880.md) | JPMorgan Funds - Middle East, Africa & Emerging Europe Opportunities Fund D (acc) EUR (H)  | Activa | EUR | Africa Equity | 2,79 | — | 4 | — |
 | [LU2539337043](../rv-emergentes/LU2539337043.md) | JPMorgan Funds - Middle East, Africa & Emerging Europe Opportunities Fund D (acc) EUR | Activa | EUR | Africa Equity | 2,80 | 14,02 | 4 | 5 |
 | [LU0117843721](../rv-emergentes/LU0117843721.md) | JPMorgan Funds - Taiwan Fund D (acc) USD | Activa | USD | Greater China Equity | 2,80 | 29,86 | 5 | 2 |
 | [LU0522352862](../rv-emergentes/LU0522352862.md) | JPMorgan Funds - Latin America Equity Fund D (acc) EUR | Activa | EUR | Latin America Equity | 2,81 | 4,34 | 5 | 3 |
-| LU0117896174 | JPMorgan Funds - Latin America Equity Fund D (acc) USD | Activa | USD | Latin America Equity | 2,81 | 4,43 | 5 | 3 |
+| [LU0117896174](../rv-emergentes/LU0117896174.md) | JPMorgan Funds - Latin America Equity Fund D (acc) USD | Activa | USD | Latin America Equity | 2,81 | 4,43 | 5 | 3 |
 | [LU0995383683](../rv-emergentes/LU0995383683.md) | LATAM AMERICAN EQUITY R EUR | Activa | EUR | Latin America Equity | 2,82 | 6,80 | 5 | 2 |
 | LU0995386355 | LATAM AMERICAN EQUITY R USD | Activa | USD | Latin America Equity | 2,82 | 6,80 | 5 | 2 |
 | [LU0577510026](../rv-emergentes/LU0577510026.md) | UBS Equities Greater China Nacc Usd | Activa | EUR | Greater China Equity | 2,90 | 2,93 | 5 | 2 |
@@ -1711,13 +1711,13 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00B0WFLG51](../rv-otros/IE00B0WFLG51.md) | VERITAS ASIAN FUND B ACC EUR | Activa | EUR | Asia ex-Japan Equity | 1,59 | 16,00 | 4 | 2 |
 | [IE00BLCHG522](../rv-otros/IE00BLCHG522.md) | VERITAS ASIAN FUND B ACC USD  | Activa | USD | Asia ex-Japan Equity | 1,59 | 16,07 | 4 | 1 |
 | [ES0168797092](../rv-otros/ES0168797092.md) | Gestión Boutique II JPB Growth FI | Activa | EUR | Equity Miscellaneous | 1,66 | 18,47 | 5 | — |
-| IE0004868604 | BARING ASIA GROWTH A DIS EUR | Activa | EUR | Asia ex-Japan Equity | 1,71 | 17,43 | 4 | 3 |
+| [IE0004868604](../rv-otros/IE0004868604.md) | BARING ASIA GROWTH A DIS EUR | Activa | EUR | Asia ex-Japan Equity | 1,71 | 17,43 | 4 | 3 |
 | IE000QYL1XE8 | MAN GLG ASIA EXJAP EQT EUR ACC | Activa | EUR | Asia ex-Japan Equity | 1,71 | — | 4 | — |
 | LU0217390573 | JPMorgan Funds - Pacific Equity Fund A (acc) - EUR | Activa | EUR | Asia Equity | 1,73 | 13,60 | 4 | 3 |
 | LU0593848723 | Mirae Asset Asia Great Consumer EQ A EUR | Activa | EUR | Asia ex-Japan Equity | 1,75 | 1,87 | 5 | 1 |
 | LU0169518387 | JPMorgan Funds - Asia Growth Fund A (acc) - USD | Activa | USD | Asia ex-Japan Equity | 1,79 | 14,81 | 5 | 3 |
 | LU0173782102 | NORDEA ASIAN FOCUS EQ BP EUR | Activa | EUR | Asia ex-Japan Equity | 1,84 | 18,16 | 4 | 4 |
-| LU0248184466 | Schroder ISF Asian Opportunities A Accumulation EUR | Activa | EUR | Asia ex-Japan Equity | 1,84 | 16,19 | 4 | 3 |
+| [LU0248184466](../rv-otros/LU0248184466.md) | Schroder ISF Asian Opportunities A Accumulation EUR | Activa | EUR | Asia ex-Japan Equity | 1,84 | 16,19 | 4 | 3 |
 | LU0348784041 | ALLIANZ ORIENTAL INCOME AT ACC EUR | Activa | EUR | Asia Equity | 1,86 | 12,91 | 5 | 4 |
 | LU1378878430 | Morgan Stanley Asia Opportunity A ACC USD | Activa | USD | Asia ex-Japan Equity | 1,88 | 7,35 | 5 | 2 |
 | LU2295319219 | Morgan Stanley Investment Funds - Asia Opportunity Fund A (EUR) | Activa | EUR | Asia ex-Japan Equity | 1,88 | 7,26 | 5 | 1 |
