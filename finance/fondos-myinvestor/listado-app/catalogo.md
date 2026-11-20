@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1762
+**Fondos: 1980** · con ficha previa: 1763
 
 | Clase | Fondos |
 | --- | --- |
@@ -1831,7 +1831,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU1536921650 | AXA World Funds - Framlington Robotech A Capitalisation EUR | Activa | EUR | Technology Sector Equity | 1,75 | 10,48 | 5 | 2 |
 | LU1819480192 | Echiquier Artificial Intelligence B EUR Artificial Intelligence B EUR | Activa | EUR | Technology Sector Equity | 1,75 | 21,81 | 6 | 2 |
 | LU0210532015 | JPMorgan Funds - Europe Dynamic Technologies Fund A (acc) - EUR | Activa | EUR | Technology Sector Equity | 1,75 | 8,17 | 5 | 2 |
-| FR0007457890 | R-co Thematic Real Estate C | Activa | EUR | Real Estate Sector Equity | 1,75 | 1,33 | 5 | 3 |
+| [FR0007457890](../sectoriales/FR0007457890.md) | R-co Thematic Real Estate C | Activa | EUR | Real Estate Sector Equity | 1,75 | 1,33 | 5 | 3 |
 | LU0216734805 | AXA World Funds - Framlington Europe Real Estate Securities A Distribution EUR | Activa | EUR | Real Estate Sector Equity | 1,76 | 1,75 | 5 | 3 |
 | LU0208853274 | JPMorgan Funds - Global Natural Resources Fund A (acc) - EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 17,45 | 5 | 5 |
 | LU1022033648 | KONWAVE TRANSITION METAL-B-EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 24,34 | 5 | 2 |
