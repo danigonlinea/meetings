@@ -2390,7 +2390,7 @@
    "srri": 3,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "mixtos/ES0123549000.md"
   },
   {
    "isin": "ES0124101009",
@@ -16601,7 +16601,7 @@
    "srri": 2,
    "rating": 2,
    "pendientes": [],
-   "ficha": null
+   "ficha": "renta-fija/LU0028445590.md"
   },
   {
    "isin": "LU0029761532",
@@ -26622,7 +26622,7 @@
    "srri": 2,
    "rating": 1,
    "pendientes": [],
-   "ficha": null
+   "ficha": "renta-fija/LU0548664886.md"
   },
   {
    "isin": "LU0549536745",
@@ -27284,7 +27284,7 @@
    "srri": 3,
    "rating": 3,
    "pendientes": [],
-   "ficha": null
+   "ficha": "renta-fija/LU0599213989.md"
   },
   {
    "isin": "LU0599946893",
