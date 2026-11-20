@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1764
+**Fondos: 1980** · con ficha previa: 1784
 
 | Clase | Fondos |
 | --- | --- |
@@ -1729,10 +1729,10 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0529499989](../rv-otros/LU0529499989.md) | GAM Multistock - Asia Focus Equity USD B | Activa | USD | Asia ex-Japan Equity | 2,01 | 16,42 | 5 | 3 |
 | [IE00B12V2V27](../rv-otros/IE00B12V2V27.md) | Pinebridge Asia EX Japan Small Cap EQ A AC USD | Activa | USD | Asia ex-Japan Equity | 2,08 | 9,12 | 4 | 3 |
 | [LU0390135415](../rv-otros/LU0390135415.md) | TEMPLETON ASIAN SMCO A ACC EUR | Activa | EUR | Asia ex-Japan Equity | 2,15 | 7,11 | 4 | 3 |
-| BE6324061496 | DPAM EQ DRAGN SUST B ACC EUR | Activa | EUR | Asia Equity | 2,29 | 12,74 | 4 | 1 |
-| LU0256780874 | Candriam Equities L Australia N EUR Cap | Activa | EUR | Australia & New Zealand Equity | 2,34 | 8,51 | 4 | 2 |
-| LU0248173006 | Schroder ISF Emerging Asia B Accumulation EUR | Activa | EUR | Asia ex-Japan Equity | 2,44 | 15,13 | 4 | 4 |
-| LU0117866854 | JPMorgan Funds - Pacific Equity Fund D (acc) - USD | Activa | USD | Asia Equity | 2,50 | 12,83 | 4 | 3 |
+| [BE6324061496](../rv-otros/BE6324061496.md) | DPAM EQ DRAGN SUST B ACC EUR | Activa | EUR | Asia Equity | 2,29 | 12,74 | 4 | 1 |
+| [LU0256780874](../rv-otros/LU0256780874.md) | Candriam Equities L Australia N EUR Cap | Activa | EUR | Australia & New Zealand Equity | 2,34 | 8,51 | 4 | 2 |
+| [LU0248173006](../rv-otros/LU0248173006.md) | Schroder ISF Emerging Asia B Accumulation EUR | Activa | EUR | Asia ex-Japan Equity | 2,44 | 15,13 | 4 | 4 |
+| [LU0117866854](../rv-otros/LU0117866854.md) | JPMorgan Funds - Pacific Equity Fund D (acc) - USD | Activa | USD | Asia Equity | 2,50 | 12,83 | 4 | 3 |
 | [LU0441853263](../rv-otros/LU0441853263.md) | JPMorgan Funds - ASEAN Equity Fund D (acc) EUR | Activa | EUR | Asia ex-Japan Equity | 2,55 | 6,64 | 4 | 3 |
 | [LU0441851994](../rv-otros/LU0441851994.md) | JPMorgan Funds - ASEAN Equity Fund D (acc) USD | Activa | USD | Asia ex-Japan Equity | 2,55 | 6,73 | 4 | 3 |
 | [LU0217390656](../rv-otros/LU0217390656.md) | JPMorgan Funds - Pacific Equity Fund D (acc) EUR | Activa | EUR | Asia Equity | 2,55 | 12,69 | 4 | 3 |
@@ -1770,15 +1770,15 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00B3CCJB88](../sectoriales/IE00B3CCJB88.md) | Guinness Global Energy D EUR Accumulation | Activa | EUR | Energy Sector Equity | 1,27 | 16,26 | 5 | 2 |
 | IE00B52VLZ70 | Polar Capital Global Insurance Fund R Acc (EUR) | Activa | EUR | Financials Sector Equity | 1,31 | 15,66 | 4 | 4 |
 | IE00B547TM68 | Polar Capital Global Insurance Fund R Inc (EUR) | Activa | EUR | Financials Sector Equity | 1,31 | 14,87 | 4 | 4 |
-| IE00B4X9QT28 | Polar Capital Global Insurance Fund R Inc (USD) | Activa | USD | Financials Sector Equity | 1,31 | 14,87 | 4 | 4 |
+| [IE00B4X9QT28](../sectoriales/IE00B4X9QT28.md) | Polar Capital Global Insurance Fund R Inc (USD) | Activa | USD | Financials Sector Equity | 1,31 | 14,87 | 4 | 4 |
 | [IE000DDQNQO2](../sectoriales/IE000DDQNQO2.md) | Ashoka WhiteOak Emerging Markets Equity Fund Class C USD Accumulation | Activa | USD | Global Emerging Markets Equity | 1,34 | 20,50 | 4 | 5 |
 | [ES0110407113](../sectoriales/ES0110407113.md) | Gestión Boutique VI Fundamental Approach FI | Activa | EUR | Global Equity Large Cap | 1,35 | 22,85 | 5 | 5 |
-| LU0367024519 | INVESCO ENERGY FUND AH ACC EUR | Activa | EUR | Energy Sector Equity | 1,35 | 6,67 | 4 | — |
+| [LU0367024519](../sectoriales/LU0367024519.md) | INVESCO ENERGY FUND AH ACC EUR | Activa | EUR | Energy Sector Equity | 1,35 | 6,67 | 4 | — |
 | [IE00BWGC5V93](../sectoriales/IE00BWGC5V93.md) | New Capital Global Equity Conviction Fund EUR Ord Acc | Activa | EUR | Global Equity Large Cap | 1,40 | 9,44 | 4 | — |
 | [DE0008474024](../sectoriales/DE0008474024.md) | DWS AKKUMULA ACC EUR | Activa | EUR | Global Equity Large Cap | 1,45 | 17,63 | 4 | 4 |
 | [ES0162332037](../sectoriales/ES0162332037.md) | Merchfondo FI | Activa | EUR | Global Equity Large Cap | 1,45 | 17,33 | 5 | 2 |
 | [DE000DWS29E6](../sectoriales/DE000DWS29E6.md) | DWS Smart Industrial Technologies LC | Activa | EUR | Industrials Sector Equity | 1,46 | 16,54 | 4 | 3 |
-| DE0005152482 | DWS Smart Industrial Technologies LD | Activa | EUR | Industrials Sector Equity | 1,46 | 16,53 | 4 | 3 |
+| [DE0005152482](../sectoriales/DE0005152482.md) | DWS Smart Industrial Technologies LD | Activa | EUR | Industrials Sector Equity | 1,46 | 16,53 | 4 | 3 |
 | [ES0168799056](../sectoriales/ES0168799056.md) | GESTION BOUTIQUE IV ALCLAM US  | Activa | EUR | US Equity Large Cap Blend | 1,51 | 33,07 | 5 | 5 |
 | [ES0131369003](../sectoriales/ES0131369003.md) |  MUTUAFONDO SALUD, FI-A | Activa | EUR | Healthcare Sector Equity | 1,53 | — | 4 | — |
 | [LU0512092221](../sectoriales/LU0512092221.md) | Morgan Stanley Investment Funds - Global Infrastructure Fund AH (EUR) | Activa | EUR | Infrastructure Sector Equity | 1,53 | 9,89 | 4 | — |
@@ -1787,9 +1787,9 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [DE0009769851](../sectoriales/DE0009769851.md) | DWS Health Care Typ O NC | Activa | EUR | Healthcare Sector Equity | 1,57 | 3,77 | 4 | 2 |
 | [IE0033535075](../sectoriales/IE0033535075.md) | COMGEST GROWTH WORLD ACC USD | Activa | USD | Global Equity Large Cap | 1,58 | 6,66 | 4 | 3 |
 | [IE00BZ4D7648](../sectoriales/IE00BZ4D7648.md) | POLAR CAPITAL GLOBAL TECHNOLOGY R EUR | Activa | EUR | Technology Sector Equity | 1,58 | 34,11 | 5 | — |
-| IE00B433M743 | POLAR CAPITAL GLOBAL TECHNOLOGY R USD | Activa | USD | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
-| IE00BM95B621 | Polar Capital Global Technology Fund R | Activa | EUR | Technology Sector Equity | 1,58 | 36,43 | 5 | 4 |
-| IE00B4468526 | Polar GLOBAL TECHNOLOGY R EUR | Activa | EUR | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
+| [IE00B433M743](../sectoriales/IE00B433M743.md) | POLAR CAPITAL GLOBAL TECHNOLOGY R USD | Activa | USD | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
+| [IE00BM95B621](../sectoriales/IE00BM95B621.md) | Polar Capital Global Technology Fund R | Activa | EUR | Technology Sector Equity | 1,58 | 36,43 | 5 | 4 |
+| [IE00B4468526](../sectoriales/IE00B4468526.md) | Polar GLOBAL TECHNOLOGY R EUR | Activa | EUR | Technology Sector Equity | 1,58 | 36,45 | 5 | 4 |
 | [LU0507268513](../sectoriales/LU0507268513.md) | DWS Invest Global Real Estate Securities LD | Activa | EUR | Real Estate Sector Equity | 1,59 | 7,90 | 4 | 3 |
 | [IE00BYSJTY39](../sectoriales/IE00BYSJTY39.md) | First Sentier Global Listed Infrastructure Fund Class I (Accumulation) EUR | Activa | EUR | Infrastructure Sector Equity | 1,59 | 12,99 | 4 | 3 |
 | [LU1863263346](../sectoriales/LU1863263346.md) | DWS Invest Artificial Intelligence LC | Activa | EUR | Technology Sector Equity | 1,60 | 18,02 | 5 | 3 |
@@ -1804,15 +1804,15 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0271483876](../sectoriales/LU0271483876.md) | Schroder ISF US Large Capitalisation A Accumulation EUR Hedged | Activa | EUR | US Equity Large Cap Blend | 1,61 | 14,17 | 4 | — |
 | [LU0329630130](../sectoriales/LU0329630130.md) | Variopartner SICAV - MIV Global Medtech Fund P2 EUR | Activa | EUR | Healthcare Sector Equity | 1,61 | 3,61 | 4 | 2 |
 | [IE0033535182](../sectoriales/IE0033535182.md) | COMGEST GROWTH EM MKT ACC USD | Activa | USD | Global Emerging Markets Equity | 1,62 | 7,56 | 4 | 1 |
-| ES0110407055 | Gestión Boutique VI Impassive Growth R FI | Activa | EUR | Technology Sector Equity | 1,63 | — | 5 | — |
-| ES0141222036 | MUTUAFONDO TECNOLÓGICO A FI | Activa | EUR | Technology Sector Equity | 1,63 | 21,67 | 5 | 3 |
+| [ES0110407055](../sectoriales/ES0110407055.md) | Gestión Boutique VI Impassive Growth R FI | Activa | EUR | Technology Sector Equity | 1,63 | — | 5 | — |
+| [ES0141222036](../sectoriales/ES0141222036.md) | MUTUAFONDO TECNOLÓGICO A FI | Activa | EUR | Technology Sector Equity | 1,63 | 21,67 | 5 | 3 |
 | [FR0000172041](../sectoriales/FR0000172041.md) | AXA Aedificandi AC | Activa | EUR | Real Estate Sector Equity | 1,66 | 2,61 | 5 | 4 |
 | [IE00B2NN6563](../sectoriales/IE00B2NN6563.md) | BROWN US EQ GROW A ACC EUR H | Activa | EUR | US Equity Large Cap Growth | 1,66 | 8,12 | 5 | — |
 | [IE00BGK1Q390](../sectoriales/IE00BGK1Q390.md) | COMGEST GROWTH ASIA ACC EUR | Activa | EUR | Asia Equity | 1,66 | — | 4 | — |
-| LU0159052710 | JPMorgan Funds - US Technology Fund A (acc) - EUR | Activa | EUR | Technology Sector Equity | 1,68 | 15,71 | 5 | 3 |
-| IE000JMRXFF8 | WELL ENDURING ASSETS D ACC EUR | Activa | EUR | Infrastructure Sector Equity | 1,68 | 17,14 | 3 | 4 |
+| [LU0159052710](../sectoriales/LU0159052710.md) | JPMorgan Funds - US Technology Fund A (acc) - EUR | Activa | EUR | Technology Sector Equity | 1,68 | 15,71 | 5 | 3 |
+| [IE000JMRXFF8](../sectoriales/IE000JMRXFF8.md) | WELL ENDURING ASSETS D ACC EUR | Activa | EUR | Infrastructure Sector Equity | 1,68 | 17,14 | 3 | 4 |
 | [LU0273158872](../sectoriales/LU0273158872.md) | DWS Invest Global Agribusiness LC | Activa | EUR | Equity Miscellaneous | 1,69 | 1,49 | 4 | 3 |
-| LU0432979374 | JPMorgan Funds - Global Healthcare Fund A (dist) - USD | Activa | USD | Healthcare Sector Equity | 1,69 | 10,20 | 4 | 4 |
+| [LU0432979374](../sectoriales/LU0432979374.md) | JPMorgan Funds - Global Healthcare Fund A (dist) - USD | Activa | USD | Healthcare Sector Equity | 1,69 | 10,20 | 4 | 4 |
 | [IE00B3M4GP73](../sectoriales/IE00B3M4GP73.md) | New Capital US Growth Fund EUR Ord Acc | Activa | EUR | US Equity Large Cap Growth | 1,70 | 17,47 | 5 | — |
 | [IE00BYX8VR20](../sectoriales/IE00BYX8VR20.md) | New Capital US Small Cap Growth Fund EUR O Acc | Activa | EUR | US Equity Small Cap | 1,70 | 12,22 | 5 | — |
 | [LU2145463613](../sectoriales/LU2145463613.md) | Robeco Smart Materials D EUR | Activa | EUR | Equity Miscellaneous | 1,71 | 10,69 | 5 | — |
@@ -1828,12 +1828,12 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU2145465402](../sectoriales/LU2145465402.md) | RobecoSAM Smart Mobility Equities D EUR | Activa | EUR | Technology Sector Equity | 1,74 | 10,28 | 5 | 2 |
 | [ES0175812009](../sectoriales/ES0175812009.md) | TRANSI ENERGETICA FI A ACC EUR | Activa | EUR | Energy Sector Equity | 1,74 | 10,98 | 4 | 3 |
 | [IE00B00LSD17](../sectoriales/IE00B00LSD17.md) | Wellington Global Health Care Equity Fund USD D Acc | Activa | USD | Healthcare Sector Equity | 1,74 | 10,97 | 4 | 3 |
-| LU1536921650 | AXA World Funds - Framlington Robotech A Capitalisation EUR | Activa | EUR | Technology Sector Equity | 1,75 | 10,48 | 5 | 2 |
-| LU1819480192 | Echiquier Artificial Intelligence B EUR Artificial Intelligence B EUR | Activa | EUR | Technology Sector Equity | 1,75 | 21,81 | 6 | 2 |
-| LU0210532015 | JPMorgan Funds - Europe Dynamic Technologies Fund A (acc) - EUR | Activa | EUR | Technology Sector Equity | 1,75 | 8,17 | 5 | 2 |
+| [LU1536921650](../sectoriales/LU1536921650.md) | AXA World Funds - Framlington Robotech A Capitalisation EUR | Activa | EUR | Technology Sector Equity | 1,75 | 10,48 | 5 | 2 |
+| [LU1819480192](../sectoriales/LU1819480192.md) | Echiquier Artificial Intelligence B EUR Artificial Intelligence B EUR | Activa | EUR | Technology Sector Equity | 1,75 | 21,81 | 6 | 2 |
+| [LU0210532015](../sectoriales/LU0210532015.md) | JPMorgan Funds - Europe Dynamic Technologies Fund A (acc) - EUR | Activa | EUR | Technology Sector Equity | 1,75 | 8,17 | 5 | 2 |
 | [FR0007457890](../sectoriales/FR0007457890.md) | R-co Thematic Real Estate C | Activa | EUR | Real Estate Sector Equity | 1,75 | 1,33 | 5 | 3 |
-| LU0216734805 | AXA World Funds - Framlington Europe Real Estate Securities A Distribution EUR | Activa | EUR | Real Estate Sector Equity | 1,76 | 1,75 | 5 | 3 |
-| LU0208853274 | JPMorgan Funds - Global Natural Resources Fund A (acc) - EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 17,45 | 5 | 5 |
+| [LU0216734805](../sectoriales/LU0216734805.md) | AXA World Funds - Framlington Europe Real Estate Securities A Distribution EUR | Activa | EUR | Real Estate Sector Equity | 1,76 | 1,75 | 5 | 3 |
+| [LU0208853274](../sectoriales/LU0208853274.md) | JPMorgan Funds - Global Natural Resources Fund A (acc) - EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 17,45 | 5 | 5 |
 | LU1022033648 | KONWAVE TRANSITION METAL-B-EUR | Activa | EUR | Natural Resources Sector Equity | 1,76 | 24,34 | 5 | 2 |
 | [LU2306921490](../sectoriales/LU2306921490.md) | DWS Concept ESG Blue Economy LC EUR Accumulation | Activa | EUR | Equity Miscellaneous | 1,77 | 9,15 | 4 | 2 |
 | LU2560836129 | JPMorgan Funds - US Technology Fund A (acc) - EUR (hedged) | Activa | EUR | Technology Sector Equity | 1,77 | 13,74 | 5 | — |
