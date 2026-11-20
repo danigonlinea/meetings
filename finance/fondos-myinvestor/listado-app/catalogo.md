@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1393
+**Fondos: 1980** · con ficha previa: 1398
 
 | Clase | Fondos |
 | --- | --- |
@@ -1256,7 +1256,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0520233601](../rv-usa/LU0520233601.md) | AB SICAV I –Sustainable US Thematic Portfolio Class A EURH Acc | Activa | EUR | US Equity Large Cap Growth | 1,75 | 5,74 | 4 | — |
 | [LU0232464734](../rv-usa/LU0232464734.md) | AB Sustainable US Tmtc A EUR | Activa | EUR | US Equity Large Cap Growth | 1,75 | 7,62 | 4 | 2 |
 | [LU0687943661](../rv-usa/LU0687943661.md) | GAMCO International SICAV Merger Arbtrage A (EUR) | Activa | EUR | Market Neutral | 1,76 | 4,70 | 2 | — |
-| LU0401357743 | JPMorgan Funds - US Small Cap Growth Fund A (acc) - EUR | Activa | EUR | US Equity Small Cap | 1,77 | 11,85 | 5 | 2 |
+| [LU0401357743](../rv-usa/LU0401357743.md) | JPMorgan Funds - US Small Cap Growth Fund A (acc) - EUR | Activa | EUR | US Equity Small Cap | 1,77 | 11,85 | 5 | 2 |
 | LU1011999080 | AB CONCENTRATED US EQ A AC EUR | Activa | EUR | US Equity Large Cap Growth | 1,79 | 3,71 | 4 | — |
 | IE00B3KRGG97 | GAM Star Fund plc - GAM Star Private Equity LiquidRep Class USD Accumulation | Activa | USD | US Equity Large Cap Blend | 1,79 | 15,54 | 4 | 2 |
 | [LU1435385163](../rv-usa/LU1435385163.md) | Loomis Sayles US Growth Equity R/A EUR | Activa | EUR | US Equity Large Cap Growth | 1,80 | 14,30 | 5 | 4 |
@@ -1272,7 +1272,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0511384579](../rv-usa/LU0511384579.md) | AB US SMALL MID CAP A ACC EUR | Activa | EUR | US Equity Small Cap | 1,99 | 10,04 | 5 | — |
 | [LU0035765741](../rv-usa/LU0035765741.md) | US EQUITY B ACC USD | Activa | USD | US Equity Large Cap Blend | 1,99 | 4,42 | 4 | 1 |
 | LU0147943442 | Natixis International Funds (Lux) I - Harris Associates U.S. Value Equity Fund R/A (EUR) | Activa | EUR | US Equity Large Cap Value | 2,00 | 13,57 | 4 | 3 |
-| IE00BGK04N24 | POL CAP FOCUS US GROW A AC USD | Activa | USD | US Equity Large Cap Growth | 2,00 | 1,77 | 5 | 1 |
+| [IE00BGK04N24](../rv-usa/IE00BGK04N24.md) | POL CAP FOCUS US GROW A AC USD | Activa | USD | US Equity Large Cap Growth | 2,00 | 1,77 | 5 | 1 |
 | [FR0007393038](../rv-usa/FR0007393038.md) | Palatine Amérique R Euro | Activa | EUR | US Equity Large Cap Blend | 2,00 | 15,12 | 4 | 2 |
 | LU0218912151 | US EQUITY H ACC EURH | Activa | EUR | US Equity Large Cap Blend | 2,02 | 2,66 | 4 | — |
 | [IE00BD5M6926](../rv-usa/IE00BD5M6926.md) | BNYM US EQUITY INCOME A AC EUR | Activa | EUR | US Equity Large Cap Value | 2,09 | 16,11 | 4 | 4 |
@@ -1280,12 +1280,12 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0115097544](../rv-usa/LU0115097544.md) | JPMorgan Investment Funds - US Select Equity Fund D (acc) USD | Activa | USD | US Equity Large Cap Blend | 2,18 | 13,09 | 4 | 2 |
 | [LU0355496760](../rv-usa/LU0355496760.md) | Robeco BP US Premium Equities M $ | Activa | USD | US Equity Large Cap Value | 2,21 | 14,61 | 4 | 3 |
 | [LU0355496257](../rv-usa/LU0355496257.md) | Robeco BP US Premium Equities MH € | Activa | EUR | US Equity Large Cap Value | 2,21 | 12,87 | 4 | — |
-| LU1339879832 | ALGER SMALL CAP FOCUS A ACC EUR | Activa | EUR | US Equity Small Cap | 2,33 | 9,27 | 5 | — |
+| [LU1339879832](../rv-usa/LU1339879832.md) | ALGER SMALL CAP FOCUS A ACC EUR | Activa | EUR | US Equity Small Cap | 2,33 | 9,27 | 5 | — |
 | [LU1339879758](../rv-usa/LU1339879758.md) | Alger Small Cap Focs Aus Acc U | Activa | USD | US Equity Small Cap | 2,33 | 11,13 | 5 | 1 |
-| LU0607514394 | INVESCO US VALUE EQ E ACC EUR | Activa | EUR | US Equity Large Cap Value | 2,40 | 14,54 | 4 | 3 |
+| [LU0607514394](../rv-usa/LU0607514394.md) | INVESCO US VALUE EQ E ACC EUR | Activa | EUR | US Equity Large Cap Value | 2,40 | 14,54 | 4 | 3 |
 | [LU0117861202](../rv-usa/LU0117861202.md) | JPMorgan Funds - America Equity Fund D (acc) USD | Activa | USD | US Equity Large Cap Blend | 2,45 | 13,95 | 4 | 3 |
 | [LU0119065240](../rv-usa/LU0119065240.md) | JPMorgan Funds - US Growth Fund D (acc) - USD | Activa | USD | US Equity Large Cap Growth | 2,45 | 12,64 | 5 | 4 |
-| LU0119066727 | JPMorgan Funds - US Value Fund D (acc) - USD | Activa | USD | US Equity Large Cap Value | 2,45 | 14,38 | 4 | 3 |
+| [LU0119066727](../rv-usa/LU0119066727.md) | JPMorgan Funds - US Value Fund D (acc) - USD | Activa | USD | US Equity Large Cap Value | 2,45 | 14,38 | 4 | 3 |
 | LU0244270723 | JPM US JPMorgan Funds - US Value Fund D (acc) - EUR (hedged)  D ACC EURH | Activa | EUR | US Equity Large Cap Value | 2,47 | 12,49 | 4 | — |
 | LU0217390490 | JPMorgan Funds - America Equity Fund D (acc) EUR | Activa | EUR | US Equity Large Cap Blend | 2,47 | 13,81 | 4 | 3 |
 | LU0281485184 | JPMorgan Funds - US Select Equity Plus Fund D (acc) - EUR (hedged)  | Activa | EUR | US Equity Large Cap Blend | 2,47 | 12,38 | 4 | — |
