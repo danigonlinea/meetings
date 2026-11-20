@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1660
+**Fondos: 1980** · con ficha previa: 1663
 
 | Clase | Fondos |
 | --- | --- |
@@ -1614,7 +1614,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0197230542](../rv-emergentes/LU0197230542.md) | Fidelity Funds - India Focus Fund A-EUR | Activa | EUR | India Equity | 1,90 | 4,18 | 4 | 4 |
 | [LU0491217419](../rv-emergentes/LU0491217419.md) | Robeco Indian Equities D € | Activa | EUR | India Equity | 1,91 | 3,44 | 4 | 4 |
 | [LU1146622755](../rv-emergentes/LU1146622755.md) | CHINA A SHARE EQ A2 AC USD | Activa | USD | Greater China Equity | 1,92 | 3,50 | 5 | 3 |
-| LU0721876364 | Matthews Asia Funds - China Discovery Fund A USD Acc | Activa | USD | Greater China Equity | 1,92 | 8,91 | 5 | 2 |
+| [LU0721876364](../rv-emergentes/LU0721876364.md) | Matthews Asia Funds - China Discovery Fund A USD Acc | Activa | USD | Greater China Equity | 1,92 | 8,91 | 5 | 2 |
 | [LU0562313402](../rv-emergentes/LU0562313402.md) | Schroder ISF Frontier Markets Equity A Accumulation USD | Activa | USD | Global Emerging Markets Equity | 1,92 | 20,20 | 3 | 5 |
 | [LU0231490524](../rv-emergentes/LU0231490524.md) | Aberdeen Standard SICAV I - Indian Equity Fund A Acc USD | Activa | USD | India Equity | 1,93 | 4,01 | 4 | 2 |
 | [LU1434523954](../rv-emergentes/LU1434523954.md) | Candriam Sustainable Equity Emerging Markets C EUR Acc | Activa | EUR | Global Emerging Markets Equity | 1,94 | 15,00 | 4 | 2 |
@@ -1638,9 +1638,9 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU1883867761](../rv-emergentes/LU1883867761.md) | Amundi Funds - Russian Equity A EUR (C) | Indexada | EUR | Europe Emerging Markets Equity | 2,18 | -4,03 | 6 | — |
 | [LU0332315638](../rv-emergentes/LU0332315638.md) | EASTERN EUROPEAN FUND A AC EUR | Activa | EUR | Europe Emerging Markets Equity | 2,20 | — | 6 | — |
 | [IE00B68FF474](../rv-emergentes/IE00B68FF474.md) | MAGNA NEW FRONTIERS R EUR ACC | Activa | EUR | Global Emerging Markets Equity | 2,20 | 12,85 | 4 | 2 |
-| LU0823425839 | BNP Paribas China Eq Cl EUR C | Activa | EUR | Greater China Equity | 2,21 | 5,64 | 5 | 4 |
+| [LU0823425839](../rv-emergentes/LU0823425839.md) | BNP Paribas China Eq Cl EUR C | Activa | EUR | Greater China Equity | 2,21 | 5,64 | 5 | 4 |
 | [LU0265293521](../rv-emergentes/LU0265293521.md) | BNP Paribas Funds Turkey Equity | Activa | EUR | Equity Miscellaneous | 2,21 | 2,24 | 6 | — |
-| LU0815264352 | Morgan Stanley Investment Funds - Emerging Leaders Equity Fund AH (EUR) | Activa | EUR | Global Emerging Markets Equity | 2,21 | 0,99 | 5 | — |
+| [LU0815264352](../rv-emergentes/LU0815264352.md) | Morgan Stanley Investment Funds - Emerging Leaders Equity Fund AH (EUR) | Activa | EUR | Global Emerging Markets Equity | 2,21 | 0,99 | 5 | — |
 | IE00B23S7K36 | BNY Mellon Brazil Equity EUR A Acc | Activa | EUR | Latin America Equity | 2,22 | 3,75 | 5 | 4 |
 | IE00BB7N4179 | BNYM BRAZIL EQUITY H ACC EUR | Activa | EUR | Latin America Equity | 2,22 | 1,65 | 5 | — |
 | LU2051758659 | UBAM - Positive Impact Emerging Equity AC EUR Accumulation | Activa | EUR | Global Emerging Markets Equity | 2,24 | 12,75 | 4 | 2 |
