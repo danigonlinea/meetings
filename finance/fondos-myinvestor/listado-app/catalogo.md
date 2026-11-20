@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1658
+**Fondos: 1980** · con ficha previa: 1660
 
 | Clase | Fondos |
 | --- | --- |
@@ -1598,7 +1598,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0640798160](../rv-emergentes/LU0640798160.md) | Eastspring Investments - Global EM Dynamic Fund - A USD | Activa | USD | Global Emerging Markets Equity | 1,80 | 12,09 | 4 | 3 |
 | [LU0301637293](../rv-emergentes/LU0301637293.md) | JPMorgan Funds - Korea Equity Fund A (acc) - EUR\| | Activa | EUR | Korea Equity | 1,81 | 25,03 | 5 | 3 |
 | [LU0602539867](../rv-emergentes/LU0602539867.md) | NORDEA EMERGING STARS EQUITY BP ACC EUR | Activa | EUR | Global Emerging Markets Equity | 1,82 | 16,27 | 5 | 2 |
-| LU2345993211 | Schroder ISF China Opportunities A Accumulation EUR | Activa | EUR | Greater China Equity | 1,83 | 2,03 | 5 | 3 |
+| [LU2345993211](../rv-emergentes/LU2345993211.md) | Schroder ISF China Opportunities A Accumulation EUR | Activa | EUR | Greater China Equity | 1,83 | 2,03 | 5 | 3 |
 | [LU0231205187](../rv-emergentes/LU0231205187.md) | Franklin India Fund A(acc)EUR | Activa | EUR | India Equity | 1,84 | 3,74 | 4 | 3 |
 | [LU1212701376](../rv-emergentes/LU1212701376.md) | Franklin India Fund A(acc)EUR-H1 | Activa | EUR | India Equity | 1,84 | 1,92 | 4 | — |
 | [LU0365775922](../rv-emergentes/LU0365775922.md) | Schroder ISF Greater China A Accumulation EUR | Activa | EUR | Greater China Equity | 1,84 | 9,69 | 5 | 3 |
@@ -1615,7 +1615,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0491217419](../rv-emergentes/LU0491217419.md) | Robeco Indian Equities D € | Activa | EUR | India Equity | 1,91 | 3,44 | 4 | 4 |
 | [LU1146622755](../rv-emergentes/LU1146622755.md) | CHINA A SHARE EQ A2 AC USD | Activa | USD | Greater China Equity | 1,92 | 3,50 | 5 | 3 |
 | LU0721876364 | Matthews Asia Funds - China Discovery Fund A USD Acc | Activa | USD | Greater China Equity | 1,92 | 8,91 | 5 | 2 |
-| LU0562313402 | Schroder ISF Frontier Markets Equity A Accumulation USD | Activa | USD | Global Emerging Markets Equity | 1,92 | 20,20 | 3 | 5 |
+| [LU0562313402](../rv-emergentes/LU0562313402.md) | Schroder ISF Frontier Markets Equity A Accumulation USD | Activa | USD | Global Emerging Markets Equity | 1,92 | 20,20 | 3 | 5 |
 | [LU0231490524](../rv-emergentes/LU0231490524.md) | Aberdeen Standard SICAV I - Indian Equity Fund A Acc USD | Activa | USD | India Equity | 1,93 | 4,01 | 4 | 2 |
 | [LU1434523954](../rv-emergentes/LU1434523954.md) | Candriam Sustainable Equity Emerging Markets C EUR Acc | Activa | EUR | Global Emerging Markets Equity | 1,94 | 15,00 | 4 | 2 |
 | [LU0616856935](../rv-emergentes/LU0616856935.md) | DWS Invest Brazilian Equities LC | Activa | EUR | Latin America Equity | 1,94 | -0,21 | 5 | 4 |
