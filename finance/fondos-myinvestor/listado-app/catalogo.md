@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1663
+**Fondos: 1980** · con ficha previa: 1666
 
 | Clase | Fondos |
 | --- | --- |
@@ -1641,7 +1641,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0823425839](../rv-emergentes/LU0823425839.md) | BNP Paribas China Eq Cl EUR C | Activa | EUR | Greater China Equity | 2,21 | 5,64 | 5 | 4 |
 | [LU0265293521](../rv-emergentes/LU0265293521.md) | BNP Paribas Funds Turkey Equity | Activa | EUR | Equity Miscellaneous | 2,21 | 2,24 | 6 | — |
 | [LU0815264352](../rv-emergentes/LU0815264352.md) | Morgan Stanley Investment Funds - Emerging Leaders Equity Fund AH (EUR) | Activa | EUR | Global Emerging Markets Equity | 2,21 | 0,99 | 5 | — |
-| IE00B23S7K36 | BNY Mellon Brazil Equity EUR A Acc | Activa | EUR | Latin America Equity | 2,22 | 3,75 | 5 | 4 |
+| [IE00B23S7K36](../rv-emergentes/IE00B23S7K36.md) | BNY Mellon Brazil Equity EUR A Acc | Activa | EUR | Latin America Equity | 2,22 | 3,75 | 5 | 4 |
 | IE00BB7N4179 | BNYM BRAZIL EQUITY H ACC EUR | Activa | EUR | Latin America Equity | 2,22 | 1,65 | 5 | — |
 | LU2051758659 | UBAM - Positive Impact Emerging Equity AC EUR Accumulation | Activa | EUR | Global Emerging Markets Equity | 2,24 | 12,75 | 4 | 2 |
 | LU1997244873 | CHINA A SHARES A DIS EUR | Activa | EUR | Greater China Equity | 2,30 | 10,77 | 5 | 3 |
@@ -1650,7 +1650,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0251572144 | Schroder ISF Emerging Europe A1 Accumulation USD | Activa | USD | Europe Emerging Markets Equity | 2,38 | 26,10 | 6 | 3 |
 | LU0067412154 | UBS (Lux) Equity Fund - China Opportunity (USD) P-acc | Activa | USD | Greater China Equity | 2,40 | -0,60 | 5 | 3 |
 | LU0333810694 | Goldman Sachs India Equity Portfolio A Acc USD | Activa | USD | India Equity | 2,43 | 4,92 | 4 | 3 |
-| LU0333810850 | Goldman Sachs India Equity Portfolio E Acc EUR | Activa | EUR | India Equity | 2,43 | 4,82 | 4 | 3 |
+| [LU0333810850](../rv-emergentes/LU0333810850.md) | Goldman Sachs India Equity Portfolio E Acc EUR | Activa | EUR | India Equity | 2,43 | 4,82 | 4 | 3 |
 | LU1706168710 | JPMorgan Funds - China A-Share Opportunities Fund D (acc) EUR | Activa | EUR | Greater China Equity | 2,48 | 6,35 | 5 | 2 |
 | LU0106819104 | Schroder ISF Emerging Europe B Accumulation EUR | Activa | EUR | Europe Emerging Markets Equity | 2,48 | 25,90 | 6 | 3 |
 | LU0169248142 | GIS CENTRAL EASTERN EUROPEAN EQ EX EUR | Activa | EUR | Europe Emerging Markets Equity | 2,50 | 26,76 | 4 | 3 |
@@ -1674,7 +1674,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | LU0522352607 | JPMorgan Funds - China Fund D (acc) - EUR | Activa | EUR | Greater China Equity | 2,73 | 2,22 | 5 | 2 |
 | LU0117867159 | JPMorgan Funds - China Fund D (acc) USD | Activa | USD | Greater China Equity | 2,75 | 2,28 | 5 | 2 |
 | LU0522352946 | JPMorgan Funds - Greater China Fund D (acc) - EUR | Activa | EUR | Greater China Equity | 2,76 | 9,69 | 5 | 3 |
-| LU0117841949 | JPMorgan Funds - Greater China Fund D (acc) - USD | Activa | USD | Greater China Equity | 2,78 | 9,75 | 5 | 3 |
+| [LU0117841949](../rv-emergentes/LU0117841949.md) | JPMorgan Funds - Greater China Fund D (acc) - USD | Activa | USD | Greater China Equity | 2,78 | 9,75 | 5 | 3 |
 | LU2659281880 | JPMorgan Funds - Middle East, Africa & Emerging Europe Opportunities Fund D (acc) EUR (H)  | Activa | EUR | Africa Equity | 2,79 | — | 4 | — |
 | LU2539337043 | JPMorgan Funds - Middle East, Africa & Emerging Europe Opportunities Fund D (acc) EUR | Activa | EUR | Africa Equity | 2,80 | 14,02 | 4 | 5 |
 | LU0117843721 | JPMorgan Funds - Taiwan Fund D (acc) USD | Activa | USD | Greater China Equity | 2,80 | 29,86 | 5 | 2 |
