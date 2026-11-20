@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 432
+**Fondos: 1980** · con ficha previa: 506
 
 | Clase | Fondos |
 | --- | --- |
@@ -136,108 +136,108 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00BD0DT578](../renta-fija/IE00BD0DT578.md) | iShares Green Bond Index Fund Acc EUR Hedged | Indexada | EUR | Global Fixed Income | 0,20 | 2,29 | 3 | 2 |
 | [IE00BD0DT792](../renta-fija/IE00BD0DT792.md) | iShares Green Bond Index Fund (IE) Institutional Acc EUR | Indexada | EUR | Global Fixed Income | 0,21 | 2,28 | 3 | 2 |
 | [IE00BZ1NTF08](../renta-fija/IE00BZ1NTF08.md) | iShares Em Mkts GovBd Idx(IE) Ins $ A | Indexada | USD | Emerging Markets Fixed Income | 0,23 | 8,43 | 3 | 3 |
-| LU0034353002 | DWS Floating Rate Notes LC | Activa | EUR | Europe Fixed Income | 0,25 | 3,32 | 1 | 4 |
-| IE00BFZMJT78 | Neuberger Berman Short Duration Euro Bond Fund Class EUR I Accumulating | Activa | EUR | Europe Fixed Income | 0,25 | 4,34 | 2 | 5 |
+| [LU0034353002](../renta-fija/LU0034353002.md) | DWS Floating Rate Notes LC | Activa | EUR | Europe Fixed Income | 0,25 | 3,32 | 1 | 4 |
+| [IE00BFZMJT78](../renta-fija/IE00BFZMJT78.md) | Neuberger Berman Short Duration Euro Bond Fund Class EUR I Accumulating | Activa | EUR | Europe Fixed Income | 0,25 | 4,34 | 2 | 5 |
 | [IE00BJ9MTQ85](../renta-fija/IE00BJ9MTQ85.md) | iShares Em Mkts GovBd Idx(IE) Ins €H A | Indexada | EUR | Emerging Markets Fixed Income | 0,25 | 6,71 | 3 | 3 |
 | [IE00BF2N5W82](../renta-fija/IE00BF2N5W82.md) | iShares Em Mkts LclGovBd Idx(IE) D $ A | Indexada | USD | Emerging Markets Fixed Income | 0,25 | 5,63 | 3 | 2 |
 | [IE000HDKMJN5](../renta-fija/IE000HDKMJN5.md) | iShares Emerging Markets Local Government Bond Index Fund (IE) D Acc EUR | Activa | EUR | Emerging Markets Fixed Income | 0,25 | 5,63 | 3 | 3 |
 | [LU1811365292](../renta-fija/LU1811365292.md) | iShares EM Government Bond Index Fund | Indexada | EUR | Emerging Markets Fixed Income | 0,28 | 8,35 | 3 | 3 |
-| ES0127795005 | EDM Renta R FI | Activa | EUR | Europe Fixed Income | 0,30 | 2,94 | 1 | 3 |
+| [ES0127795005](../renta-fija/ES0127795005.md) | EDM Renta R FI | Activa | EUR | Europe Fixed Income | 0,30 | 2,94 | 1 | 3 |
 | [IE000OZZKBN3](../renta-fija/IE000OZZKBN3.md) | iShares Em Mkts LclGovBd Idx(IE) Ins $ AEM LCL GVMT BOND INST | Indexada | USD | Emerging Markets Fixed Income | 0,30 | 5,57 | 3 | 3 |
-| ES0165182009 | MUTUAFONDO DEUDA ESPAÑOLA A FI | Activa | EUR | Fixed Income Miscellaneous | 0,31 | — | 2 | — |
-| LU0029761706 | UBAM - Dynamic Euro Bond AC EUR | Activa | EUR | Europe Fixed Income | 0,31 | 3,39 | 2 | 3 |
+| [ES0165182009](../renta-fija/ES0165182009.md) | MUTUAFONDO DEUDA ESPAÑOLA A FI | Activa | EUR | Fixed Income Miscellaneous | 0,31 | — | 2 | — |
+| [LU0029761706](../renta-fija/LU0029761706.md) | UBAM - Dynamic Euro Bond AC EUR | Activa | EUR | Europe Fixed Income | 0,31 | 3,39 | 2 | 3 |
 | [AT0000A0WLX3](../renta-fija/AT0000A0WLX3.md) | ERSTE Responsible ReserveVT | Activa | EUR | Europe Fixed Income | 0,32 | 2,95 | 2 | 3 |
-| FR0000027609 | LAZARD EUR SHORT DUR SRI IC | Activa | EUR | Europe Fixed Income | 0,32 | 3,68 | 2 | 4 |
+| [FR0000027609](../renta-fija/FR0000027609.md) | LAZARD EUR SHORT DUR SRI IC | Activa | EUR | Europe Fixed Income | 0,32 | 3,68 | 2 | 4 |
 | [LU0352158918](../renta-fija/LU0352158918.md) | UBAM - Dynamic US Dollar Bond AHC EUR | Activa | EUR | US Fixed Income | 0,32 | 3,64 | 2 | — |
-| ES0141580003 | SIGMA INVESTMENT HOUSE AHORRO, | Activa | EUR | Europe Fixed Income | 0,34 | 3,49 | 2 | 4 |
+| [ES0141580003](../renta-fija/ES0141580003.md) | SIGMA INVESTMENT HOUSE AHORRO, | Activa | EUR | Europe Fixed Income | 0,34 | 3,49 | 2 | 4 |
 | [LU1050470373](../renta-fija/LU1050470373.md) | Amundi IS JP Morgan EMU Govies AE-C | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
 | [LU1050470456](../renta-fija/LU1050470456.md) | Amundi IS JP Morgan EMU Govies AE-D | Indexada | EUR | Europe Fixed Income | 0,35 | 1,25 | 3 | 3 |
 | [LU0389812933](../renta-fija/LU0389812933.md) | Amundi IS JP Morgan GBI Glbl Gvs AHE-C | Indexada | EUR | Global Fixed Income | 0,35 | 0,60 | 2 | 3 |
 | [LU0389813071](../renta-fija/LU0389813071.md) | Amundi IS JP Morgan GBI Glbl Gvs AHE-D | Indexada | EUR | Global Fixed Income | 0,35 | 0,60 | 2 | 3 |
 | [LU1525412281](../renta-fija/LU1525412281.md) | Amundi Index Barclays Euro Corporate BBB 1-5 | Indexada | EUR | Europe Fixed Income | 0,35 | 3,28 | 2 | 4 |
 | [LU1050469441](../renta-fija/LU1050469441.md) | Amundi Index Euro AGG Corporate SRI AE-D | Indexada | EUR | Europe Fixed Income | 0,35 | 3,24 | 3 | 3 |
-| LU0041580167 | DWS USD Floating Rate Notes LD | Activa | USD | US Fixed Income | 0,35 | 4,82 | 1 | 5 |
-| IE00BL1GVT98 | Neuberger Berman Ultra Short Term Euro Bond Fund Class EUR U Accumulating | Activa | EUR | Europe Fixed Income | 0,35 | 4,24 | 2 | 5 |
-| ES0170156030 | Santalucía RF Corto Plazo Euro B FI | Activa | EUR | Europe Fixed Income | 0,35 | 3,05 | 2 | 3 |
-| IE00BYV1RD15 | Vanguard Global Credit Bond Fund Investor USD Hedged Accumulation | Activa | USD | Global Fixed Income | 0,35 | 5,30 | 3 | 4 |
-| FR0010950055 | AXA IM Euro 6M E | Activa | EUR | Europe Fixed Income | 0,36 | 2,88 | 1 | 3 |
-| ES0112618006 | B&H Deuda FI | Activa | EUR | Europe Fixed Income | 0,36 | 3,79 | 2 | 4 |
+| [LU0041580167](../renta-fija/LU0041580167.md) | DWS USD Floating Rate Notes LD | Activa | USD | US Fixed Income | 0,35 | 4,82 | 1 | 5 |
+| [IE00BL1GVT98](../renta-fija/IE00BL1GVT98.md) | Neuberger Berman Ultra Short Term Euro Bond Fund Class EUR U Accumulating | Activa | EUR | Europe Fixed Income | 0,35 | 4,24 | 2 | 5 |
+| [ES0170156030](../renta-fija/ES0170156030.md) | Santalucía RF Corto Plazo Euro B FI | Activa | EUR | Europe Fixed Income | 0,35 | 3,05 | 2 | 3 |
+| [IE00BYV1RD15](../renta-fija/IE00BYV1RD15.md) | Vanguard Global Credit Bond Fund Investor USD Hedged Accumulation | Activa | USD | Global Fixed Income | 0,35 | 5,30 | 3 | 4 |
+| [FR0010950055](../renta-fija/FR0010950055.md) | AXA IM Euro 6M E | Activa | EUR | Europe Fixed Income | 0,36 | 2,88 | 1 | 3 |
+| [ES0112618006](../renta-fija/ES0112618006.md) | B&H Deuda FI | Activa | EUR | Europe Fixed Income | 0,36 | 3,79 | 2 | 4 |
 | [LU0438093006](../renta-fija/LU0438093006.md) | State Street EMU Government Bond Index Fund P Acc | Indexada | EUR | Europe Fixed Income | 0,36 | 1,25 | 3 | 2 |
 | [LU0963596084](../renta-fija/LU0963596084.md) | State Street EMU Government Bond Index Fund P Inc | Indexada | EUR | Europe Fixed Income | 0,36 | 1,25 | 3 | 2 |
-| FR001400CFA4 | Ostrum Credit Ultra Short Plus R/C (EUR) | Activa | EUR | Europe Fixed Income | 0,37 | 3,36 | 1 | 4 |
-| LU0173786863 | Nordea 1 - Norwegian Shrt-Term Bd BP EUR | Activa | EUR | Europe Fixed Income | 0,38 | 9,62 | 3 | 3 |
-| LU0173785626 | Nordea 1 - Swedish Short- Term Bd BP EUR | Activa | EUR | Europe Fixed Income | 0,38 | 4,33 | 3 | 4 |
-| ES0137352003 | Finaccess Renta Fija Corto Plazo FI | Activa | EUR | Europe Fixed Income | 0,39 | 2,90 | 1 | 3 |
-| ES0156136089 | Solventis Hermes Multigestión Atenea R FI | Activa | EUR | Europe Fixed Income | 0,39 | 2,59 | 1 | 3 |
+| [FR001400CFA4](../renta-fija/FR001400CFA4.md) | Ostrum Credit Ultra Short Plus R/C (EUR) | Activa | EUR | Europe Fixed Income | 0,37 | 3,36 | 1 | 4 |
+| [LU0173786863](../renta-fija/LU0173786863.md) | Nordea 1 - Norwegian Shrt-Term Bd BP EUR | Activa | EUR | Europe Fixed Income | 0,38 | 9,62 | 3 | 3 |
+| [LU0173785626](../renta-fija/LU0173785626.md) | Nordea 1 - Swedish Short- Term Bd BP EUR | Activa | EUR | Europe Fixed Income | 0,38 | 4,33 | 3 | 4 |
+| [ES0137352003](../renta-fija/ES0137352003.md) | Finaccess Renta Fija Corto Plazo FI | Activa | EUR | Europe Fixed Income | 0,39 | 2,90 | 1 | 3 |
+| [ES0156136089](../renta-fija/ES0156136089.md) | Solventis Hermes Multigestión Atenea R FI | Activa | EUR | Europe Fixed Income | 0,39 | 2,59 | 1 | 3 |
 | [LU0570151448](../renta-fija/LU0570151448.md) | State Street Euro Core Treasury Bond Index Fund P Acc | Indexada | EUR | Europe Fixed Income | 0,39 | 0,16 | 3 | 1 |
-| FR0010839282 | Echiquier Short Term Credit SRI A SHORT TERM CREDIT A  | Activa | EUR | Europe Fixed Income | 0,40 | 2,78 | 2 | 2 |
-| FR0013346079 | Groupama Ultra Short Term NC | Activa | EUR | Europe Fixed Income | 0,40 | 2,98 | 1 | 4 |
+| [FR0010839282](../renta-fija/FR0010839282.md) | Echiquier Short Term Credit SRI A SHORT TERM CREDIT A  | Activa | EUR | Europe Fixed Income | 0,40 | 2,78 | 2 | 2 |
+| [FR0013346079](../renta-fija/FR0013346079.md) | Groupama Ultra Short Term NC | Activa | EUR | Europe Fixed Income | 0,40 | 2,98 | 1 | 4 |
 | [LU0956454531](../renta-fija/LU0956454531.md) | State Street Euro Inflation Linked Bond Index Fund | Indexada | EUR | Europe Fixed Income | 0,40 | — | 3 | — |
-| ES0155598032 | UBS Corto Plazo B FI | Activa | EUR | Europe Fixed Income | 0,40 | 2,63 | 2 | 3 |
+| [ES0155598032](../renta-fija/ES0155598032.md) | UBS Corto Plazo B FI | Activa | EUR | Europe Fixed Income | 0,40 | 2,63 | 2 | 3 |
 | [LU0097116601](../renta-fija/LU0097116601.md) | Eurizon Fund - Bond USD Short Term LTE Class Unit R EUR Accumulation | Activa | EUR | US Fixed Income | 0,45 | 3,27 | 3 | 1 |
 | [LU1230566553](../renta-fija/LU1230566553.md) | LO Funds - Ultra Low Duration (EUR) PA | Activa | EUR | Europe Fixed Income | 0,45 | 3,09 | 2 | 3 |
-| LU1670718219 | M&G (Lux) Short Dated Corporate Bond Fund A EUR Acc | Activa | EUR | Europe Fixed Income | 0,47 | 3,19 | 2 | 4 |
-| ES0114887039 | Caja Ingenieros Fondtesoro Corto Plazo A FI | Activa | EUR | Europe Fixed Income | 0,49 | 2,38 | 1 | 2 |
-| LU0145655824 | DWS Invest ESG Euro Bonds (Short) LC | Activa | EUR | Europe Fixed Income | 0,49 | 2,52 | 2 | 3 |
-| LU0090978643 | EURIZON FND BD JPY LTE R AC EU | Activa | EUR | Japan Fixed Income | 0,49 | -6,88 | 3 | 4 |
-| LU2482630162 | European Specialist Investment Funds - M&G European Credit Investment Fund Class P EUR Acc | Activa | EUR | Europe Fixed Income | 0,49 | 3,64 | 2 | 4 |
+| [LU1670718219](../renta-fija/LU1670718219.md) | M&G (Lux) Short Dated Corporate Bond Fund A EUR Acc | Activa | EUR | Europe Fixed Income | 0,47 | 3,19 | 2 | 4 |
+| [ES0114887039](../renta-fija/ES0114887039.md) | Caja Ingenieros Fondtesoro Corto Plazo A FI | Activa | EUR | Europe Fixed Income | 0,49 | 2,38 | 1 | 2 |
+| [LU0145655824](../renta-fija/LU0145655824.md) | DWS Invest ESG Euro Bonds (Short) LC | Activa | EUR | Europe Fixed Income | 0,49 | 2,52 | 2 | 3 |
+| [LU0090978643](../renta-fija/LU0090978643.md) | EURIZON FND BD JPY LTE R AC EU | Activa | EUR | Japan Fixed Income | 0,49 | -6,88 | 3 | 4 |
+| [LU2482630162](../renta-fija/LU2482630162.md) | European Specialist Investment Funds - M&G European Credit Investment Fund Class P EUR Acc | Activa | EUR | Europe Fixed Income | 0,49 | 3,64 | 2 | 4 |
 | [FR0010760694](../renta-fija/FR0010760694.md) | CANDRIAM LONG SH CREDIT C EUR | Activa | EUR | Global Fixed Income | 0,50 | 3,21 | 3 | 4 |
-| ES0138712007 | GESTIFONSA RF EURO, FI CARTERA | Activa | EUR | Europe Fixed Income | 0,50 | 3,23 | 2 | 4 |
-| LU0408877412 | JPMorgan Funds - Euro Government Short Duration Bond Fund A (acc) - EUR | Activa | EUR | Europe Fixed Income | 0,50 | 2,08 | 2 | 3 |
-| LU1361553693 | Pictet-USD Short Mid-Term Bonds-P EUR | Activa | EUR | US Fixed Income | 0,50 | 3,70 | 3 | 3 |
+| [ES0138712007](../renta-fija/ES0138712007.md) | GESTIFONSA RF EURO, FI CARTERA | Activa | EUR | Europe Fixed Income | 0,50 | 3,23 | 2 | 4 |
+| [LU0408877412](../renta-fija/LU0408877412.md) | JPMorgan Funds - Euro Government Short Duration Bond Fund A (acc) - EUR | Activa | EUR | Europe Fixed Income | 0,50 | 2,08 | 2 | 3 |
+| [LU1361553693](../renta-fija/LU1361553693.md) | Pictet-USD Short Mid-Term Bonds-P EUR | Activa | EUR | US Fixed Income | 0,50 | 3,70 | 3 | 3 |
 | [LU1373035580](../renta-fija/LU1373035580.md) | iShares Emerging Markets Government Bond Index Fund (LU) A2 EUR Hedged | Indexada | EUR | Emerging Markets Fixed Income | 0,52 | 6,32 | 3 | 3 |
-| LU1209509089 | UBAM - Dynamic US Dollar Bond AC EUR | Activa | EUR | US Fixed Income | 0,53 | 4,95 | 3 | 5 |
+| [LU1209509089](../renta-fija/LU1209509089.md) | UBAM - Dynamic US Dollar Bond AC EUR | Activa | EUR | US Fixed Income | 0,53 | 4,95 | 3 | 5 |
 | [LU0836513696](../renta-fija/LU0836513696.md) | iShares Emerging Markets Government Bond Index (LU) A2 USD | Indexada | USD | Emerging Markets Fixed Income | 0,53 | 8,19 | 3 | 3 |
-| LU0133089424 | EURO CORPORATE BOND A ACC EUR | Activa | EUR | Europe Fixed Income | 0,54 | 3,55 | 2 | 3 |
-| LU2170387828 | EUROP SOCIAL BD AE ACC EUR | Activa | EUR | Europe Fixed Income | 0,55 | 2,67 | 2 | 3 |
-| LU0915363070 | NORDEA FLEX FIXED INC BI EUR | Activa | EUR | Global Fixed Income | 0,55 | 2,60 | 2 | 3 |
-| FR0013188745 | Amundi Responsible Investing - Impact Green Bonds DP C | Activa | EUR | Global Fixed Income | 0,56 | 2,17 | 3 | 2 |
-| BE0944432401 | BD EUR MEDM TRM B ACC EUR | Activa | EUR | Europe Fixed Income | 0,56 | 2,15 | 2 | 5 |
-| FI0008800511 | Evli Short Corporate Bond B | Activa | EUR | Europe Fixed Income | 0,56 | 3,98 | 2 | 5 |
-| FR0013506995 | Lazard Euro Short Duration Income Opportunities SRI RVC EUR | Activa | EUR | Europe Fixed Income | 0,56 | 5,23 | 2 | 5 |
-| ES0174535015 | Santalucía Pagarés B FI | Activa | EUR | Europe Fixed Income | 0,56 | — | 1 | — |
+| [LU0133089424](../renta-fija/LU0133089424.md) | EURO CORPORATE BOND A ACC EUR | Activa | EUR | Europe Fixed Income | 0,54 | 3,55 | 2 | 3 |
+| [LU2170387828](../renta-fija/LU2170387828.md) | EUROP SOCIAL BD AE ACC EUR | Activa | EUR | Europe Fixed Income | 0,55 | 2,67 | 2 | 3 |
+| [LU0915363070](../renta-fija/LU0915363070.md) | NORDEA FLEX FIXED INC BI EUR | Activa | EUR | Global Fixed Income | 0,55 | 2,60 | 2 | 3 |
+| [FR0013188745](../renta-fija/FR0013188745.md) | Amundi Responsible Investing - Impact Green Bonds DP C | Activa | EUR | Global Fixed Income | 0,56 | 2,17 | 3 | 2 |
+| [BE0944432401](../renta-fija/BE0944432401.md) | BD EUR MEDM TRM B ACC EUR | Activa | EUR | Europe Fixed Income | 0,56 | 2,15 | 2 | 5 |
+| [FI0008800511](../renta-fija/FI0008800511.md) | Evli Short Corporate Bond B | Activa | EUR | Europe Fixed Income | 0,56 | 3,98 | 2 | 5 |
+| [FR0013506995](../renta-fija/FR0013506995.md) | Lazard Euro Short Duration Income Opportunities SRI RVC EUR | Activa | EUR | Europe Fixed Income | 0,56 | 5,23 | 2 | 5 |
+| [ES0174535015](../renta-fija/ES0174535015.md) | Santalucía Pagarés B FI | Activa | EUR | Europe Fixed Income | 0,56 | — | 1 | — |
 | [ES0124526015](../renta-fija/ES0124526015.md) | Abaco Renta Fija R FI | Activa | EUR | Global Fixed Income | 0,58 | 3,81 | 2 | 5 |
-| LU0241467587 | Pictet-EUR Government Bonds-P | Activa | EUR | Europe Fixed Income | 0,58 | 1,23 | 3 | 2 |
+| [LU0241467587](../renta-fija/LU0241467587.md) | Pictet-EUR Government Bonds-P | Activa | EUR | Europe Fixed Income | 0,58 | 1,23 | 3 | 2 |
 | [LU0128488383](../renta-fija/LU0128488383.md) | Pictet-USD Government Bonds-P | Activa | USD | Otros | 0,58 | — | 3 | — |
-| LU0447425785 | ANDBANK SHORT TERM A ACC EUR | Activa | EUR | Europe Fixed Income | 0,59 | 1,95 | 2 | 1 |
+| [LU0447425785](../renta-fija/LU0447425785.md) | ANDBANK SHORT TERM A ACC EUR | Activa | EUR | Europe Fixed Income | 0,59 | 1,95 | 2 | 1 |
 | [ES0138922036](../renta-fija/ES0138922036.md) | Gesconsult Corto Plazo | Activa | EUR | Europe Fixed Income | 0,60 | 3,14 | 1 | 3 |
 | [ES0138922002](../renta-fija/ES0138922002.md) | Gesconsult Renta Fija Horizonte 2023 A FI | Activa | EUR | Fixed Income Miscellaneous | 0,60 | 2,36 | 2 | — |
-| LU0363447680 | JPMorgan Funds - EU Government Bond Fund A (acc) - EUR | Activa | EUR | Europe Fixed Income | 0,60 | 1,37 | 3 | 3 |
-| FR0013426673 | Oddo BHF Global Target 2026 CN-EUR | Activa | EUR | Fixed Income Miscellaneous | 0,60 | 4,66 | 2 | — |
-| FR001400S3Z4 | Sextant Regatta 2031 AD | Activa | EUR | Fixed Income Miscellaneous | 0,60 | — | 2 | — |
-| FR001400S409 | Sextante Regatta 2031 A | Activa | EUR | Fixed Income Miscellaneous | 0,60 | — | 2 | — |
-| ES0125240038 | Trea Renta Fija Ahorro | Activa | EUR | Europe Fixed Income | 0,60 | 3,23 | 2 | 3 |
-| IE00BKLWXS37 | Vanguard Emerging Markets Bond Fund Investor EUR Hedged Accumulation | Activa | EUR | Emerging Markets Fixed Income | 0,60 | 6,97 | 3 | 4 |
-| IE00BKLWXP06 | Vanguard Emerging Markets Bond Fund Investor GBP Hedged Accumulation | Activa | GBP | Emerging Markets Fixed Income | 0,60 | 10,49 | 3 | 4 |
-| IE00BKLWXM74 | Vanguard Emerging Markets Bond Fund Investor USD Accumulation Shares | Activa | USD | Emerging Markets Fixed Income | 0,60 | 8,76 | 3 | 4 |
-| LU0438374190 | BB INV GRADE BOND M ACC EUR | Activa | EUR | Europe Fixed Income | 0,61 | 3,54 | 2 | 4 |
-| LU0549547510 | BlueBay Funds - BlueBay Investment Grade Euro Aggregate Bond Fund M - EUR | Activa | EUR | Europe Fixed Income | 0,61 | 1,82 | 3 | 3 |
-| LU0549541232 | BlueBay Funds - BlueBay Investment Grade Euro Government Bond Fund M EUR Acc | Activa | EUR | Europe Fixed Income | 0,61 | 0,93 | 3 | 3 |
-| ES0162295002 | Cartera Renta Fija Horizonte 2027 FI | Activa | EUR | Fixed Income Miscellaneous | 0,62 | 3,86 | 2 | — |
-| LU1670629549 | M&G (Lux) Euro Corporate Bond Fund A EUR Acc | Activa | EUR | Europe Fixed Income | 0,62 | 3,32 | 2 | 3 |
-| LU2166021886 | Pictet-USD Government Bonds-HP EUR | Activa | EUR | US Fixed Income | 0,63 | 0,76 | 3 | — |
-| LU0113258742 | Schroder ISF Euro Corporate Bond C Accumulation EUR | Activa | EUR | Europe Fixed Income | 0,63 | 4,58 | 2 | 5 |
-| LU0029761532 | UBAM - Dynamic US Dollar Bond AC USD | Activa | USD | US Fixed Income | 0,63 | 4,84 | 2 | 4 |
-| LU1434521826 | Candriam Sustainable Bond Euro Short Term C EUR Acc | Activa | EUR | Europe Fixed Income | 0,64 | 2,32 | 2 | 2 |
-| ES0141580037 | DP AHORRO FI A ACC EUR | Activa | EUR | Europe Fixed Income | 0,64 | 3,18 | 2 | 4 |
-| LU0106234643 | Schroder ISF Euro Short Term Bond A Accumulation EUR | Activa | EUR | Europe Fixed Income | 0,64 | 2,84 | 2 | 2 |
-| IE00BG226Z29 | Aegon European ABS Fund A EUR Acc | Activa | EUR | Fixed Income Miscellaneous | 0,66 | 4,35 | 2 | — |
-| BE0943877671 | DPAM INVEST B BONDS EUR B ACC EUR | Activa | EUR | Europe Fixed Income | 0,66 | 1,58 | 3 | 4 |
-| FR001400TGU4 | Sextant Optimal Income A Acc | Activa | EUR | Europe Fixed Income | 0,66 | — | 2 | — |
-| LU3044347089 | EURO INCM FX MTRTY 2029-A2-EUR | Activa | EUR | Fixed Income Miscellaneous | 0,67 | — | 2 | — |
+| [LU0363447680](../renta-fija/LU0363447680.md) | JPMorgan Funds - EU Government Bond Fund A (acc) - EUR | Activa | EUR | Europe Fixed Income | 0,60 | 1,37 | 3 | 3 |
+| [FR0013426673](../renta-fija/FR0013426673.md) | Oddo BHF Global Target 2026 CN-EUR | Activa | EUR | Fixed Income Miscellaneous | 0,60 | 4,66 | 2 | — |
+| [FR001400S3Z4](../renta-fija/FR001400S3Z4.md) | Sextant Regatta 2031 AD | Activa | EUR | Fixed Income Miscellaneous | 0,60 | — | 2 | — |
+| [FR001400S409](../renta-fija/FR001400S409.md) | Sextante Regatta 2031 A | Activa | EUR | Fixed Income Miscellaneous | 0,60 | — | 2 | — |
+| [ES0125240038](../renta-fija/ES0125240038.md) | Trea Renta Fija Ahorro | Activa | EUR | Europe Fixed Income | 0,60 | 3,23 | 2 | 3 |
+| [IE00BKLWXS37](../renta-fija/IE00BKLWXS37.md) | Vanguard Emerging Markets Bond Fund Investor EUR Hedged Accumulation | Activa | EUR | Emerging Markets Fixed Income | 0,60 | 6,97 | 3 | 4 |
+| [IE00BKLWXP06](../renta-fija/IE00BKLWXP06.md) | Vanguard Emerging Markets Bond Fund Investor GBP Hedged Accumulation | Activa | GBP | Emerging Markets Fixed Income | 0,60 | 10,49 | 3 | 4 |
+| [IE00BKLWXM74](../renta-fija/IE00BKLWXM74.md) | Vanguard Emerging Markets Bond Fund Investor USD Accumulation Shares | Activa | USD | Emerging Markets Fixed Income | 0,60 | 8,76 | 3 | 4 |
+| [LU0438374190](../renta-fija/LU0438374190.md) | BB INV GRADE BOND M ACC EUR | Activa | EUR | Europe Fixed Income | 0,61 | 3,54 | 2 | 4 |
+| [LU0549547510](../renta-fija/LU0549547510.md) | BlueBay Funds - BlueBay Investment Grade Euro Aggregate Bond Fund M - EUR | Activa | EUR | Europe Fixed Income | 0,61 | 1,82 | 3 | 3 |
+| [LU0549541232](../renta-fija/LU0549541232.md) | BlueBay Funds - BlueBay Investment Grade Euro Government Bond Fund M EUR Acc | Activa | EUR | Europe Fixed Income | 0,61 | 0,93 | 3 | 3 |
+| [ES0162295002](../renta-fija/ES0162295002.md) | Cartera Renta Fija Horizonte 2027 FI | Activa | EUR | Fixed Income Miscellaneous | 0,62 | 3,86 | 2 | — |
+| [LU1670629549](../renta-fija/LU1670629549.md) | M&G (Lux) Euro Corporate Bond Fund A EUR Acc | Activa | EUR | Europe Fixed Income | 0,62 | 3,32 | 2 | 3 |
+| [LU2166021886](../renta-fija/LU2166021886.md) | Pictet-USD Government Bonds-HP EUR | Activa | EUR | US Fixed Income | 0,63 | 0,76 | 3 | — |
+| [LU0113258742](../renta-fija/LU0113258742.md) | Schroder ISF Euro Corporate Bond C Accumulation EUR | Activa | EUR | Europe Fixed Income | 0,63 | 4,58 | 2 | 5 |
+| [LU0029761532](../renta-fija/LU0029761532.md) | UBAM - Dynamic US Dollar Bond AC USD | Activa | USD | US Fixed Income | 0,63 | 4,84 | 2 | 4 |
+| [LU1434521826](../renta-fija/LU1434521826.md) | Candriam Sustainable Bond Euro Short Term C EUR Acc | Activa | EUR | Europe Fixed Income | 0,64 | 2,32 | 2 | 2 |
+| [ES0141580037](../renta-fija/ES0141580037.md) | DP AHORRO FI A ACC EUR | Activa | EUR | Europe Fixed Income | 0,64 | 3,18 | 2 | 4 |
+| [LU0106234643](../renta-fija/LU0106234643.md) | Schroder ISF Euro Short Term Bond A Accumulation EUR | Activa | EUR | Europe Fixed Income | 0,64 | 2,84 | 2 | 2 |
+| [IE00BG226Z29](../renta-fija/IE00BG226Z29.md) | Aegon European ABS Fund A EUR Acc | Activa | EUR | Fixed Income Miscellaneous | 0,66 | 4,35 | 2 | — |
+| [BE0943877671](../renta-fija/BE0943877671.md) | DPAM INVEST B BONDS EUR B ACC EUR | Activa | EUR | Europe Fixed Income | 0,66 | 1,58 | 3 | 4 |
+| [FR001400TGU4](../renta-fija/FR001400TGU4.md) | Sextant Optimal Income A Acc | Activa | EUR | Europe Fixed Income | 0,66 | — | 2 | — |
+| [LU3044347089](../renta-fija/LU3044347089.md) | EURO INCM FX MTRTY 2029-A2-EUR | Activa | EUR | Fixed Income Miscellaneous | 0,67 | — | 2 | — |
 | [LU3105996113](../renta-fija/LU3105996113.md) | MUTUAFONDO FI LUX - A EUR ACC | Activa | EUR | Europe Fixed Income | 0,68 | 3,65 | 2 | 5 |
-| ES0142537044 | Multiestrategia / Inversiones Clima I FI | Activa | EUR | Europe Fixed Income | 0,68 | — | 2 | — |
-| LU0236145453 |   DWS Invest Short Duration Credit LC | Activa | EUR | Europe Fixed Income | 0,69 | 3,67 | 2 | 3 |
-| LU0549536745 | BlueBay Investment Grade Euro Government Bond Fund B EUR Acc | Activa | EUR | Europe Fixed Income | 0,70 | 0,84 | 3 | 3 |
-| LU0336683502 | DPAM L - Bonds Government Sustainable Hedged | Activa | EUR | Global Fixed Income | 0,70 | 0,86 | 2 | 3 |
-| LU3286552255 | DPAM L Bonds EUR Chronos 2031 - B EUR | Activa | EUR | Fixed Income Miscellaneous | 0,70 | — | 2 | — |
-| LU0507269321 | DWS Invest Short Duration Credit LD | Activa | EUR | Europe Fixed Income | 0,70 | 3,67 | 2 | 3 |
-| ES0128241017 | Edm Renta Fija Horizonte 2,5 Años R FI | Activa | EUR | Fixed Income Miscellaneous | 0,70 | — | 2 | — |
-| LU0267388220 | Fidelity Funds - Euro Short Term Bond Fund A-Acc-EUR | Activa | EUR | Europe Fixed Income | 0,70 | 2,57 | 2 | 3 |
-| LU0396183542 | Generali Investments SICAV - Euro Bond 1-3 Years DX  | Activa | EUR | Europe Fixed Income | 0,70 | 2,37 | 2 | 5 |
-| LU2200514128 | Pareto Nordic Cross Credit R NOK | Activa | EUR | Renta Fija Flexible | 0,70 | — | 2 | — |
+| [ES0142537044](../renta-fija/ES0142537044.md) | Multiestrategia / Inversiones Clima I FI | Activa | EUR | Europe Fixed Income | 0,68 | — | 2 | — |
+| [LU0236145453](../renta-fija/LU0236145453.md) |   DWS Invest Short Duration Credit LC | Activa | EUR | Europe Fixed Income | 0,69 | 3,67 | 2 | 3 |
+| [LU0549536745](../renta-fija/LU0549536745.md) | BlueBay Investment Grade Euro Government Bond Fund B EUR Acc | Activa | EUR | Europe Fixed Income | 0,70 | 0,84 | 3 | 3 |
+| [LU0336683502](../renta-fija/LU0336683502.md) | DPAM L - Bonds Government Sustainable Hedged | Activa | EUR | Global Fixed Income | 0,70 | 0,86 | 2 | 3 |
+| [LU3286552255](../renta-fija/LU3286552255.md) | DPAM L Bonds EUR Chronos 2031 - B EUR | Activa | EUR | Fixed Income Miscellaneous | 0,70 | — | 2 | — |
+| [LU0507269321](../renta-fija/LU0507269321.md) | DWS Invest Short Duration Credit LD | Activa | EUR | Europe Fixed Income | 0,70 | 3,67 | 2 | 3 |
+| [ES0128241017](../renta-fija/ES0128241017.md) | Edm Renta Fija Horizonte 2,5 Años R FI | Activa | EUR | Fixed Income Miscellaneous | 0,70 | — | 2 | — |
+| [LU0267388220](../renta-fija/LU0267388220.md) | Fidelity Funds - Euro Short Term Bond Fund A-Acc-EUR | Activa | EUR | Europe Fixed Income | 0,70 | 2,57 | 2 | 3 |
+| [LU0396183542](../renta-fija/LU0396183542.md) | Generali Investments SICAV - Euro Bond 1-3 Years DX  | Activa | EUR | Europe Fixed Income | 0,70 | 2,37 | 2 | 5 |
+| [LU2200514128](../renta-fija/LU2200514128.md) | Pareto Nordic Cross Credit R NOK | Activa | EUR | Renta Fija Flexible | 0,70 | — | 2 | — |
 | ES0184097014 | B&H Renta Fija FI | Activa | EUR | Europe Fixed Income | 0,71 | 5,35 | 2 | 5 |
-| ES0176954008 | RENTA 4 RENTA FIJA CORTO PLAZO, FI | Activa | EUR | Europe Fixed Income | 0,71 | 3,32 | 2 | 4 |
+| [ES0176954008](../renta-fija/ES0176954008.md) | RENTA 4 RENTA FIJA CORTO PLAZO, FI | Activa | EUR | Europe Fixed Income | 0,71 | 3,32 | 2 | 4 |
 | LU1988110927 | B&H Bonds LU Class 1 | Activa | EUR | Europe Fixed Income | 0,72 | 5,65 | 2 | 5 |
 | ES0113203030 | BBVA Bonos Duración Flexible FI | Activa | EUR | Europe Fixed Income | 0,72 | 2,05 | 2 | 2 |
 | LU2699050931 | MIRABAUD DM FX MATURITY 2029 N | Activa | EUR | Fixed Income Miscellaneous | 0,72 | — | 2 | — |

@@ -130,9 +130,13 @@ la operativa específica de MyInvestor (hora de corte, días) no está en la web
   incluyen efecto divisa y no son comparables con el snapshot de la clase; anotarlo.
 - **quefondos parece excluir cupones en clases de distribución**: sus rentabilidades y
   quintiles quedan por debajo de la realidad; anotarlo como pega, no como mal fondo.
-- **Finect suele no renderizar la composición** (carga JS): usar el snippet de búsqueda
-  de ESA MISMA URL (anotándolo), factsheets oficiales de la gestora, o la ficha de una
-  clase hermana del mismo fondo (cartera común). Si no hay nada → `Pendiente`.
+- **Finect suele no renderizar la composición** (carga JS), pero la embebe completa en
+  `window.INITIAL_STATE` (JSON doblemente codificado): `curl` de la página +
+  `json.loads(json.loads(...))` → `fund.fund.model` trae `breakdown` (asset/sectores/
+  regiones), `portfolio` (fecha + top 10), `stats`, comisiones y SRRI. Método preferente;
+  fallback: snippet de búsqueda de ESA MISMA URL (anotándolo), factsheets oficiales de la
+  gestora, o la ficha de una clase hermana del mismo fondo (cartera común). Si no hay
+  nada → `Pendiente`.
 - **Finect redirige a veces a otra clase o al ETF**: verificar que el ISIN de la página
   coincide con el del lote antes de usar sus datos.
 - **SRRI y comisiones discrepan a menudo** entre snapshot, quefondos y Finect: manda el
