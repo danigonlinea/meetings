@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 897
+**Fondos: 1980** · con ficha previa: 911
 
 | Clase | Fondos |
 | --- | --- |
@@ -615,15 +615,15 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0131445076](../mixtos/ES0131445076.md) | Gestión Boutique VIII Adarve Altea FI | Activa | EUR | Flexible Allocation | 1,13 | 16,06 | 3 | 5 |
 | [ES0131445142](../mixtos/ES0131445142.md) | GB VIII INVER VALUE GBL FN | Activa | EUR | Flexible Allocation | 1,14 | 12,96 | 4 | 5 |
 | [LU0397155978](../mixtos/LU0397155978.md) | GSQuartix Modified Strategy on the Bloomberg Commodity IndexTotal Return Portfolio A EUR | Activa | EUR | Commodities Broad Basket | 1,15 | 10,60 | 4 | — |
-| ES0184694034 | Welzia Ahorro 5 FI | Activa | EUR | Cautious Allocation | 1,15 | 4,57 | 2 | 4 |
+| [ES0184694034](../mixtos/ES0184694034.md) | Welzia Ahorro 5 FI | Activa | EUR | Cautious Allocation | 1,15 | 4,57 | 2 | 4 |
 | [ES0105243002](../mixtos/ES0105243002.md) | Acacia Bonomix Plata FI | Activa | EUR | Cautious Allocation | 1,16 | 6,62 | 2 | 4 |
 | [ES0184593004](../mixtos/ES0184593004.md) | Welzia Global Opportunities FI | Activa | EUR | Flexible Allocation | 1,21 | 11,81 | 3 | 4 |
 | [LU1966822956](../mixtos/LU1966822956.md) | CARTESIO FUNDS INCOME R ACC EU | Activa | EUR | Cautious Allocation | 1,22 | 7,38 | 2 | 5 |
 | [FR0010996736](../mixtos/FR0010996736.md) | La Française Protectaux R | Activa | EUR | Miscellaneous | 1,23 | 3,55 | 3 | — |
 | [ES0131445092](../mixtos/ES0131445092.md) | ESFERA III VETUST INVR ACC EUR | Activa | EUR | Flexible Allocation | 1,26 | 16,87 | 5 | 5 |
 | [ES0175414012](../mixtos/ES0175414012.md) | Dunas Valor Equilibrio R FI | Activa | EUR | Flexible Allocation | 1,27 | — | 2 | — |
-| LU0112799290 | Swisscanto (LU) Portfolio Fund Committed Select (EUR) | Activa | EUR | Cautious Allocation | 1,27 | 5,99 | 2 | 4 |
-| LU0161534358 | Swisscanto (LU) Portfolio Fund Committed Select (EUR) | Activa | EUR | Cautious Allocation | 1,27 | 6,00 | 3 | 4 |
+| [LU0112799290](../mixtos/LU0112799290.md) | Swisscanto (LU) Portfolio Fund Committed Select (EUR) | Activa | EUR | Cautious Allocation | 1,27 | 5,99 | 2 | 4 |
+| [LU0161534358](../mixtos/LU0161534358.md) | Swisscanto (LU) Portfolio Fund Committed Select (EUR) | Activa | EUR | Cautious Allocation | 1,27 | 6,00 | 3 | 4 |
 | ES0139146015 | Finaccess Estrategia Dividendo Mixto R FI | Activa | EUR | Moderate Allocation | 1,29 | 6,94 | 3 | 2 |
 | DE000A0D95Q0 | Oddo BHF Polaris Moderate DRW EUR | Activa | EUR | Cautious Allocation | 1,29 | 3,78 | 2 | 3 |
 | [LU1254136416](../mixtos/LU1254136416.md) | ALLIANZ CAPITAL PLUS AT ACC EUR | Activa | EUR | Cautious Allocation | 1,30 | 2,55 | 3 | 2 |
@@ -666,7 +666,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0161533624](../mixtos/LU0161533624.md) | Swisscanto (LU) Portfolio Fund Committed Balance (EUR) | Activa | EUR | Moderate Allocation | 1,44 | 8,82 | 3 | 4 |
 | [ES0131444053](../mixtos/ES0131444053.md) | GESTION BOUTIQUE VII HARAMBEE ACC | Activa | EUR | Moderate Allocation | 1,45 | 7,29 | 3 | 3 |
 | [ES0168799015](../mixtos/ES0168799015.md) | Gestión Boutique IV JPB Biotech FI | Activa | EUR | Flexible Allocation | 1,45 | — | 3 | — |
-| ES0131445126 | Gestión Boutique VIII Global Gradient | Activa | EUR | Flexible Allocation | 1,45 | 10,84 | 5 | 2 |
+| [ES0131445126](../mixtos/ES0131445126.md) | Gestión Boutique VIII Global Gradient | Activa | EUR | Flexible Allocation | 1,45 | 10,84 | 5 | 2 |
 | [LU1458463236](../mixtos/LU1458463236.md) | JPMorgan Investment Funds - Global Income Conservative Fund A (div) - EUR | Activa | EUR | Cautious Allocation | 1,45 | 4,82 | 3 | 2 |
 | [ES0114904008](../mixtos/ES0114904008.md) | BRIGHTGATE FOCUS FI A ACC EUR | Activa | EUR | Flexible Allocation | 1,46 | 20,84 | 4 | 5 |
 | [ES0137435006](../mixtos/ES0137435006.md) | CI ENVIRONMENT ISR FI | Activa | EUR | Moderate Allocation | 1,46 | 9,27 | 3 | 3 |
@@ -679,24 +679,24 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [ES0168779009](../mixtos/ES0168779009.md) | PATRIMONIO MIXTO EUROPA, FI | Activa | EUR | Moderate Allocation | 1,47 | — | 4 | — |
 | [ES0138806031](../mixtos/ES0138806031.md) | Welzia Coyuntura FI | Activa | EUR | Flexible Allocation | 1,47 | 12,28 | 3 | 4 |
 | [ES0107479000](../mixtos/ES0107479000.md) | AKIRA GLOBAL VALUE, FI | Activa | EUR | Flexible Allocation | 1,48 | — | 3 | — |
-| ES0111193001 | ATTITUDE SHERPA NA AC EUR | Activa | EUR | Flexible Allocation | 1,48 | 11,56 | 6 | 5 |
+| [ES0111193001](../mixtos/ES0111193001.md) | ATTITUDE SHERPA NA AC EUR | Activa | EUR | Flexible Allocation | 1,48 | 11,56 | 6 | 5 |
 | [ES0140072028](../mixtos/ES0140072028.md) | Abaco Renta Fija Mixta Global C FI | Activa | EUR | Cautious Allocation | 1,48 | 3,95 | 3 | 4 |
-| ES0168797027 | Gestión Boutique II Akumal Global FI | Activa | EUR | Flexible Allocation | 1,48 | 7,35 | 5 | — |
-| LU2790323492 | Multi Solutions - Pictet Road To Megatrends 2028-P EUR | Activa | EUR | Allocation Miscellaneous | 1,48 | — | 3 | — |
-| LU0634509953 | NORDEA BALANCED INCOME BP EUR | Activa | EUR | Cautious Allocation | 1,48 | 2,44 | 3 | 1 |
-| ES0111089001 | ATMOS GLOBAL FI | Activa | EUR | Flexible Allocation | 1,49 | 10,84 | 4 | 4 |
+| [ES0168797027](../mixtos/ES0168797027.md) | Gestión Boutique II Akumal Global FI | Activa | EUR | Flexible Allocation | 1,48 | 7,35 | 5 | — |
+| [LU2790323492](../mixtos/LU2790323492.md) | Multi Solutions - Pictet Road To Megatrends 2028-P EUR | Activa | EUR | Allocation Miscellaneous | 1,48 | — | 3 | — |
+| [LU0634509953](../mixtos/LU0634509953.md) | NORDEA BALANCED INCOME BP EUR | Activa | EUR | Cautious Allocation | 1,48 | 2,44 | 3 | 1 |
+| [ES0111089001](../mixtos/ES0111089001.md) | ATMOS GLOBAL FI | Activa | EUR | Flexible Allocation | 1,49 | 10,84 | 4 | 4 |
 | [LU0557872479](../mixtos/LU0557872479.md) | Amundi Funds - Volatility World A EUR (C) | Activa | EUR | Options Trading | 1,49 | 3,32 | 5 | — |
-| ES0168798033 | Gestión Boutique III Investkey Equilibrio FI | Activa | EUR | Moderate Allocation | 1,49 | 2,29 | 3 | 1 |
+| [ES0168798033](../mixtos/ES0168798033.md) | Gestión Boutique III Investkey Equilibrio FI | Activa | EUR | Moderate Allocation | 1,49 | 2,29 | 3 | 1 |
 | LU0048292394 | BLI GLOBAL 30 B ACC EUR | Activa | EUR | Cautious Allocation | 1,50 | 8,12 | 3 | 4 |
 | LU0251131362 | Fidelity Funds - Fidelity Target™ 2030 (Euro) Fund A-Acc-EUR | Activa | EUR | Target Date | 1,50 | 7,67 | 3 | 3 |
 | LU0215159145 | Fidelity Funds - Fidelity Target™ 2030 (Euro) Fund A-Dist-EUR | Activa | EUR | Target Date | 1,50 | 7,68 | 3 | 3 |
 | [ES0138217031](../mixtos/ES0138217031.md) | Gesconsult Renta fija flexible | Activa | EUR | Cautious Allocation | 1,50 | 4,76 | 2 | 3 |
 | ES0126969007 | Magnus International Allocation FI | Activa | EUR | Moderate Allocation | 1,50 | 7,69 | 3 | 3 |
-| LU1697016365 | Selection Defensive Class A EUR | Activa | EUR | Cautious Allocation | 1,50 | 1,86 | 2 | 2 |
+| [LU1697016365](../mixtos/LU1697016365.md) | Selection Defensive Class A EUR | Activa | EUR | Cautious Allocation | 1,50 | 1,86 | 2 | 2 |
 | LU0504302356 | Triodos Impact Mixed Fund-Neutral EUR R Capitalisation | Activa | EUR | Moderate Allocation | 1,50 | 6,21 | 3 | 2 |
-| FR0010611293 | Echiquier Arty SRI A | Activa | EUR | Cautious Allocation | 1,51 | 3,98 | 2 | 3 |
-| ES0168798066 | GESTION BOUTIQ III EFE&ENE MOM | Activa | EUR | Flexible Allocation | 1,51 | 10,33 | 3 | 4 |
-| ES0131462022 | Gestion Boutique V Robotics R FI | Activa | EUR | Flexible Allocation | 1,51 | 10,22 | 5 | 4 |
+| [FR0010611293](../mixtos/FR0010611293.md) | Echiquier Arty SRI A | Activa | EUR | Cautious Allocation | 1,51 | 3,98 | 2 | 3 |
+| [ES0168798066](../mixtos/ES0168798066.md) | GESTION BOUTIQ III EFE&ENE MOM | Activa | EUR | Flexible Allocation | 1,51 | 10,33 | 3 | 4 |
+| [ES0131462022](../mixtos/ES0131462022.md) | Gestion Boutique V Robotics R FI | Activa | EUR | Flexible Allocation | 1,51 | 10,22 | 5 | 4 |
 | LU1239090977 | Aberdeen Standard SICAV I - Diversified Income Fund A MInc Hedged EUR | Activa | EUR | Cautious Allocation | 1,52 | 5,71 | 3 | 4 |
 | ES0116848005 | Global Allocation R FI | Activa | EUR | Allocation Miscellaneous | 1,52 | -5,42 | 4 | — |
 | ES0156554026 | Rho Selección C FI | Activa | EUR | Flexible Allocation | 1,52 | 16,33 | 3 | 5 |
