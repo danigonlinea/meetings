@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1752
+**Fondos: 1980** · con ficha previa: 1754
 
 | Clase | Fondos |
 | --- | --- |
@@ -1727,7 +1727,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU0572940194](../rv-otros/LU0572940194.md) | Janus Henderson Horizon Asian Dividend Income Fund A3q EUR | Activa | EUR | Asia ex-Japan Equity | 1,97 | 16,88 | 4 | 2 |
 | [LU0746413003](../rv-otros/LU0746413003.md) | UBS EQ ASIAN SMALLER COMPANIES PACC USD | Activa | USD | Asia ex-Japan Equity | 2,00 | -3,92 | 4 | 2 |
 | [LU0529499989](../rv-otros/LU0529499989.md) | GAM Multistock - Asia Focus Equity USD B | Activa | USD | Asia ex-Japan Equity | 2,01 | 16,42 | 5 | 3 |
-| IE00B12V2V27 | Pinebridge Asia EX Japan Small Cap EQ A AC USD | Activa | USD | Asia ex-Japan Equity | 2,08 | 9,12 | 4 | 3 |
+| [IE00B12V2V27](../rv-otros/IE00B12V2V27.md) | Pinebridge Asia EX Japan Small Cap EQ A AC USD | Activa | USD | Asia ex-Japan Equity | 2,08 | 9,12 | 4 | 3 |
 | LU0390135415 | TEMPLETON ASIAN SMCO A ACC EUR | Activa | EUR | Asia ex-Japan Equity | 2,15 | 7,11 | 4 | 3 |
 | BE6324061496 | DPAM EQ DRAGN SUST B ACC EUR | Activa | EUR | Asia Equity | 2,29 | 12,74 | 4 | 1 |
 | LU0256780874 | Candriam Equities L Australia N EUR Cap | Activa | EUR | Australia & New Zealand Equity | 2,34 | 8,51 | 4 | 2 |
@@ -1818,7 +1818,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [LU2145463613](../sectoriales/LU2145463613.md) | Robeco Smart Materials D EUR | Activa | EUR | Equity Miscellaneous | 1,71 | 10,69 | 5 | — |
 | [LU2145463704](../sectoriales/LU2145463704.md) | RobecoSAM Smart Materials Equities D USD | Activa | USD | Equity Miscellaneous | 1,71 | 10,69 | 5 | — |
 | [LU0232524495](../sectoriales/LU0232524495.md) | AB AMERICAN GROWTH PORTFOLIO A ACC EUR | Activa | EUR | US Equity Large Cap Growth | 1,72 | 12,92 | 5 | 3 |
-| LU1700710939 | Robeco Global FinTech Equities D € | Activa | EUR | Technology Sector Equity | 1,72 | 5,16 | 5 | 2 |
+| [LU1700710939](../sectoriales/LU1700710939.md) | Robeco Global FinTech Equities D € | Activa | EUR | Technology Sector Equity | 1,72 | 5,16 | 5 | 2 |
 | LU2145461757 | Robeco Smart Energy D EUR | Activa | EUR | Energy Sector Equity | 1,72 | 19,65 | 5 | 5 |
 | [AT0000A03N37](../sectoriales/AT0000A03N37.md) | ERSTE WWF Stock Environment EUR R01 VT | Activa | EUR | Global Equity Mid/Small Cap | 1,73 | -1,10 | 5 | 1 |
 | LU0262307720 | Jupiter Financial Innovt L Eur Acc | Activa | USD | Financials Sector Equity | 1,73 | 29,69 | 5 | 2 |
