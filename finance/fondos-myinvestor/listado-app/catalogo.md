@@ -14,7 +14,7 @@ Fuente: `MyInvestor.html` (página guardada de la app, snapshot 2026-11-20).
 Datos completos en [`fondos.json`](fondos.json); campos ausentes marcados `—` y pendientes en el JSON.
 Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si no la del snapshot.
 
-**Fondos: 1980** · con ficha previa: 1327
+**Fondos: 1980** · con ficha previa: 1328
 
 | Clase | Fondos |
 | --- | --- |
@@ -1198,7 +1198,7 @@ Agrupación por clase efectiva: la de la ficha cuando existe (investigada), si n
 | [IE00BDFVDR63](../rv-usa/IE00BDFVDR63.md) | iShares US Index (IE) Instl Acc EUR | Indexada | EUR | US Equity Large Cap Blend | 0,16 | 17,70 | 5 | 4 |
 | [LU2037301368](../rv-usa/LU2037301368.md) | Goldman Sachs North America Enhanced Index Sustainable Equity - I Cap USD | Indexada | USD | US Equity Large Cap Blend | 0,19 | 17,80 | 4 | 3 |
 | [LU1811363917](../rv-usa/LU1811363917.md) | iShares North America Equity Index Fund (LU) D2 USD (EUR) | Indexada | EUR | US Equity Large Cap Blend | 0,23 | 18,32 | 5 | 4 |
-| ES0165269004 | MUTUAFONDO RV EEUU FI D ACC EU | Activa | EUR | US Equity Large Cap Value | 0,28 | 12,15 | 4 | 2 |
+| [ES0165269004](../rv-usa/ES0165269004.md) | MUTUAFONDO RV EEUU FI D ACC EU | Activa | EUR | US Equity Large Cap Value | 0,28 | 12,15 | 4 | 2 |
 | [LU1049757120](../rv-usa/LU1049757120.md) | AMUNDI INDEX MSCI NORTH AMERICA  AHE | Indexada | EUR | US Equity Large Cap Blend | 0,30 | 14,95 | 4 | — |
 | [LU0389812420](../rv-usa/LU0389812420.md) | Amundi IS MSCI North America AE-D | Indexada | EUR | US Equity Large Cap Blend | 0,30 | 16,96 | 4 | 3 |
 | [LU0442407853](../rv-usa/LU0442407853.md) | Amundi IS MSCI North America AU-C | Indexada | USD | US Equity Large Cap Blend | 0,30 | 16,96 | 4 | 3 |
