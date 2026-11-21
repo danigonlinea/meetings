@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veinticinco carteras propias y una de referencia"
+title: "Cartera: veintiséis carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-definitiva-40, cartera-de-andres, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek, cartera-ai-letter-keinesei-twitter, cartera-ai-azvalor-consejo]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-definitiva-40, cartera-de-andres, cartera-ai-fondos-2000-lista, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek, cartera-ai-letter-keinesei-twitter, cartera-ai-azvalor-consejo, cartera-ai-nucleo-satelites]
 status: living
 ---
-# Cartera: veinticinco carteras propias y una de referencia
+# Cartera: veintiséis carteras propias y una de referencia
 
-Veinticinco patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintiséis patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -39,6 +39,7 @@ se escribe en un documento aparte con su propia fecha.
 | `cartera-ai-fondos-2000-lista-glm/` | **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1098 %, convicción activa 1,1801 %, equilibrada 55/45 0,4250 %, defensiva con alternativos 0,7277 % y crecimiento con satélites 0,9423 %), de 34,91 % a 87,64 % de RV. La condición del titular de **ningún fondo repetido entre las cinco** se cumple con 50 fondos distintos, verificados en el MCP | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-fondos-2000-lista-deepseek/` | ⚠️ **C5 elegida, pendiente de la revisión del titular** (99,48 % de RV, 764,60 €/año, 618.617 € a 15 años; 15 años y 1.500 €/mes). **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1292 %, convicción activa 1,4344 %, equilibrada con crédito activo 0,4929 %, defensiva con alternativos 0,6076 % y crecimiento con satélites 0,7646 %), de 34,06 % a 99,48 % de RV, con **37 fondos sin repetir** entre ellas y **diez de los trece fondos que nombró el titular** dentro. Sin lista negra heredada | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-azvalor-consejo/` | **Una talla, 100.000 €**, traducida de una entrevista a **Beltrán Parages** (Azvalor, *La Pizarra de Andrés*, 11/2026): todo en equity, beneficio de la duda para el índice y cuatro filtros para la excepción. **60 % indexado** (45 % MSCI World desarrollado al 0,06 % y 15 % Europa al 0,10 %) y **40 % en tres value** (20 % Azvalor Internacional, 10 % Magallanes European, 10 % Cobas Large Cap al 0,96 % en vez de la internacional al 2,33 % y en *soft close*). **93,17 % de RV real, 709 €/año (0,709 %), caída −37,27 % y ≈6,83 % esperado**; cero renta fija, cero monetario y cero comisiones de éxito. Cinco órdenes, una antes de las 09:00 (precio del 0,06 %), y el 20 % de Azvalor cautivo 12 meses por su comisión de reembolso del 3 % | `README.md` de mapa + `100k.md` (la cartera entera: mandato con su precio, ISIN, bloques, geografía y sectores, tilts, variantes, backtest en dos pasadas, esperanza, comparador, órdenes, descartes con número y disparadores) |
+| `cartera-ai-nucleo-satelites/` | **Una talla, 100.000 €**, la regla **núcleo-satélite** para un inversor de 40 años con 15 de horizonte: **80 % de núcleo** (50 % MSCI World al 0,06 %, 9 % emergentes, 6 % small caps, 15 % agregado global 1-5Y cubierto) y **20 % de satélites** con rol y prueba fechada (10 % Brandes European Value, 5 % Hermes Asia ex-Japan, 5 % Nomura Japan Strategic Value cubierto). **84,33 % de RV real, 400,80 €/año (0,401 %), caída −34,20 %** y **5,85 % esperado sin prima** (6,16 % con la prima de empate de 1,54 pp que el bloque activo necesita para pagarse) | `100k.md` (la cartera entera: mandato con su precio, estado del mercado con fecha, ISIN verificados, bloques, geografía en dos bases, coste, alfa de empate, escenarios con la orden dentro, aportaciones, descartes con número y pendientes) |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
 rebalancea y no compite con las anteriores del dueño. Se actualiza con la skill `cartera-andres` cuando se
@@ -245,6 +246,17 @@ monetario y sin comisiones de éxito. Lo que la fuente no puede dar está escrit
 mineras se descarta—, no entra en China —cero emergentes— y no convierte al índice en enemigo: el 60 % paga el
 precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo que el entrevistado llama caro.
 
+`cartera-ai-nucleo-satelites/` responde a la pregunta «cómo se monta una cartera núcleo-satélite» y no nace de
+ninguna otra: **el núcleo es el edificio y los satélites son tres convicciones con rol y con fecha**. El 80 % del
+dinero va en cuatro indexados (mundo, emergentes, small caps y agregado corto) que cuestan **73,80 €/año**; el 20 %
+restante, en Europa value (Brandes), Asia sin Japón (Hermes) y Japón cubierto a euros (Nomura), que son las tres
+geografías donde el índice no tiene un vehículo que decida. **84,33 % de RV, 400,80 €/año y −34.201 € de caída a los
+40**, con el 47,2 % de la RV en EE. UU. frente al 71,7 % del índice. Lo que hay que leer antes de la tabla: el bloque
+activo **no mejora la cartera en el caso base** —cuesta 307,00 €/año más que el índice y necesita **1,54 pp/año**
+netos para empatar—, así que está escrito como apuesta de alfa con listón, comparador honesto y prueba el 30/11/2029,
+no como una mejora gratuita. La caída del mercado del 21/11/2026 (S&P −11,5 %, emergentes −24,4 %) no cambia los
+pesos: cambia el orden de las órdenes.
+
 ## Reglas
 
 - **Un dato, un sitio.** En las carteras con dinero real los saldos viven en su `cartera-actual.md` y las
@@ -274,6 +286,8 @@ precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo qu
   `revision-YYYY-QN.md` en esta carpeta.
 
 ## Estado a 20/11/2026
+
+- **`cartera-ai-nucleo-satelites` (21/11/2026, sin ejecutar):** `100k.md`. La regla núcleo-satélite a los 40 con 15 años: **núcleo del 80 %** en cuatro indexados (World 50 % al 0,06 %, EM 9 %, small caps 6 %, agregado 1-5Y 15 %) y **satélites del 20 %** en tres activos (Brandes European Value 10 % —su mínimo de 10.000 € fija el peso—, Hermes Asia ex-Japan 5 %, Nomura Japan Strategic Value cubierto 5 %). **84,33 % de RV real, 400,80 €/año (0,401 %), caída de manual −34.201 € (−34,20 %), estrés −37.947 €**, y **5,85 % esperado sin prima** frente a **6,16 % del comparador 100 % indexado**: el bloque activo necesita **1,54 pp/año netos** (307,00 €/año de sobrecoste sobre 20.000 €) solo para empatar, con prueba el 30/11/2029. Estado del mercado al 21/11/2026 con cifras: S&P 500 −11,5 % y MSCI World en euros −7,2 % desde su máximo, emergentes −24,4 %; la caída cambia el orden de las órdenes, no los pesos. 7/7 ISIN verificados en el MCP el 21/11 (acumulación, sin ETF, sin soft close). Pendientes: importe real, si hay aportación mensual, tolerancia al −34.201 € y fecha de ejecución.
 
 - **`cartera-ai-azvalor-consejo` (20/11/2026, sin ejecutar):** una cartera de 100.000 € traducida de la entrevista a Beltrán Parages (Azvalor, *La Pizarra de Andrés*, 11/2026). **60 % indexado** (45 % iShares Developed World al 0,06 % + 15 % Fidelity MSCI Europe al 0,10 %) y **40 % en tres value** (20 % Azvalor Internacional al 1,88 %, 10 % Magallanes European al 1,95 % y 10 % Cobas Large Cap al 0,96 %) — **el índice es el edificio y el 40 % es la pieza**, con un listón de 1,42 pp/año de alfa bruto y 36.487 € de pérdida a 20 años si no lo alcanza —. **93,17 % de RV real**, **709,00 €/año (0,709 %)**, caída de manual −37,27 % (−37.268 €), **≈6,83 % esperado** (cubre comisión 6,575 %; cero alfa bruto 6,058 %; 100 % índice 6,625 %) y 374.856 € a 20 años. **Cero renta fija, cero monetario, cero emergentes, cero comisiones de éxito**, 5/5 clases de acumulación verificadas en el MCP. Descartados con número: Cobas Internacional (2,33 % y soft close), Cobas Selección (2,05 %), Azvalor Managers (2,32 %), Azvalor Iberia (1,91 %), Magallanes Iberian (1,80 %), Vanguard Global Stock (0,18 %), BGF World Mining (2,06 % y reparte) y Allianz Metals (1,85 %). Prueba de alfa del bloque activo fechada el 30/11/2031 con umbral de 1 pp/año. Pendientes: si los 100.000 € son invertibles, tolerancia al −37 %, aportaciones y fecha de ejecución.
 
