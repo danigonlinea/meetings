@@ -14,7 +14,8 @@ no comparte saldos, ni propuesta, ni cifras.
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
 | `cartera-actual.md` | **Foto congelada** del estado a 02/11/2026: saldos, pesos, OGC, look-through, duración estimada | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
-| `propuesta-actual.md` | **La propuesta viva**: veredicto, problemas, rangos de mejora (4 niveles), recomendación, órdenes, descartes y límites | **Sí** |
+| `propuesta-actual.md` | **La propuesta viva a corto**: veredicto, problemas, rangos de mejora (4 niveles), recomendación, órdenes, descartes y límites | **Sí** |
+| `propuesta-largo-plazo.md` | **La propuesta a largo plazo (21/11/2026)**: Kaizen al 25 %, Akira Global Value valorado al 6 %, RV del 15 % al 50 %, seis órdenes por traspaso. **No sustituye a `propuesta-actual.md`** hasta que el titular la adopte | **Sí** |
 
 ## Estado a 02/11/2026
 
@@ -28,10 +29,14 @@ no comparte saldos, ni propuesta, ni cifras.
 
 ## Pendiente
 
-- Confirmar el recorte de Kaizen: 25% (recomendado) o 30% (suave).
+- **Decidir el nivel de RV a largo plazo** (`propuesta-largo-plazo.md` §2): 50 % (recomendado, caída
+  −7.343 €) o 40 % (−6.043 €). Es la única decisión que cambia la cartera; el resto son consecuencias.
+- **Decidir Akira**: 6 % con sus tres facturas (1,48 % + 9 % de éxito + 47,6 % en liquidez) o 0 % y la
+  variante sin Akira (203,72 €/año, misma caída).
+- Verificar la **custodia de Akira** en R4 y la **comisión de suscripción de AXA** antes de la orden 1.
+- Confirmar el recorte de Kaizen: 25 % (recomendado en las dos propuestas) o 30 % (suave).
 - Clase de Fidelity **verificada** en r4.com (30/10/2026): IE00BYX5NX33, mínimo 50 €, OGC 0,10% +
-  custodia 0,19%. Solo queda lanzar el traspaso parcial.
-- Confirmar si Renta 4 aplica la comisión de suscripción del 3% de AXA (no debería).
+  custodia 0,19%.
 - Verificar el OGC real de Kaizen (0,96% publicado vs 1,25% + 0,10% declarados).
 
 ## Reglas de esta carpeta

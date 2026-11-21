@@ -15,7 +15,7 @@ se escribe en un documento aparte con su propia fecha.
 | Carpeta | Qué es | Documentos |
 | --- | --- | --- |
 | `cartera-myinvestor/` | 100.000 € = 90.000 € invertibles (60.000 € manuales + 30.000 € de Rock) + 10.000 € de colchón | `cartera-actual.md` (foto 30/10) + `propuesta-pieza.md` (**la cartera final desde el 18/11/2026, ⚠️ pendiente de la revisión del titular antes de ejecutar**: 38,3 % de indexado como pieza, 23,3 % de convicción activa, trece fondos, 54,6 % de RV, 529,90 €/año, 23 traspasos en dos fases y 1.000 €/mes) + `propuesta-actual.md` (superada el 18/11, se conserva por su §2: el criterio del 55 %) + `propuesta-acciones.md` (complemento de acciones) |
-| `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) |
+| `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) + `propuesta-largo-plazo.md` (largo plazo: Kaizen al 25 %, Akira al 6 %, RV del 15 % al 50 %) |
 | `cartera-ai/` | **Tres tallas del mismo diseño** de coste mínimo: `100k.md` (7 fondos + 4 acciones, 74,9 % RV, 0,116 %), `150k.md` (9 + 6, 74,8 %, 0,113 %) y `200k.md` (9 + 6, 74,8 %, 0,113 %) | Un fichero por talla; cada uno es la cartera entera (ISIN/ticker, órdenes, coste, descartes) |
 | `cartera-ai-andres/` | **Dos tallas** con el criterio de Andrés, sin acciones: `100k.md` (11 fondos, 60,3 % RV, 0,46 %) y `200k.md` (14 fondos, 60,0 %, 0,51 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, órdenes, descartes y señales) |
 | `cartera-ai-no-indexados/` | **Dos tallas con dos condiciones únicas**: ningún fondo indexado y ninguno que reparta dividendos (`100k.md`, 10 fondos activos, 80 % RV, 1,37 %; `200k.md`, 12 fondos, 80 %, 1,42 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, aportación mensual y señales) |
@@ -322,9 +322,13 @@ pesos: cambia el orden de las órdenes.
   escrito. Pendientes: gastos reales del colchón, comisión de suscripción en pantalla y si los 7.000 € de
   aportación nueva están en la cuenta. Alternativas con su precio: nivel A (`cartera-ai-rock-desmontado/`)
   y Rock fija (`cartera-ai-rock-index-value-todo/`).
-- **Renta 4:** auditoría nueva. 15,3% de RV real, 0,83% de coste (287 €/año) y 65,7% del patrimonio en
-  bonos corporativos. Recomendación: **Kaizen se queda** y se recorta al 25%, con 3.618 € a un indexado
-  global (21,2% de RV, 0,76% de coste). Pendiente: confirmar el recorte y la clase del fondo de destino.
+- **Renta 4:** dos propuestas vivas sobre la misma foto. **A corto** (`propuesta-actual.md`): Kaizen se
+  queda y se recorta al 25 %, con 3.618 € a un indexado global (21,2 % de RV, 0,76 %). **A largo plazo**
+  (`propuesta-largo-plazo.md`, 21/11/2026): **Kaizen al 25 %**, **Akira Global Value al 6 %** (1,48 % de
+  OGC + 9 % de éxito y 47,6 % en liquidez) y **RV del 14,9 % al 50 %** con Fidelity MSCI World y Amundi
+  Core EM; **228,86 €/año (0,658 %)**, caída **−21,12 % (−7.343 €)** y esperanza del 4,86 %; seis traspasos
+  y 0 € de impuestos. Pendiente: el nivel de RV (50 % o 40 %), si Akira entra al 6 % y verificar la custodia
+  de Akira y la suscripción de AXA.
 - **cartera-ai:** tres tallas cerradas el 15/11/2026, sin ejecutar. 100k (7 fondos + 4 acciones, 0,116 %),
   150k (9 + 6, 0,113 %) y 200k (9 + 6, 0,113 %). Pendientes: clase del núcleo y comisión de acciones del
   bróker.
