@@ -20,6 +20,11 @@ related:
 > hasta que el titular la adopte; las dos responden a mandatos distintos: la v2 arregla lo urgente con un
 > traspaso, esta responde a «cómo mejorar a largo plazo».
 >
+> **21/11/2026, segunda pasada — el titular descarta los indexados en esta cartera.** La composición vigente pasa
+> a ser la de **§11 (sin indexados)**: Kaizen 25 %, Sigma Internacional 26,08 %, Magallanes European 12 %,
+> Akira 8 %, RF R 17,93 % y 6 Meses 10,99 %. **§3-§4 se conservan como referencia del precio de ese mandato**
+> —el índice cuesta 164 €/año menos y da +0,50 pp más—, pero **no es la cartera a ejecutar**.
+>
 > **Plataforma.** Todo comprable en **Renta 4 Banco** y todo por **traspaso entre fondos armonizados**: 0 € de
 > impuestos y la plusvalía de 638,69 € sigue diferida. No se mueve dinero a MyInvestor.
 >
@@ -263,6 +268,86 @@ como en §3. El corte que manda es el del **fondo de destino**. Liquidación: 3-
 3. **Verificar la custodia de Akira y la comisión de suscripción de AXA** antes de lanzar la orden 1.
 4. **Repetir la revisión** cuando cambien los saldos, cuando Akira cumpla un año (19/06/2027) o cuando
    Kaizen/RF R cambien de política.
+
+## 11. Variante sin indexados (mandato vigente desde el 21/11/2026)
+
+**Lo que el titular pidió:** esta cartera sin fondos indexados, manteniendo Kaizen y Akira. Todo lo demás
+del documento sigue en pie (RV 50 %, traspasos, sin ETFs, plataforma Renta 4). Lo que cambia es el bloque
+de renta variable, que ya no puede ser beta barata: **pasa a ser cuatro gestores activos, todos value y casi
+todos europeos**.
+
+| # | Rol | Fondo | ISIN | € | % | Coste real | €/año | RV real |
+| --: | --- | --- | --- | --: | --: | --: | --: | --: |
+| 1 | Flexible de autor | Kaizen Global Income FI | ES0156674006 | 8.692,30 | 25,00 % | 0,96 % + 9 % éxito | 83,45 | 41,8 % |
+| 2 | **Núcleo activo global** | Sigma Internacional A FI | ES0175902008 | 9.068,98 | 26,08 % | 1,45 % + 9 % éxito | 131,50 | 93,3 % |
+| 3 | **Value europeo** | Magallanes European Equity M FI | ES0159259011 | 4.172,30 | 12,00 % | 1,81 % | 75,52 | 93,1 % |
+| 4 | Small/mid con caja neta | Akira Global Value FI | ES0107479000 | 2.781,54 | 8,00 % | 1,48 % + 0,19 % + 9 % éxito | 46,45 | 50,4 % |
+| 5 | Crédito corto euro | Renta 4 Renta Fija R FI | ES0176954008 | 6.233,53 | 17,93 % | 0,71 % | 44,26 | 0 % |
+| 6 | Liquidez | Renta 4 Renta Fija 6 Meses FI | ES0128520006 | 3.820,55 | 10,99 % | 0,31 % | 11,84 | 0 % |
+| | **Total** | **6 fondos · 4 gestoras** | | **34.769,20** | **100 %** | **1,130 %** | **393,02** | **50,00 %** |
+
+- **RV real 50,00 %** (17.385 €), RF 12.025 €, liquidez 5.069 €. **Caída de manual −21,04 % (−7.315 €)**:
+  prácticamente la misma que la versión indexada (−7.343 €), porque el % de RV es el mismo.
+- **Con comisión de éxito, en un año bueno** (Sigma +10 %, Kaizen +8 %, Akira +10 %): +169 € →
+  **562 €/año (1,62 %)**. Tres de los seis fondos cobran el 9 %.
+- **Todo comprable al importe de su línea**: Sigma pide 1 €, Magallanes una participación (~276 €), Akira 10 €.
+
+### 11.1 El precio del mandato, en números
+
+| Concepto | Con índice (§3) | Sin índice (§11) | Diferencia |
+| --- | --: | --: | --: |
+| Coste base | 228,86 €/año (0,658 %) | **393,02 €/año (1,130 %)** | **+164,16 €/año** |
+| Esperanza neta de costes | 4,21 % | **3,71 %** | **−0,50 pp** |
+| 34.769 € a 15 años | 64.510 € | **60.049 €** | **−4.461 €** |
+| EE. UU. dentro de la RV | 44 % | **8,4 %** | −35,6 pp |
+| Gestores | 4 (2 de ellos indexados) | 4 activos | — |
+
+- **Quitar el índice no sube el riesgo de mercado: lo concentra.** La cartera deja de tener 1.200 empresas
+  desarrolladas y pasa a tener cuatro libros value: energía en Sigma (22 % del fondo), materiales e industria
+  en Magallanes (58 % entre los dos), small caps en Akira. **Cero growth, cero gran tecnológica americana.**
+- **El 8,4 % de EE. UU. no es un defecto del diseño: es el mandato.** Un MSCI World lleva el 72 % allí; para
+  replicar eso sin índice no hay vehículo en la parrilla de R4.
+- **Los emergentes desaparecen como bloque.** Sigma lleva 6,8 % de China y Akira nada: no hay sustituto activo
+  barato en R4 que haga de bloque de emergentes.
+
+### 11.2 Lo que sí compra el mandato
+
+| Fondo | 2022 | 5A anual | Vol 3A | Qué aporta |
+| --- | --: | --: | --: | --- |
+| Sigma Internacional | **+15,53 %** | +13,14 % | 13,14 % | Value global con 22 % de energía y 8 % de EE. UU.: ganó el año en que el mundo cayó un 12,8 % |
+| Magallanes European Equity M | **+4,94 %** | +10,84 % | 12,74 % | Value europeo con sesgo industrial y de materiales; positivo en 2022 |
+| Kaizen Global Income | — | — | 6,89 % (1A) | Flexible: 42 % bolsa, 38 % crédito, 16 % caja. Nació en 2025: no tiene 2022 |
+| Akira Global Value | — | — | — | Small/mid con caja neta. Nació en 2026: no tiene 2022 |
+
+- **Los dos fondos de renta variable que existían en 2022 acabaron ese año en positivo**, y el índice mundial
+  en −12,84 %. Es un solo año y no es una promesa: es la única evidencia disponible y se cita como tal.
+- **La prueba fechada del §5 se mantiene**, ahora con cuatro líneas: cada una contra su referencia neta de su
+  TER a tres años (21/11/2029); dos años seguidos por debajo, esa línea se traspasa.
+
+### 11.3 Las órdenes (una fila por orden)
+
+| # | Origen | ISIN | € | Destino | ISIN | Corte |
+| --: | --- | --- | --: | --- | --- | --- |
+| 1 | AXA Euro Credit Total Return A (total) | LU1164219682 | 5.913,75 | Sigma Internacional A FI | ES0175902008 | 12:00 |
+| 2 | Kaizen Global Income (parcial) | ES0156674006 | 3.155,23 | Sigma Internacional A FI | ES0175902008 | 12:00 |
+| 3 | Renta 4 Renta Fija R (parcial) | ES0176954008 | 4.172,30 | Magallanes European Equity M FI | ES0159259011 | 12:00 |
+| 4 | Kaizen Global Income (parcial) | ES0156674006 | 462,93 | Akira Global Value FI | ES0107479000 | 12:00 |
+| 5 | Renta 4 Renta Fija R (parcial) | ES0176954008 | 1.867,41 | Akira Global Value FI | ES0107479000 | 12:00 |
+| 6 | Renta 4 Renta Fija 6 Meses (parcial) | ES0128520006 | 451,20 | Akira Global Value FI | ES0107479000 | 12:00 |
+
+**Cuadre:** orígenes 16.022,82 € = destinos 16.022,82 € (9.068,98 + 4.172,30 + 2.781,54). AXA sale entera,
+Kaizen vende 3.618,16 € y queda en 8.692,30 €, RF R vende 6.039,71 € y el monetario 451,20 €. Todo por
+traspaso entre fondos armonizados: **0 € de impuestos**.
+
+### 11.4 Lo que se descarta en esta variante
+
+| Candidato | Por qué no |
+| --- | --- |
+| Cobas Internacional P (LU1598719752) | **Soft close anunciado**: «solo los inversores que ya sean partícipes podrán seguir invirtiendo». No es comprable para dinero nuevo, y su TER es el 2,33 % |
+| Brandes European Value A (IE0031574647) | **Mínimo de 10.000 €**, el 29 % de la cartera en una sola línea. El fondo es bueno (98,9 % RV, 5A +14,4 %, UK 27 %, Francia 22 %); el mínimo es lo que lo mata a esta talla |
+| Azvalor Internacional (ES0112611001) | No figura como comercializado en Renta 4 en la ficha de financial-hub (21/11/2026); confirmar en pantalla antes de darlo por imposible |
+| Un tercer value español más | Con Sigma, Magallanes, Kaizen y Akira ya hay cuatro libros value: un quinto no diversifica estilo, solo añade comisión |
+| Bajar el 50 % de RV | Sería responder a un problema de concentración con menos bolsa; si el titular quiere menos caída, el nivel 2 (40 %) se recalcula con estas mismas líneas |
 
 ## Fuentes
 
