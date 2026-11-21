@@ -165,6 +165,9 @@ Geografía: Reino Unido 12,4 %, España 11,3 %, Alemania 8,3 %, Dinamarca 4,6 %,
 - **Veredicto: entra, pero al 6 % y con nombre y apellidos.** Es un cheque al proceso de Aitor con un peso que
   puede perderse entero sin cambiar la cartera, no un bloque de RV. Por encima del 10 % dejaría de ser un
   satélite y sería la segunda apuesta del diseño.
+- **Si el titular quiere más Akira, el techo es el 10 %** (3.476,92 €): coste **245,60 €/año (0,706 %)**, Aitor
+  al 35 % y la misma caída (−7.326 €), porque el 50 % de RV no se mueve. Cada punto extra cuesta 16,75 €/año y
+  compra 0,5 pp de bolsa con 0,5 pp de caja.
 - **La alternativa indexada, si lo que se quiere es el factor tamaño y no el gestor:** Vanguard Global
   Small-Cap Index EUR Acc (IE00B42W4L06, 0,29 % + 0,19 % custodia = **0,48 %**), miles de empresas frente a 36 y
   sin éxito. Sobre 2.086 € la diferencia son **24,80 €/año**; no es el argumento. El argumento es que Akira
