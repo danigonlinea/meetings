@@ -105,11 +105,35 @@ redondeados. La columna de caída es la que decide: es el dinero que hay que pod
 
 - **Con comisión de éxito, en un año bueno** (Kaizen +8 %, Akira +10 %): +81,40 € → **310,26 € (0,89 %)**.
   En un año plano, 228,86 €.
-- **Dentro de la RV**, el índice pesa el 74 % (World 59 %, EM 15 %), Kaizen el 21 % y Akira el 6 %. **El 26 %
-  de la renta variable no es el índice**, que es lo que pedía la tesis de Aitor: el indexado como pieza, no
-  como edificio.
 - **Duración agregada: ≈1,1 años** (antes 2,41). El impacto de +100 pb pasa de **−587 € a ≈−240 €**, porque
   sale AXA (3,75 años) y el 48 % de Akira es liquidez.
+- **Dentro de la RV**, el índice pesa el 73 % (World 58 %, EM 15 %), Kaizen el 21 % y Akira el 6 %. **El 26 %
+  de la renta variable no es el índice**, que es lo que pedía la tesis de Aitor: el indexado como pieza, no
+  como edificio.
+### 3.1 Cuánto pesa Kaizen: 25 % o 30 %
+
+Subir Kaizen **no sube la RV** (el fondo solo tiene un 41,8 % de bolsa): el dinero extra sale del índice,
+así que la cartera mantiene el 50 % de RV y lo que cambia es **cuánto se paga por el mismo riesgo**.
+
+| Kaizen | € | Coste | €/año | Aitor (Kaizen + Akira) | Renta 4 Gestora | Índice dentro de la RV |
+| --: | --: | --: | --: | --: | --: | --: |
+| **25 % (recomendado)** | 8.692,30 | 0,658 % | **228,85** | **31,0 %** | 63,2 % | 73 % |
+| 30 % | 10.430,76 | 0,682 % | 237,17 | 36,0 % | 65,3 % | 69 % |
+| 35 % | 12.169,22 | 0,706 % | 245,49 | 41,0 % | 67,4 % | 65 % |
+| 40 % | 13.907,68 | 0,730 % | 253,81 | 46,0 % | 69,5 % | 61 % |
+
+- **Cada 5 pp que se le dan a Kaizen cuestan +8,32 €/año** de OGC (0,96 % frente al 0,38 % del índice) más
+  ≈12,50 € de éxito en un año del +8 %. En euros no es nada; el problema es otro.
+- **El problema de subirlo es de quién es la decisión.** Kaizen es un fondo de 27 M€ lanzado en junio de 2025:
+  a partir del 30 % Aitor decide un tercio de esta cartera y a partir del 35 % la decide él solo con Akira
+  (41 %). Al 25 % sigue siendo la primera posición y el titular conserva la tesis sin entregarle la cartera.
+- **Lo que se paga al subirlo no es comisión, es transparencia**: 5 pp más en Kaizen son 5 pp menos en un
+  monetario al 0,31 % y un crédito corto al 0,71 %, con la misma duración y el mismo riesgo de crédito.
+- **Si el titular quiere más peso, el techo razonable es el 30 %**: +8,32 €/año, Aitor al 36 % y el índice
+  todavía en el 69 % de la RV. Por encima del 35 % deja de ser una cartera con un fondo y pasa a ser el fondo
+  con una cartera alrededor.
+
+
 
 ## 4. Akira Global Value: lo que es, lo que cuesta y dónde entra
 
