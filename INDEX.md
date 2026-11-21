@@ -29,6 +29,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/portfolio/cartera-ai-fondos-2000-lista-deepseek/C1-indice-coste-minimo.md` | reference | finance | 2026-11-20 | C1 — Índice de coste mínimo · 100.000 € | [cartera, fondos, myinvestor, cartera-ai-fondos-2000-lista-deepseek, c1] |
 | `finance/portfolio/cartera-ai-azvalor-consejo/100k.md` | portfolio-proposal | finance | 2026-11-20 | Cartera del consejo de Azvalor: 100 % bolsa, 60 % índice y 40 % en tres value, 709 €/año (100.000 €) | [cartera, propuesta, azvalor, value, indexado, materias-primas, energia, myinvestor, fondos, beltrán-parages] |
 | `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-19 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
+| `finance/videos/la-pizarra-de-andres/2026-11-19-si-tienes-dinero-hacer-dca-no-sirve-para-nada/summary.md` | meeting-summary | finance | 2026-11-19 | Si tienes dinero, hacer DCA no sirve para nada | [dca, entrada-de-golpe, 60-40, tamano-de-la-cartera, perfil-de-riesgo, msci-world, sp500, concentracion, indexacion, ejecucion] |
 | `finance/portfolio/cartera-myinvestor/propuesta-70-30.md` | portfolio-proposal | finance | 2026-11-19 | Propuesta 70/30: siete indexados, 69,6 % de RV y 102,85 €/año (90.000 € invertibles) | [cartera, propuesta, myinvestor, 70-30, indexado, ishares, vanguard, sensata, eficiente, diversificada, 40-anos, traspasos] |
 | `finance/portfolio/cartera-ai-final-conservadora/100k.md` | portfolio-proposal | finance | 2026-11-19 | Cartera-ai final conservadora: 12 fondos, 38,3 % de indexado y 4,8 % esperado (100.000 €) | [cartera, propuesta, final, conservadora, 55-45, myinvestor, traspaso, credito-corto, value, indexado, clase-institucional, rentabilidad-esperada] |
 | `finance/portfolio/cartera-ai-final-atrevida/110k.md` | portfolio-proposal | finance | 2026-11-19 | Cartera-ai final atrevida: 12 fondos, 82,2 % de RV real y ≈6,1 % esperado (110.000 €) | [cartera, propuesta, atrevida, myinvestor, fondos, indexado, value, emergentes, small-caps, monetario, groupama, rentabilidad-esperada] |
@@ -167,6 +168,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 161
+**Total de artefactos indexados:** 162
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
