@@ -5,6 +5,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/portfolio/cartera-indexado-ladrillo-15-anos/100k.md` | portfolio-proposal | finance | 2026-11-21 | Cartera de 100.000 € con el indexado como ladrillo: 45 % de RV, colchón absoluto y 1,27 % de coste | [cartera, propuesta, activa, indexado-ladrillo, 15-anos, golpe-unico, retorno-absoluto, credito, cat-bonds, value, myinvestor, acumulacion] |
 | `finance/portfolio/cartera-ai-nucleo-satelites/100k.md` | portfolio-proposal | finance | 2026-11-21 | Cartera-ai núcleo-satélites 100k: 80 % de núcleo indexado y 20 % de satélites con prueba fechada | [cartera, cartera-ai-nucleo-satelites, 100k, nucleo-satelite, indexado, satelites, 15-anos, 40-anos, myinvestor] |
 | `finance/portfolio/cartera-definitiva-40/100k.md` | portfolio-proposal | finance | 2026-11-20 | Cartera definitiva a los 40: seis indexados, 83,4 % de RV y 92 €/año (100.000 €) | [cartera, propuesta, definitiva, 40-anos, indexado, ishares, vanguard, myinvestor, fondos, renta-fija, europa, inflacion, aportaciones, horizonte-largo] |
 | `finance/portfolio/cartera-ai-letter-keinesei-twitter/100k.md` | portfolio-proposal | finance | 2026-11-20 | Cartera de la tesis «no hay burbuja»: 66,7 % de RV, 30 % de colchón y 1.024,20 €/año (100.000 €) | [cartera, propuesta, ia, tecnologia, kobeissi, myinvestor, fondos, calidad, infraestructura, liquidez, renta-fija-corta] |
@@ -166,6 +167,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 160
+**Total de artefactos indexados:** 161
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
