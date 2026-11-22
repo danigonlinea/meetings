@@ -1,5 +1,4 @@
 ---
----
 title: "Cartera 100k · 15 años · crecimiento indexado"
 date: "2026-11-21"
 type: "portfolio-proposal"
