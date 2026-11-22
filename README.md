@@ -19,14 +19,15 @@ finance/                        inversión y finanzas
     README.md                   mapa de las dos carpetas y reglas
     cartera-myinvestor/         MyInvestor: 97.000 € (manual + Rock)
     cartera-renta4/             Renta 4 Banco: 34.769 €
-  fondos-myinvestor/            BD parcial de fondos de acumulación del MCP (205 fichas; volcado
-                                detenido por los términos del servicio; ver su README.md)
+  fondos-myinvestor/            BD de fondos de MyInvestor (2.007 fichas en 12 carpetas de clase:
+                                205 del volcado MCP detenido + snapshot completo de 1.980 fondos de
+                                listado-app; ver su README.md)
   reports/                      informes de canal, síntesis y auditorías (el `type` los distingue)
 ai/                             IA
   dev-docs-explained/           Dev Docs Explained (agentes, Claude, LLMs)
   ai-engineer/                  charlas de AI Engineer: NYC 2026 y Code Summit 2026
     catalogo.md                 catálogo generado de las charlas y su estado
-  reports/                      se crea con el primer informe de IA
+  reports/                      informes y síntesis de IA
 reference/                      glosario de ponentes y nombres, glosario técnico
 tools/                          catálogo de webinars, generador de INDEX.md y verificación
 ytpipe/                         CLI que descarga la transcripción de YouTube
@@ -46,7 +47,7 @@ Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpe
 
 ## Convenciones
 
-- **Nombres de carpeta:** `YYYY-MM-DD-<slug-kebab-sin-acentos>`, ≤6 palabras tras la fecha.
+- **Nombres de carpeta:** `YYYY-MM-DD-<slug-kebab-sin-acentos>`, ≤10 palabras tras la fecha.
 - **Nombres de archivo:** `YYYY-MM-DD-<slug>.md`, kebab-case, sin acentos. Los resúmenes de
   reunión se llaman siempre `summary.md`.
 - **Frontmatter YAML** obligatorio en todo `.md`:
@@ -61,7 +62,7 @@ Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpe
       | portfolio-alternative | reference
   category: ai | finance | cross
   tags: [ … ]
-  status: draft | final | living
+  status: draft | final | living | propuesta | superseded | frozen | research
   source: "…"        # opcional, URL del vídeo o de la reunión
   related: [ … ]     # opcional, rutas del repositorio
   ---
@@ -73,8 +74,8 @@ Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpe
 ## Skills
 
 Las skills viven en `.agents/skills/` (`ingest-meeting`, `ingest-channel`,
-`ingest-webinars`, `ingest-charlas-ia`, `informe-semanal`, `revision-cartera`, `cribado-acciones`);
-cuándo usar cada una, en `AGENTS.md`.
+`ingest-webinars`, `ingest-charlas-ia`, `informe-semanal`, `revision-cartera`,
+`cribado-acciones`, `cartera-andres`); cuándo usar cada una, en `AGENTS.md`.
 
 ## Reports: qué es cada uno
 

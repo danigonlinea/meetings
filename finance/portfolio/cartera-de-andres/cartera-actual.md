@@ -5,9 +5,7 @@ type: portfolio-snapshot
 category: finance
 tags: [cartera, cartera-de-andres, la-pizarra-de-andres, myinvestor, cartera-meta, small-caps, value, resultado-mensual]
 status: living
-related:
-  - finance/portfolio/cartera-de-andres/README.md
-  - finance/portfolio/cartera-de-andres/anteriores/2026-10-02-resultados-septiembre.md
+related: [finance/portfolio/cartera-de-andres/README.md, finance/portfolio/cartera-de-andres/anteriores/2026-10-02-resultados-septiembre.md]
 source:
   - finance/videos/la-pizarra-de-andres/2026-11-01-estoy-perdiendo-dinero-con-mis-inversiones-resultados-octubre/summary.md
 ---

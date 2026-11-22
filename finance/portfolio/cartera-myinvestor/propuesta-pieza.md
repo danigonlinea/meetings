@@ -5,11 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, final, pieza-no-edificio, 38-indexado, value, magallanes, horos, cobas-large-cap, renta-fija, rock-desmontado, traspaso, myinvestor, aportaciones]
 status: final
-related:
-  - finance/portfolio/cartera-myinvestor/cartera-actual.md
-  - finance/portfolio/cartera-myinvestor/README.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md
-  - finance/portfolio/README.md
+related: [finance/portfolio/cartera-myinvestor/cartera-actual.md, finance/portfolio/cartera-myinvestor/README.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md, finance/portfolio/README.md]
 ---
 
 # Cartera final — 100.000 €, 18/11/2026

@@ -5,10 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-ai-40-max-index, max-40-indexados, sin-dividendos, acumulacion, myinvestor, 100k, 200k]
 status: final
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/100k.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/200k.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/100k.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/200k.md]
 ---
 
 # Cartera-ai 40 max index — dos tallas, un mandato

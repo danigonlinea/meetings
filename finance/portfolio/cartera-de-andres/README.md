@@ -1,3 +1,12 @@
+---
+title: "Cartera de Andrés: cartera personal de referencia (La Pizarra de Andrés)"
+date: 2026-11-15
+type: reference
+category: finance
+tags: [cartera, indice, cartera-de-andres, la-pizarra-de-andres, referencia]
+status: living
+related: [finance/portfolio/README.md, finance/portfolio/cartera-de-andres/cartera-actual.md]
+---
 # Cartera de Andrés
 
 Cartera **personal de un tercero**: la que Andrés (La Pizarra de Andrés) publica cada mes en su canal.

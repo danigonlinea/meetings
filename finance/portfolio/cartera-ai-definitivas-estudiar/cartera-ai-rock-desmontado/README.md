@@ -5,10 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-ai-rock-desmontado, mapa, indexado, satelite-activo, rock, monetario, myinvestor]
 status: propuesta
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/100k.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/100k.md]
 ---
 
 # Cartera-ai rock-desmontado — mapa

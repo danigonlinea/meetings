@@ -14,14 +14,14 @@ cartera, añade `finance/portfolio/README.md` como cuarto paso.
 | Cartera de MyInvestor (manual + Rock) | `finance/portfolio/cartera-myinvestor/` | `propuesta-actual.md` |
 | Cartera de Renta 4 Banco | `finance/portfolio/cartera-renta4/` | `propuesta-actual.md` |
 | Un fondo, ETF o acción que tiene o le han recomendado | `finance/portfolio/` | Su ficha en el `cartera-actual.md` de la carpeta que lo tenga, luego los `summary.md` que lo nombran |
-| Macro, tipos, inflación, renta fija, mercados | `finance/la-pizarra-de-andres/` | `summary.md` más reciente del tema |
+| Macro, tipos, inflación, renta fija, mercados | `finance/videos/la-pizarra-de-andres/` | `summary.md` más reciente del tema |
 | Gestoras, entrevistas, "qué dice MyInvestor" | `finance/videos/myinvestor-webinars/` | `catalogo.md` → carpeta del webinar → `summary.md` |
-| Visión consolidada o discrepancias entre vídeos | `finance/reports/` | `informe-canal-*` y `sintesis-inversor-*` |
+| Visión consolidada o discrepancias entre vídeos | `finance/reports/` | `informe-canal-*`, `informe-semanal-*` y `sintesis-inversor-*` |
 | Agentes de IA, LLMs, Claude | `ai/dev-docs-explained/` | `summary.md` del vídeo |
 | Charlas de AI Engineer (NYC, Code Summit), agentes de código, evals | `ai/ai-engineer/` | `catalogo.md` → carpeta de la charla → `summary.md` |
 | Nombre de una persona, canal o entidad | `reference/glossary.md` | Tabla de ponentes |
 | Terminología (IA o finanzas) | `reference/glossary-technical.md` | — |
-| Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §11 → `python3 tools/termometro.py` |
+| Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §11 → skill `revision-cartera` |
 
 Las dos carteras son independientes: no se suman, ni se comparan, ni se rebalancea una contra la otra.
 
@@ -50,10 +50,14 @@ Nombres de carpeta, frontmatter YAML y comandos: `README.md`.
 - `ingest-webinars` — webinars o entrevistas de MyInvestor (lista el catálogo y salta lo ya ingerido).
 - `ingest-charlas-ia` — charlas de AI Engineer (NYC 2026, Code Summit 2026): el catálogo manda
   qué falta, y el resumen es técnico, no de inversión.
-- `revision-cartera` — revisión trimestral: mide las señales, corre el termómetro y escribe la
-  revisión. No decide el % de RV.
+- `revision-cartera` — revisión trimestral: revisa cada cartera contra sus propios criterios y
+  escribe la revisión; no puntúa señales y no decide el % de RV.
 - `informe-semanal` — la pasada semanal del agente cloud: descubre, ingiere, escribe el informe con
   candidatos y sube. No pregunta nada.
+- `cribado-acciones` — barre el universo global de acciones sin dividendo (`dividendo = 0` verificado
+  en dos fuentes) y devuelve la tabla con nivel A/B dentro de `propuesta-acciones.md`.
+- `cartera-andres` — actualiza, consulta y analiza la cartera personal de Andrés
+  (`finance/portfolio/cartera-de-andres/`) al ingerir un vídeo de resultados mensuales.
 
 Las tres primeras escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutilizan `ingest-meeting`.
 
@@ -93,7 +97,7 @@ credenciales, dispositivo o juicio del dueño.
 | Ingesta de vídeos, webinars, resúmenes, informes de canal, `INDEX.md` | **Cloud** | No pregunta nada, no usa credenciales, es append-only |
 | Código de `brisadeconil`, `tinytasste`, `food-recipes-database` | **Cloud** (rama + PR) | El merge a `main` se queda en local |
 | Firma Android, Play Console, keystore, emulador, Firebase SA | **Local** | Credenciales y hardware |
-| Revisión de cartera, termómetro, órdenes | **Local** | MCP de datos + decisión del dueño |
+| Revisión de cartera y órdenes | **Local** | MCP de datos + decisión del dueño |
 | Merge a `main` de repos de código | **Local** | Gate humano |
 
 **Excepción de este repositorio:** es datos y documentación, no código desplegable, así que el
@@ -132,5 +136,6 @@ Para recibirlo como mensaje hay que conectar Telegram (o Slack) en esa instancia
 
 ## 7. Cuándo una señal de cartera obliga a revisar
 
-El termómetro avisa; la decisión es del dueño. Los umbrales están en `propuesta-actual.md` §11 y los
-calcula `python3 tools/termometro.py`. La revisión se escribe con la skill `revision-cartera`.
+La decisión sobre el % de RV es siempre del dueño. Los umbrales y el criterio histórico están en
+`propuesta-actual.md` §2 y §11, y cada cartera se revisa contra sus propios criterios con la skill
+`revision-cartera`.

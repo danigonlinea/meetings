@@ -5,11 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-ai-final-conservadora, mapa, final, conservadora, 55-45, myinvestor, credito-corto, rentabilidad-esperada]
 status: propuesta
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-conservadora/100k.md
-  - finance/portfolio/cartera-myinvestor/propuesta-pieza.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-conservadora/100k.md, finance/portfolio/cartera-myinvestor/propuesta-pieza.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md]
 ---
 
 # Cartera-ai final conservadora — mapa

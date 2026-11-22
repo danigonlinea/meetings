@@ -5,13 +5,7 @@ type: portfolio-research
 category: finance
 tags: [cartera, acciones, sin-dividendo, calidad, tecnologia, value, la-pizarra-de-andres, webinars, myinvestor, propuesta]
 status: research
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-myinvestor/propuesta-actual.md
-  - finance/videos/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/summary.md
-  - finance/videos/la-pizarra-de-andres/2026-10-22-gestor-de-renta-4-advierte-sobre-una-gran-recesion/summary.md
-  - finance/videos/la-pizarra-de-andres/2026-10-15-da-miedo-pero-la-ia-puede-solucionar-la-economia-juan/summary.md
-  - finance/videos/myinvestor-webinars/2026-10-20-japon-proxima-gran-oportunidad-en-bolsa/summary.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-myinvestor/propuesta-actual.md, finance/videos/la-pizarra-de-andres/2026-10-30-las-empresas-que-todos-ignoran-son-las-mejores-inversiones/summary.md, finance/videos/la-pizarra-de-andres/2026-10-22-gestor-de-renta-4-advierte-sobre-una-gran-recesion/summary.md, finance/videos/la-pizarra-de-andres/2026-10-15-da-miedo-pero-la-ia-puede-solucionar-la-economia-juan/summary.md, finance/videos/myinvestor-webinars/2026-10-20-japon-proxima-gran-oportunidad-en-bolsa/summary.md]
 ---
 
 # Propuesta de acciones sin dividendo — 04/11/2026

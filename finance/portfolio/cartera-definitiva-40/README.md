@@ -5,10 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-definitiva-40, mapa, 40-anos, indexado, ishares, vanguard, myinvestor, europa, inflacion, aportaciones, horizonte-largo]
 status: propuesta
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-definitiva-40/100k.md
-  - finance/portfolio/cartera-ai-100-index/100k.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-definitiva-40/100k.md, finance/portfolio/cartera-ai-100-index/100k.md]
 ---
 
 # Cartera definitiva a los 40 — mapa

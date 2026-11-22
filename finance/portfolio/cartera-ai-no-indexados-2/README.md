@@ -5,10 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-ai-no-indexados-2, gestion-activa, sin-indexados, sin-dividendos, sin-repetir-fondos, acumulacion, myinvestor, 100k, 200k]
 status: final
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-no-indexados-2/100k.md
-  - finance/portfolio/cartera-ai-no-indexados-2/200k.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-ai-no-indexados-2/100k.md, finance/portfolio/cartera-ai-no-indexados-2/200k.md]
 ---
 
 # Cartera-ai no indexados 2 — dos tallas, tres condiciones, cero fondos repetidos

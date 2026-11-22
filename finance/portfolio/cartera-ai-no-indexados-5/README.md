@@ -5,10 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-ai-no-indexados-5, mapa, sin-indexados, sin-dividendos, sin-repetir-fondos, myinvestor]
 status: final
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-no-indexados-5/100k.md
-  - finance/portfolio/cartera-ai-no-indexados-5/200k.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-ai-no-indexados-5/100k.md, finance/portfolio/cartera-ai-no-indexados-5/200k.md]
 ---
 
 # Cartera-ai no indexados 5 — mapa
