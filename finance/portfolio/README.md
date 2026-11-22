@@ -1,14 +1,14 @@
 ---
-title: "Cartera: veintitrés carteras propias y una de referencia"
+title: "Cartera: veintidós carteras propias y una de referencia"
 date: 2026-11-19
 type: reference
 category: finance
-tags: [cartera, indice, myinvestor, renta4, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-definitiva-40, cartera-de-andres, cartera-ai-fondos-2000-lista-glm, cartera-ai-fondos-2000-lista-deepseek, cartera-ai-azvalor-consejo, cartera-ai-hy4-definitiva, cartera-ai-definitivas-estudiar]
+tags: [cartera, indice, myinvestor, renta4, cartera-ai-andres, cartera-ai-no-indexados, cartera-ai-no-indexados-2, cartera-ai-no-indexados-3, cartera-ai-no-indexados-4, cartera-ai-no-indexados-5, cartera-ai-40-max-index, cartera-ai-100-index, cartera-ai-100-index-2, cartera-ai-100-index-3, cartera-ai-100-index-4, cartera-ai-100-index-5, cartera-ai-rock-index-value-todo, cartera-ai-rock-desmontado, cartera-ai-final-conservadora, cartera-ai-final-atrevida, cartera-definitiva-40, cartera-de-andres, cartera-ai-c4-defensiva, cartera-ai-azvalor-consejo, cartera-ai-hy4-definitiva, cartera-ai-definitivas-estudiar]
 status: living
 ---
-# Cartera: veintitrés carteras propias y una de referencia
+# Cartera: veintidós carteras propias y una de referencia
 
-Veintitrés patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
+Veintidós patrimonios propios separados, con foto y propuesta propias. **No se consolidan**: ninguna cifra de
 una carpeta se suma, se compara ni se rebalancea contra la otra. Si algún día se quiere la vista conjunta,
 se escribe en un documento aparte con su propia fecha.
 
@@ -40,9 +40,8 @@ porque son la cartera viva. Criterio y exclusiones: `cartera-ai-definitivas-estu
 | `cartera-ai-definitivas-estudiar/cartera-ai-final-atrevida/` | **Una talla, 110.000 €**: desde cero, con **10.000 € en el monetario** por mandato y 12 fondos sin ETF (**82,15 % de RV real**, **877,80 €/año (0,798 %)**, caída −33,4 %, **≈6,1 % esperado** con rango 4,0-7,4 %) | Un fichero (`110k.md`): la cartera entera (ISIN, bloques, geografía, tilts, rentabilidad esperada con supuestos, 13 órdenes y descartes con número) |
 | `cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/` | **Una talla, 100.000 €**, con **Rock como pieza de indexado** (30 %, intacta), **monetario escalonado de 14.000 €** (Groupama €STR + DWS Euro Ultra Short) y **trece fondos que no replican índices**: 55,5 % de RV real, 0,615 % de coste total, −23,54 % de caída de manual | Un fichero (`100k.md`): la cartera entera (ISIN, razón fondo a fondo, métricas, 17 traspasos, descartes con número y señales) |
 | `cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/` | **Una talla, 100.000 €**, **Rock desmontado por traspaso** y su cupo gastado en índice limpio: núcleo MSCI World al 0,06 %, emergentes, small caps y REITs indexados, RF corta indexada, monetario de 14.500 € y **dos satélites activos** (Europa low-vol y cat bonds). 55,31 % de RV real, **236,10 €/año (0,236 %)**, −23,46 % de caída | Un fichero (`100k.md`): la cartera entera (ISIN, métricas contra las otras propuestas, 20 traspasos en dos fases y descartes con número) |
-| `cartera-ai-fondos-2000-lista-glm/` | **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1098 %, convicción activa 1,1801 %, equilibrada 55/45 0,4250 %, defensiva con alternativos 0,7277 % y crecimiento con satélites 0,9423 %), de 34,91 % a 87,64 % de RV. La condición del titular de **ningún fondo repetido entre las cinco** se cumple con 50 fondos distintos, verificados en el MCP | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
-| `cartera-ai-fondos-2000-lista-deepseek/` | ⚠️ **C5 elegida, pendiente de la revisión del titular** (99,48 % de RV, 764,60 €/año, 618.617 € a 15 años; 15 años y 1.500 €/mes). **Cinco carteras de 100.000 € con un criterio cada una** (índice de coste mínimo 0,1292 %, convicción activa 1,4344 %, equilibrada con crédito activo 0,4929 %, defensiva con alternativos 0,6076 % y crecimiento con satélites 0,7646 %), de 34,06 % a 99,48 % de RV, con **37 fondos sin repetir** entre ellas y **diez de los trece fondos que nombró el titular** dentro. Sin lista negra heredada | `README.md` de mapa + `C1…C5-*.md` + `fondos-revisados.md`, `validacion.md`/`.json` y `diseno.json` |
 | `cartera-ai-azvalor-consejo/` | **Una talla, 100.000 €**, traducida de una entrevista a **Beltrán Parages** (Azvalor, *La Pizarra de Andrés*, 11/2026): todo en equity, beneficio de la duda para el índice y cuatro filtros para la excepción. **60 % indexado** (45 % MSCI World desarrollado al 0,06 % y 15 % Europa al 0,10 %) y **40 % en tres value** (20 % Azvalor Internacional, 10 % Magallanes European, 10 % Cobas Large Cap al 0,96 % en vez de la internacional al 2,33 % y en *soft close*). **93,17 % de RV real, 709 €/año (0,709 %), caída −37,27 % y ≈6,83 % esperado**; cero renta fija, cero monetario y cero comisiones de éxito. Cinco órdenes, una antes de las 09:00 (precio del 0,06 %), y el 20 % de Azvalor cautivo 12 meses por su comisión de reembolso del 3 % | `README.md` de mapa + `100k.md` (la cartera entera: mandato con su precio, ISIN, bloques, geografía y sectores, tilts, variantes, backtest en dos pasadas, esperanza, comparador, órdenes, descartes con número y disparadores) |
+| `cartera-ai-definitivas-estudiar/cartera-ai-c4-defensiva/` | **La más defensiva del contenedor**: 100.000 € en ocho fondos, **34,06 % de RV real**, **44,00 % de indexado** (32 % Vanguard Global Stock + 12 % iShares Euro Government), tres alternativos descorrelacionados (market neutral, retorno absoluto y cat bonds) y colchón de deuda pública, **607,60 €/año (0,6076 %)** con cuatro comisiones de éxito y caída −15,07 %. Promovida el 22/11/2026 desde la C4 de `cartera-ai-fondos-2000-lista-deepseek` | `README.md` de mapa + `100k.md` |
 | `cartera-ai-definitivas-estudiar/cartera-ai-hy4-definitiva/` | ⚠️ **Cartera finalista, pendiente de la revisión del titular, sin órdenes** (22/11/2026): 100.000 € a 15 años con tope del 35 % en indexados, nacida del cribado de las tres variantes de `cartera-ai-fondos-2000-lista*` (2.007/1.980/2.007 fichas, 108 ISIN finalistas). 65,5 % de RV real, 537,10 €/año (0,537 %), cero comisiones de éxito, +7,99 % anualizado en backtest y 5,11 % neto estimado sin alfa | `README.md` de mapa + `100k.md` |
 
 `cartera-de-andres/` es material de **análisis**, no una cartera del dueño: no se suma, no se
@@ -77,6 +76,17 @@ acciones individuales), `cartera-ai-nucleo-satelites/` (84,33 % y 400,80 € con
 `-deepseek`). Los documentos siguen en el historial de git y las cifras que otras carteras citaban contra ellas se
 mantienen donde hacían falta, sin enlace. **`cartera-ai-definitivas-estudiar/` no se toca**: sus siete carteras se
 quedan y siguen mandando sobre su propio documento.
+
+El mismo día se llevó la criba a las **dos familias de cinco diseños**. De las diez carteras de
+`cartera-ai-fondos-2000-lista-deepseek` y `-glm`, una se promovió y nueve se retiraron. La promovida es la **C4 de
+deepseek** (44,00 % de indexado, 34,06 % de RV, 607,60 €/año), que pasa a
+`cartera-ai-definitivas-estudiar/cartera-ai-c4-defensiva/`: es la única de las diez que cae cerca de la banda de
+indexado que el titular estudia —el contenedor sube su techo del 40 % al 45 % por ella— y la única con perfil
+defensivo. Se retiran **C1, C2, C3 y C5 de deepseek** (100 %, 0 %, 55 % y 60 % de indexado) y **las cinco de
+`-glm`** (100 %, 0 %, 53 %, 17 % y 55 %): ninguna entraba en la banda ni con el techo ampliado, y la C5 —marcada
+como elegida el 20/11, 99,48 % de RV y 764,60 €/año— solo ganaba a `cartera-definitiva-40` por encima del 6,93 %
+bruto, con el 62 % del dinero en EE. UU. y el 33 % en tecnología. Sus documentos, su `fondos-revisados.md` y su
+`validacion.md` siguen en el historial de git.
 
 `cartera-definitiva-40/` es **la cartera de referencia del titular a su edad** (40 años, 19/11/2026) y no nace de
 ninguna otra: seis indexados, **92,00 €/año (0,092 %)** —la más barata del repositorio—, **83,39 % de RV real**,
@@ -209,32 +219,6 @@ núcleo replica un índice que ya está así; la C5 de deepseek, con 99,5 % de R
 mejora gratuita. Los dos
 documentos, con toda su auditoría, siguen en el historial de git.
 
-`cartera-ai-fondos-2000-lista-glm/` es el mismo encargo del 20/11/2026 repetido —mismo universo de 1.980 fichas,
-misma condición de no-repetición, esta vez con las cinco carteras entregadas completas—: índice de coste mínimo
-(66,54 % de RV por 109,80 €/año), convicción activa (79,81 % por 1.180,10 €), equilibrada 55/45 (54,38 % por
-425,00 €), defensiva con alternativos (34,91 % por 727,70 €) y crecimiento con satélites (87,64 % por 942,30 €).
-Los 60 ISIN candidatos se verificaron en el catálogo MCP el 20/11/2026 y esa verificación cambió el diseño
-cuatro veces: GS US Enhanced cobraba 1,60 % y no el 0,70 % del snapshot (beta mejorada, fuera), Avantage
-Pure Equity estaba cerrado a dinero nuevo, el Vanguard Euro Government Investor estaba en soft close (se usa la
-clase nueva) y dos clases exigían mínimos de 100.000-500.000 €. La no-repetición entre las cinco se comprobó
-por código sobre el markdown escrito: 50 líneas, 50 ISIN, 50 fondos. Con la cartera hermana
-`cartera-ai-fondos-2000-lista/` el solape es 1 de 50 (Hermes Asia ex-Japan R), documentado en su `validacion.md`.
-
-`cartera-ai-fondos-2000-lista-deepseek/` es el **tercer diseño del mismo encargo**, con una diferencia de
-método: parte de los **trece fondos que el titular puso sobre la mesa** y los evalúa uno a uno antes de
-diseñar. Diez entran y tres se caen por número (Algebris Financial Credit no existe en el catálogo en su
-versión de crédito, el M&G EM Bond solo tiene clase de reparto y el Ábaco RF Mixta Global está dominado por
-Dunas en las tres columnas). Las cinco carteras van de **34,06 % a 99,48 % de RV** y de **129,20 € a
-1.434,40 €/año**: índice de coste mínimo (69,47 % de RV por 129,20 €), convicción activa (97,60 % por
-1.434,40 €), equilibrada con crédito activo (55,05 % por 492,90 €), defensiva con alternativos (34,06 % por
-607,60 €) y crecimiento con satélites (99,48 % por 764,60 €). **37 fondos sin repetir**, comprobados por
-ISIN, por nombre normalizado y por clase hermana; el test cazó un duplicado real (dos clases del mismo
-iShares Emerging Markets) que obligó a rehacer la última cartera. Solape con las hermanas: **6 de 37**,
-publicado con el precio de la alternativa en su `README.md`. La verificación de plataforma fue de **54 ISIN
-en 8 llamadas** y cambió seis decisiones: dos soft close (Vanguard US 500 Investor y Okavango Delta) y cuatro
-mínimos inalcanzables (Dodge & Cox 50.000 €, BlueBox I 150.000 €, Algebris Financial Equity I 500.000 €,
-M&G Japan Smaller 500.000 €).
-
 `cartera-ai-azvalor-consejo/` nace igual de una fuente ajena, pero de una **entrevista de gestor** y no de un
 artículo: Beltrán Parages (Azvalor) en *La Pizarra de Andrés* (11/2026), resumida por el titular con la cita
 «yo me lo sé porque tengo todo mi dinero aquí». Su primera regla es **todo en equity** y su segunda, que solo un
@@ -280,8 +264,6 @@ precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo qu
 - **`cartera-ai-azvalor-consejo` (20/11/2026, sin ejecutar):** una cartera de 100.000 € traducida de la entrevista a Beltrán Parages (Azvalor, *La Pizarra de Andrés*, 11/2026). **60 % indexado** (45 % iShares Developed World al 0,06 % + 15 % Fidelity MSCI Europe al 0,10 %) y **40 % en tres value** (20 % Azvalor Internacional al 1,88 %, 10 % Magallanes European al 1,95 % y 10 % Cobas Large Cap al 0,96 %) — **el índice es el edificio y el 40 % es la pieza**, con un listón de 1,42 pp/año de alfa bruto y 36.487 € de pérdida a 20 años si no lo alcanza —. **93,17 % de RV real**, **709,00 €/año (0,709 %)**, caída de manual −37,27 % (−37.268 €), **≈6,83 % esperado** (cubre comisión 6,575 %; cero alfa bruto 6,058 %; 100 % índice 6,625 %) y 374.856 € a 20 años. **Cero renta fija, cero monetario, cero emergentes, cero comisiones de éxito**, 5/5 clases de acumulación verificadas en el MCP. Descartados con número: Cobas Internacional (2,33 % y soft close), Cobas Selección (2,05 %), Azvalor Managers (2,32 %), Azvalor Iberia (1,91 %), Magallanes Iberian (1,80 %), Vanguard Global Stock (0,18 %), BGF World Mining (2,06 % y reparte) y Allianz Metals (1,85 %). Prueba de alfa del bloque activo fechada el 30/11/2031 con umbral de 1 pp/año. Pendientes: si los 100.000 € son invertibles, tolerancia al −37 %, aportaciones y fecha de ejecución.
 
 
-- **`cartera-ai-fondos-2000-lista-glm` (20/11/2026, sin ejecutar):** las cinco carteras completas del mismo encargo, **50 fondos sin repetir entre ellas** (50 líneas, 50 ISIN, comprobados por código), RV de 34,91 % (C4) a 87,64 % (C5), coste de 109,80 € a 1.180,10 €/año. Sin lista negra heredada; 50/50 clases de acumulación; 60 ISIN verificados en el MCP con cuatro correcciones de diseño (TER real, fondo cerrado, soft close y dos mínimos). Solape con la cartera hermana: 1 de 50. Pendientes: horizonte, colchón, aportaciones y fecha de ejecución.
-- **`cartera-ai-fondos-2000-lista-deepseek` (20/11/2026, sin ejecutar):** cinco carteras de 100.000 € con un criterio cada una, **37 fondos sin repetir entre ellas** (37 líneas, 37 ISIN, comprobados por código por ISIN, nombre normalizado y clase hermana), RV de 34,06 % (C4) a 99,48 % (C5), coste de 129,20 € a 1.434,40 €/año. Diez de los trece fondos que nombró el titular entran. Sin lista negra heredada; 37/37 clases de acumulación; 54 ISIN verificados en el MCP con seis correcciones de diseño (dos soft close y cuatro mínimos inalcanzables). Solape con las hermanas: 6 de 37, con el precio de la alternativa escrito. Parámetros fijados el 20/11: horizonte 15 años, 1.500 €/mes y comisiones de éxito admitidas; **C5 es la ganadora y queda marcada ⚠️ pendiente de la revisión del titular, sin órdenes** (99,48 % de RV, 764,60 €/año, 618.617 € a 15 años en el escenario base, con plan de aportaciones en su §8). Pendiente: colchón y tolerancia a la caída.
 
 - **`cartera-ai-final-atrevida` (19/11/2026, sin ejecutar):** `110k.md`. Desde cero, 110.000 € con 10.000 en Groupama: **12 fondos**, **82,15 % de RV real**, **877,80 €/año (0,798 %)**, caída de manual −33,4 % (−36.733 €) y **≈6,1 % esperado** (4,1 % real; rango 4,0-7,4 %). **13 órdenes en una sesión**, con Brandes atado a su mínimo de 10.000 €. Descartados con número: Magallanes (peor que Brandes en 3A y 5A), T. Rowe (solapa), Cobas Large Cap (69,3 % de RV), Ashoka EM (USD sin cubrir), CROCI Japón (yen sin cubrir), el Agg 1-5Y (TIR 2,6 %), el bono emergente (6,7 % de vol) y el cat bond (8 días). Pendientes: horizonte del titular, si el monetario es permanente y si habrá aportaciones.
 
@@ -388,4 +370,5 @@ precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo qu
   (0,08 pp de esperanza por 5 % de peso) y las líneas de país (tilt, no diversificación). Pendientes: confirmar
   horizonte 15+ años, colchón fuera y aportación mensual; el TER real de la clase S en pantalla (KID 0,06 % frente
   a `management_fee` 0,09 % de la ficha) y la fecha de ejecución.
+- **`cartera-ai-c4-defensiva` (22/11/2026, sin ejecutar):** `100k.md`. La más defensiva del contenedor de estudio: **34,06 % de RV real**, **44,00 % de indexado** (32 % Vanguard Global Stock + 12 % iShares Euro Government), tres alternativos descorrelacionados (market neutral, retorno absoluto y cat bonds) y colchón de deuda pública. **607,60 €/año (0,6076 %)** con cuatro comisiones de éxito, caída −15,07 % y ocho órdenes en una sesión. Promovida desde la C4 de `cartera-ai-fondos-2000-lista-deepseek`; las otras nueve de las dos familias de cinco quedan retiradas. Pendientes: horizonte, aportaciones y aprobación del % de RV.
 - **`cartera-ai-hy4-definitiva` (22/11/2026, sin ejecutar):** `100k.md`. ⚠️ Finalista, pendiente de la revisión del titular y sin órdenes. Cribado de las tres variantes de `cartera-ai-fondos-2000-lista*`. 35 % indexado, 65,5 % de RV real, 537,10 €/año (0,537 %) y sin comisiones de éxito. Pendiente: aprobación del % de RV y colchón.
