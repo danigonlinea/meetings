@@ -8,7 +8,7 @@ description: Usar cuando toque la revisión trimestral de una cartera o cuando e
 ## Metadatos
 
 - Carpeta: `finance/portfolio/`. Cada cartera tiene su propio fichero: `cartera-myinvestor/`,
-  `cartera-renta4/`, `cartera-ai/<talla>.md`, `cartera-ai-definitivas-estudiar/cartera-ai-andres/<talla>.md`.
+  `cartera-renta4/`, `cartera-ai-definitivas-estudiar/cartera-ai-andres/<talla>.md`.
 - Salida: `finance/portfolio/revision-YYYY-QN.md` con `type: portfolio-review`.
 - Esta skill **no decide** el % de RV ni ejecuta órdenes. Ordena los hechos y escribe la revisión.
 
@@ -30,7 +30,6 @@ documento y no de una plantilla:
 | --- | --- | --- |
 | `cartera-myinvestor/` | 55/45 en diez fondos solo, coste real mínimo, colchón fuera | Que cambie el horizonte, la necesidad de liquidez o la tolerancia declarada |
 | `cartera-renta4/` | Auditoría de una cuenta heredada: recortar el peso en bonos corporativos | Que se ejecute el recorte o cambie la clase de destino |
-| `cartera-ai/<talla>.md` | Coste mínimo: indexado + acciones sin dividendo, RV fija por talla | Que se ejecute una talla o cambie el mandato del titular |
 | `cartera-ai-definitivas-estudiar/cartera-ai-andres/<talla>.md` | Criterio de Andrés: núcleo indexado pequeño, gestión activa, RF y liquidez | Que cambie el mandato, el horizonte o el coste de un vehículo |
 
 Si una cartera no tiene criterio escrito, eso es el hallazgo de la revisión: se escribe antes de proponer

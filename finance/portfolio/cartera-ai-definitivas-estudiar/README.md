@@ -27,8 +27,6 @@ carpeta sigue siendo un patrimonio independiente con su criterio, su fecha y su 
 - **`cartera-myinvestor/`** tiene dos documentos en el rango (`propuesta-pieza.md`, 38,3 % y
   `propuesta-actual.md`, 34,0 %), pero **no se mueve**: es la carpeta de la cartera viva de MyInvestor y sus
   documentos son los que se ejecutan. Para estudiarlas, se leen en su sitio.
-- **`cartera-pizarra-tres-voces/`** (45 % de beta indexada: 37 % World + 8 % emergentes) queda **por encima**
-  del rango.
 - **`cartera-ai-fondos-2000-lista-deepseek/C4`** (44 %: 32 % Vanguard Global Stock + 12 % iShares Euro
   Government Bond) también queda por encima.
 

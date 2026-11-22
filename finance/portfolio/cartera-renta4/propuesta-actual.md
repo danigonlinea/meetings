@@ -8,7 +8,6 @@ status: propuesta
 related:
   - finance/portfolio/cartera-renta4/cartera-actual.md
   - finance/portfolio/cartera-renta4/propuesta-2026-11-02.md
-  - finance/portfolio/cartera-pizarra-tres-voces/100k.md
 ---
 
 # Cartera Renta 4 — la propuesta
