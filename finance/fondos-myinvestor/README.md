@@ -4,8 +4,9 @@ Dos capas sobre las mismas carpetas de clase (`<clase>/<ISIN>.md`):
 
 - **Fichas MCP:** del catálogo MCP, solo acumulación. Volcado **detenido** (ver abajo).
 - **Fichas del listado de la app:** los 1.980 fondos de `listado-app/`, con datos web
-  (quefondos, Finect) y política de dividendos investigada por fondo. En construcción
-  por lotes con `tools/fichas_listado.py`.
+  (quefondos, Finect) y política de dividendos investigada por fondo. Completado: **2.007
+  fichas totales en disco** en **12 carpetas de clase** (1.980 del listado + 27 fichas MCP
+  fuera del listado), con **0 pendientes** en `python3 tools/fichas_listado.py estado`.
 
 > **Estado del volcado MCP: PARCIAL Y DETENIDO (2026-11-19).** 205 fichas de 2.197. El volcado se detuvo al
 > alcanzar el límite de uso del MCP: sus [términos](https://mcp.myinvestor.es/terms) prohíben
@@ -34,11 +35,12 @@ Los que distribuyen cupones o dividendos quedan excluidos por regla del titular.
 
 [`listado-app/`](listado-app/README.md) es la capa del listado de búsqueda de la app,
 guardado manualmente por el titular el 2026-11-19 y parseado con
-`tools/parsear_listado_myinvestor.py` (`fondos.json` + catálogo por clase). Cada fondo
-tendrá su ficha web en la carpeta de clase correspondiente (plantilla y reglas en
-`listado-app/plantilla-ficha.md`; progreso con `python3 tools/fichas_listado.py estado`).
-Incluye fondos de cualquier política de dividendos; lo que no se encuentre queda
-`Pendiente`. No reanuda ni sustituye al volcado MCP detenido.
+`tools/parsear_listado_myinvestor.py` (`fondos.json` + catálogo por clase). Los 1.980
+fondos ya tienen su ficha web escrita en la carpeta de clase correspondiente —2.007 fichas
+totales en disco en 12 carpetas de clase sumando las 27 fichas MCP fuera del listado; 0
+pendientes en `python3 tools/fichas_listado.py estado`— (plantilla y reglas en
+`listado-app/plantilla-ficha.md`). Incluye fondos de cualquier política de dividendos; lo
+que no se encuentre queda `Pendiente`. No reanuda ni sustituye al volcado MCP detenido.
 
 ## Clases
 
@@ -55,6 +57,7 @@ Incluye fondos de cualquier política de dividendos; lo que no se encuentre qued
 | `rv-emergentes/` | Bolsa emergente |
 | `rv-otros/` | Otras regiones (Asia-Pacífico, Canadá, …) |
 | `sectoriales/` | Sectoriales y temáticos (satélites) |
+| `alternativos/` | Alternativos, retorno absoluto y market neutral |
 
 Regla de clasificación: tipo de activo declarado; si falta, asignación real
 (`alloc_equity`/`alloc_bond`/`alloc_cash`). Dentro de la bolsa: sector → global →

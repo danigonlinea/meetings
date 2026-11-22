@@ -5,10 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-ai-100-index-4, solo-indexados, sin-dividendos, acumulacion, sin-fondos-repetidos, myinvestor, 100k, 200k]
 status: final
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-100-index-4/100k.md
-  - finance/portfolio/cartera-ai-100-index-4/200k.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-ai-100-index-4/100k.md, finance/portfolio/cartera-ai-100-index-4/200k.md]
 ---
 
 # Cartera-ai 100 index 4 — dos tallas, dos condiciones

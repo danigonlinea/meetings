@@ -5,10 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, cartera-ai-final-atrevida, mapa, atrevida, myinvestor, fondos, indexado, value, emergentes, monetario, groupama]
 status: propuesta
-related:
-  - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-atrevida/110k.md
-  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-conservadora/100k.md
+related: [finance/portfolio/README.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-atrevida/110k.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-conservadora/100k.md]
 ---
 
 # Cartera-ai final atrevida — mapa

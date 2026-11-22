@@ -5,9 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, renta4, propuesta, sin-indexados, kaizen, akira, aitor, sigma, magallanes, value, renta-fija, traspasos]
 status: propuesta
-related:
-  - finance/portfolio/cartera-renta4/cartera-actual.md
-  - finance/portfolio/cartera-renta4/propuesta-2026-11-02.md
+related: [finance/portfolio/cartera-renta4/cartera-actual.md, finance/portfolio/cartera-renta4/propuesta-2026-11-02.md]
 ---
 
 # Cartera Renta 4 — la propuesta

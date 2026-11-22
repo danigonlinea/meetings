@@ -1,3 +1,12 @@
+---
+title: "Cartera-ai-andres: dos tallas con el criterio de Andrés"
+date: 2026-11-15
+type: reference
+category: finance
+tags: [cartera, indice, cartera-ai-andres, myinvestor, gestion-activa, cartera-ai-definitivas-estudiar]
+status: living
+related: [finance/portfolio/README.md, finance/portfolio/cartera-ai-definitivas-estudiar/README.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-andres/100k.md, finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-andres/200k.md]
+---
 # Cartera-ai-andres
 
 Cartera de **200.000 €** diseñada por el agente el 15/11/2026 con criterio propio y la experiencia de

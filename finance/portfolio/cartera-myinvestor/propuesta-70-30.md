@@ -5,11 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, propuesta, myinvestor, 70-30, indexado, ishares, vanguard, sensata, eficiente, diversificada, 40-anos, traspasos]
 status: propuesta
-related:
-  - finance/portfolio/cartera-myinvestor/README.md
-  - finance/portfolio/cartera-myinvestor/cartera-actual.md
-  - finance/portfolio/cartera-myinvestor/propuesta-pieza.md
-  - finance/portfolio/cartera-definitiva-40/100k.md
+related: [finance/portfolio/cartera-myinvestor/README.md, finance/portfolio/cartera-myinvestor/cartera-actual.md, finance/portfolio/cartera-myinvestor/propuesta-pieza.md, finance/portfolio/cartera-definitiva-40/100k.md]
 ---
 
 # Propuesta 70/30 — 90.000 € invertibles (+ 10.000 € de colchón)

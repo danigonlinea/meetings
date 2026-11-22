@@ -20,8 +20,8 @@ porque son la cartera viva. Criterio y exclusiones: `cartera-ai-definitivas-estu
 
 | Carpeta | Qué es | Documentos |
 | --- | --- | --- |
-| `cartera-myinvestor/` | 100.000 € = 90.000 € invertibles (60.000 € manuales + 30.000 € de Rock) + 10.000 € de colchón | `cartera-actual.md` (foto 30/10) + `propuesta-pieza.md` (**la cartera final desde el 18/11/2026, ⚠️ pendiente de la revisión del titular antes de ejecutar**: 38,3 % de indexado como pieza, 23,3 % de convicción activa, trece fondos, 54,6 % de RV, 529,90 €/año, 23 traspasos en dos fases y 1.000 €/mes) + `propuesta-actual.md` (superada el 18/11, se conserva por su §2: el criterio del 55 %) + `propuesta-acciones.md` (complemento de acciones) |
-| `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-actual.md` (auditoría y rangos de mejora) + `propuesta-actual.md` (**la propuesta vigente desde el 21/11/2026**: seis fondos sin indexados, Kaizen 25 %, Sigma 26,08 %, Magallanes 12 %, Akira 8 %, RV 50 %, 393,02 €/año y 3,71 % neto) + `propuesta-2026-11-02.md` (historial) |
+| `cartera-myinvestor/` | 100.000 € = 90.000 € invertibles (60.000 € manuales + 30.000 € de Rock) + 10.000 € de colchón | `cartera-actual.md` (foto 30/10) + `propuesta-pieza.md` (**la cartera final desde el 18/11/2026, ⚠️ pendiente de la revisión del titular antes de ejecutar**: 38,3 % de indexado como pieza, 23,3 % de convicción activa, trece fondos, 54,6 % de RV, 529,90 €/año, 23 traspasos en dos fases y 1.000 €/mes) + `propuesta-actual.md` (superada el 18/11, se conserva por su §2: el criterio del 55 %) + `propuesta-70-30.md` (alternativa indexada 70/30 del 19/11 sobre los 90.000 € invertibles: siete fondos indexados, 69,6 % de RV real, 102,85 €/año, caída −25.879 € y 12 traspasos) + `propuesta-acciones.md` (complemento de acciones) |
+| `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-2026-11-02.md` (auditoría, rangos de mejora y propuesta del 02/11; historial) + `propuesta-actual.md` (**la propuesta vigente desde el 21/11/2026**: seis fondos sin indexados, Kaizen 25 %, Sigma 26,08 %, Magallanes 12 %, Akira 8 %, RV 50 %, 393,02 €/año y 3,71 % neto) |
 | `cartera-ai-definitivas-estudiar/cartera-ai-andres/` | **Dos tallas** con el criterio de Andrés, sin acciones: `100k.md` (11 fondos, 60,3 % RV, 0,46 %) y `200k.md` (14 fondos, 60,0 %, 0,51 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, órdenes, descartes y señales) |
 | `cartera-ai-no-indexados/` | **Dos tallas con dos condiciones únicas**: ningún fondo indexado y ninguno que reparta dividendos (`100k.md`, 10 fondos activos, 80 % RV, 1,37 %; `200k.md`, 12 fondos, 80 %, 1,42 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento fondo a fondo, órdenes, aportación mensual y señales) |
 | `cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/` | **Dos tallas con otras dos condiciones únicas**: máx. 40 % en indexados y nada que reparta dividendos (`100k.md`, 2 indexados + 7 activos, 40 % indexado exacto, 73,0 % RV, 0,79 %; `200k.md`, 2 + 8 con Iberia, 73,6 %, 0,80 %) | Un fichero por talla; cada uno es la cartera entera (ISIN, razonamiento, órdenes, 2.000 €/mes y señales) |
@@ -75,7 +75,7 @@ acciones individuales), `cartera-ai-nucleo-satelites/` (84,33 % y 400,80 € con
 `cartera-pizarra-tres-voces/` (72,90 % y 714,30 € con el 49 % en Singular) y `cartera-ai-fondos-2000-lista/`
 (sus C2 y C4 quedan por detrás de las hermanas: 1.248,60 € y 766,10 € frente a 1.180,10 € de `-glm` y 607,60 € de
 `-deepseek`). Los documentos siguen en el historial de git y las cifras que otras carteras citaban contra ellas se
-mantienen donde hacían falta, sin enlace. **`cartera-ai-definitivas-estudiar/` no se toca**: sus siete carteras se
+mantienen donde hacían falta, sin enlace. **`cartera-ai-definitivas-estudiar/` no se toca**: sus nueve carteras entre el 30 % y el 45 % de indexado (incluidas `c4-defensiva` y `neon`) se
 quedan y siguen mandando sobre su propio documento.
 
 El mismo día se llevó la criba a las **dos familias de cinco diseños**. De las diez carteras de
@@ -287,8 +287,8 @@ precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo qu
   escrito. Pendientes: gastos reales del colchón, comisión de suscripción en pantalla y si los 7.000 € de
   aportación nueva están en la cuenta. Alternativas con su precio: nivel A (`cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`)
   y Rock fija (`cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/`).
-- **Renta 4:** dos propuestas vivas sobre la misma foto. **A corto** (`propuesta-actual.md`): Kaizen se
-  queda y se recorta al 25 %, con 3.618 € a un indexado global (21,2 % de RV, 0,76 %). **A largo plazo**
+- **Renta 4:** dos propuestas sobre la misma foto. **A corto (historial, 02/11/2026)** (`propuesta-2026-11-02.md`): Kaizen se
+  queda y se recorta al 25 %, con 3.618 € a un indexado global (21,2 % de RV, 0,76 %). **A largo plazo (vigente)**
   (`propuesta-actual.md`, 21/11/2026, sin indexados): **Kaizen 25 %**, **Sigma Internacional 26,08 %**,
   **Magallanes European 12 %**, **Akira 8 %**, RF R 17,93 % y 6 Meses 10,99 %; **393,02 €/año (1,130 %)**,
   caída **−21,04 % (−7.315 €)**, **3,71 % neto** (3,22 % con éxito) y seis traspasos. Frente a la misma
@@ -357,8 +357,8 @@ precio del mercado con 17,67 % de tecnología en la RV, que es exactamente lo qu
   (asumido 15+ años), tolerancia a la caída (−35,5 %), las concesiones (cero small caps, cero inmobiliario, cero
   ligado a inflación y emergentes con filtro ESG), la relectura por MCP cuando el límite se reponga y qué talla
   se ejecuta.
-- **cartera-definitiva-40 (19/11/2026, sin ejecutar):** `100k.md`. **La cartera de referencia a los 40**: **4
-  fondos** (iShares Developed World S 65 % al **0,06 %**, iShares Emerging Markets S 10 %, Vanguard Global
+- **cartera-definitiva-40 (19/11/2026, sin ejecutar):** `100k.md`. **La cartera de referencia a los 40**: **6
+  fondos** (iShares Developed World S 58 % al **0,06 %**, iShares Emerging Markets S 10 %, Fidelity MSCI Europe 10 %, Vanguard Global
   Small-Cap 6 %, iShares Global Aggregate 1-5Y EUR H 11 % e iShares Euro Gov Inflation-Linked 5 %), **83,39 % de RV real**, **92,00 €/año (0,092 %)**,
   caída **−33,85 % (−33.854 €)**, **cero comisiones de éxito** y **≈6,06 % esperado** (3,97-8,15 %). **6 órdenes
   en dos cortes** (09:00 y 16:00), liquidación de 4 días en el núcleo. **Backtest de la estructura en cinco años

@@ -5,10 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, definitiva, 55-45, solo-fondos, renta-fija, abs, cobas-renta, reits, japon, pacifico, rock, myinvestor]
 status: superseded
-related:
-  - finance/portfolio/cartera-myinvestor/cartera-actual.md
-  - finance/portfolio/cartera-myinvestor/propuesta-acciones.md
-  - finance/portfolio/cartera-myinvestor/propuesta-pieza.md
+related: [finance/portfolio/cartera-myinvestor/cartera-actual.md, finance/portfolio/cartera-myinvestor/propuesta-acciones.md, finance/portfolio/cartera-myinvestor/propuesta-pieza.md]
 ---
 
 # Cartera definitiva, solo fondos — 04/11/2026
