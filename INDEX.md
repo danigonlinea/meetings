@@ -5,6 +5,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-neon/110k.md` | portfolio-proposal | finance | 2026-11-22 | Cartera AI Neon (110.000 €) — Indexado como pieza (32,7 %), sesgo ex-EE. UU., small/mid value activo y escudo para mercados caros a 15 años | [portfolio, myinvestor, propuesta, 110k, 40-anos, 15-anos, indexado-pieza, value, small-caps, ex-usa, gestion-activa, mercados-caros, pizarra-de-andres, cartera-ai-neon] |
 | `finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-hy4-definitiva/100k.md` | portfolio-proposal | finance | 2026-11-22 | Cartera hy4 definitiva: 100.000 € a 15 años, 35 % indexado y 537,10 €/año | [cartera, propuesta, myinvestor, indexado, value, fondos, cartera-ai, cartera-ai-hy4-definitiva] |
 | `finance/portfolio/cartera-renta4/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-21 | Cartera Renta 4 — la propuesta: seis fondos sin indexados, con Kaizen y Akira (34.769,20 €) | [cartera, renta4, propuesta, sin-indexados, kaizen, akira, aitor, sigma, magallanes, value, renta-fija, traspasos] |
 | `finance/portfolio/cartera-definitiva-40/100k.md` | portfolio-proposal | finance | 2026-11-20 | Cartera definitiva a los 40: seis indexados, 83,4 % de RV y 92 €/año (100.000 €) | [cartera, propuesta, definitiva, 40-anos, indexado, ishares, vanguard, myinvestor, fondos, renta-fija, europa, inflacion, aportaciones, horizonte-largo] |
@@ -147,6 +148,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 141
+**Total de artefactos indexados:** 142
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
