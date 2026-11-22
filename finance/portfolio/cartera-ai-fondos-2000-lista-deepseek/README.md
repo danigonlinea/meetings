@@ -107,7 +107,7 @@ encargo de cinco rompe la premisa del entregable y esa decisión es del titular.
 | --- | --- | --- | --- |
 | C1 | 69,47 % de RV por 129,20 €/año | `cartera-definitiva-40/`: 83,39 % por 92,00 €/año | **Gana la existente en las dos columnas.** C1 está dominada; su razón de existir es ser la pieza de coste mínimo de un conjunto que no puede repetir fondos, no ser la mejor cartera de índice del repositorio |
 | C2 | 97,60 % por 1.434,40 €/año | `cartera-ai-fondos-2000-lista/C2`: 78,65 % por 1.248,60 €/año | No comparable: C2 compra 19 pp más de bolsa por 186 €/año más |
-| C3 | 55,05 % por 492,90 €/año | `cartera-ai-final-conservadora/`: 54,61 % por 509,70 €/año | **Gana C3**: misma RV, 16,80 €/año menos |
+| C3 | 55,05 % por 492,90 €/año | `cartera-ai-definitivas-estudiar/cartera-ai-final-conservadora/`: 54,61 % por 509,70 €/año | **Gana C3**: misma RV, 16,80 €/año menos |
 | C4 | 34,06 % por 607,60 €/año | `cartera-ai-fondos-2000-lista/C4`: 35,49 % por 766,10 €/año | **Gana C4**: 1,4 pp menos de RV y 158,50 €/año menos |
 | C5 | 99,48 % por 764,60 €/año | `cartera-ai-fondos-2000-lista-glm/C5`: 87,64 % por 942,30 €/año | **Gana C5**: 11,8 pp más de RV y 177,70 €/año menos |
 

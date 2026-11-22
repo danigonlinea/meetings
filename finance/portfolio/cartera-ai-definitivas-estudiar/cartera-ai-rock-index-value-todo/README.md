@@ -7,7 +7,7 @@ tags: [cartera, cartera-ai-rock-index-value-todo, mapa, rock, monetario, no-inde
 status: final
 related:
   - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-rock-index-value-todo/100k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/100k.md
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
 ---
 

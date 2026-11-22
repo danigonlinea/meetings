@@ -8,7 +8,7 @@ status: final
 related:
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
   - finance/portfolio/cartera-myinvestor/README.md
-  - finance/portfolio/cartera-ai-rock-desmontado/100k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md
   - finance/portfolio/README.md
 ---
 
@@ -26,7 +26,7 @@ related:
 > lanza hasta esa revisión**. Si alguien —persona o agente— abre esta cartera para actuar sobre ella, lo
 > primero que tiene que decir es justo eso: **está pendiente de revisión y no se ejecuta todavía**.
 >
-> **Qué pregunta responde.** `cartera-ai-rock-desmontado/100k.md` §14 dejó el diseño aparcado con una sola
+> **Qué pregunta responde.** `cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md` §14 dejó el diseño aparcado con una sola
 > incógnita —cuánto indexado— y tres niveles. Esta cartera es **el nivel C**, el que el titular pidió: el
 > índice como **pieza**, no como edificio. Sustituye como vigente a `propuesta-actual.md` (04/11) y retira
 > `propuesta-ai.md` (16/11); las dos siguen en el historial de git.
@@ -256,7 +256,7 @@ sentido: es la mejor versión del criterio que has pedido. Y ese criterio tiene 
   prima de estilo en el 23,3 % del patrimonio.
 
 Si esa cuenta no te convence leída así, la decisión no es «esta cartera un poco más barata»: es el nivel A, y
-está escrito y auditado en `cartera-ai-rock-desmontado/100k.md`.
+está escrito y auditado en `cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md`.
 
 ---
 
@@ -304,7 +304,7 @@ más de bolsa: el bono euro a 20+ años de Rock era el 32 % de toda la euro-dura
 
 **Nada se reembolsa.** Todo son IIC comercializadas por la plataforma: traspaso entre fondos, **0 € de
 impuestos**. El desmontaje de Rock va por el monetario puente, que también es traspaso
-(`cartera-ai-rock-desmontado/100k.md` §3 y la FAQ de la plataforma).
+(`cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md` §3 y la FAQ de la plataforma).
 
 ### 9.1 Paso 0 — antes de ordenar nada
 

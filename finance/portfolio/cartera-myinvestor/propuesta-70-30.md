@@ -296,7 +296,7 @@ tienen clase S o D de acumulación; si la plataforma ofrece otra clase, no se ej
 | | **Total** | **30.000** | |
 
 - **Rock se desmonta por traspaso, nunca por reembolso**: el procedimiento paso a paso está en `propuesta-pieza`
-  §9.3 y en `cartera-ai-rock-desmontado/`, y el puente monetario evita cualquier hueco fiscal.
+  §9.3 y en `cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`, y el puente monetario evita cualquier hueco fiscal.
 - **Ningún fondo de origen está en soft close** salvo Cobas International (1.000 €), que **se puede traspasar
   igualmente**: el soft close limita suscripciones, no reembolsos ni traspasos de salida.
 

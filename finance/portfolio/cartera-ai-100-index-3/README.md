@@ -23,7 +23,7 @@ Cartera diseñada **desde cero** el 16/11/2026 con **tres cláusulas del titular
    comparten patrimonio en la ficha, así que 62 clases hermanas caen con su fondo).
 
 **No se hereda ninguna regla del repositorio.** Ni el 55/45 de `cartera-myinvestor/`, ni el coste mínimo de
-`cartera-ai/`, ni el 80 % de las hermanas, ni el techo del 40 % de `cartera-ai-40-max-index/`, ni el diseño de
+`cartera-ai/`, ni el 80 % de las hermanas, ni el techo del 40 % de `cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/`, ni el diseño de
 `cartera-ai-100-index/` ni el de `cartera-ai-100-index-2/`. Lo que no sea una de las tres cláusulas es decisión
 mía, escrita con su razón: pesos, número de fondos, reparto RV/RF, bloque de renta fija y regla de aportaciones.
 

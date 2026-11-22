@@ -7,8 +7,8 @@ tags: [cartera, cartera-ai-40-max-index, max-40-indexados, sin-dividendos, acumu
 status: final
 related:
   - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-40-max-index/100k.md
-  - finance/portfolio/cartera-ai-40-max-index/200k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/100k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/200k.md
 ---
 
 # Cartera-ai 40 max index — dos tallas, un mandato

@@ -36,7 +36,7 @@ magnitud, no por coste: una línea del 5 % mueve la cartera ±0,1 pp/año. **Lo 
 de Europa**: 15 % baja EE. UU. del 54,3 % al 50,2 % de la RV por 2 €/año más. §8 bis del documento.
 
 **Por qué esta es «la definitiva».** No gana en ninguna categoría suelta: `cartera-ai-100-index/` tiene menos
-bolsa y `cartera-ai-final-atrevida/` más esperanza. Gana en la combinación que importa a los 40: **27 años de
+bolsa y `cartera-ai-definitivas-estudiar/cartera-ai-final-atrevida/` más esperanza. Gana en la combinación que importa a los 40: **27 años de
 horizonte, coste mínimo, aportación automática y una sola decisión que pueda salir mal (cuánta bolsa llevar)**.
 Hay un solo sesgo declarado —10 pp de Europa— y su precio está escrito.
 

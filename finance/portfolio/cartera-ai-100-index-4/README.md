@@ -25,7 +25,7 @@ ISIN y por fondo** (dos clases del mismo fondo comparten `patrimonio`). No la pe
 mantiene porque una cartera nueva que reutilizara fondos de las otras doce dejaría de ser una cartera nueva.
 
 **No se hereda ninguna regla del repositorio.** Ni el 55/45 de `cartera-myinvestor/`, ni el coste mínimo de
-`cartera-ai/`, ni el 80 % de las hermanas, ni el techo del 40 % de `cartera-ai-40-max-index/`, ni el troceado
+`cartera-ai/`, ni el 80 % de las hermanas, ni el techo del 40 % de `cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/`, ni el troceado
 regional de `cartera-ai-100-index-2/` y `-3`. Lo que no sea una de esas condiciones es decisión mía, escrita con
 su razón.
 

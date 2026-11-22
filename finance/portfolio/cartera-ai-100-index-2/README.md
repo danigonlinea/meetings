@@ -23,7 +23,7 @@ Cartera diseñada **desde cero** el 16/11/2026 con **tres condiciones del titula
    hermana.
 
 **No se hereda ninguna regla del repositorio.** Ni el 55/45 de `cartera-myinvestor/`, ni el coste mínimo de
-`cartera-ai/`, ni el 80 % de las `no-indexados`, ni el techo del 40 % de `cartera-ai-40-max-index/`, ni el
+`cartera-ai/`, ni el 80 % de las `no-indexados`, ni el techo del 40 % de `cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/`, ni el
 diseño de `cartera-ai-100-index/`. Lo que no sea una de las tres condiciones es decisión del agente, escrita
 con su razón: pesos, número de fondos, reparto RV/RF, bloque de renta fija y regla de aportaciones.
 

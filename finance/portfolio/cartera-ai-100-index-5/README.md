@@ -25,7 +25,7 @@ fondo** (dos clases del mismo fondo comparten `patrimonio`). El efecto es el que
 el núcleo barato del catálogo y obliga a pagar 14 pb más por el MSCI World.
 
 **No se hereda ninguna regla del repositorio.** Ni el 55/45 de `cartera-myinvestor/`, ni el coste mínimo de
-`cartera-ai/`, ni el 80 % de las hermanas, ni el techo del 40 % de `cartera-ai-40-max-index/`, ni el troceado
+`cartera-ai/`, ni el 80 % de las hermanas, ni el techo del 40 % de `cartera-ai-definitivas-estudiar/cartera-ai-40-max-index/`, ni el troceado
 regional de `cartera-ai-100-index-2/`, `-3` y `-4`. Lo que no sea una de esas condiciones es decisión mía,
 escrita con su razón.
 

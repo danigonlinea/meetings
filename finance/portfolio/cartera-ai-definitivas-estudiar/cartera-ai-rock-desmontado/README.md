@@ -7,8 +7,8 @@ tags: [cartera, cartera-ai-rock-desmontado, mapa, indexado, satelite-activo, roc
 status: propuesta
 related:
   - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-rock-desmontado/100k.md
-  - finance/portfolio/cartera-ai-rock-index-value-todo/100k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/100k.md
 ---
 
 # Cartera-ai rock-desmontado — mapa
@@ -21,7 +21,7 @@ su cupo de indexado se libera para comprar el núcleo al precio real de un índi
 
 - De `cartera-ai/` y `cartera-ai-100-index*/` (las indexadas puras): aquí el riesgo es **55,3 % de RV**, no
   el 79-85 %, hay **monetario escalonado** y **cat bonds**; y no hay acciones sueltas.
-- De `cartera-ai-rock-index-value-todo/` (la que mantiene Rock): **379 €/año menos** de coste, el mismo
+- De `cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/` (la que mantiene Rock): **379 €/año menos** de coste, el mismo
   riesgo, la mitad de duración y dos huecos tapados (small caps y activos reales).
 - De las `cartera-ai-no-indexados*/`: nada de sesgo value obligado ni de trece líneas activas; el activo se
   limita a tres papeles donde un índice no llega.

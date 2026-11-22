@@ -7,9 +7,9 @@ tags: [cartera, cartera-ai-final-conservadora, mapa, final, conservadora, 55-45,
 status: propuesta
 related:
   - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-final-conservadora/100k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-conservadora/100k.md
   - finance/portfolio/cartera-myinvestor/propuesta-pieza.md
-  - finance/portfolio/cartera-ai-rock-desmontado/100k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/100k.md
 ---
 
 # Cartera-ai final conservadora — mapa
@@ -24,7 +24,7 @@ rango 2,3-6,8 % y los supuestos escritos.
 - De `cartera-myinvestor/propuesta-pieza.md` (su matriz): **una línea menos**, 22 pb menos de coste en el
   bloque de crédito, **cero líneas con mínimo de 1.000 €** y una cadencia trimestral menos. Sube la duración
   de 1,54 a 1,61: es el precio, y está escrito.
-- De `cartera-ai-rock-desmontado/` (nivel A, 69,4 % indexado): **+0,53 pp/año** de coste a cambio de la
+- De `cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/` (nivel A, 69,4 % indexado): **+0,53 pp/año** de coste a cambio de la
   convicción value; su rentabilidad esperada es ~0,3 pp **inferior** (4,8 % frente a ~5,1 %), no superior.
 - De `cartera-ai/` y las `cartera-ai-100-index*/`: nada de 75-85 % de RV ni de acciones sueltas; aquí el
   riesgo es 54,6 % y el bloque defensivo son cinco papeles de crédito con nombre.

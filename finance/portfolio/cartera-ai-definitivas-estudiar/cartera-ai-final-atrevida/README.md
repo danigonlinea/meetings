@@ -7,8 +7,8 @@ tags: [cartera, cartera-ai-final-atrevida, mapa, atrevida, myinvestor, fondos, i
 status: propuesta
 related:
   - finance/portfolio/README.md
-  - finance/portfolio/cartera-ai-final-atrevida/110k.md
-  - finance/portfolio/cartera-ai-final-conservadora/100k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-atrevida/110k.md
+  - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-final-conservadora/100k.md
 ---
 
 # Cartera-ai final atrevida — mapa
@@ -20,12 +20,12 @@ escritos.
 
 **Qué la distingue de sus hermanas:**
 
-- De `cartera-ai-final-conservadora/` (54,6 % de RV, 4,8 % esperado): **+27,5 pp de RV** y **+1,3 pp** de
+- De `cartera-ai-definitivas-estudiar/cartera-ai-final-conservadora/` (54,6 % de RV, 4,8 % esperado): **+27,5 pp de RV** y **+1,3 pp** de
   esperanza. Es el mismo criterio de coste bajo en el núcleo, con la bolsa como edificio en vez de como pieza.
 - De las `cartera-ai-100-index*/`: aquí el 46 % de la cartera es convicción activa; esas son 100 % indexadas.
 - De las `cartera-ai-no-indexados*/`: aquí sí hay núcleo indexado (37 %) y no hay sesgo value obligado por
   falta de catálogo, sino por decisión escrita con su precio.
-- De `cartera-ai-rock-desmontado/`: sin Rock, sin traspasos y sin 90.000 € de base; 110.000 € desde la cuenta.
+- De `cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`: sin Rock, sin traspasos y sin 90.000 € de base; 110.000 € desde la cuenta.
 
 **Qué condiciones solo vinculan.** Nada que reparta dividendos, nada de ETF, 110.000 € y 10.000 € en Groupama.
 **Ninguna regla heredada**: no hay 55/45, ni techo de indexado, ni mínimo por línea, ni techo de coste.
