@@ -41,7 +41,7 @@ Si falla, para: hay trabajo local sin subir y el rebase lo pisaría.
 ## Paso 2: Descubre qué falta
 
 ```bash
-python3 tools/nuevos.py --canal 10
+python3 tools/nuevos.py            # --help: --dias N (ventana si no hay ingesta previa), --json, --backlog
 ```
 
 Devuelve solo lo publicado **después de la última ingesta**, con fecha, id y enlace. Cortes:
@@ -59,6 +59,11 @@ uv run --project ytpipe ytpipe fetch "https://www.youtube.com/watch?v=<id>" \
 ```
 
 - El `--slug` sale del título **real** que imprime `ytpipe` (en español), no del título del listado.
+- **Comprueba `source.language_code` antes de resumir.** En vídeos en español `ytpipe` a veces coge la
+  pista autotraducida y deja el texto en inglés: si sale `en` en un vídeo español, mira
+  `ytpipe languages <url>` y repite la descarga con `--lang es` en una carpeta temporal, y sustituye
+  `transcript.json` y el `.txt` de la carpeta recién creada. El `transcript.json` de una ingesta
+  anterior no se toca nunca.
 - Webinars: `--out finance/videos/myinvestor-webinars` y la skill `ingest-webinars`.
 - Clasifica `ai` o `finance` por el tema del vídeo; no preguntes.
 
