@@ -94,3 +94,23 @@ Tabla agregada de las tres piezas. Solo vehículos con nombre; los índices y ca
 - **`Santander Sostenible Renta Fija Ahorro`**: la búsqueda del 25/11 en el catálogo de MyInvestor no lo devuelve (salen EDM Ahorro y Sigma Ahorro como coincidencias parciales). Si el dueño quiere compararlo con el Gesconsult, hay que confirmar antes si es contratable aquí.
 - **Cifras de rentabilidad que el hablante da al vuelo y no cuadran con la ficha**: Azvalor «23» en el año (ficha 25/11: YTD +19,1 %) y Horos 5A (ficha +11,65 % frente a +11,92 % de §10.2). Se conserva la cifra del audio y se anota la de ficha; no se corrige ninguna.
 - **Datos de plataforma del webinar**: el invitado estima el coste del robo-advisor en «alrededor del 0,5 % (0,4-0,6 %)»; no es un dato verificado de MyInvestor y así queda en el resumen.
+
+## Anexo (25/11/2026): dos piezas que la marca de agua dejó atrás
+
+Pasada de corrección sobre el mismo corte. `python3 tools/nuevos.py` compara contra la **fecha de la última transcripción ingerida**, así que un vídeo de un día anterior que se saltó la ingesta no vuelve a aparecer nunca. Cruzando el RSS del canal con los `video_id` ya presentes en el repositorio salieron dos huecos de la misma semana, ya ingeridos:
+
+| Fecha | Fuente | Título | Duración | Idea principal |
+| --- | --- | --- | --- | --- |
+| 2026-11-18 | La Pizarra de Andrés | «NVIDIA presenta RESULTADOS RÉCORD y el Mercado NO se lo CREE» (`Sp928y_uwgk`) | 13:10 | 07:58 — «¿cómo puede ser que otros protagonistas de la IA estén cotizando a un PER forward de 30 veces y Nvidia esté cotizando a un PER forward de 10?» |
+| 2026-11-17 | La Pizarra de Andrés | «La BURBUJA ya ha EXPLOTADO: ¿Qué hacer Ahora?» (`rYue_7BIZN4`) | 16:42 | 10:02 — «no me da la sensación de que esto vaya a ser una burbuja porque el mercado ya está descontando que no se lo cree» |
+
+Lo que añaden al informe, con hablante y minuto:
+
+- **Nvidia (18/11, 03:24-05:01)**: ventas ×2 interanuales, +20 % trimestral, 115.000 M frente a 109.000 M esperados y *guidance* de 130.000 M; margen bruto 75 % y recompra de acciones. «Más de 20 analistas» rebajaron precio objetivo (08:28).
+- **La valoración cambia de lectura, no de cifra**: el 18/11 Nvidia cotiza a PER forward 10 con máximos de 241 y precio ≈160 (−35 %, +50 % para volver). El informe del 22/11 recogía la revisión de la SEC como detonante; aquí el detonante es la incredulidad sobre el ciclo.
+- **Sandisk (17/11, 09:14-09:57)**: 809 $, −8 % el día, PER 6, EV/EBITDA 5 y PER forward 2,85-3,8, sin deuda. Andrés la usa como prueba de que el mercado no paga múltiplos de burbuja, no como propuesta.
+- **Oro y Bitcoin (17/11, 12:45-13:46)**: el oro «no está sirviendo de refugio» y Bitcoin está «como mínimo a precios del 24»; refuerza lo ya escrito en §2 y en la tabla de candidatos, sin dato nuevo para el oro físico.
+
+**Candidatos: siguen sin entrar.** Sandisk es una acción de EE. UU. sin dividendo que no está en el catálogo de MyInvestor y que el hablante usa como ejemplo de múltiplo, no como idea; Nvidia ya estaba tratada como hecho de mercado, no como vehículo. La conclusión de §4 no cambia: ningún candidato entra esta semana.
+
+**Pendiente de arreglar (herramienta, no datos)**: `tools/nuevos.py` no detecta huecos anteriores a la última ingesta. La comprobación que encontró estas dos piezas se hizo cruzando el RSS (últimas 15 entradas) contra los `video_id` del repositorio. Mientras no se incorpore al script, cada pasada semanal debe repetir ese cruce.

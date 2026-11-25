@@ -39,7 +39,7 @@ Fuera de esos casos: `no atribuible con certeza` si el turno es dudoso, `(inferi
 
 | Nombre canónico | Rol | Canal / contexto | Aparece en | Notas |
 |---|---|---|---|---|
-| Andrés | Autor y presentador del canal "La Pizarra de Andrés". Hace videos y charlas sobre inversiones. | "La Pizarra de Andrés" | 2026-05-14 a 2026-11-24 (85 carpetas del canal) | En 2026-10-07 el nombre "Andrés" lo usan ambas partes (el entrevistador lo llama al invitado al inicio y el invitado lo llama al entrevistador en la segunda mitad). Por eso la atribución de turno en ese encuentro es inferencial y va marcada como "(inferida)". En el resto de vídeos es la única voz o el entrevistador. |
+| Andrés | Autor y presentador del canal "La Pizarra de Andrés". Hace videos y charlas sobre inversiones. | "La Pizarra de Andrés" | 2026-05-14 a 2026-11-24 (87 carpetas del canal) | En 2026-10-07 el nombre "Andrés" lo usan ambas partes (el entrevistador lo llama al invitado al inicio y el invitado lo llama al entrevistador en la segunda mitad). Por eso la atribución de turno en ese encuentro es inferencial y va marcada como "(inferida)". En el resto de vídeos es la única voz o el entrevistador. |
 | Javier (también "Jorge") | Invitado / gestor de inversiones. Aparece como autor del libro *Lo que saben los que saben*. | Canal no declarado en el resumen | 2026-10-07 | El nombre "Javier" lo usa el entrevistador al invitado (es la única voz que lo llama así). El nombre "Jorge" aparece en el slug del fichero `invest-jorge-la-pizarra-andres.txt`. La correlación Jorge ↔ Javier es inferida; no se confirma apellido. |
 | Comet | Invitado del episodio de SpaceX (El Arte de Invertir). | "El Arte de Invertir" | 2026-05-20 | En la transcripción aparece como "Nicomer", "Comic", "come to". La forma canónica es "Comet". |
 | Presentador (El Arte de Invertir) | Presentador del canal El Arte de Invertir. No tiene nombre explícito en la transcripción del episodio de SpaceX. | "El Arte de Invertir" | 2026-05-20 | Solo se referencia como "presentador". No colocar nombre propio que no esté en la transcripción. |
@@ -82,7 +82,7 @@ Fuera de esos casos: `no atribuible con certeza` si el turno es dudoso, `(inferi
 
 | Canal | Propietario / frecuente | Descripción |
 |---|---|---|
-| La Pizarra de Andrés | Andrés | Videos y charlas de inversión, con estilo de monólogo y "pizarra". 85 carpetas, de 2026-05-14 a 2026-11-24. |
+| La Pizarra de Andrés | Andrés | Videos y charlas de inversión, con estilo de monólogo y "pizarra". 87 carpetas, de 2026-05-14 a 2026-11-24. |
 | El Arte de Invertir | Presentador (sin nombre confirmado); invitado Comet | Episodios de inversiones con invitados. 2026-05-20. |
 | Dev Docs Explained | — | Canal de IA (agentes, Claude, LLMs). 2026-10-15: `summary.md` + `ai/reports/2026-10-15-informe-agentes-autonomos.md`. |
 | MyInvestor | — | Webinars y entrevistas de gestoras; catálogo en `finance/videos/myinvestor-webinars/catalogo.md`. 2024-12-18, 2026-10-20, 2026-11-04 y 2026-11-17 (4 webinars ingeridos). |
