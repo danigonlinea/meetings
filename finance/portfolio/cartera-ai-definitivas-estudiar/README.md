@@ -1,9 +1,9 @@
 ---
-title: "Cartera-ai definitivas a estudiar: las nueve propuestas con 30-45 % de indexado"
-date: 2026-11-22
+title: "Cartera-ai definitivas a estudiar: las once propuestas con 30-45 % de indexado"
+date: 2026-11-25
 type: reference
 category: finance
-tags: [cartera, indice, cartera-ai-definitivas-estudiar, indexado-30-45, myinvestor, finalistas, cartera-ai-neon]
+tags: [cartera, indice, cartera-ai-definitivas-estudiar, indexado-30-45, myinvestor, finalistas, cartera-ai-neon, cartera-ai-argon, cartera-ai-carbon]
 status: living
 ---
 # Cartera-ai definitivas a estudiar
@@ -15,10 +15,12 @@ carpeta sigue siendo un patrimonio independiente con su criterio, su fecha y su 
 El techo era el 40 % hasta el 22/11/2026. Ese día el titular lo subió al 45 % por una sola cartera: la C4 de
 `cartera-ai-fondos-2000-lista-deepseek` (44,00 % de indexado), que aporta el único perfil defensivo del grupo
 (34,06 % de RV, alternativos descorrelacionados y colchón de deuda pública). Las anteriores no se mueven ni
-cambian de banda, y el mismo día se añade `cartera-ai-neon/` (**32,73 % de indexado** sobre 110.000 €).
+cambian de banda, el 22/11/2026 se añade `cartera-ai-neon/` (**32,73 % de indexado** sobre 110.000 €) y el 25/11/2026 se añaden `cartera-ai-argon/` (**34,00 % de indexado sobre 100.000 € / 37,78 % sobre los 90.000 € invertibles**) y `cartera-ai-carbon/` (**38,00 % de indexado sobre 100.000 €**, con auditoría forense de `cartera-actual.md` y exposición a cuellos de botella físicos de redes eléctricas/infraestructura).
 
 | Cartera | % indexado | Qué es | Estado |
 | --- | --: | --- | --- |
+| `cartera-ai-carbon/` | **38,0** (100k) · **34,2** (90k+10k) | 100.000 € a 15 años (2026-2041), nacida de auditar `cartera-myinvestor/cartera-actual.md` y barrer las 2.007 fichas de `finance/fondos-myinvestor/`: 13 fondos **0 % éxito** (con Japón indexado cubierto a EUR al 0,20 %, value global/europeo/SMID, emergentes quant y **redes eléctricas/infraestructura física** `First Sentier` +2,07 % en 2022 y +20,49 % YTD), **80,15 % RV real**, **65,95 % de la RV fuera de EE. UU.**, top 10 US tech al 5,33 % del total, salida completa de HY/Gamma, escudo que ganó **+0,16 % en 2022** (cartera **−5,20 % en 2022**), **746,20 €/año (0,746 %)** y **17 traspasos cuadrados al euro** | Sin ejecutar |
+| `cartera-ai-argon/` | **34,0** (100k) · **37,8** (90k) | 100.000 € (90k invertibles + 10k Groupama) a 15 años, nacida de auditar `propuesta-pieza.md` contra las 2.011 fichas de `finance/fondos-myinvestor/`: 13 fondos (con Japón indexado cubierto a EUR al 0,20 % y 5 motores activos 0 % éxito), **76,40 % RV real s/90k (68,76 % s/100k)**, **74,63 % de la RV fuera de EE. UU.**, top 10 US tech al 4,80 % de 100k, escudo defensivo que ganó **+0,83 % en 2022** (cartera **−5,04 % en 2022**), **718,40 €/año (0,798 % s/90k · 0,725 % s/100k)** y **14 traspasos cuadrados al euro** desde `cartera-actual.md` | Sin ejecutar |
 | `cartera-ai-neon/` | **32,7** (110k) | 110.000 € a 15 años (40 años), de golpe (`9oM4CFH5usw`) o rebalanceo desde `cartera-actual.md`: 13 fondos 100 % en `finance/fondos-myinvestor/`, 72,28 % RV real, **73,63 % de la RV fuera de EE. UU.**, **39,85 % Small/Mid Caps**, top 10 US tech al 4,85 % del total y escudo defensivo (+0,45 % en 2022; cartera −5,10 % en 2022; 933,90 €/año = 0,85 % o 0,77 % sin éxito) | Sin ejecutar |
 | `cartera-ai-40-max-index/` | **40,0** (100k y 200k) | Techo del 40 % gastado entero en RV (28 % MSCI World + 12 % emergentes) | Sin ejecutar |
 | `cartera-ai-final-conservadora/` | **38,3** | La cartera del 18/11 con el crédito consolidado en Neuberger | Sin ejecutar |
