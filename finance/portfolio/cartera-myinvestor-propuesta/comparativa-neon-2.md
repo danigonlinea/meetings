@@ -93,9 +93,11 @@ mejor (`−32,79 %` frente a `−35,16 %`), mientras B tiene `84,24 %` de RV y u
 2022 mucho mejor porque su bolsa no es beta pura: value europeo, infraestructura y small caps cayeron la
 mitad que el índice en el shock de tipos.
 
-**Y ojo con el 2022: el escudo de B aporta poco en euros.** `15.000 €` al `+4,59 %` son `689 €` frente a los
-`300 €` de los `20.000 €` de A al `+1,50 %`: la diferencia del año son `389 €` en el bloque defensivo. Los
-`3.224 €` de ventaja vienen del **bloque activo de renta variable**, no de la pólvora.
+**Y ojo con el 2022, porque el escudo no es lo que lo explica.** Bloque a bloque: A pierde `4.114 €` más en
+su bloque indexado (`70.000 €` al `−11,83 %` frente a `43.000 €` al `−9,69 %`) y el escudo de B solo aporta
+`389 €` más, materias primas incluidas. La diferencia del año es **estructura**: menos dinero en un índice
+de capitalización y un bloque activo que cayó `−5,38 %` frente al `−10,26 %` del único fondo activo de A.
+B no gana en 2022 por la pólvora: gana por no tener dos tercios del dinero en beta pura.
 
 ---
 
@@ -192,17 +194,81 @@ sueño es una burbuja tecnológica que estalla, B; si es una recesión deflacion
 
 ---
 
-## 8. Veredicto
+## 8. ¿Es una alternativa real a la propuesta de MyInvestor?
 
-**La propuesta final (Opción A) es la elección defendible** y por eso fue la #1: con el mismo supuesto de
-mercado acaba `12.240 €` por delante, cuesta `511 €/año` menos, exige la mitad de alfa, se opera en siete
-líneas y tiene la apuesta activa acotada con fecha de revisión. **`cartera-ai-neon-2` es la alternativa
-correcta si y solo si el titular quiere pagar `0,5 pp` al año por una cobertura explícita del riesgo
-megacap y una cartera que no dependa de la beta estadounidense** — y aun así conviene que sepa que esa
-cobertura, en la matriz de cuatro regímenes, se paga con `7.895 €` de media y `19.257 €` si EE. UU. sigue
-mandando, a cambio de `267 €` en el régimen inflacionario, `2.541 €` menos de pérdida en un desplome del
-Top 10 y `3.224 €` menos de caída en un 2022.
+Sí, y no por las cifras de la tabla: por lo que arregla. Pero conviene decirlo con el criterio delante, porque
+"alternativa" puede significar tres cosas distintas —una cartera que gana el ranking, una que cubre un riesgo
+que la otra deja abierto, o una que se puede ejecutar mañana— y `neon-2` es la segunda, no la primera.
 
-Si el titular quisiera lo mejor de las dos, el camino no es una tercera cartera: es **bajar el peso del
-bloque activo de `neon-2`** (por ejemplo al `20-25 %`) dejando su tesis ex-US/SMID y su colchón, y medir
-el resultado con este mismo cruce. Esa decisión no está tomada y no la toma este documento.
+**Los cuatro tests de una alternativa real:**
+
+| Test | Opción A | `neon-2` |
+| --- | --- | --- |
+| ¿Está dominada por la otra? | No | **No**: gana en 2022, en Top 10, en estrés de megacaps y en el suelo del régimen inflacionario |
+| ¿Arregla un defecto real de la cartera vigente? | — | **Sí**: la cartera vigente es `70 %` índice de capitalización con `38,7 %` de EE. UU. en su RV y `0 %` en activos reales |
+| ¿Cabe en la tolerancia declarada? | `−32.790 €` | `−35.160 €` en 2008 · `−5.736 €` en 2022 |
+| ¿Se puede ejecutar hoy? | 13 órdenes, una sesión | 18 órdenes, una sesión, con mínimos de folleto que condicionan tres pesos |
+
+### El caso a favor: cinco razones que sostienen la alternativa
+
+1. **No apuesta a una sola prima.** La Opción A es beta global barata más un `10 %` de small caps: si el
+   decenio 2026-2041 se parece a 2000-2010 —EE. UU. plano, value y ex-US fuertes—, A no tiene con qué
+   responder y su coste bajo no la salva. `neon-2` reparte la apuesta: `31,1 %` de EE. UU. en la RV,
+   `36,8 %` en SMID, `5 %` en materias primas, `7 %` en infraestructura y `5 %` en India. **Ese es el
+   intercambio exacto: A compra certeza de coste, B compra dispersión de resultado.**
+2. **El escenario que el repositorio documenta como el de hoy es el suyo.** Los `summary.md` de noviembre de
+   2026 recogen la revisión contable de la SEC a Nvidia (`−47,5 %` en veinte días), el S&P 500 `−11 %` en un
+   mes y el Nasdaq `−15 %`. Una cartera con dos tercios del dinero en índice de capitalización está en el
+   centro de ese riesgo; A lo mitiga (Top 10 al `9,31 %` frente al `26,6 %` del índice) pero no lo elimina.
+   B lo deja en el `4,24 %` y añade lo que históricamente sube cuando la bolsa americana se deshincha.
+3. **Su ventaja no es una proyección: es un año medido.** `−5,74 %` en 2022 con `84,24 %` de renta variable
+   no lo consigue ninguna otra cartera del árbol con esa bolsa. Y no lo consigue con market timing, sino con
+   estructura: menos índice, más estilo. Es la única prueba real que tienen las dos, y la gana B por
+   `3.224 €`.
+4. **La prima que necesita es de estilo y geografía, no de genio gestor.** El listón de `+1,0 pp/año` se
+   cubre con que value, small caps e India dejen de estar de capa caída, no con que cinco gestores batan a
+   su índice por selección. La propia tabla 2022 de `neon-2` lo enseña: su bloque activo cayó `−5,38 %`
+   frente a `−12,85 %` del mundo, y lleva `+17,0 %` YTD 2026 frente a `+14,4 %` del índice. SPIVA mide
+   gestores contra su índice; una cartera con tilt declarado juega otra partida.
+5. **Diversifica el riesgo de una sola decisión y no cuesta cambiarla hoy.** En A toda la convicción está en
+   `GS Small CORE`: si falla, en 2031 se traspasa al índice y la cartera pasa a `0,164 %` — pero también se
+   queda sin bloque activo. En B el fallo de un motor diluye, no mata. Y como no hay posiciones ejecutadas,
+   elegir B hoy no cuesta ni un euro de IRPF: la comparación es gratis y el único coste de equivocarse es el
+   TER.
+
+### El caso en contra: cuatro razones que la dejan en segundo lugar
+
+1. **Su ventaja se cobra una vez; su coste se cobra quince.** `3.224 €` de mejor 2022 frente a `511 €/año` y
+   `15.288 €` de drag a 15 años. Un solo 2022 como el medido paga `6,3` años de sobrecoste; para que el
+   seguro compense solo con años malos harían falta seis.
+2. **En el régimen que justifica su tesis, el seguro no se paga.** En R2 (inflación persistente) las
+   materias primas aportan `0,40 pp` brutas (el `8 %` supuesto sobre el `5 %` del capital) y el sobrecoste
+   del TER es `0,51 pp`: la cobertura cuesta más de lo que rinde en el escenario para el que se compró. De
+   ahí que gane ese régimen por solo `267 €` a 15 años.
+3. **Su cola mala es peor que la de A.** Con la fórmula estricta, un 2008 le cuesta `−35.160 €` frente a
+   `−32.790 €`: materias primas, SMID y `15 %` de crédito es una mala combinación en una recesión
+   deflacionaria. La cartera que protege de la inflación es peor en la deflación, y eso hay que decirlo
+   entero.
+4. **Tres de sus trece líneas son de las más caras del catálogo** —`Brandes` `1,70 %`, `Wellington` `1,68 %`,
+   `GSQuartix` `1,15 %`— y una lleva comisión de éxito `Pendiente` en ficha (`Ashoka`). El `42 %` activo a
+   `1,492 %` es la razón de que la auditoría la puntuara `5,8 / 10` en coste: no es un prejuicio, es la
+   aritmética de su propio bloque.
+
+### Veredicto
+
+**`cartera-ai-neon-2` es una alternativa real y legítima, no una cartera dominada**: es la mejor respuesta
+del árbol a "no quiero que mi patrimonio dependa de que EE. UU. siga mandando", y su 2022 lo demuestra con
+dinero. Lo que **no** es, tal como está escrita, es la mejor versión de esa idea: paga `0,784 %` por una
+tesis que en la matriz homogénea solo gana el régimen inflacionario por `267 €` y que necesita `+1,0 pp/año`
+de prima sostenida durante quince años.
+
+Se elige B si se cumplen **las tres condiciones a la vez**: (a) el miedo central es una década perdida de
+las megacaps estadounidenses, no una recesión; (b) se acepta ver `−35.160 €` sin vender; (c) se cree que
+value, small caps, infraestructura e India entregan esa prima de `1 pp` durante quince años. Si falta una,
+la Opción A es la respuesta: cuesta la mitad, no exige que nadie acierte y cae menos en la recesión.
+
+**Y una corrección a la idea de "lo mejor de las dos", que este documento sugería antes de medirla:** bajar
+el bloque activo de B al `20-25 %` **no baja el listón** —el `+1,0 pp/año` es una propiedad del coste de los
+fondos, no de la dosis—, solo reduce la factura si no se alcanza: con el activo al `25 %`, el TER cae a
+`~0,54 %` y la apuesta vale `264 €/año` en vez de `511 €`, pero el techo de ganancia también se divide por
+cuatro. La dosis elige cuánto se apuesta, no cuánto hay que acertar.
