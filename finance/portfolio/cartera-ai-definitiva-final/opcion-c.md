@@ -8,7 +8,7 @@ status: propuesta
 related:
   - finance/portfolio/README.md
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
-  - finance/portfolio/cartera-ai-definitiva-final/100k.md
+  - finance/portfolio/cartera-ai-definitiva-final/option-0.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-a.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-b.md
   - finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-hy4-definitiva/100k.md

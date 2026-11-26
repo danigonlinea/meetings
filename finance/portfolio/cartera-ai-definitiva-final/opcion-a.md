@@ -9,7 +9,7 @@ related:
   - finance/portfolio/README.md
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
   - finance/portfolio/cartera-definitiva-40/100k.md
-  - finance/portfolio/cartera-ai-definitiva-final/100k.md
+  - finance/portfolio/cartera-ai-definitiva-final/option-0.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-b.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-c.md
   - finance/portfolio/cartera-ai-definitivas-estudiar/ranking-deepseek.md
@@ -119,7 +119,7 @@ Comparación directa bajo la **misma hipótesis neutra de [`ranking-deepseek.md`
 | --- | :-: | --: | --: | --: | --: | --: |
 | [`cartera-definitiva-40`](../cartera-definitiva-40/100k.md) | 6 | 100,0 % | 83,39 % | 0,092 % | ~2.900 € | ~221.800 € |
 | **`cartera-ai-80-20-7-fondos` (esta propuesta)** | **7** | **70,0 %** | **81,03 %** | **0,273 %** | **8.432 €** | **212.632 €** |
-| [`cartera-ai-definitiva-final` (`100k.md`)](./100k.md) | 13 | 43,0 % | 84,24 % | 0,784 % | ~22.500 € | 200.393 € |
+| [`cartera-ai-definitiva-final` (`option-0.md`)](./option-0.md) | 13 | 43,0 % | 84,24 % | 0,784 % | ~22.500 € | 200.393 € |
 | [`cartera-ai-final-atrevida`](../cartera-ai-definitivas-estudiar/cartera-ai-final-atrevida/110k.md) | 12 | 37,3 % | 82,15 % | 0,798 % | 23.918 € | 198.205 € |
 | [`cartera-ai-carbon`](../cartera-ai-definitivas-estudiar/cartera-ai-carbon/100k.md) | 12 | 40,0 % | 80,15 % | 0,746 % | 22.263 € | 197.973 € |
 

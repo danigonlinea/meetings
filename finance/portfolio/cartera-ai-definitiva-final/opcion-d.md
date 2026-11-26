@@ -6,7 +6,7 @@ category: finance
 tags: [cartera, propuesta, opcion-d, 100k, 110k, 40-anos, 15-anos, acwi, indexado, coste-minimo, escudo-corto, alternativa-opcion-a]
 status: propuesta
 related:
-  - finance/portfolio/cartera-ai-definitiva-final/100k.md
+  - finance/portfolio/cartera-ai-definitiva-final/option-0.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-a.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-b.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-c.md
@@ -176,7 +176,7 @@ No hay *break-even alpha*: **los cuatro fondos son pasivos o monetarios**. No se
 
 ## 8. Ejecución fiscalmente neutra (`0 €` de IRPF)
 
-La mecánica es la de `100k.md` §6: traspasos entre fondos armonizados y cancelación de `Cartera Rock` con «Cancelar cartera» → «Traspasar a un fondo» (verificado en la FAQ de MyInvestor: el bróker traspasa primero a un monetario puente y desde ahí al fondo elegido). **No se toca `Groupama`.**
+La mecánica es la de `option-0.md` §6: traspasos entre fondos armonizados y cancelación de `Cartera Rock` con «Cancelar cartera» → «Traspasar a un fondo» (verificado en la FAQ de MyInvestor: el bróker traspasa primero a un monetario puente y desde ahí al fondo elegido). **No se toca `Groupama`.**
 
 | Origen | Importe | Destino `D` | Importe |
 | --- | --: | --- | --: |

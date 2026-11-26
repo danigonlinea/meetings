@@ -6,7 +6,7 @@ category: finance
 tags: [cartera, propuesta, opcion-e, 100k, 110k, 40-anos, 15-anos, activos-reales, infraestructura, materias-primas, indexado, alternativa-opcion-a]
 status: propuesta
 related:
-  - finance/portfolio/cartera-ai-definitiva-final/100k.md
+  - finance/portfolio/cartera-ai-definitiva-final/option-0.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-a.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-b.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-c.md
@@ -192,7 +192,7 @@ Tecnología `27,3 %` · Servicios financieros `15,5 %` · Industria `11,4 %` · 
 
 ## 8. Ejecución fiscalmente neutra (`0 €` de IRPF)
 
-Misma mecánica que `100k.md` §6 y `opcion-d.md` §8: traspasos entre fondos armonizados; `Cartera Rock` se cancela con «Cancelar cartera» → «Traspasar a un fondo» (FAQ de MyInvestor: el bróker traspasa primero a un monetario puente). **`Groupama` no se toca.**
+Misma mecánica que `option-0.md` §6 y `opcion-d.md` §8: traspasos entre fondos armonizados; `Cartera Rock` se cancela con «Cancelar cartera» → «Traspasar a un fondo» (FAQ de MyInvestor: el bróker traspasa primero a un monetario puente). **`Groupama` no se toca.**
 
 | Origen | Importe | Destino `E` | Importe |
 | --- | --: | --- | --: |

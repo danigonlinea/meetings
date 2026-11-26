@@ -24,7 +24,7 @@ Este documento es el mapa. Cada opción es un fichero independiente con su tabla
 | [`opcion-c.md`](./opcion-c.md) | **C — 70/30 máximo Sharpe** | 10 | 0,498 % | 69,52 % | −7,21 % | 12,62 % | 7,58 % | 195.981 € | n/d | 0 con A, B, D, E y 13 |
 | [`opcion-d.md`](./opcion-d.md) | **D — ACWI 80/20 de mínimo coste** | **4** | **0,127 %** | 80,06 % | −10,64 % | 14,59 % | 8,12 % | **216.200 €** | 18,6 % | 0 ISIN; 1 clase hermana con A |
 | [`opcion-e.md`](./opcion-e.md) | **E — 75/5/20 con activos reales** | 7 | 0,320 % | 74,91 % | −8,24 % | 14,24 % | 7,99 % | 205.700 € | 13,3 % | 0 con A, B, C, D y 13 |
-| [`100k.md`](./100k.md) | **13 fondos — convicción ex-US** | 13 | 0,784 % | 84,24 % | −5,74 % | **15,84 %** | **9,59 %** | 200.393 € | **4,24 %** | 0 con A–E |
+| [`option-0.md`](./option-0.md) | **Opción 0 — 13 fondos convicción ex-US** | 13 | 0,784 % | 84,24 % | −5,74 % | **15,84 %** | **9,59 %** | 200.393 € | **4,24 %** | 0 con A–E |
 
 *Test neutro: 6 % de RV y 3 % de escudo, sin alfa, a 15 años sobre 100.000 €. No es una previsión: es la misma vara para las seis. `n/d`: la Opción C no publica el top 10 agregado.*
 
@@ -73,7 +73,7 @@ Las seis responden a seis miedos distintos. El titular solo tiene que elegir cu�
 
 ---
 
-## 5. La cartera de 13 fondos (`100k.md`)
+## 5. La cartera de 13 fondos (`option-0.md`)
 
 La cartera de referencia del 26/11/2026, promovida desde `cartera-ai-neon-2`: **13 fondos, `43 %` indexado, `84,24 %` de RV real, `0,784 %` de TER y `0 %` de comisiones de éxito**. Es la más agresiva en RV y la que mejor backtest tiene a 3A/5A, pero también la más cara y la que más depende de que la rotación ex-US se cumpla.
 
@@ -109,3 +109,9 @@ La cartera de referencia del 26/11/2026, promovida desde `cartera-ai-neon-2`: **
 3. **`0 %` de comisiones de éxito** en A, C, D y E; B y la de 13 declaran `0 %` en sus fichas, salvo los dos casos marcados como `Pendiente`/`—` en la de 13.
 4. **Traspasos fiscalmente neutros** desde `cartera-actual.md` y cancelación de `Cartera Rock` vía «Cancelar cartera» → «Traspasar a un fondo» (FAQ de MyInvestor). `0 €` de IRPF.
 5. **Ninguna es asesoramiento financiero personalizado.** La decisión y la ejecución son del titular.
+
+---
+
+## 7. Auditoría y ranking
+
+- **[`auditoria-ranking.md`](./auditoria-ranking.md)** — Auditoría forense sobre las `45` fichas únicas y ranking institucional de las seis carteras (`option-0.md` y opciones `A–E`).
