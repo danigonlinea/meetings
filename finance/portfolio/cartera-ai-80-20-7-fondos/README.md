@@ -1,13 +1,15 @@
 ---
-title: "Cartera AI 80/20 en 7 fondos — 100.000 € libres (+10k Groupama) a 15 años (70 % indexado regional, 10 % SMID activa, 20 % escudo corto)"
+title: "Opción A — Cartera AI 80/20 en 7 fondos: 100.000 € libres (+10k Groupama) a 15 años (70 % indexado regional, 10 % SMID activa, 20 % escudo corto)"
 date: 2026-11-26
 type: portfolio-proposal
 category: finance
-tags: [cartera, propuesta, myinvestor, 100k, 110k, 40-anos, 15-anos, 80-20, 7-fondos, indexado-regional, small-caps, escudo-corto, cero-exito, traspasos, cartera-ai-80-20-7-fondos]
+tags: [cartera, propuesta, opcion-a, myinvestor, 100k, 110k, 40-anos, 15-anos, 80-20, 7-fondos, indexado-regional, small-caps, escudo-corto, cero-exito, traspasos, cartera-ai-80-20-7-fondos]
 status: propuesta
 ---
 
-# Cartera AI 80/20 en 7 fondos (`cartera-ai-80-20-7-fondos`)
+# Opción A — Cartera AI 80/20 en 7 fondos (`cartera-ai-80-20-7-fondos`)
+
+> **Marcada como Opción A el 26/11/2026** — propuesta principal de arquitectura 80/20 simplificada en 7 fondos (`0,273 %` TER, `0 / 7` comisiones de éxito, `0 %` *soft close*).
 
 Propuesta de arquitectura limpia para un inversor de **40 años a 15 años vista (2026 → 2041)** sobre **`100.000 €` libres invertibles** (`60.000 €` manuales de [`cartera-actual.md`](../cartera-myinvestor/cartera-actual.md) + `30.000 €` de `Cartera Rock` desmontada por traspaso con `0 €` de IRPF + `10.000 €` de liquidez nueva), dejando **`10.000 €` intocables aparte en `Groupama Trésorerie IC`** (`110.000 €` totales).
 
