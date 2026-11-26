@@ -7,7 +7,7 @@ tags: [cartera, propuesta, variante, myinvestor, 100k, 110k, 40-anos, 15-anos, 1
 status: propuesta
 related:
   - finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md
-  - finance/portfolio/cartera-myinvestor-propuesta/comparativa-neon-2.md
+  - finance/portfolio/cartera-myinvestor-propuesta/propuesta-neon.md
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-neon-2/100k.md
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-neon-2/README.md
   - finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md
