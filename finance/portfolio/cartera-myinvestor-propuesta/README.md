@@ -25,6 +25,7 @@ Es independiente de `../cartera-renta4/`: no comparte saldos, ni propuesta, ni c
 | --- | --- | --- |
 | `propuesta-actual.md` | La cartera entera: mandato, 7 fondos con ISIN, bloques, geografía y sectores, coste, caída, esperanza, 13 órdenes, descartes con número y señales | Sí, cuando el titular decida algo |
 | `README.md` | Este mapa | Sí, si cambia el rol de la carpeta |
+| `comparativa-neon-2.md` | **Anexo:** la Opción A frente a `cartera-ai-neon-2` (la #3 del ranking, la mejor de las activas), con las métricas homogéneas, el punto de cruce en alfa y lo que ninguna de las dos resuelve | No; es un análisis fechado |
 
 ## Lo que la define
 
