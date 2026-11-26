@@ -9,13 +9,12 @@ related:
   - finance/portfolio/cartera-ai-definitiva-final/README.md
   - finance/portfolio/cartera-ai-definitiva-final/option-0.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-a.md
-  - finance/portfolio/cartera-ai-definitiva-final/opcion-d.md
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
 ---
 
 # Auditoría forense y ranking de `cartera-ai-definitiva-final`
 
-Auditoría independiente, línea por línea y ficha por ficha (`45` ISIN únicos en `finance/fondos-myinvestor/`), de las **seis carteras** evaluadas en [`cartera-ai-definitiva-final/`](README.md): [`option-0.md`](option-0.md) (antigua `100k.md`), [`opcion-a.md`](opcion-a.md), [`opcion-d.md`](opcion-d.md) y las tres retiradas tras esta auditoría (`opcion-b.md`, `opcion-c.md` y `opcion-e.md`, conservadas en el historial de git), contrastadas contra [`cartera-actual.md`](../cartera-myinvestor/cartera-actual.md) bajo el mismo mandato (`100.000 €` libres + `10.000 €` intocables en `Groupama`, horizonte `15` años, `2026 → 2041`).
+Auditoría independiente, línea por línea y ficha por ficha (`45` ISIN únicos en `finance/fondos-myinvestor/`), de las **seis carteras** evaluadas en [`cartera-ai-definitiva-final/`](README.md): [`option-0.md`](option-0.md) (antigua `100k.md`), [`opcion-a.md`](opcion-a.md) y las cuatro retiradas tras esta auditoría (`opcion-b.md`, `opcion-c.md`, `opcion-d.md` —descartada por el titular al no incluir gestión activa en RV— y `opcion-e.md`, conservadas en el historial de git), contrastadas contra [`cartera-actual.md`](../cartera-myinvestor/cartera-actual.md) bajo el mismo mandato (`100.000 €` libres + `10.000 €` intocables en `Groupama`, horizonte `15` años, `2026 → 2041`).
 
 ---
 
@@ -91,7 +90,7 @@ Ponderación fija: **Coste y *break-even* (`25 %`)** · **Robustez multi-régime
 | Pos. | Cartera | Coste (25 %) | Multi-régimen (25 %) | Cola (20 %) | Operativa (15 %) | Integridad (15 %) | **Nota final** | Veredicto en una línea |
 | :-: | --- | --: | --: | --: | --: | --: | :-: | --- |
 | **#1** | **[`opcion-a.md`](opcion-a.md) — Opción A** | 9,0 | 8,8 | 7,8 | 9,2 | 8,8 | **8,71 / 10** | Mejor equilibrio global: coste de índice (`0,273 %`), desconcentración real, #1 en 2022–2026 (`+61,5 %`) y plan limpio en 7 fondos. |
-| **#2** | **[`opcion-d.md`](opcion-d.md) — Opción D** | 9,8 | 8,2 | 6,5 | 7,5 | 9,0 | **8,28 / 10** | Ganadora pura en capital neutro (`216.205 €`), media 4 regímenes (`211.925 €`) y coste (`0,127 %`), pero expuesta al riesgo megacap (`18,6 %`) y sin desglose de órdenes. |
+| **#2** | **`opcion-d.md` *(retirada)* — Opción D** | 9,8 | 8,2 | 6,5 | 7,5 | 9,0 | **8,28 / 10** | Ganadora pura en capital neutro (`216.205 €`), media 4 regímenes (`211.925 €`) y coste (`0,127 %`), pero expuesta al riesgo megacap (`18,6 %`), sin gestión activa en RV y sin desglose de órdenes. |
 | **#3** | **[`option-0.md`](option-0.md) — Opción 0** | 5,8 | 8,5 | 8,4 | 8,2 | 8,8 | **7,81 / 10** | La mejor cartera activa anti-burbuja (domina a B en coste, RV y 3 de 4 regímenes), pero lastrada por `13` fondos y `23.720 €` de comisiones a 15A. |
 | **#4** | **`opcion-c.md` *(retirada)* — Opción C** | 7,5 | 6,8 | 9,0 | 8,0 | 7,8 | **7,75 / 10** | Ganadora si tu límite conductual es `< −30 %` (`−26,1 %` consolidado en 2008), pero sacrifica `~17k–20k €` a 15A por bajar al `69,5 %` de RV. |
 | **#5** | **`opcion-e.md` *(retirada)* — Opción E** | 8,2 | 8,3 | 7,8 | 6,4 | 4,5 | **7,32 / 10** | Buena arquitectura de activos reales (mejor suelo mínimo en los 4 regímenes), pero castigada por el error de `+10.166 €`, falso `0` solape, `BNY` en USD y falta de órdenes. |
@@ -105,7 +104,7 @@ Ponderación fija: **Coste y *break-even* (`25 %`)** · **Robustez multi-régime
 - **Por qué gana:** consigue la mayor parte de la desconcentración de las carteras activas (`38,7 %` EE. UU. y `9,31 %` en Top 10) pagando solo `0,273 %` (`8.432 €` en 15 años frente a `23.720 €`–`25.155 €` de 0 y B). Lidera tanto el **acumulado real 2022–2026 (`+61,54 %`)** como el escenario de **Rotación Ex-US (`216.227 €`)**, queda #2 en neutro (`212.632 €`) y se opera en 7 fondos con 13 órdenes cuadradas al euro.
 - **Riesgos a vigilar:** `iShares Developed World S` (`35 %`) exige validar acceso ómnibus sin custodia en MyInvestor (mínimo de folleto `200 M€`); `Cobas Renta` (`10 %`) es un mixto (`14,5 %` RV + crédito privado con `3,9 %` Ghana), no pura liquidez sin riesgo; y tiene `0 %` en materias primas/infraestructura si la inflación repunta.
 
-### #2 — Opción D ([`opcion-d.md`](opcion-d.md)) · `8,28 / 10`
+### #2 — Opción D (`opcion-d.md`, retirada) · `8,28 / 10`
 - **Por qué es #2:** imbatible en simplicidad (`4` fondos), coste (`0,127 %`) y capital esperado sin apuestas (`216.205 €` neutro; `211.925 €` media de 4 regímenes). Cero riesgo de gestor.
 - **Por qué no es #1:** asume íntegro el riesgo de concentración actual (`63 %` EE. UU., `32,5 %` tecnología, `−9,30 %` directo si el Top 10 cae un `50 %`, peor 2022 con `−10,64 %`). Antes de ejecutarla requiere redactar la tabla de traspasos fondo a fondo desde `cartera-actual.md`, elegir puente de `Rock` y verificar en pantalla los mínimos ómnibus (`100k`/`1M`) y el KID de `Ofi` y `Mutuafondo`.
 

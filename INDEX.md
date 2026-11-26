@@ -6,7 +6,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
 | `finance/portfolio/cartera-ai-definitiva-final/option-0.md` | portfolio-proposal | finance | 2026-11-26 | Cartera AI Definitiva Final (100.000 € libres + 10.000 € intocables en Groupama, 15 años): versión definitiva de cartera-ai-neon-2 sin cambios (43 % indexado, 42 % activa ortogonal, 15 % escudo) | [cartera, propuesta, auditoria, myinvestor, 100k, 110k, 40-anos, 15-anos, indexado-pieza, value, small-caps, infraestructura, india, japon-cubierto, materias-primas, flotantes, mercados-caros, sin-repetir-neon, cartera-ai-neon-2, cartera-ai-definitiva-final] |
-| `finance/portfolio/cartera-ai-definitiva-final/opcion-d.md` | portfolio-proposal | finance | 2026-11-26 | Opción D — Cartera ACWI 80/20 de mínimo coste (4 fondos, 0,127 % TER): la alternativa que no apuesta a ninguna región | [cartera, propuesta, opcion-d, 100k, 110k, 40-anos, 15-anos, acwi, indexado, coste-minimo, escudo-corto, alternativa-opcion-a] |
 | `finance/portfolio/cartera-ai-definitiva-final/opcion-a.md` | portfolio-proposal | finance | 2026-11-26 | Opción A — Cartera AI 80/20 en 7 fondos (100.000 € libres + 10.000 € intocables en Groupama, 15 años): 70 % indexado regional desconcentrado, 10 % SMID activa y 20 % escudo corto (0,273 % TER) | [cartera, propuesta, opcion-a, myinvestor, 100k, 110k, 40-anos, 15-anos, 80-20, 7-fondos, indexado-regional, small-caps, escudo-corto, cero-exito, traspasos, cartera-ai-80-20-7-fondos] |
 | `finance/portfolio/cartera-ai-definitiva-final/auditoria-ranking.md` | portfolio-research | finance | 2026-11-26 | Auditoría forense y ranking de cartera-ai-definitiva-final (Opción 0 y Opciones A–E) | [cartera, auditoria, ranking, cartera-ai-definitiva-final, option-0, opcion-a, opcion-b, opcion-c, opcion-d, opcion-e, myinvestor, 15-anos, coste, solape, estres] |
 | `finance/videos/myinvestor-webinars/catalogo.md` | reference | finance | 2026-11-25 | Catálogo de webinars de MyInvestor | [myinvestor, webinars, catalogo, youtube] |
@@ -163,6 +162,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 157
+**Total de artefactos indexados:** 156
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
