@@ -13,6 +13,9 @@ status: living
 Reparte los `100.000 €` libres para invertir y deja intocables los `10.000 €` de `Groupama Trésorerie IC`
 (`110.000 €` totales), a 15 años vista (2026 → 2041).
 
+Aquí conviven **una propuesta vigente y dos anexos**: `propuesta-actual.md` (la que manda),
+`comparativa-neon-2.md` (por qué) y `propuesta-neon-deepseek.md` (la alternativa de 10 fondos, sin auditar).
+
 La **foto** de lo que hay hoy —saldos, 18 fondos y Rock— sigue en
 [`../cartera-myinvestor/cartera-actual.md`](../cartera-myinvestor/cartera-actual.md), y las reglas de esa
 carpeta (traspaso y nunca reembolso; Rock se desmonta por el puente monetario) aplican aquí sin cambios.
@@ -25,6 +28,7 @@ Es independiente de `../cartera-renta4/`: no comparte saldos, ni propuesta, ni c
 | --- | --- | --- |
 | `propuesta-actual.md` | La cartera entera: mandato, 7 fondos con ISIN, bloques, geografía y sectores, coste, caída, esperanza, 13 órdenes, descartes con número y señales | Sí, cuando el titular decida algo |
 | `README.md` | Este mapa | Sí, si cambia el rol de la carpeta |
+| `propuesta-neon-deepseek.md` | **Alternativa, no vigente:** la tesis de `cartera-ai-neon-2` reducida a **10 fondos** (48 / 37 / 15, `0,718 %` de TER, `84,25 %` de RV, `2022` en `−6,19 %`, `202.294 €` en el test neutro). Escrita por el agente `deepseek` y **sin la auditoría de cinco ejes** | No; es una alternativa congelada |
 | `comparativa-neon-2.md` | **Anexo:** la Opción A frente a `cartera-ai-neon-2` (la #3 del ranking, la mejor de las activas), con las métricas homogéneas, el punto de cruce en alfa y lo que ninguna de las dos resuelve | No; es un análisis fechado |
 
 ## Lo que la define

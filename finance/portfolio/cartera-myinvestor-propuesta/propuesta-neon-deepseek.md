@@ -6,6 +6,8 @@ category: finance
 tags: [cartera, propuesta, variante, myinvestor, 100k, 110k, 40-anos, 15-anos, 10-fondos, indexado-pieza, value, small-caps, infraestructura, japon-cubierto, materias-primas, cartera-ai-neon-2]
 status: propuesta
 related:
+  - finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md
+  - finance/portfolio/cartera-myinvestor-propuesta/comparativa-neon-2.md
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-neon-2/100k.md
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-neon-2/README.md
   - finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md
@@ -13,14 +15,17 @@ related:
 ---
 # Propuesta Neon (deepseek) — 10 fondos
 
-Variante de [`cartera-ai-neon-2/100k.md`](100k.md) con **tope de 10 líneas**, escrita por el agente
-`deepseek` el 26/11/2026 a petición del titular. Mismo mandato, mismo dinero y
+Variante de [`cartera-ai-neon-2/100k.md`](../../laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-neon-2/100k.md) con **tope de 10 líneas**, escrita por el
+agente `deepseek` el 26/11/2026 a petición del titular. Vive aquí, en la carpeta de la propuesta de
+MyInvestor, como **alternativa**, no como propuesta vigente: la que manda sigue siendo
+[`propuesta-actual.md`](propuesta-actual.md) (Opción A). Mismo mandato, mismo dinero y
 mismo horizonte: `100.000 €` libres para invertir + `10.000 €` intocables en `Groupama Trésorerie IC`
 (`110.000 €`), 40 años, 15 años vista (2026 → 2041), acumulación en EUR, cero ETFs, cero acciones, cero
 comisiones de éxito, traspasos fiscalmente neutros desde `cartera-actual.md`.
 
-**Qué es y qué no es.** Es la misma tesis, con tres líneas menos y lo que se gana y se pierde escrito en §0.
-**No sustituye al original**: `100k.md` es la Opción 0 y la única de las dos que ha pasado la auditoría
+**Qué es y qué no es.** Es la tesis de `cartera-ai-neon-2` con tres líneas menos, y lo que se gana y se pierde
+está escrito en §0. **No sustituye a nada**: ni a la propuesta final de esta carpeta, ni al original
+`100k.md`, que es la Opción 0 y la única de las dos que ha pasado la auditoría
 forense de cinco ejes (`7,81 / 10`). Esta versión **no está auditada**: sus cifras están calculadas con las
 mismas fórmulas de `auditoria-ranking.md` §2 y comprobadas en código, pero no han pasado una revisión
 adversarial. Si el titular la adopta, el paso que falta es correrle esa matriz y dejarle la nota al lado de
@@ -51,18 +56,18 @@ consolidan), **`−65,80 €/año`** de TER y **tres destinos menos** que manten
 
 | # | Bloque | Fondo (ficha verificada) | ISIN | € | % | TER | €/año | RV int. | 2022 | 3A | 5A | YTD 2026 |
 | --: | --- | --- | --- | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| 1 | **Indexado RV** | [iShares Developed World Index (IE) S Acc EUR](../../../fondos-myinvestor/rv-global/IE000ZYRH0Q7.md) | `IE000ZYRH0Q7` | 17.000 € | 17,0 % | **0,06 %** | 10,20 € | 100,0 % | *−12,85 %¹* | *+17,44 %¹* | *+10,02 %¹* | +14,33 % |
-| 2 | **Indexado RV** | [Fidelity MSCI Europe Index P Acc](../../../fondos-myinvestor/rv-europa/IE00BYX5MD61.md) | `IE00BYX5MD61` | 14.000 € | 14,0 % | 0,10 % | 14,00 € | 99,3 % | −9,29 % | +16,68 % | +9,52 % | +14,90 % |
-| 3 | **Indexado RV** | [Fidelity MSCI Japan Index P-ACC-EUR (hedged)](../../../fondos-myinvestor/rv-japon/IE00BYX5NH74.md) | `IE00BYX5NH74` | 9.000 € | 9,0 % | 0,20 % | 18,00 € | 100,0 % | −6,37 % | **+20,14 %** | **+16,30 %** | +13,89 % |
-| 4 | **Indexado RV** | [Fidelity MSCI Emerging Markets P-ACC-EUR](../../../fondos-myinvestor/rv-emergentes/IE00BYX5M476.md) | `IE00BYX5M476` | 8.000 € | 8,0 % | 0,20 % | 16,00 € | 99,03 % | −15,25 % | +16,95 % | +6,12 % | +14,95 % |
+| 1 | **Indexado RV** | [iShares Developed World Index (IE) S Acc EUR](../../fondos-myinvestor/rv-global/IE000ZYRH0Q7.md) | `IE000ZYRH0Q7` | 17.000 € | 17,0 % | **0,06 %** | 10,20 € | 100,0 % | *−12,85 %¹* | *+17,44 %¹* | *+10,02 %¹* | +14,33 % |
+| 2 | **Indexado RV** | [Fidelity MSCI Europe Index P Acc](../../fondos-myinvestor/rv-europa/IE00BYX5MD61.md) | `IE00BYX5MD61` | 14.000 € | 14,0 % | 0,10 % | 14,00 € | 99,3 % | −9,29 % | +16,68 % | +9,52 % | +14,90 % |
+| 3 | **Indexado RV** | [Fidelity MSCI Japan Index P-ACC-EUR (hedged)](../../fondos-myinvestor/rv-japon/IE00BYX5NH74.md) | `IE00BYX5NH74` | 9.000 € | 9,0 % | 0,20 % | 18,00 € | 100,0 % | −6,37 % | **+20,14 %** | **+16,30 %** | +13,89 % |
+| 4 | **Indexado RV** | [Fidelity MSCI Emerging Markets P-ACC-EUR](../../fondos-myinvestor/rv-emergentes/IE00BYX5M476.md) | `IE00BYX5M476` | 8.000 € | 8,0 % | 0,20 % | 16,00 € | 99,03 % | −15,25 % | +16,95 % | +6,12 % | +14,95 % |
 | — | *Subtotal 1* | *Núcleo indexado, cuatro regiones sin solape (4 fondos)* | — | *48.000 €* | *48,0 %* | *0,121 %* | *58,20 €* | *99,63 %* | *−11,00 %* | *+17,64 %* | *+10,40 %* | *+14,52 %* |
-| 5 | **Activa RV** | [Goldman Sachs Global Small CORE Equity Acc EUR](../../../fondos-myinvestor/rv-global/LU1599216113.md) | `LU1599216113` | 10.000 € | 10,0 % | 1,39 % | 139,00 € | 98,01 % | −10,26 % | +18,30 % | +9,11 % | +16,71 % |
-| 6 | **Activa RV** | [Robeco BP Global Premium Equities D EUR Acc](../../../fondos-myinvestor/rv-global/LU0203975437.md) | `LU0203975437` | 10.000 € | 10,0 % | 1,46 % | 146,00 € | 98,34 % | **+1,75 %** | +18,34 % | +11,89 % | +16,76 % |
-| 7 | **Activa RV** | [Brandes European Value Fund A Acc EUR](../../../fondos-myinvestor/rv-europa/IE0031574647.md) | `IE0031574647` | 10.000 € | 10,0 % | 1,70 % | 170,00 € | 98,93 % | **−5,29 %** | **+21,34 %** | **+14,50 %** | **+19,56 %** |
-| 8 | **Activa RV** | [Wellington Enduring Infrastructure Assets EUR D Acc](../../../fondos-myinvestor/sectoriales/IE000JMRXFF8.md) | `IE000JMRXFF8` | 7.000 € | 7,0 % | 1,68 % | 117,60 € | 98,47 % | **−3,65 %** | +17,14 % | +9,13 % | **+20,33 %** |
+| 5 | **Activa RV** | [Goldman Sachs Global Small CORE Equity Acc EUR](../../fondos-myinvestor/rv-global/LU1599216113.md) | `LU1599216113` | 10.000 € | 10,0 % | 1,39 % | 139,00 € | 98,01 % | −10,26 % | +18,30 % | +9,11 % | +16,71 % |
+| 6 | **Activa RV** | [Robeco BP Global Premium Equities D EUR Acc](../../fondos-myinvestor/rv-global/LU0203975437.md) | `LU0203975437` | 10.000 € | 10,0 % | 1,46 % | 146,00 € | 98,34 % | **+1,75 %** | +18,34 % | +11,89 % | +16,76 % |
+| 7 | **Activa RV** | [Brandes European Value Fund A Acc EUR](../../fondos-myinvestor/rv-europa/IE0031574647.md) | `IE0031574647` | 10.000 € | 10,0 % | 1,70 % | 170,00 € | 98,93 % | **−5,29 %** | **+21,34 %** | **+14,50 %** | **+19,56 %** |
+| 8 | **Activa RV** | [Wellington Enduring Infrastructure Assets EUR D Acc](../../fondos-myinvestor/sectoriales/IE000JMRXFF8.md) | `IE000JMRXFF8` | 7.000 € | 7,0 % | 1,68 % | 117,60 € | 98,47 % | **−3,65 %** | +17,14 % | +9,13 % | **+20,33 %** |
 | — | *Subtotal 2* | *Cuatro motores ortogonales, `0 %` éxito (4 fondos)* | — | *37.000 €* | *37,0 %* | *1,548 %* | *572,60 €* | *98,44 %* | *−4,42 %* | *+18,91 %* | *+11,32 %* | *+18,18 %* |
-| 9 | **Escudo** | [EDM Renta R FI](../../../fondos-myinvestor/renta-fija/ES0127795005.md) *(también puente de Rock)* | `ES0127795005` | 10.000 € | 10,0 % | 0,30 % | 30,00 € | 0,0 % | −0,15 % | +2,94 % | +2,22 % | +1,93 % |
-| 10 | **Escudo** | [GSQuartix Modified Strategy Bloomberg Commodity A EUR](../../../fondos-myinvestor/mixtos/LU0397155978.md) | `LU0397155978` | 5.000 € | 5,0 % | 1,15 % | 57,50 € | 0,0 % | **+14,83 %** | +10,58 % | +6,93 % | **+17,48 %** |
+| 9 | **Escudo** | [EDM Renta R FI](../../fondos-myinvestor/renta-fija/ES0127795005.md) *(también puente de Rock)* | `ES0127795005` | 10.000 € | 10,0 % | 0,30 % | 30,00 € | 0,0 % | −0,15 % | +2,94 % | +2,22 % | +1,93 % |
+| 10 | **Escudo** | [GSQuartix Modified Strategy Bloomberg Commodity A EUR](../../fondos-myinvestor/mixtos/LU0397155978.md) | `LU0397155978` | 5.000 € | 5,0 % | 1,15 % | 57,50 € | 0,0 % | **+14,83 %** | +10,58 % | +6,93 % | **+17,48 %** |
 | — | *Subtotal 3* | *Escudo corto y pólvora seca (2 fondos)* | — | *15.000 €* | *15,0 %* | *0,583 %* | *87,50 €* | *0,0 %* | ***+4,84 %*** | *+5,49 %* | *+3,79 %* | *+7,11 %* |
 | **TOT.** | **Invertible** | **10 fondos · 7 gestoras · `0 %` éxito** | — | **100.000 €** | **100 %** | **0,718 %** | **718,30 €** | **84,25 %** | **−6,19 %** | **+16,29 %** | **+9,75 %** | **+14,76 %** |
 | *Fuera* | *Colchón* | *`Groupama Trésorerie IC` (intacto, `0` órdenes)* | `FR0000989626` | *10.000 €* | — | *0,07 %* | *7,00 €* | *0,0 %* | *~0,00 %* | *+2,98 %* | *—* | *—* |
@@ -217,14 +222,15 @@ World S` sin custodia. Si alguna no se cumple, `100k.md` §3.1 tiene el plan B p
 2. **Conservar India y sacar infraestructura** (`Ashoka` `7.000 €`, `Wellington` fuera): TER `676,30 €/año`
    (`0,676 %`), `2022` `−6,81 %` y el motor con peor 3A del bloque (`+7,96 %` frente a `+17,14 %`). Ahorra
    `42 €/año` y cuesta `0,62 pp` en el año malo: no compensa con los datos de las fichas.
-3. **Volver al original** (`100k.md`): `+65,80 €/año` y tres líneas más, a cambio de `0,45 pp` mejor en 2022
+3. **Volver al original** ([`100k.md`](../../laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-neon-2/100k.md)): `+65,80 €/año` y tres líneas más, a cambio de `0,45 pp` mejor en 2022
    y de conservar India y el tramo USD flotante.
 
 ---
 
 ## 8. Pendientes
 
-- Decidir si la variante sustituye a `100k.md` como propuesta de trabajo o si convive como alternativa.
+- Decidir si esta variante se ejecuta en lugar de `propuesta-actual.md` (Opción A) o si se queda como alternativa
+  documentada. Hoy no hay decisión tomada.
 - Confirmar en pantalla los cuatro mínimos de folleto y el acceso ómnibus a `iShares Developed World S`.
 - Dimensionar el colchón con los gastos reales (sigue siendo el pendiente de siempre, igual que en el
   original y en la propuesta final).

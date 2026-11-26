@@ -11,11 +11,10 @@ status: propuesta
 
 Auditoría forense de `finance/portfolio/cartera-myinvestor/propuesta-actual.md` (04/11/2026) y nueva arquitectura de cartera construida **desde cero** para un inversor de **40 años a 15 años vista (2026 → 2041)** sobre **`100.000 €` libres invertibles** (más `10.000 €` intocables aparte en `Groupama Trésorerie IC` = `110.000 €` totales; con escalados exactos a `97.000 €` y `90.000 €`), barriendo las **2.007 fichas** de [`finance/fondos-myinvestor/`](../../../fondos-myinvestor/README.md) con **estricto `0 / 13` solape frente a `cartera-ai-neon`** (ni ISINs ni clases hermanas de sus 13 fondos titulares ni de sus 5 variantes).
 
-- **[`propuesta-neon-deepseek.md`](propuesta-neon-deepseek.md)** — **Variante con tope de 10 líneas escrita por
-  el agente `deepseek`** (misma tesis, mismo dinero; sin auditar):
-  `48 / 37 / 15` de indexado, activa y escudo, `0,718 %` de TER (`718,30 €/año`, `−65,80 €/año` frente a
-  `100k.md`), `84,25 %` de RV real, `2022` en `−6,19 %` y `202.294 €` en el test neutro, con 17 órdenes.
-  Sale India, se funden Europa y el crédito corto en una línea cada uno y el núcleo mundial pasa al `0,06 %`.
+- **La variante de 10 líneas vive fuera de esta carpeta:** el titular la guardó como alternativa de la
+  cartera de MyInvestor en
+  [`finance/portfolio/cartera-myinvestor-propuesta/propuesta-neon-deepseek.md`](../../../portfolio/cartera-myinvestor-propuesta/propuesta-neon-deepseek.md).
+  Su punto de partida es este `100k.md`.
 - **[`100k.md`](100k.md)** — Documento completo: auditoría de `propuesta-actual.md`, selección de los 13 fondos `0 %` éxito, radiografía *look-through*, backtest 2022–2026 YTD, proyecciones a 15 años, 16 traspasos + 1 suscripción + puente fiscal neutro de Rock, descartes con cifra y gobierno a 15 años.
 
 ## Tesis en cinco líneas
