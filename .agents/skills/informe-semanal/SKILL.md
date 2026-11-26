@@ -24,7 +24,7 @@ description: Usar cuando corra la revisión semanal de canales (cron del agente 
   quiere cerrarlo, es un encargo aparte.
 - **Máximo 3 piezas por ejecución.** En serie: YouTube responde 429 en paralelo.
 - Nada de `--force`. Un `transcript.json` existente no se toca.
-- **No se edita `finance/portfolio/propuesta-actual.md` ni se dan órdenes.** El informe propone
+- **No se edita `finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md` ni se dan órdenes.** El informe propone
   candidatos; la cartera la decide el dueño.
 - Una pieza sin subtítulos se salta y se anota; no se resume de memoria.
 - Si una semana no hay nada publicado, **no se escribe informe ni se commitea**: se responde el
@@ -92,7 +92,7 @@ Reglas:
 ## Paso 6: Encaje en la cartera
 
 Lee `finance/portfolio/cartera-myinvestor/cartera-actual.md` (inventario de los 18 fondos, sin reglas) y
-`propuesta-actual.md` (§4, §5, §8, §10). Para cada candidato escribe:
+`finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md` (§4, §5, §8, §10). Para cada candidato escribe:
 
 | Candidato | ISIN | Clase de activo | Solape con la cartera | Coste (TER + entrada/salida) | Encaje | Qué habría que quitar |
 | --- | --- | --- | --- | --- | --- | --- |

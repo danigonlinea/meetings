@@ -15,11 +15,11 @@ finance/                        inversión y finanzas
       catalogo.md               catálogo generado de los webinars y su estado
     el-arte-de-invertir/        canal El Arte de Invertir
     others/                     piezas sueltas de otros canales (Big Think, ...)
-  portfolio/                    las tres carteras vivas (no se consolidan)
-    README.md                   mapa de las tres carpetas y reglas
-    cartera-myinvestor/         MyInvestor: 97.000 € (manual + Rock)
+  portfolio/                    las dos carteras reales (no se consolidan)
+    README.md                   mapa de las carteras y sus reglas
+    cartera-myinvestor/         MyInvestor: 97.000 € (manual + Rock), la foto
+    cartera-myinvestor-propuesta/ la propuesta final de MyInvestor (sin ejecutar)
     cartera-renta4/             Renta 4 Banco: 34.769 €
-    cartera-ai-propuesta/       la propuesta elegida: Opción A del ranking (sin ejecutar)
   laboratorio-carteras/         los diseños a estudio: no se ejecutan ni se consolidan
     README.md                   mapa de las 25 propuestas y 1 cartera de un tercero
   fondos-myinvestor/            BD de fondos de MyInvestor (2.007 fichas en 12 carpetas de clase:

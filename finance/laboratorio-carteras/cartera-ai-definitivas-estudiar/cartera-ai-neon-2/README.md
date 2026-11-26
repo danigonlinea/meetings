@@ -9,7 +9,7 @@ status: propuesta
 
 # Cartera AI Neon 2 (`cartera-ai-neon-2`)
 
-Auditoría forense de [`finance/portfolio/cartera-myinvestor/propuesta-actual.md`](../../../portfolio/cartera-myinvestor/propuesta-actual.md) (04/11/2026) y nueva arquitectura de cartera construida **desde cero** para un inversor de **40 años a 15 años vista (2026 → 2041)** sobre **`100.000 €` libres invertibles** (más `10.000 €` intocables aparte en `Groupama Trésorerie IC` = `110.000 €` totales; con escalados exactos a `97.000 €` y `90.000 €`), barriendo las **2.007 fichas** de [`finance/fondos-myinvestor/`](../../../fondos-myinvestor/README.md) con **estricto `0 / 13` solape frente a `cartera-ai-neon`** (ni ISINs ni clases hermanas de sus 13 fondos titulares ni de sus 5 variantes).
+Auditoría forense de `finance/portfolio/cartera-myinvestor/propuesta-actual.md` (04/11/2026) y nueva arquitectura de cartera construida **desde cero** para un inversor de **40 años a 15 años vista (2026 → 2041)** sobre **`100.000 €` libres invertibles** (más `10.000 €` intocables aparte en `Groupama Trésorerie IC` = `110.000 €` totales; con escalados exactos a `97.000 €` y `90.000 €`), barriendo las **2.007 fichas** de [`finance/fondos-myinvestor/`](../../../fondos-myinvestor/README.md) con **estricto `0 / 13` solape frente a `cartera-ai-neon`** (ni ISINs ni clases hermanas de sus 13 fondos titulares ni de sus 5 variantes).
 
 - **[`100k.md`](100k.md)** — Documento completo: auditoría de `propuesta-actual.md`, selección de los 13 fondos `0 %` éxito, radiografía *look-through*, backtest 2022–2026 YTD, proyecciones a 15 años, 16 traspasos + 1 suscripción + puente fiscal neutro de Rock, descartes con cifra y gobierno a 15 años.
 

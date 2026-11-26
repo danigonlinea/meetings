@@ -9,7 +9,7 @@ status: propuesta
 
 # Cartera AI Argon (`cartera-ai-argon`)
 
-Diseño nacido de la auditoría cruzada de [`propuesta-pieza.md`](../../../portfolio/cartera-myinvestor/propuesta-pieza.md), las nueve propuestas de [`cartera-ai-definitivas-estudiar/`](../README.md) y el barrido sistemático de las **2.011 fichas individuales** de [`finance/fondos-myinvestor/`](../../../fondos-myinvestor/README.md), construido sobre los saldos reales de [`finance/portfolio/cartera-myinvestor/cartera-actual.md`](../../../portfolio/cartera-myinvestor/cartera-actual.md) (**100.000 €** = **90.000 € invertibles** + **10.000 € de colchón en Groupama**) para un horizonte de **15 años vista (40 → 55 años)** en un entorno de múltiplos caros en EE. UU.
+Diseño nacido de la auditoría cruzada de `propuesta-pieza.md`, las nueve propuestas de [`cartera-ai-definitivas-estudiar/`](../README.md) y el barrido sistemático de las **2.011 fichas individuales** de [`finance/fondos-myinvestor/`](../../../fondos-myinvestor/README.md), construido sobre los saldos reales de [`finance/portfolio/cartera-myinvestor/cartera-actual.md`](../../../portfolio/cartera-myinvestor/cartera-actual.md) (**100.000 €** = **90.000 € invertibles** + **10.000 € de colchón en Groupama**) para un horizonte de **15 años vista (40 → 55 años)** en un entorno de múltiplos caros en EE. UU.
 
 - **[`100k.md`](100k.md)** — Documento completo de la cartera: auditoría de lo que corrige frente a `propuesta-pieza.md`, los 13 fondos verificados en el catálogo, radiografía *look-through*, *break-even alpha*, prueba de estrés en 2022 y 2008, protocolo anticrisis, plan de 1.000 €/mes y **14 órdenes de traspaso cuadradas al euro** desde `cartera-actual.md`.
 

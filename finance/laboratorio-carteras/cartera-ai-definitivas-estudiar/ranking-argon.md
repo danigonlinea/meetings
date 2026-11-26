@@ -18,12 +18,11 @@ related:
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/100k.md
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-andres/100k.md
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
-  - finance/portfolio/cartera-myinvestor/propuesta-pieza.md
 ---
 
 # Auditoría institucional y ranking de `cartera-ai-definitivas-estudiar`
 
-Auditoría técnica, cuantitativa y forense de los diez expedientes agrupados en [`finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/`](README.md) (contenedor de propuestas con un rango objetivo de **30 % a 45 % en fondos indexados**), contrastados frente a la foto real de [`cartera-actual.md`](../../portfolio/cartera-myinvestor/cartera-actual.md), la propuesta viva [`propuesta-pieza.md`](../../portfolio/cartera-myinvestor/propuesta-pieza.md) y las 2.011 fichas individuales verificadas en [`finance/fondos-myinvestor/`](../../fondos-myinvestor/README.md).
+Auditoría técnica, cuantitativa y forense de los diez expedientes agrupados en [`finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/`](README.md) (contenedor de propuestas con un rango objetivo de **30 % a 45 % en fondos indexados**), contrastados frente a la foto real de [`cartera-actual.md`](../../portfolio/cartera-myinvestor/cartera-actual.md), la propuesta viva `propuesta-pieza.md` y las 2.011 fichas individuales verificadas en [`finance/fondos-myinvestor/`](../../fondos-myinvestor/README.md).
 
 ---
 
@@ -48,13 +47,13 @@ Antes de entrar al ranking, la auditoría línea por línea de los documentos re
   - Inventa que el titular posee `14.000 €` en `Cobas Internacional C` (`ES0119199000`), `5.000 €` en `NB Next Gen Space` (`IE00050T89N3`), `5.000 €` en `UBS Greater China` (`LU0072913022`), `10.000 €` en `Neuberger Short Duration I` (`IE00BFZMJT78`), `8.000 €` en `DNCA Alpha Bonds B` (`LU1694789535`) y `8.000 €` en `Carmignac Sécurité` (`FR0010149120`).
   - La foto real de [`cartera-actual.md`](../../portfolio/cartera-myinvestor/cartera-actual.md#L36-L47) tiene **`22.000 €` en `Neuberger U` (`IE00BL1GVT98`), `13.000 €` en `DNCA A` (`LU1694789451`), `12.000 €` en `Carmignac Portfolio Credit A` (`LU1623762843`), `8.000 €` en `Gamma Global A` (`ES0140794001`), `2.000 €` en `MyInvestor Value C` (`ES0165243025`) y solo `1.000 €` en cada uno de `Cobas International P` (`LU1598719752`), `NB Space` (`IE00018YKVN0`) y `UBS MSCI China` (`LU1815002040`)**.
 - **Citas inexactas a otras carteras del repositorio ([`cartera-ai-neon/110k.md` §5.2, líneas 244–246](cartera-ai-neon/110k.md#L244-L246)):**
-  - Atribuye a [`propuesta-pieza.md`](../../portfolio/cartera-myinvestor/propuesta-pieza.md) un «63,00 % indexado y ~80,0 % RV», cuando en realidad tiene **38,3 % indexado y 54,6 % RV**.
+  - Atribuye a `propuesta-pieza.md` un «63,00 % indexado y ~80,0 % RV», cuando en realidad tiene **38,3 % indexado y 54,6 % RV**.
   - Atribuye a [`cartera-ai-final-atrevida/110k.md`](cartera-ai-final-atrevida/110k.md) un «~89,5 % RV» y afirma que incluye `Azvalor Internacional` y `Magallanes M`, cuando en realidad tiene **82,15 % RV**, no incluye Azvalor y descartó expresamente `Magallanes M` en su §8 en favor de `Brandes European Value`.
   - Atribuye a [`cartera-ai-hy4-definitiva/100k.md`](cartera-ai-hy4-definitiva/100k.md) un «39,00 % indexado, ~74,1 % RV, TER 0,74 % y uso de `Magallanes ES0159259011`», cuando en realidad tiene **35,00 % indexado, 65,5 % RV, TER 0,537 %** y excluyó expresamente a Magallanes en su §3.
 
 ### 1.2. Incumplimiento del rango del contenedor (30–45 %) en el documento base de `cartera-ai-rock-desmontado`
 - El contenedor agrupa carteras entre el **30 % y el 45 % de indexado**. Sin embargo, la tabla titular de [`cartera-ai-rock-desmontado/100k.md` (§4, líneas 109–125)](cartera-ai-rock-desmontado/100k.md#L109-L125) construye y ordena el **Nivel A**, que invierte **`62.500 €` de `90.000 €` invertibles en fondos indexados = `69,44 %` indexado (`62,50 %` sobre `100.000 €`)**.
-- El Nivel C (`38,3 %` indexado) solo aparece mencionado como variante resumida en su §14 ([líneas 423–434](cartera-ai-rock-desmontado/100k.md#L423-L434)), cuyo desarrollo real son [`propuesta-pieza.md`](../../portfolio/cartera-myinvestor/propuesta-pieza.md) y [`cartera-ai-final-conservadora/100k.md`](cartera-ai-final-conservadora/100k.md).
+- El Nivel C (`38,3 %` indexado) solo aparece mencionado como variante resumida en su §14 ([líneas 423–434](cartera-ai-rock-desmontado/100k.md#L423-L434)), cuyo desarrollo real son `propuesta-pieza.md` y [`cartera-ai-final-conservadora/100k.md`](cartera-ai-final-conservadora/100k.md).
 
 ### 1.3. Infravaloración del TER titular por fondos sin dato publicado en `cartera-ai-andres`
 - [`cartera-ai-andres/100k.md` (§2 y §3, líneas 49–80)](cartera-ai-andres/100k.md#L49-L80) declara un TER de **`0,463 %` (`463,30 €/año`)**, pero ese número suma `0,00 €` de coste fijo en dos fondos que representan el **18 % de la cartera (`18.000 €`)**: `MyInvestor Value C` (`8.000 €`) y `Kaizen Global Income` (`10.000 €`), ambos marcados como `no publicado` y ambos con un **9 % de comisión de éxito**.

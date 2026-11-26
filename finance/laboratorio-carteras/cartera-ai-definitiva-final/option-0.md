@@ -6,9 +6,7 @@ category: finance
 tags: [cartera, propuesta, auditoria, myinvestor, 100k, 110k, 40-anos, 15-anos, indexado-pieza, value, small-caps, infraestructura, india, japon-cubierto, materias-primas, flotantes, mercados-caros, sin-repetir-neon, cartera-ai-neon-2, cartera-ai-definitiva-final]
 status: propuesta
 related:
-  - finance/portfolio/cartera-myinvestor/propuesta-actual.md
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
-  - finance/portfolio/cartera-myinvestor/propuesta-pieza.md
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/README.md
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/ranking-deepseek.md
   - finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/ranking-argon.md
@@ -36,7 +34,7 @@ related:
 
 Después de cinco décadas viendo ciclos completos —estanflación de los 70, Japón 1989, la burbuja punto-com de 2000, la crisis de crédito de 2008 y el shock de tipos de 2022—, la lección más cara que paga un inversor de 40 años es **confundir prudencia con parálisis, o diversificación con acumulación de etiquetas**.
 
-La auditoría línea a línea de [`finance/portfolio/cartera-myinvestor/propuesta-actual.md`](../../portfolio/cartera-myinvestor/propuesta-actual.md) (la propuesta 55/45 de `97.000 €` del 04/11/2026, ya marcada como `superseded` el 18/11 por [`propuesta-pieza.md`](../../portfolio/cartera-myinvestor/propuesta-pieza.md)) contrastada contra los saldos reales de [`cartera-actual.md`](../../portfolio/cartera-myinvestor/cartera-actual.md) y los hechos de mercado de finales de noviembre de 2026 revela **siete fallos estructurales** que impiden que esa cartera cumpla el mandato de rentabilidad a 15 años:
+La auditoría línea a línea de `finance/portfolio/cartera-myinvestor/propuesta-actual.md` (la propuesta 55/45 de `97.000 €` del 04/11/2026, ya marcada como `superseded` el 18/11 por `propuesta-pieza.md`) contrastada contra los saldos reales de [`cartera-actual.md`](../../portfolio/cartera-myinvestor/cartera-actual.md) y los hechos de mercado de finales de noviembre de 2026 revela **siete fallos estructurales** que impiden que esa cartera cumpla el mandato de rentabilidad a 15 años:
 
 | # | Fallo auditado en `propuesta-actual.md` | Evidencia verificada en el repositorio | Daño compuesto a 15 años (40 → 55 años) |
 | :-: | --- | --- | --- |
@@ -174,7 +172,7 @@ No obstante, si el titular prefiere sustituir la volatilidad cíclica de las mat
 
 ### 2.5. Escalado exacto a `90.000 €` (sin dinero nuevo) y a `97.000 €` (`+7.000 €` de `propuesta-actual.md`)
 
-Si el titular decide ejecutar la arquitectura hoy sin aportar los `10.000 €` nuevos —o aportando exactamente los `7.000 €` previstos en [`propuesta-actual.md`](../../portfolio/cartera-myinvestor/propuesta-actual.md)—, las tres tallas **respetan el 100 % de los mínimos de folleto** (`Brandes` siempre en `10.000 €` para cubrir `10.000 USD`, `GS Small CORE` siempre `≥5.000 €`, `Wellington` siempre `≥5.000 USD`, `GSQuartix` siempre `≥1.000 €`):
+Si el titular decide ejecutar la arquitectura hoy sin aportar los `10.000 €` nuevos —o aportando exactamente los `7.000 €` previstos en `propuesta-actual.md`—, las tres tallas **respetan el 100 % de los mínimos de folleto** (`Brandes` siempre en `10.000 €` para cubrir `10.000 USD`, `GS Small CORE` siempre `≥5.000 €`, `Wellington` siempre `≥5.000 USD`, `GSQuartix` siempre `≥1.000 €`):
 
 | # | Fondo (`ISIN`) | **Talla titular `100.000 €`** *(+10k nuevos)* | **Talla `97.000 €`** *(+7k de `propuesta-actual`)* | **Talla `90.000 €`** *(0 € nuevos desde `cartera-actual`)* |
 | --: | --- | --: | --: | --: |
@@ -276,7 +274,7 @@ En España, los traspasos entre fondos de acumulación armonizados están exento
 
 | Cartera del repositorio | Base | % Indexado | % RV real | % EE. UU. s/RV | Top 10 US Tech s/total | TER fijo (éxito) | **2022 real** | **Test DeepSeek 15A (6 %/3 % sin alfa, 100k)** | Cruce vs `rock-desm.` |
 | --- | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| [`propuesta-actual.md`](../../portfolio/cartera-myinvestor/propuesta-actual.md) *(auditada)* | 97k *(+10k)* | ~58 % *(c/Rock)* | 55,00 % | 30,0 % | ~8,0 % | 0,438 % *(0)* | ~−7,8 % | 186.100 € | — |
+| `propuesta-actual.md` *(auditada)* | 97k *(+10k)* | ~58 % *(c/Rock)* | 55,00 % | 30,0 % | ~8,0 % | 0,438 % *(0)* | ~−7,8 % | 186.100 € | — |
 | [`cartera-ai-final-atrevida`](../cartera-ai-definitivas-estudiar/cartera-ai-final-atrevida/110k.md) | 110k *(100+10)* | 37,27 % | 82,15 % | 43,1 % | ~7,5 % | 0,798 % *(0)* | — | 198.205 € | 5,09 % |
 | [`cartera-ai-carbon`](../cartera-ai-definitivas-estudiar/cartera-ai-carbon/100k.md) | 100k *(+10k)* | 40,00 % *(36,4 %)* | 84,14 % *(76,5 %)* | 34,8 % | 5,33 % | 0,776 % *(0)* | −5,59 % *(−5,05 %)* | 197.973 € *(s/80,15 %)* / 200.270 € *(s/84,14 %)* | 5,05 % |
 | [`cartera-ai-argon`](../cartera-ai-definitivas-estudiar/cartera-ai-argon/100k.md) | 100k *(90+10)* | 37,78 % *(34,0 %)* | 76,40 % *(68,8 %)* | 25,4 % | 4,80 % | 0,798 % *(0,725 %; 1)* | −5,04 % *(−4,54 %)* | 189.071 € *(s/100k)* | 6,64 % |

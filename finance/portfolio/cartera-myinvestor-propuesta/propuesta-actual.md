@@ -17,10 +17,13 @@ related:
 
 # Opción A — Cartera AI 80/20 en 7 fondos — 100.000 € libres (+ 10.000 € en Groupama) a 15 años (2026 → 2041)
 
-> **Estado:** **Opción A** (marcada el 26/11/2026, pendiente de ejecución por el titular). Desde el
-> 26/11/2026 es la **propuesta viva** del repositorio: `finance/portfolio/cartera-ai-propuesta/`. El
-> documento se movió aquí desde `laboratorio-carteras/cartera-ai-definitiva-final/`, donde era la #1 del
-> ranking; la carpeta de origen conserva el ranking y la finalista `option-0.md`.
+> **Estado:** **propuesta final de la cartera de MyInvestor** (marcada el 26/11/2026, pendiente de
+> ejecución por el titular). Es la **Opción A** del ranking forense de
+> `laboratorio-carteras/cartera-ai-definitiva-final/`, la #1 de seis, y vive en su propia carpeta:
+> `finance/portfolio/cartera-myinvestor-propuesta/`. La foto de lo que hay hoy —saldos, 18 fondos y
+> Rock— sigue en [`../cartera-myinvestor/cartera-actual.md`](../cartera-myinvestor/cartera-actual.md);
+> las propuestas anteriores de esta cartera (`propuesta-actual.md` del 04/11, `propuesta-pieza.md` del
+> 18/11 y `propuesta-70-30.md` del 19/11) se retiraron el mismo día y están en el historial de git.
 
 - **Fecha del diseño:** 26/11/2026
 - **Perfil:** Inversor de **40 años** con horizonte de **15 años vista (2026 → 2041, hasta los 55 años)** que prioriza renta variable (`~80 %` real), bajo coste compuesto (`<0,30 %` TER), desconcentración de EE. UU. y de las 10 megacaps tecnológicas sin depender de múltiples gestores activos, y sencillez operativa en **7 fondos**.

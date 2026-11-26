@@ -1,6 +1,6 @@
 ---
 title: "Cartera MyInvestor: cómo funciona esta carpeta"
-date: 2026-11-18
+date: 2026-11-26
 type: reference
 category: finance
 tags: [cartera, indice, proceso]
@@ -13,60 +13,62 @@ dentro de `finance/portfolio/`. Es independiente de `../cartera-renta4/`: no com
 propuesta, ni cifras. El resto de material financiero (vídeos, webinars, informes) está en las otras
 subcarpetas de `finance/`.
 
+**Aquí vive la foto; la propuesta vive al lado.** Desde el 26/11/2026 esta carpeta guarda solo lo que
+existe de verdad (saldos, posiciones, ISIN) y la propuesta final está en
+[`../cartera-myinvestor-propuesta/`](../cartera-myinvestor-propuesta/README.md).
+
 ## Un documento por papel
 
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
 | `cartera-actual.md` | **Fotografía congelada** del estado real a 30/10/2026: saldos, pesos, ISIN, TER, TIR, duración, Rock y consolidado de 90.000 €. Fuente de verdad de las posiciones | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
-| `propuesta-pieza.md` | **La cartera final y única** (18/11/2026): **38,3 % de indexado como pieza**, **23,3 % de convicción activa** (Magallanes, Horos, Cobas Large Cap) y 38,3 % de gestión de crédito, 54,6 % de RV, 529,90 €/año, Rock desmontado por traspaso, 23 órdenes, plan de 1.000 €/mes, geografía medida (36,7 % EE. UU.), seis escenarios y la prueba que invalida el diseño en 2029. **⚠️ Pendiente de la revisión del titular** (pedida el 18/11): **no se ejecuta ninguna orden hasta esa revisión** | **Sí**, es el documento de trabajo |
-| `propuesta-actual.md` | **Superada** (04/11/2026, nivel 55/45 con Rock intacto). Se conserva por su **§2**, que es la fuente del criterio del 55 % citado por otras propuestas | **No.** Solo se corrige una errata de datos |
-| `propuesta-70-30.md` | **Alternativa indexada 70/30** (19/11/2026, sobre los 90.000 € invertibles): siete fondos indexados (42 % MSCI World S, 10 % Europa, 9 % emergentes, 9 % small caps y 30 % RF en tres tramos), 69,61 % de RV real, 102,85 €/año (0,1029 % sobre 100.000 €), caída de manual −25.879 €, cero comisiones de éxito y 12 traspasos en dos fases. Sin ejecutar: alternativa pasiva de contraste frente a `propuesta-pieza.md` | **No.** Alternativa de contraste |
-| `propuesta-acciones.md` | **Bloque de riesgo aparte**: cuatro acciones individuales sin dividendo. No forma parte de la cartera de fondos, no entra en su look-through y no se rebalancea contra ella | Sí, pero nunca se suma a la cartera de fondos |
+| `README.md` | Este mapa | Sí, si cambia el rol de la carpeta |
 
-**Una sola propuesta viva.** La carpeta llegó a tener cinco propuestas paralelas con cinco cifras
-distintas de la misma cartera; el 04/11/2026 se resolvieron en `propuesta-actual.md` y se borraron. El
-**18/11/2026** se repitió el ejercicio con la pregunta que quedaba abierta —cuánto indexado— y
-`propuesta-ai.md` (60/40 en once fondos **indexados**, 0,224 %) se retiró por partir de la premisa
-contraria a la que el titular eligió. Su contenido íntegro sigue en el historial de git (último commit:
-`5fae506`). **No se crean carteras paralelas:** si aparece una idea, o entra en la propuesta vigente o se
-descarta con el número delante.
+| Fuera de esta carpeta | Rol |
+| --- | --- |
+| `../cartera-myinvestor-propuesta/propuesta-actual.md` | **La propuesta final de esta cartera** (26/11/2026): la Opción A del ranking, 7 fondos, 70 % de indexado regional, 10 % de SMID activa y 20 % de escudo corto, `81,03 %` de RV real y `0,273 %` de TER, sobre los 100.000 € libres + los 10.000 € intocables en `Groupama`. Sin ejecutar |
+| `../cartera-myinvestor-propuesta/README.md` | El mapa de esa propuesta y sus pendientes |
 
-La variante con **Rock como pieza fija y monetario escalonado** vive en su propia carpeta,
-`finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/`, y la de **nivel A (69,4 % indexado)** en
-`finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`. Ninguna se ejecuta a la vez que otra: la adoptada es
-`propuesta-pieza.md` y las demás quedan como alternativas con su precio escrito.
+**Una sola propuesta.** La carpeta llegó a tener cinco propuestas paralelas con cinco cifras distintas
+de la misma cartera; se resolvieron en un único documento y se borraron. El **26/11/2026** se retiraron
+las tres que quedaban —`propuesta-actual.md` (55/45 del 04/11), `propuesta-pieza.md` (38,3 % de indexado
+como pieza, 18/11) y `propuesta-70-30.md` (alternativa pasiva del 19/11)— junto con
+`propuesta-acciones.md`, y el titular eligió la **Opción A** del ranking del laboratorio: es la propuesta
+final y vive en la carpeta de al lado. Los cuatro documentos siguen íntegros en el historial de git
+(último commit con los tres primeros: `4f8e2bd`). **No se crean carteras paralelas:** si aparece una
+idea, o entra en la propuesta vigente o se descarta con el número delante.
+
+Las variantes que se quedaron en el laboratorio siguen ahí con su precio escrito: **Rock como pieza fija
+y monetario escalonado** en
+`finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/` y el
+**nivel A (69,4 % indexado)** en
+`finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`. Ninguna se
+ejecuta a la vez que otra: la adoptada es la propuesta final.
 
 El diagnóstico, el veredicto frente a las fuentes y las revisiones adversariales **no viven en ficheros
 aparte**: sus conclusiones están dentro de la propuesta y el debate que las produjo, en el historial de
 git. Un documento por rol evita las dos verdades.
 
-## Estado a 18/11/2026
+## Estado a 26/11/2026
 
-- **⚠️ Revisión pendiente del titular.** La cartera está cerrada como documento, pero el titular pidió
-  revisarla otro día antes de ejecutarla: **las 23 órdenes de §9 no se lanzan hasta entonces**. Si alguien
-  pregunta por esta cartera, lo primero que hay que contestar es que está pendiente de revisión.
-- **Cartera:** 100.000 € totales = 10.000 € de colchón (Groupama, fuera de la cartera) + 90.000 €
-  invertibles (60.000 € manuales + 30.000 € en Rock).
-- **Reparto:** **54,6 % de RV / 45,4 % de RF y caja** por look-through; **38,3 % del capital en cinco
-  fondos índice** (0,12 % de media) y **61,7 % en ocho activos** (0,87 % de media). Coste total
-  **529,90 €/año (0,530 %)**, cero comisiones de éxito.
-- **Trece fondos:** World 17.000 · EM 6.000 · Small-Cap 4.000 · REITs 3.500 · Agg 1-5Y 4.000 ·
-  Magallanes Europe 9.000 · Horos Value 6.000 · Cobas Large Cap 6.000 · Cobas Renta 6.000 · Neuberger
-  11.000 · M&G 6.000 · Aegon ABS 8.000 · DWS Ultra Short 3.500.
-- **Ejecución:** **23 traspasos en dos fases** (17 manuales hoy + 6 desde el puente de Rock) y una
-  cancelación de cartera automatizada. Traspaso y nunca reembolso: 0 € de impuestos; reembolsar Rock
-  costaría ≈2.590 €.
-- **Caída estimada tipo 2008: −23,2 % (−20.885 €).** Duración de la RF **1,54** (−630 € por +100 pb).
-- **Aportación:** 1.000 €/mes (799 € mensuales + 603 € trimestrales / 3).
+- **Foto vigente:** `cartera-actual.md` a 30/10/2026. 100.000 € totales = 10.000 € de colchón (Groupama,
+  fuera de la cartera) + 90.000 € invertibles (60.000 € manuales + 30.000 € en Rock), con el inventario
+  de los 18 fondos.
+- **Propuesta final:** la Opción A, en `../cartera-myinvestor-propuesta/propuesta-actual.md`.
+  ⚠️ **Sin ejecutar**: la decisión y la fecha son del titular, y no se lanza ninguna orden hasta
+  entonces.
+- **Lo que la propuesta cambia respecto a la foto:** Rock se desmonta por el puente monetario
+  (**0 € de impuestos**: es traspaso, nunca reembolso) y los 90.000 € invertibles más los 10.000 € que
+  hoy son colchón se reparten en siete fondos; el colchón se queda fuera de la cartera.
 - **Pendiente antes de la primera orden:** los **gastos mensuales** (el colchón de 10.000 € nunca se
-  dimensionó contra un dato real, hoy 833 €/mes asumidos), la **comisión de suscripción en pantalla** de
-  los trece destinos y la confirmación de que los 7.000 € de aportación nueva están en la cuenta
-  (`propuesta-pieza.md` §14: entran en World 3.000 · Magallanes 2.000 · Aegon 2.000).
+  dimensionó contra un dato real, hoy 833 €/mes asumidos) y la **comisión de suscripción en pantalla** de
+  los siete destinos.
 
 ## Reglas de esta carpeta
 
 - Un dato se escribe una vez: la foto en `cartera-actual.md`, la decisión y su porqué en
-  `propuesta-pieza.md`. Ningún fichero replica la tabla de posiciones del otro.
+  `../cartera-myinvestor-propuesta/propuesta-actual.md`. Ningún fichero replica la tabla de posiciones
+  del otro.
 - Toda propuesta se ejecuta por **traspaso** entre fondos armonizados, nunca por reembolso.
 - Nada se mueve sin verificar antes la clase del fondo y su coste real en la plataforma.
 - **Rock sí se desmonta, y sin tributar.** La regla anterior («Rock no se desmonta: la plusvalía se
