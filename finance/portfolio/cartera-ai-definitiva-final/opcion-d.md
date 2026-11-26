@@ -8,9 +8,7 @@ status: propuesta
 related:
   - finance/portfolio/cartera-ai-definitiva-final/option-0.md
   - finance/portfolio/cartera-ai-definitiva-final/opcion-a.md
-  - finance/portfolio/cartera-ai-definitiva-final/opcion-b.md
-  - finance/portfolio/cartera-ai-definitiva-final/opcion-c.md
-  - finance/portfolio/cartera-ai-definitiva-final/opcion-e.md
+  - finance/portfolio/cartera-ai-definitiva-final/auditoria-ranking.md
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
   - finance/fondos-myinvestor/README.md
 ---

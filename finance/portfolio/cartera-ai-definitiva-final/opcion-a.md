@@ -10,8 +10,8 @@ related:
   - finance/portfolio/cartera-myinvestor/cartera-actual.md
   - finance/portfolio/cartera-definitiva-40/100k.md
   - finance/portfolio/cartera-ai-definitiva-final/option-0.md
-  - finance/portfolio/cartera-ai-definitiva-final/opcion-b.md
-  - finance/portfolio/cartera-ai-definitiva-final/opcion-c.md
+  - finance/portfolio/cartera-ai-definitiva-final/opcion-d.md
+  - finance/portfolio/cartera-ai-definitiva-final/auditoria-ranking.md
   - finance/portfolio/cartera-ai-definitivas-estudiar/ranking-deepseek.md
   - finance/portfolio/cartera-ai-definitivas-estudiar/ranking-argon.md
 ---
