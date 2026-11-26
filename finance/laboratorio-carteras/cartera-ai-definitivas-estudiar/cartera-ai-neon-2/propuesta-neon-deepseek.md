@@ -1,5 +1,5 @@
 ---
-title: "Cartera AI Neon 2 — versión de 10 fondos: misma tesis con 3 líneas menos, 65,80 €/año menos y el bloque activo en 4 motores"
+title: "Propuesta Neon (deepseek) — 10 fondos: la tesis de cartera-ai-neon-2 con 3 líneas menos, 65,80 €/año menos y 4 motores activos"
 date: 2026-11-26
 type: portfolio-proposal
 category: finance
@@ -11,15 +11,20 @@ related:
   - finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md
   - finance/laboratorio-carteras/cartera-ai-definitiva-final/auditoria-ranking.md
 ---
-# Cartera AI Neon 2 — versión de 10 fondos
+# Propuesta Neon (deepseek) — 10 fondos
 
-Variante de [`cartera-ai-neon-2/100k.md`](100k.md) con **tope de 10 líneas**. Mismo mandato, mismo dinero y
+Variante de [`cartera-ai-neon-2/100k.md`](100k.md) con **tope de 10 líneas**, escrita por el agente
+`deepseek` el 26/11/2026 a petición del titular. Mismo mandato, mismo dinero y
 mismo horizonte: `100.000 €` libres para invertir + `10.000 €` intocables en `Groupama Trésorerie IC`
 (`110.000 €`), 40 años, 15 años vista (2026 → 2041), acumulación en EUR, cero ETFs, cero acciones, cero
 comisiones de éxito, traspasos fiscalmente neutros desde `cartera-actual.md`.
 
-**No sustituye al original.** `100k.md` es la Opción 0 auditada (7,81/10) y se queda como está; esta es la
-versión simplificada para la misma tesis, con lo que se gana y lo que se pierde escritos en §0.
+**Qué es y qué no es.** Es la misma tesis, con tres líneas menos y lo que se gana y se pierde escrito en §0.
+**No sustituye al original**: `100k.md` es la Opción 0 y la única de las dos que ha pasado la auditoría
+forense de cinco ejes (`7,81 / 10`). Esta versión **no está auditada**: sus cifras están calculadas con las
+mismas fórmulas de `auditoria-ranking.md` §2 y comprobadas en código, pero no han pasado una revisión
+adversarial. Si el titular la adopta, el paso que falta es correrle esa matriz y dejarle la nota al lado de
+`option-0.md`.
 
 Análisis técnico sobre fichas del repositorio. **No es asesoramiento financiero**: la decisión es del titular.
 
