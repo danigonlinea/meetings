@@ -245,6 +245,8 @@ La mecánica es la de `100k.md` §6: traspasos entre fondos armonizados y cancel
 
 **Conclusión verificable:** `D` es la **mejor cartera del contenedor para maximizar capital a 15 años con 80 % de RV y coste mínimo** (216.200 €, el más alto del test neutro). No es la mejor para minimizar la caída de 2022 (esa es `B`) ni para cubrir inflación (esa es `E`). Por eso es **una de las dos mejores alternativas a `A`**, no la única: la otra es `E`, que cubre el riesgo que `D` deja abierto.
 
+**Referencia externa (para no sobrevender `D`):** [`cartera-definitiva-40`](../cartera-definitiva-40/100k.md) —6 indexados, `83,39 %` de RV, `0,092 %` de TER— supera a `D` en el mismo test neutro (`≈221.800 €` según la tabla de `opcion-a.md`) porque lleva 3,3 puntos más de RV y `16 %` de renta fija con duración. Pero su 2022 es peor (`−11,79 %` vs `−10,64 %`), su estrés 2008 también (`−33,85 %` vs `−32,62 %`), usa tres fondos de `A`/`B` y no es una opción de este contenedor. `D` sigue siendo la mejor **80/20 con cuatro fondos y solape cero**; si el titular quiere el máximo capital del repositorio, la referencia a batir es `cartera-definitiva-40`, no `D`.
+
 **Lo que `D` no es:** no es la cartera "más segura". Es la más barata y la más diversificada por número de apuestas, pero también la más expuesta a las 10 megacaps. Si el escenario del titular es el pinchazo de la IA, `D` es la peor de las cinco.
 
 ---

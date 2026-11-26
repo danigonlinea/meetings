@@ -39,7 +39,7 @@ Las seis responden a seis miedos distintos. El titular solo tiene que elegir cu�
 | **Que EE. UU. y las megacaps se desinflen** | **A** o **13** | A deja EE. UU. en el `38,7 %` de la RV; la de 13, en el `31,1 %`. Son las dos apuestas ex-US. |
 | **Que la caída de 2022 se repita** | **B** | Es la que menos cae (`−5,52 %`) y la que más protección compra con value, Japón, EM quant y cat bonds. Cuesta `0,847 %`. |
 | **No aguantar un `−30 %`** | **C** | 69,5 % de RV, `−7,21 %` en 2022 y estrés 2008 `−28,7 %`. Renuncia a rentabilidad: `195.981 €` a 15A. |
-| **Quedarse fuera de EE. UU.** | **D** | Replica ACWI: `63,0 %` EE. UU., `4` fondos, `0,127 %` y `216.200 €`, el mayor capital del test neutro. |
+| **Quedarse fuera de EE. UU.** | **D** | Replica ACWI: `63,0 %` EE. UU., `4` fondos, `0,127 %` y `216.200 €`, el mayor capital de las cinco opciones. |
 | **Que la inflación se quede en el 3,5-4 %** | **E** | Es la única con `5 %` de materias primas y `7 %` de infraestructura; gana el escenario inflacionario (`207.600 €`). |
 | **Maximizar el backtest 2022-2026** | **13** | `15,84 %` a 3A y `9,59 %` a 5A, pero con `0,784 %` de TER y dos apuestas (Japón y small caps) que ya han pagado. |
 
@@ -60,6 +60,8 @@ Las seis responden a seis miedos distintos. El titular solo tiene que elegir cu�
 ### `opcion-d.md` — la cartera que no apuesta
 
 **4 fondos, `0,127 %` de TER, `80,06 %` de RV, `216.200 €` en el test neutro.** Es la cartera ACWI: `70 %` `iShares World D` (`0,12 %`), `10 %` `Vanguard EM` (`0,23 %`) y `20 %` de liquidez corta (`Ofi` `0,06 %` + `Mutuafondo` `0,14 %`). No repite ningún ISIN de A, B, C ni de la cartera de 13; la única concesión es que la clase D del `iShares World` es hermana de la clase S que usa A (misma gestora e índice, distinto ISIN y distinto historial). Es la **mejor cartera del contenedor para maximizar capital a 15 años con 80 % de RV y coste mínimo**.
+
+**Referencia externa:** [`cartera-definitiva-40`](../cartera-definitiva-40/100k.md) —6 indexados, `83,39 %` de RV, `0,092 %` de TER— supera a `D` en el mismo test neutro (`≈221.800 €`), pero lleva `16 %` de renta fija con duración (`2022 −11,79 %`), usa tres fondos de A/B y queda fuera de este contenedor. `D` es la mejor **80/20 con cuatro fondos y solape cero**; la referencia absoluta de capital es `cartera-definitiva-40`.
 
 **Su pega:** concentra el `18,6 %` en las 10 megacaps y el `32,5 %` de la RV en tecnología. Es la apuesta contraria a A: si el pinchazo de la IA llega, D es la peor de las cinco.
 
