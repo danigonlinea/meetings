@@ -1,13 +1,13 @@
 ---
 name: cartera-andres
-description: Usar cuando se ingiera un vídeo de resultados mensuales de La Pizarra de Andrés o cuando haya que actualizar, consultar o analizar la cartera personal del canal (finance/portfolio/cartera-de-andres/).
+description: Usar cuando se ingiera un vídeo de resultados mensuales de La Pizarra de Andrés o cuando haya que actualizar, consultar o analizar la cartera personal del canal (finance/laboratorio-carteras/cartera-de-andres/).
 ---
 
 # Cartera de Andrés
 
 ## Metadatos
 
-- Carpeta: `finance/portfolio/cartera-de-andres/`.
+- Carpeta: `finance/laboratorio-carteras/cartera-de-andres/`.
 - Vigente: `cartera-actual.md` (`status: living`). Histórico: `anteriores/` (`status: superseded`).
 - Fuente de verdad: los `summary.md` de `finance/videos/la-pizarra-de-andres/YYYY-MM-DD-*/`.
 - Script de cierre: `python3 tools/build_index.py && python3 tools/verify.py`.
@@ -43,8 +43,8 @@ Reglas de precisión del repo, sin excepción:
 ## Paso 2: archivar la versión vigente
 
 ```bash
-cp finance/portfolio/cartera-de-andres/cartera-actual.md \
-   finance/portfolio/cartera-de-andres/anteriores/YYYY-MM-DD-resultados-<mes>.md
+cp finance/laboratorio-carteras/cartera-de-andres/cartera-actual.md \
+   finance/laboratorio-carteras/cartera-de-andres/anteriores/YYYY-MM-DD-resultados-<mes>.md
 ```
 
 En la copia: cambiar `status: living` por `status: superseded`, ajustar `date` a la fecha del vídeo y

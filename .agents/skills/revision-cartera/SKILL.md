@@ -7,8 +7,9 @@ description: Usar cuando toque la revisión trimestral de una cartera o cuando e
 
 ## Metadatos
 
-- Carpeta: `finance/portfolio/`. Cada cartera tiene su propio fichero: `cartera-myinvestor/`,
-  `cartera-renta4/`, `cartera-ai-definitivas-estudiar/cartera-ai-andres/<talla>.md`.
+- Carpeta: `finance/portfolio/`. Cada cartera viva tiene su propio fichero: `cartera-myinvestor/`,
+  `cartera-renta4/` y `cartera-ai-propuesta/` (la Opción A del ranking del 26/11/2026). Los diseños
+  descartados o a estudio no se revisan aquí: viven en `finance/laboratorio-carteras/`.
 - Salida: `finance/portfolio/revision-YYYY-QN.md` con `type: portfolio-review`.
 - Esta skill **no decide** el % de RV ni ejecuta órdenes. Ordena los hechos y escribe la revisión.
 

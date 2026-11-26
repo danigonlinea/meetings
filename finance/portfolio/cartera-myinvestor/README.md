@@ -32,8 +32,8 @@ contraria a la que el titular eligió. Su contenido íntegro sigue en el histori
 descarta con el número delante.
 
 La variante con **Rock como pieza fija y monetario escalonado** vive en su propia carpeta,
-`finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/`, y la de **nivel A (69,4 % indexado)** en
-`finance/portfolio/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`. Ninguna se ejecuta a la vez que otra: la adoptada es
+`finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-rock-index-value-todo/`, y la de **nivel A (69,4 % indexado)** en
+`finance/laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`. Ninguna se ejecuta a la vez que otra: la adoptada es
 `propuesta-pieza.md` y las demás quedan como alternativas con su precio escrito.
 
 El diagnóstico, el veredicto frente a las fuentes y las revisiones adversariales **no viven en ficheros

@@ -4,7 +4,8 @@ Enrutado para agentes. Repositorio `investing-meetings`: transcripciones, resúm
 de inversión (`finance/`) e IA (`ai/`).
 
 **Orden de lectura: este archivo → `INDEX.md` → el artefacto concreto.** Si el tema es la
-cartera, añade `finance/portfolio/README.md` como cuarto paso.
+cartera viva, añade `finance/portfolio/README.md` como cuarto paso; si es un diseño a estudio,
+`finance/laboratorio-carteras/README.md`.
 
 ## 1. Enrutado
 
@@ -13,6 +14,8 @@ cartera, añade `finance/portfolio/README.md` como cuarto paso.
 | Su cartera, rebalanceo, traspasos, "¿qué hago con mi dinero?" | `finance/portfolio/` | El `README.md` de la carpeta y luego `cartera-actual.md` → `propuesta-actual.md` |
 | Cartera de MyInvestor (manual + Rock) | `finance/portfolio/cartera-myinvestor/` | `propuesta-actual.md` |
 | Cartera de Renta 4 Banco | `finance/portfolio/cartera-renta4/` | `propuesta-actual.md` |
+| Propuesta elegida de 100.000 € (Opción A), "¿ejecuto lo que decidí?" | `finance/portfolio/cartera-ai-propuesta/` | `propuesta-actual.md` |
+| "¿Y las otras 25 propuestas / por qué se descartó esta?" | `finance/laboratorio-carteras/` | Su `README.md` → carpeta del diseño → `auditoria-ranking.md` si es del contenedor final |
 | Un fondo, ETF o acción que tiene o le han recomendado | `finance/portfolio/` | Su ficha en el `cartera-actual.md` de la carpeta que lo tenga, luego los `summary.md` que lo nombran |
 | Macro, tipos, inflación, renta fija, mercados | `finance/videos/la-pizarra-de-andres/` | `summary.md` más reciente del tema |
 | Gestoras, entrevistas, "qué dice MyInvestor" | `finance/videos/myinvestor-webinars/` | `catalogo.md` → carpeta del webinar → `summary.md` |
@@ -23,7 +26,8 @@ cartera, añade `finance/portfolio/README.md` como cuarto paso.
 | Terminología (IA o finanzas) | `reference/glossary-technical.md` | — |
 | Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §11 → skill `revision-cartera` |
 
-Las dos carteras son independientes: no se suman, ni se comparan, ni se rebalancea una contra la otra.
+Las tres carteras vivas son independientes entre sí, y los 25 diseños del laboratorio no son carteras
+reales: no se suman, ni se comparan, ni se rebalancea una contra otra.
 
 Si la pregunta cruza `finance/` y `ai/` (p. ej. "¿la burbuja de la IA afecta a mi cartera?"),
 responde desde `finance/` y usa `ai/` solo como contexto.
@@ -57,7 +61,7 @@ Nombres de carpeta, frontmatter YAML y comandos: `README.md`.
 - `cribado-acciones` — barre el universo global de acciones sin dividendo (`dividendo = 0` verificado
   en dos fuentes) y devuelve la tabla con nivel A/B dentro de `propuesta-acciones.md`.
 - `cartera-andres` — actualiza, consulta y analiza la cartera personal de Andrés
-  (`finance/portfolio/cartera-de-andres/`) al ingerir un vídeo de resultados mensuales.
+  (`finance/laboratorio-carteras/cartera-de-andres/`) al ingerir un vídeo de resultados mensuales.
 
 Las tres primeras escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutilizan `ingest-meeting`.
 
@@ -67,7 +71,8 @@ Las tres primeras escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutil
 | --- | --- |
 | `README.md` | Mapa completo, convenciones de nombres, frontmatter, comandos |
 | `INDEX.md` | Todos los artefactos, con ruta, tipo, categoría, fecha, título y tags |
-| `finance/portfolio/README.md` | Las dos carteras y sus reglas; cada subcarpeta tiene su propio `README.md` |
+| `finance/portfolio/README.md` | Las tres carteras vivas y sus reglas; cada subcarpeta tiene su propio `README.md` |
+| `finance/laboratorio-carteras/README.md` | Las 25 propuestas a estudio y la cartera de un tercero; ninguna se ejecuta ni se consolida |
 | `ytpipe/README.md` | Formato de `transcript.json` y opciones del CLI |
 
 ## 5. Definición de hecho

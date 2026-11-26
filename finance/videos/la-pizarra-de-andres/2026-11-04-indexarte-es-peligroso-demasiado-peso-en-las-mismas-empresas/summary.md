@@ -362,7 +362,7 @@ La transcripción viene de YouTube con `has_speaker_labels: false` y `speaker_co
 
 - El intercambio de 50:21-50:52 encadena réplicas cortas de las dos voces sin pausa clara: como turno aislado es `no atribuible con certeza`. Por contenido —habla de «clientes» y de «las carteras que gestionaba vía fondos», y después se dirige a «los gestores» como terceros— se atribuye a Andrés y va marcado `(inferida)`.
 - En ese mismo tramo está la frase «yo tengo la cartera equilibrada también en un 7 y pico que tiene un 60% de renta variable o un 55 que tengo ahora» (06:54-06:58): es la única cifra de reparto de renta variable que da el autor y va `(inferida)`, no como dato de la cuenta.
-- Esa cifra y el 15% indexado son coherentes con el YTD del 7,40% del vídeo del 2026-11-01, y así se anotan en `finance/portfolio/cartera-de-andres/cartera-actual.md`; no se elevan a dato verificado en ninguno de los dos sitios.
+- Esa cifra y el 15% indexado son coherentes con el YTD del 7,40% del vídeo del 2026-11-01, y así se anotan en `finance/laboratorio-carteras/cartera-de-andres/cartera-actual.md`; no se elevan a dato verificado en ninguno de los dos sitios.
 
 ### Nombres propios
 

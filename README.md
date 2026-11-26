@@ -15,10 +15,13 @@ finance/                        inversión y finanzas
       catalogo.md               catálogo generado de los webinars y su estado
     el-arte-de-invertir/        canal El Arte de Invertir
     others/                     piezas sueltas de otros canales (Big Think, ...)
-  portfolio/                    dos carteras independientes (no se consolidan)
-    README.md                   mapa de las dos carpetas y reglas
+  portfolio/                    las tres carteras vivas (no se consolidan)
+    README.md                   mapa de las tres carpetas y reglas
     cartera-myinvestor/         MyInvestor: 97.000 € (manual + Rock)
     cartera-renta4/             Renta 4 Banco: 34.769 €
+    cartera-ai-propuesta/       la propuesta elegida: Opción A del ranking (sin ejecutar)
+  laboratorio-carteras/         los diseños a estudio: no se ejecutan ni se consolidan
+    README.md                   mapa de las 25 propuestas y 1 cartera de un tercero
   fondos-myinvestor/            BD de fondos de MyInvestor (2.007 fichas en 12 carpetas de clase:
                                 205 del volcado MCP detenido + snapshot completo de 1.980 fondos de
                                 listado-app; ver su README.md)
@@ -88,7 +91,8 @@ repite al otro.
 | `synthesis` | **Juicio propio sobre un periodo**: foto en una página, dónde se contradicen, qué no dar por bueno, plan de acción y señales a vigilar. | Al cerrar un periodo o cuando hay dos o más tandas |
 | `revision` | **Auditoría de resúmenes**: qué decía el resumen, qué dice la transcripción, qué se corrigió. | Tras una ingesta con revisión adversarial |
 
-En `finance/portfolio/` viven además los documentos de cartera (`portfolio-snapshot`,
+En `finance/portfolio/` (carteras vivas) y `finance/laboratorio-carteras/` (diseños a estudio) viven
+además los documentos de cartera (`portfolio-snapshot`,
 `portfolio-diagnosis`, `portfolio-analysis`, `portfolio-proposal`, `portfolio-research`,
 `portfolio-alternative`): cruzan las fuentes con las posiciones reales y caducan con la cartera, por eso
 no están en `reports/`. Los dos últimos son anexos de investigación: o se adoptan en la propuesta y se

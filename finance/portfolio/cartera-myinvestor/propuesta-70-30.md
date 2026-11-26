@@ -5,7 +5,7 @@ type: portfolio-proposal
 category: finance
 tags: [cartera, propuesta, myinvestor, 70-30, indexado, ishares, vanguard, sensata, eficiente, diversificada, 40-anos, traspasos]
 status: propuesta
-related: [finance/portfolio/cartera-myinvestor/README.md, finance/portfolio/cartera-myinvestor/cartera-actual.md, finance/portfolio/cartera-myinvestor/propuesta-pieza.md, finance/portfolio/cartera-definitiva-40/100k.md]
+related: [finance/portfolio/cartera-myinvestor/README.md, finance/portfolio/cartera-myinvestor/cartera-actual.md, finance/portfolio/cartera-myinvestor/propuesta-pieza.md, finance/laboratorio-carteras/cartera-definitiva-40/100k.md]
 ---
 
 # Propuesta 70/30 — 90.000 € invertibles (+ 10.000 € de colchón)
@@ -292,7 +292,7 @@ tienen clase S o D de acumulación; si la plataforma ofrece otra clase, no se ej
 | | **Total** | **30.000** | |
 
 - **Rock se desmonta por traspaso, nunca por reembolso**: el procedimiento paso a paso está en `propuesta-pieza`
-  §9.3 y en `cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`, y el puente monetario evita cualquier hueco fiscal.
+  §9.3 y en `../../laboratorio-carteras/cartera-ai-definitivas-estudiar/cartera-ai-rock-desmontado/`, y el puente monetario evita cualquier hueco fiscal.
 - **Ningún fondo de origen está en soft close** salvo Cobas International (1.000 €), que **se puede traspasar
   igualmente**: el soft close limita suscripciones, no reembolsos ni traspasos de salida.
 
