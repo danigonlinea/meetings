@@ -15,6 +15,7 @@ no comparte saldos, ni propuesta, ni cifras.
 | --- | --- | --- |
 | `cartera-actual.md` | **Foto congelada** del estado a 02/11/2026: saldos, pesos, OGC, look-through, duración estimada | **No.** Un cambio de saldos genera `cartera-actual-YYYY-MM-DD.md` |
 | `propuesta-actual.md` | **La propuesta vigente (21/11/2026)**: seis fondos sin indexados, Kaizen al 25 %, Sigma 26,08 %, Magallanes 12 %, Akira 8 %, RF R 17,93 % y 6 Meses 10,99 %; RV 50 %, 393,02 €/año, 3,71 % neto y seis traspasos | **Sí** |
+| `propuesta-80-20.md` | **Alternativa atrevida 80/20 (26/11/2026, 7–8 años)**: cinco fondos con indexado + value + small caps globales, Kaizen al 15 % y 10 % de pólvora seca, sin Akira; RV 80,48 %, 297,97 €/año (0,857 %), 4,99 % neto neutro y seis traspasos. Pendiente de decidir si sustituye a `propuesta-actual.md` | **Sí** |
 | `propuesta-2026-11-02.md` | **Historial**: la auditoría y la propuesta v2 del 02/11/2026 (Kaizen al 25 % y 3.618 € a un indexado). Superada el 21/11/2026. Se conserva por su análisis de la renta fija y la clase de Fidelity verificada | **No** |
 
 ## Estado a 02/11/2026
