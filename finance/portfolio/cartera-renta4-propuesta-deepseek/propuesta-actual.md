@@ -58,24 +58,24 @@ con **seis traspasos, sin pagar impuestos**.
 
 ## 3. Las operaciones (tabla)
 
-Seis traspasos internos entre fondos armonizados, **0 € de IRPF**:
+Seis traspasos internos entre fondos armonizados, **0 € de IRPF** (nunca «reembolso»):
 
-| # | Desde | Hacia | € |
-| --: | --- | --- | --: |
-| 1 | AXA Euro Credit Total Return (`LU1164219682`) — parcial | Fidelity MSCI World | 5.806,74 |
-| 2 | AXA Euro Credit Total Return — resto | Robeco BP Global Premium | 107,01 |
-| 3 | Renta 4 Renta Fija R (`ES0176954008`) — total | Fidelity MSCI World | 12.273,24 |
-| 4 | Kaizen Global Income — parcial | Vanguard Emerging Markets | 4.172,30 |
-| 5 | Kaizen Global Income — parcial | Robeco BP Global Premium | 4.661,24 |
-| 6 | Renta 4 Renta Fija 6 Meses — parcial | Robeco BP Global Premium | 1.490,21 |
+| # | Tipo | Desde (origen) | Hacia (destino) | ISIN destino | € |
+| --: | --- | --- | --- | --- | --: |
+| 1 | **Traspaso TOTAL** | Renta 4 Renta Fija R (`ES0176954008`) — se cierra | Fidelity MSCI World Index P Acc | `IE00BYX5NX33` | 12.273,24 |
+| 2 | **Traspaso TOTAL** | AXA Euro Credit Total Return (`LU1164219682`) — se cierra | Robeco BP Global Premium D EUR | `LU0203975437` | 5.913,75 |
+| 3 | Traspaso parcial | Kaizen Global Income (`ES0156674006`) | Fidelity MSCI World Index P Acc | `IE00BYX5NX33` | 5.806,74 |
+| 4 | Traspaso parcial | Kaizen Global Income (`ES0156674006`) | Vanguard Emerging Markets EUR Acc | `IE0031786696` | 3.026,80 |
+| 5 | Traspaso parcial | Renta 4 Renta Fija 6 Meses (`ES0128520006`) | Vanguard Emerging Markets EUR Acc | `IE0031786696` | 1.145,50 |
+| 6 | Traspaso parcial | Renta 4 Renta Fija 6 Meses (`ES0128520006`) | Robeco BP Global Premium D EUR | `LU0203975437` | 344,71 |
 
-Quedan: **Kaizen 3.476,92 €** y **Renta 4 6 Meses 2.781,54 €**. AXA y RF R se cierran enteros.
+**Qué queda sin tocar (ya está en cartera):** **Kaizen `3.476,92 €` (10 %)** (sale `8.833,54 €` de los `12.310,46 €`) y **Renta 4 Renta Fija 6 Meses `2.781,54 €` (8 %)** (sale `1.490,21 €` de los `4.271,75 €`). Solo se vacían a `0 €` `Renta 4 Renta Fija R` y `AXA Euro Credit` mediante traspaso total (así no quedan céntimos residuales si varió el valor liquidativo desde el 02/11/2026).
 
 **Antes de lanzar la primera orden:**
 
-1. Confirmar en pantalla el mínimo de `IE0031786696` (folleto 1 M€; plataforma 10 €). Si exigiera el
-   de folleto, plan B: `Fidelity MSCI Europe P Acc` (`IE00BYX5MD61`) al mismo 12 %.
-2. Confirmar que R4 no aplica el 3,00 % de suscripción de AXA.
+1. Confirmar en pantalla el mínimo de `IE0031786696` (folleto 1 M€; plataforma 10 €). Si exigiera un mínimo alto y bloqueara la orden, **plan B para las órdenes 4 y 5:** `Amundi IS Core MSCI Emerging Markets AE-C` (`LU0996177134`, mínimo 0 €, verificado en `r4.com`, `+9,18 €/año`; mantiene intacto el 12 % en emergentes sin duplicar Europa).
+2. Confirmar **`0,00 %`** de suscripción en `Robeco` (`LU0203975437`, folleto máx. 5 %) y que R4 no aplica el 3,00 % de AXA.
+3. Ajustar los importes parciales de `Kaizen` y `Renta 4 6 Meses` al saldo real del día para dejar aproximadamente un **10 %** y un **8 %** del total vigente.
 
 **Cortes:** órdenes a Robeco antes de las **14:00**; a Fidelity/Vanguard antes de las **16:00**. Lanza
 todo antes de las **12:00** (corte de Kaizen) para que los traspasos entren el mismo día.
