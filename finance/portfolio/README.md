@@ -14,7 +14,8 @@ se escribe en un documento aparte con su propia fecha.
 
 La cartera de MyInvestor ocupa **dos carpetas**: `cartera-myinvestor/` guarda la **foto** de lo que hay
 (saldos, 18 fondos, Rock) y `cartera-myinvestor-propuesta/` la **propuesta final**, la Opción A elegida el
-26/11/2026. Renta 4 vive en una sola, con foto y propuesta dentro.
+26/11/2026. Renta 4 vive en `cartera-renta4/` (foto y propuestas) y en
+`cartera-renta4-propuesta-deepseek/`, una hoja independiente sobre la misma cuenta y otro criterio.
 
 Los otros **veinticinco diseños** (las dos familias de cinco, el contenedor de estudio entre el 30 % y el
 45 % de indexado, la cartera de referencia a los 40) y la cartera de un tercero están en
@@ -25,7 +26,8 @@ ejecutan y no entran en ninguna cifra de esta carpeta.
 | --- | --- | --- |
 | `cartera-myinvestor/` | **La foto.** 100.000 € = 90.000 € invertibles (60.000 € manuales + 30.000 € de Rock) + 10.000 € de colchón, a 30/10/2026 | `cartera-actual.md` (inventario de los 18 fondos, con ISIN, TER, TIR y duración) + `README.md` de mapa |
 | `cartera-myinvestor-propuesta/` | **La propuesta final de esa cartera (26/11/2026): la Opción A del ranking forense, `8,71/10` sobre seis.** Reparte los 100.000 € libres y deja intocables los 10.000 € de `Groupama` (`110.000 €` totales), 15 años (2026 → 2041): 7 fondos, `70 %` indexado regional desconcentrado, `10 %` de SMID activa y `20 %` de escudo corto (`81,03 %` de RV real, `0,273 %` de TER, 13 órdenes). ⚠️ Sin ejecutar | `README.md` de mapa + `propuesta-actual.md` (la cartera entera) + `propuesta-neon.md` (frente a la #3 del ranking) + `propuesta-neon-deepseek.md` (alternativa de 10 fondos, sin auditar) |
-| `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-2026-11-02.md` (auditoría, rangos de mejora y propuesta del 02/11; historial) + `propuesta-actual.md` (**la propuesta vigente desde el 21/11/2026**: seis fondos sin indexados, Kaizen 25 %, Sigma 26,08 %, Magallanes 12 %, Akira 8 %, RV 50 %, 393,02 €/año y 3,71 % neto) |
+| `cartera-renta4/` | 34.769,20 € en cuatro fondos, cuenta de Renta 4 Banco | `cartera-actual.md` (foto 02/11/2026) + `propuesta-2026-11-02.md` (auditoría, rangos de mejora y propuesta del 02/11; historial) + `propuesta-actual.md` (**la propuesta vigente desde el 21/11/2026**: seis fondos sin indexados, Kaizen 25 %, Sigma 26,08 %, Magallanes 12 %, Akira 8 %, RV 50 %, 393,02 €/año y 3,71 % neto) + `propuesta-80-20.md` (atrevida 80/20 del 26/11/2026: cinco fondos, RV 80,48 %, 297,97 €/año) |
+| `cartera-renta4-propuesta-deepseek/` | **Propuesta independiente para la misma cuenta de Renta 4 (27/11/2026, ⚠️ sin ejecutar)**: 85/15 en cinco fondos, núcleo MSCI World + emergentes + Robeco value + Kaizen 10 % + 8 % de pólvora seca; RV 85,35 %, **215,82 €/año (0,621 %)**, caída −11.978 € y 5,46 % neto | `README.md` de mapa + `propuesta-actual.md` (la cartera entera, con revisión adversarial) + `verificacion-finect.md` (disponibilidad y comisiones en R4, ISIN a ISIN) |
 
 Las acciones individuales son un **bloque de riesgo aparte** del titular: no forman parte de ninguna de
 las dos carteras, no entran en su look-through y no se rebalancean contra ellas. Su documento de trabajo
@@ -82,3 +84,8 @@ las dos carteras, no entran en su look-through y no se rebalancean contra ellas.
   caída **−21,04 % (−7.315 €)**, **3,71 % neto** (3,22 % con éxito) y seis traspasos. Frente a la misma
   cartera con índice (228,86 €/año y 4,21 %) el mandato cuesta **+164 €/año y −4.461 € a 15 años**. Pendiente:
   adoptarla, el peso de Akira (8 % o 0 %) y verificar la custodia de Akira y la suscripción de AXA.
+- **Renta 4, hoja DeepSeek (27/11/2026, ⚠️ sin ejecutar):** `cartera-renta4-propuesta-deepseek/` propone
+  **85,35 % de RV en cinco fondos** —Fidelity MSCI World 52 %, Vanguard Emergentes 12 %, Robeco BP 18 %,
+  Kaizen 10 % y Renta 4 6 Meses 8 %— con **215,82 €/año (0,621 %)**, caída **−11.978 €** y **5,46 % neto**
+  (6,23 % central). Frente a la 80/20 del 26/11: +4,9 pp de RV y −82 €/año. No sustituye a nada hasta que
+  el titular decida. Pendiente: el mínimo real de `IE0031786696` en R4 y la suscripción de AXA.
