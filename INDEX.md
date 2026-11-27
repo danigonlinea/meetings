@@ -5,6 +5,7 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 
 | Ruta | Tipo | Categoría | Fecha | Título | Tags |
 | --- | --- | --- | --- | --- | --- |
+| `finance/portfolio/cartera-renta4/propuesta-neon.md` | portfolio-proposal | finance | 2026-11-27 | Cartera Renta 4 — propuesta Neon 81/19 «Cero Solape con Kaizen» en 5 fondos (34.769,20 €, 7–8 años): núcleo MSCI World + Robeco Value + Amundi EM + Kaizen (15 %) + pólvora seca | [cartera, renta4, propuesta, neon, 81-19, cero-solape, 7-8-anos, 40-anos, entrada-de-golpe, fidelity, robeco, amundi, kaizen, polvora-seca, traspasos, acumulacion] |
 | `finance/portfolio/cartera-renta4-propuesta-deepseek/verificacion-finect.md` | reference | finance | 2026-11-27 | Verificación en Finect y Renta 4 de los fondos de la propuesta DeepSeek (27/11/2026) | [cartera, renta4, finect, verificacion, isin, comisiones, custodia, disponibilidad] |
 | `finance/portfolio/cartera-renta4-propuesta-deepseek/propuesta-actual.md` | portfolio-proposal | finance | 2026-11-27 | Cartera Renta 4 — propuesta DeepSeek 85/15 en 5 fondos (34.769,20 €, 7–8 años): MSCI World + emergentes + Robeco value + Kaizen al 10 % + 8 % de pólvora seca | [cartera, renta4, propuesta, 85-15, 7-8-anos, 40-anos, entrada-de-golpe, deepseek, fidelity, vanguard, robeco, kaizen, polvora-seca, traspasos, acumulacion, finect] |
 | `finance/portfolio/cartera-renta4/propuesta-80-20.md` | portfolio-proposal | finance | 2026-11-26 | Cartera Renta 4 — propuesta atrevida 80/20 en 5 fondos (34.769,20 €, 7–8 años): núcleo MSCI World + Robeco Value + GS Small CORE + Kaizen (15 %) + pólvora seca | [cartera, renta4, propuesta, 80-20, 7-8-anos, 40-anos, entrada-de-golpe, fidelity, robeco, goldman-sachs, kaizen, polvora-seca, traspasos, acumulacion] |
@@ -163,6 +164,6 @@ Orden de lectura: `AGENTS.md` → este índice → el artefacto concreto.
 | `finance/videos/myinvestor-webinars/2024-12-18-entrevista-carlos-val-carreres-myinvestor-value/summary.md` | meeting-summary | finance | 2024-12-18 | Entrevista a Carlos Val-Carreres (MyInvestor Value): value en small caps europeas, clases del fondo y planes de pensiones | [myinvestor, webinar, value, small-caps, fondo, plan-de-pensiones, comisiones, clase-c, transicion-energetica, largo-plazo] |
 | `finance/videos/others/2012-11-27-ackman-finance-basics/summary.md` | meeting-summary | finance | 2012-11-27 | William Ackman: todo lo que necesitas saber de finanzas e inversión en una hora (Big Think) | [finanzas-basicas, contabilidad, valoracion, interes-compuesto, riesgo, value-investing, ackman, big-think, educacion-financiera] |
 
-**Total de artefactos indexados:** 157
+**Total de artefactos indexados:** 158
 
 Enrutado por pregunta y reglas de precisión: `AGENTS.md`. Convenciones de nombres y comandos: `README.md`.
