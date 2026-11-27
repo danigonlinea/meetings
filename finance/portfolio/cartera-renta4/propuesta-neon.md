@@ -4,7 +4,7 @@ date: 2026-11-27
 type: portfolio-proposal
 category: finance
 tags: [cartera, renta4, propuesta, neon, 84-16, cero-solape, 7-8-anos, 40-anos, entrada-de-golpe, fidelity, robeco, vanguard, kaizen, polvora-seca, traspasos, acumulacion]
-status: propuesta
+status: superseded
 related:
   - finance/portfolio/cartera-renta4/cartera-actual.md
   - finance/portfolio/cartera-renta4/propuesta-actual.md
@@ -13,6 +13,11 @@ related:
 ---
 
 # Cartera Renta 4 — propuesta definitiva Neon 84/16 «Cero Solape con Kaizen» (34.769,20 € · 7–8 años)
+
+> **No elegida (27/11/2026).** Cerrada la comparación, la cuenta se ejecuta con la 85/15 de
+> [`../cartera-renta4-propuesta-deepseek/propuesta-actual.md`](../cartera-renta4-propuesta-deepseek/propuesta-actual.md)
+> (+1,97 pp de RV y −8,21 €/año). Esta hoja se conserva por su análisis de cero solape y su tabla de
+> concentración.
 
 > **Qué es.** Decisión definitiva tras auditoría interna de `Kaizen Global Income FI` y revisión adversarial
 > frente a una variante 85/15 (52/12/18/10/8) para los **34.769,20 €** de Renta 4 Banco (foto congelada en

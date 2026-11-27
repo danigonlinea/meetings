@@ -4,11 +4,15 @@ date: 2026-11-21
 type: portfolio-proposal
 category: finance
 tags: [cartera, renta4, propuesta, sin-indexados, kaizen, akira, aitor, sigma, magallanes, value, renta-fija, traspasos]
-status: propuesta
+status: superseded
 related: [finance/portfolio/cartera-renta4/cartera-actual.md, finance/portfolio/cartera-renta4/propuesta-2026-11-02.md]
 ---
 
 # Cartera Renta 4 — la propuesta
+
+> **Superada (27/11/2026).** La hoja operativa de esta cuenta es la 85/15 de
+> [`../cartera-renta4-propuesta-deepseek/propuesta-actual.md`](../cartera-renta4-propuesta-deepseek/propuesta-actual.md).
+> Esta se conserva como historial del mandato sin indexados y de la valoración de Akira.
 
 > **Qué es.** La cartera que se propone para esta cuenta: **34.769,20 € en seis fondos, sin ningún indexado**,
 > con **Kaizen y Akira dentro** y la renta variable del **15 % al 50 %**. **393,02 €/año (1,130 %)**, caída de

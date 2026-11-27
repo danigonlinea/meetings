@@ -4,11 +4,12 @@ date: 2026-11-27
 type: portfolio-proposal
 category: finance
 tags: [cartera, renta4, propuesta, 85-15, 7-8-anos, 40-anos, entrada-de-golpe, deepseek, fidelity, vanguard, robeco, kaizen, polvora-seca, traspasos, acumulacion, finect]
-status: propuesta
+status: final
 related:
   - finance/portfolio/cartera-renta4/cartera-actual.md
   - finance/portfolio/cartera-renta4/propuesta-actual.md
   - finance/portfolio/cartera-renta4/propuesta-80-20.md
+  - finance/portfolio/cartera-renta4/propuesta-neon.md
 ---
 
 # Cartera Renta 4 — propuesta DeepSeek 85/15 en 5 fondos (34.769,20 € · 7–8 años)
@@ -20,11 +21,12 @@ related:
 > manual de **−34,45 % (−11.978 €)**. Diseñada para un inversor de **40 años**, horizonte de **7–8 años
 > (2026 → 2033–2034)** y **entrada de golpe hoy**.
 >
-> **No sustituye a [`../cartera-renta4/propuesta-actual.md`](../cartera-renta4/propuesta-actual.md)**
-> (la vigente, 21/11/2026) ni a [`../cartera-renta4/propuesta-80-20.md`](../cartera-renta4/propuesta-80-20.md)
-> (la atrevida 80/20 del 26/11/2026): es una hoja independiente con **otro criterio** —núcleo indexado más
-> barato, emergentes en vez de *small caps*, un solo fondo activo de convicción y Kaizen reducido al
-> 10 %— y la decisión entre las tres es del titular. **Ninguna orden está lanzada.**
+> **Cerrada el 27/11/2026: es la hoja operativa elegida por el titular** para esta cuenta. Sustituye a
+> [`../cartera-renta4/propuesta-actual.md`](../cartera-renta4/propuesta-actual.md) (21/11/2026),
+> [`../cartera-renta4/propuesta-80-20.md`](../cartera-renta4/propuesta-80-20.md) (26/11/2026) y
+> [`../cartera-renta4/propuesta-neon.md`](../cartera-renta4/propuesta-neon.md) (84/16, 27/11/2026), que
+> quedan como historial y alternativas no elegidas. **Ninguna orden está lanzada:** antes de la primera
+> quedan dos comprobaciones en pantalla (§8 y §12).
 >
 > **Ejecución:** 6 traspasos internos entre fondos armonizados en Renta 4 Banco (**0 € de impuestos**;
 > la plusvalía latente de 638,69 € sigue diferida). No consolida ni mueve capital con MyInvestor.
@@ -39,7 +41,7 @@ related:
 | Restricción (quién la dice) | Cómo se cumple | Qué cuesta |
 | --- | --- | --- |
 | **«Todo renta variable, con algo de monetario para comprar si el mercado se pone barato»** (titular, 27/11/2026) | **85,35 %** de RV real + **8 %** en `Renta 4 Renta Fija 6 Meses` como pólvora seca + el 4,2 % de RV y el 5,5 % de bonos/caja que ya lleva Kaizen | 8 % del dinero rinde ~2,5 % en vez de ~6,6 %: **≈94 €/año de esperanza cedida** a cambio de munición real |
-| **Kaizen se queda** (titular, 27/11/2026) | **10 % (3.476,92 €)**, no el 35,4 % de la foto ni el 25 % de la vigente | 0,96 % + **9 % de éxito** y **solo 41,8 % de RV**: 10 pp en Kaizen aportan 4,2 pp de bolsa y ~5,5 pp de bonos/caja |
+| **Kaizen se queda** (titular, 27/11/2026) | **10 % (3.476,92 €)**, no el 35,4 % de la foto ni el 25 % de la del 21/11 | 0,96 % + **9 % de éxito** y **solo 41,8 % de RV**: 10 pp en Kaizen aportan 4,2 pp de bolsa y ~5,5 pp de bonos/caja |
 | **«Mira Akira y decide»** (titular, 27/11/2026) | **Fuera (0 %)**: 1,48 % + 9 % de éxito, 4,2 M€ de patrimonio, cinco meses de vida y 48 % en liquidez (§7) | Se renuncia a la segunda idea de Aitor; el hueco lo cubren índices al 0,10–0,23 % |
 | **Pocas líneas, poco dinero** (titular, 27/11/2026) | **5 fondos · 4 gestoras**; ninguna línea baja de 2.781 € | La línea más pequeña (Kaizen) es el 10 %: por debajo no se puede seguir ni juzgar |
 | **7–8 años, 40 años** (titular, 27/11/2026) | 85 % de RV con colchón del 8 %; aterrizaje progresivo desde el año 5–6 (§11) | Caída de manual **−11.978 €**: es el precio de la bolsa y hay que poder verlo sin vender |
@@ -64,7 +66,7 @@ carteras. Solo mandan las condiciones del titular de arriba. Las cifras de MyInv
    base pierde ~94 €/año de esperanza; en una caída del 30 % compra 2.782 € un 30 % más barato.
 3. **El núcleo es el vehículo más barato que Renta 4 vende de verdad.** `Fidelity MSCI World P Acc` a
    **0,10–0,12 %** + 0,19 % de custodia (0,35 % con IVA) da 1.200 empresas desarrolladas a un coste total
-   del 0,35 %, menos de un tercio del 1,13 % que paga la cartera vigente.
+   del 0,35 %, menos de un tercio del 1,13 % que pagaba la del 21/11.
 4. **Los emergentes entran por una razón medible, no por moda:** son el único bloque que **no** está en
    máximos (el fondo de emergentes está **−15,8 % desde su máximo del 22/06/2026**, financial-hub a
    26/11/2026) y aportan geografía y divisa que el MSCI World no tiene. Ojo: son un 44 % tecnología
@@ -209,12 +211,12 @@ fondos, pero **sí cobra custodia sobre las clases limpias indexadas**: 0,15–0
 | Cartera | Fondos | RV real | Coste base R4 | Éxito | Caída de manual | Neto neutro | Capital 7A | Capital 8A |
 | --- | :-: | --: | --: | :-: | --: | --: | --: | --: |
 | Foto actual (`cartera-actual.md`) | 4 | 15,3 % | 287 € (0,83 %) | 1/4 | −2.804 € | 2,9 % | 42.472 € | 43.704 € |
-| Vigente (`../cartera-renta4/propuesta-actual.md`, 21/11) | 6 | 50,0 % | 393 € (1,13 %) | 3/6 | −7.315 € | 3,71 % | 44.868 € | 46.533 € |
+| Anterior (`../cartera-renta4/propuesta-actual.md`, 21/11; superada) | 6 | 50,0 % | 393 € (1,13 %) | 3/6 | −7.315 € | 3,71 % | 44.868 € | 46.533 € |
 | Atrevida 80/20 (`../cartera-renta4/propuesta-80-20.md`, 26/11) | 5 | 80,48 % | 298 € (0,857 %) | 1/5 | −11.271 € | 4,99 % | 48.906 € | 51.348 € |
 | **Esta propuesta DeepSeek** | **5** | **85,35 %** | **215,82 € (0,621 %)** | **1/5** | **−11.978 €** | **5,46 %** | **50.452 €** | **53.207 €** |
 
 - Frente a la 80/20: **+4,9 pp de RV, −82 €/año y −2,0 pp de caída adicional** (−707 € más de caída
-  esperada en un 2008). Frente a la vigente: **−177 €/año de coste y +35 pp de RV**.
+  esperada en un 2008). Frente a la del 21/11: **−177 €/año de coste y +35 pp de RV**.
 - **Dónde gana la 80/20:** tiene *small caps* (un bloque que esta hoja no lleva) y algo menos de
   caída. **Dónde gana esta:** menos coste, más RV, emergentes y ningún fondo que se clasifique
   «pasivo» pagando 1,42 % (§9).
@@ -229,7 +231,7 @@ fondos, pero **sí cobra custodia sobre las clases limpias indexadas**: 0,15–0
   bajar la volatilidad de la cartera sin renunciar del todo a la bolsa—. En un año como 2022, sus
   bonos cortos y su caja habrían amortiguado; no hay serie para probarlo.
 - **Por qué no más del 10 %:** cada punto que se le da **quita 0,58 pp de RV** (41,8 % frente a
-  98–100 % de los otros) y añade 0,96 % + 9 % de éxito. Al 25 % (la vigente) la cartera tendría 8,7 pp
+  98–100 % de los otros) y añade 0,96 % + 9 % de éxito. Al 25 % (la del 21/11) la cartera tendría 8,7 pp
   menos de bolsa y 8,7 pp más de bonos/caja; al 35,4 % (la foto), 14,8 pp menos de bolsa y el fondo manda
   sobre el 35 % del dinero con 27 M€ de patrimonio.
 - **Lo que cuesta al 10 %:** 33,38 €/año de OGC + ≈25 €/año de éxito en un año del +8 %: **58 €/año**,
@@ -319,7 +321,7 @@ Todas las órdenes parten de [`../cartera-renta4/cartera-actual.md`](../cartera-
 | **Sigma, Magallanes, Cobas, Azvalor** | Sigma 1,45 % + 9 % de éxito; Magallanes 1,81 %; Cobas en *soft close*; Azvalor no verificado en R4. Robeco cubre el rol value a 1,46 % y con 2022 positivo |
 | **ETFs** | No admiten traspaso: rebalancear tributa |
 | **Llevar la cuenta a MyInvestor** | Reembolso: 638,69 € de plusvalía, ≈121 € de impuestos, para ahorrar 41–51 €/año |
-| **Mantener el 50 % de RV de la vigente** | No es una versión de esta hoja, es otro mandato: 3,71 % neto frente a 5,46 %, y a 8 años son ≈6.700 € menos |
+| **Mantener el 50 % de RV de la del 21/11** | No es una versión de esta hoja, es otro mandato: 3,71 % neto frente a 5,46 %, y a 8 años son ≈6.700 € menos |
 
 ---
 
@@ -333,7 +335,7 @@ Todas las órdenes parten de [`../cartera-renta4/cartera-actual.md`](../cartera-
 | 4 | **«El 52,5–54,1 % de la RV sigue en EE. UU.: no es una cartera global.»** | Es el peso del índice (71,8 %) menos 19 pp de tilt. Bajarlo más es una apuesta activa con su coste; esta hoja ya baja EE. UU. 27 pp respecto al World puro. El 44,8 % del **dinero** (45,3 % en el techo) es la cifra que importa y está publicada | No: es el límite razonable sin renunciar a la bolsa global |
 | 5 | **«La esperanza no es la más alta: un 90/10 World + monetario da 5,86 % y cuesta 0,35 %.»** | Cierto. La diferencia son **0,40 pp/año** (≈1.100 € a 8 años): de ellos, ≈0,13 pp son los 4 pp más de bolsa del 90/10 y **≈0,27 pp es el precio del tilt** (emergentes + value) y de Kaizen a igualdad de RV. Se paga por bajar EE. UU. 27 pp y tener colchón. Si el titular solo quiere máxima esperanza y no le importa la concentración, la hoja honesta es la 90/10 | Sí: es la alternativa real, y va con su cifra |
 | 6 | **«Kaizen es un fondo de 27 M€ con 18 meses y 9 % de éxito; al 10 % sigue siendo una apuesta.»** | Cierto. Por eso baja del 35,4 % al 10 % (de 12.310 € a 3.477 €) y su factura total es 58 €/año. Al 10 % puede perderlo entero sin cambiar la cartera; al 25 % no | No, mientras el peso no pase del 12–15 % |
-| 7 | **«La custodia de R4 y la posible cuota de 3 €/mes se comen el ahorro.»** | La custodia son ≈51 €/año (0,147 %) y la cuota, si aplicara, 36 €/año. Aun así el coste total es 0,621 %, la mitad que la vigente (1,130 %). Mover la cuenta costaría ≈121 € de impuestos | No: el peaje fiscal supera el ahorro a esta talla |
+| 7 | **«La custodia de R4 y la posible cuota de 3 €/mes se comen el ahorro.»** | La custodia son ≈51 €/año (0,147 %) y la cuota, si aplicara, 36 €/año. Aun así el coste total es 0,621 %, la mitad que la del 21/11 (1,130 %). Mover la cuenta costaría ≈121 € de impuestos | No: el peaje fiscal supera el ahorro a esta talla |
 | 8 | **«Entrar de golpe con 7–8 años es peligroso: 2000–2008 dejó el World plano.»** | Cierto: por eso hay 8 % de monetario y por eso el horizonte es 7–8, no 3–5. El escenario malo está en la §5 y la escalera de compra en la §11. Si el dinero puede hacer falta antes de 2033, esta hoja no es la correcta | Sí, si el horizonte real es menor |
 | 9 | **«Cinco fondos con cuatro gestoras para 34.769 € es demasiada operativa.»** | Son 5 líneas y 6 órdenes; la más pequeña son 2.781 € (8 %). La alternativa de 4 líneas (World 60 + Robeco 22 + Kaizen 10 + Monetario 8) da la misma RV (85,2 %) y cuesta **+10,85 €/año** por renunciar a emergentes | No: el ahorro de operativa no paga la pérdida de diversificación |
 | 10 | **«El plan B de emergentes (Fidelity Europe) cambia la cartera sin decirlo.»** | Está escrito en la §8 con su coste (−4,59 €/año) y lo que pierde (los emergentes). Si se ejecuta el plan B, esta hoja deja de ser «85/15 con emergentes» y hay que anotarlo en el README | Sí: el plan B se documenta al ejecutarlo, no se aplica en silencio |
@@ -385,6 +387,26 @@ Todas las órdenes parten de [`../cartera-renta4/cartera-actual.md`](../cartera-
 | Desglose regional completo de Robeco y Kaizen | Las fichas solo publican el top-6 de países; Europa y «resto» son mínimos, no totales |
 | Rentabilidad esperada | Supuestos del repositorio: RV 6,6 % (earnings yield del MSCI World), RF 3,4 %, liquidez 2,5 %, inflación 3,8 % (Eurostat, septiembre 2026) |
 | Que el dinero no haga falta antes de 2033 | **Supuesto del diseño**, no un dato: lo aporta el titular |
+
+---
+
+## 13. Cierre y decisión (27/11/2026)
+
+- **Decisión:** la cuenta de Renta 4 se ejecuta con esta hoja: **85/15 en 5 fondos** (World 52 %,
+  Emergentes 12 %, Robeco 18 %, Kaizen 10 %, monetario 8 %), **215,82 €/año (0,621 %)**, caída
+  **−11.978 €** y **5,46 % neto neutro**. Se cierra el diseño; no se abren más variantes.
+- **Cómo se ejecuta:** las **6 órdenes de la §8**, en una sola sesión, por traspaso entre armonizados
+  (**0 € de IRPF**). La plusvalía de 638,69 € sigue diferida.
+- **Qué falta antes de la primera orden:** (1) confirmar en pantalla el mínimo de `IE0031786696`
+  —folleto 1 M€, plataforma 10 €—; si R4 exigiera el de folleto, plan B `IE00BYX5MD61` (§9); (2)
+  confirmar que R4 no aplica la suscripción del 3,00 % de AXA. Nada más bloquea la ejecución.
+- **Qué NO se hace:** no se mueve dinero a MyInvestor, no se ejecuta la 84/16 ni la 81/19, y no se
+  compra Akira ni GS Small CORE.
+- **Revisiones con fecha:** Kaizen en **junio de 2028** (tres años, contra un 40/60 global); Robeco en
+  **26/11/2029** (diferencial neto ≥ +0,5 pp/año frente al World, o se traspasa al núcleo); bandas de
+  rebalanceo una vez al año (§11).
+- **«Cerrada» no es «ejecutada»:** el estado del documento es final; el de la decisión es del titular.
+  Hasta que se lance la orden 1, la foto sigue siendo `../cartera-renta4/cartera-actual.md`.
 
 ---
 

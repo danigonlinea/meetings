@@ -8,18 +8,19 @@ status: living
 ---
 # Cartera Renta 4 — propuesta DeepSeek: cómo funciona esta carpeta
 
-Propuesta **independiente** para los 34.769,20 € de la cuenta de Renta 4 Banco, con **otro criterio**
-que las hojas que ya viven en [`../cartera-renta4/`](../cartera-renta4/): núcleo indexado al mínimo
-coste que R4 vende de verdad, emergentes en vez de *small caps*, un solo fondo activo de convicción
-(Robeco value) y Kaizen reducido al 10 %. **No es una cartera nueva con dinero propio**: es una hoja
-más sobre la misma foto, y **no sustituye** a la propuesta vigente hasta que el titular la adopte.
+**La hoja operativa elegida por el titular el 27/11/2026** para los 34.769,20 € de la cuenta de Renta 4
+Banco: núcleo indexado al mínimo coste que R4 vende de verdad, emergentes en vez de *small caps*, un
+solo fondo activo de convicción (Robeco value) y Kaizen reducido al 10 %. **No es una cartera nueva con
+dinero propio**: es la propuesta que sustituye a las de [`../cartera-renta4/`](../cartera-renta4/)
+(21/11, 80/20 y 84/16), que quedan como historial y alternativas no elegidas.
 
-> ⚠️ **Sin ejecutar y pendiente de la decisión del titular.** Ninguna orden está lanzada.
+> ✅ **Elegida y cerrada el 27/11/2026. Sin órdenes lanzadas:** quedan dos comprobaciones en pantalla
+> antes de la primera (mínimo de Vanguard EM y suscripción de AXA).
 
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
 | `propuesta-actual.md` | **La propuesta entera**: mandato, composición, verificación en R4, *look-through*, coste, esperanza, Kaizen, Akira, órdenes, descartes, revisión adversarial y gobierno | Sí |
-| `auditoria-cero-solape.md` | **Auditoría frente a la propuesta «Cero Solape con Kaizen» 81/19** (recibida el 27/11/2026): normalización, cuatro tests, errores de la rival y veredicto | Sí |
+| `auditoria-cero-solape.md` | **Auditoría frente a las dos versiones de «Cero Solape con Kaizen»** (81/19 con Amundi y 84/16 con Vanguard, 27/11/2026): normalización, cuatro tests, errores de la rival y veredicto | Sí |
 | `verificacion-finect.md` | Evidencia de disponibilidad y comisiones en Finect/R4, ISIN a ISIN (27/11/2026) | Sí |
 | `README.md` | Este mapa | Sí |
 
@@ -46,9 +47,9 @@ más sobre la misma foto, y **no sustituye** a la propuesta vigente hasta que el
 | **Esta carpeta** (27/11/2026) | 85/15, 5 fondos, Kaizen 10 % | **85,35 %** | **0,621 %** | **Emergentes indexados** en vez de small caps, un solo activo de convicción y Kaizen al 10 % |
 
 Frente a la 80/20: **+4,9 pp de RV, −82 €/año y −707 € más de caída** en un escenario tipo 2008.
-Frente a la vigente: **+35 pp de RV y −177 €/año**.
+Frente a la del 21/11: **+35 pp de RV y −177 €/año**.
 
-## Veredicto frente a «Cero Solape con Kaizen»
+## Por qué se eligió esta hoja (frente a «Cero Solape con Kaizen»)
 
 - **Contra la 81/19 con Amundi** (la versión que circuló primero): gana esta hoja **con claridad**:
   **+4,82 pp de RV y −30,69 €/año**. El Amundi cuesta 0,22 pp más que el Vanguard por el mismo índice
@@ -58,14 +59,15 @@ Frente a la vigente: **+35 pp de RV y −177 €/año**.
   (−11.721 € frente a −11.978 €), caja (+695 €) y Top-10 (−1,4 pp de la RV).
 
 Detalle, cuatro tests y condición de elección en [`auditoria-cero-solape.md`](auditoria-cero-solape.md).
+**Decisión del titular: esta hoja, cerrada el 27/11/2026.**
 
-## Pendiente
+## Pendiente de ejecución
 
-- **Decidir** entre esta hoja, la 80/20 y la vigente. Ninguna se ejecuta sin esa decisión.
-- **Comprobar en pantalla** el mínimo real de `IE0031786696` en R4 (folleto: 1 M€; plataforma: 10 €) y
-  la comisión de suscripción de AXA antes de la primera orden.
+- **Comprobar en pantalla** el mínimo real de `IE0031786696` en R4 (folleto: 1 M€; plataforma: 10 €;
+  plan B `IE00BYX5MD61`) y que R4 no aplique la suscripción del 3,00 % de AXA antes de la orden 1.
 - **Confirmar** la custodia exacta de R4 por ISIN y si la cuenta sigue exenta de la cuota de 3 €/mes.
-- **Revisar** el OGC de Kaizen (0,96 % publicado vs 1,35 % de folleto).
+- **Ejecutar** las seis órdenes de `propuesta-actual.md` §8 cuando el titular lo decida.
+- **Revisiones:** Kaizen en junio de 2028 y Robeco en noviembre de 2029.
 
 ## Reglas de esta carpeta
 

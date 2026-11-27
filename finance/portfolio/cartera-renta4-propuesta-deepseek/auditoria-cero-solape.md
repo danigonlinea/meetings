@@ -17,7 +17,10 @@ status: living
 
 La 84/16 se declara «decisión definitiva» y **corrige los dos defectos de la 81/19**: adopta el
 Vanguard (0,22 pp más barato para el mismo índice) y deja el Amundi como plan B. Audito las dos; el
-veredicto operativo es contra la 84/16, porque es la que se puede ejecutar.
+veredicto operativo es contra la 84/16, porque es la que se podía ejecutar.
+
+**Cerrada la comparación (27/11/2026): la hoja elegida es esta 85/15.** Los apartados 1 y 2 quedan como
+acta del porqué; la 84/16 y la 81/19 pasan a historial.
 
 ## 1. Contra la 81/19 que pegaste: gana esta carpeta, con claridad
 

@@ -4,7 +4,7 @@ date: 2026-11-26
 type: portfolio-proposal
 category: finance
 tags: [cartera, renta4, propuesta, 80-20, 7-8-anos, 40-anos, entrada-de-golpe, fidelity, robeco, goldman-sachs, kaizen, polvora-seca, traspasos, acumulacion]
-status: propuesta
+status: superseded
 related:
   - finance/portfolio/cartera-renta4/cartera-actual.md
   - finance/portfolio/cartera-renta4/propuesta-actual.md
@@ -12,6 +12,10 @@ related:
 ---
 
 # Cartera Renta 4 — propuesta atrevida 80/20 en 5 fondos (34.769,20 € · 7–8 años)
+
+> **No elegida (27/11/2026).** La hoja operativa es la 85/15 de
+> [`../cartera-renta4-propuesta-deepseek/propuesta-actual.md`](../cartera-renta4-propuesta-deepseek/propuesta-actual.md).
+> Se conserva por el análisis de `GS Small CORE` y de la pólvora seca.
 
 > **Qué es.** Propuesta alternativa de alta convicción para los **34.769,20 €** de la cuenta de Renta 4 Banco
 > (foto congelada en [`cartera-actual.md`](cartera-actual.md), 02/11/2026): **5 fondos de acumulación**,
