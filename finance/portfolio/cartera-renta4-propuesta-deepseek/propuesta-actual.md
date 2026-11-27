@@ -74,7 +74,7 @@ carteras. Solo mandan las condiciones del titular de arriba. Las cifras de MyInv
    cerró **2022 en +1,75 %** con el MSCI World en **−12,63 %**, y a 5 años hace **+11,46 % anual**
    frente a +9,57 % del índice. Es el contrapeso que la cartera puede defender con un ejercicio real.
 6. **La cartera no depende de un solo país.** Estados Unidos pasa del **71,8 % del índice** al
-   **≈44,8 % del dinero** (52,5 % de la RV); Europa pesa ≈17–18 % y emergentes ≈12 %. Es un tilt
+   **≈44,8–45,3 % del dinero** (52,5–54,1 % de la RV); Europa pesa ≈17–18 % y emergentes ≈12 %. Es un tilt
    declarado con su precio (§10), no un efecto colateral.
 7. **Se ejecuta sin peaje fiscal y sin depender del mercado:** 6 traspasos entre armonizados, **0 € de
    IRPF**, y los 638,69 € de plusvalía siguen diferidos. Entrar hoy es una decisión de asignación, no
@@ -168,7 +168,7 @@ fondos, pero **sí cobra custodia sobre las clases limpias indexadas**: 0,15–0
 
 | Bloque | € | % cartera | % sobre RV |
 | --- | --: | --: | --: |
-| Estados Unidos | 15.566 | **44,8 %** | 52,5 % |
+| Estados Unidos | 15.566 | **44,8 %** | 52,5 % *(mínimo)* |
 | Emergentes (Taiwán, Corea, China, India, Brasil, Sudáfrica y resto) | 4.172 | **12,0 %** | 14,1 % |
 | Europa (Zona Euro + UK + ex-Euro, mínimo por suma de países) | ≈6.000 | **≈17–18 %** | ≈20–21 % |
 | Japón | 1.364 | 3,9 % | 4,6 % |
@@ -177,7 +177,8 @@ fondos, pero **sí cobra custodia sobre las clases limpias indexadas**: 0,15–0
 | **Top-10 megacaps EE. UU. (solo vía Fidelity World)** | **4.574** | **13,2 %** | **15,4 %** |
 
 - **La concentración se publica en dos bases:** el 44,8 % de EE. UU. es del **dinero**; sobre la RV es
-  el 52,5 %. El índice puro llevaría el 71,8 % del dinero a EE. UU.; esta cartera lo baja 27 pp.
+  el 52,5 % como mínimo y el 54,1 % como techo (la ficha de Kaizen no separa en su 11,5 % de EE. UU.
+  qué parte es bolsa y qué parte bonos). El índice puro llevaría el 71,8 % del dinero a EE. UU.; esta cartera lo baja 27 pp.
 - **La tecnología no baja tanto como parece:** 21,9 % del dinero / 25,7 % de la RV. Los emergentes son
   un 44 % tecnología (Taiwán y Corea, semiconductores), así que **el bloque emergente no diversifica
   contra la tecnología: la refuerza**. Es el punto más discutible del diseño y está en la §10.
@@ -329,7 +330,7 @@ Todas las órdenes parten de [`../cartera-renta4/cartera-actual.md`](../cartera-
 | 1 | **«85 % de RV entrando cerca de máximos: puedes ver −12.000 € en pantalla.»** | Cierto y está publicado: −34,45 %, −11.978 €. La pregunta no es si puede pasar, sino si venderías. Si la respuesta es sí, la palanca está en la §11: con **18 % de monetario** la RV baja a 75,45 % y la caída a **−10.686 €**, al mismo coste (0,617 %) | Sí, si el titular no aguanta −12.000 €: bajar a 75 % |
 | 2 | **«Los emergentes son un 44 % tecnología: no diversificas, doblas la apuesta.»** | Cierto. El bloque es el 14 % de la RV y refuerza semiconductores (Taiwán 28,6 %, Corea 21,4 %, China 18,9 %). Lo que sí aporta es geografía y divisa fuera de EE. UU., y comprarlo con el fondo **−15,8 % desde su máximo** no es comprarlo en máximos | Parcialmente: si el objetivo es *menos* tecnología, EM al 8 % y World al 56 %; el coste baja 2 €/año |
 | 3 | **«Robeco cobra 1,11 pp más que el núcleo (1,46 % vs 0,35 %) y su alfa ajustado por riesgo a 3 años es negativo (−1,68 según Finect); su ventaja neta a 3 años es solo +0,64 pp.»** | Cierto: la ventaja neta a 3 años (+0,64 pp) es fina y el alfa ajustado por beta es negativo; a 5 años la ventaja es +1,89 pp. El fondo se acepta por el año malo (2022: +1,75 % con el World en −12,63 %), no por el 3A, y con prueba fechada (§11): si a 26/11/2029 el diferencial neto no llega a +0,5 pp/año, se traspasa al núcleo y el bloque baja 1,11 pp de coste | Sí, en 2029. Hoy se acepta por el año malo, no por el 3A |
-| 4 | **«El 52,5 % de la RV sigue en EE. UU.: no es una cartera global.»** | Es el peso del índice (71,8 %) menos 19 pp de tilt. Bajarlo más es una apuesta activa con su coste; esta hoja ya baja EE. UU. 27 pp respecto al World puro. El 44,8 % del **dinero** es la cifra que importa y está publicada | No: es el límite razonable sin renunciar a la bolsa global |
+| 4 | **«El 52,5–54,1 % de la RV sigue en EE. UU.: no es una cartera global.»** | Es el peso del índice (71,8 %) menos 19 pp de tilt. Bajarlo más es una apuesta activa con su coste; esta hoja ya baja EE. UU. 27 pp respecto al World puro. El 44,8 % del **dinero** (45,3 % en el techo) es la cifra que importa y está publicada | No: es el límite razonable sin renunciar a la bolsa global |
 | 5 | **«La esperanza no es la más alta: un 90/10 World + monetario da 5,86 % y cuesta 0,35 %.»** | Cierto. La diferencia son **0,40 pp/año** (≈1.100 € a 8 años): de ellos, ≈0,13 pp son los 4 pp más de bolsa del 90/10 y **≈0,27 pp es el precio del tilt** (emergentes + value) y de Kaizen a igualdad de RV. Se paga por bajar EE. UU. 27 pp y tener colchón. Si el titular solo quiere máxima esperanza y no le importa la concentración, la hoja honesta es la 90/10 | Sí: es la alternativa real, y va con su cifra |
 | 6 | **«Kaizen es un fondo de 27 M€ con 18 meses y 9 % de éxito; al 10 % sigue siendo una apuesta.»** | Cierto. Por eso baja del 35,4 % al 10 % (de 12.310 € a 3.477 €) y su factura total es 58 €/año. Al 10 % puede perderlo entero sin cambiar la cartera; al 25 % no | No, mientras el peso no pase del 12–15 % |
 | 7 | **«La custodia de R4 y la posible cuota de 3 €/mes se comen el ahorro.»** | La custodia son ≈51 €/año (0,147 %) y la cuota, si aplicara, 36 €/año. Aun así el coste total es 0,621 %, la mitad que la vigente (1,130 %). Mover la cuenta costaría ≈121 € de impuestos | No: el peaje fiscal supera el ahorro a esta talla |

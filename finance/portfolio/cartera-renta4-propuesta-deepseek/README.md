@@ -19,6 +19,7 @@ más sobre la misma foto, y **no sustituye** a la propuesta vigente hasta que el
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
 | `propuesta-actual.md` | **La propuesta entera**: mandato, composición, verificación en R4, *look-through*, coste, esperanza, Kaizen, Akira, órdenes, descartes, revisión adversarial y gobierno | Sí |
+| `auditoria-cero-solape.md` | **Auditoría frente a la propuesta «Cero Solape con Kaizen» 81/19** (recibida el 27/11/2026): normalización, cuatro tests, errores de la rival y veredicto | Sí |
 | `verificacion-finect.md` | Evidencia de disponibilidad y comisiones en Finect/R4, ISIN a ISIN (27/11/2026) | Sí |
 | `README.md` | Este mapa | Sí |
 
@@ -41,10 +42,22 @@ más sobre la misma foto, y **no sustituye** a la propuesta vigente hasta que el
 | --- | --- | --: | --: | --- |
 | [`../cartera-renta4/propuesta-actual.md`](../cartera-renta4/propuesta-actual.md) (21/11/2026) | Sin indexados, Kaizen 25 %, Akira dentro | 50,0 % | 1,130 % | Cuatro libros value europeos y 3 comisiones de éxito |
 | [`../cartera-renta4/propuesta-80-20.md`](../cartera-renta4/propuesta-80-20.md) (26/11/2026) | 80/20 atrevida, 5 fondos, Kaizen 15 % | 80,48 % | 0,857 % | Núcleo World + Robeco + **GS Small CORE** + Kaizen + 10 % de pólvora |
+| [`../cartera-renta4/propuesta-neon.md`](../cartera-renta4/propuesta-neon.md) (27/11/2026) | «Cero Solape» 84/16, 5 fondos, Kaizen 10 % | 83,38 % *(publica 83,79 %)* | 0,644 % | World 46 %, Robeco 20 %, **EM 14 %**, Kaizen 10 %, caja 10 % |
 | **Esta carpeta** (27/11/2026) | 85/15, 5 fondos, Kaizen 10 % | **85,35 %** | **0,621 %** | **Emergentes indexados** en vez de small caps, un solo activo de convicción y Kaizen al 10 % |
 
 Frente a la 80/20: **+4,9 pp de RV, −82 €/año y −707 € más de caída** en un escenario tipo 2008.
 Frente a la vigente: **+35 pp de RV y −177 €/año**.
+
+## Veredicto frente a «Cero Solape con Kaizen»
+
+- **Contra la 81/19 con Amundi** (la versión que circuló primero): gana esta hoja **con claridad**:
+  **+4,82 pp de RV y −30,69 €/año**. El Amundi cuesta 0,22 pp más que el Vanguard por el mismo índice
+  y el plan B de la rival (Fidelity EM) **no existe en R4**.
+- **Contra la 84/16 con Vanguard** que ya vive en [`../cartera-renta4/propuesta-neon.md`](../cartera-renta4/propuesta-neon.md):
+  gana esta hoja por **8,21 €/año y +1,97 pp de RV** — empate técnico. La 84/16 solo gana en caída
+  (−11.721 € frente a −11.978 €), caja (+695 €) y Top-10 (−1,4 pp de la RV).
+
+Detalle, cuatro tests y condición de elección en [`auditoria-cero-solape.md`](auditoria-cero-solape.md).
 
 ## Pendiente
 
