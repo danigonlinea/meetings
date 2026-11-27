@@ -19,7 +19,7 @@ dinero propio**: es la propuesta que sustituye a las de [`../cartera-renta4/`](.
 
 | Fichero | Rol | ¿Se edita? |
 | --- | --- | --- |
-| `propuesta-actual.md` | **La propuesta entera**: mandato, composición, verificación en R4, *look-through*, coste, esperanza, Kaizen, Akira, órdenes, descartes, revisión adversarial y gobierno | Sí |
+| `propuesta-actual.md` | **La hoja operativa**: introducción para no técnicos, tabla de fondos, tabla de las 6 órdenes, por qué, números, Kaizen/Akira, descartes, gobierno, riesgos y pendiente | Sí |
 | `auditoria-cero-solape.md` | **Auditoría frente a las dos versiones de «Cero Solape con Kaizen»** (81/19 con Amundi y 84/16 con Vanguard, 27/11/2026): normalización, cuatro tests, errores de la rival y veredicto | Sí |
 | `verificacion-finect.md` | Evidencia de disponibilidad y comisiones en Finect/R4, ISIN a ISIN (27/11/2026) | Sí |
 | `README.md` | Este mapa | Sí |
