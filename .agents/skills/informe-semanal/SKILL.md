@@ -1,6 +1,6 @@
 ---
 name: informe-semanal
-description: Usar cuando corra la revisión semanal de canales (cron del agente cloud) o cuando el usuario pida "qué hay nuevo esta semana" en La Pizarra de Andrés y MyInvestor. Ingiere lo nuevo, escribe el informe semanal con candidatos para la cartera, lo commitea y resume en 5 líneas.
+description: Usar cuando corra la revisión semanal de canales (cron del agente cloud) o cuando el usuario diga "haz lo tuyo" o pida "qué hay nuevo esta semana" en La Pizarra de Andrés y MyInvestor. Ingiere lo nuevo, escribe el informe semanal con candidatos para la cartera, lo commitea y resume en 5 líneas.
 ---
 
 # Informe semanal

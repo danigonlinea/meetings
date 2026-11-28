@@ -1,0 +1,3565 @@
+{
+  "schema_version": "1.0",
+  "kind": "meeting-transcript",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=HJOtK1U8Er0",
+    "video_id": "HJOtK1U8Er0",
+    "title": "¿Qué podemos Esperar de los Mercados a partir de AHORA?",
+    "description": "¡Bienvenidos a la Pizarra de Andrés! \n\nEn el vídeo de hoy vamos a repasar la situación actual de los mercados financieros y analizar qué podemos esperar de ellos a partir de ahora.\n\n🔥 BLACK FRIDAY! INVESTINGPRO con 60% de descuento + un 15% EXTRA con mi enlace exclusivo.\n👉 Aprovecha el descuento aquí: https://www.investing-referral.com/pizarra\n🏷️ O utiliza mi código pizarra al finalizar tu compra.\n⌛ ¡Dsponible SOLO por unos días! No lo dejes escapar!\n\n💸 Empieza a invertir con MyInvestor (apóyame usando este link) con el código PIZARRA 20€ de regalo: https://myinvestor.es/landings/promociones/la_pizarra/  \n\n🚀 Recursos y herramientas recomendadas:\n\n🔹 Mi plataforma de fondos: https://artemisafunds.com\n🔹 Newsletter (contenido exclusivo): https://news.lapizarradeandres.com/\n🔹 Web + servicios: https://lapizarradeandres.com/\n\n 📲 Sígueme para aprender a invertir mejor:\n\nTwitch (directos): https://www.twitch.tv/lapizarradeandres \nTikTok: https://www.tiktok.com/@lapizarradeandres1 \nInstagram: https://www.instagram.com/lapizarradeandres \nX (Twitter): https://x.com/pizarradeandres\nCanal secundario: https://www.youtube.com/@LaPizarradeAndrésLive \n\n#invertirdinero #fondosindexados #finanzaspersonales #libertadfinanciera #ingresospasivos #myinvestor #lapizarradeandres    \n\n-----DISCLAIMER--------\nTodos los vídeos de este canal se basan en análisis propios, experiencias y opiniones. En ningún caso se tratan de consejos de venta/recomendaciones.\nInvertir conlleva riesgos. Todo inversor debe realizar un análisis previo antes de tomar una decisión de inversión y ser responsable de sus acciones.\n\nLa información aquí contenida se expone a título meramente informativo y no constituye una recomendación de inversión, ni invitación, oferta, solicitud u obligación por parte de su creador La Pizarra De Andrés. Al reflejar opiniones personales, su contenido es meramente informativo y por tanto, su autor no será responsable de ninguna pérdida financiera, ni decisión tomada sobre la base de la información contenida en este canal.",
+    "channel": "La Pizarra de Andrés",
+    "uploader": "La Pizarra de Andrés",
+    "uploader_id": "@lapizarradeandres",
+    "upload_date": "2026-11-26",
+    "duration_seconds": 973,
+    "language_code": "es",
+    "language_name": "Spanish",
+    "subtitle_kind": "auto",
+    "subtitle_format": "json3",
+    "has_speaker_labels": false,
+    "fetched_at": "2026-11-28T13:37:53+00:00"
+  },
+  "stats": {
+    "segment_count": 484,
+    "chunk_count": 16,
+    "speaker_count": 0,
+    "word_count": 3458,
+    "character_count": 18464,
+    "time_span_seconds": 975
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "text_start": 0,
+      "text_end": 1161,
+      "time_start_iso": "00:00:00",
+      "time_end_iso": "00:01:04",
+      "speakers": [],
+      "text": "Hola a todos y bienvenidos un día más a mi canal La Pizarra Andres. En el día de hoy vamos a hablar sobre una vez más en Nvidia, semiconductores, sector de la IA y vamos a de una forma ya eh más numérica a determinar en qué punto estamos y si de verdad estamos tan bien o tan mal. E en primer lugar quiero recordar una vez más que estos vídeos informativos ni mucho menos predicen lo que va a ocurrir mañana. Eh, nadie sabe lo que van a hacer mañana los mercados y sí que es cierto que hay ciertas cosas que sí podemos corroborar con números y asumiendo que estos números sean verdad, es decir, que no nos estén engañando de ninguna forma las empresas. Y eso es lo que vamos a intentar hacer hoy. Hm, normalmente mis vídeos no van sesgados. Bueno, si leéis los comentarios parece que para unos van sesgados hacia eh ser alcista o positivo siempre y para otros van a van sesgados a ser negativo catastrofista. La realidad es que ni una cosa ni otra. El objetivo es tener una cartera casi siempre, eh, sobre todo en capitales altos, lo más todoterreno posible y no de adivinar dónde va a ir el mercado, porque eso es imposible, aunque en promedio eh vaya más para"
+    },
+    {
+      "index": 1,
+      "text_start": 1162,
+      "text_end": 2356,
+      "time_start_iso": "00:01:03",
+      "time_end_iso": "00:02:09",
+      "speakers": [],
+      "text": "arriba que para abajo, ¿no? Dicho esto, sí que vamos a eh intentar explicar en qué punto estamos actualmente, ¿vale? Y para eso, en el día de hoy, y aprovecho que esto se debería estar subiendo un Black Friday, tenéis la promoción más importante del año en Investing Pro, ¿vale? Con el código pizarra y con los días de Black Friday, eso os queda tremendamente barato. ¿Para qué sirve Investing Pro? para lo que vamos a hacer hoy, no solo para lo que vamos a hacer hoy, sino para muchas cosas más, pero que es eh determinar en qué punto está una empresa, ¿vale? Intentar entender qué es todo lo relacionado a esa empresa e que tenemos hoy en día en el en el precio y así pues que cada uno pueda decidir si algo está caro o barato. Para ello he cogido Nvidia y vamos a hablar de muchas cosas de lo que vamos a ver aquí. Esto lo vamos a extrapolar un poco a los mercados de forma eh a los mercados que tenemos actualmente para intentar eh discernir si estamos en un una burbuja o si no o si lo estuviéramos en qué punto estaríamos. Eh, cojo en Nvidia una vez más porque me parece el mejor reflejo, aunque luego pu podemos ver otra empresa, por ejemplo, Sandis o alguna que haya que se haya visto e"
+    },
+    {
+      "index": 2,
+      "text_start": 2357,
+      "text_end": 3540,
+      "time_start_iso": "00:02:06",
+      "time_end_iso": "00:03:17",
+      "speakers": [],
+      "text": "beneficiada por todo el sector de la IA y sacar otras conclusiones similares. ¿Qué es lo primero que vemos de Nvidia? Vale, partiendo de la base de que ni yo tengo ni idea de cuál es el verdadero valor de envidia, ni probablemente tampoco los analistas ni los modelos de valoración, sí que es cierto que de primeras sorprende que esto es bastante poco común, que los modelos de inversión y los analistas coincidan en el precio objetivo de Nvidia. Es decir, según todo el mundo, por todo el mundo, son modelos que no tienen eh uso de razón, simplemente toman en cuenta diferentes múltiplos. Aquí lo ves, los modelos de valoración la valoran entre 185 y $275, eh, siendo el promedio 200 y poco, 220, 230, bueno, el promedio aquí está 240, ¿vale? Entonces, esto no son personas, estos son modelos tradicionales como todos estos hm normalmente múltiplos que se utilizan habitualmente en la industria. Eh, después están los analistas donde sí que es cierto que, por ejemplo, aquí hay algún analista pesimista que podría que dice que podría valer hasta $130 y algún analista hiperoptimista que cree que podría valer hasta 425. La realidad es que el promedio es 244, con lo cual de primeras"
+    },
+    {
+      "index": 3,
+      "text_start": 3541,
+      "text_end": 4722,
+      "time_start_iso": "00:03:14",
+      "time_end_iso": "00:04:18",
+      "speakers": [],
+      "text": "sí que entendería a cualquiera que con un mejor análisis que el que tiene la mayoría de personas pues diga que envidia es compra, ¿vale? Sin embargo, no estamos aquí para determinar si envidia es compra o no. Estamos aquí, es la pregunta del vídeo, para preguntarnos si existe una burbuja en la sí o no. ¿Vale? Eh, pero de primeras, si alguien quisiera comprar Nvidia, solo por estos fundamentos parece que es razonable querer comprar Nvidia, ¿vale? Eh, con lo cual el precio a día de hoy 165 con aproximadamente un 50% de revalorización objetivo hasta su precio promedio o su precio esperado. Y esto es incluso después del rebote, que ayer esta empresa rebotó un 31%, ¿no? Con lo cual, a priori, empresa, eh, empresa muy buena, una empresa que se espera que pueda valer más, ¿vale? Este es el rebote que vimos ayer, que lo vamos a ver aquí, ¿vale? Que claro, visto en perspectiva no parece tanto. Aquí lo vemos, ¿no? ¿Dónde quiero llegar yo con esto? Bueno, además de que investig un vistazo rápido, pues te da esto mismo, el precio objetivo, incluso un poco el financial health de la empresa, todo lo que esté por aquí por cuatro o c es que implica que la empresa está en un buen"
+    },
+    {
+      "index": 4,
+      "text_start": 4723,
+      "text_end": 5895,
+      "time_start_iso": "00:04:16",
+      "time_end_iso": "00:05:27",
+      "speakers": [],
+      "text": "estado. Eh, pero donde me quiero ir es aquí porque es donde hay más información. Yo entiendo que esto para muchos puede ser algo complejo y lo voy a intentar explicar desde lo más básico posible, ¿vale? Esto de aquí no son más que los números de la empresa, ¿vale? los números de de beneficio de de bueno, de de e beneficios por acción, evita eh liquidez, eh activos eh e liabilities, de todo, ¿no? Incluso la deuda, que ahora lo veremos aquí, que evidentemente eh en esta empresa no es lo más importante, ¿no? Pero e qué es donde donde yo quiero hacer hincapié, ¿vale? Si le dais aquí en Data Explorer, en edit, buscáis aquí, podéis buscar métricas futuras, ¿vale? que es lo que vamos a utilizar para determinar si estas empresas están caras o no y cómo penaliza el mercado este sector o cómo está descontando el mercado en este sector las cosas, ¿no? Normalmente cuando tú dices que hay una burbuja, lo que esperas ver son valoraciones altas hoy y valoraciones altas, aunque un poquito menos altas mañana, ¿vale? porque esperas seguir viendo crecimiento y por tanto ese crecimiento lo pagas muy bien. No sé si se entiende esto. Cuando tú eres una empresa y te tienen que"
+    },
+    {
+      "index": 5,
+      "text_start": 5896,
+      "text_end": 7077,
+      "time_start_iso": "00:05:25",
+      "time_end_iso": "00:06:25",
+      "speakers": [],
+      "text": "valorar como empresa, si dos empresas son exactamente iguales y una crece mucho más que la otra, la que crece mucho más tiene que estar más cara porque se asume que el día de mañana será mejor. Es decir, hoy son iguales, pero como una creza al 10 y otra crece al 20, la que creza el 20 tiene que estar más cara, ¿vale? Porque se espera que mañana valga más dinero porque ha crecido más. En este caso, eh, para empresas normalmente de un sector como la IA, donde se espera crecimiento, lo normal sería ver unos múltiplos de futuro que sean iguales o superiores. En el caso de que no fueran superiores, lo primero que tienes que preguntarte es, oye, ¿cómo empresa que está en un sector de la IA, que se asume que está creciendo muchísimo, eh, tiene múltiplos en el futuro que son más baratos? ¿Qué me estoy perdiendo aquí? Eso sería bastante extraño y eso mismo es lo que estamos viendo en el sector, cosa que me sorprende bastante. Entonces, vamos a empezar desde inicio, ¿vale? Esto de aquí es el dividendo. De esto no vamos a hablar porque en Nvidia es irrelevante. Esto de aquí es el es el famoso PER, ¿vale? Price earnings ratios. Esto te divide el precio de la acción entre los"
+    },
+    {
+      "index": 6,
+      "text_start": 7078,
+      "text_end": 8276,
+      "time_start_iso": "00:06:24",
+      "time_end_iso": "00:07:28",
+      "speakers": [],
+      "text": "beneficios por acción. Históricamente, si cogéis cualquier libro de o cualquier tipo de eh artículo, filosofía, value, barren buffet y demás, te van a decir que un per en torno a 18 20 veces sería lo normal. incluso por debajo de 18 empezaría a estar barato. Bien, pues Nvidia, a pesar de ser una empresa eh en crecimiento, está 17,6 veces. Eso a pesar del rebote de ayer. Con lo cual podemos decir que Nvidia si fuera una empresa totalmente consolidada que no crece y una buena empresa 17,6 veces sería un buen múltiplo y dirías esta empresa está bien, pero siendo una empresa que crece esto parece bastante barato, cosa que es algo extraño. Bueno, ya sabemos que Envidia se ha visto en eh involucrado en en otro tipo de cosas con su CEO, etcétera, etcétera, pero de primeras en la valoración actual parece sensata, incluso barata, ¿vale? y y digo sensata, si no creciera, como crece, pues es una es una valoración barata, ¿no? Si bajamos aquí un poco otro ratio muy importante es el EV Bidda, que es el enterprise prise value, cuánto vale la empresa entre el evidda los beneficios que tiene, ¿vale? Beneficios antes de impuestos, depreciación y amortización. Estos son 16 veces esto también es un"
+    },
+    {
+      "index": 7,
+      "text_start": 8277,
+      "text_end": 9474,
+      "time_start_iso": "00:07:25",
+      "time_end_iso": "00:08:33",
+      "speakers": [],
+      "text": "ratio aceptable. Es decir, normalmente digamos que a partir de 10, 12 veces podríamos decir que la empresa empieza a estar barata. 16 veces sería algo quizá normal, quizá un poquito por encima lo esperado, pero bueno, sigue siendo un ratio muy de empresa consolidada, no es un ratio eh tremendamente caro ni mucho menos, ¿no? Eh, bueno, del free cas y de esto podemos hablar otro día. Aquí vemos deuda financiera de vida, que es menos0 con dos veces, con lo cual tiene cash, no tiene deuda, algo muy sano para una empresa. Y luego nos vamos a los dos múltiplos que he sacado yo, que esto es lo que sorprende, y es que cuando sacamos los ratios que pone FWD, esto significa forward, significa a un año vista normalmente, ¿vale? Significa e cómo cambian estos dos datos, el per que lo vimos aquí, y el Vbitda, del futuro. Y si te fijas, el PER dentro de un año se espera que pase de 17,6 a 17,1. Es decir, algo aquí no cuadra porque se espera que la empresa crezca, pero que esté más barata. Eh, en el EV EVA pasa lo mismo. Se espera que la empresa en número de veces que justificas su valoración con el dinero que ganas, eh, baja de 16 veces a 13,7. Es decir, el año que viene Nvidia va a estar más"
+    },
+    {
+      "index": 8,
+      "text_start": 9475,
+      "text_end": 10660,
+      "time_start_iso": "00:08:31",
+      "time_end_iso": "00:09:30",
+      "speakers": [],
+      "text": "barata. Esto no es síntoma de burbuja. Esto no es síntoma de burbuja porque el mercado ya se está protegiendo. ¿Qué es lo que descuenta aquí el mercado? Se está protegiendo de la posibilidad de que Nvidia no crezca lo que debe lo que debería crecer. Es decir, no se cree lo que tú vas a crecer, porque si se creyera lo que tú vas a crecer, el PER y el EV Bidda futuros, deberían ser mayores que el PER y el Vbitda actuales, porque la empresa es mejor. La empresa es mejor o como mínimo mantenerse, pero si una empresa crece, no puede valer menos. En teoría, en teoría no hay matices y sí que si fueran crecimientos muy leves y demás y se tuvieran otras otras cosas en cuentas, pues podría valer, ¿no? He cogido estos dos estos dos ratios para que veáis, se podrían otros muchos ratios, pero he cogido estos dos ratios para que veáis que eh ocurre en más de un múltiplo, no es que sea una casualidad, ¿vale? Esto lo vamos a ver ahora mucho más bestia en otra empresa. Con lo cual lo que te está diciendo el mercado es que uno no se cree que el sector de la IEL y Nvidia en concreto vaya a crecer tanto, vaya a crecer tanto o que pueda venir algo que que el mercado desconoce. por eso no"
+    },
+    {
+      "index": 9,
+      "text_start": 10661,
+      "text_end": 11825,
+      "time_start_iso": "00:09:28",
+      "time_end_iso": "00:10:31",
+      "speakers": [],
+      "text": "está dispuesto a darte una valoración o mejor dicho unos múltiplos mayores a futuro. Entonces esto es bueno porque si mañana por lo que sea hay un golpe a la hay parte del golpe que ya está descontado, hay parte del golpe que se está si envidia está barata hoy es porque no se creen el mañana de la entonces el no se creen es que el mercado no quiere entrar en un periodo de burbuja como si lo hizo en otros muchos periodos. Vale esto mismo si lo hubierais visto en la comom no sería así, sería mucho más bestia. Entonces, esto es bastante extraño y es lo que hace que Nvidia parezca una oportunidad de libro increíblemente buena, eh, porque los múltiplos que tiene con respecto a la compañía que es, no tiene mucho sentido la compañía que es y el crecimiento que se espera. Esto mismo os lo voy a enseñar en una compañía eh donde se ve mucho más. Sandisk es una compañía de memorias, ¿vale? Se ha puesto de moda con la IA, etcétera, etcétera. Vemos lo mismo, ¿no? Una compañía que cotiza $87, modelos de valuación en 112 y analistas en 248. Es decir, incluso el analista más pesimista dice 110, con lo cual como mínimo esta empresa estaba eh infravalorada un 30%,"
+    },
+    {
+      "index": 10,
+      "text_start": 11826,
+      "text_end": 13017,
+      "time_start_iso": "00:10:29",
+      "time_end_iso": "00:11:31",
+      "speakers": [],
+      "text": "¿vale? Que vemos aquí esto como mínimo, ¿no? Esta empresa es muy bestia. Yo no había visto nunca esto antes, ¿vale? Cotiza un per de cinco veces, es ridículo, ya lo hemos dicho. Esto por debajo de 18 veces podríamos decir que ya es para mirarlo. Un per por debajo de 10 veces ya empieza a ser una una posición muy value, ¿eh? y un pera cinco veces es ridículo, es algo totalmente incomprensible. Un EVDA de cuatro veces, esto significa que con los beneficios de 4 años de la empresa pagas la empresa entera para que nos hagamos una idea más o menos, ¿no? Eh, esto es ridículo, ¿vale? Es ridículo. Eh, y cuando nos vamos al Per y al EV Bidda futuros es que el EV Bidda de dentro de un año es dos veces. Esto quiere decir que los con los beneficios esperados del año que viene, 2 años seguidos, pagas la empresa entera. Esto es como, no es del todo cierto lo que voy a decir, pero para que os hagáis una idea, esto es como si tú tienes una peluquería que te ha costado 100,000 € eh, y todos los años te queda te deja 50,000 € de beneficio más o menos. Pues, ¿cuánto valdría ese negocio? Pues tú dirías, \"Menudo hecho, yo hice, compré una cosa por 100 y me está bajando 50 todos los años.\" Pues"
+    },
+    {
+      "index": 11,
+      "text_start": 13018,
+      "text_end": 14198,
+      "time_start_iso": "00:11:30",
+      "time_end_iso": "00:12:36",
+      "speakers": [],
+      "text": "esto sería más o menos lo mismo, ¿vale? Eh, esto es ridículo porque supuestamente eh un negocio es algo mucho más que su caja o o o que el dinero que gana en un año, ¿no? El PER lo mismo, el PER baja 2,7. Son dos cosas que son ridículas. Y alguien dirá, \"Andrés, entonces, ¿cómo es posible que una compañía cotice a estos múltiples futuros tan baratos?\" Pues muy sencillo, el mercado no se cree que Sandisk pueda mantener los crecimientos o los eh o las ventas y los beneficios que se le esperan un año. No se los cree, porque si se los creyera, estos ratios no existirían jamás. Si tú te miras los beneficios por acción, pasa de palmar pasta en el 25 a ganar un poco de pasta en julio del 26 a más que doblar o a doblar prácticamente su beneficio. Es decir, pasa de Palmar hasta en junio del 25 a tener estos retornos en octubre del 26. Esto supuestamente va a seguir creciendo el año que viene y el mercado no es nada optimista con la IA a estos niveles. Es decir, no cree ni que Nvidia, ni que Sandis, ni que ninguna de estas empresas pueda mantener el ritmo de crecimiento de pedidos que el mercado sí estima. Y es por ello que el mercado ya se está preparando para un para un"
+    },
+    {
+      "index": 12,
+      "text_start": 14199,
+      "text_end": 15375,
+      "time_start_iso": "00:12:34",
+      "time_end_iso": "00:13:40",
+      "speakers": [],
+      "text": "para un posible pinchazo, no pinchazo, pero para un posible retroceso en el avance de la IA o que simplemente pues los e pedidos que se esperan en el futuro, que el mercado espera en el futuro, son mucho menores que los pedidos que esperan las empresas en el futuro. Esa sería la frase, ¿vale? Que las expectativas que tiene el mercado sobre la IA son mucho menores que las expectativas que tienen las propias empresas sobre sus propios negocios. Y eso hace que la posibilidad de que esto sea una burbuja gigante, pues se minimice, porque si esto fuera una burbuja, todas estas empresas está incluida, no podría cotizar a dos veces eh EV EBDA futuro. No tiene sentido. Esto no es una métrica de valoración normal. Un negocio saludable, como hemos dicho anteriormente, tiene que cotizar pues a 5, 6, 8, 10 veces. Es algo totalmente normal. Ya no te digo en una empresa que encima crece. Si esto ocurre es porque e el mercado no se lo cree. Y además hablamos, pues aquí lo vemos, Sandis que tampoco tiene deuda, es una empresa que no tiene deuda, que no tiene ese problema que digas, \"No, es que te penaliza mucho la deuda, por eso cotizas tan barato.\" Vale, sí, hay negocios en"
+    },
+    {
+      "index": 13,
+      "text_start": 15376,
+      "text_end": 16567,
+      "time_start_iso": "00:13:38",
+      "time_end_iso": "00:14:43",
+      "speakers": [],
+      "text": "dificultades donde estos múltiplos pueden ser muy baratos porque las empresas están en una situación financiera chunga, jodida, ¿no? En este caso no es el caso. Entonces, ¿qué es lo que sacamos en conclusión de todo esto? que el mercado, lo que son las personas no creen ni que Nvidia, ni que Sandis, ni que ninguna de estas eh vaya a vender y a crecer tanto como ellos mismos se piensan que sí lo va a hacer y por eso se protegen ya mismo con estos mercados, con estas caídas. Sandis que ha caído en 3 meses un 53. Es cierto que si lo miras desde abajo sigue estando muy arriba, pero fijaros como el propio mercado dice, \"Oye, cuidado con esto que es probable que esto no sea sostenible.\" Entonces, son buenas empresas a día de hoy con buenas perspectivas, que ganan dinero, que tal, que no sé qué, y que a todos los efectos están baratas. Sí, te estás mandando una una señal de alerta al mercado diciendo, cuidado que esto que nos dicen es posible que no se cumpla. también. Y esto es un poco lo que a mí, entre comillas, me deja más tranquilo, porque si esto fuera eh múltiplos supercos con crecimientos muy difíciles de sostener en el tiempo, pues ahí habría un problema, porque no es lo"
+    },
+    {
+      "index": 14,
+      "text_start": 16568,
+      "text_end": 17752,
+      "time_start_iso": "00:14:41",
+      "time_end_iso": "00:15:41",
+      "speakers": [],
+      "text": "mismo crecer de dos a cuatro que de cuatro a ocho. En los dos doblas, pero el dinero que necesitas para doblar en uno es muchísimo mayor que el dinero que necesitas para doblar en otro, ¿no? Y esto es lo que el mercado se protege a día de hoy. Por eso la suma de este tipo de análisis me hace pensar que el mercado en este caso no quiere caer en la misma trampa que en otras burbujas y ya de por sí descuenta eh favorablemente para el inversor y por eso las empresas están más baratas, que todo esto no es sostenible, sobre todo ese crecimiento tan bestia, esas valoraciones eh que deberían ser mucho más agresivas eh no lo son. Y eso, pues, para los que seguimos el mercado, pues nos hace estar un poco más tranquilos, porque yo soy de los que cree que esto es insostenible, el el sentido de el nivel de inversión que se está dedicando, el nivel de, en este caso, de ventas de ciertas empresas, el nivel de crecimiento que estamos experimentando, creo que es insostenible a largo plazo y está bien que el mercado lo frene un poco diciéndote que ciertas empresas no pueden estar tan caras o no pueden tener cierto tipo de valores. Espero, chicos, que el vídeo más o menos haya quedado"
+    },
+    {
+      "index": 15,
+      "text_start": 17753,
+      "text_end": 18464,
+      "time_start_iso": "00:15:39",
+      "time_end_iso": "00:16:15",
+      "speakers": [],
+      "text": "claro. Sé que son muchos conceptos, también es está bien de vez en cuando subir un poco el nivel de de los vídeos. Si os gusta este tipo de cosas, os aconsejo sobre todo para nivel de de y esto es publicidad, para nivel de empresas de de todos aquellos que queráis tener acciones en cartera, etcétera, etcétera. Creo que no tenéis ninguna herramienta mejor que Investin Pro con el código pizarra es tremendamente barato y sobre todo estos días de Black Friday. Y ya habéis visto la información que os da, si poco a poco vais sabiendo eh buscarla, ¿no? Eh, si os ha gustado, chicos, un like, un comentario, todo esto se agradece un montón y nosotros nos vemos en el siguiente vídeo. Se despide la pizarra Andrés."
+    }
+  ],
+  "segments": [
+    {
+      "index": 0,
+      "speaker": null,
+      "start": 0.48,
+      "end": 3.639,
+      "text": "Hola a todos y bienvenidos un día más a"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "start": 2.04,
+      "end": 6.48,
+      "text": "mi canal La Pizarra Andres. En el día de"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "start": 3.639,
+      "end": 9.519,
+      "text": "hoy vamos a hablar sobre una vez más en"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "start": 6.48,
+      "end": 13.679,
+      "text": "Nvidia, semiconductores, sector de la IA"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "start": 9.519,
+      "end": 16.08,
+      "text": "y vamos a de una forma ya eh más"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "start": 13.679,
+      "end": 17.8,
+      "text": "numérica a determinar en qué punto"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "start": 16.08,
+      "end": 19.759999999999998,
+      "text": "estamos y si de verdad estamos tan bien"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "start": 17.8,
+      "end": 21.560000000000002,
+      "text": "o tan mal. E en primer lugar quiero"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "start": 19.76,
+      "end": 23.840000000000003,
+      "text": "recordar una vez más que estos vídeos"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "start": 21.56,
+      "end": 25.68,
+      "text": "informativos ni mucho menos predicen lo"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "start": 23.84,
+      "end": 27.4,
+      "text": "que va a ocurrir mañana. Eh, nadie sabe"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "start": 25.68,
+      "end": 29.24,
+      "text": "lo que van a hacer mañana los mercados y"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "start": 27.4,
+      "end": 31.598999999999997,
+      "text": "sí que es cierto que hay ciertas cosas"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "start": 29.24,
+      "end": 33.6,
+      "text": "que sí podemos corroborar con números y"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "start": 31.599,
+      "end": 35.36,
+      "text": "asumiendo que estos números sean verdad,"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "start": 33.6,
+      "end": 37.160000000000004,
+      "text": "es decir, que no nos estén engañando de"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "start": 35.36,
+      "end": 38.839999999999996,
+      "text": "ninguna forma las empresas. Y eso es lo"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "start": 37.16,
+      "end": 41.44,
+      "text": "que vamos a intentar hacer hoy. Hm,"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "start": 38.84,
+      "end": 43.239000000000004,
+      "text": "normalmente mis vídeos no van sesgados."
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "start": 41.44,
+      "end": 46.039,
+      "text": "Bueno, si leéis los comentarios parece"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "start": 43.239,
+      "end": 47.919999999999995,
+      "text": "que para unos van sesgados hacia eh ser"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "start": 46.039,
+      "end": 50.160000000000004,
+      "text": "alcista o positivo siempre y para otros"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "start": 47.92,
+      "end": 52.160000000000004,
+      "text": "van a van sesgados a ser negativo"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "start": 50.16,
+      "end": 53.718999999999994,
+      "text": "catastrofista. La realidad es que ni una"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "start": 52.16,
+      "end": 55.559,
+      "text": "cosa ni otra. El objetivo es tener una"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "start": 53.719,
+      "end": 57.160000000000004,
+      "text": "cartera casi siempre, eh, sobre todo en"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "start": 55.559,
+      "end": 58.839999999999996,
+      "text": "capitales altos, lo más todoterreno"
+    },
+    {
+      "index": 27,
+      "speaker": null,
+      "start": 57.16,
+      "end": 60.68,
+      "text": "posible y no de adivinar dónde va a ir"
+    },
+    {
+      "index": 28,
+      "speaker": null,
+      "start": 58.84,
+      "end": 63.359,
+      "text": "el mercado, porque eso es imposible,"
+    },
+    {
+      "index": 29,
+      "speaker": null,
+      "start": 60.68,
+      "end": 64.879,
+      "text": "aunque en promedio eh vaya más para"
+    },
+    {
+      "index": 30,
+      "speaker": null,
+      "start": 63.359,
+      "end": 67.0,
+      "text": "arriba que para abajo, ¿no? Dicho esto,"
+    },
+    {
+      "index": 31,
+      "speaker": null,
+      "start": 64.879,
+      "end": 68.43900000000001,
+      "text": "sí que vamos a eh intentar explicar en"
+    },
+    {
+      "index": 32,
+      "speaker": null,
+      "start": 67.0,
+      "end": 70.64,
+      "text": "qué punto estamos actualmente, ¿vale? Y"
+    },
+    {
+      "index": 33,
+      "speaker": null,
+      "start": 68.439,
+      "end": 72.36,
+      "text": "para eso, en el día de hoy, y aprovecho"
+    },
+    {
+      "index": 34,
+      "speaker": null,
+      "start": 70.64,
+      "end": 74.72,
+      "text": "que esto se debería estar subiendo un"
+    },
+    {
+      "index": 35,
+      "speaker": null,
+      "start": 72.36,
+      "end": 77.36,
+      "text": "Black Friday, tenéis la promoción más"
+    },
+    {
+      "index": 36,
+      "speaker": null,
+      "start": 74.72,
+      "end": 78.92,
+      "text": "importante del año en Investing Pro,"
+    },
+    {
+      "index": 37,
+      "speaker": null,
+      "start": 77.36,
+      "end": 80.56,
+      "text": "¿vale? Con el código pizarra y con los"
+    },
+    {
+      "index": 38,
+      "speaker": null,
+      "start": 78.92,
+      "end": 81.84,
+      "text": "días de Black Friday, eso os queda"
+    },
+    {
+      "index": 39,
+      "speaker": null,
+      "start": 80.56,
+      "end": 83.2,
+      "text": "tremendamente barato. ¿Para qué sirve"
+    },
+    {
+      "index": 40,
+      "speaker": null,
+      "start": 81.84,
+      "end": 84.64,
+      "text": "Investing Pro? para lo que vamos a hacer"
+    },
+    {
+      "index": 41,
+      "speaker": null,
+      "start": 83.2,
+      "end": 86.159,
+      "text": "hoy, no solo para lo que vamos a hacer"
+    },
+    {
+      "index": 42,
+      "speaker": null,
+      "start": 84.64,
+      "end": 88.56,
+      "text": "hoy, sino para muchas cosas más, pero"
+    },
+    {
+      "index": 43,
+      "speaker": null,
+      "start": 86.159,
+      "end": 91.64,
+      "text": "que es eh determinar en qué punto está"
+    },
+    {
+      "index": 44,
+      "speaker": null,
+      "start": 88.56,
+      "end": 94.28,
+      "text": "una empresa, ¿vale? Intentar entender"
+    },
+    {
+      "index": 45,
+      "speaker": null,
+      "start": 91.64,
+      "end": 96.479,
+      "text": "qué es todo lo relacionado a esa empresa"
+    },
+    {
+      "index": 46,
+      "speaker": null,
+      "start": 94.28,
+      "end": 98.479,
+      "text": "e que tenemos hoy en día en el en el"
+    },
+    {
+      "index": 47,
+      "speaker": null,
+      "start": 96.479,
+      "end": 100.439,
+      "text": "precio y así pues que cada uno pueda"
+    },
+    {
+      "index": 48,
+      "speaker": null,
+      "start": 98.479,
+      "end": 102.24,
+      "text": "decidir si algo está caro o barato. Para"
+    },
+    {
+      "index": 49,
+      "speaker": null,
+      "start": 100.439,
+      "end": 103.83999999999999,
+      "text": "ello he cogido Nvidia y vamos a hablar"
+    },
+    {
+      "index": 50,
+      "speaker": null,
+      "start": 102.24,
+      "end": 105.52,
+      "text": "de muchas cosas de lo que vamos a ver"
+    },
+    {
+      "index": 51,
+      "speaker": null,
+      "start": 103.84,
+      "end": 107.84,
+      "text": "aquí. Esto lo vamos a extrapolar un poco"
+    },
+    {
+      "index": 52,
+      "speaker": null,
+      "start": 105.52,
+      "end": 109.32,
+      "text": "a los mercados de forma eh a los"
+    },
+    {
+      "index": 53,
+      "speaker": null,
+      "start": 107.84,
+      "end": 112.399,
+      "text": "mercados que tenemos actualmente para"
+    },
+    {
+      "index": 54,
+      "speaker": null,
+      "start": 109.32,
+      "end": 115.439,
+      "text": "intentar eh discernir si estamos en un"
+    },
+    {
+      "index": 55,
+      "speaker": null,
+      "start": 112.399,
+      "end": 117.399,
+      "text": "una burbuja o si no o si lo estuviéramos"
+    },
+    {
+      "index": 56,
+      "speaker": null,
+      "start": 115.439,
+      "end": 120.15899999999999,
+      "text": "en qué punto estaríamos. Eh, cojo en"
+    },
+    {
+      "index": 57,
+      "speaker": null,
+      "start": 117.399,
+      "end": 122.43900000000001,
+      "text": "Nvidia una vez más porque me parece el"
+    },
+    {
+      "index": 58,
+      "speaker": null,
+      "start": 120.159,
+      "end": 124.47900000000001,
+      "text": "mejor reflejo, aunque luego pu podemos"
+    },
+    {
+      "index": 59,
+      "speaker": null,
+      "start": 122.439,
+      "end": 126.96,
+      "text": "ver otra empresa, por ejemplo, Sandis o"
+    },
+    {
+      "index": 60,
+      "speaker": null,
+      "start": 124.479,
+      "end": 129.039,
+      "text": "alguna que haya que se haya visto e"
+    },
+    {
+      "index": 61,
+      "speaker": null,
+      "start": 126.96,
+      "end": 131.039,
+      "text": "beneficiada por todo el sector de la IA"
+    },
+    {
+      "index": 62,
+      "speaker": null,
+      "start": 129.039,
+      "end": 132.39999999999998,
+      "text": "y sacar otras conclusiones similares."
+    },
+    {
+      "index": 63,
+      "speaker": null,
+      "start": 131.039,
+      "end": 135.2,
+      "text": "¿Qué es lo primero que vemos de Nvidia?"
+    },
+    {
+      "index": 64,
+      "speaker": null,
+      "start": 132.4,
+      "end": 137.48000000000002,
+      "text": "Vale, partiendo de la base de que ni yo"
+    },
+    {
+      "index": 65,
+      "speaker": null,
+      "start": 135.2,
+      "end": 138.95899999999997,
+      "text": "tengo ni idea de cuál es el verdadero"
+    },
+    {
+      "index": 66,
+      "speaker": null,
+      "start": 137.48,
+      "end": 141.04,
+      "text": "valor de envidia, ni probablemente"
+    },
+    {
+      "index": 67,
+      "speaker": null,
+      "start": 138.959,
+      "end": 142.72,
+      "text": "tampoco los analistas ni los modelos de"
+    },
+    {
+      "index": 68,
+      "speaker": null,
+      "start": 141.04,
+      "end": 145.07999999999998,
+      "text": "valoración, sí que es cierto que de"
+    },
+    {
+      "index": 69,
+      "speaker": null,
+      "start": 142.72,
+      "end": 147.48,
+      "text": "primeras sorprende que esto es bastante"
+    },
+    {
+      "index": 70,
+      "speaker": null,
+      "start": 145.08,
+      "end": 149.16000000000003,
+      "text": "poco común, que los modelos de inversión"
+    },
+    {
+      "index": 71,
+      "speaker": null,
+      "start": 147.48,
+      "end": 151.2,
+      "text": "y los analistas coincidan en el precio"
+    },
+    {
+      "index": 72,
+      "speaker": null,
+      "start": 149.16,
+      "end": 153.92,
+      "text": "objetivo de Nvidia. Es decir, según todo"
+    },
+    {
+      "index": 73,
+      "speaker": null,
+      "start": 151.2,
+      "end": 156.879,
+      "text": "el mundo, por todo el mundo, son modelos"
+    },
+    {
+      "index": 74,
+      "speaker": null,
+      "start": 153.92,
+      "end": 158.95899999999997,
+      "text": "que no tienen eh uso de razón,"
+    },
+    {
+      "index": 75,
+      "speaker": null,
+      "start": 156.879,
+      "end": 160.76,
+      "text": "simplemente toman en cuenta diferentes"
+    },
+    {
+      "index": 76,
+      "speaker": null,
+      "start": 158.959,
+      "end": 164.519,
+      "text": "múltiplos. Aquí lo ves, los modelos de"
+    },
+    {
+      "index": 77,
+      "speaker": null,
+      "start": 160.76,
+      "end": 167.519,
+      "text": "valoración la valoran entre 185 y $275,"
+    },
+    {
+      "index": 78,
+      "speaker": null,
+      "start": 164.519,
+      "end": 170.31900000000002,
+      "text": "eh, siendo el promedio 200 y poco, 220,"
+    },
+    {
+      "index": 79,
+      "speaker": null,
+      "start": 167.519,
+      "end": 172.84,
+      "text": "230, bueno, el promedio aquí está 240,"
+    },
+    {
+      "index": 80,
+      "speaker": null,
+      "start": 170.319,
+      "end": 174.64,
+      "text": "¿vale? Entonces, esto no son personas,"
+    },
+    {
+      "index": 81,
+      "speaker": null,
+      "start": 172.84,
+      "end": 178.12,
+      "text": "estos son modelos tradicionales como"
+    },
+    {
+      "index": 82,
+      "speaker": null,
+      "start": 174.64,
+      "end": 179.23899999999998,
+      "text": "todos estos hm normalmente múltiplos que"
+    },
+    {
+      "index": 83,
+      "speaker": null,
+      "start": 178.12,
+      "end": 180.84,
+      "text": "se utilizan habitualmente en la"
+    },
+    {
+      "index": 84,
+      "speaker": null,
+      "start": 179.239,
+      "end": 182.44,
+      "text": "industria. Eh, después están los"
+    },
+    {
+      "index": 85,
+      "speaker": null,
+      "start": 180.84,
+      "end": 183.68,
+      "text": "analistas donde sí que es cierto que,"
+    },
+    {
+      "index": 86,
+      "speaker": null,
+      "start": 182.44,
+      "end": 185.48,
+      "text": "por ejemplo, aquí hay algún analista"
+    },
+    {
+      "index": 87,
+      "speaker": null,
+      "start": 183.68,
+      "end": 187.76000000000002,
+      "text": "pesimista que podría que dice que podría"
+    },
+    {
+      "index": 88,
+      "speaker": null,
+      "start": 185.48,
+      "end": 189.92,
+      "text": "valer hasta $130 y algún analista"
+    },
+    {
+      "index": 89,
+      "speaker": null,
+      "start": 187.76,
+      "end": 192.12,
+      "text": "hiperoptimista que cree que podría valer"
+    },
+    {
+      "index": 90,
+      "speaker": null,
+      "start": 189.92,
+      "end": 194.55999999999997,
+      "text": "hasta 425. La realidad es que el"
+    },
+    {
+      "index": 91,
+      "speaker": null,
+      "start": 192.12,
+      "end": 197.12,
+      "text": "promedio es 244, con lo cual de primeras"
+    },
+    {
+      "index": 92,
+      "speaker": null,
+      "start": 194.56,
+      "end": 198.76,
+      "text": "sí que entendería a cualquiera que con"
+    },
+    {
+      "index": 93,
+      "speaker": null,
+      "start": 197.12,
+      "end": 200.44,
+      "text": "un mejor análisis que el que tiene la"
+    },
+    {
+      "index": 94,
+      "speaker": null,
+      "start": 198.76,
+      "end": 202.319,
+      "text": "mayoría de personas pues diga que"
+    },
+    {
+      "index": 95,
+      "speaker": null,
+      "start": 200.44,
+      "end": 203.72,
+      "text": "envidia es compra, ¿vale? Sin embargo,"
+    },
+    {
+      "index": 96,
+      "speaker": null,
+      "start": 202.319,
+      "end": 205.79899999999998,
+      "text": "no estamos aquí para determinar si"
+    },
+    {
+      "index": 97,
+      "speaker": null,
+      "start": 203.72,
+      "end": 207.799,
+      "text": "envidia es compra o no. Estamos aquí, es"
+    },
+    {
+      "index": 98,
+      "speaker": null,
+      "start": 205.799,
+      "end": 209.959,
+      "text": "la pregunta del vídeo, para preguntarnos"
+    },
+    {
+      "index": 99,
+      "speaker": null,
+      "start": 207.799,
+      "end": 212.439,
+      "text": "si existe una burbuja en la sí o no."
+    },
+    {
+      "index": 100,
+      "speaker": null,
+      "start": 209.959,
+      "end": 214.28,
+      "text": "¿Vale? Eh, pero de primeras, si alguien"
+    },
+    {
+      "index": 101,
+      "speaker": null,
+      "start": 212.439,
+      "end": 216.519,
+      "text": "quisiera comprar Nvidia, solo por estos"
+    },
+    {
+      "index": 102,
+      "speaker": null,
+      "start": 214.28,
+      "end": 218.48,
+      "text": "fundamentos parece que es razonable"
+    },
+    {
+      "index": 103,
+      "speaker": null,
+      "start": 216.519,
+      "end": 221.4,
+      "text": "querer comprar Nvidia, ¿vale? Eh, con lo"
+    },
+    {
+      "index": 104,
+      "speaker": null,
+      "start": 218.48,
+      "end": 223.56,
+      "text": "cual el precio a día de hoy 165 con"
+    },
+    {
+      "index": 105,
+      "speaker": null,
+      "start": 221.4,
+      "end": 225.59900000000002,
+      "text": "aproximadamente un 50% de revalorización"
+    },
+    {
+      "index": 106,
+      "speaker": null,
+      "start": 223.56,
+      "end": 227.2,
+      "text": "objetivo hasta su precio promedio o su"
+    },
+    {
+      "index": 107,
+      "speaker": null,
+      "start": 225.599,
+      "end": 228.79899999999998,
+      "text": "precio esperado. Y esto es incluso"
+    },
+    {
+      "index": 108,
+      "speaker": null,
+      "start": 227.2,
+      "end": 231.599,
+      "text": "después del rebote, que ayer esta"
+    },
+    {
+      "index": 109,
+      "speaker": null,
+      "start": 228.799,
+      "end": 234.239,
+      "text": "empresa rebotó un 31%, ¿no? Con lo cual,"
+    },
+    {
+      "index": 110,
+      "speaker": null,
+      "start": 231.599,
+      "end": 235.959,
+      "text": "a priori, empresa, eh, empresa muy"
+    },
+    {
+      "index": 111,
+      "speaker": null,
+      "start": 234.239,
+      "end": 237.239,
+      "text": "buena, una empresa que se espera que"
+    },
+    {
+      "index": 112,
+      "speaker": null,
+      "start": 235.959,
+      "end": 238.519,
+      "text": "pueda valer más, ¿vale? Este es el"
+    },
+    {
+      "index": 113,
+      "speaker": null,
+      "start": 237.239,
+      "end": 240.439,
+      "text": "rebote que vimos ayer, que lo vamos a"
+    },
+    {
+      "index": 114,
+      "speaker": null,
+      "start": 238.519,
+      "end": 241.799,
+      "text": "ver aquí, ¿vale? Que claro, visto en"
+    },
+    {
+      "index": 115,
+      "speaker": null,
+      "start": 240.439,
+      "end": 243.959,
+      "text": "perspectiva no parece tanto. Aquí lo"
+    },
+    {
+      "index": 116,
+      "speaker": null,
+      "start": 241.799,
+      "end": 246.76000000000002,
+      "text": "vemos, ¿no? ¿Dónde quiero llegar yo con"
+    },
+    {
+      "index": 117,
+      "speaker": null,
+      "start": 243.959,
+      "end": 249.12,
+      "text": "esto? Bueno, además de que investig un"
+    },
+    {
+      "index": 118,
+      "speaker": null,
+      "start": 246.76,
+      "end": 251.28,
+      "text": "vistazo rápido, pues te da esto mismo,"
+    },
+    {
+      "index": 119,
+      "speaker": null,
+      "start": 249.12,
+      "end": 252.76,
+      "text": "el precio objetivo, incluso un poco el"
+    },
+    {
+      "index": 120,
+      "speaker": null,
+      "start": 251.28,
+      "end": 254.799,
+      "text": "financial health de la empresa, todo lo"
+    },
+    {
+      "index": 121,
+      "speaker": null,
+      "start": 252.76,
+      "end": 256.59999999999997,
+      "text": "que esté por aquí por cuatro o c es que"
+    },
+    {
+      "index": 122,
+      "speaker": null,
+      "start": 254.799,
+      "end": 258.84000000000003,
+      "text": "implica que la empresa está en un buen"
+    },
+    {
+      "index": 123,
+      "speaker": null,
+      "start": 256.6,
+      "end": 260.0,
+      "text": "estado. Eh, pero donde me quiero ir es"
+    },
+    {
+      "index": 124,
+      "speaker": null,
+      "start": 258.84,
+      "end": 261.44,
+      "text": "aquí porque es donde hay más"
+    },
+    {
+      "index": 125,
+      "speaker": null,
+      "start": 260.0,
+      "end": 263.04,
+      "text": "información. Yo entiendo que esto para"
+    },
+    {
+      "index": 126,
+      "speaker": null,
+      "start": 261.44,
+      "end": 265.0,
+      "text": "muchos puede ser algo complejo y lo voy"
+    },
+    {
+      "index": 127,
+      "speaker": null,
+      "start": 263.04,
+      "end": 267.08000000000004,
+      "text": "a intentar explicar desde lo más básico"
+    },
+    {
+      "index": 128,
+      "speaker": null,
+      "start": 265.0,
+      "end": 268.96,
+      "text": "posible, ¿vale? Esto de aquí no son más"
+    },
+    {
+      "index": 129,
+      "speaker": null,
+      "start": 267.08,
+      "end": 271.96,
+      "text": "que los números de la empresa, ¿vale?"
+    },
+    {
+      "index": 130,
+      "speaker": null,
+      "start": 268.96,
+      "end": 277.32,
+      "text": "los números de de beneficio de de bueno,"
+    },
+    {
+      "index": 131,
+      "speaker": null,
+      "start": 271.96,
+      "end": 281.23999999999995,
+      "text": "de de e beneficios por acción, evita eh"
+    },
+    {
+      "index": 132,
+      "speaker": null,
+      "start": 277.32,
+      "end": 282.759,
+      "text": "liquidez, eh activos eh e liabilities,"
+    },
+    {
+      "index": 133,
+      "speaker": null,
+      "start": 281.24,
+      "end": 284.36,
+      "text": "de todo, ¿no? Incluso la deuda, que"
+    },
+    {
+      "index": 134,
+      "speaker": null,
+      "start": 282.759,
+      "end": 286.32,
+      "text": "ahora lo veremos aquí, que evidentemente"
+    },
+    {
+      "index": 135,
+      "speaker": null,
+      "start": 284.36,
+      "end": 288.759,
+      "text": "eh en esta empresa no es lo más"
+    },
+    {
+      "index": 136,
+      "speaker": null,
+      "start": 286.32,
+      "end": 290.639,
+      "text": "importante, ¿no? Pero e qué es donde"
+    },
+    {
+      "index": 137,
+      "speaker": null,
+      "start": 288.759,
+      "end": 292.32,
+      "text": "donde yo quiero hacer hincapié, ¿vale?"
+    },
+    {
+      "index": 138,
+      "speaker": null,
+      "start": 290.639,
+      "end": 294.36,
+      "text": "Si le dais aquí en Data Explorer, en"
+    },
+    {
+      "index": 139,
+      "speaker": null,
+      "start": 292.32,
+      "end": 296.12,
+      "text": "edit, buscáis aquí, podéis buscar"
+    },
+    {
+      "index": 140,
+      "speaker": null,
+      "start": 294.36,
+      "end": 298.24,
+      "text": "métricas futuras, ¿vale? que es lo que"
+    },
+    {
+      "index": 141,
+      "speaker": null,
+      "start": 296.12,
+      "end": 300.759,
+      "text": "vamos a utilizar para determinar si"
+    },
+    {
+      "index": 142,
+      "speaker": null,
+      "start": 298.24,
+      "end": 302.8,
+      "text": "estas empresas están caras o no y cómo"
+    },
+    {
+      "index": 143,
+      "speaker": null,
+      "start": 300.759,
+      "end": 305.24,
+      "text": "penaliza el mercado este sector o cómo"
+    },
+    {
+      "index": 144,
+      "speaker": null,
+      "start": 302.8,
+      "end": 307.36,
+      "text": "está descontando el mercado en este"
+    },
+    {
+      "index": 145,
+      "speaker": null,
+      "start": 305.24,
+      "end": 310.039,
+      "text": "sector las cosas, ¿no? Normalmente"
+    },
+    {
+      "index": 146,
+      "speaker": null,
+      "start": 307.36,
+      "end": 312.639,
+      "text": "cuando tú dices que hay una burbuja, lo"
+    },
+    {
+      "index": 147,
+      "speaker": null,
+      "start": 310.039,
+      "end": 314.96,
+      "text": "que esperas ver son valoraciones altas"
+    },
+    {
+      "index": 148,
+      "speaker": null,
+      "start": 312.639,
+      "end": 317.28000000000003,
+      "text": "hoy y valoraciones altas, aunque un"
+    },
+    {
+      "index": 149,
+      "speaker": null,
+      "start": 314.96,
+      "end": 319.59999999999997,
+      "text": "poquito menos altas mañana, ¿vale?"
+    },
+    {
+      "index": 150,
+      "speaker": null,
+      "start": 317.28,
+      "end": 321.75899999999996,
+      "text": "porque esperas seguir viendo crecimiento"
+    },
+    {
+      "index": 151,
+      "speaker": null,
+      "start": 319.6,
+      "end": 323.52000000000004,
+      "text": "y por tanto ese crecimiento lo pagas muy"
+    },
+    {
+      "index": 152,
+      "speaker": null,
+      "start": 321.759,
+      "end": 325.16,
+      "text": "bien. No sé si se entiende esto. Cuando"
+    },
+    {
+      "index": 153,
+      "speaker": null,
+      "start": 323.52,
+      "end": 327.039,
+      "text": "tú eres una empresa y te tienen que"
+    },
+    {
+      "index": 154,
+      "speaker": null,
+      "start": 325.16,
+      "end": 328.68,
+      "text": "valorar como empresa, si dos empresas"
+    },
+    {
+      "index": 155,
+      "speaker": null,
+      "start": 327.039,
+      "end": 330.36,
+      "text": "son exactamente iguales y una crece"
+    },
+    {
+      "index": 156,
+      "speaker": null,
+      "start": 328.68,
+      "end": 331.759,
+      "text": "mucho más que la otra, la que crece"
+    },
+    {
+      "index": 157,
+      "speaker": null,
+      "start": 330.36,
+      "end": 333.52000000000004,
+      "text": "mucho más tiene que estar más cara"
+    },
+    {
+      "index": 158,
+      "speaker": null,
+      "start": 331.759,
+      "end": 335.56,
+      "text": "porque se asume que el día de mañana"
+    },
+    {
+      "index": 159,
+      "speaker": null,
+      "start": 333.52,
+      "end": 337.039,
+      "text": "será mejor. Es decir, hoy son iguales,"
+    },
+    {
+      "index": 160,
+      "speaker": null,
+      "start": 335.56,
+      "end": 338.88,
+      "text": "pero como una creza al 10 y otra crece"
+    },
+    {
+      "index": 161,
+      "speaker": null,
+      "start": 337.039,
+      "end": 340.919,
+      "text": "al 20, la que creza el 20 tiene que"
+    },
+    {
+      "index": 162,
+      "speaker": null,
+      "start": 338.88,
+      "end": 343.12,
+      "text": "estar más cara, ¿vale? Porque se espera"
+    },
+    {
+      "index": 163,
+      "speaker": null,
+      "start": 340.919,
+      "end": 345.59999999999997,
+      "text": "que mañana valga más dinero porque ha"
+    },
+    {
+      "index": 164,
+      "speaker": null,
+      "start": 343.12,
+      "end": 347.16,
+      "text": "crecido más. En este caso, eh, para"
+    },
+    {
+      "index": 165,
+      "speaker": null,
+      "start": 345.6,
+      "end": 348.91900000000004,
+      "text": "empresas normalmente de un sector como"
+    },
+    {
+      "index": 166,
+      "speaker": null,
+      "start": 347.16,
+      "end": 351.84000000000003,
+      "text": "la IA, donde se espera crecimiento, lo"
+    },
+    {
+      "index": 167,
+      "speaker": null,
+      "start": 348.919,
+      "end": 354.68,
+      "text": "normal sería ver unos múltiplos de"
+    },
+    {
+      "index": 168,
+      "speaker": null,
+      "start": 351.84,
+      "end": 356.59999999999997,
+      "text": "futuro que sean iguales o superiores. En"
+    },
+    {
+      "index": 169,
+      "speaker": null,
+      "start": 354.68,
+      "end": 357.72,
+      "text": "el caso de que no fueran superiores, lo"
+    },
+    {
+      "index": 170,
+      "speaker": null,
+      "start": 356.6,
+      "end": 359.36,
+      "text": "primero que tienes que preguntarte es,"
+    },
+    {
+      "index": 171,
+      "speaker": null,
+      "start": 357.72,
+      "end": 361.08000000000004,
+      "text": "oye, ¿cómo empresa que está en un sector"
+    },
+    {
+      "index": 172,
+      "speaker": null,
+      "start": 359.36,
+      "end": 363.759,
+      "text": "de la IA, que se asume que está"
+    },
+    {
+      "index": 173,
+      "speaker": null,
+      "start": 361.08,
+      "end": 365.71999999999997,
+      "text": "creciendo muchísimo, eh, tiene múltiplos"
+    },
+    {
+      "index": 174,
+      "speaker": null,
+      "start": 363.759,
+      "end": 368.24,
+      "text": "en el futuro que son más baratos? ¿Qué"
+    },
+    {
+      "index": 175,
+      "speaker": null,
+      "start": 365.72,
+      "end": 370.56,
+      "text": "me estoy perdiendo aquí? Eso sería"
+    },
+    {
+      "index": 176,
+      "speaker": null,
+      "start": 368.24,
+      "end": 372.44,
+      "text": "bastante extraño y eso mismo es lo que"
+    },
+    {
+      "index": 177,
+      "speaker": null,
+      "start": 370.56,
+      "end": 373.68,
+      "text": "estamos viendo en el sector, cosa que me"
+    },
+    {
+      "index": 178,
+      "speaker": null,
+      "start": 372.44,
+      "end": 375.24,
+      "text": "sorprende bastante. Entonces, vamos a"
+    },
+    {
+      "index": 179,
+      "speaker": null,
+      "start": 373.68,
+      "end": 377.12,
+      "text": "empezar desde inicio, ¿vale? Esto de"
+    },
+    {
+      "index": 180,
+      "speaker": null,
+      "start": 375.24,
+      "end": 378.56,
+      "text": "aquí es el dividendo. De esto no vamos a"
+    },
+    {
+      "index": 181,
+      "speaker": null,
+      "start": 377.12,
+      "end": 380.599,
+      "text": "hablar porque en Nvidia es irrelevante."
+    },
+    {
+      "index": 182,
+      "speaker": null,
+      "start": 378.56,
+      "end": 382.4,
+      "text": "Esto de aquí es el es el famoso PER,"
+    },
+    {
+      "index": 183,
+      "speaker": null,
+      "start": 380.599,
+      "end": 384.039,
+      "text": "¿vale? Price earnings ratios. Esto te"
+    },
+    {
+      "index": 184,
+      "speaker": null,
+      "start": 382.4,
+      "end": 385.84,
+      "text": "divide el precio de la acción entre los"
+    },
+    {
+      "index": 185,
+      "speaker": null,
+      "start": 384.039,
+      "end": 388.639,
+      "text": "beneficios por acción. Históricamente,"
+    },
+    {
+      "index": 186,
+      "speaker": null,
+      "start": 385.84,
+      "end": 391.31899999999996,
+      "text": "si cogéis cualquier libro de o cualquier"
+    },
+    {
+      "index": 187,
+      "speaker": null,
+      "start": 388.639,
+      "end": 393.0,
+      "text": "tipo de eh artículo, filosofía, value,"
+    },
+    {
+      "index": 188,
+      "speaker": null,
+      "start": 391.319,
+      "end": 395.40000000000003,
+      "text": "barren buffet y demás, te van a decir"
+    },
+    {
+      "index": 189,
+      "speaker": null,
+      "start": 393.0,
+      "end": 397.479,
+      "text": "que un per en torno a 18 20 veces sería"
+    },
+    {
+      "index": 190,
+      "speaker": null,
+      "start": 395.4,
+      "end": 399.44,
+      "text": "lo normal. incluso por debajo de 18"
+    },
+    {
+      "index": 191,
+      "speaker": null,
+      "start": 397.479,
+      "end": 402.08,
+      "text": "empezaría a estar barato. Bien, pues"
+    },
+    {
+      "index": 192,
+      "speaker": null,
+      "start": 399.44,
+      "end": 404.52,
+      "text": "Nvidia, a pesar de ser una empresa eh en"
+    },
+    {
+      "index": 193,
+      "speaker": null,
+      "start": 402.08,
+      "end": 406.35999999999996,
+      "text": "crecimiento, está 17,6 veces. Eso a"
+    },
+    {
+      "index": 194,
+      "speaker": null,
+      "start": 404.52,
+      "end": 408.039,
+      "text": "pesar del rebote de ayer. Con lo cual"
+    },
+    {
+      "index": 195,
+      "speaker": null,
+      "start": 406.36,
+      "end": 409.56,
+      "text": "podemos decir que Nvidia si fuera una"
+    },
+    {
+      "index": 196,
+      "speaker": null,
+      "start": 408.039,
+      "end": 412.039,
+      "text": "empresa totalmente consolidada que no"
+    },
+    {
+      "index": 197,
+      "speaker": null,
+      "start": 409.56,
+      "end": 413.44,
+      "text": "crece y una buena empresa 17,6 veces"
+    },
+    {
+      "index": 198,
+      "speaker": null,
+      "start": 412.039,
+      "end": 414.84,
+      "text": "sería un buen múltiplo y dirías esta"
+    },
+    {
+      "index": 199,
+      "speaker": null,
+      "start": 413.44,
+      "end": 416.68,
+      "text": "empresa está bien, pero siendo una"
+    },
+    {
+      "index": 200,
+      "speaker": null,
+      "start": 414.84,
+      "end": 419.11999999999995,
+      "text": "empresa que crece esto parece bastante"
+    },
+    {
+      "index": 201,
+      "speaker": null,
+      "start": 416.68,
+      "end": 420.919,
+      "text": "barato, cosa que es algo extraño. Bueno,"
+    },
+    {
+      "index": 202,
+      "speaker": null,
+      "start": 419.12,
+      "end": 422.72,
+      "text": "ya sabemos que Envidia se ha visto en eh"
+    },
+    {
+      "index": 203,
+      "speaker": null,
+      "start": 420.919,
+      "end": 424.479,
+      "text": "involucrado en en otro tipo de cosas con"
+    },
+    {
+      "index": 204,
+      "speaker": null,
+      "start": 422.72,
+      "end": 426.759,
+      "text": "su CEO, etcétera, etcétera, pero de"
+    },
+    {
+      "index": 205,
+      "speaker": null,
+      "start": 424.479,
+      "end": 429.4,
+      "text": "primeras en la valoración actual parece"
+    },
+    {
+      "index": 206,
+      "speaker": null,
+      "start": 426.759,
+      "end": 431.24,
+      "text": "sensata, incluso barata, ¿vale? y y digo"
+    },
+    {
+      "index": 207,
+      "speaker": null,
+      "start": 429.4,
+      "end": 432.71999999999997,
+      "text": "sensata, si no creciera, como crece,"
+    },
+    {
+      "index": 208,
+      "speaker": null,
+      "start": 431.24,
+      "end": 434.56,
+      "text": "pues es una es una valoración barata,"
+    },
+    {
+      "index": 209,
+      "speaker": null,
+      "start": 432.72,
+      "end": 436.40000000000003,
+      "text": "¿no? Si bajamos aquí un poco otro ratio"
+    },
+    {
+      "index": 210,
+      "speaker": null,
+      "start": 434.56,
+      "end": 437.639,
+      "text": "muy importante es el EV Bidda, que es el"
+    },
+    {
+      "index": 211,
+      "speaker": null,
+      "start": 436.4,
+      "end": 439.71999999999997,
+      "text": "enterprise prise value, cuánto vale la"
+    },
+    {
+      "index": 212,
+      "speaker": null,
+      "start": 437.639,
+      "end": 441.84000000000003,
+      "text": "empresa entre el evidda los beneficios"
+    },
+    {
+      "index": 213,
+      "speaker": null,
+      "start": 439.72,
+      "end": 443.639,
+      "text": "que tiene, ¿vale? Beneficios antes de"
+    },
+    {
+      "index": 214,
+      "speaker": null,
+      "start": 441.84,
+      "end": 445.96,
+      "text": "impuestos, depreciación y amortización."
+    },
+    {
+      "index": 215,
+      "speaker": null,
+      "start": 443.639,
+      "end": 448.40000000000003,
+      "text": "Estos son 16 veces esto también es un"
+    },
+    {
+      "index": 216,
+      "speaker": null,
+      "start": 445.96,
+      "end": 451.84,
+      "text": "ratio aceptable. Es decir, normalmente"
+    },
+    {
+      "index": 217,
+      "speaker": null,
+      "start": 448.4,
+      "end": 453.19899999999996,
+      "text": "digamos que a partir de 10, 12 veces"
+    },
+    {
+      "index": 218,
+      "speaker": null,
+      "start": 451.84,
+      "end": 455.35999999999996,
+      "text": "podríamos decir que la empresa empieza a"
+    },
+    {
+      "index": 219,
+      "speaker": null,
+      "start": 453.199,
+      "end": 457.28000000000003,
+      "text": "estar barata. 16 veces sería algo quizá"
+    },
+    {
+      "index": 220,
+      "speaker": null,
+      "start": 455.36,
+      "end": 458.68,
+      "text": "normal, quizá un poquito por encima lo"
+    },
+    {
+      "index": 221,
+      "speaker": null,
+      "start": 457.28,
+      "end": 461.0,
+      "text": "esperado, pero bueno, sigue siendo un"
+    },
+    {
+      "index": 222,
+      "speaker": null,
+      "start": 458.68,
+      "end": 463.319,
+      "text": "ratio muy de empresa consolidada, no es"
+    },
+    {
+      "index": 223,
+      "speaker": null,
+      "start": 461.0,
+      "end": 465.919,
+      "text": "un ratio eh tremendamente caro ni mucho"
+    },
+    {
+      "index": 224,
+      "speaker": null,
+      "start": 463.319,
+      "end": 467.40000000000003,
+      "text": "menos, ¿no? Eh, bueno, del free cas y de"
+    },
+    {
+      "index": 225,
+      "speaker": null,
+      "start": 465.919,
+      "end": 469.52,
+      "text": "esto podemos hablar otro día. Aquí vemos"
+    },
+    {
+      "index": 226,
+      "speaker": null,
+      "start": 467.4,
+      "end": 470.96,
+      "text": "deuda financiera de vida, que es menos0"
+    },
+    {
+      "index": 227,
+      "speaker": null,
+      "start": 469.52,
+      "end": 472.75899999999996,
+      "text": "con dos veces, con lo cual tiene cash,"
+    },
+    {
+      "index": 228,
+      "speaker": null,
+      "start": 470.96,
+      "end": 474.63899999999995,
+      "text": "no tiene deuda, algo muy sano para una"
+    },
+    {
+      "index": 229,
+      "speaker": null,
+      "start": 472.759,
+      "end": 476.28000000000003,
+      "text": "empresa. Y luego nos vamos a los dos"
+    },
+    {
+      "index": 230,
+      "speaker": null,
+      "start": 474.639,
+      "end": 477.759,
+      "text": "múltiplos que he sacado yo, que esto es"
+    },
+    {
+      "index": 231,
+      "speaker": null,
+      "start": 476.28,
+      "end": 480.44,
+      "text": "lo que sorprende, y es que cuando"
+    },
+    {
+      "index": 232,
+      "speaker": null,
+      "start": 477.759,
+      "end": 482.759,
+      "text": "sacamos los ratios que pone FWD, esto"
+    },
+    {
+      "index": 233,
+      "speaker": null,
+      "start": 480.44,
+      "end": 485.44,
+      "text": "significa forward, significa a un año"
+    },
+    {
+      "index": 234,
+      "speaker": null,
+      "start": 482.759,
+      "end": 487.639,
+      "text": "vista normalmente, ¿vale? Significa e"
+    },
+    {
+      "index": 235,
+      "speaker": null,
+      "start": 485.44,
+      "end": 490.52,
+      "text": "cómo cambian estos dos datos, el per que"
+    },
+    {
+      "index": 236,
+      "speaker": null,
+      "start": 487.639,
+      "end": 492.479,
+      "text": "lo vimos aquí, y el Vbitda, del futuro."
+    },
+    {
+      "index": 237,
+      "speaker": null,
+      "start": 490.52,
+      "end": 494.87899999999996,
+      "text": "Y si te fijas, el PER dentro de un año"
+    },
+    {
+      "index": 238,
+      "speaker": null,
+      "start": 492.479,
+      "end": 496.599,
+      "text": "se espera que pase de 17,6 a 17,1. Es"
+    },
+    {
+      "index": 239,
+      "speaker": null,
+      "start": 494.879,
+      "end": 498.24,
+      "text": "decir, algo aquí no cuadra porque se"
+    },
+    {
+      "index": 240,
+      "speaker": null,
+      "start": 496.599,
+      "end": 501.0,
+      "text": "espera que la empresa crezca, pero que"
+    },
+    {
+      "index": 241,
+      "speaker": null,
+      "start": 498.24,
+      "end": 502.84000000000003,
+      "text": "esté más barata. Eh, en el EV EVA pasa"
+    },
+    {
+      "index": 242,
+      "speaker": null,
+      "start": 501.0,
+      "end": 504.879,
+      "text": "lo mismo. Se espera que la empresa en"
+    },
+    {
+      "index": 243,
+      "speaker": null,
+      "start": 502.84,
+      "end": 507.11999999999995,
+      "text": "número de veces que justificas su"
+    },
+    {
+      "index": 244,
+      "speaker": null,
+      "start": 504.879,
+      "end": 510.199,
+      "text": "valoración con el dinero que ganas, eh,"
+    },
+    {
+      "index": 245,
+      "speaker": null,
+      "start": 507.12,
+      "end": 511.599,
+      "text": "baja de 16 veces a 13,7. Es decir, el"
+    },
+    {
+      "index": 246,
+      "speaker": null,
+      "start": 510.199,
+      "end": 513.919,
+      "text": "año que viene Nvidia va a estar más"
+    },
+    {
+      "index": 247,
+      "speaker": null,
+      "start": 511.599,
+      "end": 515.36,
+      "text": "barata. Esto no es síntoma de burbuja."
+    },
+    {
+      "index": 248,
+      "speaker": null,
+      "start": 513.919,
+      "end": 517.24,
+      "text": "Esto no es síntoma de burbuja porque el"
+    },
+    {
+      "index": 249,
+      "speaker": null,
+      "start": 515.36,
+      "end": 518.36,
+      "text": "mercado ya se está protegiendo. ¿Qué es"
+    },
+    {
+      "index": 250,
+      "speaker": null,
+      "start": 517.24,
+      "end": 520.08,
+      "text": "lo que descuenta aquí el mercado? Se"
+    },
+    {
+      "index": 251,
+      "speaker": null,
+      "start": 518.36,
+      "end": 521.5600000000001,
+      "text": "está protegiendo de la posibilidad de"
+    },
+    {
+      "index": 252,
+      "speaker": null,
+      "start": 520.08,
+      "end": 523.479,
+      "text": "que Nvidia no crezca lo que debe lo que"
+    },
+    {
+      "index": 253,
+      "speaker": null,
+      "start": 521.56,
+      "end": 524.64,
+      "text": "debería crecer. Es decir, no se cree lo"
+    },
+    {
+      "index": 254,
+      "speaker": null,
+      "start": 523.479,
+      "end": 527.0400000000001,
+      "text": "que tú vas a crecer, porque si se"
+    },
+    {
+      "index": 255,
+      "speaker": null,
+      "start": 524.64,
+      "end": 529.04,
+      "text": "creyera lo que tú vas a crecer, el PER y"
+    },
+    {
+      "index": 256,
+      "speaker": null,
+      "start": 527.04,
+      "end": 531.68,
+      "text": "el EV Bidda futuros, deberían ser"
+    },
+    {
+      "index": 257,
+      "speaker": null,
+      "start": 529.04,
+      "end": 533.12,
+      "text": "mayores que el PER y el Vbitda actuales,"
+    },
+    {
+      "index": 258,
+      "speaker": null,
+      "start": 531.68,
+      "end": 535.4399999999999,
+      "text": "porque la empresa es mejor. La empresa"
+    },
+    {
+      "index": 259,
+      "speaker": null,
+      "start": 533.12,
+      "end": 537.399,
+      "text": "es mejor o como mínimo mantenerse, pero"
+    },
+    {
+      "index": 260,
+      "speaker": null,
+      "start": 535.44,
+      "end": 539.24,
+      "text": "si una empresa crece, no puede valer"
+    },
+    {
+      "index": 261,
+      "speaker": null,
+      "start": 537.399,
+      "end": 541.36,
+      "text": "menos. En teoría, en teoría no hay"
+    },
+    {
+      "index": 262,
+      "speaker": null,
+      "start": 539.24,
+      "end": 543.48,
+      "text": "matices y sí que si fueran crecimientos"
+    },
+    {
+      "index": 263,
+      "speaker": null,
+      "start": 541.36,
+      "end": 544.8000000000001,
+      "text": "muy leves y demás y se tuvieran otras"
+    },
+    {
+      "index": 264,
+      "speaker": null,
+      "start": 543.48,
+      "end": 546.48,
+      "text": "otras cosas en cuentas, pues podría"
+    },
+    {
+      "index": 265,
+      "speaker": null,
+      "start": 544.8,
+      "end": 548.0,
+      "text": "valer, ¿no? He cogido estos dos estos"
+    },
+    {
+      "index": 266,
+      "speaker": null,
+      "start": 546.48,
+      "end": 549.2,
+      "text": "dos ratios para que veáis, se podrían"
+    },
+    {
+      "index": 267,
+      "speaker": null,
+      "start": 548.0,
+      "end": 550.72,
+      "text": "otros muchos ratios, pero he"
+    },
+    {
+      "index": 268,
+      "speaker": null,
+      "start": 549.2,
+      "end": 553.48,
+      "text": "cogido estos dos ratios para que veáis"
+    },
+    {
+      "index": 269,
+      "speaker": null,
+      "start": 550.72,
+      "end": 555.2,
+      "text": "que eh ocurre en más de un múltiplo, no"
+    },
+    {
+      "index": 270,
+      "speaker": null,
+      "start": 553.48,
+      "end": 556.48,
+      "text": "es que sea una casualidad, ¿vale? Esto"
+    },
+    {
+      "index": 271,
+      "speaker": null,
+      "start": 555.2,
+      "end": 558.24,
+      "text": "lo vamos a ver ahora mucho más bestia en"
+    },
+    {
+      "index": 272,
+      "speaker": null,
+      "start": 556.48,
+      "end": 560.12,
+      "text": "otra empresa. Con lo cual lo que te está"
+    },
+    {
+      "index": 273,
+      "speaker": null,
+      "start": 558.24,
+      "end": 562.279,
+      "text": "diciendo el mercado es que uno no se"
+    },
+    {
+      "index": 274,
+      "speaker": null,
+      "start": 560.12,
+      "end": 563.92,
+      "text": "cree que el sector de la IEL y Nvidia en"
+    },
+    {
+      "index": 275,
+      "speaker": null,
+      "start": 562.279,
+      "end": 566.12,
+      "text": "concreto vaya a crecer tanto, vaya a"
+    },
+    {
+      "index": 276,
+      "speaker": null,
+      "start": 563.92,
+      "end": 568.36,
+      "text": "crecer tanto o que pueda venir algo que"
+    },
+    {
+      "index": 277,
+      "speaker": null,
+      "start": 566.12,
+      "end": 570.399,
+      "text": "que el mercado desconoce. por eso no"
+    },
+    {
+      "index": 278,
+      "speaker": null,
+      "start": 568.36,
+      "end": 572.0790000000001,
+      "text": "está dispuesto a darte una valoración o"
+    },
+    {
+      "index": 279,
+      "speaker": null,
+      "start": 570.399,
+      "end": 574.0,
+      "text": "mejor dicho unos múltiplos mayores a"
+    },
+    {
+      "index": 280,
+      "speaker": null,
+      "start": 572.079,
+      "end": 576.92,
+      "text": "futuro. Entonces esto es bueno porque si"
+    },
+    {
+      "index": 281,
+      "speaker": null,
+      "start": 574.0,
+      "end": 578.079,
+      "text": "mañana por lo que sea hay un golpe a la"
+    },
+    {
+      "index": 282,
+      "speaker": null,
+      "start": 576.92,
+      "end": 579.7199999999999,
+      "text": "hay parte del golpe que ya está"
+    },
+    {
+      "index": 283,
+      "speaker": null,
+      "start": 578.079,
+      "end": 581.88,
+      "text": "descontado, hay parte del golpe que se"
+    },
+    {
+      "index": 284,
+      "speaker": null,
+      "start": 579.72,
+      "end": 584.64,
+      "text": "está si envidia está barata hoy es"
+    },
+    {
+      "index": 285,
+      "speaker": null,
+      "start": 581.88,
+      "end": 586.2,
+      "text": "porque no se creen el mañana de la"
+    },
+    {
+      "index": 286,
+      "speaker": null,
+      "start": 584.64,
+      "end": 588.1999999999999,
+      "text": "entonces el no se creen es que el"
+    },
+    {
+      "index": 287,
+      "speaker": null,
+      "start": 586.2,
+      "end": 590.0790000000001,
+      "text": "mercado no quiere entrar en un periodo"
+    },
+    {
+      "index": 288,
+      "speaker": null,
+      "start": 588.2,
+      "end": 591.8000000000001,
+      "text": "de burbuja como si lo hizo en otros"
+    },
+    {
+      "index": 289,
+      "speaker": null,
+      "start": 590.079,
+      "end": 593.4399999999999,
+      "text": "muchos periodos. Vale esto mismo si lo"
+    },
+    {
+      "index": 290,
+      "speaker": null,
+      "start": 591.8,
+      "end": 595.04,
+      "text": "hubierais visto en la comom no sería"
+    },
+    {
+      "index": 291,
+      "speaker": null,
+      "start": 593.44,
+      "end": 596.399,
+      "text": "así, sería mucho más bestia. Entonces,"
+    },
+    {
+      "index": 292,
+      "speaker": null,
+      "start": 595.04,
+      "end": 598.8389999999999,
+      "text": "esto es bastante extraño y es lo que"
+    },
+    {
+      "index": 293,
+      "speaker": null,
+      "start": 596.399,
+      "end": 601.36,
+      "text": "hace que Nvidia parezca una oportunidad"
+    },
+    {
+      "index": 294,
+      "speaker": null,
+      "start": 598.839,
+      "end": 603.24,
+      "text": "de libro increíblemente buena, eh,"
+    },
+    {
+      "index": 295,
+      "speaker": null,
+      "start": 601.36,
+      "end": 605.6800000000001,
+      "text": "porque los múltiplos que tiene con"
+    },
+    {
+      "index": 296,
+      "speaker": null,
+      "start": 603.24,
+      "end": 607.04,
+      "text": "respecto a la compañía que es, no tiene"
+    },
+    {
+      "index": 297,
+      "speaker": null,
+      "start": 605.68,
+      "end": 608.8389999999999,
+      "text": "mucho sentido la compañía que es y el"
+    },
+    {
+      "index": 298,
+      "speaker": null,
+      "start": 607.04,
+      "end": 610.4399999999999,
+      "text": "crecimiento que se espera. Esto mismo os"
+    },
+    {
+      "index": 299,
+      "speaker": null,
+      "start": 608.839,
+      "end": 612.36,
+      "text": "lo voy a enseñar en una compañía eh"
+    },
+    {
+      "index": 300,
+      "speaker": null,
+      "start": 610.44,
+      "end": 613.5600000000001,
+      "text": "donde se ve mucho más. Sandisk es una"
+    },
+    {
+      "index": 301,
+      "speaker": null,
+      "start": 612.36,
+      "end": 614.839,
+      "text": "compañía de memorias, ¿vale? Se ha"
+    },
+    {
+      "index": 302,
+      "speaker": null,
+      "start": 613.56,
+      "end": 616.4799999999999,
+      "text": "puesto de moda con la IA, etcétera,"
+    },
+    {
+      "index": 303,
+      "speaker": null,
+      "start": 614.839,
+      "end": 618.9200000000001,
+      "text": "etcétera. Vemos lo mismo, ¿no? Una"
+    },
+    {
+      "index": 304,
+      "speaker": null,
+      "start": 616.48,
+      "end": 621.6,
+      "text": "compañía que cotiza $87, modelos de"
+    },
+    {
+      "index": 305,
+      "speaker": null,
+      "start": 618.92,
+      "end": 624.0,
+      "text": "valuación en 112 y analistas en 248. Es"
+    },
+    {
+      "index": 306,
+      "speaker": null,
+      "start": 621.6,
+      "end": 626.72,
+      "text": "decir, incluso el analista más pesimista"
+    },
+    {
+      "index": 307,
+      "speaker": null,
+      "start": 624.0,
+      "end": 629.44,
+      "text": "dice 110, con lo cual como mínimo esta"
+    },
+    {
+      "index": 308,
+      "speaker": null,
+      "start": 626.72,
+      "end": 631.0,
+      "text": "empresa estaba eh infravalorada un 30%,"
+    },
+    {
+      "index": 309,
+      "speaker": null,
+      "start": 629.44,
+      "end": 633.0,
+      "text": "¿vale? Que vemos aquí esto como mínimo,"
+    },
+    {
+      "index": 310,
+      "speaker": null,
+      "start": 631.0,
+      "end": 634.8,
+      "text": "¿no? Esta empresa es muy bestia. Yo no"
+    },
+    {
+      "index": 311,
+      "speaker": null,
+      "start": 633.0,
+      "end": 636.6,
+      "text": "había visto nunca esto antes, ¿vale?"
+    },
+    {
+      "index": 312,
+      "speaker": null,
+      "start": 634.8,
+      "end": 638.04,
+      "text": "Cotiza un per de cinco veces, es"
+    },
+    {
+      "index": 313,
+      "speaker": null,
+      "start": 636.6,
+      "end": 640.2,
+      "text": "ridículo, ya lo hemos dicho. Esto por"
+    },
+    {
+      "index": 314,
+      "speaker": null,
+      "start": 638.04,
+      "end": 643.279,
+      "text": "debajo de 18 veces podríamos decir que"
+    },
+    {
+      "index": 315,
+      "speaker": null,
+      "start": 640.2,
+      "end": 644.9590000000001,
+      "text": "ya es para mirarlo. Un per por debajo de"
+    },
+    {
+      "index": 316,
+      "speaker": null,
+      "start": 643.279,
+      "end": 647.04,
+      "text": "10 veces ya empieza a ser una una"
+    },
+    {
+      "index": 317,
+      "speaker": null,
+      "start": 644.959,
+      "end": 650.56,
+      "text": "posición muy value, ¿eh? y un pera cinco"
+    },
+    {
+      "index": 318,
+      "speaker": null,
+      "start": 647.04,
+      "end": 653.04,
+      "text": "veces es ridículo, es algo totalmente"
+    },
+    {
+      "index": 319,
+      "speaker": null,
+      "start": 650.56,
+      "end": 654.8389999999999,
+      "text": "incomprensible. Un EVDA de cuatro veces,"
+    },
+    {
+      "index": 320,
+      "speaker": null,
+      "start": 653.04,
+      "end": 656.399,
+      "text": "esto significa que con los beneficios de"
+    },
+    {
+      "index": 321,
+      "speaker": null,
+      "start": 654.839,
+      "end": 657.839,
+      "text": "4 años de la empresa pagas la empresa"
+    },
+    {
+      "index": 322,
+      "speaker": null,
+      "start": 656.399,
+      "end": 659.959,
+      "text": "entera para que nos hagamos una idea más"
+    },
+    {
+      "index": 323,
+      "speaker": null,
+      "start": 657.839,
+      "end": 662.9590000000001,
+      "text": "o menos, ¿no? Eh, esto es ridículo,"
+    },
+    {
+      "index": 324,
+      "speaker": null,
+      "start": 659.959,
+      "end": 665.8,
+      "text": "¿vale? Es ridículo. Eh, y cuando nos"
+    },
+    {
+      "index": 325,
+      "speaker": null,
+      "start": 662.959,
+      "end": 667.959,
+      "text": "vamos al Per y al EV Bidda futuros es"
+    },
+    {
+      "index": 326,
+      "speaker": null,
+      "start": 665.8,
+      "end": 669.519,
+      "text": "que el EV Bidda de dentro de un año es"
+    },
+    {
+      "index": 327,
+      "speaker": null,
+      "start": 667.959,
+      "end": 671.56,
+      "text": "dos veces. Esto quiere decir que los con"
+    },
+    {
+      "index": 328,
+      "speaker": null,
+      "start": 669.519,
+      "end": 673.8,
+      "text": "los beneficios esperados del año que"
+    },
+    {
+      "index": 329,
+      "speaker": null,
+      "start": 671.56,
+      "end": 675.7199999999999,
+      "text": "viene, 2 años seguidos, pagas la empresa"
+    },
+    {
+      "index": 330,
+      "speaker": null,
+      "start": 673.8,
+      "end": 676.68,
+      "text": "entera. Esto es como, no es del todo"
+    },
+    {
+      "index": 331,
+      "speaker": null,
+      "start": 675.72,
+      "end": 678.0790000000001,
+      "text": "cierto lo que voy a decir, pero para que"
+    },
+    {
+      "index": 332,
+      "speaker": null,
+      "start": 676.68,
+      "end": 679.88,
+      "text": "os hagáis una idea, esto es como si tú"
+    },
+    {
+      "index": 333,
+      "speaker": null,
+      "start": 678.079,
+      "end": 682.3199999999999,
+      "text": "tienes una peluquería que te ha costado"
+    },
+    {
+      "index": 334,
+      "speaker": null,
+      "start": 679.88,
+      "end": 684.399,
+      "text": "100,000 € eh, y todos los años te queda"
+    },
+    {
+      "index": 335,
+      "speaker": null,
+      "start": 682.32,
+      "end": 685.399,
+      "text": "te deja 50,000 € de beneficio más o"
+    },
+    {
+      "index": 336,
+      "speaker": null,
+      "start": 684.399,
+      "end": 686.56,
+      "text": "menos. Pues, ¿cuánto valdría ese"
+    },
+    {
+      "index": 337,
+      "speaker": null,
+      "start": 685.399,
+      "end": 688.399,
+      "text": "negocio? Pues tú dirías, \"Menudo hecho,"
+    },
+    {
+      "index": 338,
+      "speaker": null,
+      "start": 686.56,
+      "end": 690.079,
+      "text": "yo hice, compré una cosa por 100 y me"
+    },
+    {
+      "index": 339,
+      "speaker": null,
+      "start": 688.399,
+      "end": 691.88,
+      "text": "está bajando 50 todos los años.\" Pues"
+    },
+    {
+      "index": 340,
+      "speaker": null,
+      "start": 690.079,
+      "end": 693.04,
+      "text": "esto sería más o menos lo mismo, ¿vale?"
+    },
+    {
+      "index": 341,
+      "speaker": null,
+      "start": 691.88,
+      "end": 695.16,
+      "text": "Eh, esto es ridículo porque"
+    },
+    {
+      "index": 342,
+      "speaker": null,
+      "start": 693.04,
+      "end": 697.4399999999999,
+      "text": "supuestamente eh un negocio es algo"
+    },
+    {
+      "index": 343,
+      "speaker": null,
+      "start": 695.16,
+      "end": 699.1999999999999,
+      "text": "mucho más que su caja o o o que el"
+    },
+    {
+      "index": 344,
+      "speaker": null,
+      "start": 697.44,
+      "end": 701.399,
+      "text": "dinero que gana en un año, ¿no? El PER"
+    },
+    {
+      "index": 345,
+      "speaker": null,
+      "start": 699.2,
+      "end": 703.32,
+      "text": "lo mismo, el PER baja 2,7. Son dos cosas"
+    },
+    {
+      "index": 346,
+      "speaker": null,
+      "start": 701.399,
+      "end": 705.279,
+      "text": "que son ridículas. Y alguien dirá,"
+    },
+    {
+      "index": 347,
+      "speaker": null,
+      "start": 703.32,
+      "end": 707.279,
+      "text": "\"Andrés, entonces, ¿cómo es posible que"
+    },
+    {
+      "index": 348,
+      "speaker": null,
+      "start": 705.279,
+      "end": 709.16,
+      "text": "una compañía cotice a estos múltiples"
+    },
+    {
+      "index": 349,
+      "speaker": null,
+      "start": 707.279,
+      "end": 711.519,
+      "text": "futuros tan baratos?\" Pues muy sencillo,"
+    },
+    {
+      "index": 350,
+      "speaker": null,
+      "start": 709.16,
+      "end": 715.24,
+      "text": "el mercado no se cree que Sandisk pueda"
+    },
+    {
+      "index": 351,
+      "speaker": null,
+      "start": 711.519,
+      "end": 716.639,
+      "text": "mantener los crecimientos o los eh o las"
+    },
+    {
+      "index": 352,
+      "speaker": null,
+      "start": 715.24,
+      "end": 717.9590000000001,
+      "text": "ventas y los beneficios que se le"
+    },
+    {
+      "index": 353,
+      "speaker": null,
+      "start": 716.639,
+      "end": 719.399,
+      "text": "esperan un año. No se los cree, porque"
+    },
+    {
+      "index": 354,
+      "speaker": null,
+      "start": 717.959,
+      "end": 721.3599999999999,
+      "text": "si se los creyera, estos ratios no"
+    },
+    {
+      "index": 355,
+      "speaker": null,
+      "start": 719.399,
+      "end": 723.32,
+      "text": "existirían jamás. Si tú te miras los"
+    },
+    {
+      "index": 356,
+      "speaker": null,
+      "start": 721.36,
+      "end": 725.5600000000001,
+      "text": "beneficios por acción, pasa de palmar"
+    },
+    {
+      "index": 357,
+      "speaker": null,
+      "start": 723.32,
+      "end": 728.2,
+      "text": "pasta en el 25 a ganar un poco de pasta"
+    },
+    {
+      "index": 358,
+      "speaker": null,
+      "start": 725.56,
+      "end": 730.279,
+      "text": "en julio del 26 a más que doblar o a"
+    },
+    {
+      "index": 359,
+      "speaker": null,
+      "start": 728.2,
+      "end": 731.88,
+      "text": "doblar prácticamente su beneficio. Es"
+    },
+    {
+      "index": 360,
+      "speaker": null,
+      "start": 730.279,
+      "end": 734.48,
+      "text": "decir, pasa de Palmar hasta en junio del"
+    },
+    {
+      "index": 361,
+      "speaker": null,
+      "start": 731.88,
+      "end": 736.6,
+      "text": "25 a tener estos retornos en octubre del"
+    },
+    {
+      "index": 362,
+      "speaker": null,
+      "start": 734.48,
+      "end": 738.5600000000001,
+      "text": "26. Esto supuestamente va a seguir"
+    },
+    {
+      "index": 363,
+      "speaker": null,
+      "start": 736.6,
+      "end": 740.72,
+      "text": "creciendo el año que viene y el mercado"
+    },
+    {
+      "index": 364,
+      "speaker": null,
+      "start": 738.56,
+      "end": 742.279,
+      "text": "no es nada optimista con la IA a estos"
+    },
+    {
+      "index": 365,
+      "speaker": null,
+      "start": 740.72,
+      "end": 744.32,
+      "text": "niveles. Es decir, no cree ni que"
+    },
+    {
+      "index": 366,
+      "speaker": null,
+      "start": 742.279,
+      "end": 746.639,
+      "text": "Nvidia, ni que Sandis, ni que ninguna de"
+    },
+    {
+      "index": 367,
+      "speaker": null,
+      "start": 744.32,
+      "end": 749.72,
+      "text": "estas empresas pueda mantener el ritmo"
+    },
+    {
+      "index": 368,
+      "speaker": null,
+      "start": 746.639,
+      "end": 751.88,
+      "text": "de crecimiento de pedidos que el mercado"
+    },
+    {
+      "index": 369,
+      "speaker": null,
+      "start": 749.72,
+      "end": 754.1600000000001,
+      "text": "sí estima. Y es por ello que el mercado"
+    },
+    {
+      "index": 370,
+      "speaker": null,
+      "start": 751.88,
+      "end": 756.399,
+      "text": "ya se está preparando para un para un"
+    },
+    {
+      "index": 371,
+      "speaker": null,
+      "start": 754.16,
+      "end": 758.8389999999999,
+      "text": "para un posible pinchazo, no pinchazo,"
+    },
+    {
+      "index": 372,
+      "speaker": null,
+      "start": 756.399,
+      "end": 761.199,
+      "text": "pero para un posible retroceso en el"
+    },
+    {
+      "index": 373,
+      "speaker": null,
+      "start": 758.839,
+      "end": 764.2790000000001,
+      "text": "avance de la IA o que simplemente pues"
+    },
+    {
+      "index": 374,
+      "speaker": null,
+      "start": 761.199,
+      "end": 766.0,
+      "text": "los e pedidos que se esperan en el"
+    },
+    {
+      "index": 375,
+      "speaker": null,
+      "start": 764.279,
+      "end": 767.72,
+      "text": "futuro, que el mercado espera en el"
+    },
+    {
+      "index": 376,
+      "speaker": null,
+      "start": 766.0,
+      "end": 769.36,
+      "text": "futuro, son mucho menores que los"
+    },
+    {
+      "index": 377,
+      "speaker": null,
+      "start": 767.72,
+      "end": 771.0790000000001,
+      "text": "pedidos que esperan las empresas en el"
+    },
+    {
+      "index": 378,
+      "speaker": null,
+      "start": 769.36,
+      "end": 772.9590000000001,
+      "text": "futuro. Esa sería la frase, ¿vale? Que"
+    },
+    {
+      "index": 379,
+      "speaker": null,
+      "start": 771.079,
+      "end": 775.0,
+      "text": "las expectativas que tiene el mercado"
+    },
+    {
+      "index": 380,
+      "speaker": null,
+      "start": 772.959,
+      "end": 776.399,
+      "text": "sobre la IA son mucho menores que las"
+    },
+    {
+      "index": 381,
+      "speaker": null,
+      "start": 775.0,
+      "end": 778.68,
+      "text": "expectativas que tienen las propias"
+    },
+    {
+      "index": 382,
+      "speaker": null,
+      "start": 776.399,
+      "end": 780.639,
+      "text": "empresas sobre sus propios negocios. Y"
+    },
+    {
+      "index": 383,
+      "speaker": null,
+      "start": 778.68,
+      "end": 782.5999999999999,
+      "text": "eso hace que la posibilidad de que esto"
+    },
+    {
+      "index": 384,
+      "speaker": null,
+      "start": 780.639,
+      "end": 784.16,
+      "text": "sea una burbuja gigante, pues se"
+    },
+    {
+      "index": 385,
+      "speaker": null,
+      "start": 782.6,
+      "end": 785.8000000000001,
+      "text": "minimice, porque si esto fuera una"
+    },
+    {
+      "index": 386,
+      "speaker": null,
+      "start": 784.16,
+      "end": 788.519,
+      "text": "burbuja, todas estas empresas está"
+    },
+    {
+      "index": 387,
+      "speaker": null,
+      "start": 785.8,
+      "end": 791.76,
+      "text": "incluida, no podría cotizar a dos veces"
+    },
+    {
+      "index": 388,
+      "speaker": null,
+      "start": 788.519,
+      "end": 793.5600000000001,
+      "text": "eh EV EBDA futuro. No tiene sentido."
+    },
+    {
+      "index": 389,
+      "speaker": null,
+      "start": 791.76,
+      "end": 795.12,
+      "text": "Esto no es una métrica de valoración"
+    },
+    {
+      "index": 390,
+      "speaker": null,
+      "start": 793.56,
+      "end": 797.04,
+      "text": "normal. Un negocio saludable, como hemos"
+    },
+    {
+      "index": 391,
+      "speaker": null,
+      "start": 795.12,
+      "end": 800.839,
+      "text": "dicho anteriormente, tiene que cotizar"
+    },
+    {
+      "index": 392,
+      "speaker": null,
+      "start": 797.04,
+      "end": 802.5999999999999,
+      "text": "pues a 5, 6, 8, 10 veces. Es algo"
+    },
+    {
+      "index": 393,
+      "speaker": null,
+      "start": 800.839,
+      "end": 804.8800000000001,
+      "text": "totalmente normal. Ya no te digo en una"
+    },
+    {
+      "index": 394,
+      "speaker": null,
+      "start": 802.6,
+      "end": 807.88,
+      "text": "empresa que encima crece. Si esto ocurre"
+    },
+    {
+      "index": 395,
+      "speaker": null,
+      "start": 804.88,
+      "end": 810.12,
+      "text": "es porque e el mercado no se lo cree. Y"
+    },
+    {
+      "index": 396,
+      "speaker": null,
+      "start": 807.88,
+      "end": 811.6,
+      "text": "además hablamos, pues aquí lo vemos,"
+    },
+    {
+      "index": 397,
+      "speaker": null,
+      "start": 810.12,
+      "end": 812.9590000000001,
+      "text": "Sandis que tampoco tiene deuda, es una"
+    },
+    {
+      "index": 398,
+      "speaker": null,
+      "start": 811.6,
+      "end": 814.839,
+      "text": "empresa que no tiene deuda, que no tiene"
+    },
+    {
+      "index": 399,
+      "speaker": null,
+      "start": 812.959,
+      "end": 816.88,
+      "text": "ese problema que digas, \"No, es que te"
+    },
+    {
+      "index": 400,
+      "speaker": null,
+      "start": 814.839,
+      "end": 818.6,
+      "text": "penaliza mucho la deuda, por eso cotizas"
+    },
+    {
+      "index": 401,
+      "speaker": null,
+      "start": 816.88,
+      "end": 820.399,
+      "text": "tan barato.\" Vale, sí, hay negocios en"
+    },
+    {
+      "index": 402,
+      "speaker": null,
+      "start": 818.6,
+      "end": 821.5600000000001,
+      "text": "dificultades donde estos múltiplos"
+    },
+    {
+      "index": 403,
+      "speaker": null,
+      "start": 820.399,
+      "end": 823.04,
+      "text": "pueden ser muy baratos porque las"
+    },
+    {
+      "index": 404,
+      "speaker": null,
+      "start": 821.56,
+      "end": 825.079,
+      "text": "empresas están en una situación"
+    },
+    {
+      "index": 405,
+      "speaker": null,
+      "start": 823.04,
+      "end": 826.56,
+      "text": "financiera chunga, jodida, ¿no? En este"
+    },
+    {
+      "index": 406,
+      "speaker": null,
+      "start": 825.079,
+      "end": 827.92,
+      "text": "caso no es el caso. Entonces, ¿qué es lo"
+    },
+    {
+      "index": 407,
+      "speaker": null,
+      "start": 826.56,
+      "end": 830.2399999999999,
+      "text": "que sacamos en conclusión de todo esto?"
+    },
+    {
+      "index": 408,
+      "speaker": null,
+      "start": 827.92,
+      "end": 832.759,
+      "text": "que el mercado, lo que son las personas"
+    },
+    {
+      "index": 409,
+      "speaker": null,
+      "start": 830.24,
+      "end": 835.04,
+      "text": "no creen ni que Nvidia, ni que Sandis,"
+    },
+    {
+      "index": 410,
+      "speaker": null,
+      "start": 832.759,
+      "end": 837.16,
+      "text": "ni que ninguna de estas eh vaya a vender"
+    },
+    {
+      "index": 411,
+      "speaker": null,
+      "start": 835.04,
+      "end": 838.759,
+      "text": "y a crecer tanto como ellos mismos se"
+    },
+    {
+      "index": 412,
+      "speaker": null,
+      "start": 837.16,
+      "end": 841.04,
+      "text": "piensan que sí lo va a hacer y por eso"
+    },
+    {
+      "index": 413,
+      "speaker": null,
+      "start": 838.759,
+      "end": 843.0,
+      "text": "se protegen ya mismo con estos mercados,"
+    },
+    {
+      "index": 414,
+      "speaker": null,
+      "start": 841.04,
+      "end": 845.56,
+      "text": "con estas caídas. Sandis que ha caído en"
+    },
+    {
+      "index": 415,
+      "speaker": null,
+      "start": 843.0,
+      "end": 847.0,
+      "text": "3 meses un 53. Es cierto que si lo miras"
+    },
+    {
+      "index": 416,
+      "speaker": null,
+      "start": 845.56,
+      "end": 848.7199999999999,
+      "text": "desde abajo sigue estando muy arriba,"
+    },
+    {
+      "index": 417,
+      "speaker": null,
+      "start": 847.0,
+      "end": 851.04,
+      "text": "pero fijaros como el propio mercado"
+    },
+    {
+      "index": 418,
+      "speaker": null,
+      "start": 848.72,
+      "end": 853.0,
+      "text": "dice, \"Oye, cuidado con esto que es"
+    },
+    {
+      "index": 419,
+      "speaker": null,
+      "start": 851.04,
+      "end": 855.24,
+      "text": "probable que esto no sea sostenible.\""
+    },
+    {
+      "index": 420,
+      "speaker": null,
+      "start": 853.0,
+      "end": 856.759,
+      "text": "Entonces, son buenas empresas a día de"
+    },
+    {
+      "index": 421,
+      "speaker": null,
+      "start": 855.24,
+      "end": 858.9590000000001,
+      "text": "hoy con buenas perspectivas, que ganan"
+    },
+    {
+      "index": 422,
+      "speaker": null,
+      "start": 856.759,
+      "end": 861.1990000000001,
+      "text": "dinero, que tal, que no sé qué, y que a"
+    },
+    {
+      "index": 423,
+      "speaker": null,
+      "start": 858.959,
+      "end": 863.279,
+      "text": "todos los efectos están baratas. Sí, te"
+    },
+    {
+      "index": 424,
+      "speaker": null,
+      "start": 861.199,
+      "end": 865.4799999999999,
+      "text": "estás mandando una una señal de alerta"
+    },
+    {
+      "index": 425,
+      "speaker": null,
+      "start": 863.279,
+      "end": 867.279,
+      "text": "al mercado diciendo, cuidado que esto"
+    },
+    {
+      "index": 426,
+      "speaker": null,
+      "start": 865.48,
+      "end": 869.639,
+      "text": "que nos dicen es posible que no se"
+    },
+    {
+      "index": 427,
+      "speaker": null,
+      "start": 867.279,
+      "end": 871.759,
+      "text": "cumpla. también. Y esto es un poco lo"
+    },
+    {
+      "index": 428,
+      "speaker": null,
+      "start": 869.639,
+      "end": 874.399,
+      "text": "que a mí, entre comillas, me deja más"
+    },
+    {
+      "index": 429,
+      "speaker": null,
+      "start": 871.759,
+      "end": 877.44,
+      "text": "tranquilo, porque si esto fuera eh"
+    },
+    {
+      "index": 430,
+      "speaker": null,
+      "start": 874.399,
+      "end": 879.36,
+      "text": "múltiplos supercos con crecimientos muy"
+    },
+    {
+      "index": 431,
+      "speaker": null,
+      "start": 877.44,
+      "end": 881.1600000000001,
+      "text": "difíciles de sostener en el tiempo, pues"
+    },
+    {
+      "index": 432,
+      "speaker": null,
+      "start": 879.36,
+      "end": 883.32,
+      "text": "ahí habría un problema, porque no es lo"
+    },
+    {
+      "index": 433,
+      "speaker": null,
+      "start": 881.16,
+      "end": 885.36,
+      "text": "mismo crecer de dos a cuatro que de"
+    },
+    {
+      "index": 434,
+      "speaker": null,
+      "start": 883.32,
+      "end": 886.759,
+      "text": "cuatro a ocho. En los dos doblas, pero"
+    },
+    {
+      "index": 435,
+      "speaker": null,
+      "start": 885.36,
+      "end": 888.1990000000001,
+      "text": "el dinero que necesitas para doblar en"
+    },
+    {
+      "index": 436,
+      "speaker": null,
+      "start": 886.759,
+      "end": 889.72,
+      "text": "uno es muchísimo mayor que el dinero que"
+    },
+    {
+      "index": 437,
+      "speaker": null,
+      "start": 888.199,
+      "end": 891.88,
+      "text": "necesitas para doblar en otro, ¿no? Y"
+    },
+    {
+      "index": 438,
+      "speaker": null,
+      "start": 889.72,
+      "end": 894.12,
+      "text": "esto es lo que el mercado se protege a"
+    },
+    {
+      "index": 439,
+      "speaker": null,
+      "start": 891.88,
+      "end": 896.079,
+      "text": "día de hoy. Por eso la suma de este tipo"
+    },
+    {
+      "index": 440,
+      "speaker": null,
+      "start": 894.12,
+      "end": 898.519,
+      "text": "de análisis me hace pensar que el"
+    },
+    {
+      "index": 441,
+      "speaker": null,
+      "start": 896.079,
+      "end": 900.5999999999999,
+      "text": "mercado en este caso no quiere caer en"
+    },
+    {
+      "index": 442,
+      "speaker": null,
+      "start": 898.519,
+      "end": 903.6,
+      "text": "la misma trampa que en otras burbujas y"
+    },
+    {
+      "index": 443,
+      "speaker": null,
+      "start": 900.6,
+      "end": 905.48,
+      "text": "ya de por sí descuenta eh favorablemente"
+    },
+    {
+      "index": 444,
+      "speaker": null,
+      "start": 903.6,
+      "end": 907.5600000000001,
+      "text": "para el inversor y por eso las empresas"
+    },
+    {
+      "index": 445,
+      "speaker": null,
+      "start": 905.48,
+      "end": 909.32,
+      "text": "están más baratas, que todo esto no es"
+    },
+    {
+      "index": 446,
+      "speaker": null,
+      "start": 907.56,
+      "end": 911.92,
+      "text": "sostenible, sobre todo ese crecimiento"
+    },
+    {
+      "index": 447,
+      "speaker": null,
+      "start": 909.32,
+      "end": 914.12,
+      "text": "tan bestia, esas valoraciones eh que"
+    },
+    {
+      "index": 448,
+      "speaker": null,
+      "start": 911.92,
+      "end": 915.759,
+      "text": "deberían ser mucho más agresivas eh no"
+    },
+    {
+      "index": 449,
+      "speaker": null,
+      "start": 914.12,
+      "end": 917.04,
+      "text": "lo son. Y eso, pues, para los que"
+    },
+    {
+      "index": 450,
+      "speaker": null,
+      "start": 915.759,
+      "end": 918.88,
+      "text": "seguimos el mercado, pues nos hace estar"
+    },
+    {
+      "index": 451,
+      "speaker": null,
+      "start": 917.04,
+      "end": 920.8,
+      "text": "un poco más tranquilos, porque yo soy de"
+    },
+    {
+      "index": 452,
+      "speaker": null,
+      "start": 918.88,
+      "end": 923.04,
+      "text": "los que cree que esto es insostenible,"
+    },
+    {
+      "index": 453,
+      "speaker": null,
+      "start": 920.8,
+      "end": 924.88,
+      "text": "el el sentido de el nivel de inversión"
+    },
+    {
+      "index": 454,
+      "speaker": null,
+      "start": 923.04,
+      "end": 926.16,
+      "text": "que se está dedicando, el nivel de, en"
+    },
+    {
+      "index": 455,
+      "speaker": null,
+      "start": 924.88,
+      "end": 927.56,
+      "text": "este caso, de ventas de ciertas"
+    },
+    {
+      "index": 456,
+      "speaker": null,
+      "start": 926.16,
+      "end": 928.88,
+      "text": "empresas, el nivel de crecimiento que"
+    },
+    {
+      "index": 457,
+      "speaker": null,
+      "start": 927.56,
+      "end": 930.7199999999999,
+      "text": "estamos experimentando, creo que es"
+    },
+    {
+      "index": 458,
+      "speaker": null,
+      "start": 928.88,
+      "end": 932.319,
+      "text": "insostenible a largo plazo y está bien"
+    },
+    {
+      "index": 459,
+      "speaker": null,
+      "start": 930.72,
+      "end": 934.9200000000001,
+      "text": "que el mercado lo frene un poco"
+    },
+    {
+      "index": 460,
+      "speaker": null,
+      "start": 932.319,
+      "end": 936.399,
+      "text": "diciéndote que ciertas empresas no"
+    },
+    {
+      "index": 461,
+      "speaker": null,
+      "start": 934.92,
+      "end": 938.36,
+      "text": "pueden estar tan caras o no pueden tener"
+    },
+    {
+      "index": 462,
+      "speaker": null,
+      "start": 936.399,
+      "end": 939.88,
+      "text": "cierto tipo de valores. Espero, chicos,"
+    },
+    {
+      "index": 463,
+      "speaker": null,
+      "start": 938.36,
+      "end": 941.48,
+      "text": "que el vídeo más o menos haya quedado"
+    },
+    {
+      "index": 464,
+      "speaker": null,
+      "start": 939.88,
+      "end": 943.36,
+      "text": "claro. Sé que son muchos conceptos,"
+    },
+    {
+      "index": 465,
+      "speaker": null,
+      "start": 941.48,
+      "end": 945.3190000000001,
+      "text": "también es está bien de vez en cuando"
+    },
+    {
+      "index": 466,
+      "speaker": null,
+      "start": 943.36,
+      "end": 946.9590000000001,
+      "text": "subir un poco el nivel de de los vídeos."
+    },
+    {
+      "index": 467,
+      "speaker": null,
+      "start": 945.319,
+      "end": 949.759,
+      "text": "Si os gusta este tipo de cosas, os"
+    },
+    {
+      "index": 468,
+      "speaker": null,
+      "start": 946.959,
+      "end": 951.5189999999999,
+      "text": "aconsejo sobre todo para nivel de de y"
+    },
+    {
+      "index": 469,
+      "speaker": null,
+      "start": 949.759,
+      "end": 954.36,
+      "text": "esto es publicidad, para nivel de"
+    },
+    {
+      "index": 470,
+      "speaker": null,
+      "start": 951.519,
+      "end": 955.399,
+      "text": "empresas de de todos aquellos que"
+    },
+    {
+      "index": 471,
+      "speaker": null,
+      "start": 954.36,
+      "end": 956.6,
+      "text": "queráis tener acciones en cartera,"
+    },
+    {
+      "index": 472,
+      "speaker": null,
+      "start": 955.399,
+      "end": 957.959,
+      "text": "etcétera, etcétera. Creo que no tenéis"
+    },
+    {
+      "index": 473,
+      "speaker": null,
+      "start": 956.6,
+      "end": 959.399,
+      "text": "ninguna herramienta mejor que Investin"
+    },
+    {
+      "index": 474,
+      "speaker": null,
+      "start": 957.959,
+      "end": 960.8389999999999,
+      "text": "Pro con el código pizarra es"
+    },
+    {
+      "index": 475,
+      "speaker": null,
+      "start": 959.399,
+      "end": 963.079,
+      "text": "tremendamente barato y sobre todo estos"
+    },
+    {
+      "index": 476,
+      "speaker": null,
+      "start": 960.839,
+      "end": 965.0400000000001,
+      "text": "días de Black Friday. Y ya habéis visto"
+    },
+    {
+      "index": 477,
+      "speaker": null,
+      "start": 963.079,
+      "end": 967.399,
+      "text": "la información que os da, si poco a poco"
+    },
+    {
+      "index": 478,
+      "speaker": null,
+      "start": 965.04,
+      "end": 968.7199999999999,
+      "text": "vais sabiendo eh buscarla, ¿no? Eh, si"
+    },
+    {
+      "index": 479,
+      "speaker": null,
+      "start": 967.399,
+      "end": 969.8,
+      "text": "os ha gustado, chicos, un like, un"
+    },
+    {
+      "index": 480,
+      "speaker": null,
+      "start": 968.72,
+      "end": 971.3190000000001,
+      "text": "comentario, todo esto se agradece un"
+    },
+    {
+      "index": 481,
+      "speaker": null,
+      "start": 969.8,
+      "end": 972.92,
+      "text": "montón y nosotros nos vemos en el"
+    },
+    {
+      "index": 482,
+      "speaker": null,
+      "start": 971.319,
+      "end": 975.24,
+      "text": "siguiente vídeo. Se despide la pizarra"
+    },
+    {
+      "index": 483,
+      "speaker": null,
+      "start": 972.92,
+      "end": 975.24,
+      "text": "Andrés."
+    }
+  ]
+}
