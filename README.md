@@ -45,7 +45,7 @@ Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` dentro de la subcarpe
 | Archivo | Contenido | ¿Se edita? |
 | --- | --- | --- |
 | `transcript.json` | Transcripción estructurada (fuente de verdad) | **Nunca** |
-| `invest-<canal>-<slug>.txt` | Transcripción literal con marcas de tiempo | Solo si lo pide el usuario |
+| `invest-<canal>-<slug>.txt` | Transcripción literal con marcas de tiempo | **Nunca** |
 | `summary.md` | Resumen con frontmatter YAML | Sí, es el entregable |
 
 ## Convenciones

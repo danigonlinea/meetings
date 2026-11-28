@@ -10,7 +10,7 @@ Comprueba:
   2. Cada `transcript.json` tiene su `summary.md`, y al revés (aviso).
   3. Todo `.md` con frontmatter tiene las seis claves obligatorias.
   4. `INDEX.md` está al día (se regenera en memoria y se compara).
-  5. El catálogo de webinars cuadra con las carpetas ingeridas.
+  5. Los catálogos de webinars y charlas cuadran con las carpetas ingeridas.
   6. Con `--git`: sin cambios sin commitear y sin commits sin subir.
 
 Sale con código 1 si hay algún error. Los avisos no rompen la comprobación.
@@ -131,25 +131,28 @@ def check_aie_catalog() -> None:
 
 
 def git(*args: str) -> str:
-    return subprocess.run(
-        ["git", *args], cwd=ROOT, capture_output=True, text=True, check=False
-    ).stdout.strip()
+    result = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True)
+    if result.returncode:
+        detail = result.stderr.strip() or f"código {result.returncode}"
+        raise RuntimeError(f"git {' '.join(args)}: {detail}")
+    return result.stdout.strip()
 
 
 def check_git() -> None:
-    if not (ROOT / ".git").is_dir():
-        warnings.append("no es un repositorio git")
+    if not (ROOT / ".git").exists():
+        errors.append("no se pudo verificar la publicación: falta el repositorio git")
         return
-    dirty = git("status", "--porcelain")
-    if dirty:
-        errors.append(f"árbol de trabajo sucio:\n{dirty}")
-    branch = git("rev-parse", "--abbrev-ref", "HEAD")
-    ahead = git("rev-list", "--count", f"origin/{branch}..{branch}") if branch != "HEAD" else ""
-    if ahead and ahead != "0":
+    try:
+        dirty = git("status", "--porcelain")
+        if dirty:
+            errors.append(f"árbol de trabajo sucio:\n{dirty}")
+        branch = git("symbolic-ref", "--short", "HEAD")
+        ahead = git("rev-list", "--count", f"refs/remotes/origin/{branch}..HEAD")
+    except (OSError, RuntimeError) as error:
+        errors.append(f"no se pudo verificar la publicación: {error}")
+        return
+    if ahead != "0":
         errors.append(f"{ahead} commits sin subir en {branch}")
-    if not git("rev-parse", "--verify", f"origin/{branch}"):
-        warnings.append(f"la rama {branch} no existe en origin")
-        return
 
 
 def main(argv: list[str]) -> int:

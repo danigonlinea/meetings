@@ -7,10 +7,9 @@ description: Usar cuando toque la revisión trimestral de una cartera o cuando e
 
 ## Metadatos
 
-- Carpeta: `finance/portfolio/`. Cada cartera viva tiene su propio fichero: `cartera-myinvestor/`,
-  `cartera-renta4/` y `cartera-myinvestor-propuesta/` (la propuesta final de la de MyInvestor, Opción A del
-  ranking del 26/11/2026). Los diseños
-  descartados o a estudio no se revisan aquí: viven en `finance/laboratorio-carteras/`.
+- Carpeta: `finance/portfolio/`. Las dos cuentas tienen su foto en
+  `cartera-myinvestor/cartera-actual.md` y `cartera-renta4/cartera-actual.md`.
+  Usa las propuestas del Paso 1 como criterio de revisión local.
 - Salida: `finance/portfolio/revision-YYYY-QN.md` con `type: portfolio-review`.
 - Esta skill **no decide** el % de RV ni ejecuta órdenes. Ordena los hechos y escribe la revisión.
 
@@ -28,11 +27,12 @@ No inventes un instrumento para justificar un cambio. Si el dueño quiere cambia
 Antes de mirar ningún dato, escribe en la revisión **qué criterio sigue cada cartera**, sacado de su propio
 documento y no de una plantilla:
 
-| Cartera | Criterio que sigue | Qué la haría cambiar |
-| --- | --- | --- |
-| `cartera-myinvestor/` | 55/45 en diez fondos solo, coste real mínimo, colchón fuera | Que cambie el horizonte, la necesidad de liquidez o la tolerancia declarada |
-| `cartera-renta4/` | Auditoría de una cuenta heredada: recortar el peso en bonos corporativos | Que se ejecute el recorte o cambie la clase de destino |
-| `cartera-ai-definitivas-estudiar/cartera-ai-andres/<talla>.md` | Criterio de Andrés: núcleo indexado pequeño, gestión activa, RF y liquidez | Que cambie el mandato, el horizonte o el coste de un vehículo |
+| Cuenta | Criterio de revisión |
+| --- | --- |
+| MyInvestor | `cartera-myinvestor-propuesta/propuesta-actual.md`, §6.3 «Reglas de rebalanceo y revisión» |
+| Renta 4 | `cartera-renta4-propuesta-deepseek/propuesta-actual.md`, §8 «Reglas de gobierno» |
+
+Indica si la propuesta sigue pendiente de ejecución cuando compares sus criterios con la foto.
 
 Si una cartera no tiene criterio escrito, eso es el hallazgo de la revisión: se escribe antes de proponer
 nada.

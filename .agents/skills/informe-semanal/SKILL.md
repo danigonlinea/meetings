@@ -7,7 +7,7 @@ description: Usar cuando corra la revisión semanal de canales (cron del agente 
 
 ## Metadatos
 
-- Se ejecuta **sin preguntar nada**. Si algo no cuadra, para y repórtalo.
+- Se ejecuta **sin preguntar nada**. Gestiona los fallos de consulta según el Paso 2.
 - Canal principal: `La Pizarra de Andrés`, ID `UCEXbEm8RUvRkKUEo2RjKd9w`.
   `@LaPizarradeAndrésLive` es otro canal: no se ingiere.
 - Webinars: `finance/videos/myinvestor-webinars/`, catálogo generado por
@@ -24,8 +24,9 @@ description: Usar cuando corra la revisión semanal de canales (cron del agente 
   quiere cerrarlo, es un encargo aparte.
 - **Máximo 3 piezas por ejecución.** En serie: YouTube responde 429 en paralelo.
 - Nada de `--force`. Un `transcript.json` existente no se toca.
-- **No se edita `finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md` ni se dan órdenes.** El informe propone
-  candidatos; la cartera la decide el dueño.
+- **Referencia de cartera en solo lectura:** usa únicamente
+  `finance/portfolio/cartera-myinvestor/cartera-actual.md`. El informe identifica candidatos;
+  los cambios y las órdenes los decide el dueño.
 - Una pieza sin subtítulos se salta y se anota; no se resume de memoria.
 - Si una semana no hay nada publicado, **no se escribe informe ni se commitea**: se responde el
   resumen de 5 líneas con "sin novedades" y se termina. El repo no se llena de ficheros vacíos.
@@ -44,9 +45,10 @@ Si falla, para: hay trabajo local sin subir y el rebase lo pisaría.
 python3 tools/nuevos.py            # --help: --dias N (ventana si no hay ingesta previa), --json, --backlog
 ```
 
-Devuelve solo lo publicado **después de la última ingesta**, con fecha, id y enlace. Cortes:
-`la-pizarra-de-andres` y `myinvestor-webinars` por separado, así que un fallo de una fuente no
-arrastra a la otra. Compara por ID, nunca por título.
+Devuelve las piezas de cada fuente publicadas **desde la fecha de su última ingesta**, con fecha,
+ID y enlace. Compara por ID. Si una fuente falla, usa los resultados de la otra y anota el fallo
+en el informe y en el resumen de cinco líneas. Si ninguna devuelve piezas y hay un fallo,
+reporta la consulta incompleta en el resumen de cinco líneas.
 
 Si devuelve "Sin novedades", no escribas informe ni toques el repositorio: da el resumen de 5
 líneas con "sin novedades" y termina.
@@ -54,16 +56,16 @@ líneas con "sin novedades" y termina.
 ## Paso 3: Descarga, en serie
 
 ```bash
+CARPETA_TEMPORAL_INGESTA=$(mktemp -d)
 uv run --project ytpipe ytpipe fetch "https://www.youtube.com/watch?v=<id>" \
-  --out finance/videos/la-pizarra-de-andres --slug "<tema>" --no-open
+  --out "$CARPETA_TEMPORAL_INGESTA" --slug "<tema>" --lang es --no-open
 ```
 
 - El `--slug` sale del título **real** que imprime `ytpipe` (en español), no del título del listado.
-- **Comprueba `source.language_code` antes de resumir.** En vídeos en español `ytpipe` a veces coge la
-  pista autotraducida y deja el texto en inglés: si sale `en` en un vídeo español, mira
-  `ytpipe languages <url>` y repite la descarga con `--lang es` en una carpeta temporal, y sustituye
-  `transcript.json` y el `.txt` de la carpeta recién creada. El `transcript.json` de una ingesta
-  anterior no se toca nunca.
+- **Comprueba `source.language_code` antes de guardar.** Para vídeos en español, descarga
+  primero en una carpeta temporal con `--lang es`. Si sale otro idioma, consulta
+  `ytpipe languages <url>`. Mueve la carpeta completa a la ruta de la fuente únicamente cuando
+  la pista sea la correcta y el destino esté libre. Si no hay pista en español, anótalo y salta la pieza.
 - Webinars: `--out finance/videos/myinvestor-webinars` y la skill `ingest-webinars`.
 - Clasifica `ai` o `finance` por el tema del vídeo; no preguntes.
 
@@ -91,22 +93,18 @@ Reglas:
 
 ## Paso 6: Encaje en la cartera
 
-Lee `finance/portfolio/cartera-myinvestor/cartera-actual.md` (inventario de los 18 fondos, sin reglas) y
-`finance/portfolio/cartera-myinvestor-propuesta/propuesta-actual.md` (§4, §5, §8, §10). Para cada candidato escribe:
+Lee `finance/portfolio/cartera-myinvestor/cartera-actual.md`. Para cada candidato escribe:
 
-| Candidato | ISIN | Clase de activo | Solape con la cartera | Coste (TER + entrada/salida) | Encaje | Qué habría que quitar |
-| --- | --- | --- | --- | --- | --- | --- |
+| Candidato | ISIN | Clase de activo | Solape con la cartera | Coste (TER + entrada/salida) | Encaje |
+| --- | --- | --- | --- | --- | --- |
 
-- **Solape**: compara geografía y sector con los fondos que ya tiene (Rock + 8 manuales).
+- **Solape**: compara geografía y sector con las posiciones que recoge la foto.
 - **Encaje**: di si cubre un hueco real (geografía, factor, duración) o si duplica.
-- **Qué habría que quitar**: si no cabe sin vender algo, dilo. Un candidato que exige vender es una
-  decisión, no una mejora gratis.
-- No hay termómetro ni puntuación de señales: el % de RV es un criterio del dueño. Si un hecho de la semana
-  toca el criterio escrito de una cartera (§2 o fichero de talla), dilo con su fuente; si no, escribe que
-  ninguna cartera se toca esta semana.
+- Si un hecho de la semana afecta a una posición de la foto, indica la posición y la fuente.
+  La revisión de la estrategia y del % de RV queda en local.
 
-Prohibido: `recomienda` sobre un vehículo, cualquier cifra de rentabilidad futura y modificar la
-propuesta. El informe es análisis, no asesoramiento.
+Describe el encaje con los datos disponibles. Evita recomendar compras o ventas y dar cifras de
+rentabilidad futura.
 
 ## Paso 7: Escribe el informe
 
@@ -125,11 +123,11 @@ status: final
 
 Secciones, en este orden:
 
-1. **Qué se ha ingerido** — tabla: fecha, fuente, título, minuto de la idea principal.
+1. **Qué se ha ingerido** — tabla: fecha, fuente, título, minuto de la idea principal. Indica si falló una fuente.
 2. **Lo importante de la semana** — 5-8 viñetas. Solo lo que cambia una decisión, con hablante y minuto.
 3. **Fondos y acciones mencionados** — tabla agregada con ISIN, comisiones de suscripción y reembolso, postura.
 4. **Candidatos para la cartera** — la tabla del Paso 6 y una frase de veredicto por candidato.
-5. **Estado de las carteras** — si algún hecho de la semana toca el criterio de una cartera; si no, «sin cambios».
+5. **Cartera de referencia** — hechos que afectan a posiciones de la foto, si los hay.
 6. **Pendiente de verificar en local** — lo que el cloud no puede comprobar (catálogo MyInvestor, comisión de plataforma).
 
 ## Paso 8: Cierra y sube
@@ -153,9 +151,9 @@ python3 tools/verify.py --git
 Formato del resumen:
 
 ```text
-Semana <fecha>: N piezas ingeridas (X canal, Y webinars), 0 fallos.
+Semana <fecha>: N piezas ingeridas (X canal, Y webinars), <fallos si los hay>.
 Lo importante: <una frase>.
 Candidatos: <nombres con ISIN o "ninguno">.
-Cartera: <"sin cambios" o la señal que cruzó>.
+Cartera: <hecho que afecte a una posición de la foto, o "sin novedades">.
 Commit: <hash>.
 ```

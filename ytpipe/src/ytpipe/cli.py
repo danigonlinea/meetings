@@ -41,7 +41,7 @@ def build_parser() -> argparse.ArgumentParser:
     fetch.add_argument("--out", help="The parent folder. Default: the project root.")
     fetch.add_argument("--lang", action="append", default=[], help="A language code. Repeat the option for more languages.")
     fetch.add_argument("--chunk-chars", type=int, default=DEFAULT_CHUNK_CHARS, help="The target size of each chunk.")
-    fetch.add_argument("--force", action="store_true", help="Overwrite the folder if it exists.")
+    fetch.add_argument("--force", action="store_true", help="Reuse an existing folder without a transcript.")
     fetch.add_argument("--open", dest="open_folder", action="store_true", default=platform.system() == "Darwin", help="Open the folder at the end.")
     fetch.add_argument("--no-open", dest="open_folder", action="store_false", help="Do not open the folder.")
     fetch.add_argument("--dry-run", action="store_true", help="Print the plan and write nothing.")
@@ -105,13 +105,15 @@ def run_fetch(args: argparse.Namespace) -> int:
         print("dry run: nothing was written")
         return 0
 
-    if folder.exists() and not args.force:
-        print(f"error: the folder already exists: {folder}", file=sys.stderr)
-        print("use --force to overwrite it")
+    json_path = folder / TRANSCRIPT_JSON
+    if json_path.exists() or any(folder.glob("invest-*.txt")):
+        print(f"error: the folder already contains a transcript: {folder}", file=sys.stderr)
         return 1
 
-    if args.force:
-        _remove_stale_summary(folder)
+    if folder.exists() and not args.force:
+        print(f"error: the folder already exists: {folder}", file=sys.stderr)
+        print("use --force to reuse a folder without a transcript")
+        return 1
 
     topic_slug = slug if args.slug else _topic_slug(title, channel_slug)
 
@@ -121,8 +123,7 @@ def run_fetch(args: argparse.Namespace) -> int:
     text = cues_to_text(tagged, CUE_SEPARATOR)
     chunks = chunk_cues(tagged, text, args.chunk_chars, CUE_SEPARATOR)
 
-    folder.mkdir(parents=True, exist_ok=True)
-    json_path = folder / TRANSCRIPT_JSON
+    folder.mkdir(parents=True, exist_ok=args.force)
     document = build_document(
         transcript_metadata,
         tagged,
@@ -138,6 +139,9 @@ def run_fetch(args: argparse.Namespace) -> int:
 
     txt_path = folder / naming.transcript_filename(channel_slug, topic_slug)
     _write_text(txt_path, text)
+
+    if args.force:
+        _remove_stale_summary(folder)
 
     language = document["source"]["language_code"] or ", ".join(args.lang) or "default list"
     print_result(folder, txt_path.stat().st_size, json_path.stat().st_size, len(tagged), len(chunks), count_words(text), language, subtitle_format)
@@ -201,7 +205,7 @@ def _folder_slug(supplied: str | None, title: str) -> str:
 
 
 def _remove_stale_summary(folder: Path) -> None:
-    """Delete the summary of a transcript that `--force` is about to replace.
+    """Delete a stale summary after writing the first transcript in a reused folder.
 
     A missing file is not an error. The folder itself stays.
     """

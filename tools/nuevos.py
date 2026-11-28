@@ -32,6 +32,7 @@ import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import date, timedelta
+from http.client import HTTPException
 from pathlib import Path
 
 import aie_talks
@@ -48,11 +49,8 @@ def feed(channel_id: str) -> list[dict]:
     """Entradas del RSS del canal: fecha, id y título. Sin API key."""
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     request = urllib.request.Request(url, headers={"User-Agent": "investing-meetings"})
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            root = ET.fromstring(response.read())
-    except Exception as error:  # red, XML roto o canal inexistente
-        sys.exit(f"no pude leer el RSS de {channel_id}: {error}")
+    with urllib.request.urlopen(request, timeout=30) as response:
+        root = ET.fromstring(response.read())
     entries = []
     for entry in root.findall("a:entry", NS):
         published = entry.find("a:published", NS)
@@ -94,7 +92,8 @@ def pending_webinars() -> dict[str, dict]:
         check=False,
     )
     if result.returncode != 0:
-        return {}
+        detail = result.stderr.strip().splitlines() or [f"código {result.returncode}"]
+        raise RuntimeError(f"catálogo de webinars: {detail[-1]}")
     out = {}
     for line in result.stdout.splitlines():
         parts = line.split("\t")
@@ -129,19 +128,30 @@ def main() -> int:
     channel_cut = last_date(done, CANAL["carpeta"])
     webinar_cut = last_date(done, WEBINARS["carpeta"])
 
-    channel_new = [
-        item
-        for item in feed(CANAL["id"])
-        if item["id"] not in done and item["fecha"] >= (channel_cut or date.today() - window)
-    ]
+    failures = {}
+    channel_new = []
+    try:
+        channel_new = [
+            item
+            for item in feed(CANAL["id"])
+            if item["id"] not in done and item["fecha"] >= (channel_cut or date.today() - window)
+        ]
+    except (OSError, HTTPException, ValueError, ET.ParseError) as error:
+        failures[CANAL["nombre"]] = str(error)
 
-    catalog = pending_webinars()
-    webinar_cut_effective = webinar_cut or date.today() - window
-    webinars_new = [
-        {**item, "post": catalog[item["id"]]["post"]}
-        for item in feed(WEBINARS["id"])
-        if item["id"] in catalog and item["fecha"] >= webinar_cut_effective
-    ]
+    webinars_new = []
+    backlog_webinars = None
+    try:
+        catalog = pending_webinars()
+        backlog_webinars = len(catalog)
+        webinar_cut_effective = webinar_cut or date.today() - window
+        webinars_new = [
+            {**item, "post": catalog[item["id"]]["post"]}
+            for item in feed(WEBINARS["id"])
+            if item["id"] in catalog and item["fecha"] >= webinar_cut_effective
+        ]
+    except (OSError, HTTPException, RuntimeError, ValueError, ET.ParseError) as error:
+        failures[WEBINARS["nombre"]] = str(error)
 
     aie = pending_aie()
 
@@ -158,7 +168,8 @@ def main() -> int:
                     "webinars_nuevos": [
                         {**item, "url": f"https://www.youtube.com/watch?v={item['id']}"} for item in webinars_new
                     ],
-                    "backlog_webinars": len(catalog),
+                    "backlog_webinars": backlog_webinars,
+                    "errores": failures,
                     "aie_pendientes": len(aie),
                     "aie_recientes": [
                         {**item, "url": f"https://www.youtube.com/watch?v={item['id']}"} for item in aie[:3]
@@ -171,12 +182,18 @@ def main() -> int:
         )
         return 0
 
-    print(f"{CANAL['nombre']}: {len(channel_new)} nuevos desde {channel_cut or 'sin ingesta previa'}")
+    if CANAL["nombre"] in failures:
+        print(f"{CANAL['nombre']}: consulta fallida ({failures[CANAL['nombre']]})")
+    else:
+        print(f"{CANAL['nombre']}: {len(channel_new)} nuevos desde {channel_cut or 'sin ingesta previa'}")
     for item in channel_new:
         print(f"  {item['fecha']}  {item['id']}  {item['titulo'][:70]}")
         print(f"              https://www.youtube.com/watch?v={item['id']}")
 
-    print(f"\n{WEBINARS['nombre']}: {len(webinars_new)} nuevos desde {webinar_cut or 'sin ingesta previa'}")
+    if WEBINARS["nombre"] in failures:
+        print(f"\n{WEBINARS['nombre']}: consulta fallida ({failures[WEBINARS['nombre']]})")
+    else:
+        print(f"\n{WEBINARS['nombre']}: {len(webinars_new)} nuevos desde {webinar_cut or 'sin ingesta previa'}")
     for item in webinars_new:
         print(f"  {item['fecha']}  {item['id']}  {item['titulo'][:70]}")
         print(f"              https://www.youtube.com/watch?v={item['id']}")
@@ -189,8 +206,9 @@ def main() -> int:
         print(f"  y {len(aie) - 3} más: ai/ai-engineer/catalogo.md")
 
     if args.backlog:
-        print(f"\nBacklog antiguo (no es nuevo, no se ingiere solo): {len(catalog)} webinars")
-    if not channel_new and not webinars_new and not aie:
+        backlog = "no verificado" if backlog_webinars is None else f"{backlog_webinars} webinars"
+        print(f"\nBacklog antiguo (no es nuevo, no se ingiere solo): {backlog}")
+    if not channel_new and not webinars_new and not aie and not failures:
         print("\nSin novedades: nada publicado después de la última ingesta.")
     return 0
 

@@ -159,6 +159,22 @@ def test_force_removes_the_stale_summary(tmp_path, monkeypatch) -> None:
     assert (folder / "transcript.json").is_file()
 
 
+@pytest.mark.parametrize("original", ["transcript.json", "invest-la-pizarra-burbujas-y-capex.txt"])
+def test_force_preserves_an_existing_transcript(tmp_path, monkeypatch, capsys, original) -> None:
+    monkeypatch.setattr(cli, "fetch_metadata", lambda url: dict(METADATA))
+    folder = tmp_path / "2026-01-01-burbujas-y-capex"
+    folder.mkdir()
+    (folder / original).write_text("original", encoding="utf-8")
+    (folder / "summary.md").write_text("resumen", encoding="utf-8")
+
+    code = cli.main(["fetch", WATCH, "--out", str(tmp_path), "--force", "--no-open"])
+
+    assert code == 1
+    assert "already contains a transcript" in capsys.readouterr().err
+    assert (folder / original).read_text(encoding="utf-8") == "original"
+    assert (folder / "summary.md").read_text(encoding="utf-8") == "resumen"
+
+
 def test_fetch_writes_both_files(tmp_path, monkeypatch) -> None:
     monkeypatch.setattr(cli, "fetch_metadata", lambda url: dict(METADATA))
     monkeypatch.setattr(cli, "fetch_transcript", lambda url, languages: fake_transcript())

@@ -65,22 +65,14 @@ Aplica estas reglas.
 
 ## Paso 3: Salta los vídeos ya ingeridos
 
-Lee el campo `source.video_id` de cada `<categoria>/*/*/transcript.json` del repositorio antes de cualquier descarga.
+Lee el campo `source.video_id` de las transcripciones de `finance/videos/` y `ai/` antes de cualquier descarga.
 
 - El agente comprueba el identificador de cada vídeo nuevo contra la lista de identificadores ya presentes.
 - El agente salta el vídeo cuya identificación ya está presente.
 - El agente reporta al usuario cada vídeo que salta.
 
-Ejemplo con `python3 -c`:
-
 ```bash
-python3 -c "import glob,json; [print(p, json.load(open(p))['source']['video_id']) for p in glob.glob('*/*/*/transcript.json')]"
-```
-
-Ejemplo con `grep`:
-
-```bash
-grep -o '"video_id": "[^"]*"' */*/*/transcript.json
+rg --glob transcript.json '"video_id":' finance/videos ai
 ```
 
 ## Paso 4: Descarga y transcribe
@@ -88,12 +80,12 @@ grep -o '"video_id": "[^"]*"' */*/*/transcript.json
 Entra en la raíz del repositorio y ejecuta este comando, un vídeo cada vez.
 
 ```bash
-uv run --project ytpipe ytpipe fetch <url> --out <categoria>/<fuente> --no-open
+uv run --project ytpipe ytpipe fetch <url> --out <carpeta-de-la-fuente> --no-open
 ```
 
 Aplica estas reglas.
 
-- Cambia `<categoria>/<fuente>` por la combinación real: `finance/videos/la-pizarra-de-andres`, `finance/videos/el-arte-de-invertir` o `ai/dev-docs-explained`.
+- Usa la carpeta de la fuente, por ejemplo `finance/videos/la-pizarra-de-andres`, `finance/videos/el-arte-de-invertir` o `ai/dev-docs-explained`.
 - Pasa siempre `--out` con la subcarpeta de la fuente. Sin esa opción, `ytpipe` escribe la carpeta en la raíz del repositorio, fuera de `finance/` y `ai/`.
 - No ejecutes las descargas en paralelo. YouTube responde con HTTP 429.
 - `ytpipe` ya reintenta después de un límite de peticiones.

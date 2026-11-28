@@ -306,7 +306,6 @@ Lee los otros archivos `summary.md` antes de escribir el resumen nuevo.
 - El agente puede marcar dónde discrepan dos hablantes.
 - Escribe solo dentro de la carpeta nueva.
 - No toques ninguna otra carpeta de reunión.
-- El agente informa al usuario si cambió el transcript. La transcripción automática suele traer errores de reconocimiento.
 - El agente nunca borra `transcript.json`. Ese archivo es la fuente de la verdad para el resumen.
 - El agente nunca corrige el JSON. Si el JSON tiene un error, el agente lo dice al usuario y deja el archivo intacto.
 
@@ -324,6 +323,5 @@ Lee los otros archivos `summary.md` antes de escribir el resumen nuevo.
 
 Usa el texto pegado tal cual cuando el texto ya está normalizado.
 
-Cuando el usuario pida corregir un error de reconocimiento, cambia el transcript.
-
-Registra el cambio en la sección `## Advertencias sobre la transcripción` del resumen.
+Si el usuario pide corregir un error de reconocimiento, conserva la transcripción original
+y anota la corrección en `## Advertencias sobre la transcripción` de `summary.md`.

@@ -12,8 +12,8 @@ cartera viva, añade `finance/portfolio/README.md` como cuarto paso; si es un di
 | Pregunta del usuario | Ruta | Empezar por |
 | --- | --- | --- |
 | Su cartera, rebalanceo, traspasos, "¿qué hago con mi dinero?" | `finance/portfolio/` | El `README.md` de la carpeta y luego `cartera-actual.md` → `propuesta-actual.md` |
-| Cartera de MyInvestor (manual + Rock) | `finance/portfolio/cartera-myinvestor/` | `propuesta-actual.md` |
-| Cartera de Renta 4 Banco | `finance/portfolio/cartera-renta4/` | `propuesta-actual.md` |
+| Cartera de MyInvestor (manual + Rock) | `finance/portfolio/cartera-myinvestor/` | `cartera-actual.md` |
+| Cartera de Renta 4 Banco | `finance/portfolio/cartera-renta4/` | `cartera-actual.md` para la foto, `../cartera-renta4-propuesta-deepseek/propuesta-actual.md` para la propuesta elegida |
 | La propuesta final de su cartera de MyInvestor (Opción A), "¿ejecuto lo que decidí?" | `finance/portfolio/cartera-myinvestor-propuesta/` | `propuesta-actual.md` |
 | "¿Y las otras 25 propuestas / por qué se descartó esta?" | `finance/laboratorio-carteras/` | Su `README.md` → carpeta del diseño → `auditoria-ranking.md` si es del contenedor final |
 | Un fondo, ETF o acción que tiene o le han recomendado | `finance/portfolio/` | Su ficha en el `cartera-actual.md` de la carpeta que lo tenga, luego los `summary.md` que lo nombran |
@@ -24,7 +24,7 @@ cartera viva, añade `finance/portfolio/README.md` como cuarto paso; si es un di
 | Charlas de AI Engineer (NYC, Code Summit), agentes de código, evals | `ai/ai-engineer/` | `catalogo.md` → carpeta de la charla → `summary.md` |
 | Nombre de una persona, canal o entidad | `reference/glossary.md` | Tabla de ponentes |
 | Terminología (IA o finanzas) | `reference/glossary-technical.md` | — |
-| Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | `propuesta-actual.md` §2 y §11 → skill `revision-cartera` |
+| Revisión trimestral de la cartera, "¿toca cambiar el % de RV?" | `finance/portfolio/` | Skill `revision-cartera` → propuesta vigente de la cuenta |
 
 Las dos carteras reales (MyInvestor, con la foto en una carpeta y su propuesta final en otra, y Renta 4)
 son independientes entre sí, y los 25 diseños del laboratorio no son carteras reales: no se suman, ni se
@@ -33,14 +33,15 @@ comparan, ni se rebalancea una contra otra.
 Si la pregunta cruza `finance/` y `ai/` (p. ej. "¿la burbuja de la IA afecta a mi cartera?"),
 responde desde `finance/` y usa `ai/` solo como contexto.
 
-Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/` con `transcript.json` (fuente de
-verdad, nunca se reescribe), la transcripción `.txt` y el `summary.md` que se entrega.
+Cada vídeo o reunión es una carpeta `YYYY-MM-DD-<slug>/`. Conserva intactos `transcript.json`
+y la transcripción `.txt`. En `summary.md` selecciona lo relevante y anota errores de reconocimiento.
+Una transcripción pegada en el chat puede dejar solo `summary.md`.
 Nombres de carpeta, frontmatter YAML y comandos: `README.md`.
 
 ## 2. Reglas que no se negocian
 
-- **`git pull --rebase` antes de tocar nada.** El agente cloud commitea en `main`; sin pull, el
-  trabajo local choca. Es el paso 0, no una recomendación.
+- **`git pull --rebase` antes de editar.** El agente cloud commitea en `main`. Para revisiones
+  de solo lectura, sigue la comprobación de la sección 5.
 - **Ninguna cifra sin respaldo** en la transcripción. Sin dato del hablante, el criterio va sin número.
 - **Ninguna atribución inventada**: sin etiquetas de hablante, marca `inferida` o `no atribuible con certeza`. Un nombre solo entra si es el presentador del canal, un invitado nombrado o un fondo/gestora nombrados literalmente (ver la regla de atribución de `reference/glossary.md`).
 - **Una mención no es una recomendación**: `recomienda` exige cita literal; si el hablante vende el producto, `(lo comercializa)` en la misma fila.
@@ -64,21 +65,23 @@ Nombres de carpeta, frontmatter YAML y comandos: `README.md`.
 - `cartera-andres` — actualiza, consulta y analiza la cartera personal de Andrés
   (`finance/laboratorio-carteras/cartera-de-andres/`) al ingerir un vídeo de resultados mensuales.
 
-Las tres primeras escriben en `<categoria>/<fuente>/YYYY-MM-DD-<slug>/` y reutilizan `ingest-meeting`.
+Las skills de ingesta guardan las reuniones en `finance/videos/<fuente>/YYYY-MM-DD-<slug>/`
+o `ai/<fuente>/YYYY-MM-DD-<slug>/` y usan `ingest-meeting` para resumirlas.
 
 ## 4. Más detalle
 
 | Archivo | Contiene |
 | --- | --- |
 | `README.md` | Mapa completo, convenciones de nombres, frontmatter, comandos |
-| `INDEX.md` | Todos los artefactos, con ruta, tipo, categoría, fecha, título y tags |
+| `INDEX.md` | Artefactos indexados, con ruta, tipo, categoría, fecha, título y tags |
+| `finance/fondos-myinvestor/README.md` | Catálogo de fichas de fondos, fuera de `INDEX.md` |
 | `finance/portfolio/README.md` | Las dos carteras reales y sus reglas; cada subcarpeta tiene su propio `README.md` |
 | `finance/laboratorio-carteras/README.md` | Las 25 propuestas a estudio y la cartera de un tercero; ninguna se ejecuta ni se consolida |
 | `ytpipe/README.md` | Formato de `transcript.json` y opciones del CLI |
 
 ## 5. Definición de hecho
 
-Ningún trabajo está terminado hasta que estas cuatro cosas pasan, en este orden:
+Para cambios en archivos versionados, ejecuta en este orden:
 
 ```bash
 git pull --rebase                # 0. sincroniza con el cloud antes de nada
@@ -86,12 +89,16 @@ python3 tools/build_index.py     # 1. índice regenerado
 python3 tools/verify.py          # 2. contenido válido (carpetas, resúmenes, frontmatter, catálogo)
 git add -A && git commit -m "…"  # 3. commit en imperativo
 git push                         # 4. subido
-python3 tools/verify.py --git    # árbol limpio y nada sin subir
+python3 tools/verify.py --git    # árbol limpio y publicación verificable
 ```
 
 - Si `verify.py` da error, **no se sube**: se arregla o se deja escrito qué falta.
 - Los avisos (⚠️) no bloquean: un `summary.md` sin `transcript.json` es una transcripción pegada.
 - `INDEX.md` y `catalogo.md` son generados: nunca se resuelven a mano, se regeneran.
+
+Para una revisión de solo lectura, compara `git rev-parse HEAD` con
+`git ls-remote origin refs/heads/main` y ejecuta `GIT_OPTIONAL_LOCKS=0 python3 -B tools/verify.py`.
+Reporta si las revisiones difieren o si falla alguna comprobación.
 
 ## 6. Reparto local / agente cloud
 
@@ -130,8 +137,10 @@ informa del total pendiente y de las tres más recientes, pero la pasada semanal
 salvo encargo del dueño; el goteo semanal sigue siendo de finanzas. Las 131 charlas no se descargan
 de golpe.
 
-Límites: nada de cartera desde el cloud; nada de merge a `main` en repos de código; una pieza sin
-subtítulos se salta y se reporta, no se resume de memoria.
+El informe semanal usa como única referencia de cartera
+`finance/portfolio/cartera-myinvestor/cartera-actual.md`, en solo lectura. La revisión de cartera,
+los cambios y las órdenes quedan en local. El merge a `main` en repos de código queda en local.
+Una pieza sin subtítulos se salta y se reporta, no se resume de memoria.
 
 ### Entrega del informe
 
@@ -142,6 +151,5 @@ Para recibirlo como mensaje hay que conectar Telegram (o Slack) en esa instancia
 
 ## 7. Cuándo una señal de cartera obliga a revisar
 
-La decisión sobre el % de RV es siempre del dueño. Los umbrales y el criterio histórico están en
-`propuesta-actual.md` §2 y §11, y cada cartera se revisa contra sus propios criterios con la skill
-`revision-cartera`.
+La decisión sobre el % de RV es siempre del dueño. La skill `revision-cartera` enlaza
+las reglas de revisión de la propuesta vigente de cada cuenta.

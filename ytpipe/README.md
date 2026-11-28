@@ -193,12 +193,13 @@ Opciones:
 | `--out DIR` | La raíz del proyecto | La carpeta padre donde el script escribe. |
 | `--lang CODE` | La lista de idiomas interna | Un código de idioma. Repite la opción para más códigos. |
 | `--chunk-chars N` | `1200` | El tamaño aproximado de cada trozo. |
-| `--force` | Desactivada | Sobrescribe la carpeta si ya existe. |
+| `--force` | Desactivada | Reutiliza una carpeta existente que aún no tiene transcripción. |
 | `--open` | Activada en macOS | Abre la carpeta al final con el comando `open`. |
 | `--no-open` | | No abre la carpeta. |
 | `--dry-run` | Desactivada | Muestra el plan y los metadatos. No escribe nada. |
 
-El script para si la carpeta ya existe y `--force` está ausente.
+El script protege las transcripciones guardadas, también con `--force`. Si reutiliza una carpeta
+con un resumen anterior, retira ese resumen tras guardar la nueva transcripción.
 
 El script muestra un bloque con el plan antes de escribir. Después muestra un bloque con el resultado.
 

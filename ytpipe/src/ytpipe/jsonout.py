@@ -87,7 +87,7 @@ def build_document(
 def write_json(document: dict, path: str) -> None:
     """Write the document as UTF-8 JSON with two spaces of indent."""
     payload = json.dumps(document, ensure_ascii=False, indent=2)
-    with open(path, "w", encoding="utf-8") as handle:
+    with open(path, "x", encoding="utf-8") as handle:
         handle.write(f"{payload}\n")
 
 
